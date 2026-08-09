@@ -1,0 +1,1631 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Crypto Media — Berita, Data, dan Regulasi Aset Kripto Indonesia</title>
+<meta name="description" content="Portal berita aset kripto Indonesia: harga real-time, analisis pasar, pemantauan regulasi OJK, tokenisasi aset, dan edukasi investor.">
+<meta name="theme-color" content="#071B2F">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+/* =========================================================================
+   DAILY CRYPTO MEDIA — SISTEM DESAIN
+   -------------------------------------------------------------------------
+   Arah visual : "terminal dagang di dalam koran"
+                 Data hidup disajikan dalam pita navy bergaya terminal,
+                 konten redaksi disajikan dalam grid editorial bergaris rambut.
+   Tipografi   : Newsreader (judul, serif editorial)
+                 Plus Jakarta Sans (antarmuka & isi — huruf identitas Jakarta)
+                 IBM Plex Mono (angka, harga, stempel waktu)
+   ========================================================================= */
+
+/* ---------- 1. TOKEN ---------- */
+:root{
+  /* Warna inti — biru institusional */
+  --ink:        #071B2F;   /* navy tinta: pita data, footer            */
+  --ink-2:      #0E2C4A;   /* navy terangkat: kartu di atas navy       */
+  --ink-3:      #163D63;   /* garis pemisah di area navy               */
+  --signal:     #1466D8;   /* biru aksi utama                          */
+  --signal-dk:  #0F4EA8;   /* biru aksi ditekan                        */
+  --signal-br:  #3B9CFF;   /* biru terang: tautan di navy, indikator   */
+  --paper:      #F5F8FC;   /* kertas dingin berpigmen biru             */
+  --surface:    #FFFFFF;
+  --rule:       #D6E2F0;   /* garis rambut biru-abu                    */
+  --rule-soft:  #E8EFF7;
+
+  /* Teks */
+  --text:       #0B1F33;
+  --text-2:     #4A6280;
+  --text-3:     #7B90A8;
+  --on-ink:     #E9F1FA;
+  --on-ink-2:   #9DB6D0;
+
+  /* Pasar & status */
+  --up:         #0B8F5D;
+  --up-bg:      #E5F5EE;
+  --down:       #D03A3A;
+  --down-bg:    #FCEAEA;
+  --amber:      #E8A33D;   /* satu-satunya aksen hangat: regulasi & live */
+  --amber-bg:   #FDF3E2;
+
+  /* Bentuk & ritme */
+  --r-sm: 3px;
+  --r:    5px;
+  --r-lg: 10px;
+  --gutter: 22px;
+  --maxw: 1280px;
+
+  /* Tipografi */
+  --serif: "Newsreader", Georgia, serif;
+  --sans:  "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --mono:  "IBM Plex Mono", ui-monospace, monospace;
+
+  --shadow-sm: 0 1px 2px rgba(7,27,47,.06);
+  --shadow:    0 6px 22px -10px rgba(7,27,47,.22);
+}
+
+/* ---------- 2. DASAR ---------- */
+*,*::before,*::after{ box-sizing:border-box; }
+html{ -webkit-text-size-adjust:100%; scroll-behavior:smooth; }
+body{
+  margin:0; background:var(--paper); color:var(--text);
+  font-family:var(--sans); font-size:16px; line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+img{ max-width:100%; display:block; }
+a{ color:inherit; text-decoration:none; }
+button{ font:inherit; color:inherit; cursor:pointer; }
+:focus-visible{ outline:2.5px solid var(--signal); outline-offset:2px; border-radius:2px; }
+
+.wrap{ width:100%; max-width:var(--maxw); margin-inline:auto; padding-inline:var(--gutter); }
+.mono{ font-family:var(--mono); font-variant-numeric:tabular-nums; }
+.sr-only{
+  position:absolute; width:1px; height:1px; padding:0; margin:-1px;
+  overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; border:0;
+}
+
+/* Label kategori — huruf kecil berspasi, dipakai konsisten di seluruh situs */
+.eyebrow{
+  font-family:var(--sans); font-size:10.5px; font-weight:800;
+  letter-spacing:.13em; text-transform:uppercase; color:var(--signal);
+}
+.eyebrow--amber{ color:#A8701C; }
+.eyebrow--onink{ color:var(--signal-br); }
+
+/* ---------- 3. PITA DATA (elemen tanda tangan) ---------- */
+.rail{ background:var(--ink); color:var(--on-ink); }
+
+.rail__top{
+  display:flex; align-items:stretch; gap:0;
+  border-bottom:1px solid var(--ink-3); height:38px;
+}
+.rail__badge{
+  display:flex; align-items:center; gap:7px; flex:none;
+  padding-inline:14px; background:var(--ink-2);
+  font-family:var(--mono); font-size:11px; font-weight:600;
+  letter-spacing:.08em; text-transform:uppercase; color:var(--on-ink);
+  border-right:1px solid var(--ink-3);
+}
+.pulse{
+  width:6px; height:6px; border-radius:50%; background:var(--amber);
+  box-shadow:0 0 0 0 rgba(232,163,61,.7); animation:pulse 2.2s infinite;
+}
+@keyframes pulse{
+  70%{ box-shadow:0 0 0 7px rgba(232,163,61,0); }
+  100%{ box-shadow:0 0 0 0 rgba(232,163,61,0); }
+}
+.rail__viewport{ overflow:hidden; flex:1; position:relative; }
+.rail__track{
+  display:flex; align-items:center; height:38px; gap:0;
+  width:max-content; animation:slide 46s linear infinite;
+}
+.rail__viewport:hover .rail__track{ animation-play-state:paused; }
+@keyframes slide{ to{ transform:translateX(-50%); } }
+
+.tick{
+  display:inline-flex; align-items:baseline; gap:7px;
+  padding-inline:16px; border-right:1px solid var(--ink-3);
+  font-family:var(--mono); font-size:12px; white-space:nowrap;
+}
+.tick__sym{ font-weight:600; color:var(--on-ink); letter-spacing:.03em; }
+.tick__px{ color:var(--on-ink-2); }
+.tick__ch{ font-weight:500; }
+.up{ color:#4FD69C; } .down{ color:#FF7A7A; }
+.rail__clock{
+  flex:none; display:flex; align-items:center; padding-inline:14px;
+  border-left:1px solid var(--ink-3); background:var(--ink-2);
+  font-family:var(--mono); font-size:11px; color:var(--on-ink-2);
+}
+
+/* ---------- 4. KEPALA SITUS ---------- */
+.masthead{
+  position:sticky; top:0; z-index:60; background:var(--surface);
+  border-bottom:1px solid var(--rule);
+}
+.masthead__bar{
+  display:flex; align-items:center; gap:26px; height:66px;
+}
+.brand{ display:flex; align-items:center; gap:10px; flex:none; }
+.brand__mark{
+  width:32px; height:32px; flex:none; border-radius:var(--r-sm);
+  background:var(--ink); display:grid; place-items:center;
+}
+.brand__mark svg{ width:18px; height:18px; }
+.brand__name{
+  font-family:var(--serif); font-size:21px; font-weight:700;
+  letter-spacing:-.025em; line-height:1; color:var(--ink); white-space:nowrap;
+}
+.brand__name b{ font-weight:400; color:var(--signal); font-style:italic; }
+.brand__tag{
+  display:block; font-family:var(--sans); font-size:8.5px; font-weight:700;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--text-3); margin-top:3px;
+}
+
+/* Navigasi utama + menu tarik-turun */
+.nav{ display:flex; align-items:center; gap:2px; flex:1; }
+.nav__item{ position:relative; }
+.nav__link{
+  display:flex; align-items:center; gap:5px; padding:10px 11px;
+  border:0; background:none; border-radius:var(--r);
+  font-size:14px; font-weight:600; color:var(--text); white-space:nowrap;
+  transition:background .16s, color .16s;
+}
+.nav__link:hover, .nav__item[data-open="true"] .nav__link{
+  background:var(--paper); color:var(--signal);
+}
+.nav__link svg{ width:9px; height:9px; opacity:.5; transition:transform .18s; }
+.nav__item[data-open="true"] .nav__link svg{ transform:rotate(180deg); }
+
+.drop{
+  position:absolute; top:calc(100% + 6px); left:0; min-width:242px;
+  background:var(--surface); border:1px solid var(--rule);
+  border-radius:var(--r-lg); box-shadow:var(--shadow);
+  padding:8px; opacity:0; visibility:hidden; transform:translateY(-5px);
+  transition:opacity .16s, transform .16s, visibility .16s;
+}
+.nav__item[data-open="true"] .drop{ opacity:1; visibility:visible; transform:translateY(0); }
+.drop__head{
+  padding:7px 10px 8px; margin-bottom:4px;
+  border-bottom:1px solid var(--rule-soft);
+}
+.drop__link{
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+  padding:8px 10px; border-radius:var(--r); font-size:13.5px; font-weight:500;
+  color:var(--text-2); transition:background .14s, color .14s;
+}
+.drop__link:hover{ background:var(--paper); color:var(--signal); }
+.drop__link span{ font-family:var(--mono); font-size:10.5px; color:var(--text-3); }
+
+.masthead__tools{ display:flex; align-items:center; gap:9px; flex:none; }
+.search{ position:relative; }
+.search input{
+  width:186px; height:38px; padding:0 12px 0 34px;
+  border:1px solid var(--rule); border-radius:var(--r);
+  background:var(--paper); font-size:13.5px; font-family:var(--sans); color:var(--text);
+  transition:width .2s, border-color .16s, background .16s;
+}
+.search input:focus{ width:236px; background:var(--surface); border-color:var(--signal); outline:none; }
+.search input::placeholder{ color:var(--text-3); }
+.search svg{
+  position:absolute; left:11px; top:50%; transform:translateY(-50%);
+  width:14px; height:14px; color:var(--text-3); pointer-events:none;
+}
+.search__results{
+  position:absolute; top:46px; right:0; width:340px; max-height:330px; overflow-y:auto;
+  background:var(--surface); border:1px solid var(--rule); border-radius:var(--r-lg);
+  box-shadow:var(--shadow); padding:6px; display:none; z-index:70;
+}
+.search__results[data-show="true"]{ display:block; }
+.search__hit{ display:block; padding:9px 11px; border-radius:var(--r); }
+.search__hit:hover{ background:var(--paper); }
+.search__hit p{ margin:3px 0 0; font-size:13px; font-weight:600; line-height:1.35; }
+.search__empty{ padding:16px; font-size:13px; color:var(--text-2); text-align:center; }
+
+.btn{
+  display:inline-flex; align-items:center; justify-content:center; gap:7px;
+  height:38px; padding-inline:16px; border:1px solid transparent; border-radius:var(--r);
+  font-size:13.5px; font-weight:700; letter-spacing:-.005em; transition:background .16s, border-color .16s;
+}
+.btn--primary{ background:var(--signal); color:#fff; }
+.btn--primary:hover{ background:var(--signal-dk); }
+.btn--ghost{ background:transparent; border-color:var(--rule); color:var(--text); }
+.btn--ghost:hover{ border-color:var(--signal); color:var(--signal); }
+.btn--onink{ background:var(--signal-br); color:var(--ink); }
+.btn--onink:hover{ background:#63B2FF; }
+
+.burger{ display:none; width:38px; height:38px; border:1px solid var(--rule); border-radius:var(--r); background:var(--surface); }
+.burger svg{ width:17px; height:17px; margin-inline:auto; }
+
+/* Panel navigasi seluler */
+.mnav{
+  display:none; border-top:1px solid var(--rule); background:var(--surface);
+  max-height:calc(100vh - 104px); overflow-y:auto; padding:10px var(--gutter) 22px;
+}
+.mnav[data-open="true"]{ display:block; }
+.mnav details{ border-bottom:1px solid var(--rule-soft); }
+.mnav summary{
+  list-style:none; cursor:pointer; padding:13px 2px;
+  font-size:15px; font-weight:700; display:flex; justify-content:space-between; align-items:center;
+}
+.mnav summary::-webkit-details-marker{ display:none; }
+.mnav summary::after{ content:"+"; font-family:var(--mono); color:var(--text-3); font-size:17px; }
+.mnav details[open] summary::after{ content:"–"; }
+.mnav__sub{ padding:0 2px 12px; display:grid; gap:1px; }
+.mnav__sub a{ padding:8px 0; font-size:14px; color:var(--text-2); }
+
+/* ---------- 5. STRIP STATUS REGULASI ---------- */
+/* Menyandikan kecemasan harian pembaca kripto Indonesia: status aturan. */
+.regstrip{ background:var(--amber-bg); border-bottom:1px solid #F0DCB8; }
+.regstrip__in{
+  display:flex; align-items:center; gap:14px; min-height:40px;
+  padding-block:8px; flex-wrap:wrap;
+}
+.regstrip__label{
+  font-family:var(--mono); font-size:10.5px; font-weight:600; letter-spacing:.09em;
+  text-transform:uppercase; color:#8A5A10; flex:none;
+}
+.regstrip__items{ display:flex; gap:8px; flex-wrap:wrap; }
+.regchip{
+  display:inline-flex; align-items:center; gap:6px;
+  padding:4px 10px; background:rgba(255,255,255,.72);
+  border:1px solid #F0DCB8; border-radius:99px;
+  font-size:12px; font-weight:600; color:#6B4708;
+}
+.regchip i{ width:5px; height:5px; border-radius:50%; background:var(--amber); font-style:normal; }
+.regchip i[data-state="ok"]{ background:var(--up); }
+.regchip i[data-state="hot"]{ background:var(--down); }
+
+/* ---------- 6. STRUKTUR HALAMAN ---------- */
+.section{ padding-block:44px; }
+.section--tight{ padding-block:32px; }
+.section--ink{ background:var(--ink); color:var(--on-ink); }
+.section--rule{ border-top:1px solid var(--rule); }
+
+.shead{
+  display:flex; align-items:flex-end; justify-content:space-between;
+  gap:18px; padding-bottom:14px; margin-bottom:24px;
+  border-bottom:2px solid var(--ink);
+}
+.section--ink .shead{ border-bottom-color:var(--ink-3); }
+.shead__title{
+  font-family:var(--serif); font-size:27px; font-weight:600;
+  letter-spacing:-.02em; margin:4px 0 0; line-height:1.1;
+}
+.shead__more{
+  font-size:13px; font-weight:700; color:var(--signal);
+  display:inline-flex; align-items:center; gap:5px; white-space:nowrap; flex:none;
+}
+.shead__more:hover{ text-decoration:underline; }
+.section--ink .shead__more{ color:var(--signal-br); }
+
+
+/* Placeholder gambar: motif garis data, bukan kotak kosong */
+.lead__media, .card__media, .slim__th{
+  background-image:
+    repeating-linear-gradient(90deg, rgba(233,241,250,.055) 0 1px, transparent 1px 26px),
+    repeating-linear-gradient(0deg,  rgba(233,241,250,.055) 0 1px, transparent 1px 26px);
+  background-color:var(--ink-2);
+}
+.lead__media::before, .card__media::before{
+  content:""; position:absolute; z-index:1; inset:auto 0 0 0; height:62%;
+  background:
+    linear-gradient(to top, rgba(59,156,255,.20), transparent 82%);
+  clip-path:polygon(0 76%,9% 62%,19% 70%,29% 44%,39% 55%,50% 30%,61% 41%,71% 22%,82% 34%,92% 14%,100% 24%,100% 100%,0 100%);
+}
+.slim__th::before{
+  content:""; position:absolute; z-index:1; inset:auto 0 0 0; height:60%;
+  background:linear-gradient(to top, rgba(59,156,255,.26), transparent 80%);
+  clip-path:polygon(0 70%,20% 48%,40% 60%,60% 28%,80% 44%,100% 18%,100% 100%,0 100%);
+}
+.lead__flag{ z-index:3; }
+
+/* ---------- 7. HERO ---------- */
+.hero{ padding-block:34px 40px; }
+.hero__grid{ display:grid; grid-template-columns:1.62fr 1fr; gap:38px; }
+
+.lead__media{
+  position:relative; aspect-ratio:16/9; border-radius:var(--r-lg);
+  overflow:hidden; background:var(--ink-2); margin-bottom:17px;
+}
+.lead__media::after{
+  content:""; position:absolute; inset:0;
+  background:linear-gradient(160deg, rgba(20,102,216,.30), rgba(7,27,47,.72));
+}
+.lead__flag{
+  position:absolute; z-index:2; top:13px; left:13px;
+  display:inline-flex; align-items:center; gap:6px;
+  padding:5px 10px; border-radius:var(--r-sm);
+  background:var(--amber); color:#2A1A00;
+  font-size:10.5px; font-weight:800; letter-spacing:.1em; text-transform:uppercase;
+}
+.lead__meta{ display:flex; align-items:center; gap:10px; margin-bottom:9px; flex-wrap:wrap; }
+.dot{ width:3px; height:3px; border-radius:50%; background:var(--text-3); flex:none; }
+.stamp{ font-family:var(--mono); font-size:11.5px; color:var(--text-3); }
+.lead__title{
+  font-family:var(--serif); font-size:clamp(28px,3.5vw,43px); font-weight:600;
+  line-height:1.12; letter-spacing:-.022em; margin:0 0 12px;
+}
+.lead__title a:hover{ color:var(--signal); }
+.lead__deck{ font-size:16.5px; line-height:1.62; color:var(--text-2); margin:0 0 14px; max-width:62ch; }
+.byline{ font-size:12.5px; color:var(--text-3); }
+.byline b{ color:var(--text-2); font-weight:600; }
+
+/* Daftar berperingkat — angka dipakai karena urutan memang bermakna */
+.ranked{ display:grid; gap:0; }
+.ranked__row{
+  display:grid; grid-template-columns:30px 1fr; gap:14px;
+  padding:15px 0; border-bottom:1px solid var(--rule);
+}
+.ranked__row:first-child{ padding-top:0; }
+.ranked__row:last-child{ border-bottom:0; }
+.ranked__n{
+  font-family:var(--mono); font-size:13px; font-weight:600;
+  color:var(--signal); padding-top:2px;
+}
+.ranked__t{ font-family:var(--serif); font-size:17.5px; font-weight:500; line-height:1.28; margin:0 0 6px; letter-spacing:-.012em; }
+.ranked__t a:hover{ color:var(--signal); }
+.ranked__m{ display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+
+/* ---------- 8. PASAR (blok terminal) ---------- */
+.mkt__grid{ display:grid; grid-template-columns:1fr 300px; gap:30px; align-items:start; }
+
+.mtable{ width:100%; border-collapse:collapse; }
+.mtable th{
+  text-align:right; padding:0 0 11px; border-bottom:1px solid var(--ink-3);
+  font-family:var(--sans); font-size:10.5px; font-weight:700;
+  letter-spacing:.1em; text-transform:uppercase; color:var(--on-ink-2); white-space:nowrap;
+}
+.mtable th:first-child, .mtable td:first-child{ text-align:left; }
+.mtable th button{
+  border:0; background:none; padding:0; font:inherit; color:inherit;
+  letter-spacing:inherit; text-transform:inherit; display:inline-flex; gap:4px; align-items:center;
+}
+.mtable th button:hover{ color:var(--signal-br); }
+.mtable th[data-sorted="true"] button{ color:var(--signal-br); }
+.mtable td{
+  text-align:right; padding:13px 0; border-bottom:1px solid rgba(22,61,99,.55);
+  font-family:var(--mono); font-size:13.5px; color:var(--on-ink); white-space:nowrap;
+}
+.mtable tbody tr{ transition:background .14s; }
+.mtable tbody tr:hover{ background:rgba(59,156,255,.07); }
+.mtable td + td{ padding-left:14px; }
+
+.coin{ display:flex; align-items:center; gap:11px; }
+.coin__ic{
+  width:27px; height:27px; border-radius:50%; flex:none; display:grid; place-items:center;
+  font-family:var(--sans); font-size:10.5px; font-weight:800; color:#fff; letter-spacing:-.02em;
+}
+.coin__nm{ font-family:var(--sans); font-size:14px; font-weight:600; letter-spacing:-.01em; }
+.coin__sy{ font-family:var(--mono); font-size:11px; color:var(--on-ink-2); }
+.chg{
+  display:inline-block; min-width:66px; padding:3px 8px; border-radius:var(--r-sm);
+  font-size:12.5px; font-weight:500;
+}
+.chg[data-dir="up"]{ background:rgba(11,143,93,.16); color:#4FD69C; }
+.chg[data-dir="down"]{ background:rgba(208,58,58,.16); color:#FF7A7A; }
+.spark{ width:88px; height:26px; display:block; margin-left:auto; }
+
+/* Kartu sisi terminal */
+.gauge-card{
+  background:var(--ink-2); border:1px solid var(--ink-3);
+  border-radius:var(--r-lg); padding:19px; margin-bottom:14px;
+}
+.gauge-card__t{
+  font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--on-ink-2); margin:0 0 4px;
+}
+.gauge{ display:block; margin:6px auto 2px; width:190px; }
+.gauge__v{ font-family:var(--mono); font-size:38px; font-weight:600; fill:var(--on-ink); }
+.gauge__l{ font-family:var(--sans); font-size:11px; font-weight:700; letter-spacing:.09em; fill:var(--amber); }
+.gauge-card__foot{
+  display:flex; justify-content:space-between; font-family:var(--mono);
+  font-size:10.5px; color:var(--on-ink-2); margin-top:8px;
+  padding-top:10px; border-top:1px solid var(--ink-3);
+}
+.stat{
+  display:flex; justify-content:space-between; align-items:baseline;
+  padding:11px 0; border-bottom:1px solid var(--ink-3);
+}
+.stat:last-child{ border-bottom:0; padding-bottom:0; }
+.stat__k{ font-size:12.5px; color:var(--on-ink-2); }
+.stat__v{ font-family:var(--mono); font-size:14px; font-weight:500; }
+.bar{ height:5px; border-radius:99px; background:var(--ink-3); overflow:hidden; margin-top:9px; display:flex; }
+.bar i{ display:block; height:100%; }
+
+/* ---------- 9. KARTU BERITA ---------- */
+.tabs{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:22px; }
+.tab{
+  padding:7px 14px; border:1px solid var(--rule); border-radius:99px;
+  background:var(--surface); font-size:13px; font-weight:600; color:var(--text-2);
+  transition:background .15s, color .15s, border-color .15s;
+}
+.tab:hover{ border-color:var(--signal); color:var(--signal); }
+.tab[aria-selected="true"]{ background:var(--ink); border-color:var(--ink); color:#fff; }
+
+.news__grid{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:26px 28px; }
+.card{ display:flex; flex-direction:column; }
+.card__media{
+  aspect-ratio:16/10; border-radius:var(--r); overflow:hidden;
+  background:var(--ink-2); margin-bottom:13px; position:relative;
+}
+.card__media::after{
+  content:""; position:absolute; inset:0;
+  background:linear-gradient(150deg, rgba(20,102,216,.26), rgba(7,27,47,.66));
+}
+.card__t{
+  font-family:var(--serif); font-size:19px; font-weight:500; line-height:1.3;
+  letter-spacing:-.014em; margin:7px 0 8px;
+}
+.card__t a:hover{ color:var(--signal); }
+.card__x{ font-size:14px; line-height:1.58; color:var(--text-2); margin:0 0 11px; }
+.card__f{ display:flex; align-items:center; gap:8px; margin-top:auto; flex-wrap:wrap; }
+
+/* Daftar ramping untuk kolom sisi */
+.slim{ display:grid; }
+.slim__row{ display:flex; gap:13px; padding:14px 0; border-bottom:1px solid var(--rule); }
+.slim__row:first-child{ padding-top:0; }
+.slim__row:last-child{ border-bottom:0; }
+.slim__th{ width:74px; aspect-ratio:4/3; border-radius:var(--r-sm); background:var(--ink-2); flex:none; position:relative; overflow:hidden; }
+.slim__th::after{ content:""; position:absolute; inset:0; background:linear-gradient(150deg,rgba(20,102,216,.3),rgba(7,27,47,.7)); }
+.slim__t{ font-family:var(--serif); font-size:15.5px; font-weight:500; line-height:1.3; margin:0 0 5px; letter-spacing:-.01em; }
+.slim__t a:hover{ color:var(--signal); }
+
+.aside-box{
+  background:var(--surface); border:1px solid var(--rule);
+  border-radius:var(--r-lg); padding:20px;
+}
+.aside-box + .aside-box{ margin-top:20px; }
+.aside-box__t{
+  font-family:var(--serif); font-size:19px; font-weight:600; margin:5px 0 15px;
+  padding-bottom:11px; border-bottom:1px solid var(--rule); letter-spacing:-.015em;
+}
+
+/* ---------- 10. FOKUS REGULASI ---------- */
+.reg__grid{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; }
+.regcard{
+  background:var(--ink-2); border:1px solid var(--ink-3); border-left:3px solid var(--amber);
+  border-radius:var(--r); padding:19px; display:flex; flex-direction:column; gap:9px;
+  transition:border-color .16s, transform .16s;
+}
+.regcard:hover{ transform:translateY(-2px); border-left-color:#F5C070; }
+.regcard__t{ font-family:var(--serif); font-size:18px; font-weight:500; line-height:1.32; margin:0; letter-spacing:-.012em; }
+.regcard__x{ font-size:13.5px; line-height:1.55; color:var(--on-ink-2); margin:0; }
+.regcard__f{ display:flex; gap:9px; align-items:center; margin-top:auto; padding-top:9px; }
+
+/* ---------- 11. AKADEMI ---------- */
+.edu__grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:16px; }
+.edu{
+  background:var(--surface); border:1px solid var(--rule); border-radius:var(--r-lg);
+  padding:20px; display:flex; flex-direction:column; gap:10px;
+  transition:border-color .16s, box-shadow .16s;
+}
+.edu:hover{ border-color:var(--signal); box-shadow:var(--shadow-sm); }
+.edu__ic{
+  width:36px; height:36px; border-radius:var(--r); background:#E4EEFB;
+  display:grid; place-items:center; color:var(--signal);
+}
+.edu__ic svg{ width:18px; height:18px; }
+.edu__t{ font-size:15.5px; font-weight:700; margin:0; letter-spacing:-.015em; }
+.edu__x{ font-size:13.5px; line-height:1.55; color:var(--text-2); margin:0; }
+.edu__lv{
+  font-family:var(--mono); font-size:10.5px; color:var(--text-3);
+  margin-top:auto; padding-top:8px; border-top:1px solid var(--rule-soft);
+}
+
+
+/* ---------- 12. ALAT ---------- */
+.tools__grid{ display:grid; grid-template-columns:1fr 1fr; gap:22px; }
+.tool{
+  background:var(--surface); border:1px solid var(--rule);
+  border-radius:var(--r-lg); padding:24px;
+}
+.tool__t{ font-family:var(--serif); font-size:21px; font-weight:600; margin:6px 0 5px; letter-spacing:-.018em; }
+.tool__x{ font-size:13.5px; color:var(--text-2); margin:0 0 18px; }
+.field{ margin-bottom:14px; }
+.field label{
+  display:block; font-size:11px; font-weight:700; letter-spacing:.07em;
+  text-transform:uppercase; color:var(--text-2); margin-bottom:6px;
+}
+.field input, .field select{
+  width:100%; height:44px; padding:0 13px; border:1px solid var(--rule);
+  border-radius:var(--r); background:var(--paper); font-family:var(--mono);
+  font-size:14.5px; color:var(--text); transition:border-color .15s, background .15s;
+}
+.field input:focus, .field select:focus{ border-color:var(--signal); background:var(--surface); outline:none; }
+.field select{ font-family:var(--sans); font-weight:600; cursor:pointer; }
+.row2{ display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+.swap{
+  display:flex; justify-content:center; margin:-4px 0 10px;
+}
+.swap button{
+  width:34px; height:34px; border:1px solid var(--rule); border-radius:50%;
+  background:var(--surface); display:grid; place-items:center; color:var(--signal);
+  transition:transform .25s, border-color .15s;
+}
+.swap button:hover{ transform:rotate(180deg); border-color:var(--signal); }
+.swap svg{ width:15px; height:15px; }
+.result{
+  background:var(--ink); color:var(--on-ink); border-radius:var(--r);
+  padding:16px 18px; margin-top:4px;
+}
+.result__k{ font-size:11px; font-weight:700; letter-spacing:.09em; text-transform:uppercase; color:var(--on-ink-2); }
+.result__v{ font-family:var(--mono); font-size:25px; font-weight:600; margin-top:4px; letter-spacing:-.01em; }
+.result__rows{ margin-top:13px; padding-top:12px; border-top:1px solid var(--ink-3); display:grid; gap:7px; }
+.result__row{ display:flex; justify-content:space-between; font-size:12.5px; }
+.result__row span:last-child{ font-family:var(--mono); }
+.note{
+  font-size:11.5px; line-height:1.5; color:var(--text-3);
+  margin-top:12px; padding-top:11px; border-top:1px solid var(--rule-soft);
+}
+
+/* ---------- 13. BULETIN ---------- */
+.news-cta{ background:var(--ink); color:var(--on-ink); }
+.news-cta__in{ display:grid; grid-template-columns:1fr 400px; gap:44px; align-items:center; padding-block:46px; }
+.news-cta__t{ font-family:var(--serif); font-size:clamp(25px,3vw,34px); font-weight:600; line-height:1.16; margin:9px 0 11px; letter-spacing:-.022em; }
+.news-cta__x{ font-size:15px; line-height:1.62; color:var(--on-ink-2); margin:0; max-width:52ch; }
+.news-cta form{ display:flex; gap:9px; }
+.news-cta input{
+  flex:1; height:46px; padding:0 14px; border:1px solid var(--ink-3);
+  border-radius:var(--r); background:var(--ink-2); color:var(--on-ink);
+  font-family:var(--sans); font-size:14px;
+}
+.news-cta input::placeholder{ color:var(--on-ink-2); }
+.news-cta input:focus{ border-color:var(--signal-br); outline:none; }
+.news-cta .btn{ height:46px; flex:none; }
+.news-cta__ok{ font-size:12.5px; color:#4FD69C; margin:11px 0 0; min-height:18px; }
+.news-cta__meta{ font-size:11.5px; color:var(--on-ink-2); margin:11px 0 0; }
+
+/* ---------- 14. KAKI SITUS ---------- */
+.foot{ background:var(--ink); color:var(--on-ink-2); border-top:1px solid var(--ink-3); }
+.foot__grid{
+  display:grid; grid-template-columns:1.5fr repeat(4,1fr); gap:34px;
+  padding-block:46px 34px;
+}
+.foot__about{ font-size:13.5px; line-height:1.65; margin:14px 0 16px; max-width:34ch; }
+.foot__ttl{
+  font-size:10.5px; font-weight:800; letter-spacing:.13em; text-transform:uppercase;
+  color:var(--on-ink); margin:0 0 13px;
+}
+.foot__list{ list-style:none; padding:0; margin:0; display:grid; gap:9px; }
+.foot__list a{ font-size:13.5px; }
+.foot__list a:hover{ color:var(--signal-br); }
+.foot__social{ display:flex; gap:8px; }
+.foot__social a{
+  width:34px; height:34px; border:1px solid var(--ink-3); border-radius:var(--r);
+  display:grid; place-items:center; transition:border-color .15s, color .15s;
+}
+.foot__social a:hover{ border-color:var(--signal-br); color:var(--signal-br); }
+.foot__social svg{ width:15px; height:15px; }
+.foot__bar{
+  border-top:1px solid var(--ink-3); padding-block:19px;
+  display:flex; justify-content:space-between; gap:18px; flex-wrap:wrap;
+  font-size:12px;
+}
+.foot__legal{ display:flex; gap:18px; flex-wrap:wrap; }
+.disclaimer{
+  background:var(--ink-2); border-top:1px solid var(--ink-3);
+  padding-block:17px; font-size:11.5px; line-height:1.6; color:var(--on-ink-2);
+}
+.disclaimer b{ color:var(--on-ink); }
+
+/* ---------- 15. RESPONSIF ---------- */
+@media (max-width:1260px){
+  .nav__link{ padding:10px 7px; font-size:13px; }
+  .search input{ width:132px; }
+}
+@media (max-width:1024px){
+  .nav, .search{ display:none; }
+  .burger{ display:block; }
+  .hero__grid{ grid-template-columns:1fr; gap:32px; }
+  .mkt__grid{ grid-template-columns:1fr; }
+  .news__grid{ grid-template-columns:1fr 1fr; }
+  .edu__grid{ grid-template-columns:1fr 1fr; }
+  .foot__grid{ grid-template-columns:1fr 1fr 1fr; }
+  .news-cta__in{ grid-template-columns:1fr; gap:26px; }
+  .col-hide-md{ display:none; }
+}
+@media (max-width:768px){
+  :root{ --gutter:16px; }
+  .reg__grid{ grid-template-columns:1fr; }
+  .tools__grid{ grid-template-columns:1fr; }
+  .content__grid{ grid-template-columns:1fr !important; }
+}
+@media (max-width:620px){
+  .news__grid{ grid-template-columns:1fr; }
+  .edu__grid{ grid-template-columns:1fr; }
+  .foot__grid{ grid-template-columns:1fr 1fr; gap:26px; }
+  .col-hide-sm{ display:none; }
+  .rail__clock{ display:none; }
+  .masthead__tools .btn{ display:none; }   /* langganan tetap ada di panel menu */
+  .brand__name{ font-size:19px; }
+  .lead__title{ font-size:29px; }
+  .news-cta form{ flex-direction:column; }
+  .section{ padding-block:34px; }
+}
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{ animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; scroll-behavior:auto !important; }
+  .rail__track{ animation:none; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================================================
+     PITA DATA HIDUP — elemen tanda tangan situs
+     ============================================================ -->
+<div class="rail">
+  <div class="rail__top">
+    <div class="rail__badge"><span class="pulse"></span> Pasar</div>
+    <div class="rail__viewport">
+      <div class="rail__track" id="ticker"><!-- diisi oleh JS --></div>
+    </div>
+    <div class="rail__clock"><span id="clock">--:--:--</span> WIB</div>
+  </div>
+</div>
+
+<!-- ============================================================
+     KEPALA SITUS + NAVIGASI
+     ============================================================ -->
+<header class="masthead">
+  <div class="wrap masthead__bar">
+
+    <a class="brand" href="#beranda" aria-label="Daily Crypto Media, ke beranda">
+      <span class="brand__mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#3B9CFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 17l5-6 4 4 5-8 4 5"/>
+        </svg>
+      </span>
+      <span>
+        <span class="brand__name">Daily Crypto <b>Media</b></span>
+        <span class="brand__tag">Data · Berita · Regulasi</span>
+      </span>
+    </a>
+
+    <nav class="nav" id="nav" aria-label="Navigasi utama"><!-- diisi oleh JS --></nav>
+
+    <div class="masthead__tools">
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input type="search" id="q" placeholder="Cari berita atau koin" aria-label="Cari berita atau koin" autocomplete="off">
+        <div class="search__results" id="qres" role="listbox" aria-label="Hasil pencarian"></div>
+      </div>
+      <a href="#buletin" class="btn btn--primary">Langganan</a>
+      <button class="burger" id="burger" aria-label="Buka menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="mnav" id="mnav"><!-- diisi oleh JS --></div>
+</header>
+
+<!-- ============================================================
+     STRIP STATUS REGULASI
+     Menyandikan pertanyaan yang paling sering dicari pembaca Indonesia.
+     ============================================================ -->
+<div class="regstrip">
+  <div class="wrap regstrip__in">
+    <span class="regstrip__label">Status regulasi</span>
+    <div class="regstrip__items" id="regstrip"><!-- diisi oleh JS --></div>
+  </div>
+</div>
+
+<main id="beranda">
+
+<!-- ============================================================
+     HERO — satu berita utama + lima berita berperingkat
+     ============================================================ -->
+<section class="wrap hero">
+  <div class="hero__grid">
+
+    <article class="lead">
+      <div class="lead__media">
+        <span class="lead__flag">Laporan utama</span>
+      </div>
+      <div class="lead__meta">
+        <span class="eyebrow eyebrow--amber">Regulasi</span>
+        <span class="dot"></span>
+        <span class="stamp">12 menit lalu</span>
+        <span class="dot"></span>
+        <span class="stamp">7 menit baca</span>
+      </div>
+      <h1 class="lead__title"><a href="#">Transisi pengawasan aset kripto ke OJK masuk tahap konsolidasi, bursa lokal siapkan standar pelaporan baru</a></h1>
+      <p class="lead__deck">Pelaku industri diminta menyelaraskan tata kelola kustodi, pelaporan transaksi, dan uji kelayakan aset sebelum tenggat berikutnya. Bagi investor ritel, perubahan terbesar ada pada cara bursa menampilkan status pencatatan setiap aset.</p>
+      <p class="byline">Oleh <b>Tim Redaksi Daily Crypto Media</b> · Jakarta</p>
+    </article>
+
+    <aside>
+      <div class="shead" style="margin-bottom:18px">
+        <div><span class="eyebrow">Paling dibaca hari ini</span><h2 class="shead__title">Sorotan</h2></div>
+      </div>
+      <div class="ranked" id="ranked"><!-- diisi oleh JS --></div>
+    </aside>
+
+  </div>
+</section>
+
+<!-- ============================================================
+     PASAR — blok terminal (tabel + pengukur sentimen)
+     ============================================================ -->
+<section class="section section--ink" id="pasar">
+  <div class="wrap">
+    <div class="shead">
+      <div>
+        <span class="eyebrow eyebrow--onink">Harga dalam rupiah · data contoh</span>
+        <h2 class="shead__title">Pasar hari ini</h2>
+      </div>
+      <a href="#" class="shead__more">Semua harga
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a>
+    </div>
+
+    <div class="mkt__grid">
+      <div>
+        <table class="mtable">
+          <thead>
+            <tr>
+              <th data-sorted="false"><button data-sort="rank">Aset</button></th>
+              <th><button data-sort="price">Harga</button></th>
+              <th><button data-sort="ch24">24 jam</button></th>
+              <th class="col-hide-sm"><button data-sort="ch7">7 hari</button></th>
+              <th class="col-hide-md"><button data-sort="cap">Kapitalisasi</button></th>
+              <th class="col-hide-sm">30 hari</th>
+            </tr>
+          </thead>
+          <tbody id="mtbody"><!-- diisi oleh JS --></tbody>
+        </table>
+      </div>
+
+      <aside>
+        <div class="gauge-card">
+          <p class="gauge-card__t">Indeks takut &amp; serakah</p>
+          <svg class="gauge" viewBox="0 0 200 122" role="img" aria-label="Indeks takut dan serakah berada di angka 62, kategori serakah">
+            <path d="M20 108 A80 80 0 0 1 180 108" fill="none" stroke="#163D63" stroke-width="13" stroke-linecap="round"/>
+            <path id="gaugeArc" d="M20 108 A80 80 0 0 1 180 108" fill="none" stroke="url(#gg)" stroke-width="13" stroke-linecap="round"/>
+            <defs><linearGradient id="gg" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0%" stop-color="#D03A3A"/><stop offset="50%" stop-color="#E8A33D"/><stop offset="100%" stop-color="#0B8F5D"/>
+            </linearGradient></defs>
+            <text class="gauge__v" x="100" y="96" text-anchor="middle">62</text>
+            <text class="gauge__l" x="100" y="116" text-anchor="middle">SERAKAH</text>
+          </svg>
+          <div class="gauge-card__foot"><span>Kemarin 58</span><span>Pekan lalu 44</span></div>
+        </div>
+
+        <div class="gauge-card">
+          <div class="stat"><span class="stat__k">Kapitalisasi global</span><span class="stat__v">Rp62.480 T</span></div>
+          <div class="stat"><span class="stat__k">Volume 24 jam</span><span class="stat__v">Rp2.140 T</span></div>
+          <div class="stat"><span class="stat__k">Volume bursa lokal</span><span class="stat__v">Rp9,4 T</span></div>
+          <div class="stat" style="display:block">
+            <div style="display:flex;justify-content:space-between;align-items:baseline">
+              <span class="stat__k">Dominasi</span>
+              <span class="stat__v" style="font-size:12.5px">BTC 58,2% · ETH 12,4%</span>
+            </div>
+            <div class="bar">
+              <i style="width:58.2%;background:#3B9CFF"></i>
+              <i style="width:12.4%;background:#4FD69C"></i>
+              <i style="width:29.4%;background:#163D63"></i>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     BERITA TERBARU — dapat disaring per rubrik
+     ============================================================ -->
+<section class="section" id="berita">
+  <div class="wrap">
+    <div class="shead">
+      <div><span class="eyebrow">Diperbarui sepanjang hari</span><h2 class="shead__title">Berita terbaru</h2></div>
+      <a href="#" class="shead__more">Arsip berita
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a>
+    </div>
+
+    <div class="tabs" id="tabs" role="tablist" aria-label="Saring berita per rubrik"><!-- diisi oleh JS --></div>
+
+    <div class="content__grid" style="display:grid;grid-template-columns:1fr 306px;gap:38px;align-items:start">
+      <div>
+        <div class="news__grid" id="newsgrid"><!-- diisi oleh JS --></div>
+        <p id="newsempty" style="display:none;padding:34px 0;color:var(--text-2);font-size:14px">Belum ada artikel di rubrik ini. Pilih rubrik lain.</p>
+      </div>
+
+      <aside>
+        <div class="aside-box">
+          <span class="eyebrow">Agenda</span>
+          <h3 class="aside-box__t">Kalender pekan ini</h3>
+          <div class="slim" id="agenda"><!-- diisi oleh JS --></div>
+        </div>
+
+        <div class="aside-box">
+          <span class="eyebrow">Opini</span>
+          <h3 class="aside-box__t">Kolom</h3>
+          <div class="slim" id="opini"><!-- diisi oleh JS --></div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     FOKUS REGULASI INDONESIA
+     ============================================================ -->
+<section class="section section--ink" id="regulasi">
+  <div class="wrap">
+    <div class="shead">
+      <div><span class="eyebrow eyebrow--onink">Pemantauan kebijakan</span><h2 class="shead__title">Fokus regulasi Indonesia</h2></div>
+      <a href="#" class="shead__more">Lacak semua aturan
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a>
+    </div>
+    <div class="reg__grid" id="reggrid"><!-- diisi oleh JS --></div>
+  </div>
+</section>
+
+<!-- ============================================================
+     AKADEMI
+     ============================================================ -->
+<section class="section" id="edukasi">
+  <div class="wrap">
+    <div class="shead">
+      <div><span class="eyebrow">Belajar berurutan</span><h2 class="shead__title">Akademi Kripto</h2></div>
+      <a href="#" class="shead__more">Semua materi
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </a>
+    </div>
+    <div class="edu__grid" id="edugrid"><!-- diisi oleh JS --></div>
+  </div>
+</section>
+
+
+<!-- ============================================================
+     ALAT — konverter & kalkulator pajak (berfungsi)
+     ============================================================ -->
+<section class="section section--rule" id="alat">
+  <div class="wrap">
+    <div class="shead">
+      <div><span class="eyebrow">Hitung sendiri</span><h2 class="shead__title">Alat investor</h2></div>
+    </div>
+
+    <div class="tools__grid">
+
+      <!-- Konverter -->
+      <div class="tool">
+        <span class="eyebrow">Konverter</span>
+        <h3 class="tool__t">Rupiah ke aset kripto</h3>
+        <p class="tool__x">Ketik jumlah di salah satu kolom, kolom lain menyesuaikan.</p>
+
+        <div class="field">
+          <label for="cvFrom">Jumlah</label>
+          <div class="row2">
+            <input type="number" id="cvFrom" value="10000000" min="0" step="any">
+            <select id="cvFromCur"><option value="IDR">IDR — Rupiah</option></select>
+          </div>
+        </div>
+
+        <div class="swap">
+          <button id="cvSwap" aria-label="Tukar arah konversi">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4v16m0 0l-3-3m3 3l3-3M17 20V4m0 0l3 3m-3-3l-3 3"/></svg>
+          </button>
+        </div>
+
+        <div class="field">
+          <label for="cvTo">Setara dengan</label>
+          <div class="row2">
+            <input type="number" id="cvTo" step="any" min="0">
+            <select id="cvToCur"><!-- diisi oleh JS --></select>
+          </div>
+        </div>
+
+        <div class="result">
+          <div class="result__k">Kurs acuan</div>
+          <div class="result__v" id="cvRate">—</div>
+        </div>
+        <p class="note">Kurs contoh untuk demonstrasi antarmuka. Pada situs produksi, sambungkan ke API harga bursa dan tampilkan stempel waktu pembaruan di sebelah angka.</p>
+      </div>
+
+      <!-- Kalkulator pajak -->
+      <div class="tool">
+        <span class="eyebrow">Kalkulator</span>
+        <h3 class="tool__t">Perkiraan pajak transaksi</h3>
+        <p class="tool__x">Tarif dapat diubah agar cocok dengan aturan yang berlaku saat Anda menghitung.</p>
+
+        <div class="field">
+          <label for="txAmt">Nilai transaksi (IDR)</label>
+          <input type="number" id="txAmt" value="100000000" min="0" step="any">
+        </div>
+        <div class="field">
+          <label for="txVenue">Tempat transaksi</label>
+          <select id="txVenue">
+            <option value="dalam">Bursa terdaftar dalam negeri</option>
+            <option value="luar">Bursa luar negeri / tidak terdaftar</option>
+          </select>
+        </div>
+        <div class="row2">
+          <div class="field">
+            <label for="txRate">Tarif pajak (%)</label>
+            <input type="number" id="txRate" value="0.21" step="0.01" min="0">
+          </div>
+          <div class="field">
+            <label for="txFee">Biaya bursa (%)</label>
+            <input type="number" id="txFee" value="0.15" step="0.01" min="0">
+          </div>
+        </div>
+
+        <div class="result">
+          <div class="result__k">Dana bersih diterima</div>
+          <div class="result__v" id="txNet">—</div>
+          <div class="result__rows">
+            <div class="result__row"><span>Nilai transaksi</span><span id="txGross">—</span></div>
+            <div class="result__row"><span>Pajak</span><span id="txTax">—</span></div>
+            <div class="result__row"><span>Biaya bursa</span><span id="txFeeOut">—</span></div>
+            <div class="result__row"><span>Total potongan</span><span id="txTotal">—</span></div>
+          </div>
+        </div>
+        <p class="note"><b>Bukan nasihat pajak.</b> Tarif dan skema pemungutan aset kripto di Indonesia beberapa kali berubah. Verifikasi tarif terkini pada peraturan resmi atau konsultan pajak Anda sebelum memakai hasil hitungan ini.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     BULETIN
+     ============================================================ -->
+<section class="news-cta" id="buletin">
+  <div class="wrap news-cta__in">
+    <div>
+      <span class="eyebrow eyebrow--onink">Buletin pagi</span>
+      <h2 class="news-cta__t">Ringkasan pasar dan regulasi, tiap hari kerja pukul 07.00 WIB</h2>
+      <p class="news-cta__x">Lima hal yang menggerakkan pasar semalam, perubahan aturan yang perlu Anda tahu, dan satu grafik yang menjelaskan situasinya. Dibaca lima menit.</p>
+    </div>
+    <div>
+      <form id="subForm" novalidate>
+        <label class="sr-only" for="subEmail">Alamat email</label>
+        <input type="email" id="subEmail" placeholder="nama@perusahaan.co.id" required>
+        <button type="submit" class="btn btn--onink">Daftar</button>
+      </form>
+      <p class="news-cta__ok" id="subMsg" role="status"></p>
+      <p class="news-cta__meta">Gratis. Berhenti berlangganan kapan saja lewat tautan di setiap edisi.</p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ============================================================
+     KAKI SITUS
+     ============================================================ -->
+<footer class="foot">
+  <div class="wrap foot__grid">
+    <div>
+      <a class="brand" href="#beranda">
+        <span class="brand__mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#3B9CFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-6 4 4 5-8 4 5"/></svg>
+        </span>
+        <span class="brand__name" style="color:#E9F1FA">Daily Crypto <b>Media</b></span>
+      </a>
+      <p class="foot__about">Liputan aset kripto untuk pembaca Indonesia: harga, analisis, pemantauan regulasi, dan edukasi yang bisa dipakai sebelum mengambil keputusan.</p>
+      <div class="foot__social">
+        <a href="#" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.9 2H22l-7.1 8.1L23.2 22h-6.6l-5.2-6.8L5.5 22H2.4l7.6-8.7L1.2 2h6.8l4.7 6.2L18.9 2Zm-1.1 18h1.7L7.3 3.8H5.5L17.8 20Z"/></svg></a>
+        <a href="#" aria-label="Telegram"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.9 4.3 18.6 20c-.2 1.1-.9 1.4-1.8.9l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9.1-8.2c.4-.4-.1-.6-.6-.2L6.2 13.1l-4.8-1.5c-1-.3-1-1 .2-1.5l18.9-7.3c.9-.3 1.6.2 1.4 1.5Z"/></svg></a>
+        <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 12s0-3.8-.5-5.6a2.9 2.9 0 0 0-2-2C18.7 4 12 4 12 4s-6.7 0-8.5.4a2.9 2.9 0 0 0-2 2C1 8.2 1 12 1 12s0 3.8.5 5.6c.3 1 1 1.7 2 2C5.3 20 12 20 12 20s6.7 0 8.5-.4c1-.3 1.7-1 2-2C23 15.8 23 12 23 12ZM9.8 15.4V8.6l5.8 3.4-5.8 3.4Z"/></svg></a>
+        <a href="#" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0ZM.2 8.3h4.6V24H.2V8.3Zm7.7 0h4.4v2.1h.1c.6-1.1 2.1-2.3 4.3-2.3 4.6 0 5.4 3 5.4 6.9V24h-4.6v-7.9c0-1.9 0-4.3-2.6-4.3s-3 2-3 4.1V24H7.9V8.3Z"/></svg></a>
+      </div>
+    </div>
+    <div id="footcols"><!-- diisi oleh JS --></div>
+  </div>
+
+  <div class="wrap foot__bar">
+    <span>© 2026 Daily Crypto Media. Seluruh hak cipta dilindungi.</span>
+    <div class="foot__legal">
+      <a href="#">Redaksi</a><a href="#">Pedoman media siber</a><a href="#">Kebijakan privasi</a><a href="#">Iklan</a><a href="#">Karier</a>
+    </div>
+  </div>
+
+  <div class="disclaimer">
+    <div class="wrap">
+      <b>Peringatan risiko.</b> Perdagangan aset kripto memiliki risiko tinggi dan nilainya dapat berfluktuasi tajam. Seluruh isi situs ini bersifat informatif, bukan ajakan membeli atau menjual, dan bukan nasihat investasi, hukum, pajak, maupun syariah. Lakukan riset mandiri dan gunakan hanya dana yang siap Anda risikokan.
+      &nbsp;·&nbsp; <b>Catatan versi contoh:</b> seluruh artikel, harga, dan angka pada halaman ini adalah data buatan untuk keperluan demonstrasi rancangan antarmuka.
+    </div>
+  </div>
+</footer>
+
+<script>
+/* =========================================================================
+   DAILY CRYPTO MEDIA — LAPISAN DATA & PERILAKU
+   -------------------------------------------------------------------------
+   Semua isi halaman digambar dari objek DATA di bawah ini. Untuk versi
+   produksi, ganti tiap properti DATA dengan hasil pemanggilan API (CMS untuk
+   artikel, agregator harga untuk pasar) tanpa mengubah fungsi render.
+   ========================================================================= */
+
+const DATA = {
+
+  /* ---------- Menu: dipilih dari pola navigasi tujuh portal rujukan ---------- */
+  menu: [
+    { label:"Berita", note:"Kanal harian", items:[
+      { t:"Bitcoin",        k:"bitcoin"   },
+      { t:"Altcoin",        k:"altcoin"   },
+      { t:"DeFi",           k:"defi"      },
+      { t:"NFT & Gaming",   k:"nft"       },
+      { t:"Web3 & Infrastruktur", k:"web3" },
+      { t:"Bisnis & Korporasi",   k:"bisnis" }
+    ]},
+    { label:"Pasar", note:"Data langsung", items:[
+      { t:"Harga aset kripto", k:"" }, { t:"Kapitalisasi pasar", k:"" },
+      { t:"Dominasi Bitcoin", k:"" },  { t:"Indeks takut & serakah", k:"" },
+      { t:"Aliran dana ETF", k:"" },   { t:"Kalender ekonomi", k:"" }
+    ]},
+    { label:"Analisis", note:"Kajian pasar", items:[
+      { t:"Analisis teknikal", k:"analisis" }, { t:"Data on-chain", k:"analisis" },
+      { t:"Prediksi harga", k:"analisis" },    { t:"Aliran dana institusi", k:"analisis" },
+      { t:"Opini & kolom", k:"opini" }
+    ]},
+    { label:"Regulasi", note:"Khas Indonesia", items:[
+      { t:"Kebijakan OJK", k:"regulasi" },     { t:"Pajak aset kripto", k:"regulasi" },
+      { t:"Perizinan & sandbox", k:"regulasi" },{ t:"Regulasi global", k:"regulasi" },
+      { t:"Pelindungan konsumen", k:"regulasi" }
+    ]},
+    { label:"Tokenisasi", note:"Aset dunia nyata", items:[
+      { t:"Tokenisasi emas", k:"tokenisasi" }, { t:"Tokenisasi saham & obligasi", k:"tokenisasi" },
+      { t:"Stablecoin rupiah", k:"tokenisasi" },{ t:"Kustodi digital", k:"tokenisasi" }
+    ]},
+    { label:"Syariah", note:"Kanal khusus", items:[
+      { t:"Daftar aset tersaring", k:"syariah" }, { t:"Metodologi penyaringan", k:"syariah" },
+      { t:"Fatwa & rujukan", k:"syariah" },       { t:"Produk keuangan syariah", k:"syariah" }
+    ]},
+    { label:"Edukasi", note:"Untuk pemula", items:[
+      { t:"Panduan pemula", k:"edukasi" }, { t:"Glosarium istilah", k:"edukasi" },
+      { t:"Keamanan dompet", k:"edukasi" },{ t:"Kenali penipuan", k:"edukasi" }
+    ]},
+    { label:"Riset", note:"Laporan berkala", items:[
+      { t:"Laporan kuartalan", k:"" }, { t:"Data bursa lokal", k:"" },
+      { t:"Direktori bursa", k:"" },    { t:"Buletin & podcast", k:"" }
+    ]}
+  ],
+
+  /* ---------- Status regulasi ---------- */
+  status: [
+    { t:"Pengawasan: OJK",            s:"ok"   },
+    { t:"Pajak transaksi: berlaku",   s:"warn" },
+    { t:"Stablecoin rupiah: pembahasan", s:"hot" },
+    { t:"Bursa terdaftar: 30+",       s:"ok"   }
+  ],
+
+  /* ---------- Pasar (data contoh, harga dalam rupiah) ---------- */
+  coins: [
+    { n:"Bitcoin",  s:"BTC",  c:"#F7931A", p:1874500000, ch24: 2.14, ch7: -1.32, cap:37120 },
+    { n:"Ethereum", s:"ETH",  c:"#5B7BE8", p:  61240000, ch24: 3.08, ch7:  4.71, cap: 7385 },
+    { n:"Tether",   s:"USDT", c:"#19A08A", p:     16310, ch24: 0.02, ch7:  0.01, cap: 2260 },
+    { n:"BNB",      s:"BNB",  c:"#D9A21B", p:  14980000, ch24:-0.84, ch7:  2.16, cap: 2140 },
+    { n:"Solana",   s:"SOL",  c:"#7C5CFF", p:   3120000, ch24: 5.62, ch7:  8.94, cap: 1685 },
+    { n:"XRP",      s:"XRP",  c:"#1A4E8F", p:     38400, ch24:-1.47, ch7: -3.28, cap: 1490 },
+    { n:"Cardano",  s:"ADA",  c:"#1E5FA8", p:     11250, ch24: 1.02, ch7: -2.05, cap:  402 },
+    { n:"Dogecoin", s:"DOGE", c:"#B99A4E", p:      3180, ch24:-2.31, ch7:  1.14, cap:  368 },
+    { n:"Toncoin",  s:"TON",  c:"#2A8FD6", p:     48900, ch24: 0.76, ch7: -4.42, cap:  214 },
+    { n:"Avalanche",s:"AVAX", c:"#C0392B", p:    445000, ch24: 4.19, ch7:  6.03, cap:  186 }
+  ],
+
+  /* ---------- Artikel (isi contoh, ditulis untuk demonstrasi) ---------- */
+  articles: [
+    { k:"regulasi",  cat:"Regulasi",  t:"Aturan pajak aset kripto direvisi, ini yang perlu dicek investor sebelum lapor SPT", x:"Perubahan menyangkut siapa yang memungut, tarif yang dipakai, dan bukti potong yang harus disimpan pemilik akun bursa.", w:"Tim Redaksi", a:"38 menit lalu", r:"6 menit" },
+    { k:"pasar",     cat:"Pasar",     t:"Bitcoin konsolidasi di kisaran Rp1,87 miliar setelah aliran dana ETF melambat", x:"Volume di bursa spot global menyusut dua pekan berturut-turut, sementara posisi terbuka di pasar berjangka justru bertambah.", w:"Tim Redaksi", a:"1 jam lalu", r:"4 menit" },
+    { k:"tokenisasi",cat:"Tokenisasi",t:"Tokenisasi emas jadi sorotan bank syariah, skema kustodi digital diuji terbatas", x:"Uji coba mencakup pencatatan kepemilikan fraksional, penebusan fisik, dan pemisahan aset nasabah dari aset penerbit.", w:"Tim Redaksi", a:"2 jam lalu", r:"7 menit" },
+    { k:"defi",      cat:"DeFi",      t:"Total nilai terkunci DeFi kembali ke level tertinggi tahun ini, didorong protokol pinjaman", x:"Kenaikan terkonsentrasi pada segelintir protokol besar, memicu pertanyaan lama soal konsentrasi risiko.", w:"Tim Redaksi", a:"3 jam lalu", r:"5 menit" },
+    { k:"bisnis",    cat:"Bisnis",    t:"Manajer investasi lokal antre izin produk berbasis aset digital", x:"Sedikitnya lima perusahaan menyiapkan dokumen produk, menunggu kepastian klasifikasi aset dan aturan kustodi.", w:"Tim Redaksi", a:"4 jam lalu", r:"6 menit" },
+    { k:"altcoin",   cat:"Altcoin",   t:"Ethereum uji resistensi kunci menjelang peningkatan jaringan berikutnya", x:"Pengembang menargetkan penurunan biaya transaksi di lapisan kedua, sementara pedagang mengawasi level Rp62 juta.", w:"Tim Redaksi", a:"5 jam lalu", r:"4 menit" },
+    { k:"pasar",     cat:"Pasar",     t:"Volume perdagangan kripto domestik naik 18% kuartal ini, ditopang investor baru", x:"Pertumbuhan pemilik akun terjadi paling cepat di luar Jawa, dengan nilai transaksi rata-rata yang lebih kecil.", w:"Tim Redaksi", a:"6 jam lalu", r:"5 menit" },
+    { k:"web3",      cat:"Web3",      t:"Proyek Web3 Asia Tenggara berlomba rebut pengguna lewat dompet tanpa frasa pemulihan", x:"Pendekatan berbasis kunci terbagi menghapus hambatan awal, tetapi memindahkan risiko ke penyedia layanan.", w:"Tim Redaksi", a:"8 jam lalu", r:"6 menit" },
+    { k:"nft",       cat:"NFT & Gaming", t:"Pasar NFT bergeser dari koleksi ke aset berutilitas", x:"Tiket acara, keanggotaan, dan aset dalam permainan kini menyumbang porsi transaksi yang lebih besar dibanding karya seni.", w:"Tim Redaksi", a:"10 jam lalu", r:"5 menit" },
+    { k:"regulasi",  cat:"Regulasi",  t:"Rancangan kerangka stablecoin rupiah masuk pembahasan lintas kementerian", x:"Poin utama yang dibahas: siapa yang boleh menerbitkan, komposisi aset cadangan, dan mekanisme penebusan.", w:"Tim Redaksi", a:"12 jam lalu", r:"8 menit" },
+    { k:"bitcoin",   cat:"Bitcoin",   t:"Distribusi kepemilikan Bitcoin bergeser ke pemegang jangka menengah", x:"Data on-chain menunjukkan koin berumur tiga hingga dua belas bulan mendominasi pasokan yang berpindah tangan.", w:"Tim Redaksi", a:"14 jam lalu", r:"7 menit" },
+    { k:"syariah",   cat:"Syariah",   t:"Kriteria penyaringan aset kripto syariah: dari dasar aset hingga model pendapatan", x:"Penyaringan tidak berhenti pada jenis koin, tetapi menelusuri dari mana protokol memperoleh pendapatannya.", w:"Tim Redaksi", a:"16 jam lalu", r:"9 menit" }
+  ],
+
+  /* ---------- Berita berperingkat ---------- */
+  ranked: [
+    { cat:"Pasar",     t:"Bitcoin konsolidasi setelah aliran dana ETF melambat dua pekan berturut-turut", a:"1 jam lalu" },
+    { cat:"Regulasi",  t:"Apa yang berubah dari aturan pajak aset kripto, dan apa artinya bagi pengguna bursa lokal", a:"38 menit lalu" },
+    { cat:"Tokenisasi",t:"Bank syariah uji terbatas skema kustodi digital untuk emas tertokenisasi", a:"2 jam lalu" },
+    { cat:"Analisis",  t:"Tiga sinyal on-chain yang perlu diawasi sebelum kuartal berakhir", a:"5 jam lalu" },
+    { cat:"Bisnis",    t:"Lima manajer investasi siapkan produk berbasis aset digital", a:"4 jam lalu" }
+  ],
+
+  /* ---------- Regulasi ---------- */
+  reg: [
+    { tag:"Pengawasan", t:"Tahap konsolidasi pengawasan aset kripto", x:"Peta jalan pengalihan kewenangan, tenggat penyesuaian pelaku usaha, dan dampaknya pada pencatatan aset di bursa lokal.", a:"Diperbarui hari ini" },
+    { tag:"Perpajakan", t:"Skema pemungutan pajak transaksi", x:"Siapa yang memungut, bagaimana bukti potong diterbitkan, dan bagaimana pelaporannya masuk ke SPT tahunan.", a:"Diperbarui 3 hari lalu" },
+    { tag:"Perizinan",  t:"Jalur sandbox untuk inovasi keuangan digital", x:"Tahapan pengajuan, dokumen yang disiapkan, dan pengalaman peserta yang sudah lulus tahap uji coba.", a:"Diperbarui pekan lalu" }
+  ],
+
+  /* ---------- Akademi ---------- */
+  edu: [
+    { t:"Memulai dari nol", x:"Cara kerja blockchain, beda koin dan token, serta apa yang sebenarnya Anda miliki saat membeli.", lv:"Dasar · 8 materi", ic:"book" },
+    { t:"Mengamankan aset", x:"Memilih dompet, menyimpan frasa pemulihan, dan mengenali pola penipuan yang paling sering terjadi.", lv:"Dasar · 6 materi", ic:"lock" },
+    { t:"Membaca data pasar", x:"Kapitalisasi, volume, kedalaman order, dan cara memeriksa bukti cadangan sebuah bursa.", lv:"Menengah · 9 materi", ic:"chart" },
+    { t:"Pajak dan pelaporan", x:"Mencatat transaksi sepanjang tahun, menghitung dasar biaya, dan menyiapkan dokumen pelaporan.", lv:"Menengah · 5 materi", ic:"doc" }
+  ],
+
+  /* ---------- Agenda & opini ---------- */
+  agenda: [
+    { d:"Sen", t:"Rilis data inflasi dan dampaknya ke aset berisiko", a:"09.00 WIB" },
+    { d:"Rab", t:"Batas akhir penyampaian laporan berkala pelaku usaha", a:"Sepanjang hari" },
+    { d:"Kam", t:"Peningkatan jaringan lapisan kedua Ethereum", a:"Perkiraan malam" },
+    { d:"Jum", t:"Diskusi publik rancangan aturan stablecoin", a:"14.00 WIB" }
+  ],
+  opini: [
+    { t:"Infrastruktur pasar, bukan harga, yang menentukan siklus kripto Indonesia berikutnya", w:"Kolomnis tamu" },
+    { t:"Literasi risiko masih tertinggal jauh di belakang pertumbuhan jumlah investor", w:"Kolomnis tamu" },
+    { t:"Tokenisasi akan diuji bukan oleh teknologinya, melainkan oleh proses penebusannya", w:"Kolomnis tamu" }
+  ],
+
+
+  /* ---------- Kolom kaki situs ---------- */
+  foot: [
+    { h:"Kanal",   l:["Bitcoin","Altcoin","DeFi","NFT & Gaming","Web3","Bisnis"] },
+    { h:"Data",    l:["Harga kripto","Kapitalisasi pasar","Takut & serakah","Aliran ETF","Kalender ekonomi"] },
+    { h:"Indonesia",l:["Regulasi OJK","Pajak kripto","Bursa terdaftar","Tokenisasi","Kripto syariah"] },
+    { h:"Layanan", l:["Buletin harian","Podcast","Laporan riset","Kirim rilis pers","Hubungi redaksi"] }
+  ]
+};
+
+/* =========================================================================
+   1. PEMBANTU
+   ========================================================================= */
+const $  = (s, r=document) => r.querySelector(s);
+const $$ = (s, r=document) => [...r.querySelectorAll(s)];
+
+const rp    = n => "Rp" + Math.round(n).toLocaleString("id-ID");
+const rpDec = n => "Rp" + n.toLocaleString("id-ID", { maximumFractionDigits: 2 });
+const pct   = n => (n >= 0 ? "+" : "") + n.toFixed(2) + "%";
+const dir   = n => (n >= 0 ? "up" : "down");
+const esc   = s => String(s).replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
+
+/* Deret harga semu yang stabil per simbol — dipakai untuk grafik mini. */
+function seedSeries(seed, n = 30) {
+  let x = 0;
+  for (let i = 0; i < seed.length; i++) x = (x * 31 + seed.charCodeAt(i)) % 9973;
+  const out = [];
+  let v = 50;
+  for (let i = 0; i < n; i++) {
+    x = (x * 1103515245 + 12345) % 2147483648;
+    v += ((x / 2147483648) - 0.47) * 11;
+    out.push(v);
+  }
+  return out;
+}
+
+function sparkPath(vals, w = 88, h = 26) {
+  const min = Math.min(...vals), max = Math.max(...vals), span = max - min || 1;
+  return vals.map((v, i) =>
+    (i ? "L" : "M") +
+    (i / (vals.length - 1) * (w - 2) + 1).toFixed(1) + " " +
+    ((h - 3) - ((v - min) / span) * (h - 6)).toFixed(1)
+  ).join(" ");
+}
+
+/* =========================================================================
+   2. NAVIGASI
+   ========================================================================= */
+function renderNav() {
+  $("#nav").innerHTML = DATA.menu.map((m, i) => `
+    <div class="nav__item" data-open="false" data-i="${i}">
+      <button class="nav__link" aria-expanded="false" aria-haspopup="true">${esc(m.label)}
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      <div class="drop" role="menu">
+        <div class="drop__head"><span class="eyebrow">${esc(m.note)}</span></div>
+        ${m.items.map(it => `<a class="drop__link" role="menuitem" href="#berita" data-k="${it.k}">${esc(it.t)}</a>`).join("")}
+      </div>
+    </div>`).join("");
+
+  $$(".nav__item").forEach(item => {
+    const btn = $(".nav__link", item);
+    const open = v => { item.dataset.open = v; btn.setAttribute("aria-expanded", v); };
+    item.addEventListener("mouseenter", () => open("true"));
+    item.addEventListener("mouseleave", () => open("false"));
+    btn.addEventListener("click", e => {
+      e.stopPropagation();
+      const now = item.dataset.open === "true";
+      $$(".nav__item").forEach(o => { o.dataset.open = "false"; $(".nav__link", o).setAttribute("aria-expanded","false"); });
+      open(now ? "false" : "true");
+    });
+  });
+  document.addEventListener("click", () =>
+    $$(".nav__item").forEach(o => { o.dataset.open = "false"; $(".nav__link", o).setAttribute("aria-expanded","false"); })
+  );
+
+  /* Navigasi seluler */
+  $("#mnav").innerHTML = DATA.menu.map(m => `
+    <details>
+      <summary>${esc(m.label)}</summary>
+      <div class="mnav__sub">${m.items.map(it => `<a href="#berita" data-k="${it.k}">${esc(it.t)}</a>`).join("")}</div>
+    </details>`).join("") +
+    `<a href="#buletin" class="btn btn--primary" style="width:100%;margin-top:16px">Langganan buletin</a>`;
+
+  const burger = $("#burger"), mnav = $("#mnav");
+  burger.addEventListener("click", () => {
+    const open = mnav.dataset.open !== "true";
+    mnav.dataset.open = open;
+    burger.setAttribute("aria-expanded", open);
+    burger.setAttribute("aria-label", open ? "Tutup menu" : "Buka menu");
+  });
+
+  /* Klik butir menu ikut menyaring daftar berita */
+  document.addEventListener("click", e => {
+    const a = e.target.closest("[data-k]");
+    if (!a || !a.dataset.k) return;
+    mnav.dataset.open = "false";
+    burger.setAttribute("aria-expanded", "false");
+    setFilter(a.dataset.k, true);   /* dari menu: gulir ke daftar berita */
+  });
+}
+
+/* =========================================================================
+   3. PITA HARGA & JAM
+   ========================================================================= */
+function renderTicker() {
+  const one = DATA.coins.map(c => `
+    <span class="tick">
+      <span class="tick__sym">${c.s}</span>
+      <span class="tick__px">${rp(c.p)}</span>
+      <span class="tick__ch ${dir(c.ch24)}">${pct(c.ch24)}</span>
+    </span>`).join("");
+  $("#ticker").innerHTML = one + one;   /* digandakan agar gulungan mulus */
+}
+
+function startClock() {
+  const el = $("#clock");
+  const tick = () => {
+    el.textContent = new Date().toLocaleTimeString("id-ID", {
+      hour12:false, timeZone:"Asia/Jakarta", hour:"2-digit", minute:"2-digit", second:"2-digit"
+    });
+  };
+  tick(); setInterval(tick, 1000);
+}
+
+function renderStatus() {
+  $("#regstrip").innerHTML = DATA.status
+    .map(s => `<span class="regchip"><i data-state="${s.s}"></i>${esc(s.t)}</span>`).join("");
+}
+
+/* =========================================================================
+   4. TABEL PASAR
+   ========================================================================= */
+let sortKey = "cap", sortDesc = true;
+
+function renderMarket() {
+  const rows = [...DATA.coins].sort((a, b) => {
+    const map = { rank:"cap", price:"p", ch24:"ch24", ch7:"ch7", cap:"cap" };
+    const k = map[sortKey] || "cap";
+    return sortDesc ? b[k] - a[k] : a[k] - b[k];
+  });
+
+  $("#mtbody").innerHTML = rows.map(c => {
+    const series = seedSeries(c.s);
+    const stroke = c.ch7 >= 0 ? "#4FD69C" : "#FF7A7A";
+    return `
+      <tr>
+        <td>
+          <span class="coin">
+            <span class="coin__ic" style="background:${c.c}">${c.s.slice(0,2)}</span>
+            <span><span class="coin__nm">${esc(c.n)}</span><br><span class="coin__sy">${c.s}</span></span>
+          </span>
+        </td>
+        <td>${rp(c.p)}</td>
+        <td><span class="chg" data-dir="${dir(c.ch24)}">${pct(c.ch24)}</span></td>
+        <td class="col-hide-sm"><span class="chg" data-dir="${dir(c.ch7)}">${pct(c.ch7)}</span></td>
+        <td class="col-hide-md">Rp${c.cap.toLocaleString("id-ID")} T</td>
+        <td class="col-hide-sm">
+          <svg class="spark" viewBox="0 0 88 26" aria-hidden="true">
+            <path d="${sparkPath(series)}" fill="none" stroke="${stroke}" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+          </svg>
+        </td>
+      </tr>`;
+  }).join("");
+
+  $$(".mtable th").forEach(th => {
+    const b = $("button", th);
+    th.dataset.sorted = b && b.dataset.sort === sortKey ? "true" : "false";
+  });
+}
+
+function bindSort() {
+  $$(".mtable th button").forEach(b => b.addEventListener("click", () => {
+    const k = b.dataset.sort;
+    if (k === sortKey) sortDesc = !sortDesc; else { sortKey = k; sortDesc = true; }
+    renderMarket();
+  }));
+}
+
+/* Denyut harga: menggerakkan angka sedikit agar pita terasa hidup. */
+function startPriceTick() {
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  setInterval(() => {
+    DATA.coins.forEach(c => {
+      if (c.s === "USDT") return;
+      const drift = (Math.random() - 0.5) * 0.0035;
+      c.p    = c.p * (1 + drift);
+      c.ch24 = +(c.ch24 + drift * 100).toFixed(2);
+    });
+    renderTicker(); renderMarket(); updateConverter();
+  }, 6000);
+}
+
+/* =========================================================================
+   5. ARTIKEL
+   ========================================================================= */
+function articleCard(a) {
+  return `
+    <article class="card">
+      <div class="card__media"></div>
+      <div class="lead__meta" style="margin:0">
+        <span class="eyebrow">${esc(a.cat)}</span><span class="dot"></span><span class="stamp">${esc(a.a)}</span>
+      </div>
+      <h3 class="card__t"><a href="#">${esc(a.t)}</a></h3>
+      <p class="card__x">${esc(a.x)}</p>
+      <div class="card__f"><span class="stamp">${esc(a.w)}</span><span class="dot"></span><span class="stamp">${esc(a.r)} baca</span></div>
+    </article>`;
+}
+
+function renderTabs() {
+  const cats = ["semua", ...new Set(DATA.articles.map(a => a.k))];
+  const label = k => k === "semua" ? "Semua" : (DATA.articles.find(a => a.k === k) || {}).cat || k;
+  $("#tabs").innerHTML = cats.map(k =>
+    `<button class="tab" role="tab" data-f="${k}" aria-selected="${k === "semua"}">${esc(label(k))}</button>`
+  ).join("");
+  $$("#tabs .tab").forEach(t => t.addEventListener("click", () => setFilter(t.dataset.f)));
+}
+
+function setFilter(k, scroll = false) {
+  const known = DATA.articles.some(a => a.k === k);
+  const use = known ? k : "semua";
+  $$("#tabs .tab").forEach(t => t.setAttribute("aria-selected", t.dataset.f === use));
+  const list = use === "semua" ? DATA.articles : DATA.articles.filter(a => a.k === use);
+  $("#newsgrid").innerHTML = list.map(articleCard).join("");
+  $("#newsempty").style.display = list.length ? "none" : "block";
+  if (scroll) document.getElementById("berita").scrollIntoView({ behavior:"smooth", block:"start" });
+}
+
+function renderRanked() {
+  $("#ranked").innerHTML = DATA.ranked.map((a, i) => `
+    <div class="ranked__row">
+      <span class="ranked__n">${String(i + 1).padStart(2, "0")}</span>
+      <div>
+        <h3 class="ranked__t"><a href="#">${esc(a.t)}</a></h3>
+        <div class="ranked__m"><span class="eyebrow">${esc(a.cat)}</span><span class="dot"></span><span class="stamp">${esc(a.a)}</span></div>
+      </div>
+    </div>`).join("");
+}
+
+function renderReg() {
+  $("#reggrid").innerHTML = DATA.reg.map(r => `
+    <a class="regcard" href="#">
+      <span class="eyebrow" style="color:var(--amber)">${esc(r.tag)}</span>
+      <h3 class="regcard__t">${esc(r.t)}</h3>
+      <p class="regcard__x">${esc(r.x)}</p>
+      <div class="regcard__f"><span class="stamp" style="color:var(--on-ink-2)">${esc(r.a)}</span></div>
+    </a>`).join("");
+}
+
+function renderEdu() {
+  const ic = {
+    book:'<path d="M4 5a2 2 0 0 1 2-2h13v18H6a2 2 0 0 1-2-2V5Z"/><path d="M8 3v18"/>',
+    lock:'<rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/>',
+    chart:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+    doc:'<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8l-5-5Z"/><path d="M14 3v5h5M9 14h6M9 17h4"/>'
+  };
+  $("#edugrid").innerHTML = DATA.edu.map(e => `
+    <a class="edu" href="#">
+      <span class="edu__ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ic[e.ic]}</svg></span>
+      <h3 class="edu__t">${esc(e.t)}</h3>
+      <p class="edu__x">${esc(e.x)}</p>
+      <span class="edu__lv">${esc(e.lv)}</span>
+    </a>`).join("");
+}
+
+function renderAside() {
+  $("#agenda").innerHTML = DATA.agenda.map(a => `
+    <div class="slim__row">
+      <span class="mono" style="font-size:11px;font-weight:600;color:var(--signal);width:30px;flex:none;padding-top:2px">${esc(a.d)}</span>
+      <div><h4 class="slim__t"><a href="#">${esc(a.t)}</a></h4><span class="stamp">${esc(a.a)}</span></div>
+    </div>`).join("");
+
+  $("#opini").innerHTML = DATA.opini.map(o => `
+    <div class="slim__row">
+      <span class="slim__th"></span>
+      <div><h4 class="slim__t"><a href="#">${esc(o.t)}</a></h4><span class="stamp">${esc(o.w)}</span></div>
+    </div>`).join("");
+
+
+  $("#footcols").outerHTML = DATA.foot.map(c => `
+    <div>
+      <h4 class="foot__ttl">${esc(c.h)}</h4>
+      <ul class="foot__list">${c.l.map(x => `<li><a href="#">${esc(x)}</a></li>`).join("")}</ul>
+    </div>`).join("");
+}
+
+/* =========================================================================
+   6. PENCARIAN
+   ========================================================================= */
+function bindSearch() {
+  const input = $("#q"), box = $("#qres");
+  const close = () => box.dataset.show = "false";
+
+  input.addEventListener("input", () => {
+    const term = input.value.trim().toLowerCase();
+    if (term.length < 2) return close();
+
+    const arts = DATA.articles.filter(a => (a.t + a.x + a.cat).toLowerCase().includes(term)).slice(0, 5);
+    const cs   = DATA.coins.filter(c => (c.n + c.s).toLowerCase().includes(term)).slice(0, 3);
+
+    box.innerHTML =
+      (cs.length ? cs.map(c => `
+        <a class="search__hit" href="#pasar">
+          <span class="eyebrow">Aset</span>
+          <p>${esc(c.n)} · ${c.s} — <span class="mono">${rp(c.p)}</span></p>
+        </a>`).join("") : "") +
+      (arts.length ? arts.map(a => `
+        <a class="search__hit" href="#berita">
+          <span class="eyebrow">${esc(a.cat)}</span><p>${esc(a.t)}</p>
+        </a>`).join("") : "") ||
+      `<p class="search__empty">Tidak ada hasil untuk “${esc(input.value)}”. Coba kata kunci lain.</p>`;
+
+    box.dataset.show = "true";
+  });
+
+  input.addEventListener("keydown", e => { if (e.key === "Escape") { close(); input.blur(); } });
+  document.addEventListener("click", e => { if (!e.target.closest(".search")) close(); });
+}
+
+/* =========================================================================
+   7. ALAT: KONVERTER
+   ========================================================================= */
+let cvInverted = false;   /* false: IDR → kripto */
+
+function fillConverterOptions() {
+  const opts = DATA.coins.map(c => `<option value="${c.s}">${c.s} — ${c.n}</option>`).join("");
+  $("#cvToCur").innerHTML = opts;
+  $("#cvToCur").value = "BTC";
+}
+
+function coinBy(sym) { return DATA.coins.find(c => c.s === sym) || DATA.coins[0]; }
+
+function updateConverter(from = "left") {
+  const coin = coinBy(cvInverted ? $("#cvFromCur").value : $("#cvToCur").value);
+  const left = $("#cvFrom"), right = $("#cvTo");
+
+  if (from === "left") {
+    const v = parseFloat(left.value) || 0;
+    right.value = cvInverted ? Math.round(v * coin.p) : +(v / coin.p).toFixed(8);
+  } else {
+    const v = parseFloat(right.value) || 0;
+    left.value = cvInverted ? +(v / coin.p).toFixed(8) : Math.round(v * coin.p);
+  }
+  $("#cvRate").textContent = `1 ${coin.s} = ${rp(coin.p)}`;
+}
+
+function bindConverter() {
+  fillConverterOptions();
+  updateConverter();
+
+  $("#cvFrom").addEventListener("input", () => updateConverter("left"));
+  $("#cvTo").addEventListener("input", () => updateConverter("right"));
+  $("#cvToCur").addEventListener("change", () => updateConverter("left"));
+  $("#cvFromCur").addEventListener("change", () => updateConverter("left"));
+
+  $("#cvSwap").addEventListener("click", () => {
+    cvInverted = !cvInverted;
+    const coinOpts = DATA.coins.map(c => `<option value="${c.s}">${c.s} — ${c.n}</option>`).join("");
+    const idrOpt   = `<option value="IDR">IDR — Rupiah</option>`;
+    const sym      = cvInverted ? $("#cvToCur").value : $("#cvFromCur").value;
+
+    $("#cvFromCur").innerHTML = cvInverted ? coinOpts : idrOpt;
+    $("#cvToCur").innerHTML   = cvInverted ? idrOpt   : coinOpts;
+    if (cvInverted) { $("#cvFromCur").value = sym === "IDR" ? "BTC" : sym; }
+    else            { $("#cvToCur").value   = sym === "IDR" ? "BTC" : sym; }
+
+    $("#cvFrom").value = cvInverted ? 1 : 10000000;
+    updateConverter("left");
+  });
+}
+
+/* =========================================================================
+   8. ALAT: KALKULATOR PAJAK
+   ========================================================================= */
+function updateTax() {
+  const amt   = parseFloat($("#txAmt").value)  || 0;
+  const rate  = parseFloat($("#txRate").value) || 0;
+  const fee   = parseFloat($("#txFee").value)  || 0;
+
+  const tax   = amt * rate / 100;
+  const feeAm = amt * fee  / 100;
+
+  $("#txGross").textContent  = rp(amt);
+  $("#txTax").textContent    = rpDec(tax);
+  $("#txFeeOut").textContent = rpDec(feeAm);
+  $("#txTotal").textContent  = rpDec(tax + feeAm);
+  $("#txNet").textContent    = rp(amt - tax - feeAm);
+}
+
+function bindTax() {
+  ["txAmt", "txRate", "txFee"].forEach(id => $("#" + id).addEventListener("input", updateTax));
+  /* Memilih tempat transaksi hanya mengisi ulang tarif sebagai titik awal;
+     angka tetap bisa diubah manual oleh pengguna. */
+  $("#txVenue").addEventListener("change", e => {
+    $("#txRate").value = e.target.value === "dalam" ? "0.21" : "1.00";
+    updateTax();
+  });
+  updateTax();
+}
+
+/* =========================================================================
+   9. BULETIN
+   ========================================================================= */
+function bindSubscribe() {
+  $("#subForm").addEventListener("submit", e => {
+    e.preventDefault();
+    const email = $("#subEmail").value.trim();
+    const msg   = $("#subMsg");
+    const valid = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email);
+
+    if (!valid) {
+      msg.style.color = "#FF7A7A";
+      msg.textContent = "Masukkan alamat email yang lengkap, contoh nama@perusahaan.co.id";
+      return;
+    }
+    msg.style.color = "#4FD69C";
+    msg.textContent = "Terdaftar. Edisi pertama dikirim besok pukul 07.00 WIB.";
+    $("#subEmail").value = "";
+  });
+}
+
+/* =========================================================================
+   10. JALANKAN
+   ========================================================================= */
+document.addEventListener("DOMContentLoaded", () => {
+  renderNav();
+  renderTicker();
+  renderStatus();
+  renderMarket();
+  bindSort();
+  renderRanked();
+  renderTabs();
+  setFilter("semua");
+  renderReg();
+  renderEdu();
+  renderAside();
+  bindSearch();
+  bindConverter();
+  bindTax();
+  bindSubscribe();
+  startClock();
+  startPriceTick();
+});
+</script>
+
+<!-- =========================================================================
+     ADAPTER DATA LANGSUNG
+     Menyambungkan halaman ini ke API agregasi berita (dcm-ingest).
+     Bila API mati, halaman tetap tampil dengan data contoh statis.
+     MODE STATIS aktif. Data dibaca dari berkas JSON di docs/data/api/ yang
+     ditulis GitHub Actions setiap 30 menit. Tidak ada server yang perlu hidup.
+
+     Untuk kembali memakai FastAPI lokal saat mengembangkan, hapus tanda
+     komentar pada baris DCM_API_BASE di bawah ini.
+     ========================================================================= -->
+<script>
+  window.DCM_DATA_BASE = "data/api";
+  // window.DCM_API_BASE = "http://127.0.0.1:8000";
+</script>
+<script src="dcm-live.js"></script>
+
+</body>
+</html>

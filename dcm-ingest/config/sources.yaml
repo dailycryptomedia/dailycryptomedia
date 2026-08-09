@@ -1,0 +1,194 @@
+# =============================================================================
+#  DAILY CRYPTO MEDIA — REGISTRI SUMBER
+# =============================================================================
+#  Catatan penting sebelum mengubah berkas ini
+#  ---------------------------------------------------------------------------
+#  Pipeline ini SENGAJA hanya menyimpan judul, kutipan pendek dari feed, dan
+#  tautan kanonis. Tabel Article tidak punya kolom untuk isi artikel penuh.
+#  Itu batasan struktural, bukan sekadar konvensi. Jangan menambah kolom body.
+#
+#  Empat dari tujuh sumber sudah berbahasa Indonesia, jadi tidak perlu
+#  diterjemahkan sama sekali. Hanya tiga sumber berbahasa Inggris yang masuk
+#  antrean terjemahan. Ini memangkas biaya API sekitar 55 persen.
+#
+#  Kolom `needs_permission: true` menandai sumber yang mensyaratkan izin
+#  tertulis untuk sindikasi komersial. Sumber itu tetap diambil untuk
+#  pemantauan redaksi internal, tetapi `publish: false` menahannya agar tidak
+#  tampil di situs publik sampai perjanjian ditandatangani.
+# =============================================================================
+
+defaults:
+  user_agent: "DailyCryptoMediaBot/1.0 (+https://dailycryptomedia.id/bot; redaksi@dailycryptomedia.id)"
+  timeout_seconds: 20
+  # Jeda antar permintaan ke domain yang sama. Jangan diturunkan di bawah 2
+  # detik: feed berita diperbarui dalam hitungan menit, bukan detik.
+  min_interval_seconds: 3.0
+  max_items_per_poll: 40
+  respect_robots: true
+
+sources:
+
+  # ---------------------------------------------------------------------
+  # SUMBER BERBAHASA INDONESIA — tidak perlu terjemahan
+  # ---------------------------------------------------------------------
+
+  - slug: coindesk-id
+    name: "CoinDesk Indonesia"
+    homepage: "https://www.coindesk.com/id"
+    lang: id
+    # Edisi Indonesia belum tentu menyediakan feed terpisah. Urutan kandidat
+    # dicoba dari atas; bila semua gagal, discovery membaca tag <link rel=
+    # "alternate"> pada homepage. Bila tetap nihil, sumber ditandai needs_review
+    # dan pipeline memakai feed induk berbahasa Inggris + terjemahan.
+    feed_candidates:
+      - "https://www.coindesk.com/id/arc/outboundfeeds/rss/"
+      - "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    fallback_lang: en          # dipakai bila yang resolve adalah feed induk
+    publish: true
+    needs_permission: true
+    attribution: "CoinDesk"
+    license_note: >
+      Sindikasi komersial memerlukan perjanjian. Mode aman: tampilkan judul,
+      kutipan feed, dan tautan balik. Jangan menyalin isi artikel.
+
+  - slug: beincrypto-id
+    name: "BeInCrypto Indonesia"
+    homepage: "https://id.beincrypto.com/"
+    lang: id
+    feed_candidates:
+      - "https://id.beincrypto.com/feed/"
+      - "https://id.beincrypto.com/rss/"
+    publish: true
+    needs_permission: true
+    attribution: "BeInCrypto Indonesia"
+    license_note: "Feed WordPress. Konfirmasi ketentuan sindikasi ke redaksi."
+
+  - slug: blockchainmedia
+    name: "Blockchainmedia.id"
+    homepage: "https://blockchainmedia.id/"
+    lang: id
+    feed_candidates:
+      - "https://blockchainmedia.id/feed/"
+      - "https://blockchainmedia.id/rss/"
+    publish: true
+    needs_permission: true
+    attribution: "Blockchainmedia.id"
+    license_note: "Media siber terdaftar. Tunduk pada Pedoman Media Siber Dewan Pers."
+
+  - slug: coinvestasi
+    name: "Coinvestasi"
+    homepage: "https://coinvestasi.com/"
+    lang: id
+    feed_candidates:
+      - "https://coinvestasi.com/feed/"
+      - "https://coinvestasi.com/rss/"
+    publish: true
+    needs_permission: true
+    attribution: "Coinvestasi"
+    license_note: "Feed WordPress. Konfirmasi ketentuan sindikasi ke redaksi."
+
+  # ---------------------------------------------------------------------
+  # SUMBER BERBAHASA INGGRIS — masuk antrean terjemahan
+  # ---------------------------------------------------------------------
+
+  - slug: cointelegraph
+    name: "Cointelegraph"
+    homepage: "https://cointelegraph.com/"
+    lang: en
+    # Terverifikasi aktif per Agustus 2026, mengembalikan application/xml.
+    feed_candidates:
+      - "https://cointelegraph.com/rss"
+    # Feed per rubrik, dipakai bila ingin menambah kedalaman kanal tertentu.
+    topic_feeds:
+      bitcoin:  "https://cointelegraph.com/rss/tag/bitcoin"
+      defi:     "https://cointelegraph.com/rss/tag/defi"
+      regulasi: "https://cointelegraph.com/rss/tag/regulation"
+    publish: true
+    needs_permission: true
+    attribution: "Cointelegraph"
+    license_note: >
+      Feed publik. Terjemahan adalah karya turunan, jadi yang diterjemahkan
+      hanya judul; ringkasan ditulis ulang secara orisinal oleh model.
+
+  - slug: decrypt
+    name: "Decrypt"
+    homepage: "https://decrypt.co/"
+    lang: en
+    feed_candidates:
+      - "https://decrypt.co/feed"
+      - "https://decrypt.co/rss"
+    publish: true
+    needs_permission: true
+    attribution: "Decrypt"
+    license_note: "Periksa ketentuan penggunaan sebelum sindikasi komersial."
+
+  - slug: theblock
+    name: "The Block"
+    homepage: "https://www.theblock.co/"
+    lang: en
+    feed_candidates:
+      - "https://www.theblock.co/rss.xml"
+      - "https://www.theblock.co/feed"
+    publish: true
+    needs_permission: true
+    attribution: "The Block"
+    license_note: >
+      Sebagian konten berada di balik langganan Pro. Item berbayar dilewati
+      oleh pipeline karena kutipannya tidak tersedia secara publik.
+
+# =============================================================================
+#  PEMETAAN RUBRIK
+#  Kata kunci dicocokkan pada judul dan kutipan, sudah dinormalkan ke huruf
+#  kecil. Rubrik pertama yang cocok dengan skor tertinggi yang dipakai.
+# =============================================================================
+rubrics:
+  regulasi:
+    label: "Regulasi"
+    keywords: [ojk, bappebti, regulation, regulator, sec, lawmaker, bill, undang-undang,
+                peraturan, kebijakan, policy, license, izin, sanction, pajak, tax,
+                compliance, kepatuhan, mica, enforcement, pengadilan, court, lawsuit]
+  tokenisasi:
+    label: "Tokenisasi"
+    keywords: [tokenization, tokenized, tokenisasi, rwa, real-world asset, stablecoin,
+                treasury, obligasi, bond, custody, kustodi, emas, gold, securitization]
+  bitcoin:
+    label: "Bitcoin"
+    keywords: [bitcoin, btc, satoshi, halving, mining, penambangan, ordinal, lightning]
+  defi:
+    label: "DeFi"
+    keywords: [defi, lending, protocol, liquidity, likuiditas, yield, imbal hasil,
+                dex, amm, staking, tvl, vault, exploit, peretasan]
+  nft:
+    label: "NFT & Gaming"
+    keywords: [nft, gaming, game, metaverse, collectible, koleksi, opensea, mint]
+  web3:
+    label: "Web3"
+    keywords: [web3, wallet, dompet, layer 2, layer-2, rollup, zk, infrastructure,
+                infrastruktur, node, validator, jaringan, interoperability]
+  bisnis:
+    label: "Bisnis"
+    # "bursa" dan "exchange" sengaja TIDAK dimasukkan di sini. Keduanya
+    # muncul di hampir semua berita pasar, sehingga berita volume perdagangan
+    # ikut tersedot ke rubrik bisnis. Rubrik ini khusus aksi korporasi.
+    keywords: [funding, pendanaan, raise, acquisition, akuisisi, ipo, merger, revenue,
+                pendapatan, partnership, kemitraan, hire, layoff, penggalangan dana]
+  pasar:
+    label: "Pasar"
+    keywords: [price, harga, rally, surge, plunge, anjlok, melonjak, etf, inflow,
+                outflow, market, pasar, trading, perdagangan, volume, futures,
+                berjangka, analisis, exchange, bursa, likuidasi, koreksi]
+
+# =============================================================================
+#  SKOR RELEVANSI INDONESIA
+#  Menaikkan berita yang menyentuh pembaca lokal. Skor ditambahkan ke urutan
+#  tampilan, sehingga kabar regional tidak tenggelam oleh berita global.
+# =============================================================================
+relevance_boost:
+  indonesia:      [indonesia, indonesian, jakarta, rupiah, idr, ojk, bappebti,
+                    bi, bank indonesia, kominfo, ihsg, bursa efek, idx]
+  regional:       [southeast asia, asia tenggara, asean, singapore, singapura,
+                    malaysia, thailand, vietnam, filipina, philippines]
+  weights:
+    indonesia: 40
+    regional: 15
+    recency_hours_halflife: 8      # skor kesegaran meluruh separuh tiap 8 jam

@@ -1,0 +1,44 @@
+# =============================================================================
+#  Repo ini PUBLIK. Apa pun yang lolos ke sini bisa dibaca siapa saja, dan
+#  menghapusnya di commit berikutnya tidak menghapus jejaknya dari riwayat.
+#  Periksa `git status` sebelum commit pertama.
+# =============================================================================
+
+# --- Rahasia -----------------------------------------------------------------
+# Kunci API tinggal di GitHub Secrets, tidak pernah di dalam repo.
+# .env.example boleh ikut karena hanya berisi contoh tanpa nilai asli.
+.env
+.env.local
+*.key
+*.pem
+
+# --- Lingkungan Python -------------------------------------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Berkas kerja Windows ----------------------------------------------------
+Thumbs.db
+desktop.ini
+*.bat.bak
+
+# --- Log ---------------------------------------------------------------------
+*.log
+
+# =============================================================================
+#  DIKECUALIKAN DENGAN SENGAJA — jangan tambahkan ke daftar abaikan
+#  ---------------------------------------------------------------------------
+#  dcm-ingest/dcm.db  ikut di-commit. Basis data ini menyimpan keadaan
+#  deduplikasi dan hasil terjemahan antar putaran GitHub Actions. Bila
+#  diabaikan, setiap putaran mulai dari nol: artikel lama muncul lagi sebagai
+#  baru, dan terjemahan yang sudah dibayar dibayar ulang.
+#
+#  docs/data/  juga ikut di-commit. Justru berkas JSON itulah yang disajikan
+#  GitHub Pages sebagai isi situs.
+# =============================================================================

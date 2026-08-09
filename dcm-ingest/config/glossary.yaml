@@ -1,0 +1,166 @@
+# =============================================================================
+#  GLOSARIUM TERJEMAHAN KRIPTO — GAYA SELINGKUNG DAILY CRYPTO MEDIA
+# =============================================================================
+#  Masalah terbesar terjemahan mesin di berita kripto Indonesia bukan tata
+#  bahasa, melainkan istilah yang diterjemahkan padahal seharusnya dibiarkan.
+#  "Staking" jadi "mempertaruhkan", "bullish" jadi "kelakuan banteng". Pembaca
+#  kripto Indonesia memakai campuran: istilah teknis tetap Inggris, istilah
+#  keuangan umum diterjemahkan.
+#
+#  Glosarium ini disuntikkan ke prompt terjemahan. Urutan penting: `keep`
+#  diperiksa lebih dulu, baru `translate`.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# TETAP BAHASA INGGRIS
+# Istilah yang sudah jadi kosakata sehari-hari komunitas kripto Indonesia.
+# Menerjemahkannya justru membuat teks terasa asing.
+# ---------------------------------------------------------------------------
+keep:
+  - staking
+  - stablecoin
+  - airdrop
+  - halving
+  - mining          # "penambangan" masih dipakai, tetapi "mining" lebih lazim
+  - hashrate
+  - blockchain
+  - smart contract
+  - DeFi
+  - NFT
+  - token
+  - altcoin
+  - memecoin
+  - bullish
+  - bearish
+  - rug pull
+  - whale
+  - gas fee
+  - layer 2
+  - rollup
+  - validator
+  - node
+  - wallet          # "dompet" boleh dipakai bergantian; keduanya diterima
+  - private key
+  - seed phrase
+  - exchange        # lihat catatan di bawah: konteks menentukan
+  - listing
+  - delisting
+  - burn
+  - minting
+  - yield farming
+  - liquidity pool
+  - market maker
+  - order book
+  - spot
+  - futures
+  - leverage
+  - long
+  - short
+  - ETF
+  - custody
+  - oracle
+  - bridge
+  - testnet
+  - mainnet
+  - fork
+  - governance
+  - DAO
+  - KYC
+  - AML
+  - Web3
+  - metaverse
+  - tokenomics
+  - whitepaper
+  - roadmap
+
+# ---------------------------------------------------------------------------
+# WAJIB DITERJEMAHKAN
+# Istilah keuangan umum yang punya padanan mapan di media ekonomi Indonesia.
+# Membiarkannya dalam bahasa Inggris membuat tulisan terkesan malas.
+# ---------------------------------------------------------------------------
+translate:
+  market capitalization: "kapitalisasi pasar"
+  market cap: "kapitalisasi pasar"
+  trading volume: "volume perdagangan"
+  crypto exchange: "bursa kripto"
+  digital asset: "aset digital"
+  crypto asset: "aset kripto"
+  cryptocurrency: "aset kripto"
+  regulator: "regulator"
+  regulation: "regulasi"
+  lawmaker: "anggota parlemen"
+  lawsuit: "gugatan"
+  settlement: "penyelesaian"
+  enforcement action: "tindakan penegakan"
+  compliance: "kepatuhan"
+  disclosure: "keterbukaan informasi"
+  custodian: "kustodian"
+  yield: "imbal hasil"
+  interest rate: "suku bunga"
+  inflation: "inflasi"
+  institutional investor: "investor institusi"
+  retail investor: "investor ritel"
+  asset manager: "manajer investasi"
+  hedge fund: "dana lindung nilai"
+  venture capital: "modal ventura"
+  funding round: "putaran pendanaan"
+  valuation: "valuasi"
+  acquisition: "akuisisi"
+  partnership: "kemitraan"
+  inflow: "aliran dana masuk"
+  outflow: "aliran dana keluar"
+  all-time high: "rekor tertinggi"
+  all-time low: "rekor terendah"
+  price target: "target harga"
+  resistance level: "level resistensi"
+  support level: "level support"
+  volatility: "volatilitas"
+  liquidity: "likuiditas"
+  security breach: "pelanggaran keamanan"
+  hack: "peretasan"
+  scam: "penipuan"
+  fraud: "kecurangan"
+  money laundering: "pencucian uang"
+  sanctions: "sanksi"
+  central bank: "bank sentral"
+  treasury: "obligasi negara"
+  tokenization: "tokenisasi"
+  real-world assets: "aset dunia nyata"
+  proof of reserves: "bukti cadangan"
+  self-custody: "penyimpanan mandiri"
+
+# ---------------------------------------------------------------------------
+# NAMA LEMBAGA — jangan diterjemahkan, beri keterangan pada penyebutan pertama
+# ---------------------------------------------------------------------------
+institutions:
+  SEC: "Komisi Sekuritas dan Bursa Amerika Serikat (SEC)"
+  CFTC: "Komisi Perdagangan Berjangka Komoditas AS (CFTC)"
+  Fed: "bank sentral Amerika Serikat (The Fed)"
+  Federal Reserve: "bank sentral Amerika Serikat (The Fed)"
+  ECB: "Bank Sentral Eropa (ECB)"
+  IMF: "Dana Moneter Internasional (IMF)"
+  FATF: "Satuan Tugas Aksi Keuangan (FATF)"
+  MiCA: "regulasi MiCA Uni Eropa"
+  OJK: "Otoritas Jasa Keuangan (OJK)"
+  Bappebti: "Bappebti"
+  DOJ: "Departemen Kehakiman AS (DOJ)"
+  IRS: "otoritas pajak AS (IRS)"
+
+# ---------------------------------------------------------------------------
+# GAYA PENULISAN JUDUL
+# ---------------------------------------------------------------------------
+style:
+  headline:
+    - "Gunakan kalimat aktif. 'OJK terbitkan aturan', bukan 'Aturan diterbitkan OJK'."
+    - "Maksimal 95 karakter. Judul panjang terpotong di kartu berita."
+    - "Sentence case, bukan Title Case. Hanya huruf pertama dan nama diri."
+    - "Jangan menambah tanda seru, emoji, atau kata seperti 'MENGEJUTKAN'."
+    - "Angka besar ditulis singkat: 'Rp1,8 triliun', bukan 'Rp1.800.000.000'."
+    - "Nilai dolar dipertahankan dalam dolar, jangan dikonversi ke rupiah."
+    - "Jangan menambah informasi yang tidak ada pada judul asli."
+  summary:
+    - "Dua kalimat, maksimal 220 karakter total."
+    - "Tulis ulang secara orisinal. Jangan menerjemahkan kalimat per kalimat."
+    - "Jawab: apa yang terjadi, dan mengapa itu penting bagi pembaca Indonesia."
+    - "Nada berita lurus. Tanpa ajakan, tanpa penilaian, tanpa nasihat investasi."
+    - "Bila kutipan sumber terlalu tipis untuk diringkas, kembalikan string kosong."
