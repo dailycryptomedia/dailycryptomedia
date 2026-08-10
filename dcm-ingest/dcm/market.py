@@ -95,12 +95,22 @@ def ambil_pasar(jumlah: int = 10) -> dict | None:
     coins = []
     for c in koin:
         simbol = (c.get("symbol") or "").upper()
+        harga = c.get("current_price") or 0
         percikan = ((c.get("sparkline_in_7d") or {}).get("price")) or []
+
+        # CoinGecko mengembalikan sparkline_in_7d dalam dolar walaupun
+        # vs_currency diminta rupiah. Deretnya diskalakan agar titik
+        # terakhirnya sama dengan harga rupiah saat ini, sehingga satuannya
+        # konsisten dengan kolom Harga di sebelahnya.
+        if percikan and harga and percikan[-1]:
+            faktor = harga / percikan[-1]
+            percikan = [round(v * faktor) for v in percikan]
+
         coins.append({
             "n": c.get("name"),
             "s": simbol,
             "c": WARNA.get(simbol, "#3B9CFF"),
-            "p": c.get("current_price") or 0,
+            "p": harga,
             "ch24": round(c.get("price_change_percentage_24h_in_currency") or 0, 2),
             "ch7": round(c.get("price_change_percentage_7d_in_currency") or 0, 2),
             "cap": round((c.get("market_cap") or 0) / triliun, 0),
