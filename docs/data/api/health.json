@@ -2,8 +2,10 @@
  "status": "ok",
  "artikel_total": 350,
  "artikel_tayang": 55,
- "menit_sejak_pengambilan_terakhir": 5,
- "sumber_bermasalah": [],
- "diekspor_pada": "2026-08-10T06:45:03.960491+00:00",
+ "menit_sejak_pengambilan_terakhir": 10,
+ "sumber_bermasalah": [
+  "blockchainmedia"
+ ],
+ "diekspor_pada": "2026-08-10T06:49:53.205481+00:00",
  "mode": "statis"
 }
