@@ -177,6 +177,7 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("status", help="ringkasan isi basis data")
     sub.add_parser("lokal", help="siapkan artikel Indonesia tanpa API")
     sub.add_parser("rapikan", help="perbaiki ringkasan yang terpotong")
+    sub.add_parser("pasar", help="ambil data harga dan tulis market.json")
 
     p_retry = sub.add_parser("retry", help="kembalikan artikel gagal ke antrean")
     p_retry.add_argument("--limit", type=int, default=500)
@@ -234,6 +235,15 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "lokal":
         from .pipeline import promote_local
         print(f"{promote_local()} artikel Indonesia disiapkan")
+        return 0
+
+    if args.command == "pasar":
+        from .market import export_market
+        laporan = export_market()
+        print(f"\nData pasar: {laporan.pop('status')}")
+        for k, v in laporan.items():
+            print(f"  {k:<10} {v}")
+        print()
         return 0
 
     if args.command == "rapikan":
