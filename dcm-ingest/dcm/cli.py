@@ -176,6 +176,7 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("dedupe", help="jalankan deduplikasi saja")
     sub.add_parser("status", help="ringkasan isi basis data")
     sub.add_parser("lokal", help="siapkan artikel Indonesia tanpa API")
+    sub.add_parser("rapikan", help="perbaiki ringkasan yang terpotong")
 
     p_retry = sub.add_parser("retry", help="kembalikan artikel gagal ke antrean")
     p_retry.add_argument("--limit", type=int, default=500)
@@ -233,6 +234,11 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "lokal":
         from .pipeline import promote_local
         print(f"{promote_local()} artikel Indonesia disiapkan")
+        return 0
+
+    if args.command == "rapikan":
+        from .pipeline import rapikan_ringkasan
+        print(f"{rapikan_ringkasan()} ringkasan dirapikan")
         return 0
 
     if args.command == "retry":

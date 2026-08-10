@@ -240,7 +240,8 @@ class Translator:
         # Sumber lokal: tanpa panggilan API sama sekali.
         for article in local:
             article.title_id = article.title_src
-            article.summary_id = article.excerpt_src[:220]
+            from .pipeline import trim_summary
+            article.summary_id = trim_summary(article.excerpt_src)
             article.translated_at = datetime.now(timezone.utc)
             article.translate_model = "tanpa-terjemahan"
             article.status = ArticleStatus.TRANSLATED

@@ -286,6 +286,55 @@ def deduplicate(window_hours: int = 48) -> int:
 #  TAHAP 3 — TERJEMAHAN
 # =============================================================================
 
+def trim_summary(text: str, limit: int = 220) -> str:
+    """Potong ringkasan pada batas kata, bukan di tengah kata.
+
+    Pemotongan lama memakai `text[:220]` mentah, yang menghasilkan ekor
+    seperti "Pergerakan ini terj" — terbaca seperti situs rusak. Versi ini
+    mundur ke spasi terakhir lalu menutup dengan elipsis, sehingga kalimatnya
+    berhenti dengan wajar.
+    """
+    text = (text or "").strip()
+    if len(text) <= limit:
+        return text
+
+    cut = text[:limit]
+    space = cut.rfind(" ")
+    # Hanya mundur bila spasinya tidak terlalu jauh; kalau teks tanpa spasi
+    # panjang, lebih baik potong apa adanya daripada menyisakan sepotong kecil.
+    if space > limit * 0.6:
+        cut = cut[:space]
+
+    return cut.rstrip(" ,.;:-\u2014") + "\u2026"
+
+
+def rapikan_ringkasan() -> int:
+    """Susun ulang ringkasan yang terlanjur terpotong di tengah kata.
+
+    Kutipan asli tetap tersimpan utuh di kolom excerpt_src, jadi ringkasan
+    yang rusak bisa dibangun ulang tanpa mengambil apa pun dari penerbit.
+    """
+    with get_session() as session:
+        articles = list(session.scalars(
+            select(Article).where(
+                Article.translate_model == "tanpa-terjemahan",
+                Article.excerpt_src.is_not(None),
+            )
+        ))
+
+        diperbaiki = 0
+        for article in articles:
+            baru = trim_summary(article.excerpt_src)
+            if baru != article.summary_id:
+                article.summary_id = baru
+                diperbaiki += 1
+
+        session.commit()
+
+    log.info("ringkasan dirapikan: %s artikel", diperbaiki)
+    return diperbaiki
+
+
 def promote_local() -> int:
     """Siapkan artikel berbahasa Indonesia tanpa memanggil API sama sekali.
 
@@ -310,7 +359,7 @@ def promote_local() -> int:
 
         for article in articles:
             article.title_id = article.title_src
-            article.summary_id = (article.excerpt_src or "")[:220]
+            article.summary_id = trim_summary(article.excerpt_src)
             article.translated_at = datetime.now(timezone.utc)
             article.translate_model = "tanpa-terjemahan"
             article.status = ArticleStatus.TRANSLATED
@@ -432,6 +481,7 @@ def run_once(skip_translate: bool = False) -> dict:
     # Sumber Indonesia disiapkan lebih dulu dan selalu, tanpa syarat apa pun.
     # Mereka tidak memanggil API, jadi tidak ada alasan menahannya.
     local = promote_local()
+    rapikan_ringkasan()
     translated = 0 if skip_translate else translate_pending()
     published = publish_ready()
 
