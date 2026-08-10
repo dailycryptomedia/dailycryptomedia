@@ -37,7 +37,11 @@
      --------------------------------------------------------------------- */
 
   const API = window.DCM_API_BASE || null;
-  const DATA = window.DCM_DATA_BASE || "data/api";
+  /* Dinamai DATA_BASE, bukan DATA. Template menyimpan seluruh isi halamannya
+     di variabel global bernama DATA; memakai nama yang sama di sini akan
+     menutupinya, dan penggantian data pasar akan menulis ke tempat yang
+     salah tanpa memunculkan error apa pun. */
+  const DATA_BASE = window.DCM_DATA_BASE || "data/api";
   const REFRESH_MS = 5 * 60 * 1000;
 
   /* Pembatal cache berbutir menit. CDN GitHub Pages menyimpan berkas cukup
@@ -51,19 +55,21 @@
     const live = Boolean(API);
     switch (kind) {
       case "health":
-        return live ? API + "/api/health" : DATA + "/health.json" + stamp();
+        return live ? API + "/api/health" : DATA_BASE + "/health.json" + stamp();
       case "rubrics":
-        return live ? API + "/api/rubrics" : DATA + "/rubrics.json" + stamp();
+        return live ? API + "/api/rubrics" : DATA_BASE + "/rubrics.json" + stamp();
       case "top":
         return live ? API + "/api/articles/top?limit=5"
-                    : DATA + "/articles/top.json" + stamp();
+                    : DATA_BASE + "/articles/top.json" + stamp();
+      case "market":
+        return live ? API + "/api/market" : DATA_BASE + "/market.json" + stamp();
       case "articles":
         if (!rubric || rubric === "semua") {
-          return live ? API + "/api/articles" : DATA + "/articles.json" + stamp();
+          return live ? API + "/api/articles" : DATA_BASE + "/articles.json" + stamp();
         }
         return live
           ? API + "/api/articles?rubric=" + encodeURIComponent(rubric)
-          : DATA + "/articles/" + encodeURIComponent(rubric) + ".json" + stamp();
+          : DATA_BASE + "/articles/" + encodeURIComponent(rubric) + ".json" + stamp();
       default:
         throw new Error("endpoint tidak dikenal: " + kind);
     }
@@ -184,6 +190,103 @@
           <span class="stamp">${escapeHTML(a.w)} · ${escapeHTML(a.a)}</span>
         </div>
       </div>`).join("");
+  }
+
+  /* ---------------------------------------------------------------------
+     Pasar
+
+     Strategi di sini sengaja berbeda dari blok berita. Template sudah punya
+     renderMarket() dan renderTicker() lengkap dengan pengurutan kolom,
+     format rupiah, dan grafik kecil. Menulis ulang semua itu berarti
+     menduplikasi logika yang sudah bekerja.
+
+     Jadi yang kita lakukan hanya mengganti isi DATA.coins dengan angka
+     sungguhan, lalu memanggil ulang fungsi bawaannya. Seluruh perilaku
+     tabel — termasuk klik untuk mengurutkan — tetap utuh.
+     --------------------------------------------------------------------- */
+
+  function terapkanPasar(m) {
+    if (!m || !Array.isArray(m.coins) || !m.coins.length) return;
+
+    if (typeof DATA === "object" && DATA) {
+      DATA.coins = m.coins;
+      if (typeof renderMarket === "function") renderMarket();
+      if (typeof renderTicker === "function") renderTicker();
+    }
+
+    // Label bagian Pasar masih berbunyi "data contoh". Sekarang tidak lagi.
+    const label = document.querySelector("#pasar .eyebrow");
+    if (label) label.textContent = `Harga dalam rupiah · sumber ${m.sumber || "CoinGecko"}`;
+
+    terapkanIndeks(m.fng);
+    terapkanStatistik(m);
+  }
+
+  function terapkanIndeks(f) {
+    if (!f || f.kini == null) return;
+
+    const nilai = document.querySelector(".gauge__v");
+    const label = document.querySelector(".gauge__l");
+    const kaki = document.querySelector(".gauge-card__foot");
+
+    if (nilai) nilai.textContent = f.kini;
+    if (label) label.textContent = f.label || "";
+
+    // Busur berwarna dipotong sesuai angka indeks. Panjang penuh busur
+    // setengah lingkaran berjari-jari 80 adalah pi x 80 = 251.
+    const busur = document.getElementById("gaugeArc");
+    if (busur) {
+      const penuh = 251;
+      busur.setAttribute("stroke-dasharray",
+        `${(f.kini / 100) * penuh} ${penuh}`);
+    }
+
+    if (kaki) {
+      const bagian = [];
+      if (f.kemarin != null) bagian.push(`Kemarin ${f.kemarin}`);
+      if (f.pekan_lalu != null) bagian.push(`Pekan lalu ${f.pekan_lalu}`);
+      kaki.innerHTML = bagian.map(t => `<span>${escapeHTML(t)}</span>`).join("");
+    }
+  }
+
+  function terapkanStatistik(m) {
+    const kotak = document.querySelectorAll(".gauge-card .stat");
+    if (!kotak.length) return;
+
+    const tulis = (el, teks) => {
+      const v = el && el.querySelector(".stat__v");
+      if (v) v.textContent = teks;
+    };
+
+    const rp = n => "Rp" + Number(n).toLocaleString("id-ID") + " T";
+
+    if (m.global) {
+      tulis(kotak[0], rp(m.global.cap_t));
+      tulis(kotak[1], rp(m.global.vol_t));
+    }
+
+    if (m.lokal) {
+      tulis(kotak[2], rp(m.lokal.vol_t));
+    } else if (kotak[2]) {
+      // Tanpa angka bursa lokal, barisnya disembunyikan daripada
+      // menampilkan nilai contoh yang keliru.
+      kotak[2].style.display = "none";
+    }
+
+    if (m.global && kotak[3]) {
+      const nilai = kotak[3].querySelector(".stat__v");
+      if (nilai) {
+        nilai.textContent =
+          `BTC ${m.global.btc}% · ETH ${m.global.eth}%`.replace(/\./g, ",");
+      }
+      const batang = kotak[3].querySelectorAll(".bar i");
+      if (batang.length >= 3) {
+        const sisa = Math.max(0, 100 - m.global.btc - m.global.eth);
+        batang[0].style.width = m.global.btc + "%";
+        batang[1].style.width = m.global.eth + "%";
+        batang[2].style.width = sisa + "%";
+      }
+    }
   }
 
   function renderLead(a) {
@@ -315,6 +418,12 @@
         ambilRubrik("regulasi"),
         ambilRubrik("semua"),
       ]);
+
+      // Pasar diambil terpisah: harga yang gagal dimuat tidak boleh
+      // menghalangi berita tampil, dan sebaliknya.
+      getJSON("market")
+        .then(terapkanPasar)
+        .catch(() => console.info("[DCM] data pasar belum tersedia"));
 
       renderReg(regulasi);
       // Kolom samping diisi artikel di luar sorotan, supaya tidak mengulang
