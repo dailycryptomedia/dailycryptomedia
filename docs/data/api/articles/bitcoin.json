@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-08-07T21:07:17"
   },
   {
+   "id": 402,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Amerika Bantu Selamatkan Yen, Pasar Langsung Ambil Alih, dan Bitcoin Jadi Sorotan",
+   "x": "USD/JPY kembali ke level 159 seiring intervensi sebesar 88 miliar dolar AS oleh Jepang mulai memudar. Imbal hasil obligasi dan Bitcoin menghadapi ujian sebenarnya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/usd-jpy-159-yen-intervensi-memudar",
+   "img": "https://assets.beincrypto.com/img/S5WThhn2e45fVPeM9zdubaUauaA=/smart/cc38e2bd279241049ce4c33ebab043b5",
+   "a": "47 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T16:53:11"
+  },
+  {
    "id": 177,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -40,10 +54,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trezor-phishing-btcpay-exploit-keamanan-bitcoin",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-07T17:35:55"
+  },
+  {
+   "id": 404,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Membatalkan Fork BIP-110: Breakaway Coin Muncul sebelum 1 September?",
+   "x": "Fork BIP-110 berakhir setelah dua blok. Para pendukungnya kini menargetkan 1 September untuk perubahan proof-of-work dan peluncuran koin pecahan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bip-110-fork-breakaway-coin-september",
+   "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T14:50:43"
   },
   {
    "id": 377,
@@ -54,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/microstrategy-jual-bitcoin-agustus-fix-strc",
    "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-10T12:51:33"
@@ -68,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/penambang-bitcoin-tuntut-pemecatan-pemimpin-ocean-bip-110",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-10T09:51:18"
@@ -82,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laporan-pekerjaan-juli-the-fed-kripto",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-07T14:36:01"
