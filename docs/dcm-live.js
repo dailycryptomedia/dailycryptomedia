@@ -258,15 +258,30 @@
       if (v) v.textContent = teks;
     };
 
-    const rp = n => "Rp" + Number(n).toLocaleString("id-ID") + " T";
+    /* Pilih satuan yang sesuai besarannya. Kapitalisasi global memang pantas
+       dalam triliun, tapi volume bursa lokal sekitar Rp192 miliar akan
+       menyusut jadi "Rp0,2 T" dan terbaca seperti nol. */
+    const rp = n => {
+      const v = Number(n) || 0;
+      if (v >= 1e12) return "Rp" + Math.round(v / 1e12).toLocaleString("id-ID") + " T";
+      if (v >= 1e9) return "Rp" + Math.round(v / 1e9).toLocaleString("id-ID") + " M";
+      if (v >= 1e6) return "Rp" + Math.round(v / 1e6).toLocaleString("id-ID") + " Jt";
+      return "Rp" + Math.round(v).toLocaleString("id-ID");
+    };
 
     if (m.global) {
-      tulis(kotak[0], rp(m.global.cap_t));
-      tulis(kotak[1], rp(m.global.vol_t));
+      tulis(kotak[0], rp(m.global.cap_idr));
+      tulis(kotak[1], rp(m.global.vol_idr));
     }
 
     if (m.lokal) {
-      tulis(kotak[2], rp(m.lokal.vol_t));
+      tulis(kotak[2], rp(m.lokal.vol_idr));
+      // Volume dalam BTC ikut ditampilkan sebagai keterangan, karena itulah
+      // satuan yang dilaporkan bursanya sendiri.
+      const kunci = kotak[2] && kotak[2].querySelector(".stat__k");
+      if (kunci && m.lokal.vol_btc) {
+        kunci.textContent = `Volume ${m.lokal.nama || "bursa lokal"} · ${m.lokal.vol_btc} BTC`;
+      }
     } else if (kotak[2]) {
       // Tanpa angka bursa lokal, barisnya disembunyikan daripada
       // menampilkan nilai contoh yang keliru.
