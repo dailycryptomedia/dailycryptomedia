@@ -1,10 +1,16 @@
 # =============================================================================
-#  PENARIK BERITA OTOMATIS
+#  PENARIK BERITA + PENERBIT SITUS
 #  ---------------------------------------------------------------------------
 #  Alur kerja ini menggantikan jendela CMD "3-penarik.bat" di komputer lokal.
 #  Setiap 30 menit GitHub menjalankan pipeline, menulis ulang berkas JSON di
-#  docs/data/api/, lalu meng-commit hasilnya. GitHub Pages otomatis menyajikan
-#  versi terbaru beberapa detik setelah commit masuk.
+#  docs/data/api/, meng-commit hasilnya, lalu MENERBITKAN SENDIRI folder docs
+#  ke GitHub Pages.
+#
+#  Kenapa menerbitkan sendiri, bukan memakai mode "Deploy from a branch"?
+#  Karena commit yang didorong oleh Actions memakai GITHUB_TOKEN tidak memicu
+#  pembangunan ulang Pages. Dengan mode branch, berita baru akan masuk ke repo
+#  tetapi situs tetap menampilkan data lama selamanya. Pekerjaan "terbitkan"
+#  di bawah memutus masalah itu.
 #
 #  Basis data dcm.db ikut di-commit dengan sengaja. Di dalamnya tersimpan
 #  keadaan deduplikasi dan hasil terjemahan; tanpa itu, setiap putaran akan
@@ -16,13 +22,22 @@ name: Perbarui berita
 
 on:
   schedule:
-    # Setiap 30 menit. Jadwal GitHub kerap meleset 5–15 menit saat sedang
+    # Setiap 30 menit. Jadwal GitHub kerap meleset 5-15 menit saat sedang
     # ramai; itu perilaku normal, bukan kegagalan.
     - cron: "*/30 * * * *"
   workflow_dispatch:        # tombol "Run workflow" untuk menjalankan manual
+  push:
+    branches: [main]
+    # Supaya perubahan tampilan yang kamu kirim dari komputer langsung terbit,
+    # tanpa menunggu putaran terjadwal berikutnya.
+    paths:
+      - "docs/**"
+      - ".github/workflows/update-news.yml"
 
 permissions:
-  contents: write           # diperlukan agar workflow boleh melakukan push
+  contents: write           # untuk meng-commit JSON dan dcm.db
+  pages: write              # untuk menerbitkan ke GitHub Pages
+  id-token: write           # dibutuhkan mekanisme penerbitan Pages
 
 concurrency:
   # Mencegah dua putaran menulis dcm.db bersamaan, yang akan berakhir dengan
@@ -31,6 +46,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+
+  # ---------------------------------------------------------------------------
+  #  1. Tarik berita, ekspor JSON, simpan ke repo
+  # ---------------------------------------------------------------------------
   perbarui:
     runs-on: ubuntu-latest
 
@@ -64,10 +83,16 @@ jobs:
           if [ -n "$DCM_ANTHROPIC_API_KEY" ]; then
             python -m dcm.cli run
           else
-            echo "::warning::ANTHROPIC_API_KEY kosong — terjemahan dilewati"
+            echo "::warning::ANTHROPIC_API_KEY kosong, terjemahan dilewati"
             python -m dcm.cli run --skip-translate
           fi
           python -m dcm.cli export
+
+      - name: Ringkasan isi basis data
+        working-directory: dcm-ingest
+        env:
+          DCM_DATABASE_URL: sqlite:///dcm.db
+        run: python -m dcm.cli status
 
       - name: Commit hasil
         run: |
@@ -80,13 +105,30 @@ jobs:
             echo "Tidak ada perubahan, tidak ada yang perlu di-commit."
           else
             git commit -m "berita: perbarui $(date -u '+%Y-%m-%d %H:%M UTC')"
-            # Rebase dulu untuk berjaga-jaga bila ada commit manual di sela.
             git pull --rebase --autostash
             git push
           fi
 
-      - name: Ringkasan
-        working-directory: dcm-ingest
-        env:
-          DCM_DATABASE_URL: sqlite:///dcm.db
-        run: python -m dcm.cli status
+      # Folder docs dibungkus APA ADANYA dari cakram kerja, jadi berkas JSON
+      # yang baru saja ditulis ikut terbawa, bukan versi yang tersimpan di
+      # repo sebelum putaran ini.
+      - name: Bungkus folder docs
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  # ---------------------------------------------------------------------------
+  #  2. Terbitkan ke GitHub Pages
+  # ---------------------------------------------------------------------------
+  terbitkan:
+    needs: perbarui
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.penerbitan.outputs.page_url }}
+
+    steps:
+      - name: Terbitkan
+        id: penerbitan
+        uses: actions/deploy-pages@v4
