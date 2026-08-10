@@ -75,6 +75,7 @@ jobs:
         env:
           DCM_ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DCM_DATABASE_URL: sqlite:///dcm.db
+          DCM_COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
         run: |
           python -m dcm.cli init
           # Tanpa kunci API, tahap terjemahan dilewati dan situs tetap terbit
@@ -87,6 +88,9 @@ jobs:
             python -m dcm.cli run --skip-translate
           fi
           python -m dcm.cli export
+          # Data pasar diambil terpisah. Kegagalannya tidak boleh
+          # menggagalkan penerbitan berita, jadi errornya ditelan di sini.
+          python -m dcm.cli pasar || echo "::warning::data pasar gagal diambil, memakai berkas lama"
 
       - name: Ringkasan isi basis data
         working-directory: dcm-ingest
