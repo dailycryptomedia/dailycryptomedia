@@ -18,7 +18,7 @@
 # =============================================================================
 
 defaults:
-  user_agent: "DailyCryptoMediaBot/1.0 (+https://dailycryptomedia.id/bot; redaksi@dailycryptomedia.id)"
+  user_agent: "DailyCryptoMediaBot/1.0 (+https://dailycryptomedia.com/bot; redaksi@dailycryptomedia.com)"
   timeout_seconds: 20
   # Jeda antar permintaan ke domain yang sama. Jangan diturunkan di bawah 2
   # detik: feed berita diperbarui dalam hitungan menit, bukan detik.
