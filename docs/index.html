@@ -1072,10 +1072,15 @@ const DATA = {
       { t:"Web3 & Infrastruktur", k:"web3" },
       { t:"Bisnis & Korporasi",   k:"bisnis" }
     ]},
+    /* Enam butir semula mengarah ke #berita dan tidak melakukan apa pun.
+       Kini empat butir yang benar-benar punya data diarahkan ke bagian
+       "Pasar hari ini". Aliran dana ETF dan Kalender ekonomi dihapus karena
+       tidak ada sumber datanya; lebih baik hilang daripada menipu. */
     { label:"Pasar", note:"Data langsung", items:[
-      { t:"Harga aset kripto", k:"" }, { t:"Kapitalisasi pasar", k:"" },
-      { t:"Dominasi Bitcoin", k:"" },  { t:"Indeks takut & serakah", k:"" },
-      { t:"Aliran dana ETF", k:"" },   { t:"Kalender ekonomi", k:"" }
+      { t:"Harga aset kripto", k:"", h:"#pasar" },
+      { t:"Kapitalisasi pasar", k:"", h:"#pasar" },
+      { t:"Dominasi Bitcoin", k:"", h:"#pasar" },
+      { t:"Indeks takut & serakah", k:"", h:"#pasar" }
     ]},
     { label:"Analisis", note:"Kajian pasar", items:[
       { t:"Analisis teknikal", k:"analisis" }, { t:"Data on-chain", k:"analisis" },
@@ -1204,6 +1209,12 @@ const esc   = s => String(s).replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;","
 
 /* Deret harga semu yang stabil per simbol — dipakai untuk grafik mini. */
 function seedSeries(seed, n = 30) {
+  /* Bila koin ini punya grafik mingguan sungguhan dari CoinGecko, pakai itu.
+     Deret acak di bawah hanya jalur mundur untuk data contoh, supaya halaman
+     tetap utuh sebelum market.json termuat. */
+  const nyata = ((DATA.coins || []).find(c => c.s === seed) || {}).spark;
+  if (Array.isArray(nyata) && nyata.length > 2) return nyata;
+
   let x = 0;
   for (let i = 0; i < seed.length; i++) x = (x * 31 + seed.charCodeAt(i)) % 9973;
   const out = [];
@@ -1236,7 +1247,7 @@ function renderNav() {
       </button>
       <div class="drop" role="menu">
         <div class="drop__head"><span class="eyebrow">${esc(m.note)}</span></div>
-        ${m.items.map(it => `<a class="drop__link" role="menuitem" href="#berita" data-k="${it.k}">${esc(it.t)}</a>`).join("")}
+        ${m.items.map(it => `<a class="drop__link" role="menuitem" href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}
       </div>
     </div>`).join("");
 
@@ -1260,7 +1271,7 @@ function renderNav() {
   $("#mnav").innerHTML = DATA.menu.map(m => `
     <details>
       <summary>${esc(m.label)}</summary>
-      <div class="mnav__sub">${m.items.map(it => `<a href="#berita" data-k="${it.k}">${esc(it.t)}</a>`).join("")}</div>
+      <div class="mnav__sub">${m.items.map(it => `<a href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}</div>
     </details>`).join("") +
     `<a href="#buletin" class="btn btn--primary" style="width:100%;margin-top:16px">Langganan buletin</a>`;
 
