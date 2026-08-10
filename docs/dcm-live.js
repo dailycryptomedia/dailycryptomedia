@@ -130,6 +130,62 @@
      artikel teratas yang sesungguhnya, dan menyebut penerbit aslinya.
      --------------------------------------------------------------------- */
 
+  /* ---------------------------------------------------------------------
+     Blok sekunder
+
+     Template menyediakan empat blok yang semula diisi data karangan:
+     Fokus Regulasi, Kolom Opini, Agenda, dan Akademi. Dua di antaranya punya
+     padanan nyata di basis data dan disambungkan di sini. Dua sisanya —
+     Agenda dan Akademi — tidak punya sumber data sama sekali, jadi
+     disembunyikan lewat CSS alih-alih diisi karangan.
+     --------------------------------------------------------------------- */
+
+  function renderReg(articles) {
+    const host = document.getElementById("reggrid");
+    if (!host) return;
+
+    if (!articles || !articles.length) {
+      // Rubrik regulasi bisa kosong pada hari yang sepi. Sembunyikan seluruh
+      // bagiannya daripada menampilkan kisi melompong.
+      const section = document.getElementById("regulasi");
+      if (section) section.style.display = "none";
+      return;
+    }
+
+    host.innerHTML = articles.slice(0, 4).map(a => `
+      <a class="regcard" href="${escapeAttr(a.url)}" target="_blank" rel="noopener nofollow">
+        <span class="eyebrow" style="color:var(--amber)">${escapeHTML(a.w)}</span>
+        <h3 class="regcard__t">${escapeHTML(a.t)}</h3>
+        <p class="regcard__x">${escapeHTML(a.x || "")}</p>
+        <div class="regcard__f">
+          <span class="stamp" style="color:var(--on-ink-2)">${escapeHTML(a.a)}</span>
+        </div>
+      </a>`).join("");
+  }
+
+  function renderSlim(id, articles) {
+    const host = document.getElementById(id);
+    if (!host) return;
+
+    if (!articles || !articles.length) {
+      const box = host.closest(".aside-box");
+      if (box) box.style.display = "none";
+      return;
+    }
+
+    host.innerHTML = articles.slice(0, 5).map(a => `
+      <div class="slim__row">
+        <div>
+          <h4 class="slim__t">
+            <a href="${escapeAttr(a.url)}" target="_blank" rel="noopener nofollow">
+              ${escapeHTML(a.t)}
+            </a>
+          </h4>
+          <span class="stamp">${escapeHTML(a.w)} · ${escapeHTML(a.a)}</span>
+        </div>
+      </div>`).join("");
+  }
+
   function renderLead(a) {
     const host = document.getElementById("lead");
     if (!host || !a) return;
@@ -243,6 +299,28 @@
       // halaman tidak lagi menampilkan artikel contoh.
       renderLead(Array.isArray(top) ? top[0] : null);
       const payload = await loadArticles(currentRubric);
+
+      // Blok sekunder diambil terpisah dan tidak boleh menggagalkan halaman:
+      // kalau rubriknya kosong, berkasnya memang tidak ada, dan itu wajar.
+      const ambilRubrik = async (nama) => {
+        try {
+          const r = await getJSON("articles", nama);
+          return r.articles || [];
+        } catch {
+          return [];
+        }
+      };
+
+      const [regulasi, semua] = await Promise.all([
+        ambilRubrik("regulasi"),
+        ambilRubrik("semua"),
+      ]);
+
+      renderReg(regulasi);
+      // Kolom samping diisi artikel di luar sorotan, supaya tidak mengulang
+      // judul yang sudah tampil besar di bagian atas halaman.
+      const idSorotan = new Set((Array.isArray(top) ? top : []).map(a => a.id));
+      renderSlim("opini", semua.filter(a => !idSorotan.has(a.id)));
 
       const usia = health.menit_sejak_pengambilan_terakhir;
       const segar = usia == null ? "" : ` · diperbarui ${usia} menit lalu`;
