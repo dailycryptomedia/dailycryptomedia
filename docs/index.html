@@ -302,7 +302,21 @@ button{ font:inherit; color:inherit; cursor:pointer; }
 .section--ink .shead__more{ color:var(--signal-br); }
 
 
-/* Placeholder gambar: motif garis data, bukan kotak kosong */
+/* ---------------------------------------------------------------------------
+   Placeholder gambar DIMATIKAN
+
+   Situs ini menyajikan berita agregasi: judul, kutipan pendek, dan tautan ke
+   penerbit. Tidak ada gambar yang kita miliki sendiri, sehingga kotak
+   placeholder selalu tampil kosong dan membuat halaman terlihat rusak.
+
+   Satu aturan ini mematikan seluruhnya sekaligus — di kartu, laporan utama,
+   maupun daftar ramping — termasuk bagian halaman yang tidak disentuh JS.
+   Hapus baris display:none bila suatu saat gambar penerbit hendak dipasang
+   (URL-nya sudah tersedia di field `img` pada data artikel).
+   --------------------------------------------------------------------------- */
+.lead__media, .card__media, .slim__th{ display:none !important; }
+
+/* Aturan lama dipertahankan di bawah agar mudah dipulihkan bila diperlukan. */
 .lead__media, .card__media, .slim__th{
   background-image:
     repeating-linear-gradient(90deg, rgba(233,241,250,.055) 0 1px, transparent 1px 26px),
