@@ -286,6 +286,68 @@ def deduplicate(window_hours: int = 48) -> int:
 #  TAHAP 3 — TERJEMAHAN
 # =============================================================================
 
+def promote_local() -> int:
+    """Siapkan artikel berbahasa Indonesia tanpa memanggil API sama sekali.
+
+    Sumber lokal tidak butuh terjemahan: judulnya dipakai apa adanya dan
+    kutipan feed dijadikan ringkasan. Pekerjaan ini dulunya berada di dalam
+    kelas Translator, yang menolak berjalan tanpa kunci API — akibatnya empat
+    sumber Indonesia ikut terhenti hanya karena kunci Anthropic belum diisi.
+
+    Sekarang berdiri sendiri, sehingga situs tetap terisi berita segar
+    walaupun tahap terjemahan dilewati sepenuhnya.
+    """
+    from .models import ArticleStatus
+
+    with get_session() as session:
+        articles = list(session.scalars(
+            select(Article).where(
+                Article.status == ArticleStatus.NEW,
+                Article.lang_src == "id",
+                Article.is_cluster_lead.is_(True),
+            )
+        ))
+
+        for article in articles:
+            article.title_id = article.title_src
+            article.summary_id = (article.excerpt_src or "")[:220]
+            article.translated_at = datetime.now(timezone.utc)
+            article.translate_model = "tanpa-terjemahan"
+            article.status = ArticleStatus.TRANSLATED
+
+        session.commit()
+
+    log.info("sumber lokal disiapkan: %s artikel", len(articles))
+    return len(articles)
+
+
+def retry_failed(limit: int = 500) -> int:
+    """Kembalikan artikel berstatus FAILED ke antrean terjemahan.
+
+    Terjemahan yang gagal karena kunci API salah atau gangguan jaringan
+    berakhir sebagai FAILED, dan pipeline tidak pernah mencobanya lagi karena
+    hanya mengambil yang berstatus NEW. Perintah ini yang membuka jalannya.
+    """
+    from .models import ArticleStatus
+
+    with get_session() as session:
+        articles = list(session.scalars(
+            select(Article)
+            .where(Article.status == ArticleStatus.FAILED)
+            .order_by(Article.score.desc())
+            .limit(limit)
+        ))
+
+        for article in articles:
+            article.status = ArticleStatus.NEW
+            article.error_note = None
+
+        session.commit()
+
+    log.info("dikembalikan ke antrean: %s artikel", len(articles))
+    return len(articles)
+
+
 def translate_pending(limit: int = 60) -> int:
     """Terjemahkan artikel berstatus NEW yang merupakan pemimpin cluster.
 
@@ -367,12 +429,16 @@ def run_once(skip_translate: bool = False) -> dict:
 
     fetch_stats = asyncio.run(fetch_all())
     duplicates = deduplicate()
+    # Sumber Indonesia disiapkan lebih dulu dan selalu, tanpa syarat apa pun.
+    # Mereka tidak memanggil API, jadi tidak ada alasan menahannya.
+    local = promote_local()
     translated = 0 if skip_translate else translate_pending()
     published = publish_ready()
 
     summary = {
         **fetch_stats,
         "kembar": duplicates,
+        "lokal": local,
         "diterjemahkan": translated,
         "diterbitkan": published,
     }

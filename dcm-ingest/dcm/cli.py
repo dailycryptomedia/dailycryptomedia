@@ -175,6 +175,10 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("fetch", help="ambil feed saja")
     sub.add_parser("dedupe", help="jalankan deduplikasi saja")
     sub.add_parser("status", help="ringkasan isi basis data")
+    sub.add_parser("lokal", help="siapkan artikel Indonesia tanpa API")
+
+    p_retry = sub.add_parser("retry", help="kembalikan artikel gagal ke antrean")
+    p_retry.add_argument("--limit", type=int, default=500)
 
     p_translate = sub.add_parser("translate", help="terjemahkan yang tertunda")
     p_translate.add_argument("--limit", type=int, default=60)
@@ -224,6 +228,16 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "dedupe":
         from .pipeline import deduplicate
         print(f"{deduplicate()} artikel ditandai kembar")
+        return 0
+
+    if args.command == "lokal":
+        from .pipeline import promote_local
+        print(f"{promote_local()} artikel Indonesia disiapkan")
+        return 0
+
+    if args.command == "retry":
+        from .pipeline import retry_failed
+        print(f"{retry_failed(args.limit)} artikel dikembalikan ke antrean")
         return 0
 
     if args.command == "translate":
