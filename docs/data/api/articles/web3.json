@@ -1,5 +1,5 @@
 {
- "total": 2,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-07T19:09:17"
   },
   {
+   "id": 380,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Australia Cabut 96 ATM Kripto dari Jaringan karena Gagal Lapor AML",
+   "x": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) telah menangguhkan pendaftaran operator ATM kripto Cryptolink selama 3 bulan, sehingga 96 ATM aset kripto milik mereka di seluruh Australia harus offline…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/austrac-menangguhkan-crypto-atm-cryptolink",
+   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T11:46:01"
+  },
+  {
    "id": 276,
    "k": "web3",
    "cat": "Web3",
@@ -26,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-data-center-texas-grid-pause",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-09T10:46:56"

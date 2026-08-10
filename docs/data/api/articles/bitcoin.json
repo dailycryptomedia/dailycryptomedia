@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,6 +46,34 @@
    "published_at": "2026-08-07T17:35:55"
   },
   {
+   "id": 377,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "MicroStrategy Jual Lebih Banyak Bitcoin untuk Perbaiki Saham STRC: Akankah Ini Berhasil?",
+   "x": "Strategi menjual 1.690 Bitcoin senilai $108,6 juta untuk membeli kembali saham STRC yang masih diperdagangkan di bawah nilai pari $100.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/microstrategy-jual-bitcoin-agustus-fix-strc",
+   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T12:51:33"
+  },
+  {
+   "id": 386,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Miner Tuntut Penggantian Kepemimpinan OCEAN setelah Bencana Fork BIP-110",
+   "x": "Bitcoin mining pool OCEAN menghadapi krisis yang kian membesar setelah pengakuan kontroversial. Pool ini mengarahkan sebagian hashrate pengguna ke chain minoritas BIP-110 yang gagal tanpa persetujuan yang jelas. Insiden…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penambang-bitcoin-tuntut-pemecatan-pemimpin-ocean-bip-110",
+   "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T09:51:18"
+  },
+  {
    "id": 180,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -68,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/inflow-xrp-etf-turun-analisis-akumulasi-whale",
    "img": "https://assets.beincrypto.com/img/AQqfiw1KPvfz6lrE8Ml624Kzy5w=/smart/b640fc5cac474fc78e9fb263fb3e3acf",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-07T11:07:55"
@@ -96,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bip-110-wajib-sinyal-bitcoin-core-peringatan",
    "img": "https://assets.beincrypto.com/img/LxnO2fiinjRnRpl3-OKZB9mG3Cg=/smart/624adfe4f31a49c8aa15195a0f1c4b16",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-07T11:01:12"
@@ -110,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-earnings-untuk-dipantau-di-agustus",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-09T11:14:38"
