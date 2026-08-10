@@ -93,7 +93,6 @@
 
     return `
       <article class="card">
-        <div class="card__media"></div>
         <div class="lead__meta" style="margin:0">
           <span class="eyebrow">${escapeHTML(a.cat)}</span>
           <span class="dot"></span><span class="stamp">${escapeHTML(a.a)}</span>
@@ -121,6 +120,34 @@
   /* ---------------------------------------------------------------------
      Pemasangan ulang render
      --------------------------------------------------------------------- */
+
+  /* ---------------------------------------------------------------------
+     Laporan utama
+
+     Blok ini semula berisi artikel contoh bawaan, lengkap dengan baris
+     "Oleh Tim Redaksi Daily Crypto Media". Untuk berita agregasi, baris itu
+     keliru: penulisnya bukan redaksi kita. Versi ini menggantinya dengan
+     artikel teratas yang sesungguhnya, dan menyebut penerbit aslinya.
+     --------------------------------------------------------------------- */
+
+  function renderLead(a) {
+    const host = document.getElementById("lead");
+    if (!host || !a) return;
+
+    host.innerHTML = `
+      <div class="lead__meta">
+        <span class="eyebrow eyebrow--amber">${escapeHTML(a.cat)}</span>
+        <span class="dot"></span><span class="stamp">${escapeHTML(a.a)}</span>
+        <span class="dot"></span><span class="stamp">${escapeHTML(a.r || "")}</span>
+      </div>
+      <h1 class="lead__title">
+        <a href="${escapeAttr(a.url)}" target="_blank" rel="noopener nofollow">
+          ${escapeHTML(a.t)}
+        </a>
+      </h1>
+      <p class="lead__deck">${escapeHTML(a.x || "")}</p>
+      <p class="byline">Dari <b>${escapeHTML(a.w)}</b> · baca selengkapnya di situs penerbit</p>`;
+  }
 
   function renderGrid(articles) {
     const grid = document.getElementById("newsgrid");
@@ -212,6 +239,9 @@
       });
 
       renderRankedLive(top);
+      // Artikel teratas naik jadi laporan utama, sehingga blok terbesar di
+      // halaman tidak lagi menampilkan artikel contoh.
+      renderLead(Array.isArray(top) ? top[0] : null);
       const payload = await loadArticles(currentRubric);
 
       const usia = health.menit_sejak_pengambilan_terakhir;
