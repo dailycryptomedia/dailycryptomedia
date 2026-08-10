@@ -1073,14 +1073,18 @@ const DATA = {
       { t:"Bisnis & Korporasi",   k:"bisnis" }
     ]},
     /* Enam butir semula mengarah ke #berita dan tidak melakukan apa pun.
-       Kini empat butir yang benar-benar punya data diarahkan ke bagian
-       "Pasar hari ini". Aliran dana ETF dan Kalender ekonomi dihapus karena
-       tidak ada sumber datanya; lebih baik hilang daripada menipu. */
+       Empat butir yang punya data kini diarahkan ke bagian "Pasar hari ini".
+
+       Dua sisanya ditandai sembunyi:true, bukan dihapus. Datanya belum ada,
+       jadi tidak layak tampil — tetapi rencananya masih tercatat di sini.
+       Untuk menyalakannya lagi, cukup hapus penanda sembunyi pada butirnya. */
     { label:"Pasar", note:"Data langsung", items:[
       { t:"Harga aset kripto", k:"", h:"#pasar" },
       { t:"Kapitalisasi pasar", k:"", h:"#pasar" },
       { t:"Dominasi Bitcoin", k:"", h:"#pasar" },
-      { t:"Indeks takut & serakah", k:"", h:"#pasar" }
+      { t:"Indeks takut & serakah", k:"", h:"#pasar" },
+      { t:"Aliran dana ETF", k:"", h:"#pasar", sembunyi:true },
+      { t:"Kalender ekonomi", k:"", h:"#pasar", sembunyi:true }
     ]},
     { label:"Analisis", note:"Kajian pasar", items:[
       { t:"Analisis teknikal", k:"analisis" }, { t:"Data on-chain", k:"analisis" },
@@ -1247,7 +1251,7 @@ function renderNav() {
       </button>
       <div class="drop" role="menu">
         <div class="drop__head"><span class="eyebrow">${esc(m.note)}</span></div>
-        ${m.items.map(it => `<a class="drop__link" role="menuitem" href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}
+        ${m.items.filter(it => !it.sembunyi).map(it => `<a class="drop__link" role="menuitem" href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}
       </div>
     </div>`).join("");
 
@@ -1271,7 +1275,7 @@ function renderNav() {
   $("#mnav").innerHTML = DATA.menu.map(m => `
     <details>
       <summary>${esc(m.label)}</summary>
-      <div class="mnav__sub">${m.items.map(it => `<a href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}</div>
+      <div class="mnav__sub">${m.items.filter(it => !it.sembunyi).map(it => `<a href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}</div>
     </details>`).join("") +
     `<a href="#buletin" class="btn btn--primary" style="width:100%;margin-top:16px">Langganan buletin</a>`;
 
