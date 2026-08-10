@@ -129,8 +129,11 @@ def ambil_pasar(jumlah: int = 10) -> dict | None:
         g = global_["data"]
         dom = g.get("market_cap_percentage") or {}
         hasil["global"] = {
-            "cap_t": round((g.get("total_market_cap") or {}).get("idr", 0) / triliun, 0),
-            "vol_t": round((g.get("total_volume") or {}).get("idr", 0) / triliun, 0),
+            # Nilai mentah dikirim apa adanya. Pembulatan ke triliun dilakukan
+            # di sisi tampilan, supaya angka kecil bisa disajikan dalam miliar
+            # alih-alih menyusut jadi "0,1 T" yang terbaca seperti nol.
+            "cap_idr": int((g.get("total_market_cap") or {}).get("idr", 0)),
+            "vol_idr": int((g.get("total_volume") or {}).get("idr", 0)),
             "btc": round(dom.get("btc") or 0, 1),
             "eth": round(dom.get("eth") or 0, 1),
         }
@@ -142,7 +145,8 @@ def ambil_pasar(jumlah: int = 10) -> dict | None:
         vol_btc = indodax.get("trade_volume_24h_btc") or 0
         if harga_btc and vol_btc:
             hasil["lokal"] = {
-                "vol_t": round(vol_btc * harga_btc / triliun, 1),
+                "vol_idr": int(float(vol_btc) * harga_btc),
+                "vol_btc": round(float(vol_btc), 1),
                 "nama": indodax.get("name", "Indodax"),
             }
 
