@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 4,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-10T18:48:00"
+  },
+  {
+   "id": 604,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hardware Wallet Bukan Masalah, Kata Eksekutif Ledger. Penyerang AI yang Jadi Masalah",
+   "x": "Ian Rogers dari Ledger mengatakan bahwa peretasan Coldcard menjadi gambaran awal tentang apa yang bisa dilakukan oleh penyerang AI terhadap entropi wallet yang lemah.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ledger-ian-rogers-ai-crypto-wallet-security",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-12T06:28:00"
   },
   {
    "id": 380,
