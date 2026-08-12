@@ -1,8 +1,22 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 628,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "MicroStrategy Umumkan Model Kredit dengan Dashboard Risiko Bitcoin",
+   "x": "Model kredit Bitcoin baru milik Michael Saylor menunjukkan harga dasar pasti di mana obligasi dan saham preferen Strategy mengalami kerugian.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/dasbor-risiko-bitcoin-saylor-microstrategy-model-kredit",
+   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+   "a": "13 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-12T11:21:45"
+  },
   {
    "id": 402,
    "k": "bitcoin",
@@ -18,6 +32,20 @@
    "published_at": "2026-08-10T16:53:11"
   },
   {
+   "id": 630,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ripple Eks-CTO Sebut Curang Buat ASIC Bitcoin Miner Jadi Pemanas Ruangan",
+   "x": "Mantan CTO Ripple, David Schwartz, mengatakan Bitcoin miner yang melakukan double spend berisiko mengalami fork yang mengubah ASIC menjadi pemanas ruangan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penambang-bitcoin-asics-pemanas-ruangan-schwartz",
+   "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-12T10:30:46"
+  },
+  {
    "id": 516,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -26,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/akumulasi-bitcoin-whale-pemulihan-rapuh",
    "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-11T13:37:22"
@@ -40,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/norway-wealth-fund-crash-warning-dampak-bitcoin",
    "img": "https://assets.beincrypto.com/img/JnfIeotuin-lRFtlTrLNqgErpIA=/smart/d5a3749a853c44c9a628223dd8eeb1bc",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-11T21:03:47"
@@ -54,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/juli-cpi-the-fed-rate-hike-pasar",
    "img": "https://assets.beincrypto.com/img/OSFX20IpCiMp4sG6BVhStiv-MK4=/smart/d0ff96b1bf0144d0ac1283f63c59dda9",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-11T12:31:46"
@@ -96,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/riot-anthropic-deal-buruk-untuk-bitcoin",
    "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-12T01:22:45"
@@ -110,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/salah-alokasi-saham-twenty-one-capital",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-11T19:06:08"
@@ -166,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/penambang-bitcoin-tuntut-pemecatan-pemimpin-ocean-bip-110",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-10T09:51:18"
@@ -180,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitwise-hougan-crypto-winter-bottom",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-12T04:36:19"
@@ -194,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-earnings-untuk-dipantau-di-agustus",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-09T11:14:38"
