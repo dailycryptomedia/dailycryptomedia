@@ -16,9 +16,10 @@
 #  keadaan deduplikasi dan hasil terjemahan; tanpa itu, setiap putaran akan
 #  mulai dari nol dan artikel lama muncul lagi sebagai "baru".
 #
-#  PENYEDIA TERJEMAHAN dipilih lewat DCM_TRANSLATE_PROVIDER. Nilai "gemini"
-#  memakai free tier Google, nilai "anthropic" memakai Claude. Hanya nilai itu
-#  yang perlu diubah untuk berpindah; kunci keduanya boleh tetap terdaftar.
+#  BATAS UMUR 1 HARI. DCM_MAX_ARTICLE_AGE_DAYS menahan item yang tanggal
+#  terbitnya lebih tua dari 24 jam agar tidak masuk basis data sama sekali.
+#  Ini memangkas pemakaian kuota terjemahan secara drastis dan menjaga
+#  halaman depan tetap berisi kabar hari ini, bukan kabar pekan lalu.
 # =============================================================================
 
 name: Perbarui berita
@@ -73,6 +74,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # -----------------------------------------------------------------------
+      #  LANGKAH SEKALI PAKAI — HAPUS SETELAH SATU PUTARAN BERHASIL
+      #  Menahan sisa antrean lama dari masa sebelum batas 24 jam berlaku.
+      #  Tanpa ini, 414 artikel basi tetap akan menghabiskan kuota terjemahan.
+      # -----------------------------------------------------------------------
+      - name: Tahan antrean lama (sekali pakai)
+        working-directory: dcm-ingest
+        run: |
+          sqlite3 dcm.db "update articles set status='suppressed', error_note='ditahan: lebih tua dari 24 jam' where status in ('new','failed') and published_at is not null and julianday('now') - julianday(published_at) > 1;"
+          echo "Sisa isi basis data per status:"
+          sqlite3 dcm.db "select status, count(*) from articles group by 1;"
+
       - name: Jalankan pipeline
         working-directory: dcm-ingest
         env:
@@ -86,6 +99,11 @@ jobs:
           DCM_GEMINI_RPM: "10"
 
           DCM_ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+          # Hanya berita 24 jam terakhir yang masuk basis data. Ini penghemat
+          # kuota terbesar: yang tidak pernah masuk tidak pernah diterjemahkan.
+          DCM_MAX_ARTICLE_AGE_DAYS: "1"
+
           DCM_DATABASE_URL: sqlite:///dcm.db
           DCM_COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
         run: |
@@ -97,18 +115,14 @@ jobs:
             KUNCI="$DCM_ANTHROPIC_API_KEY"
           fi
           if [ -n "$KUNCI" ]; then
-            # Kembalikan artikel yang gagal saat kunci API belum ada. Tanpa
-            # ini, ratusan artikel tertahan permanen di status failed.
-            python -m dcm.cli retry --limit 500
             python -m dcm.cli run
           else
             echo "::warning::kunci untuk penyedia $DCM_TRANSLATE_PROVIDER kosong, terjemahan dilewati"
             python -m dcm.cli run --skip-translate
           fi
-          # Jendela diperlebar sementara menjadi 7 hari supaya tumpukan lama
-          # yang baru selesai diterjemahkan sempat tampil. Kembalikan ke 72
-          # setelah situs terisi merata dari semua sumber.
-          python -m dcm.cli export --hours 168
+          # Kembali ke jendela normal 72 jam. Artikel yang masuk sudah dijamin
+          # segar oleh batas umur di atas, jadi jendela lebar tidak lagi perlu.
+          python -m dcm.cli export --hours 72
           # Data pasar diambil terpisah. Kegagalannya tidak boleh
           # menggagalkan penerbitan berita, jadi errornya ditelan di sini.
           python -m dcm.cli pasar || echo "::warning::data pasar gagal diambil, memakai berkas lama"
