@@ -403,7 +403,7 @@ def translate_pending(limit: int = 60) -> int:
     Artikel kembar tidak diterjemahkan sama sekali. Tidak ada gunanya
     membayar terjemahan untuk berita yang tidak akan tampil.
     """
-    from .translate import Translator
+    from .translate_gemini import get_translator
 
     with get_session() as session:
         articles = list(session.scalars(
@@ -419,7 +419,7 @@ def translate_pending(limit: int = 60) -> int:
             log.info("tidak ada artikel yang menunggu terjemahan")
             return 0
 
-        count = Translator().translate_articles(articles)
+        count = get_translator().translate_articles(articles)
         session.commit()
 
     log.info("terjemahan selesai: %s artikel", count)
