@@ -7,14 +7,17 @@
 #  tautan kanonis. Tabel Article tidak punya kolom untuk isi artikel penuh.
 #  Itu batasan struktural, bukan sekadar konvensi. Jangan menambah kolom body.
 #
-#  Empat dari tujuh sumber sudah berbahasa Indonesia, jadi tidak perlu
+#  Dari enam sumber yang aktif, tiga sudah berbahasa Indonesia dan tidak perlu
 #  diterjemahkan sama sekali. Hanya tiga sumber berbahasa Inggris yang masuk
-#  antrean terjemahan. Ini memangkas biaya API sekitar 55 persen.
+#  antrean terjemahan. Ini memangkas pemakaian kuota API sekitar separuh.
 #
 #  Kolom `needs_permission: true` menandai sumber yang mensyaratkan izin
 #  tertulis untuk sindikasi komersial. Sumber itu tetap diambil untuk
 #  pemantauan redaksi internal, tetapi `publish: false` menahannya agar tidak
 #  tampil di situs publik sampai perjanjian ditandatangani.
+#
+#  Kolom `active: false` menghentikan polling sepenuhnya. Dipakai untuk sumber
+#  yang endpoint feednya mati, bukan untuk sumber yang izinnya belum turun.
 # =============================================================================
 
 defaults:
@@ -79,13 +82,21 @@ sources:
     name: "Coinvestasi"
     homepage: "https://coinvestasi.com/"
     lang: id
+    # DINONAKTIFKAN 15 Agustus 2026. Coinvestasi tidak menyediakan RSS publik.
+    # Situsnya bukan WordPress, sehingga pola /feed/ yang lazim tidak berlaku.
+    # Seluruh kandidat berikut mengembalikan halaman 404 buatan sendiri:
+    #   /feed  /feed/  /rss  /rss.xml  /atom.xml  /index.xml
+    #   /berita-terkini/feed
+    # Berandanya juga tidak mengumumkan feed lewat tag autodiscovery.
+    # Aktifkan kembali dengan active: true bila mereka menyediakan feed, atau
+    # bila perjanjian sindikasi membuka jalur akses lain.
+    active: false
     feed_candidates:
       - "https://coinvestasi.com/feed/"
-      - "https://coinvestasi.com/rss/"
-    publish: true
+    publish: false
     needs_permission: true
     attribution: "Coinvestasi"
-    license_note: "Feed WordPress. Konfirmasi ketentuan sindikasi ke redaksi."
+    license_note: "Tidak ada feed publik. Perlu kontak redaksi untuk akses."
 
   # ---------------------------------------------------------------------
   # SUMBER BERBAHASA INGGRIS — masuk antrean terjemahan
