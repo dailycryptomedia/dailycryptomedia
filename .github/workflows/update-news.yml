@@ -127,9 +127,24 @@ jobs:
         run: python -m dcm.cli status
 
       - name: Commit hasil
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data dcm-ingest/dcm.db
-          # Bila tidak ada berita baru, tidak ada yang berubah. Keluar dengan
-          #
+       run: |
+          python -m dcm.cli init
+          if [ "$DCM_TRANSLATE_PROVIDER" = "gemini" ]; then
+            KUNCI="$DCM_GEMINI_API_KEY"
+          else
+            KUNCI="$DCM_ANTHROPIC_API_KEY"
+          fi
+          if [ -n "$KUNCI" ]; then
+            # Kembalikan artikel yang gagal saat kunci API belum ada. Tanpa
+            # ini, 231 artikel tertahan permanen di status failed.
+            python -m dcm.cli retry --limit 500
+            python -m dcm.cli run
+          else
+            echo "::warning::kunci untuk penyedia $DCM_TRANSLATE_PROVIDER kosong, terjemahan dilewati"
+            python -m dcm.cli run --skip-translate
+          fi
+          # Jendela diperlebar sementara menjadi 7 hari supaya tumpukan lama
+          # yang baru selesai diterjemahkan sempat tampil. Kembalikan ke 72
+          # setelah situs terisi merata dari semua sumber.
+          python -m dcm.cli export --hours 168
+          python -m dcm.cli pasar || echo "::warning::data pasar gagal diambil, memakai berkas lama"
