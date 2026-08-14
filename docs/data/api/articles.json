@@ -1,5 +1,5 @@
 {
- "total": 200,
+ "total": 202,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/malware-decrypt-style-02-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T14:55:29"
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-upbit-dunamu-crash-q2-2026",
    "img": "https://assets.beincrypto.com/img/WdqI70aSqUtb3tOFXVBr2d4LDGk=/smart/5f330f9eb1764d7fb1f211efce74dc3f",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T19:39:41"
@@ -54,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pendapatan-gemini-stock-q2-2026",
    "img": "https://assets.beincrypto.com/img/ki_INUWoQf6woyemzwAxYGy93O8=/smart/355c77975e754a22931acc534b1504e4",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T04:43:41"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/baltimore-gugat-kalshi-polymarket-taruhan-olahraga",
    "img": "https://assets.beincrypto.com/img/prSkddxEvgpGLRvuKLpVwPJdqpg=/smart/dc5beaf6b6d74861b0c5cfc2dd8cb9f9",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T08:55:54"
@@ -152,7 +152,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/juara-nba-tristan-thompson-beli-bitcoin-setiap-hari",
    "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-13T21:43:42"
@@ -214,6 +214,20 @@
    "published_at": "2026-08-14T04:25:03"
   },
   {
+   "id": 927,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "World Liberty Raih Piagam Bank dari Regulator yang Ditunjuk Trump untuk Stablecoin US$4 Miliar",
+   "x": "Seorang regulator yang ditunjuk Trump memberikan izin kepada World Liberty untuk mengelola banknya sendiri dan menerbitkan stablecoin USD1 senilai $4 miliar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/world-liberty-occ-bank-charter-usd1",
+   "img": "https://assets.beincrypto.com/img/gl1iazxk3xMe_-QokvuDbaRducA=/smart/16930e75f64345eab274f7a0d31db292",
+   "a": "51 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-14T21:09:59"
+  },
+  {
    "id": 850,
    "k": "web3",
    "cat": "Web3",
@@ -222,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ethereum-foundation-drop-poseidon-hash-era-kuantum",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T08:38:55"
@@ -236,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/binance-blacklists-htx-restriksi-transaksi",
    "img": "https://assets.beincrypto.com/img/5Px91taBFWofKB8GOn3C9YSKPL4=/smart/83bf0a5cc25a4003a077eac1515423e2",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T14:31:17"
@@ -362,7 +376,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T20:01:13"
@@ -488,7 +502,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml",
    "img": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg",
-   "a": "19 menit lalu",
+   "a": "52 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T21:08:52"
@@ -572,7 +586,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/openai-revenue-run-rate-40-miliar",
    "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T10:37:48"
@@ -586,7 +600,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onchain-credit-systems.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T04:44:31"
@@ -642,7 +656,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morpho-record-exchange-outflow-harga-flat",
    "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T07:30:42"
@@ -684,10 +698,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-jp-morgan-chase-and-crypto-recap.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T08:53:42"
+  },
+  {
+   "id": 926,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Gen Z pilih ETF dan kurang aktif trading dibanding generasi tua",
+   "x": "Data Binance menunjukkan investor muda Gen Z lebih memilih alokasi dana ke ETF dan mengurangi frekuensi trading serta penggunaan leverage dibandingkan generasi yang lebih tua. Pergeseran preferensi investasi ini mengindikasikan tren baru di kalangan investor ritel.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png",
+   "a": "39 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T21:22:23"
   },
   {
    "id": 891,
@@ -814,34 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T11:48:37"
-  },
-  {
-   "id": 899,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga XRP Turun di Bawah US$1 Lagi meskipun Adopsi Jaringan Mencapai Rekor",
-   "x": "Harga XRP kembali turun di bawah US$1 dalam 24 jam terakhir, walaupun metrik adopsi di XRP Ledger (XRPL) mencetak rekor. Altcoin ini sekarang sedang menguji level yang selama bertahun-tahun berhasil dipertahankan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-xrp-di-bawah-usd1-meski-adopsi-rekor",
-   "img": "https://assets.beincrypto.com/img/hq95Zv9CBjejZt4TJLWz0iSjWic=/smart/5da53a6d69c7453e9e9cf1dfe06d88c0",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-14T15:56:17"
-  },
-  {
-   "id": 828,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Chief Economist Sebut The Fed Tak Akan Naikkan Suku Bunga Jika Harga Minyak Bertahan Dekat US$80",
-   "x": "Jeremy Siegel mengatakan The Fed tidak akan menaikkan suku bunga pada bulan September jika harga minyak bertahan di kisaran $80, dengan mengacu pada data inflasi yang mulai mereda.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/siegel-the-fed-rate-hike-september-minyak",
-   "img": "https://assets.beincrypto.com/img/pon3dfo6AVm_sR5b6pPjQgH7ZKc=/smart/2107838830124092abb733c06131136b",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-14T02:55:15"
   }
  ]
 }
