@@ -8,6 +8,11 @@
 #
 #  Tidak ada jadwal. Hanya berjalan saat tombol "Run workflow" ditekan.
 #
+#  Setiap langkah memakai continue-on-error. Untuk alat diagnosis, satu sumber
+#  yang rusak adalah TEMUAN, bukan kegagalan — dan temuan tidak boleh
+#  menghentikan pemeriksaan berikutnya. Tanda silang merah pada putaran ini
+#  berarti "ada yang perlu dilihat", bukan "alatnya tidak jalan".
+#
 #  Kolom "url" bersifat opsional. Isi dengan alamat feed yang dicurigai atau
 #  alamat beranda sebuah situs; bila yang diberikan bukan feed, skrip akan
 #  membaca tag autodiscovery pada halaman itu dan melaporkan kandidat feed
@@ -50,16 +55,19 @@ jobs:
 
       - name: Periksa semua endpoint feed
         working-directory: dcm-ingest
+        continue-on-error: true
         run: python -m dcm.cli verify
 
       - name: Ringkasan isi basis data
         working-directory: dcm-ingest
+        continue-on-error: true
         env:
           DCM_DATABASE_URL: sqlite:///dcm.db
         run: python -m dcm.cli status
 
       - name: Uji satu URL
         working-directory: dcm-ingest
+        continue-on-error: true
         env:
           URL: ${{ inputs.url }}
         run: |
@@ -80,49 +88,4 @@ jobs:
               r = httpx.get(url, headers={"User-Agent": UA},
                             timeout=20, follow_redirects=True)
           except Exception as e:
-              print(f"GAGAL TERSAMBUNG. {type(e).__name__}: {e}")
-              sys.exit(0)
-
-          tipe = r.headers.get("content-type", "?").split(";")[0]
-          print(f"Kode   : {r.status_code}")
-          print(f"Tipe   : {tipe}")
-          print(f"Ukuran : {len(r.content)} bita")
-          if str(r.url) != url:
-              print(f"Dialihkan ke: {r.url}")
-          print("-" * 70)
-
-          if r.status_code >= 400:
-              print("Server menolak. URL ini tidak bisa dipakai.")
-              sys.exit(0)
-
-          teks = r.text
-          awal = teks[:3000].lower()
-
-          if "<rss" in awal or "<feed" in awal:
-              jumlah = len(re.findall(r"<item[ >]|<entry[ >]", teks, re.I))
-              print(f"INI FEED YANG SAH. {jumlah} item terdeteksi.\n")
-              judul = re.findall(r"<title[^>]*>(.*?)</title>", teks, re.S | re.I)
-              for j in judul[1:6]:
-                  bersih = re.sub(r"<!\[CDATA\[|\]\]>|\s+", " ", j).strip()
-                  print(f"  - {bersih[:78]}")
-              print("\nSalin URL ini ke feed_candidates pada config/sources.yaml.")
-          else:
-              print("Bukan feed. Mencari tautan feed di dalam halaman.\n")
-              tag = re.findall(
-                  r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*>',
-                  teks, re.I)
-              alamat = []
-              for t in tag:
-                  m = re.search(r'href=["\']([^"\']+)["\']', t, re.I)
-                  if m:
-                      alamat.append(m.group(1))
-              if alamat:
-                  print("Kandidat feed yang diumumkan halaman ini:")
-                  for a in alamat:
-                      print(f"  {a}")
-                  print("\nJalankan ulang Diagnosa dengan salah satu alamat di atas.")
-              else:
-                  print("Halaman tidak mengumumkan feed apa pun.")
-                  print("Pola yang lazim dicoba manual: /feed/, /rss/, /feed/rss/,")
-                  print("/atom.xml, /index.xml, /?feed=rss2")
-          PY
+              print(f"GAGAL TERSAMBUNG. {type(e).
