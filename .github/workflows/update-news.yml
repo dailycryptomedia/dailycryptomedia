@@ -14,13 +14,11 @@
 #
 #  Basis data dcm.db ikut di-commit dengan sengaja. Di dalamnya tersimpan
 #  keadaan deduplikasi dan hasil terjemahan; tanpa itu, setiap putaran akan
-#  mulai dari nol dan artikel lama muncul lagi sebagai "baru" — sekaligus
-#  membayar ulang terjemahan yang sudah pernah dibayar.
+#  mulai dari nol dan artikel lama muncul lagi sebagai "baru".
 #
-#  PENYEDIA TERJEMAHAN dipilih lewat DCM_TRANSLATE_PROVIDER di bawah. Nilai
-#  "gemini" memakai free tier Google, nilai "anthropic" memakai Claude seperti
-#  sebelumnya. Hanya nilai itu yang perlu diubah untuk berpindah; kunci
-#  keduanya boleh tetap terdaftar berdampingan.
+#  PENYEDIA TERJEMAHAN dipilih lewat DCM_TRANSLATE_PROVIDER. Nilai "gemini"
+#  memakai free tier Google, nilai "anthropic" memakai Claude. Hanya nilai itu
+#  yang perlu diubah untuk berpindah; kunci keduanya boleh tetap terdaftar.
 # =============================================================================
 
 name: Perbarui berita
@@ -78,44 +76,39 @@ jobs:
       - name: Jalankan pipeline
         working-directory: dcm-ingest
         env:
-          # --- pilihan penyedia terjemahan ---
           # Ganti ke "anthropic" untuk kembali memakai Claude.
           DCM_TRANSLATE_PROVIDER: gemini
 
-          # --- Gemini (free tier) ---
           DCM_GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # Nama model free tier berubah dari waktu ke waktu. Bila log
-          # menunjukkan HTTP 404, cocokkan nilai ini dengan daftar model di
-          # Google AI Studio. Tidak ada kode yang perlu diubah.
+          # Bila log menunjukkan HTTP 404, cocokkan nilai ini dengan daftar
+          # model di Google AI Studio. Tidak ada kode yang perlu diubah.
           DCM_GEMINI_MODEL: gemini-2.5-flash-lite
-          # Jeda otomatis antar permintaan, mengikuti batas per menit.
           DCM_GEMINI_RPM: "10"
 
-          # --- Anthropic (cadangan) ---
           DCM_ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
-          # --- lain-lain ---
           DCM_DATABASE_URL: sqlite:///dcm.db
           DCM_COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
         run: |
           python -m dcm.cli init
-          # Yang diperiksa adalah kunci milik penyedia yang sedang dipilih,
-          # bukan selalu kunci Anthropic. Tanpa kunci, tahap terjemahan
-          # dilewati dan situs tetap terbit dengan artikel berbahasa
-          # Indonesia saja. Situs tidak boleh mati hanya karena satu secret
-          # belum diisi.
+          # Yang diperiksa adalah kunci milik penyedia yang sedang dipilih.
           if [ "$DCM_TRANSLATE_PROVIDER" = "gemini" ]; then
             KUNCI="$DCM_GEMINI_API_KEY"
           else
             KUNCI="$DCM_ANTHROPIC_API_KEY"
           fi
           if [ -n "$KUNCI" ]; then
+            # Kembalikan artikel yang gagal saat kunci API belum ada. Tanpa
+            # ini, ratusan artikel tertahan permanen di status failed.
+            python -m dcm.cli retry --limit 500
             python -m dcm.cli run
           else
             echo "::warning::kunci untuk penyedia $DCM_TRANSLATE_PROVIDER kosong, terjemahan dilewati"
             python -m dcm.cli run --skip-translate
           fi
-          python -m dcm.cli export
+          # Jendela diperlebar sementara menjadi 7 hari supaya tumpukan lama
+          # yang baru selesai diterjemahkan sempat tampil. Kembalikan ke 72
+          # setelah situs terisi merata dari semua sumber.
+          python -m dcm.cli export --hours 168
           # Data pasar diambil terpisah. Kegagalannya tidak boleh
           # menggagalkan penerbitan berita, jadi errornya ditelan di sini.
           python -m dcm.cli pasar || echo "::warning::data pasar gagal diambil, memakai berkas lama"
@@ -127,24 +120,40 @@ jobs:
         run: python -m dcm.cli status
 
       - name: Commit hasil
-       run: |
-          python -m dcm.cli init
-          if [ "$DCM_TRANSLATE_PROVIDER" = "gemini" ]; then
-            KUNCI="$DCM_GEMINI_API_KEY"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data dcm-ingest/dcm.db
+          # Bila tidak ada berita baru, tidak ada yang berubah. Keluar dengan
+          # tenang alih-alih menggagalkan seluruh putaran.
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan, tidak ada yang perlu di-commit."
           else
-            KUNCI="$DCM_ANTHROPIC_API_KEY"
+            git commit -m "berita: perbarui $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash
+            git push
           fi
-          if [ -n "$KUNCI" ]; then
-            # Kembalikan artikel yang gagal saat kunci API belum ada. Tanpa
-            # ini, 231 artikel tertahan permanen di status failed.
-            python -m dcm.cli retry --limit 500
-            python -m dcm.cli run
-          else
-            echo "::warning::kunci untuk penyedia $DCM_TRANSLATE_PROVIDER kosong, terjemahan dilewati"
-            python -m dcm.cli run --skip-translate
-          fi
-          # Jendela diperlebar sementara menjadi 7 hari supaya tumpukan lama
-          # yang baru selesai diterjemahkan sempat tampil. Kembalikan ke 72
-          # setelah situs terisi merata dari semua sumber.
-          python -m dcm.cli export --hours 168
-          python -m dcm.cli pasar || echo "::warning::data pasar gagal diambil, memakai berkas lama"
+
+      # Folder docs dibungkus APA ADANYA dari cakram kerja, jadi berkas JSON
+      # yang baru saja ditulis ikut terbawa, bukan versi yang tersimpan di
+      # repo sebelum putaran ini.
+      - name: Bungkus folder docs
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  # ---------------------------------------------------------------------------
+  #  2. Terbitkan ke GitHub Pages
+  # ---------------------------------------------------------------------------
+  terbitkan:
+    needs: perbarui
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.penerbitan.outputs.page_url }}
+
+    steps:
+      - name: Terbitkan
+        id: penerbitan
+        uses: actions/deploy-pages@v4
