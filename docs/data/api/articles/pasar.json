@@ -1,5 +1,5 @@
 {
- "total": 98,
+ "total": 100,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/justin-sun-binance-htx-respon-pembatasan",
    "img": "https://assets.beincrypto.com/img/MFxUnvVoRmooS7gglpIY3oz8Npk=/smart/1496804050bd42df9128a3787c800dbc",
-   "a": "45 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T20:14:42"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peluang-kenaikan-boj-polymarket-intervensi-yen",
    "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T04:25:03"
@@ -152,7 +152,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/upbit-delisting-3-altcoin-agustus",
    "img": "https://assets.beincrypto.com/img/WdqI70aSqUtb3tOFXVBr2d4LDGk=/smart/5f330f9eb1764d7fb1f211efce74dc3f",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T08:08:57"
@@ -180,7 +180,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "58 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T20:01:13"
@@ -240,6 +240,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-12T09:56:34"
+  },
+  {
+   "id": 922,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Irlandia susun standar industri untuk penggunaan kripto ilegal",
+   "x": "Irlandia mengusulkan kebijakan baru dalam kerangka anti pencucian uangnya. Langkah ini mencakup pengetatan aturan transfer dari dompet kripto pribadi dan perusahaan aset digital luar negeri.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg",
+   "a": "17 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T21:08:52"
   },
   {
    "id": 754,
@@ -334,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/amd-saham-bofa-ai-pick-analisis-options",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T13:17:16"
@@ -572,7 +586,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting",
    "img": "https://s3-images.ctmedia.io/media/article-covers/sports-fan-football.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T21:08:23"
@@ -726,7 +740,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kospi-bull-market-sandisk-outlook",
    "img": "https://assets.beincrypto.com/img/KW0MyyhmAeQX6NPEdoaeEeyd030=/smart/499540f8ff44402ab65e7eb01b1afdcb",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T04:14:40"
@@ -768,7 +782,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/steve-eisman-ai-tumit-achilles",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T12:18:44"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T13:36:34"
-  },
-  {
-   "id": 884,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Perombakan biaya Solana tingkatkan burn dan bebani pengguna boros sumber daya",
-   "x": "Solana mengusulkan perubahan biaya transaksi yang akan membuat aktivitas berat menjadi lebih mahal. Perubahan ini juga akan meningkatkan jumlah SOL yang dibakar (burned).",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/solana-simd-0553.jpg",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T13:30:00"
   }
  ]
 }

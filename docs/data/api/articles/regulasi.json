@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kepemilikan-spacex-saham-musk-kekuatan-voting",
    "img": "https://assets.beincrypto.com/img/7TK9YCx6XCz6VzwrIea2R3WFWw8=/smart/93155c04be914629a2448a7285bd7150",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T05:19:10"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T17:03:38"
@@ -158,6 +158,20 @@
    "published_at": "2026-08-12T04:59:54"
   },
   {
+   "id": 924,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kebocoran data pajak Prancis bisa picu penipuan Bitcoin",
+   "x": "Seorang peretas dilaporkan menjual data pribadi dan finansial lebih dari 678.000 wajib pajak dan bisnis di Prancis. Insiden ini berpotensi disalahgunakan untuk menargetkan pemegang Bitcoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg",
+   "a": "22 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T21:03:35"
+  },
+  {
    "id": 817,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -166,7 +180,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T22:18:07"
@@ -180,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876",
    "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-800x450.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T19:07:47"
@@ -194,10 +208,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_3-800x450.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T19:01:18"
+  },
+  {
+   "id": 925,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bank Trump dapat piagam bank bersyarat dari regulator federal",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "21 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T21:05:23"
   },
   {
    "id": 900,
@@ -222,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T08:02:18"
@@ -250,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-800x450.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T03:21:28"
