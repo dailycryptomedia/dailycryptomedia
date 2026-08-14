@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ethereum-foundation-drop-poseidon-hash-era-kuantum",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T08:38:55"
+  },
+  {
+   "id": 419,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "3 Altcoin untuk Dipantau pada Pekan Kedua Agustus 2026",
+   "x": "Pekan ini penuh dengan katalis penting yang akan menguji tiga altcoin. Mulai sekarang hingga 16 Agustus, satu altcoin akan menghadapi cliff unlock token besar, yang lain harus membuktikan pendapatan mereka tetap stabil…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/altcoin-untuk-dipantau-agustus-minggu-kedua-2026",
+   "img": "https://assets.beincrypto.com/img/914p14DBWeMV2Lfs5rB5OqpSegQ=/smart/364fd63f53004103a44bd5807bc9cf14",
+   "a": "4 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T18:48:00"
+  },
+  {
+   "id": 564,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "MoneyGram Perluas Layanan Tarik Tunai Kripto ke Solana",
+   "x": "MoneyGram kini memungkinkan pengguna menghubungkan dompet Solana ke jaringan kas globalnya. Integrasi ini mempermudah konversi aset kripto menjadi uang tunai di berbagai negara.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/super-coin-chainlink-solana-2.png",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-11T19:53:02"
   },
   {
    "id": 755,
@@ -60,6 +88,20 @@
    "published_at": "2026-08-12T09:21:39"
   },
   {
+   "id": 779,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Trezor Laporkan Kebocoran Data 14 Ribu Pengguna via Penyedia Logistik",
+   "x": "Penyedia dompet kripto Trezor menginformasikan kebocoran data 14.000 penggunanya melalui mitra logistik. Data yang bocor berpotensi disalahgunakan untuk upaya phishing, namun aset digital tetap aman.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-wallet-info-sold-online-ledger-trezor.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-13T15:25:14"
+  },
+  {
    "id": 604,
    "k": "web3",
    "cat": "Web3",
@@ -72,6 +114,48 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-12T06:28:00"
+  },
+  {
+   "id": 859,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Cara Menemukan Token Potensial di Solana Sebelum Trending",
+   "x": "Ingin mencari token potensial di jaringan Solana sebelum jadi tren? Simak cara dan tips selengkapnya di sini!",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cara-menemukan-token-potensial-di-solana-sebelum-trending",
+   "img": null,
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T09:00:18"
+  },
+  {
+   "id": 380,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Australia Cabut 96 ATM Kripto dari Jaringan karena Gagal Lapor AML",
+   "x": "The Australian Transaction Reports and Analysis Centre (AUSTRAC) telah menangguhkan pendaftaran operator ATM kripto Cryptolink selama 3 bulan, sehingga 96 ATM aset kripto milik mereka di seluruh Australia harus offline…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/austrac-menangguhkan-crypto-atm-cryptolink",
+   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "4 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-10T11:46:01"
+  },
+  {
+   "id": 846,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Whale kripto ini dibegal 2 kali, Rp900 miliar lenyap",
+   "x": "Seorang investor besar atau whale kripto kembali menjadi korban peretasan, dengan kerugian mencapai hampir Rp900 miliar dari tiga dompet digitalnya. Kejadian ini menegaskan risiko keamanan dalam penyimpanan aset kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/apes-banget-whale-crypto-ini-dibegal-2-kali-rp900-miliar-lenyap",
+   "img": null,
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T06:00:26"
   },
   {
    "id": 722,
@@ -100,6 +184,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-13T14:36:14"
+  },
+  {
+   "id": 276,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Texas Punya 5 Aturan Baru untuk Data Center seiring Meningkatnya Reaksi Terhadap AI",
+   "x": "Gubernur Texas, Greg Abbott, sudah menjelaskan lima data penting yang wajib diungkap pusat data jika ingin tersambung ke jaringan listrik negara bagian. Langkah ini diambil karena semakin banyak penolakan dari…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/aturan-data-center-texas-grid-pause",
+   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "5 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-09T10:46:56"
   }
  ]
 }
