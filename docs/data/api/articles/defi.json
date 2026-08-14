@@ -1,22 +1,8 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 346,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Coinsbuy Alami Laporan Peretasan Aset Kripto US$7,9 Juta di Tengah Meningkatnya Serangan pada 2026",
-   "x": "Dikabarkan Coinsbuy mengalami pencurian aset kripto senilai US$7,9 juta. Wallet yang terhubung ke platform pembayaran aset kripto ini terpantau terkuras di jaringan Ethereum (ETH) dan Tron (TRX). Peneliti blockchain…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretasan-crypto-coinsbuy-agustus",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "4 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-10T05:54:03"
-  },
   {
    "id": 753,
    "k": "defi",
@@ -60,48 +46,6 @@
    "published_at": "2026-08-12T20:31:04"
   },
   {
-   "id": 559,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ravencoin anjlok 20% akibat eksploitasi yang ancam rollback jaringan",
-   "x": "Eksploitasi kritis pada jaringan Ravencoin menyebabkan harganya anjlok 20% dan mengancam kemungkinan rollback. Hal ini menimbulkan kekhawatiran tentang stabilitas dan keamanan jaringan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-11T17:02:36"
-  },
-  {
-   "id": 519,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "TRON Memindahkan US$2,1 Triliun dalam USDT pada Kuartal Lalu, Tapi TRX Tidak Bergerak",
-   "x": "TRON (TRX) unggul sebagai jalur settlement stablecoin meskipun ekonomi Decentralized Finance (DeFi) miliknya mengalami kontraksi, sebuah perbedaan yang cukup jelas sepanjang kuartal kedua tahun 2026. Arus pembayaran…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tron-decentralized-finance-total-value-locked-stablecoin-q2-2026",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-11T12:07:32"
-  },
-  {
-   "id": 479,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "OpenAI Rilis GPT-5.6-Cyber Lewat Gated Daybreak Red Access Tier",
-   "x": "OpenAI merilis GPT-5.6-Cyber, sebuah model khusus cybersecurity yang memberikan alat bagi defender yang sudah disetujui untuk mengembangkan exploit dan melakukan riset kerentanan. Perusahaan ini menyoroti bahwa waktu…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penelitian-kerentanan-model-cyber-openai",
-   "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-11T05:27:54"
-  },
-  {
    "id": 758,
    "k": "defi",
    "cat": "DeFi",
@@ -128,6 +72,48 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-11T22:26:02"
+  },
+  {
+   "id": 840,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Perusahaan Kripto Alokasikan Rp3,56 T untuk Staking ETH",
+   "x": "Sebuah perusahaan kripto mengalokasikan dana besar untuk staking ETH melalui Lido. Langkah ini bertujuan untuk mendapatkan imbal hasil dari aset digital mereka.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/perusahaan-kripto-ini-siapkan-rp356-triliun-untuk-staking-eth-ini-tujuannya",
+   "img": null,
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T03:30:31"
+  },
+  {
+   "id": 838,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bitwise pertimbangkan tokenisasi ETF staking Solana melalui kemitraan Superstate",
+   "x": "Bitwise berencana melakukan tokenisasi ETF staking Solana melalui kemitraan dengan Superstate. Langkah ini memungkinkan kepemilikan saham dalam bentuk token dengan hak yang sama, namun terbatas dalam transferabilitas.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-800x450.jpg",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T04:09:44"
+  },
+  {
+   "id": 914,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "SharpLink akan staking US$200 juta Ethereum melalui wstETH Lido",
+   "x": "SharpLink berencana melakukan staking sekitar 12% dari total kepemilikan Ethereum mereka melalui Lido. Strategi ini bertujuan untuk mendapatkan imbal hasil sambil tetap aktif dalam ekosistem DeFi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Sharplink-ethereum-decrypt-style-01-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T19:01:05"
   },
   {
    "id": 776,
