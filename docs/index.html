@@ -1064,6 +1064,9 @@ const DATA = {
 
   /* ---------- Menu: dipilih dari pola navigasi tujuh portal rujukan ---------- */
   menu: [
+    /* Butir bertaut langsung: punya "tautan", tanpa "items" — dirender
+       sebagai <a> biasa, bukan tombol tarik-turun. */
+    { label:"Financial Planning", tautan:"/alat/" },
     { label:"Berita", note:"Kanal harian", items:[
       { t:"Bitcoin",        k:"bitcoin"   },
       { t:"Altcoin",        k:"altcoin"   },
@@ -1244,7 +1247,8 @@ function sparkPath(vals, w = 88, h = 26) {
    2. NAVIGASI
    ========================================================================= */
 function renderNav() {
-  $("#nav").innerHTML = DATA.menu.map((m, i) => `
+  $("#nav").innerHTML = DATA.menu.map((m, i) => m.tautan ? `
+    <div class="nav__item"><a class="nav__link" href="${m.tautan}">${esc(m.label)}</a></div>` : `
     <div class="nav__item" data-open="false" data-i="${i}">
       <button class="nav__link" aria-expanded="false" aria-haspopup="true">${esc(m.label)}
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
@@ -1256,7 +1260,8 @@ function renderNav() {
     </div>`).join("");
 
   $$(".nav__item").forEach(item => {
-    const btn = $(".nav__link", item);
+    const btn = $("button.nav__link", item);
+    if (!btn) return;   /* butir bertaut langsung, tidak punya tarik-turun */
     const open = v => { item.dataset.open = v; btn.setAttribute("aria-expanded", v); };
     item.addEventListener("mouseenter", () => open("true"));
     item.addEventListener("mouseleave", () => open("false"));
@@ -1272,7 +1277,8 @@ function renderNav() {
   );
 
   /* Navigasi seluler */
-  $("#mnav").innerHTML = DATA.menu.map(m => `
+  $("#mnav").innerHTML = DATA.menu.map(m => m.tautan ? `
+    <a href="${m.tautan}" style="display:block;padding:13px 2px;font-size:15px;font-weight:700;border-bottom:1px solid var(--rule-soft)">${esc(m.label)}</a>` : `
     <details>
       <summary>${esc(m.label)}</summary>
       <div class="mnav__sub">${m.items.filter(it => !it.sembunyi).map(it => `<a href="${it.h || "#berita"}" data-k="${it.k}">${esc(it.t)}</a>`).join("")}</div>
