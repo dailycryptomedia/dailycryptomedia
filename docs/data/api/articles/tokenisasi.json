@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -158,20 +158,6 @@
    "published_at": "2026-08-10T20:28:02"
   },
   {
-   "id": 258,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Trump Media Mundur dari Kesepakatan Kripto di Bawah CEO Sementara McGurn",
-   "x": "Trump Media meninjau ulang ambisinya di aset kripto, mengakhiri kerja sama treasury Crypto.com CRO dan memangkas rencana prediksi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-media-mengulas-ulang-ambisi-kripto-mcgurn",
-   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
-   "a": "1 pekan lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-07T20:22:37"
-  },
-  {
    "id": 865,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -228,6 +214,34 @@
    "published_at": "2026-08-14T09:24:55"
   },
   {
+   "id": 449,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Trump Media ubah strategi aset kripto setelah rugi US$238 juta",
+   "x": "Trump Media akan mengubah pendekatan terhadap aset kripto yang dimilikinya setelah membukukan kerugian besar di kuartal kedua. Perusahaan akan fokus pada bisnis media inti.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/trump-bitcoin.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-11T03:21:27"
+  },
+  {
+   "id": 553,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin turun ke level terendah sepekan, investor ritel beli emas",
+   "x": "Harga Bitcoin melemah menjelang data inflasi AS, sementara investor ritel justru memborong ETF emas. Hal ini menunjukkan pergeseran preferensi aset di tengah ketidakpastian pasar.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-why-extreme-gold-net-longs-can-also-push-bitcoin-price-to-new-highs-in-2021.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-11T16:24:48"
+  },
+  {
    "id": 827,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -242,6 +256,20 @@
    "published_at": "2026-08-14T04:03:32"
   },
   {
+   "id": 259,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Trump Media dan Crypto.com akhiri kemitraan seiring pergeseran prioritas",
+   "x": "Trump Media, Crypto.com, dan Yorkville Acquisition Corp. mengakhiri rencana mereka untuk mengubah Yorkville menjadi perusahaan kas treasury CRO. Perusahaan mengalihkan prioritas.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
+   "img": "https://www.tbstat.com/wp/uploads/2025/05/20250513_Donald_Trump-1200x675-1-800x450.jpg",
+   "a": "6 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-07T21:01:36"
+  },
+  {
    "id": 546,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -254,6 +282,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-11T14:27:19"
+  },
+  {
+   "id": 887,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Saham Ethena Treasury StablecoinX Melonjak Usai Ungkap Kepemilikan 20% ENA",
+   "x": "Saham StablecoinX melonjak setelah perusahaan perbendaharaan Ethena mengungkapkan kepemilikan 20% dari total pasokan token ENA. Pengungkapan ini memicu minat investor terhadap aset digital yang terkait dengan protokol tersebut.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-08-14-ethena-treasury-company-stablecoinx-shares-jump-12-revealing-20-stake-ena-supply-411845",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-800x450.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-14T15:17:03"
+  },
+  {
+   "id": 695,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Laba Kuartalan Hyperliquid Treasury Hyperion Naik Tiga Kali Lipat",
+   "x": "Perusahaan perbendaharaan Hyperliquid, Hyperion, melaporkan kenaikan laba kuartalan tiga kali lipat karena nilai kepemilikan HYPE meningkat. Peningkatan ini menunjukkan kinerja positif dalam pengelolaan aset digital perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-800x450.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-12T21:19:33"
   },
   {
    "id": 384,
