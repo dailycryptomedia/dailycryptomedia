@@ -1,31 +1,127 @@
+name: Perbarui berita
+
 # =============================================================================
 #  PENARIK BERITA + PENERBIT SITUS
 #  ---------------------------------------------------------------------------
-#  Alur kerja ini menggantikan jendela CMD "3-penarik.bat" di komputer lokal.
 #  Setiap 30 menit GitHub menjalankan pipeline, menulis ulang berkas JSON di
 #  docs/data/api/, meng-commit hasilnya, lalu MENERBITKAN SENDIRI folder docs
-#  ke GitHub Pages.
-#
-#  Kenapa menerbitkan sendiri, bukan memakai mode "Deploy from a branch"?
-#  Karena commit yang didorong oleh Actions memakai GITHUB_TOKEN tidak memicu
-#  pembangunan ulang Pages. Dengan mode branch, berita baru akan masuk ke repo
-#  tetapi situs tetap menampilkan data lama selamanya. Pekerjaan "terbitkan"
-#  di bawah memutus masalah itu.
+#  ke GitHub Pages. Penerbitan dilakukan sendiri karena commit dari Actions
+#  memakai GITHUB_TOKEN tidak memicu pembangunan ulang Pages; dengan mode
+#  "Deploy from a branch", berita baru masuk ke repo tetapi situs tetap
+#  menampilkan data lama selamanya.
 #
 #  Basis data dcm.db ikut di-commit dengan sengaja. Di dalamnya tersimpan
-#  keadaan deduplikasi dan hasil terjemahan; tanpa itu, setiap putaran akan
-#  mulai dari nol dan artikel lama muncul lagi sebagai "baru".
+#  keadaan deduplikasi dan hasil terjemahan.
 #
-#  BATAS UMUR 1 HARI. DCM_MAX_ARTICLE_AGE_DAYS menahan item yang tanggal
-#  terbitnya lebih tua dari 24 jam agar tidak masuk basis data sama sekali.
-#  Ini penghemat kuota terbesar: yang tidak pernah masuk tidak pernah
-#  diterjemahkan. Bila halaman depan terasa terlalu sepi, longgarkan ke "2".
+#  DCM_MAX_ARTICLE_AGE_DAYS menahan item yang terbit lebih dari 24 jam lalu
+#  agar tidak masuk basis data. Ini penghemat kuota terbesar. Longgarkan ke
+#  "2" bila halaman depan terasa terlalu sepi.
 #
 #  Untuk memeriksa keadaan tanpa mengubah apa pun, pakai alur kerja Diagnosa.
-#  Alur kerja itu hanya membaca dan aman dijalankan kapan saja.
 # =============================================================================
-
-name: Perbarui berita
 
 on:
   schedule:
+    # Setiap 30 menit. Jadwal GitHub kerap meleset 5-15 menit saat ramai.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/update-news.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: perbarui-berita
+  cancel-in-progress: false
+
+jobs:
+
+  perbarui:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ambil repo
+        uses: actions/checkout@v4
+
+      - name: Siapkan Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: dcm-ingest/requirements.txt
+
+      - name: Pasang dependensi
+        working-directory: dcm-ingest
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Jalankan pipeline
+        working-directory: dcm-ingest
+        env:
+          DCM_TRANSLATE_PROVIDER: gemini
+          DCM_GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DCM_GEMINI_MODEL: gemini-2.5-flash-lite
+          DCM_GEMINI_RPM: "10"
+          DCM_ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DCM_MAX_ARTICLE_AGE_DAYS: "1"
+          DCM_DATABASE_URL: sqlite:///dcm.db
+          DCM_COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+        run: |
+          python -m dcm.cli init
+          if [ "$DCM_TRANSLATE_PROVIDER" = "gemini" ]; then
+            KUNCI="$DCM_GEMINI_API_KEY"
+          else
+            KUNCI="$DCM_ANTHROPIC_API_KEY"
+          fi
+          if [ -n "$KUNCI" ]; then
+            python -m dcm.cli run
+          else
+            echo "::warning::kunci untuk penyedia $DCM_TRANSLATE_PROVIDER kosong, terjemahan dilewati"
+            python -m dcm.cli run --skip-translate
+          fi
+          python -m dcm.cli export --hours 72
+          python -m dcm.cli pasar || echo "::warning::data pasar gagal diambil, memakai berkas lama"
+
+      - name: Ringkasan isi basis data
+        working-directory: dcm-ingest
+        env:
+          DCM_DATABASE_URL: sqlite:///dcm.db
+        run: python -m dcm.cli status
+
+      - name: Commit hasil
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data dcm-ingest/dcm.db
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan, tidak ada yang perlu di-commit."
+          else
+            git commit -m "berita: perbarui $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Bungkus folder docs
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  terbitkan:
+    needs: perbarui
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.penerbitan.outputs.page_url }}
+
+    steps:
+      - name: Terbitkan
+        id: penerbitan
+        uses: actions/deploy-pages@v4
