@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/baltimore-gugat-kalshi-polymarket-taruhan-olahraga",
    "img": "https://assets.beincrypto.com/img/prSkddxEvgpGLRvuKLpVwPJdqpg=/smart/dc5beaf6b6d74861b0c5cfc2dd8cb9f9",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T08:55:54"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/world-liberty-occ-bank-charter-usd1",
    "img": "https://assets.beincrypto.com/img/gl1iazxk3xMe_-QokvuDbaRducA=/smart/16930e75f64345eab274f7a0d31db292",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T21:09:59"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T17:03:38"
@@ -144,20 +144,6 @@
    "published_at": "2026-08-13T17:47:12"
   },
   {
-   "id": 608,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC dan CFTC Layangkan Gugatan Penipuan Kripto Secara Paralel terhadap Goliath Ventures",
-   "x": "Dua regulator keuangan AS menggugat Goliath Ventures dan CEO-nya, Christopher Delgado, minggu ini, dua bulan setelah ia mengaku bersalah atas dakwaan terkait skema Ponzi aset kripto yang sama. Securities and Exchange…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/goliath-ventures-sec-cftc-crypto-ponzi",
-   "img": "https://assets.beincrypto.com/img/4jiYkVAg5k3RdXE5l_GK_QIDLkw=/smart/58e43e6a121f4cf99537d3ad81892eee",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-12T04:59:54"
-  },
-  {
    "id": 924,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -166,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T21:03:35"
@@ -194,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876",
    "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-800x450.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T19:07:47"
@@ -208,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_3-800x450.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T19:01:18"
@@ -222,7 +208,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T21:05:23"
@@ -236,7 +222,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T17:48:04"
@@ -264,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T10:39:39"
