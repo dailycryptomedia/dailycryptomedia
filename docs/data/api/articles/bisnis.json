@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-upbit-dunamu-crash-q2-2026",
    "img": "https://assets.beincrypto.com/img/WdqI70aSqUtb3tOFXVBr2d4LDGk=/smart/5f330f9eb1764d7fb1f211efce74dc3f",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T19:39:41"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/model-anthropic-2-belum-dirilis",
    "img": "https://assets.beincrypto.com/img/QNUNoUPR6HnjQIj0G0OFGDdMIT8=/smart/b707d08c207e49a88f8a76ea797fcf05",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T20:00:55"
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T09:53:50"
+  },
+  {
+   "id": 952,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Pendanaan $11,2 miliar di 2026 matikan era izin bebas kripto",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "52 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-15T14:00:00"
   }
  ]
 }
