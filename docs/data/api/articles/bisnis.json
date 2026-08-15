@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-upbit-dunamu-crash-q2-2026",
    "img": "https://assets.beincrypto.com/img/WdqI70aSqUtb3tOFXVBr2d4LDGk=/smart/5f330f9eb1764d7fb1f211efce74dc3f",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T19:39:41"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/model-anthropic-2-belum-dirilis",
    "img": "https://assets.beincrypto.com/img/QNUNoUPR6HnjQIj0G0OFGDdMIT8=/smart/b707d08c207e49a88f8a76ea797fcf05",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T20:00:55"
@@ -152,10 +152,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-15T14:00:00"
+  },
+  {
+   "id": 958,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Robotika Unitree IPO, trader Hyperliquid prediksi untung 4x",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3e83c36265299fba3f2f0b391d99713fbc72eefb-6322x4215.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "54 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-15T16:00:00"
   }
  ]
 }
