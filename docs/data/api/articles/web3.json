@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trezor-pelanggaran-data-risiko-phishing",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-13T14:36:14"
@@ -96,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg",
-   "a": "55 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T12:48:09"
@@ -114,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T21:16:05"
+  },
+  {
+   "id": 985,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pelanggaran keamanan SafePal bocorkan data 40.000 pelanggan",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "50 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-16T14:02:32"
   }
  ]
 }

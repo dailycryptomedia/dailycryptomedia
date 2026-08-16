@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -102,6 +102,20 @@
    "published_at": "2026-08-14T21:03:35"
   },
   {
+   "id": 988,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "California larang AI jadi terapis kesehatan mental",
+   "x": "Sebuah rancangan undang-undang di California akan membatasi penggunaan chatbot AI untuk terapi. Langkah ini diambil karena kekhawatiran akan keamanan dan etika penggunaan AI dalam kesehatan mental.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
+   "a": "52 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-16T14:01:03"
+  },
+  {
    "id": 817,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -184,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T08:02:18"
+  },
+  {
+   "id": 986,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulasi MiCA ciptakan gelombang penipuan baru di Uni Eropa",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "53 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-16T14:00:00"
   },
   {
    "id": 876,
