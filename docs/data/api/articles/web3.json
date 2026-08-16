@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,20 +16,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T08:38:55"
-  },
-  {
-   "id": 779,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Trezor Laporkan Kebocoran Data 14 Ribu Pengguna via Penyedia Logistik",
-   "x": "Penyedia dompet kripto Trezor menginformasikan kebocoran data 14.000 penggunanya melalui mitra logistik. Data yang bocor berpotensi disalahgunakan untuk upaya phishing, namun aset digital tetap aman.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-wallet-info-sold-online-ledger-trezor.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-13T15:25:14"
   },
   {
    "id": 859,
@@ -82,24 +68,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/defillama-aplikasi-palsu-apple-takedown",
    "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T14:30:00"
-  },
-  {
-   "id": 771,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kebocoran Data Ungkap Data Lebih dari 13.000 Pengguna Wallet Trezor. Haruskah Anda Khawatir?",
-   "x": "Mitra pengiriman Trezor membocorkan data 13.689 pelanggan. Perangkat tetap aman, namun risiko phishing dan surel penipuan meningkat.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trezor-pelanggaran-data-risiko-phishing",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-13T14:36:14"
   },
   {
    "id": 981,
@@ -110,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T12:48:09"
@@ -138,7 +110,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:02:32"
