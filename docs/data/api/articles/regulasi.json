@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act",
    "img": "https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T18:18:50"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T17:47:12"
@@ -110,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:01:03"
@@ -180,10 +180,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T17:48:04"
+  },
+  {
+   "id": 995,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pertemuan SEC yang tidak terjadi: Keadaan Kripto",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "30 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-16T18:30:00"
   },
   {
    "id": 858,
@@ -208,7 +222,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:00:00"
