@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-wallet-info-sold-online-ledger-trezor.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-13T15:25:14"
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-15T04:00:10"
+  },
+  {
+   "id": 989,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "DeFiLlama Korbankan Aset Kripto Nyata untuk Paksa Apple Bertindak",
+   "x": "DeFiLlama membiarkan tiruan App Store palsu menguras wallet asli. Apple baru menarik listing penipuan tersebut beberapa hari kemudian.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/defillama-aplikasi-palsu-apple-takedown",
+   "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-16T14:30:00"
   },
   {
    "id": 771,
@@ -124,7 +138,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "50 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:02:32"
