@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onchain-credit-systems.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T04:44:31"
@@ -46,6 +46,20 @@
    "published_at": "2026-08-13T10:50:24"
   },
   {
+   "id": 969,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Hindari Sandwich Attack Saat Swap Kripto di DEX",
+   "x": "Pelajari cara melindungi transaksi swap kripto di bursa terdesentralisasi (DEX) dari serangan bot MEV. Ini penting agar dana investor ritel lebih aman dari potensi kerugian.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cara-menghindari-sandwich-attack-saat-swap-kripto-di-dex",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-16T03:30:35"
+  },
+  {
    "id": 840,
    "k": "defi",
    "cat": "DeFi",
@@ -54,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/perusahaan-kripto-ini-siapkan-rp356-triliun-untuk-staking-eth-ini-tujuannya",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T03:30:31"
@@ -68,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-800x450.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T04:09:44"
