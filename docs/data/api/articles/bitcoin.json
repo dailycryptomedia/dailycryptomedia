@@ -1,5 +1,5 @@
 {
- "total": 47,
+ "total": 40,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-21-juta-cap-adam-back",
    "img": "https://assets.beincrypto.com/img/YjrVdlNB-WjrcsysIO7RTk5OIlM=/smart/1c2d2097d28c433e9303f48475a8f454",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-15T19:07:25"
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cowen-hari-bottom-siklus-bitcoin",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T07:03:00"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/stres-kredit-swasta-as-tertinggi-sejak-2017-bitcoin",
    "img": "https://assets.beincrypto.com/img/DYIKSLh5Np2SB66McCCJ2eBGFMQ=/smart/8ac3b2177c3d433ead93a246bf5b80cd",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T16:59:19"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jeff-booth-15000-jam-membunuh-bitcoin",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T20:29:14"
@@ -166,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coldcard-bitcoin-pencurian-115-juta-galaxy",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T08:32:24"
@@ -180,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/4-alasan-bitcoin-xrp-agustus-pekan",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T21:03:27"
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ethereum-hyperscale-bitcoin-design-buterin-bitcoiners",
    "img": "https://assets.beincrypto.com/img/NolNrSbSjrX83UW2zeC664XckQk=/smart/2465a0f2e5de42028637e2a702354e98",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T08:10:28"
@@ -208,24 +208,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T09:31:04"
-  },
-  {
-   "id": 898,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Cina Suntik US$52 Miliar dan Bitcoin Turun, Tiga Hari Lagi Telah Dijadwalkan",
-   "x": "Cina menyuntikkan USD52 miliar dan Bitcoin turun 1,7%. Tiga hari suntikan lagi dibuka pada hari Senin, masing-masing dibatasi hingga USD88 miliar.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cina-injeksi-likuiditas-bitcoin-empat-hari",
-   "img": "https://assets.beincrypto.com/img/agsBNfpH6WhfEQeerMFveFinrf8=/smart/869eeeec8e47473980627434db409bdc",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-14T16:01:40"
   },
   {
    "id": 930,
@@ -242,20 +228,6 @@
    "published_at": "2026-08-15T00:58:18"
   },
   {
-   "id": 907,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bank terbesar Israel coba lagi tawarkan trading Bitcoin",
-   "x": "Setelah upaya sebelumnya terhambat regulasi, Bank Leumi Israel akan kembali menawarkan layanan trading Bitcoin. Pelonggaran regulasi dan solusi kustodian baru menjadi pendorong utama.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T17:14:02"
-  },
-  {
    "id": 1059,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -264,7 +236,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T12:56:55"
@@ -278,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
    "img": "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T18:57:04"
@@ -292,7 +264,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T10:31:04"
@@ -306,24 +278,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dolar-as-level-terendah-3-bulan-reaksi-bitcoin",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T14:16:25"
-  },
-  {
-   "id": 897,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Tom Lee Ingin Penurunan 10% sebelum S&P 500 Tembus 8.000, Bitcoin Sudah Mengalaminya",
-   "x": "Tom Lee ingin koreksi 10% sebelum S&P 500 mencapai 8.000. Bitcoin, yang mendekati $63.000, sudah mengalami koreksi tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tom-lee-koreksi-10-persen-bitcoin",
-   "img": "https://assets.beincrypto.com/img/ipEEn2RbxuwNqreRrNSzmYfMRV4=/smart/223fea65144c43f1ad0111d23d4ed790",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-14T17:22:57"
   },
   {
    "id": 936,
@@ -348,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peter-schiff-aset-aman-bitcoin-obligasi",
    "img": "https://assets.beincrypto.com/img/FTzKH7dvIMioxP2foMYPJ593DjM=/smart/7ded704dc603426caba7c281876d9300",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-14T18:41:03"
@@ -362,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats",
    "img": "https://s3-images.ctmedia.io/media/article-covers/walk-b-man-balance-rope-ropewalker-bitcoin-crypto-market-price.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T11:38:52"
@@ -390,52 +348,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_1-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-15T18:37:59"
-  },
-  {
-   "id": 906,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pencurian Coldcard Bitcoin Melambat, Tapi Kerugian Bisa Lampaui $150 Juta",
-   "x": "Meskipun laju pencurian perangkat keras Bitcoin Coldcard melambat, total kerugian diperkirakan mencapai lebih dari $150 juta. Perlambatan ini mungkin menandakan para pemegang yang rentan telah beralih atau aset mereka sudah terkuras.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T17:46:06"
-  },
-  {
-   "id": 902,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bank Terbesar Israel Tawarkan Trading Bitcoin, Ether, Solana",
-   "x": "Bank Leumi Israel akan memungkinkan pelanggannya untuk membeli, menyimpan, dan menjual tiga aset kripto utama melalui aplikasi investasi bank mulai awal 2027. Ini menandai adopsi aset digital oleh institusi keuangan tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T15:41:49"
-  },
-  {
-   "id": 903,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Crypto Biz: Peretasan Bitcoin Senilai $116 Juta Soroti Penyimpanan Mandiri",
-   "x": "Peretasan dompet Bitcoin senilai $116 juta menimbulkan pertanyaan tentang keamanan penyimpanan mandiri aset digital. Sementara itu, aliran dana masuk ETF kembali pulih dan penambang mengejar kesepakatan AI.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/coma-crypto-market-falling-bitcoin-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T15:29:13"
   },
   {
    "id": 945,
@@ -460,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T16:16:40"
@@ -474,7 +390,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985",
    "img": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
-   "a": "48 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T17:13:59"
@@ -488,7 +404,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7244d49b1561d08b7e690395788cd116e7eba326-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T11:43:02"
@@ -516,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T12:51:03"
@@ -530,7 +446,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T11:28:41"
@@ -558,7 +474,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940",
    "img": "https://www.tbstat.com/wp/uploads/2024/03/raises-dollar-funding-1200x675.jpeg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T10:30:30"
@@ -586,24 +502,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-17-michael-saylor-strategy-btc-411942",
    "img": "https://www.tbstat.com/wp/uploads/2025/03/20250304_Strategy_News_2-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T12:15:52"
-  },
-  {
-   "id": 908,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin Jual BTC untuk Danai Pusat Data AI",
-   "x": "Sebuah perusahaan penambangan Bitcoin menjual sebagian besar asetnya untuk mendanai pusat data AI. Langkah ini mencerminkan pergeseran strategi industri penambangan menuju teknologi baru.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T16:23:20"
   },
   {
    "id": 1009,
@@ -614,7 +516,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f35aa3de8f990330a9d9779b5208eb6125d0a020-2838x1552.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T04:14:00"
@@ -628,7 +530,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c38e0d1ff49b12c77b4c723099f400e2dd01286c-3202x1128.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T08:38:26"
@@ -642,7 +544,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T12:19:45"
