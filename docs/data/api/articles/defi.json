@@ -1,8 +1,22 @@
 {
- "total": 2,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1065,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Harmony Rencanakan Rollback, Hapus 109.000 Transaksi Pasca Eksploitasi ONE",
+   "x": "Harmony akan melakukan rollback untuk menghindari inkonsistensi data setelah eksploitasi. Langkah ini membatalkan sejumlah besar transaksi yang tercatat di blockchain mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T12:31:36"
+  },
   {
    "id": 969,
    "k": "defi",
