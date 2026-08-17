@@ -1,22 +1,8 @@
 {
- "total": 13,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 849,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Polymarket Hadapi Gugatan Baltimore dan Kehilangan Hubungan Perbankan dengan JPMorgan",
-   "x": "Baltimore menggugat operator prediction market Kalshi dan Polymarket, menuduh keduanya menjalankan sportsbook tanpa lisensi di kota tersebut. Wali Kota Brandon Scott bersama Dewan Kota mengajukan gugatan pada hari Kamis…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/baltimore-gugat-kalshi-polymarket-taruhan-olahraga",
-   "img": "https://assets.beincrypto.com/img/prSkddxEvgpGLRvuKLpVwPJdqpg=/smart/dc5beaf6b6d74861b0c5cfc2dd8cb9f9",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-14T08:55:54"
-  },
   {
    "id": 927,
    "k": "regulasi",
@@ -60,6 +46,20 @@
    "published_at": "2026-08-14T21:03:35"
   },
   {
+   "id": 1032,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bitpanda didenda dalam penalti MiCA pertama yang dipublikasikan di Austria",
+   "x": "Regulator Austria mendenda Bitpanda karena melanggar aturan MiCA terkait white paper aset kripto dan komunikasi pemasaran. Keputusan ini menjadi preseden penting bagi kepatuhan regulasi aset kripto di Eropa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market-bitpanda.jpg",
+   "a": "36 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T09:31:47"
+  },
+  {
    "id": 988,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:01:03"
@@ -138,24 +138,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T18:30:00"
-  },
-  {
-   "id": 858,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC batalkan rapat penting regulasi kripto",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) menunda pembahasan aturan baru penawaran aset kripto setelah anggota parlemen menunda pemungutan suara. Keputusan ini menimbulkan ketidakpastian bagi industri kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T08:02:18"
   },
   {
    "id": 986,
@@ -166,7 +152,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:00:00"

@@ -1,5 +1,5 @@
 {
- "total": 39,
+ "total": 41,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jutawan-cz-tidak-mampu-beli-bitcoin",
    "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T08:51:03"
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cowen-hari-bottom-siklus-bitcoin",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T07:03:00"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jeff-booth-15000-jam-membunuh-bitcoin",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T20:29:14"
@@ -124,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/strategi-vs-bitcoin-1-tahun-performa",
    "img": "https://assets.beincrypto.com/img/sNYdsjdYgCRf7iFUSG0u0BPMqng=/smart/762ad62a6805486985f75fe825edc7f2",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T09:20:03"
@@ -144,6 +144,20 @@
    "published_at": "2026-08-15T13:30:00"
   },
   {
+   "id": 1030,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Kerugian Coldcard Melebihi US$115 Juta, Data Galaxy Research Menunjukkan",
+   "x": "Galaxy Research menyebutkan kerugian Coldcard sudah melebihi US$115 juta, mencakup 1.778,58 Bitcoin (BTC) yang tersapu dari 8.680 alamat sejak 30 Juli, menurut data Galaxy sampai 13 Agustus. Satu grafik baru dari…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/coldcard-bitcoin-pencurian-115-juta-galaxy",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-17T08:32:24"
+  },
+  {
    "id": 1000,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -152,10 +166,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/4-alasan-bitcoin-xrp-agustus-pekan",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T21:03:27"
+  },
+  {
+   "id": 1031,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Vitalik Buterin Ingin Menyalin Desain Bitcoin untuk Meningkatkan Skala Ethereum",
+   "x": "Ethereum ingin melakukan hyperscale dengan meniru cara Bitcoin melacak koin, dan Vitalik Buterin memberi kredit kepada Bitcoiners untuk hal tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ethereum-hyperscale-bitcoin-design-buterin-bitcoiners",
+   "img": "https://assets.beincrypto.com/img/NolNrSbSjrX83UW2zeC664XckQk=/smart/2465a0f2e5de42028637e2a702354e98",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-17T08:10:28"
+  },
+  {
+   "id": 1033,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pelanggaran Data Dompet Bitcoin SafePal picu ketakutan serangan fisik",
+   "x": "Kelemahan pada plugin pelacak pesanan dompet Bitcoin SafePal membocorkan data pribadi hampir 40.000 pelanggan. Insiden ini menimbulkan kekhawatiran baru mengenai keamanan data pengguna aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png",
+   "a": "36 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T09:31:04"
   },
   {
    "id": 898,
@@ -410,20 +452,6 @@
    "published_at": "2026-08-15T02:30:52"
   },
   {
-   "id": 860,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin dan pola grafik: pahami pergerakan harga BTC dengan analisis teknikal",
-   "x": "Artikel ini menjelaskan pola grafik Bitcoin seperti triangle, bull flag, dan head and shoulders. Pemahaman pola ini penting untuk membaca tren, breakout, dan potensi pembalikan arah harga.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-dan-pola-grafik-memahami-pergerakan-harga-btc-dengan-analisis-teknikal",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T07:00:05"
-  },
-  {
    "id": 955,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -466,20 +494,6 @@
    "published_at": "2026-08-15T15:12:29"
   },
   {
-   "id": 847,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin turun di bawah $63.000 seiring kenaikan minyak dan imbal hasil",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T08:51:48"
-  },
-  {
    "id": 908,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -502,7 +516,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f35aa3de8f990330a9d9779b5208eb6125d0a020-2838x1552.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T04:14:00"
@@ -520,6 +534,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T11:06:12"
+  },
+  {
+   "id": 1036,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Update langsung: Bitcoin datar dekat $63.500; gencatan senjata AS-Iran yang berakhir hidupkan ancaman minyak",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c38e0d1ff49b12c77b4c723099f400e2dd01286c-3202x1128.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T08:38:26"
   },
   {
    "id": 888,
@@ -544,7 +572,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b6799ddec98f4a85e8d4c72c273a8bac2f2efd4c-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T12:00:00"

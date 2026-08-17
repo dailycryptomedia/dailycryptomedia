@@ -1,8 +1,22 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1028,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Robot Baru dari Unitree Capai 12,66 m/s — Lebih Cepat dari Usain Bolt",
+   "x": "Robot Superman buatan Unitree mengalahkan kecepatan Usain Bolt beberapa hari sebelum debut perdagangan IPO Shanghai perusahaan senilai USD9 miliar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/unitree-ipo-superman-robot-speed-record",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "22 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-17T09:45:29"
+  },
   {
    "id": 909,
    "k": "bisnis",
@@ -96,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-will-ripple-launch-an-ipo-bid-can-it-succeed0-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T09:53:50"
