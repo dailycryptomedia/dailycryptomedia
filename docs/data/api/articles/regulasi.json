@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market-bitpanda.jpg",
-   "a": "36 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T09:31:47"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:01:03"
@@ -138,10 +138,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T18:30:00"
+  },
+  {
+   "id": 1050,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bitpanda didenda 70.000 euro dalam kasus penegakan MiCA pertama",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3d31087719ea61c734a8480fe0b22b81ce04e124-5617x3745.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "52 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T10:52:31"
   },
   {
    "id": 986,
@@ -152,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:00:00"
@@ -166,7 +180,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T10:39:39"
