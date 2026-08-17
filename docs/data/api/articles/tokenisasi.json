@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berita-kripto-terbaru-minggu-ini-dari-bitcoin-hingga-tokenisasi-ri",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T10:00:38"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-imbal-hasil-obligasi-global-sejak-2008",
    "img": "https://assets.beincrypto.com/img/ADHGiAxERHy_554lxlEkdG5jHNI=/smart/c9e0d1f4ef4f41f69bb700eaba265351",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-16T18:58:54"
@@ -130,6 +130,20 @@
    "published_at": "2026-08-14T15:17:03"
   },
   {
+   "id": 1020,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Kangaroo, Panda, Dim Sum: Penjualan Obligasi Asing Capai Rekor di Seluruh Asia",
+   "x": "Penjualan obligasi kangaroo, panda, dan dim sum mencapai rekor pada 2026 seiring peminjam asing melakukan diversifikasi dari dolar AS.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/kangaroo-panda-dim-sum-bonds-asia",
+   "img": "https://assets.beincrypto.com/img/QTI0FkC4B3WVrOgbuTGt7QOPZUs=/smart/197b2d76561b48a39329ef374e49da9e",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-17T06:21:23"
+  },
+  {
    "id": 933,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -180,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9aae75ee49cd130bbd14c457a11adcc0927c53a9-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T13:00:00"
@@ -198,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-14T11:33:50"
+  },
+  {
+   "id": 1015,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Treasury BERA Greenlane senilai $70 juta ditutup Q2 senilai $16 juta",
+   "x": "Greenlane mencatat kerugian valuasi non-tunai sebesar $19,1 juta akibat penurunan harga BERA. Hal ini berdampak pada nilai aset yang dipegang perusahaan di pasar aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/red-falling-elevator-markets-down.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T05:52:55"
   }
  ]
 }
