@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 2,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T12:31:36"
@@ -30,20 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T03:30:35"
-  },
-  {
-   "id": 914,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "SharpLink akan staking US$200 juta Ethereum melalui wstETH Lido",
-   "x": "SharpLink berencana melakukan staking sekitar 12% dari total kepemilikan Ethereum mereka melalui Lido. Strategi ini bertujuan untuk mendapatkan imbal hasil sambil tetap aktif dalam ekosistem DeFi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Sharplink-ethereum-decrypt-style-01-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T19:01:05"
   }
  ]
 }
