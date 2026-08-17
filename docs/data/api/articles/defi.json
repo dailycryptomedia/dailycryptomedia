@@ -1,22 +1,8 @@
 {
- "total": 5,
+ "total": 2,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 834,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Neutrl hentikan penebusan NUSD karena masalah cadangan yang tidak diungkap",
-   "x": "BA Labs menghentikan penebusan stablecoin NUSD karena masalah cadangan yang belum diungkapkan. Sebelumnya, integrasi NUSD telah diklasifikasikan berisiko tinggi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onchain-credit-systems.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T04:44:31"
-  },
   {
    "id": 969,
    "k": "defi",
@@ -26,38 +12,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-menghindari-sandwich-attack-saat-swap-kripto-di-dex",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T03:30:35"
-  },
-  {
-   "id": 840,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Perusahaan Kripto Alokasikan Rp3,56 T untuk Staking ETH",
-   "x": "Sebuah perusahaan kripto mengalokasikan dana besar untuk staking ETH melalui Lido. Langkah ini bertujuan untuk mendapatkan imbal hasil dari aset digital mereka.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/perusahaan-kripto-ini-siapkan-rp356-triliun-untuk-staking-eth-ini-tujuannya",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T03:30:31"
-  },
-  {
-   "id": 838,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bitwise pertimbangkan tokenisasi ETF staking Solana melalui kemitraan Superstate",
-   "x": "Bitwise berencana melakukan tokenisasi ETF staking Solana melalui kemitraan dengan Superstate. Langkah ini memungkinkan kepemilikan saham dalam bentuk token dengan hak yang sama, namun terbatas dalam transferabilitas.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-800x450.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-14T04:09:44"
   },
   {
    "id": 914,
