@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-kripto-sec-ico-america",
    "img": "https://assets.beincrypto.com/img/H27xaw7ogoUtPUaoX4Q6CtnthLU=/smart/121cd58e84964fb2bfa2f264a2741240",
-   "a": "46 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T19:12:52"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/korea-selatan-blokir-perjudian-polymarket",
    "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T15:47:21"
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mica-fine-bitpanda-austria-fma",
    "img": "https://assets.beincrypto.com/img/4jiYkVAg5k3RdXE5l_GK_QIDLkw=/smart/58e43e6a121f4cf99537d3ad81892eee",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T14:20:44"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T11:31:04"
@@ -82,10 +82,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T21:17:30"
+  },
+  {
+   "id": 1225,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan pengecualian penggalangan dana kripto",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang memungkinkan proyek kripto menggalang dana tanpa registrasi sekuritas penuh. Ini bisa mempermudah penerbitan token baru.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
+   "a": "55 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T20:00:25"
   },
   {
    "id": 1090,
@@ -110,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T09:31:04"
@@ -124,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
-   "a": "10 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T19:49:12"
@@ -138,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "35 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T19:23:53"
@@ -186,6 +200,20 @@
    "published_at": "2026-08-17T13:03:16"
   },
   {
+   "id": 1210,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Ripple sebut 15 September jadi tolok ukur RUU struktur pasar",
+   "x": "Pejabat Ripple menilai 15 September sebagai ujian penting bagi RUU Clarity Act dan memperingatkan AS bisa kehilangan peluang besar. Hal ini menyoroti krusialnya regulasi kripto AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T19:49:12"
+  },
+  {
    "id": 1154,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -194,7 +222,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
    "img": "https://www.tbstat.com/wp/uploads/2023/09/20230814_TheSEC_News2-1200x675.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T09:35:26"
@@ -212,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T18:30:00"
+  },
+  {
+   "id": 1211,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan aturan penawaran kripto baru di tengah kebuntuan Kongres",
+   "x": "SEC mengusulkan aturan baru untuk memfasilitasi investasi aset digital di tengah stagnasi legislasi kripto di Kongres AS. Ini menunjukkan upaya regulator untuk beradaptasi dengan pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T19:23:53"
   },
   {
    "id": 1050,
@@ -240,6 +282,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:00:00"
+  },
+  {
+   "id": 1219,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Blockchain Association dukung SEC hapus aturan NMS usang, sebut manfaat tokenisasi",
+   "x": "Asosiasi Blockchain mendukung proposal Komisi Sekuritas dan Bursa Amerika Serikat (SEC) untuk menghapus aturan NMS yang sudah ada sejak 2005. Perubahan ini berpotensi mempermudah tokenisasi aset dunia nyata di masa depan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
+   "img": "https://www.tbstat.com/wp/uploads/2023/09/20230814_TheSEC_News2-1200x675.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T09:35:26"
   }
  ]
 }
