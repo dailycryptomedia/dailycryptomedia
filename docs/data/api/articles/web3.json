@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T17:18:38"
+  },
+  {
+   "id": 1132,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Zoomex Gelar Kompetisi Perpetual Saham Putaran 2: Dorong Derivatif Lintas Aset bagi Trader Global",
+   "x": "Zoomex, crypto exchange derivatif global, kemarin (17/8) secara resmi mengumumkan peluncuran ajang yang sangat dinanti, Kompetisi Perpetual Saham Putaran 2. Acara ini dirancang dalam rangka menjembatani dunia Keuangan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/kompetisi-perpetual-saham-putaran-2-zoomex",
+   "img": "https://assets.beincrypto.com/img/uUs93hfmclcODaBoRgF4OddqS54=/smart/24975ca79d894c97b00bc8aab21b9e29",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-18T05:20:46"
+  },
+  {
+   "id": 1130,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Harmony Akan Hapus Hampir Sepekan Riwayat Chain Miliknya",
+   "x": "Harmony mereset chain-nya ke 11 Agustus untuk menghapus miliaran token ONE palsu saat validator bersiap untuk memulai ulang.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harmony-rollback-tempa-token-one",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "44 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-18T06:42:16"
   },
   {
    "id": 989,
@@ -54,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/40-000-data-pelanggan-safepal-bocor-hardware-wallet-tak-lagi-aman",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T06:00:33"
