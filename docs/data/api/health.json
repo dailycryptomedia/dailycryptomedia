@@ -1,9 +1,11 @@
 {
  "status": "ok",
- "artikel_total": 1180,
- "artikel_tayang": 620,
+ "artikel_total": 1188,
+ "artikel_tayang": 628,
  "menit_sejak_pengambilan_terakhir": 0,
- "sumber_bermasalah": [],
- "diekspor_pada": "2026-08-18T14:06:02.048652+00:00",
+ "sumber_bermasalah": [
+  "coindesk-id"
+ ],
+ "diekspor_pada": "2026-08-18T15:58:08.747452+00:00",
  "mode": "statis"
 }
