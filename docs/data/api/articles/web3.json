@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kompetisi-perpetual-saham-putaran-2-zoomex",
    "img": "https://assets.beincrypto.com/img/uUs93hfmclcODaBoRgF4OddqS54=/smart/24975ca79d894c97b00bc8aab21b9e29",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T05:20:46"
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harmony-rollback-tempa-token-one",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "44 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T06:42:16"
@@ -88,6 +88,20 @@
    "published_at": "2026-08-17T06:00:33"
   },
   {
+   "id": 1148,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pantau wallet bos Binance, trader kripto raup Rp4,9 miliar",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/gegara-pantau-wallet-bos-binance-trader-kripto-ini-cuan-rp49-miliar",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T07:00:24"
+  },
+  {
    "id": 981,
    "k": "web3",
    "cat": "Web3",
@@ -100,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T12:48:09"
+  },
+  {
+   "id": 1141,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BitBox perbaiki celah keamanan wallet yang berisiko",
+   "x": "BitBox merilis pembaruan firmware untuk mengatasi kerentanan keamanan pada produk walletnya. Pengguna diimbau segera melakukan pembaruan untuk melindungi aset digital mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
+   "a": "59 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T08:07:04"
   },
   {
    "id": 1002,

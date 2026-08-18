@@ -1,8 +1,22 @@
 {
- "total": 2,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1143,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Lending Kripto Turun 17% ke US$56 Miliar: Apakah Penurunan Ini Lebih Sehat daripada 2022?",
+   "x": "Pinjaman dengan jaminan aset kripto menyusut sebesar US$11,33 miliar selama kuartal kedua tahun 2026, turun 16,78% sehingga pasar berada di US$56,16 miliar, menurut Galaxy Research. Penyusutan ini memperpanjang…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/crypto-lending-turun-pinjaman-decentralized-finance-menurun",
+   "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-18T08:01:39"
+  },
   {
    "id": 1065,
    "k": "defi",
@@ -12,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T12:31:36"
