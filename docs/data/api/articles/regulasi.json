@@ -1,8 +1,22 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1164,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Chainalysis gugat pemerintah AS terkait kontrak $94,6 juta ke TRM Labs",
+   "x": "Chainalysis menggugat pemerintah AS di Pengadilan Klaim Federal karena menolak penawaran kontraknya untuk alat forensik blockchain. Gugatan ini memicu persaingan antara dua perusahaan pelacak aset kripto terbesar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png",
+   "a": "24 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T11:31:04"
+  },
   {
    "id": 1085,
    "k": "regulasi",
@@ -12,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T16:27:26"
@@ -26,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T21:17:30"
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations-binance.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T18:45:00"
@@ -54,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T09:31:04"
@@ -96,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
    "img": "https://www.tbstat.com/wp/uploads/2022/07/20220715_Bitpanda-2-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T13:03:16"
@@ -110,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
    "img": "https://www.tbstat.com/wp/uploads/2023/09/20230814_TheSEC_News2-1200x675.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T09:35:26"
