@@ -1,5 +1,5 @@
 {
- "total": 65,
+ "total": 67,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/intesa-sanpaolo-italia-spacex-saham-bitcoin-etf",
    "img": "https://assets.beincrypto.com/img/cTzMtBSUj9mUWfyKeztyT8-nlrA=/smart/266df16cf1b24c0db5d31981d9cbc2c9",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T15:36:47"
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T14:03:34"
@@ -40,10 +40,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-biggest-mining-farms-zcash-1.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T19:31:16"
+  },
+  {
+   "id": 1285,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penjualan Bitcoin Q2 Pecah Belah Wall Street, Bank Beli, Dana Lindung Nilai Jual",
+   "x": "Meskipun Bitcoin melemah di kuartal kedua, kepemilikan ETF Bitcoin institusional justru meningkat. Perbedaan strategi antara bank dan dana lindung nilai menunjukkan pandangan beragam terhadap aset digital ini.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-q2-selloff-split-wall-street-as-banks-bought-hedge-funds-cut-and-sovereigns-held",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-institutional-market-split.jpg",
+   "a": "54 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T11:00:42"
   },
   {
    "id": 1156,
@@ -68,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190",
    "img": "https://www.tbstat.com/wp/uploads/2020/11/20201116_Scaramucci_Bitcoin-Daily-1200x675.jpg",
-   "a": "6 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T10:47:39"
@@ -82,24 +96,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7244d49b1561d08b7e690395788cd116e7eba326-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T11:43:02"
-  },
-  {
-   "id": 1253,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambangan Bitcoin Ethiopia yang dihentikan menyumbang 35% hashrate Canaan",
-   "x": "Penangguhan operasi penambangan di Ethiopia berdampak signifikan pada total hashrate operasional Canaan pada bulan Juli. Hal ini menyoroti ketergantungan penambang pada lokasi geografis tertentu.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/canaan-counted-paused-ethiopia-mining-as-nearly-35-of-its-july-operating-hashrate-total",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/canaan-filing-hashrate-gap.jpg",
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T04:00:38"
   },
   {
    "id": 1119,
@@ -138,10 +138,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-are-flash-green.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T15:27:13"
+  },
+  {
+   "id": 1253,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penambangan Bitcoin Ethiopia yang dihentikan menyumbang 35% hashrate Canaan",
+   "x": "Penangguhan operasi penambangan di Ethiopia berdampak signifikan pada total hashrate operasional Canaan pada bulan Juli. Hal ini menyoroti ketergantungan penambang pada lokasi geografis tertentu.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/canaan-counted-paused-ethiopia-mining-as-nearly-35-of-its-july-operating-hashrate-total",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/canaan-filing-hashrate-gap.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T04:00:38"
   },
   {
    "id": 1197,
@@ -152,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130",
    "img": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_2-1200x675.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T18:49:15"
@@ -170,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:38:56"
-  },
-  {
-   "id": 1257,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Perusahaan publik kuasai 18% daya penambangan Zcash setelah kesepakatan $33 juta",
-   "x": "Sebuah perusahaan publik kini mengendalikan 18% kekuatan penambangan Zcash setelah transaksi senilai $33 juta. Kesepakatan ini menunjukkan konsolidasi kekuatan penambangan di tangan entitas besar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/this-public-company-now-controls-18-of-zcash-mining-power-after-33-million-winklevoss-linked-deal",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cypherpunk-zcash-control-grip.jpg",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T22:30:53"
   },
   {
    "id": 1106,
@@ -222,10 +222,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-3.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T16:21:58"
+  },
+  {
+   "id": 1257,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Perusahaan publik kuasai 18% daya penambangan Zcash setelah kesepakatan $33 juta",
+   "x": "Sebuah perusahaan publik kini mengendalikan 18% kekuatan penambangan Zcash setelah transaksi senilai $33 juta. Kesepakatan ini menunjukkan konsolidasi kekuatan penambangan di tangan entitas besar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/this-public-company-now-controls-18-of-zcash-mining-power-after-33-million-winklevoss-linked-deal",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cypherpunk-zcash-control-grip.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T22:30:53"
   },
   {
    "id": 1182,
@@ -236,7 +250,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250401_MetaPlanet_News_2-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T15:09:55"
@@ -250,7 +264,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T11:28:41"
@@ -264,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jepang-3-pertarungan-bitcoin-yen-kejut",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T13:28:02"
@@ -278,7 +292,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T18:06:42"
@@ -292,7 +306,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats",
    "img": "https://s3-images.ctmedia.io/media/article-covers/walk-b-man-balance-rope-ropewalker-bitcoin-crypto-market-price.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T11:38:52"
@@ -390,7 +404,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5ef1b829d4b3ab0d085d535f7a73161a074ca511-1500x997.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T11:21:51"
@@ -404,7 +418,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-mstr-strong-buy-2026-tiga-alasan-analisis",
    "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T11:01:11"
@@ -418,24 +432,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T09:31:03"
   },
   {
-   "id": 1064,
+   "id": 1281,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strategi Raih $334 Juta dari Penjualan Saham, Tanpa Beli atau Jual Bitcoin",
-   "x": "Pendapatan dari penjualan saham digunakan untuk dividen dan pembelian kembali saham, sementara cadangan dolar AS bertambah signifikan. Total cadangan kini mencapai $4,8 miliar.",
+   "t": "Bitcoin 'Bersihkan' Spekulasi Pasca Jatuh 50% dari Rekor Tertinggi: BlackRock",
+   "x": "Laporan BlackRock menyatakan Bitcoin telah melepaskan spekulasi berlebih setelah koreksi tajam dari rekor tertinggi. Aset digital ini dinilai tetap menarik sebagai instrumen diversifikasi investasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-sek-blackrock.jpg",
+   "a": "48 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-17T12:51:03"
+   "published_at": "2026-08-19T11:06:13"
   },
   {
    "id": 1052,
@@ -474,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-time-machine-winklevoss-dip",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T08:09:16"
@@ -488,24 +502,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T15:19:45"
   },
   {
-   "id": 1267,
+   "id": 1064,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin tambah $189 juta, aliran masuk bersih Agustus dekati $1 miliar",
-   "x": "ETF Bitcoin spot AS mencatat aliran dana masuk bersih sebesar $189 juta pada hari Selasa, mendorong total aliran masuk bulan Agustus mendekati $1 miliar. ETF Ether juga mencatat penambahan dana masuk.",
+   "t": "Strategi Raih $334 Juta dari Penjualan Saham, Tanpa Beli atau Jual Bitcoin",
+   "x": "Pendapatan dari penjualan saham digunakan untuk dividen dan pembelian kembali saham, sementara cadangan dolar AS bertambah signifikan. Total cadangan kini mencapai $4,8 miliar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-investment-pump.jpg",
-   "a": "2 jam lalu",
+   "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T07:59:16"
+   "published_at": "2026-08-17T12:51:03"
   },
   {
    "id": 1063,
@@ -550,6 +564,20 @@
    "published_at": "2026-08-18T04:05:29"
   },
   {
+   "id": 1267,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin tambah $189 juta, aliran masuk bersih Agustus dekati $1 miliar",
+   "x": "ETF Bitcoin spot AS mencatat aliran dana masuk bersih sebesar $189 juta pada hari Selasa, mendorong total aliran masuk bulan Agustus mendekati $1 miliar. ETF Ether juga mencatat penambahan dana masuk.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-investment-pump.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T07:59:16"
+  },
+  {
    "id": 1175,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -558,7 +586,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
    "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-1200x675.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T12:00:00"
@@ -572,7 +600,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T13:00:00"
@@ -600,7 +628,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130",
    "img": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_2-1200x675.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T18:49:15"
@@ -628,7 +656,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pemegang-saham-institusional-mstr-q2-2026",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T05:02:39"
@@ -642,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250401_MetaPlanet_News_2-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T15:09:55"
@@ -684,7 +712,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
    "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-1200x675.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T12:00:00"
@@ -712,7 +740,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-hormuz-wilayah-as-minyak-gas-bitcoin",
    "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T18:53:20"
@@ -796,7 +824,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/40-triliun-utang-dolar-as-bitcoin-crypto",
    "img": "https://assets.beincrypto.com/img/dQ0MhRb0GiEGV9dOm0auh28p4-E=/smart/97781aacbcfc4ca194c9326adddb0272",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T22:24:59"
@@ -814,34 +842,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T08:32:24"
-  },
-  {
-   "id": 1000,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "4 Alasan Mengapa Minggu Ini Bisa Jadi Pekan Paling Penting di Bulan Agustus untuk Bitcoin dan XRP",
-   "x": "Trump bertemu dengan pemimpin industri kripto, risalah The Fed terbit, dan Jepang menguji carry trade. Empat katalis yang bisa menggerakkan Bitcoin dan XRP.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/4-alasan-bitcoin-xrp-agustus-pekan",
-   "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-16T21:03:27"
-  },
-  {
-   "id": 1243,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Tom Lee Gunakan Laporan Bitcoin BlackRock untuk Tawarkan Ethereum sebagai Layer Verifikasi AI",
-   "x": "Tom Lee mengutip laporan bitcoin BlackRock untuk mempromosikan Ethereum sebagai layer verifikasi AI, namun laporan tersebut tidak pernah menyampaikan hal itu.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tom-lee-blackrock-ethereum-ai-verifikasi",
-   "img": "https://assets.beincrypto.com/img/cvzXz2VJpC4MqjPN8FuHOaogzM0=/smart/5592b7822f4946938b64c0160934f2d9",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-19T03:14:00"
   }
  ]
 }
