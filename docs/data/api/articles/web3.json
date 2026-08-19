@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -58,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T08:07:04"
+  },
+  {
+   "id": 1311,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Nethermind tinggalkan peran verifier LayerZero, bergabung dengan Chainlink",
+   "x": "Perusahaan rekayasa Ethereum, Nethermind, akan menjadi operator node di Chainlink. Peran baru ini akan mendukung pengamanan protokol Cross-Chain Interoperability Protocol (CCIP) dan Data Feeds.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
+   "img": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T16:01:13"
   },
   {
    "id": 1130,
