@@ -1,30 +1,28 @@
 # =============================================================================
 #  DAILY CRYPTO MEDIA — REGISTRI SUMBER
 # =============================================================================
-#  Catatan penting sebelum mengubah berkas ini
-#  ---------------------------------------------------------------------------
 #  Pipeline ini SENGAJA hanya menyimpan judul, kutipan pendek dari feed, dan
 #  tautan kanonis. Tabel Article tidak punya kolom untuk isi artikel penuh.
-#  Itu batasan struktural, bukan sekadar konvensi. Jangan menambah kolom body.
+#  Itu batasan struktural, bukan konvensi. Jangan menambah kolom body.
 #
-#  Dari enam sumber yang aktif, tiga sudah berbahasa Indonesia dan tidak perlu
-#  diterjemahkan sama sekali. Hanya tiga sumber berbahasa Inggris yang masuk
-#  antrean terjemahan. Ini memangkas pemakaian kuota API sekitar separuh.
+#  PENYARING TOPIK TIDAK ADA. Skor dihitung dari relevansi Indonesia,
+#  kesegaran, dan kualitas kutipan — bukan dari apakah artikelnya soal kripto.
+#  Konsekuensinya: JANGAN menambahkan feed berita umum. Feed semacam itu akan
+#  mengisi halaman depan dengan berita non-kripto berskor tinggi. Setiap
+#  sumber di sini harus feed yang khusus kripto atau keuangan digital.
 #
-#  Kolom `needs_permission: true` menandai sumber yang mensyaratkan izin
-#  tertulis untuk sindikasi komersial. Sumber itu tetap diambil untuk
-#  pemantauan redaksi internal, tetapi `publish: false` menahannya agar tidak
-#  tampil di situs publik sampai perjanjian ditandatangani.
+#  Sejak penyeimbangan penerbit dipasang di export.py, tiap sumber mendapat
+#  giliran yang sama pada 60 kursi halaman depan. Menambah sumber berarti
+#  memperkecil porsi tiap sumber — pertimbangan sadar, bukan efek samping.
 #
-#  Kolom `active: false` menghentikan polling sepenuhnya. Dipakai untuk sumber
-#  yang endpoint feednya mati, bukan untuk sumber yang izinnya belum turun.
+#  needs_permission: true menandai sumber yang mensyaratkan izin tertulis
+#  untuk sindikasi komersial. active: false menghentikan polling sepenuhnya,
+#  dipakai untuk endpoint yang mati — bukan untuk izin yang belum turun.
 # =============================================================================
 
 defaults:
   user_agent: "DailyCryptoMediaBot/1.0 (+https://dailycryptomedia.com/bot; redaksi@dailycryptomedia.com)"
   timeout_seconds: 20
-  # Jeda antar permintaan ke domain yang sama. Jangan diturunkan di bawah 2
-  # detik: feed berita diperbarui dalam hitungan menit, bukan detik.
   min_interval_seconds: 3.0
   max_items_per_poll: 40
   respect_robots: true
@@ -39,20 +37,16 @@ sources:
     name: "CoinDesk Indonesia"
     homepage: "https://www.coindesk.com/id"
     lang: id
-    # Edisi Indonesia belum tentu menyediakan feed terpisah. Urutan kandidat
-    # dicoba dari atas; bila semua gagal, discovery membaca tag <link rel=
-    # "alternate"> pada homepage. Bila tetap nihil, sumber ditandai needs_review
-    # dan pipeline memakai feed induk berbahasa Inggris + terjemahan.
     feed_candidates:
       - "https://www.coindesk.com/id/arc/outboundfeeds/rss/"
       - "https://www.coindesk.com/arc/outboundfeeds/rss/"
-    fallback_lang: en          # dipakai bila yang resolve adalah feed induk
+    fallback_lang: en
     publish: true
     needs_permission: true
     attribution: "CoinDesk"
     license_note: >
-      Sindikasi komersial memerlukan perjanjian. Mode aman: tampilkan judul,
-      kutipan feed, dan tautan balik. Jangan menyalin isi artikel.
+      Sindikasi komersial memerlukan perjanjian. Mode aman: judul, kutipan
+      feed, dan tautan balik. Jangan menyalin isi artikel.
 
   - slug: beincrypto-id
     name: "BeInCrypto Indonesia"
@@ -82,14 +76,11 @@ sources:
     name: "Coinvestasi"
     homepage: "https://coinvestasi.com/"
     lang: id
-    # DINONAKTIFKAN 15 Agustus 2026. Coinvestasi tidak menyediakan RSS publik.
-    # Situsnya bukan WordPress, sehingga pola /feed/ yang lazim tidak berlaku.
-    # Seluruh kandidat berikut mengembalikan halaman 404 buatan sendiri:
+    # DINONAKTIFKAN 15 Agustus 2026. Tidak menyediakan RSS publik. Situsnya
+    # bukan WordPress. Diuji dan semuanya mengembalikan halaman 404 sendiri:
     #   /feed  /feed/  /rss  /rss.xml  /atom.xml  /index.xml
     #   /berita-terkini/feed
     # Berandanya juga tidak mengumumkan feed lewat tag autodiscovery.
-    # Aktifkan kembali dengan active: true bila mereka menyediakan feed, atau
-    # bila perjanjian sindikasi membuka jalur akses lain.
     active: false
     feed_candidates:
       - "https://coinvestasi.com/feed/"
@@ -99,17 +90,15 @@ sources:
     license_note: "Tidak ada feed publik. Perlu kontak redaksi untuk akses."
 
   # ---------------------------------------------------------------------
-  # SUMBER BERBAHASA INGGRIS — masuk antrean terjemahan
+  # SUMBER BERBAHASA INGGRIS — masuk antrean terjemahan Gemini
   # ---------------------------------------------------------------------
 
   - slug: cointelegraph
     name: "Cointelegraph"
     homepage: "https://cointelegraph.com/"
     lang: en
-    # Terverifikasi aktif per Agustus 2026, mengembalikan application/xml.
     feed_candidates:
       - "https://cointelegraph.com/rss"
-    # Feed per rubrik, dipakai bila ingin menambah kedalaman kanal tertentu.
     topic_feeds:
       bitcoin:  "https://cointelegraph.com/rss/tag/bitcoin"
       defi:     "https://cointelegraph.com/rss/tag/defi"
@@ -144,13 +133,67 @@ sources:
     needs_permission: true
     attribution: "The Block"
     license_note: >
-      Sebagian konten berada di balik langganan Pro. Item berbayar dilewati
-      oleh pipeline karena kutipannya tidak tersedia secara publik.
+      Sebagian konten di balik langganan Pro. Item berbayar dilewati pipeline
+      karena kutipannya tidak tersedia publik.
+
+  # --- ditambahkan 19 Agustus 2026, semuanya lolos uji Diagnosa ----------
+
+  - slug: cryptoslate
+    name: "CryptoSlate"
+    homepage: "https://cryptoslate.com/"
+    lang: en
+    # Terverifikasi: 200, application/rss+xml, 10 item. Feednya pendek, jadi
+    # sumbangannya sedikit tapi konsisten.
+    feed_candidates:
+      - "https://cryptoslate.com/feed/"
+    publish: true
+    needs_permission: true
+    attribution: "CryptoSlate"
+    license_note: "Feed publik. Konfirmasi ketentuan sindikasi sebelum skala penuh."
+
+  - slug: blockworks
+    name: "Blockworks"
+    homepage: "https://blockworks.co/"
+    lang: en
+    # Terverifikasi: 200, text/xml, 50 item. Kuat di sisi institusional dan
+    # struktur pasar — melengkapi celah liputan sumber lain.
+    feed_candidates:
+      - "https://blockworks.co/feed"
+    publish: true
+    needs_permission: true
+    attribution: "Blockworks"
+    license_note: "Feed publik. Konfirmasi ketentuan sindikasi sebelum skala penuh."
+
+  - slug: thedefiant
+    name: "The Defiant"
+    homepage: "https://thedefiant.io/"
+    lang: en
+    # Terverifikasi: 200, application/rss+xml, 100 item. Fokus DeFi, RWA, dan
+    # tokenisasi. Alamat /api/feed memberi isi identik; cukup satu saja.
+    feed_candidates:
+      - "https://thedefiant.io/feed"
+    publish: true
+    needs_permission: true
+    attribution: "The Defiant"
+    license_note: "Feed publik. Konfirmasi ketentuan sindikasi sebelum skala penuh."
+
+  # ---------------------------------------------------------------------
+  # DITOLAK SAAT PENGUJIAN 19 Agustus 2026 — jangan dicoba ulang tanpa alasan
+  # ---------------------------------------------------------------------
+  #  Kontan       rss.kontan.co.id  -> gagal handshake SSL. Selain itu
+  #                                    ketentuan RSS-nya menyatakan hanya
+  #                                    untuk penggunaan non-komersial.
+  #  Bisnis.com   /rss              -> 403, Cloudflare
+  #  finansial.bisnis.com /rss      -> 403, Cloudflare
+  #  CNBC Indonesia /market/rss     -> 403, Cloudflare
+  #  OJK          siaran pers       -> firewall aplikasi menolak bot
+  #  Katadata     /rss              -> feed SAH tetapi berita umum, bukan
+  #                                    kripto. Akan mengisi halaman depan
+  #                                    dengan artikel di luar topik karena
+  #                                    tidak ada penyaring topik di kode.
 
 # =============================================================================
 #  PEMETAAN RUBRIK
-#  Kata kunci dicocokkan pada judul dan kutipan, sudah dinormalkan ke huruf
-#  kecil. Rubrik pertama yang cocok dengan skor tertinggi yang dipakai.
 # =============================================================================
 rubrics:
   regulasi:
@@ -178,9 +221,6 @@ rubrics:
                 infrastruktur, node, validator, jaringan, interoperability]
   bisnis:
     label: "Bisnis"
-    # "bursa" dan "exchange" sengaja TIDAK dimasukkan di sini. Keduanya
-    # muncul di hampir semua berita pasar, sehingga berita volume perdagangan
-    # ikut tersedot ke rubrik bisnis. Rubrik ini khusus aksi korporasi.
     keywords: [funding, pendanaan, raise, acquisition, akuisisi, ipo, merger, revenue,
                 pendapatan, partnership, kemitraan, hire, layoff, penggalangan dana]
   pasar:
@@ -191,8 +231,6 @@ rubrics:
 
 # =============================================================================
 #  SKOR RELEVANSI INDONESIA
-#  Menaikkan berita yang menyentuh pembaca lokal. Skor ditambahkan ke urutan
-#  tampilan, sehingga kabar regional tidak tenggelam oleh berita global.
 # =============================================================================
 relevance_boost:
   indonesia:      [indonesia, indonesian, jakarta, rupiah, idr, ojk, bappebti,
@@ -202,4 +240,4 @@ relevance_boost:
   weights:
     indonesia: 40
     regional: 15
-    recency_hours_halflife: 8      # skor kesegaran meluruh separuh tiap 8 jam
+    recency_hours_halflife: 8
