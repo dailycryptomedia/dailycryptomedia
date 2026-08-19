@@ -1,22 +1,8 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 993,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "SafePal alami kebocoran data, 40.000 pelanggan terdampak",
-   "x": "Penyedia dompet kripto SafePal mengumumkan kebocoran data yang mengekspos informasi pribadi hampir 40.000 pelanggan. Insiden ini terjadi setelah pengguna melaporkan upaya phishing sejak Juli.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-16T17:18:38"
-  },
   {
    "id": 1132,
    "k": "web3",
@@ -68,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
    "img": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T16:01:13"
