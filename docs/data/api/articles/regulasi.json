@@ -1,5 +1,5 @@
 {
- "total": 31,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:50:58"
+  },
+  {
+   "id": 1342,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Senator AS: RUU Kripto Masih Bisa Disetujui Meski Pembahasan Etika Tertunda",
+   "x": "Anggota parlemen AS Ruben Gallego optimistis RUU Clarity Act bisa disahkan meski ada kendala dalam kesepakatan etika. Hal ini menunjukkan upaya berkelanjutan untuk membentuk regulasi aset digital di Amerika Serikat.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272",
+   "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
+   "a": "18 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T22:36:38"
   },
   {
    "id": 1341,
@@ -40,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
-   "a": "19 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T21:36:50"
@@ -54,24 +68,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-opens-door-to-day-one-crypto-insider-sales-that-senate-draft-would-block",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-lockup-cage-debate.jpg?ver=1787131451",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T09:45:12"
-  },
-  {
-   "id": 1204,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bos hukum Ripple sebut 15 September jadi penentu RUU struktur pasar Clarity Act",
-   "x": "Pejabat Ripple menilai 15 September sebagai momen krusial untuk RUU Clarity Act yang bertujuan membentuk struktur pasar aset digital. Ia memperingatkan bahwa AS berisiko kehilangan peluang besar jika regulasi ini tidak segera disahkan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T19:49:12"
   },
   {
    "id": 1050,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peraturan-data-center-pennsylvania-biaya-jaringan",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T09:40:10"
@@ -114,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T21:24:15"
+  },
+  {
+   "id": 1204,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bos hukum Ripple sebut 15 September jadi penentu RUU struktur pasar Clarity Act",
+   "x": "Pejabat Ripple menilai 15 September sebagai momen krusial untuk RUU Clarity Act yang bertujuan membentuk struktur pasar aset digital. Ia memperingatkan bahwa AS berisiko kehilangan peluang besar jika regulasi ini tidak segera disahkan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T19:49:12"
   },
   {
    "id": 1164,
@@ -138,24 +152,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hives-84-7-million-swedish-tax-provision-eclipsed-revenue-even-as-bitcoin-output-hit-a-record",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hive-bitcoin-tax-flood.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T23:40:04"
-  },
-  {
-   "id": 1232,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CEO Solana Policy Institute: UU Kejelasan punya peluang 10% sebelum pemilu sela",
-   "x": "Seorang eksekutif industri aset digital menilai undang-undang yang mengatur kripto di AS memiliki peluang kecil untuk disahkan dalam waktu dekat. Keterlambatan ini menyoroti tantangan regulasi yang juga dihadapi pasar Indonesia.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
-   "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T21:22:47"
   },
   {
    "id": 1193,
@@ -186,6 +186,20 @@
    "published_at": "2026-08-17T21:17:30"
   },
   {
+   "id": 1232,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "CEO Solana Policy Institute: UU Kejelasan punya peluang 10% sebelum pemilu sela",
+   "x": "Seorang eksekutif industri aset digital menilai undang-undang yang mengatur kripto di AS memiliki peluang kecil untuk disahkan dalam waktu dekat. Keterlambatan ini menyoroti tantangan regulasi yang juga dihadapi pasar Indonesia.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+   "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T21:22:47"
+  },
+  {
    "id": 1085,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -198,20 +212,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T16:27:26"
-  },
-  {
-   "id": 1205,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan aturan baru penawaran kripto saat Kongres tertahan soal legislasi aset digital",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memfasilitasi investasi aset digital. Usulan ini muncul di tengah kebuntuan legislasi aset digital di Kongres AS, yang menunjukkan upaya regulator untuk memberikan kerangka kerja.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
-   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T19:23:53"
   },
   {
    "id": 1187,
@@ -236,10 +236,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-dlts-could-change-the-real-estate-investment-landscape-deal.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:19:21"
+  },
+  {
+   "id": 1205,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan aturan baru penawaran kripto saat Kongres tertahan soal legislasi aset digital",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memfasilitasi investasi aset digital. Usulan ini muncul di tengah kebuntuan legislasi aset digital di Kongres AS, yang menunjukkan upaya regulator untuk memberikan kerangka kerja.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T19:23:53"
   },
   {
    "id": 1225,
@@ -256,20 +270,6 @@
    "published_at": "2026-08-18T20:00:25"
   },
   {
-   "id": 1062,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Otoritas Austria Denda Broker Kripto Bitpanda $81.000 dalam Denda MiCA Pertama",
-   "x": "Otoritas Jasa Keuangan Austria (FMA) menjatuhkan denda kepada Bitpanda karena kegagalan dalam keterbukaan informasi whitepaper dan pemasaran. Ini merupakan denda pertama yang dipublikasikan berdasarkan regulasi MiCA.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
-   "img": "https://www.tbstat.com/wp/uploads/2022/07/20220715_Bitpanda-2-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-17T13:03:16"
-  },
-  {
    "id": 1237,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/andrew-yang-pajak-ai-pekerja",
    "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T01:25:07"
@@ -292,10 +292,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-new-sec-crypto-task-force-key-changes-to-watch-hester-peirce-1.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T13:27:09"
+  },
+  {
+   "id": 1062,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Otoritas Austria Denda Broker Kripto Bitpanda $81.000 dalam Denda MiCA Pertama",
+   "x": "Otoritas Jasa Keuangan Austria (FMA) menjatuhkan denda kepada Bitpanda karena kegagalan dalam keterbukaan informasi whitepaper dan pemasaran. Ini merupakan denda pertama yang dipublikasikan berdasarkan regulasi MiCA.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
+   "img": "https://www.tbstat.com/wp/uploads/2022/07/20220715_Bitpanda-2-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-17T13:03:16"
   },
   {
    "id": 1155,
@@ -312,20 +326,6 @@
    "published_at": "2026-08-18T09:31:04"
   },
   {
-   "id": 1210,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Ripple sebut 15 September jadi tolok ukur RUU struktur pasar",
-   "x": "Pejabat Ripple menilai 15 September sebagai ujian penting bagi RUU Clarity Act dan memperingatkan AS bisa kehilangan peluang besar. Hal ini menyoroti krusialnya regulasi kripto AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T19:49:12"
-  },
-  {
    "id": 1090,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -340,6 +340,20 @@
    "published_at": "2026-08-17T18:45:00"
   },
   {
+   "id": 1210,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Ripple sebut 15 September jadi tolok ukur RUU struktur pasar",
+   "x": "Pejabat Ripple menilai 15 September sebagai ujian penting bagi RUU Clarity Act dan memperingatkan AS bisa kehilangan peluang besar. Hal ini menyoroti krusialnya regulasi kripto AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T19:49:12"
+  },
+  {
    "id": 1303,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -348,10 +362,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T14:30:24"
+  },
+  {
+   "id": 1319,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kepala OCC janjikan aturan GENIUS final November",
+   "x": "Regulator perbankan AS merilis proposal aturan stablecoin setebal 376 halaman pada Februari. Aturan final diharapkan terbit November, sebelum undang-undang berlaku Januari 2027.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T17:00:01"
   },
   {
    "id": 1154,
@@ -368,18 +396,18 @@
    "published_at": "2026-08-18T09:35:26"
   },
   {
-   "id": 1319,
+   "id": 1332,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kepala OCC janjikan aturan GENIUS final November",
-   "x": "Regulator perbankan AS merilis proposal aturan stablecoin setebal 376 halaman pada Februari. Aturan final diharapkan terbit November, sebelum undang-undang berlaku Januari 2027.",
+   "t": "Trump dorong pelolosan Clarity Act bersama pemimpin kripto",
+   "x": "Donald Trump menyerukan Senat AS untuk segera mengesahkan rancangan undang-undang struktur pasar aset kripto. Tujuannya adalah agar AS tetap unggul dalam inovasi teknologi dibandingkan negara lain.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg",
-   "a": "4 jam lalu",
+   "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-clarity-act.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T17:00:01"
+   "published_at": "2026-08-19T19:54:59"
   },
   {
    "id": 1211,
@@ -396,18 +424,18 @@
    "published_at": "2026-08-18T19:23:53"
   },
   {
-   "id": 1332,
+   "id": 1032,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Trump dorong pelolosan Clarity Act bersama pemimpin kripto",
-   "x": "Donald Trump menyerukan Senat AS untuk segera mengesahkan rancangan undang-undang struktur pasar aset kripto. Tujuannya adalah agar AS tetap unggul dalam inovasi teknologi dibandingkan negara lain.",
+   "t": "Bitpanda didenda dalam penalti MiCA pertama yang dipublikasikan di Austria",
+   "x": "Regulator Austria mendenda Bitpanda karena melanggar aturan MiCA terkait white paper aset kripto dan komunikasi pemasaran. Keputusan ini menjadi preseden penting bagi kepatuhan regulasi aset kripto di Eropa.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-clarity-act.png",
-   "a": "2 jam lalu",
+   "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market-bitpanda.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T19:54:59"
+   "published_at": "2026-08-17T09:31:47"
   },
   {
    "id": 1219,
@@ -422,20 +450,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T09:35:26"
-  },
-  {
-   "id": 1032,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bitpanda didenda dalam penalti MiCA pertama yang dipublikasikan di Austria",
-   "x": "Regulator Austria mendenda Bitpanda karena melanggar aturan MiCA terkait white paper aset kripto dan komunikasi pemasaran. Keputusan ini menjadi preseden penting bagi kepatuhan regulasi aset kripto di Eropa.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market-bitpanda.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-17T09:31:47"
   }
  ]
 }
