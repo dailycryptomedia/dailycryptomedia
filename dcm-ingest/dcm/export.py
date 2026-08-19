@@ -24,6 +24,14 @@ dibangun lewat Article.to_card(), jadi setiap kartu tetap membawa nama
 penerbit dan tautan kanonis. Hanya artikel dari sumber dengan publish=true
 yang ikut diekspor, sehingga sumber yang izin sindikasinya belum turun tidak
 pernah bocor ke berkas publik.
+
+Penyeimbangan penerbit
+----------------------
+Urutan murni berdasarkan skor membuat satu penerbit memborong hampir seluruh
+kursi, karena penerbit yang paling produktif otomatis punya paling banyak
+kandidat berskor tinggi. Hasilnya situs agregator terlihat seperti cermin
+satu media saja. _seimbangkan() menyusun ulang secara bergiliran antar
+sumber sebelum dipotong ke batas akhir.
 """
 
 from __future__ import annotations
@@ -45,6 +53,11 @@ log = logging.getLogger(__name__)
 # ROOT menunjuk ke folder dcm-ingest. Induknya adalah akar repo, tempat
 # folder docs/ berada. Itulah yang disajikan GitHub Pages.
 DEFAULT_OUT = ROOT.parent / "docs" / "data" / "api"
+
+# Berapa kali lipat kandidat yang diambil sebelum penyeimbangan. Kolam yang
+# lebih besar memberi ruang bagi sumber yang lebih sepi untuk ikut terpilih.
+# Terlalu besar hanya membuang memori tanpa menambah keragaman.
+FAKTOR_KOLAM = 5
 
 
 def _write(path: Path, payload) -> None:
@@ -75,6 +88,51 @@ def _base_query(since: datetime):
     )
 
 
+def _seimbangkan(kandidat: list, batas: int) -> list:
+    """Susun ulang agar penerbit bergiliran, bukan didominasi satu nama.
+
+    Masukan harus SUDAH terurut berdasarkan skor menurun. Fungsi ini
+    mengelompokkan per sumber sambil mempertahankan urutan itu, lalu
+    mengambil satu artikel dari tiap sumber secara berputar.
+
+    Sumber yang kandidatnya habis lebih dulu akan terlewati pada putaran
+    berikutnya, sehingga sisa kursi tetap terisi penuh oleh sumber yang
+    masih punya stok. Dengan begitu keragaman meningkat tanpa mengurangi
+    jumlah artikel yang tampil.
+    """
+    if not kandidat:
+        return []
+
+    per_sumber: dict = {}
+    urutan: list = []
+    for artikel in kandidat:
+        sid = artikel.source_id
+        if sid not in per_sumber:
+            per_sumber[sid] = []
+            # Urutan giliran ditentukan oleh skor tertinggi tiap sumber,
+            # jadi penerbit dengan berita terkuat tetap mendapat kursi
+            # pertama pada setiap putaran.
+            urutan.append(sid)
+        per_sumber[sid].append(artikel)
+
+    hasil: list = []
+    while len(hasil) < batas:
+        ada_yang_maju = False
+        for sid in urutan:
+            antrean = per_sumber[sid]
+            if not antrean:
+                continue
+            hasil.append(antrean.pop(0))
+            ada_yang_maju = True
+            if len(hasil) >= batas:
+                break
+        # Semua antrean kosong: kolam kandidat memang lebih kecil dari batas.
+        if not ada_yang_maju:
+            break
+
+    return hasil
+
+
 def export_all(
     out_dir: Path | str | None = None,
     limit: int = 60,
@@ -93,7 +151,8 @@ def export_all(
         # --- Semua artikel -------------------------------------------------
         stmt = _base_query(since).order_by(Article.score.desc())
         total = session.scalar(select(func.count()).select_from(stmt.subquery())) or 0
-        articles = session.scalars(stmt.limit(limit)).all()
+        kandidat = session.scalars(stmt.limit(limit * FAKTOR_KOLAM)).all()
+        articles = _seimbangkan(kandidat, limit)
         cards = [a.to_card() for a in articles]
 
         _write(out / "articles.json", {
@@ -105,10 +164,16 @@ def export_all(
         written["articles"] = len(cards)
 
         # --- Sorotan -------------------------------------------------------
+        # Blok Sorotan paling terlihat di halaman depan, jadi keragamannya
+        # paling penting. Kolam sengaja dibuat lega agar lima kursi itu
+        # biasanya terisi lima penerbit berbeda.
         top_since = now - timedelta(hours=24)
-        top = session.scalars(
-            _base_query(top_since).order_by(Article.score.desc()).limit(top_limit)
+        top_kandidat = session.scalars(
+            _base_query(top_since)
+            .order_by(Article.score.desc())
+            .limit(top_limit * FAKTOR_KOLAM * 2)
         ).all()
+        top = _seimbangkan(top_kandidat, top_limit)
         # Bila 24 jam terakhir sepi, jatuh kembali ke jendela penuh supaya
         # blok Sorotan tidak pernah kosong di halaman depan.
         if not top:
@@ -149,7 +214,8 @@ def export_all(
             r_total = session.scalar(
                 select(func.count()).select_from(r_stmt.subquery())
             ) or 0
-            r_articles = session.scalars(r_stmt.limit(limit)).all()
+            r_kandidat = session.scalars(r_stmt.limit(limit * FAKTOR_KOLAM)).all()
+            r_articles = _seimbangkan(r_kandidat, limit)
 
             _write(out / "articles" / f"{key}.json", {
                 "total": r_total,
