@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,20 +60,6 @@
    "published_at": "2026-08-18T08:07:04"
   },
   {
-   "id": 985,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pelanggaran keamanan SafePal bocorkan data 40.000 pelanggan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-16T14:02:32"
-  },
-  {
    "id": 1130,
    "k": "web3",
    "cat": "Web3",
@@ -114,20 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T23:54:50"
-  },
-  {
-   "id": 989,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "DeFiLlama Korbankan Aset Kripto Nyata untuk Paksa Apple Bertindak",
-   "x": "DeFiLlama membiarkan tiruan App Store palsu menguras wallet asli. Apple baru menarik listing penipuan tersebut beberapa hari kemudian.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/defillama-aplikasi-palsu-apple-takedown",
-   "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-16T14:30:00"
   },
   {
    "id": 1148,
