@@ -1,5 +1,5 @@
 {
- "total": 2,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T16:00:05"
+  },
+  {
+   "id": 1254,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Yakovenko usulkan minting SOL untuk akuisisi perusahaan, namun kepemilikan belum jelas",
+   "x": "Pendiri Solana mengusulkan pencetakan token SOL baru untuk mendanai akuisisi perusahaan. Namun, struktur kepemilikan dan detail operasional pasca-akuisisi masih belum ditentukan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/yakovenko-wants-solana-to-mint-sol-to-buy-a-company-but-who-would-own-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana_acquisition_standard_image.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T02:30:50"
   }
  ]
 }

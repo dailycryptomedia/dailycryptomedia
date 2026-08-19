@@ -1,9 +1,11 @@
 {
  "status": "ok",
- "artikel_total": 1248,
- "artikel_tayang": 686,
+ "artikel_total": 1261,
+ "artikel_tayang": 699,
  "menit_sejak_pengambilan_terakhir": 0,
- "sumber_bermasalah": [],
- "diekspor_pada": "2026-08-19T06:04:10.465745+00:00",
+ "sumber_bermasalah": [
+  "thedefiant"
+ ],
+ "diekspor_pada": "2026-08-19T07:26:58.994866+00:00",
  "mode": "statis"
 }

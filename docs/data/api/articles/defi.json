@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-lending-turun-pinjaman-decentralized-finance-menurun",
    "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T08:01:39"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T03:58:13"
@@ -40,10 +40,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:34:53"
+  },
+  {
+   "id": 1261,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ethereum ingin sembunyikan transaksi Anda dari bot",
+   "x": "Pengembangan baru di Ethereum berupaya menyembunyikan pesanan transaksi yang sensitif terhadap bot sebelum dikirim. Hal ini penting untuk melindungi investor ritel dari serangan bot yang dapat memanipulasi harga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T17:50:20"
   },
   {
    "id": 1065,
@@ -68,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:34:53"
@@ -82,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
-   "a": "50 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T05:13:54"

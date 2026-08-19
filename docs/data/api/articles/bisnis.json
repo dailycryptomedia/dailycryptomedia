@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
    "img": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T06:17:53"
@@ -40,24 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Decrypt-Logo-Watermark-Placement-Pump.fun-Logo-scaled-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T12:37:02"
   },
   {
-   "id": 1124,
+   "id": 1249,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Anthropic Catat Run Rate US$65 Miliar dan Tinggalkan OpenAI US$25 Miliar di Belakang",
-   "x": "Pendapatan tahunan yang dihasilkan oleh Anthropic telah mencapai US$65 miliar pada akhir Juli, sekitar US$25 miliar di atas OpenAI, menurut sumber yang mengetahui angka tersebut. Perusahaan membagikan angka ini dalam…",
+   "t": "Brokerage Ripple Himpun Dana US$275 Juta: Mengapa XRP Seolah Tidak Peduli?",
+   "x": "Ripple Prime menutup private placement surat utang senior tanpa jaminan yang diperbesar menjadi US$275 juta pada pekan ini, namun harga XRP tidak bereaksi dan masih diperdagangkan sedikit di bawah US$1. Keberhasilan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/anthropic-revenue-run-rate-65-miliar-2",
-   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/ripple-prime-275-juta-xrp-tanpa-reaksi",
+   "img": "https://assets.beincrypto.com/img/zzwvqRilhcgMHK_tNd_5CcdPKHg=/smart/f46be42cfd6142849430edfc2a07241b",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-18T03:25:55"
+   "published_at": "2026-08-19T06:15:59"
   },
   {
    "id": 1134,
@@ -74,18 +74,18 @@
    "published_at": "2026-08-18T05:30:25"
   },
   {
-   "id": 1231,
+   "id": 1124,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Anthropic Meniru Strategi IPO SpaceX Elon Musk dengan Satu Perbedaan Besar",
-   "x": "Anthropic merencanakan saham supervoting untuk para founder sebelum IPO, meniru strategi Musk dari SpaceX dengan satu pengaman utama.",
+   "t": "Anthropic Catat Run Rate US$65 Miliar dan Tinggalkan OpenAI US$25 Miliar di Belakang",
+   "x": "Pendapatan tahunan yang dihasilkan oleh Anthropic telah mencapai US$65 miliar pada akhir Juli, sekitar US$25 miliar di atas OpenAI, menurut sumber yang mengetahui angka tersebut. Perusahaan membagikan angka ini dalam…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/anthropic-ipo-saham-supervoting-spacex",
+   "url": "https://id.beincrypto.com/anthropic-revenue-run-rate-65-miliar-2",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "9 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-18T20:52:41"
+   "published_at": "2026-08-18T03:25:55"
   },
   {
    "id": 1222,
@@ -96,10 +96,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
    "img": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T06:17:53"
+  },
+  {
+   "id": 1231,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic Meniru Strategi IPO SpaceX Elon Musk dengan Satu Perbedaan Besar",
+   "x": "Anthropic merencanakan saham supervoting untuk para founder sebelum IPO, meniru strategi Musk dari SpaceX dengan satu pengaman utama.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/anthropic-ipo-saham-supervoting-spacex",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-18T20:52:41"
   }
  ]
 }
