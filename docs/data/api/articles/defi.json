@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-lending-turun-pinjaman-decentralized-finance-menurun",
    "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T08:01:39"
@@ -26,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T03:58:13"
+  },
+  {
+   "id": 1153,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pendiri Curve sebut tekanan FATF bisa buat DeFi lebih aman",
+   "x": "Pendiri Curve Michael Egorov berpendapat bahwa tekanan dari Satuan Tugas Aksi Keuangan (FATF) dapat mendorong protokol DeFi menuju desentralisasi dan keamanan yang lebih kuat.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T10:34:53"
   },
   {
    "id": 1065,
@@ -46,20 +60,6 @@
    "published_at": "2026-08-17T12:31:36"
   },
   {
-   "id": 1153,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pendiri Curve sebut tekanan FATF bisa buat DeFi lebih aman",
-   "x": "Pendiri Curve Michael Egorov berpendapat bahwa tekanan dari Satuan Tugas Aksi Keuangan (FATF) dapat mendorong protokol DeFi menuju desentralisasi dan keamanan yang lebih kuat.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T10:34:53"
-  },
-  {
    "id": 1218,
    "k": "defi",
    "cat": "DeFi",
@@ -68,10 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:34:53"
+  },
+  {
+   "id": 1246,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "MAYAChain hentikan jaringan usai eksploitasi senilai $1,7 juta",
+   "x": "Peretasan terhadap MAYAChain diduga mengeksploitasi enam celah keamanan berantai, menyebabkan kerugian aset digital senilai $1,7 juta. Insiden ini menyebabkan nilai token CACAO anjlok hampir 89%.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
+   "a": "50 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T05:13:54"
   }
  ]
 }
