@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-lending-turun-pinjaman-decentralized-finance-menurun",
    "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T08:01:39"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T03:58:13"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:34:53"
@@ -54,10 +54,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T17:50:20"
+  },
+  {
+   "id": 1263,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Maya Protocol Jadi Peretasan Kripto ke-16 yang Dicatat di Bulan Agustus Saja",
+   "x": "Maya Protocol menghentikan operasinya setelah seorang penyerang mengeksploitasi 6 bug beruntun untuk menguras sekitar US$1,7 juta dari protokol likuiditas terdesentralisasi tersebut. Sang co-founder yang dikenal secara…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/maya-protocol-exploit-menghentikan-btc-swaps",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-19T07:58:05"
   },
   {
    "id": 1065,
@@ -82,10 +96,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:34:53"
+  },
+  {
+   "id": 1266,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Arthur Hayes ambil peran CEO di Flop Labs jelang airdrop Q4",
+   "x": "Arthur Hayes, tokoh ternama di industri kripto, kini menjabat sebagai CEO Flop Labs. Perusahaan ini berencana meluncurkan airdrop besar pada kuartal keempat 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.jpg",
+   "a": "33 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T08:34:51"
   },
   {
    "id": 1246,
@@ -96,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T05:13:54"
