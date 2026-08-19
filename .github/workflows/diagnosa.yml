@@ -1,36 +1,28 @@
-# =============================================================================
-#  DIAGNOSA — alat periksa, bukan alat produksi
-#  ---------------------------------------------------------------------------
-#  Menggantikan perintah yang dulu dijalankan dari CMD di laptop. Alur kerja
-#  ini HANYA MEMBACA: tidak menulis ke basis data, tidak menyentuh docs/,
-#  tidak melakukan commit, dan tidak menerbitkan apa pun ke situs. Karena itu
-#  aman dijalankan kapan saja, sesering apa pun, tanpa risiko merusak keadaan.
-#
-#  Tidak ada jadwal. Hanya berjalan saat tombol "Run workflow" ditekan.
-#
-#  Setiap langkah memakai continue-on-error. Untuk alat diagnosis, satu sumber
-#  yang rusak adalah TEMUAN, bukan kegagalan — dan temuan tidak boleh
-#  menghentikan pemeriksaan berikutnya. Tanda silang merah pada putaran ini
-#  berarti "ada yang perlu dilihat", bukan "alatnya tidak jalan".
-#
-#  Kolom "url" bersifat opsional. Isi dengan alamat feed yang dicurigai atau
-#  alamat beranda sebuah situs; bila yang diberikan bukan feed, skrip akan
-#  membaca tag autodiscovery pada halaman itu dan melaporkan kandidat feed
-#  yang tercantum di sana.
-# =============================================================================
-
 name: Diagnosa
+
+# =============================================================================
+#  Alat periksa, bukan alat produksi. HANYA MEMBACA: tidak menulis ke basis
+#  data, tidak menyentuh docs/, tidak commit, tidak menerbitkan. Aman
+#  dijalankan kapan saja. Tidak ada jadwal — hanya tombol Run workflow.
+#
+#  Setiap langkah memakai continue-on-error. Sumber yang rusak adalah TEMUAN,
+#  bukan kegagalan, dan tidak boleh menghentikan pemeriksaan berikutnya.
+#
+#  Kolom "url" menerima BANYAK alamat sekaligus, dipisah spasi, koma, atau
+#  baris baru. Berguna saat menyeleksi kandidat sumber baru: satu jalan untuk
+#  sepuluh alamat, bukan sepuluh jalan.
+# =============================================================================
 
 on:
   workflow_dispatch:
     inputs:
       url:
-        description: "URL feed atau beranda yang ingin diuji (boleh dikosongkan)"
+        description: "URL feed/beranda — boleh banyak, pisahkan dengan spasi atau koma"
         required: false
         default: ""
 
 permissions:
-  contents: read            # hanya membaca; tidak ada yang ditulis balik
+  contents: read
 
 jobs:
   periksa:
@@ -65,7 +57,7 @@ jobs:
           DCM_DATABASE_URL: sqlite:///dcm.db
         run: python -m dcm.cli status
 
-      - name: Uji satu URL
+      - name: Uji kandidat URL
         working-directory: dcm-ingest
         continue-on-error: true
         env:
@@ -75,17 +67,73 @@ jobs:
           import os, re, sys
           import httpx
 
-          url = os.environ.get("URL", "").strip()
-          if not url:
+          mentah = os.environ.get("URL", "").strip()
+          if not mentah:
               print("Kolom url dikosongkan, langkah ini dilewati.")
               sys.exit(0)
 
+          daftar = [u for u in re.split(r"[\s,]+", mentah) if u.startswith("http")]
           UA = ("DailyCryptoMediaBot/1.0 (+https://dailycryptomedia.com/bot; "
                 "redaksi@dailycryptomedia.com)")
 
-          print(f"Menguji: {url}\n" + "-" * 70)
-          try:
-              r = httpx.get(url, headers={"User-Agent": UA},
-                            timeout=20, follow_redirects=True)
-          except Exception as e:
-              print(f"GAGAL TERSAMBUNG. {type(e).
+          lolos, gagal = [], []
+
+          for url in daftar:
+              print("=" * 72)
+              print(url)
+              try:
+                  r = httpx.get(url, headers={"User-Agent": UA},
+                                timeout=25, follow_redirects=True)
+              except Exception as e:
+                  print(f"  GAGAL TERSAMBUNG: {type(e).__name__}: {e}")
+                  gagal.append(url)
+                  continue
+
+              tipe = r.headers.get("content-type", "?").split(";")[0]
+              print(f"  kode {r.status_code} · {tipe} · {len(r.content)} bita")
+              if "cf-ray" in r.headers:
+                  print("  ada Cloudflare di depan (cf-ray)")
+
+              if r.status_code >= 400:
+                  print("  DITOLAK. 403 biasanya bot diblokir, 404 alamat salah.")
+                  gagal.append(url)
+                  continue
+
+              teks = r.text
+              awal = teks[:3000].lower()
+
+              if "<rss" in awal or "<feed" in awal:
+                  n = len(re.findall(r"<item[ >]|<entry[ >]", teks, re.I))
+                  print(f"  FEED SAH · {n} item")
+                  judul = re.findall(r"<title[^>]*>(.*?)</title>", teks, re.S | re.I)
+                  for j in judul[1:4]:
+                      bersih = re.sub(r"<!\[CDATA\[|\]\]>|\s+", " ", j).strip()
+                      print(f"    - {bersih[:70]}")
+                  lolos.append(f"{url}  ({n} item)")
+              else:
+                  print("  bukan feed. mencari autodiscovery...")
+                  tag = re.findall(
+                      r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*>',
+                      teks, re.I)
+                  alamat = []
+                  for t in tag:
+                      m = re.search(r'href=["\']([^"\']+)["\']', t, re.I)
+                      if m:
+                          alamat.append(m.group(1))
+                  if alamat:
+                      print("  kandidat yang diumumkan halaman ini:")
+                      for a in alamat[:6]:
+                          print(f"    {a}")
+                  else:
+                      print("  tidak mengumumkan feed apa pun.")
+                  gagal.append(url)
+
+          print()
+          print("=" * 72)
+          print(f"RINGKASAN — {len(lolos)} lolos, {len(gagal)} tidak")
+          print("-" * 72)
+          for u in lolos:
+              print(f"  LOLOS  {u}")
+          for u in gagal:
+              print(f"  TIDAK  {u}")
+          PY
