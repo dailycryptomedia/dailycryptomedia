@@ -1,5 +1,5 @@
 {
- "total": 333,
+ "total": 338,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us-1.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T19:54:16"
@@ -74,18 +74,18 @@
    "published_at": "2026-08-18T10:49:53"
   },
   {
-   "id": 1304,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Harga Bitcoin sentuh $69.500 karena AS gandakan buyback utang",
-   "x": "Bitcoin dan Ethereum melonjak setelah Departemen Keuangan AS menggandakan rencana pembelian kembali surat utang jangka panjangnya. Kebijakan ini bertujuan menekan imbal hasil jangka panjang dan meningkatkan likuiditas pasar.",
+   "id": 1336,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana pangkas batas komputasi per blok demi kecepatan baru",
+   "x": "Solana membatasi kapasitas pemrosesan blok untuk mencegah jaringan kelebihan beban saat meningkatkan kecepatan. Langkah ini penting untuk menjaga stabilitas jaringan di tengah inovasi teknologi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-speed-rail-shift.jpg",
+   "a": "8 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T15:37:42"
+   "published_at": "2026-08-19T20:50:27"
   },
   {
    "id": 1048,
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T11:31:04"
@@ -166,24 +166,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196",
    "img": "https://www.tbstat.com/wp/uploads/2024/06/20240624_Tokenization_News_2-1200x675.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T11:32:48"
   },
   {
-   "id": 1252,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Masalah pembuktian 12-GPU Ethereum kini punya jawaban 4-GPU",
-   "x": "Sebuah inovasi baru memungkinkan penyelesaian masalah pembuktian Ethereum dengan perangkat keras yang lebih sedikit. Ini berpotensi meningkatkan efisiensi dan mengurangi biaya operasional jaringan.",
+   "id": 1304,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Harga Bitcoin sentuh $69.500 karena AS gandakan buyback utang",
+   "x": "Bitcoin dan Ethereum melonjak setelah Departemen Keuangan AS menggandakan rencana pembelian kembali surat utang jangka panjangnya. Kebijakan ini bertujuan menekan imbal hasil jangka panjang dan meningkatkan likuiditas pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zisk-gpu-inspection-case.jpg",
-   "a": "12 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T07:00:12"
+   "published_at": "2026-08-19T15:37:42"
   },
   {
    "id": 1067,
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:50:58"
@@ -264,24 +264,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160",
    "img": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-2-1195x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T20:25:35"
   },
   {
-   "id": 1321,
+   "id": 1252,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Circle perbarui kesepakatan Coinbase, tantang pembayaran USDC",
-   "x": "Circle memperpanjang kesepakatan dengan Coinbase, membuka jalan untuk menantang pembayaran USDC. Namun, solusi baru ini membutuhkan waktu hingga 12 bulan untuk diterapkan sepenuhnya.",
+   "t": "Masalah pembuktian 12-GPU Ethereum kini punya jawaban 4-GPU",
+   "x": "Sebuah inovasi baru memungkinkan penyelesaian masalah pembuktian Ethereum dengan perangkat keras yang lebih sedikit. Ini berpotensi meningkatkan efisiensi dan mengurangi biaya operasional jaringan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/circles-renewed-coinbase-deal-creates-two-ways-to-challenge-coinbases-usdc-payouts-but-neither-works-quickly",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/circle-coinbase-payout-levers.jpg",
-   "a": "2 jam lalu",
+   "url": "https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zisk-gpu-inspection-case.jpg",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T17:35:32"
+   "published_at": "2026-08-19T07:00:12"
   },
   {
    "id": 1150,
@@ -306,7 +306,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-tinggal-selangkah-lagi-dari-bull-market-level-ini-penentunya",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T02:30:23"
@@ -348,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-chainlink-a-beginners-guide-to-the-cross-chain-interoperability-protocol.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T20:45:48"
@@ -362,24 +362,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184",
    "img": "https://www.tbstat.com/wp/uploads/2025/05/20250514_Tokenization-3-1200x675-1.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T10:09:40"
   },
   {
-   "id": 1305,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Investor Wall Street tambah $1,2 miliar di MSTR sebelum fokus ke STRC",
-   "x": "Investor institusi Wall Street meningkatkan kepemilikan saham MicroStrategy (MSTR) senilai $1,2 miliar pada kuartal kedua. Peningkatan ini terjadi sebelum perusahaan mengalihkan fokus akumulasi Bitcoin ke penyelamatan STRC.",
+   "id": 1321,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Circle perbarui kesepakatan Coinbase, tantang pembayaran USDC",
+   "x": "Circle memperpanjang kesepakatan dengan Coinbase, membuka jalan untuk menantang pembayaran USDC. Namun, solusi baru ini membutuhkan waktu hingga 12 bulan untuk diterapkan sepenuhnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-piled-1-2-billion-into-mstr-in-q2-before-strategy-turned-its-bitcoin-flywheel-toward-rescuing-strc",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/saylor-strc-rescue-machine.jpg",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/circles-renewed-coinbase-deal-creates-two-ways-to-challenge-coinbases-usdc-payouts-but-neither-works-quickly",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/circle-coinbase-payout-levers.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T15:30:23"
+   "published_at": "2026-08-19T17:35:32"
   },
   {
    "id": 1049,
@@ -432,7 +432,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/twitter-x-logo-decrypt-style-01.png-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T21:20:04"
@@ -466,18 +466,18 @@
    "published_at": "2026-08-17T13:53:11"
   },
   {
-   "id": 1268,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan kas Solana mungkin jual SOL karena pinjaman DeFi mengikat lebih dari separuh kasnya",
-   "x": "Sebuah perusahaan kas di ekosistem Solana berpotensi menjual aset SOL-nya untuk melunasi pinjaman DeFi. Situasi ini menyoroti risiko likuiditas yang dihadapi beberapa entitas dalam ekosistem kripto.",
+   "id": 1305,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Investor Wall Street tambah $1,2 miliar di MSTR sebelum fokus ke STRC",
+   "x": "Investor institusi Wall Street meningkatkan kepemilikan saham MicroStrategy (MSTR) senilai $1,2 miliar pada kuartal kedua. Peningkatan ini terjadi sebelum perusahaan mengalihkan fokus akumulasi Bitcoin ke penyelamatan STRC.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/this-solana-treasury-company-may-sell-sol-as-a-defi-loan-ties-up-more-than-half-its-treasury",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sol-strategies-liability-jump.jpg",
-   "a": "11 jam lalu",
+   "url": "https://cryptoslate.com/wall-street-piled-1-2-billion-into-mstr-in-q2-before-strategy-turned-its-bitcoin-flywheel-toward-rescuing-strc",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/saylor-strc-rescue-machine.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T08:30:45"
+   "published_at": "2026-08-19T15:30:23"
   },
   {
    "id": 1080,
@@ -502,7 +502,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jangan-cuma-tebak-begini-cara-melacak-akumulasi-whale-xrp",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T04:00:24"
@@ -544,7 +544,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:44:09"
@@ -558,24 +558,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
    "img": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Grayscale_Color-1200x675.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T16:57:52"
   },
   {
-   "id": 1317,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kripto memimpin pasar, Bitcoin lampaui Nasdaq",
-   "x": "Bitcoin berhasil membalikkan defisit kinerja terhadap indeks Nasdaq 100 dalam setahun terakhir menjadi keunggulan. Kinerja aset kripto ini menunjukkan potensi penguatan di tengah kondisi pasar yang bergejolak.",
+   "id": 1268,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan kas Solana mungkin jual SOL karena pinjaman DeFi mengikat lebih dari separuh kasnya",
+   "x": "Sebuah perusahaan kas di ekosistem Solana berpotensi menjual aset SOL-nya untuk melunasi pinjaman DeFi. Situasi ini menyoroti risiko likuiditas yang dihadapi beberapa entitas dalam ekosistem kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-crypto-turned-a-68-point-deficit-into-a-market-lead-as-bitcoin-and-top-altcoins-outrun-the-nasdaq",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-momentum-finish-line.jpg",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/this-solana-treasury-company-may-sell-sol-as-a-defi-loan-ties-up-more-than-half-its-treasury",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sol-strategies-liability-jump.jpg",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T16:20:15"
+   "published_at": "2026-08-19T08:30:45"
   },
   {
    "id": 1073,
@@ -628,24 +628,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T13:31:04"
   },
   {
-   "id": 1228,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan aturan kripto baru tanpa UU Kejelasan",
-   "x": "Regulator sekuritas AS mengusulkan aturan baru yang dapat memberikan keringanan bagi perusahaan terkait klasifikasi token. Ini penting bagi industri aset digital Indonesia yang juga menanti kepastian regulasi.",
+   "id": 1331,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin.com integrasikan stablecoin dolar AS ke dompet mandiri",
+   "x": "Bitcoin.com kini mendukung stablecoin dolar AS yang terdaftar di UEA dalam dompetnya. Ini memperluas akses ke aset digital stabil bagi pengguna di luar saluran institusional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png",
+   "a": "25 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T21:24:15"
+   "published_at": "2026-08-19T20:33:51"
   },
   {
    "id": 1101,
@@ -656,24 +656,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-17T20:55:00"
   },
   {
-   "id": 1285,
+   "id": 1317,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penjualan Bitcoin Q2 Pecah Belah Wall Street, Bank Beli, Dana Lindung Nilai Jual",
-   "x": "Meskipun Bitcoin melemah di kuartal kedua, kepemilikan ETF Bitcoin institusional justru meningkat. Perbedaan strategi antara bank dan dana lindung nilai menunjukkan pandangan beragam terhadap aset digital ini.",
+   "t": "Kripto memimpin pasar, Bitcoin lampaui Nasdaq",
+   "x": "Bitcoin berhasil membalikkan defisit kinerja terhadap indeks Nasdaq 100 dalam setahun terakhir menjadi keunggulan. Kinerja aset kripto ini menunjukkan potensi penguatan di tengah kondisi pasar yang bergejolak.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-q2-selloff-split-wall-street-as-banks-bought-hedge-funds-cut-and-sovereigns-held",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-institutional-market-split.jpg",
-   "a": "8 jam lalu",
+   "url": "https://cryptoslate.com/how-crypto-turned-a-68-point-deficit-into-a-market-lead-as-bitcoin-and-top-altcoins-outrun-the-nasdaq",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-momentum-finish-line.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T11:00:42"
+   "published_at": "2026-08-19T16:20:15"
   },
   {
    "id": 1118,
@@ -732,18 +732,18 @@
    "published_at": "2026-08-17T09:31:04"
   },
   {
-   "id": 1140,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Korea Selatan blokir Polymarket karena kekhawatiran judi",
-   "x": "Regulator Korea Selatan menganggap Polymarket ilegal karena strukturnya menyerupai perjudian. Keputusan ini menyoroti tantangan regulasi aset digital yang belum jelas di berbagai negara.",
+   "id": 1228,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan aturan kripto baru tanpa UU Kejelasan",
+   "x": "Regulator sekuritas AS mengusulkan aturan baru yang dapat memberikan keringanan bagi perusahaan terkait klasifikasi token. Ini penting bagi industri aset digital Indonesia yang juga menanti kepastian regulasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-banning-crypto-content-polymarket.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T08:39:57"
+   "published_at": "2026-08-18T21:24:15"
   },
   {
    "id": 1271,
@@ -754,24 +754,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190",
    "img": "https://www.tbstat.com/wp/uploads/2020/11/20201116_Scaramucci_Bitcoin-Daily-1200x675.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T10:47:39"
   },
   {
-   "id": 1330,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Hashdex likuidasi ETF Bitcoin senilai $14,7 juta seiring IBIT menarik $143,6 juta",
-   "x": "Hashdex melakukan likuidasi ETF Bitcoin senilai $14,7 juta, sementara ETF Bitcoin lain dari BlackRock, IBIT, menarik dana signifikan. Peristiwa ini menunjukkan pergerakan dana investor institusi di pasar ETF Bitcoin yang semakin kompetitif.",
+   "id": 1285,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penjualan Bitcoin Q2 Pecah Belah Wall Street, Bank Beli, Dana Lindung Nilai Jual",
+   "x": "Meskipun Bitcoin melemah di kuartal kedua, kepemilikan ETF Bitcoin institusional justru meningkat. Perbedaan strategi antara bank dan dana lindung nilai menunjukkan pandangan beragam terhadap aset digital ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hashdex-liquidates-14-7-million-bitcoin-etf-as-ibit-draws-143-6-million",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hashdex-etf-shredder.jpg",
-   "a": "1 jam lalu",
+   "url": "https://cryptoslate.com/bitcoins-q2-selloff-split-wall-street-as-banks-bought-hedge-funds-cut-and-sovereigns-held",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-institutional-market-split.jpg",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T18:40:46"
+   "published_at": "2026-08-19T11:00:42"
   },
   {
    "id": 1162,
@@ -830,18 +830,18 @@
    "published_at": "2026-08-17T22:16:03"
   },
   {
-   "id": 1318,
+   "id": 1140,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "FalconX dan Ethena bawa aset pendukung USDe ke fasilitas kredit institusional $1 miliar",
-   "x": "Ethena dan FalconX mengintegrasikan aset pendukung stablecoin USDe ke dalam fasilitas kredit institusional senilai $1 miliar. Langkah ini memperluas sumber imbal hasil Ethena di luar strategi basis kripto.",
+   "t": "Korea Selatan blokir Polymarket karena kekhawatiran judi",
+   "x": "Regulator Korea Selatan menganggap Polymarket ilegal karena strukturnya menyerupai perjudian. Keputusan ini menyoroti tantangan regulasi aset digital yang belum jelas di berbagai negara.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.png",
-   "a": "2 jam lalu",
+   "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-banning-crypto-content-polymarket.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T17:34:10"
+   "published_at": "2026-08-18T08:39:57"
   }
  ]
 }
