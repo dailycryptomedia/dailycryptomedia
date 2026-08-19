@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-08-17T02:00:03"
   },
   {
-   "id": 981,
+   "id": 1141,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pendiri DefiLlama tunda peluncuran aplikasi seluler karena aplikasi phishing",
-   "x": "Pendiri DefiLlama menunda peluncuran aplikasi seluler setelah menemukan aplikasi palsu di Apple Store yang menguras dana dompet kripto. Insiden ini menyoroti risiko keamanan bagi pengguna aset digital.",
+   "t": "BitBox perbaiki celah keamanan wallet yang berisiko",
+   "x": "BitBox merilis pembaruan firmware untuk mengatasi kerentanan keamanan pada produk walletnya. Pengguna diimbau segera melakukan pembaruan untuk melindungi aset digital mereka.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-16T12:48:09"
+   "published_at": "2026-08-18T08:07:04"
   },
   {
    "id": 985,
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-16T14:02:32"
@@ -102,18 +102,18 @@
    "published_at": "2026-08-17T06:00:33"
   },
   {
-   "id": 1141,
+   "id": 1002,
    "k": "web3",
    "cat": "Web3",
-   "t": "BitBox perbaiki celah keamanan wallet yang berisiko",
-   "x": "BitBox merilis pembaruan firmware untuk mengatasi kerentanan keamanan pada produk walletnya. Pengguna diimbau segera melakukan pembaruan untuk melindungi aset digital mereka.",
+   "t": "Data 54.000 Pengguna Wallet Bocor, Risiko Phishing Meningkat",
+   "x": "Data pengguna dompet kripto Trezor dan SafePal bocor, meningkatkan risiko upaya phishing. Peristiwa ini terjadi di tengah kekhawatiran keamanan aset digital bagi para pemegang aset.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T08:07:04"
+   "published_at": "2026-08-16T23:54:50"
   },
   {
    "id": 989,
@@ -142,20 +142,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T07:00:24"
-  },
-  {
-   "id": 1002,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Data 54.000 Pengguna Wallet Bocor, Risiko Phishing Meningkat",
-   "x": "Data pengguna dompet kripto Trezor dan SafePal bocor, meningkatkan risiko upaya phishing. Peristiwa ini terjadi di tengah kekhawatiran keamanan aset digital bagi para pemegang aset.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-16T23:54:50"
   },
   {
    "id": 1027,
