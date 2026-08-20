@@ -4,6 +4,20 @@
  "offset": 0,
  "articles": [
   {
+   "id": 1370,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "GnosisDAO setujui Gnosis Chain jadi Zona Ekonomi Ethereum",
+   "x": "Gnosis Chain akan beralih menjadi rollup Zona Ekonomi Ethereum yang terhubung langsung ke Ethereum. Perubahan ini mengakhiri set validator independennya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
+   "a": "18 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T08:59:40"
+  },
+  {
    "id": 1132,
    "k": "web3",
    "cat": "Web3",
@@ -18,60 +32,18 @@
    "published_at": "2026-08-18T05:20:46"
   },
   {
-   "id": 1026,
+   "id": 1372,
    "k": "web3",
    "cat": "Web3",
-   "t": "40.000 data pelanggan SafePal bocor, hardware wallet tak lagi aman?",
-   "x": "Hampir 40.000 data pelanggan SafePal mengalami kebocoran, menimbulkan kekhawatiran baru tentang keamanan penyimpanan aset digital. Insiden ini menambah daftar panjang masalah keamanan pada dompet kripto.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/40-000-data-pelanggan-safepal-bocor-hardware-wallet-tak-lagi-aman",
-   "img": null,
-   "a": "3 hari lalu",
+   "t": "Jaringan kripto setujui lepas blockchain mandiri, buka 27% suplai token",
+   "x": "GnosisDAO menyetujui rencana penghentian Gnosis Chain sebagai Layer 1 mandiri, yang akan membuka sekitar 350.000 GNO yang di-stake. Jaringan ini akan menjadi rollup Zona Ekonomi Ethereum.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/gnosis-validator-model-retirement.jpg",
+   "a": "48 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-17T06:00:33"
-  },
-  {
-   "id": 1141,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "BitBox perbaiki celah keamanan wallet yang berisiko",
-   "x": "BitBox merilis pembaruan firmware untuk mengatasi kerentanan keamanan pada produk walletnya. Pengguna diimbau segera melakukan pembaruan untuk melindungi aset digital mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T08:07:04"
-  },
-  {
-   "id": 1311,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Nethermind tinggalkan peran verifier LayerZero, bergabung dengan Chainlink",
-   "x": "Perusahaan rekayasa Ethereum, Nethermind, akan menjadi operator node di Chainlink. Peran baru ini akan mendukung pengamanan protokol Cross-Chain Interoperability Protocol (CCIP) dan Data Feeds.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
-   "img": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T16:01:13"
-  },
-  {
-   "id": 1130,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Harmony Akan Hapus Hampir Sepekan Riwayat Chain Miliknya",
-   "x": "Harmony mereset chain-nya ke 11 Agustus untuk menghapus miliaran token ONE palsu saat validator bersiap untuk memulai ulang.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harmony-rollback-tempa-token-one",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-18T06:42:16"
+   "published_at": "2026-08-20T08:30:25"
   },
   {
    "id": 1148,
@@ -88,18 +60,46 @@
    "published_at": "2026-08-18T07:00:24"
   },
   {
-   "id": 1027,
+   "id": 1311,
    "k": "web3",
    "cat": "Web3",
-   "t": "Takut wallet kripto pernah sentuh kontrak berbahaya? Cek dengan cara ini",
-   "x": "Investor kini dapat memeriksa riwayat koneksi dompet aset kripto mereka ke kontrak berisiko. Langkah ini penting untuk mengelola potensi ancaman keamanan dan melindungi aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/takut-wallet-kripto-pernah-sentuh-kontrak-berbahaya-cek-dengan-cara-ini",
-   "img": null,
-   "a": "3 hari lalu",
+   "t": "Nethermind tinggalkan peran verifier LayerZero, bergabung dengan Chainlink",
+   "x": "Perusahaan rekayasa Ethereum, Nethermind, akan menjadi operator node di Chainlink. Peran baru ini akan mendukung pengamanan protokol Cross-Chain Interoperability Protocol (CCIP) dan Data Feeds.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
+   "img": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-17T05:00:27"
+   "published_at": "2026-08-19T16:01:13"
+  },
+  {
+   "id": 1141,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BitBox perbaiki celah keamanan wallet yang berisiko",
+   "x": "BitBox merilis pembaruan firmware untuk mengatasi kerentanan keamanan pada produk walletnya. Pengguna diimbau segera melakukan pembaruan untuk melindungi aset digital mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T08:07:04"
+  },
+  {
+   "id": 1130,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Harmony Akan Hapus Hampir Sepekan Riwayat Chain Miliknya",
+   "x": "Harmony mereset chain-nya ke 11 Agustus untuk menghapus miliaran token ONE palsu saat validator bersiap untuk memulai ulang.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harmony-rollback-tempa-token-one",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-18T06:42:16"
   }
  ]
 }
