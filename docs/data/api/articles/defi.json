@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T18:20:35"
@@ -110,38 +110,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
    "img": "https://www.tbstat.com/wp/uploads/2026/01/20260108_XRP_News_2-1200x675.jpg",
-   "a": "24 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T11:34:05"
-  },
-  {
-   "id": 1065,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Harmony Rencanakan Rollback, Hapus 109.000 Transaksi Pasca Eksploitasi ONE",
-   "x": "Harmony akan melakukan rollback untuk menghindari inkonsistensi data setelah eksploitasi. Langkah ini membatalkan sejumlah besar transaksi yang tercatat di blockchain mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-17T12:31:36"
-  },
-  {
-   "id": 1218,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pendiri Curve: Tekanan FATF bisa buat DeFi lebih aman dan terdesentralisasi",
-   "x": "Pendiri Curve Michael Egorov menilai tekanan dari Satuan Tugas Aksi Keuangan (FATF) dapat mendorong protokol DeFi menuju desentralisasi dan keamanan yang lebih kuat. Hal ini penting bagi investor Indonesia yang memantau perkembangan regulasi global terhadap sektor keuangan terdesentralisasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T10:34:53"
   },
   {
    "id": 1266,
@@ -156,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T08:34:51"
+  },
+  {
+   "id": 1218,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pendiri Curve: Tekanan FATF bisa buat DeFi lebih aman dan terdesentralisasi",
+   "x": "Pendiri Curve Michael Egorov menilai tekanan dari Satuan Tugas Aksi Keuangan (FATF) dapat mendorong protokol DeFi menuju desentralisasi dan keamanan yang lebih kuat. Hal ini penting bagi investor Indonesia yang memantau perkembangan regulasi global terhadap sektor keuangan terdesentralisasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T10:34:53"
   },
   {
    "id": 1246,
@@ -180,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-saga-1.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T12:00:00"
