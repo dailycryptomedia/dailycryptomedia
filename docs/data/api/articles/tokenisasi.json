@@ -1,5 +1,5 @@
 {
- "total": 41,
+ "total": 42,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-emas-5000-target-jpmorgan",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T04:36:56"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/can-tokenized-assets-continue-to-scale-faster-than-the-revenue-models-behind-them",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/securitize-growth-profit-tanker.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T22:50:35"
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T20:33:51"
@@ -166,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-05-scaled-gID_7.jpeg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T18:36:04"
@@ -284,18 +284,18 @@
    "published_at": "2026-08-19T02:02:52"
   },
   {
-   "id": 1306,
+   "id": 1431,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Taruhan kas negara Metaplanet di Bitcoin AS bisa capai $3,4 miliar",
-   "x": "Metaplanet berpotensi mendapatkan hingga $3,4 miliar dari taruhan kas negara di Bitcoin AS. Namun, sebagian besar dana bergantung pada pelaksanaan waran dan hak preferensial di masa depan.",
+   "t": "Perusahaan terdaftar di Nasdaq terancam bangkrut setelah aset kripto anjlok 46%",
+   "x": "Perusahaan ini melaporkan nilai aset kripto mereka turun $1,44 juta di bawah harga beli per 30 Juni. Peringatan kebangkrutan muncul seiring kenaikan jumlah saham beredar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/metaplanets-us-bitcoin-treasury-bet-could-unlock-up-to-3-4-billion-but-theres-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/metaplanet-bitcoin-takeover.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/nasdaq-listed-company-warns-it-may-not-survive-12-months-after-its-crypto-treasury-crashed-46",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cosmos-health-sinking-treasury.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T14:20:36"
+   "published_at": "2026-08-20T18:15:06"
   },
   {
    "id": 1113,
@@ -352,6 +352,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T09:17:44"
+  },
+  {
+   "id": 1306,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Taruhan kas negara Metaplanet di Bitcoin AS bisa capai $3,4 miliar",
+   "x": "Metaplanet berpotensi mendapatkan hingga $3,4 miliar dari taruhan kas negara di Bitcoin AS. Namun, sebagian besar dana bergantung pada pelaksanaan waran dan hak preferensial di masa depan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/metaplanets-us-bitcoin-treasury-bet-could-unlock-up-to-3-4-billion-but-theres-a-catch",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/metaplanet-bitcoin-takeover.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T14:20:36"
   },
   {
    "id": 1167,
@@ -446,7 +460,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T07:48:40"
@@ -460,7 +474,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
    "img": "https://www.tbstat.com/wp/uploads/2023/08/gsr_news-1200x675.png",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T10:08:12"
@@ -502,7 +516,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peter-schiff-1971-krisis-emas-dolar",
    "img": "https://assets.beincrypto.com/img/QTI0FkC4B3WVrOgbuTGt7QOPZUs=/smart/197b2d76561b48a39329ef374e49da9e",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-17T18:43:05"
@@ -530,7 +544,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sk-hynix-samsung-yield-obligasi-mikrochip",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T02:56:54"
