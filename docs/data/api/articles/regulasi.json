@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272",
    "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T22:36:38"
@@ -54,24 +54,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T21:36:50"
   },
   {
-   "id": 1277,
+   "id": 1423,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC buka peluang penjualan insider token kripto sejak hari pertama",
-   "x": "Proposal baru Komisi Sekuritas dan Bursa AS (SEC) memungkinkan penjualan token oleh pihak internal sejak awal peluncuran. Hal ini berpotensi menimbulkan risiko bagi investor ritel karena insider memiliki informasi lebih mendalam.",
+   "t": "SEC Dihadapkan Tenggat 20 Agustus untuk Cairkan Dana Pemulihan $123 Juta bagi Investor Terra",
+   "x": "Dana pemulihan senilai $123 juta untuk investor Terra telah terkumpul, namun Komisi Sekuritas dan Bursa AS (SEC) harus segera menetapkan kriteria kelayakan, perhitungan kerugian, dan jadwal pembayaran.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sec-opens-door-to-day-one-crypto-insider-sales-that-senate-draft-would-block",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-lockup-cage-debate.jpg?ver=1787131451",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/sec-faces-aug-20-deadline-to-unlock-123-million-recovery-fund-for-terra-investors",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-fair-fund-vault.jpg",
+   "a": "56 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T09:45:12"
+   "published_at": "2026-08-20T17:00:27"
   },
   {
    "id": 1375,
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/djp-keluarkan-aturan-baru-pengguna-kripto-wajib-isi-data-domisili-pajak",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:00:09"
@@ -144,18 +144,18 @@
    "published_at": "2026-08-18T11:31:04"
   },
   {
-   "id": 1256,
+   "id": 1277,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Provisi pajak Swedia HIVE senilai $84,7 juta lampaui pendapatan meski output Bitcoin rekor",
-   "x": "Provisi pajak non-tunai sebesar $84,7 juta membebani keuangan HIVE, melampaui pendapatan yang dihasilkan dari rekor output Bitcoin. Hal ini menunjukkan tantangan regulasi pajak di pasar kripto.",
+   "t": "SEC buka peluang penjualan insider token kripto sejak hari pertama",
+   "x": "Proposal baru Komisi Sekuritas dan Bursa AS (SEC) memungkinkan penjualan token oleh pihak internal sejak awal peluncuran. Hal ini berpotensi menimbulkan risiko bagi investor ritel karena insider memiliki informasi lebih mendalam.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hives-84-7-million-swedish-tax-provision-eclipsed-revenue-even-as-bitcoin-output-hit-a-record",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hive-bitcoin-tax-flood.jpg",
+   "url": "https://cryptoslate.com/sec-opens-door-to-day-one-crypto-insider-sales-that-senate-draft-would-block",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-lockup-cage-debate.jpg?ver=1787131451",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T23:40:04"
+   "published_at": "2026-08-19T09:45:12"
   },
   {
    "id": 1193,
@@ -208,10 +208,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T11:31:04"
+  },
+  {
+   "id": 1256,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Provisi pajak Swedia HIVE senilai $84,7 juta lampaui pendapatan meski output Bitcoin rekor",
+   "x": "Provisi pajak non-tunai sebesar $84,7 juta membebani keuangan HIVE, melampaui pendapatan yang dihasilkan dari rekor output Bitcoin. Hal ini menunjukkan tantangan regulasi pajak di pasar kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hives-84-7-million-swedish-tax-provision-eclipsed-revenue-even-as-bitcoin-output-hit-a-record",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hive-bitcoin-tax-flood.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T23:40:04"
   },
   {
    "id": 1187,
@@ -256,18 +270,18 @@
    "published_at": "2026-08-18T19:23:53"
   },
   {
-   "id": 1085,
+   "id": 1225,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Dorongan Wall Street hentikan kerangka kerja pendanaan kripto SEC",
-   "x": "Regulator aset digital AS menunda aturan pendanaan kripto karena masalah penjadwalan dan ancaman gugatan. Penundaan ini memberi waktu bagi industri kripto untuk beradaptasi dengan potensi regulasi baru.",
+   "t": "SEC usulkan pengecualian penggalangan dana kripto",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang memungkinkan proyek kripto menggalang dana tanpa registrasi sekuritas penuh. Ini bisa mempermudah penerbitan token baru.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-17T16:27:26"
+   "published_at": "2026-08-18T20:00:25"
   },
   {
    "id": 1237,
@@ -306,24 +320,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298",
    "img": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Secrutize_News_2-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T10:06:46"
   },
   {
-   "id": 1225,
+   "id": 1155,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC usulkan pengecualian penggalangan dana kripto",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang memungkinkan proyek kripto menggalang dana tanpa registrasi sekuritas penuh. Ini bisa mempermudah penerbitan token baru.",
+   "t": "Bitpanda terima denda MiCA pertama di Austria",
+   "x": "Bursa kripto Bitpanda didenda 70.000 euro di Austria karena pelanggaran prosedural dan keterbukaan informasi. Ini menjadi penanda awal penerapan regulasi MiCA Uni Eropa.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T20:00:25"
+   "published_at": "2026-08-18T09:31:04"
   },
   {
    "id": 1403,
@@ -334,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pengguna-kripto-gugat-binance-dana-curian",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T11:55:41"
@@ -348,7 +362,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-after-mica-has-regulation-reshaped-stablecoin-liquidity.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T13:30:00"
@@ -368,18 +382,18 @@
    "published_at": "2026-08-18T19:49:12"
   },
   {
-   "id": 1155,
+   "id": 1385,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bitpanda terima denda MiCA pertama di Austria",
-   "x": "Bursa kripto Bitpanda didenda 70.000 euro di Austria karena pelanggaran prosedural dan keterbukaan informasi. Ini menjadi penanda awal penerapan regulasi MiCA Uni Eropa.",
+   "t": "Regulator perbankan kejar finalisasi aturan stablecoin GENIUS Act",
+   "x": "Regulator perbankan AS berupaya menyelesaikan aturan untuk stablecoin sebelum tenggat waktu Januari. Langkah ini krusial untuk memberikan kepastian regulasi bagi aset digital yang semakin berkembang.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/jonathan-gould-office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T09:31:04"
+   "published_at": "2026-08-20T09:31:03"
   },
   {
    "id": 1351,
@@ -390,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kembalinya-ico-peirce",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T22:56:35"
@@ -424,18 +438,18 @@
    "published_at": "2026-08-18T09:35:26"
   },
   {
-   "id": 1385,
+   "id": 1406,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Regulator perbankan kejar finalisasi aturan stablecoin GENIUS Act",
-   "x": "Regulator perbankan AS berupaya menyelesaikan aturan untuk stablecoin sebelum tenggat waktu Januari. Langkah ini krusial untuk memberikan kepastian regulasi bagi aset digital yang semakin berkembang.",
+   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
+   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/jonathan-gould-office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
-   "a": "6 jam lalu",
+   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T09:31:03"
+   "published_at": "2026-08-20T13:31:05"
   },
   {
    "id": 1319,
@@ -446,7 +460,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november",
    "img": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T17:00:01"
@@ -466,18 +480,18 @@
    "published_at": "2026-08-18T19:23:53"
   },
   {
-   "id": 1406,
+   "id": 1303,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
-   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
+   "t": "SEC beri kejelasan bagi aset kripto",
+   "x": "Regulator sekuritas AS, SEC, mengeluarkan proposal aturan baru yang berpotensi memberikan kejelasan bagi pasar aset kripto. Jika disetujui, aturan ini dapat memicu lonjakan penawaran koin awal (ICO) di Amerika Serikat.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "2 jam lalu",
+   "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T13:31:05"
+   "published_at": "2026-08-19T14:30:24"
   },
   {
    "id": 1332,
@@ -488,7 +502,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-clarity-act.png",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T19:54:59"
@@ -506,20 +520,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T09:35:26"
-  },
-  {
-   "id": 1303,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC beri kejelasan bagi aset kripto",
-   "x": "Regulator sekuritas AS, SEC, mengeluarkan proposal aturan baru yang berpotensi memberikan kejelasan bagi pasar aset kripto. Jika disetujui, aturan ini dapat memicu lonjakan penawaran koin awal (ICO) di Amerika Serikat.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T14:30:24"
   }
  ]
 }
