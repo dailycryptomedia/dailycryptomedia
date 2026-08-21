@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morgan-stanley-ethereum-etp-staking-risk",
    "img": "https://assets.beincrypto.com/img/4OOxchTi9lvFBg-JtBV8ZdNyEBg=/smart/23155c933ca94e188a02ccc6f56f8e7d",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T13:06:45"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T19:05:07"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T05:00:12"
@@ -130,18 +130,18 @@
    "published_at": "2026-08-20T11:34:05"
   },
   {
-   "id": 1430,
+   "id": 1551,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Eksploitasi MAYAChain senilai $1,36 juta sebabkan kerusakan pool hampir $11 juta",
-   "x": "Transaksi mencurigakan merusak sistem akuntansi pool di MAYAChain, menyebabkan nilai CACAO anjlok 88,7%. Kerusakan ini membebani rencana pemulihan platform.",
+   "t": "MANTRA Chain offline pasca eksploitasi, restart 21 Agustus tergantung uji patch",
+   "x": "MANTRA Chain menghentikan operasionalnya karena eksploitasi pada dependensi eksternal. Penghentian ini berdampak pada transaksi, transfer, dan staking, dengan jadwal restart pada 21 Agustus bergantung pada keberhasilan uji coba perbaikan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mantra-validator-stop-signal.jpg",
+   "a": "41 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T19:00:51"
+   "published_at": "2026-08-21T23:10:37"
   },
   {
    "id": 1266,
@@ -166,24 +166,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
    "img": "https://www.tbstat.com/wp/uploads/2022/03/20220321_DAO-Generic-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T17:28:34"
   },
   {
-   "id": 1524,
+   "id": 1430,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pemegang token Shade hadapi penghancuran permanen tanpa jaminan nilai",
-   "x": "Protokol privasi Shade memberikan tenggat waktu bagi pemegang token SHD untuk melakukan pembakaran token yang bersifat permanen. Tindakan ini tidak menjamin nilai atau alokasi di masa depan, menimbulkan ketidakpastian bagi investor.",
+   "t": "Eksploitasi MAYAChain senilai $1,36 juta sebabkan kerusakan pool hampir $11 juta",
+   "x": "Transaksi mencurigakan merusak sistem akuntansi pool di MAYAChain, menyebabkan nilai CACAO anjlok 88,7%. Kerusakan ini membebani rencana pemulihan platform.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/feather-vault-split.jpg",
-   "a": "6 jam lalu",
+   "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T16:16:45"
+   "published_at": "2026-08-20T19:00:51"
   },
   {
    "id": 1246,
@@ -200,18 +200,18 @@
    "published_at": "2026-08-19T05:13:54"
   },
   {
-   "id": 1261,
+   "id": 1524,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ethereum ingin sembunyikan transaksi Anda dari bot",
-   "x": "Pengembangan baru di Ethereum berupaya menyembunyikan pesanan transaksi yang sensitif terhadap bot sebelum dikirim. Hal ini penting untuk melindungi investor ritel dari serangan bot yang dapat memanipulasi harga.",
+   "t": "Pemegang token Shade hadapi penghancuran permanen tanpa jaminan nilai",
+   "x": "Protokol privasi Shade memberikan tenggat waktu bagi pemegang token SHD untuk melakukan pembakaran token yang bersifat permanen. Tindakan ini tidak menjamin nilai atau alokasi di masa depan, menimbulkan ketidakpastian bagi investor.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/feather-vault-split.jpg",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T17:50:20"
+   "published_at": "2026-08-21T16:16:45"
   },
   {
    "id": 1288,
@@ -226,6 +226,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T12:00:00"
+  },
+  {
+   "id": 1261,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ethereum ingin sembunyikan transaksi Anda dari bot",
+   "x": "Pengembangan baru di Ethereum berupaya menyembunyikan pesanan transaksi yang sensitif terhadap bot sebelum dikirim. Hal ini penting untuk melindungi investor ritel dari serangan bot yang dapat memanipulasi harga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T17:50:20"
   }
  ]
 }
