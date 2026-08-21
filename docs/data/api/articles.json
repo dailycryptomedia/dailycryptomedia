@@ -1,5 +1,5 @@
 {
- "total": 340,
+ "total": 327,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/anak-purbaya-promosi-crypto-exchange-apakah-platformnya-berizin",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T07:00:33"
@@ -40,24 +40,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-50000-sol-security-contest-did-not-cover-a-clock-attack-disclosed-months-earlier",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-clock-puppet.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T21:00:37"
-  },
-  {
-   "id": 1172,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Dompet Bitcoin Tak Tersentuh 15 Tahun Tiba-tiba Aktif",
-   "x": "Alamat Bitcoin yang tidak aktif selama 15 tahun tiba-tiba mentransfer aset senilai ratusan ribu dolar. Peristiwa ini menyoroti potensi aset digital yang lama terlupakan dan pergerakan dana tak terduga di pasar kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T14:03:34"
   },
   {
    "id": 1202,
@@ -72,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T19:54:16"
+  },
+  {
+   "id": 1417,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "XRP Catat Pekan Terbaik Sejak Lonjakan Pemilu 2024 Berkat Short Squeeze Bitcoin",
+   "x": "Token XRP mencatat kenaikan harian dan mingguan tertinggi dalam beberapa bulan, didorong oleh likuidasi besar-besaran pada Bitcoin. Namun, data aliran ETF dan futures mengindikasikan momentum ini mungkin tidak berkelanjutan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-gID_7.jpg",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T17:46:08"
   },
   {
    "id": 1342,
@@ -130,20 +130,6 @@
    "published_at": "2026-08-19T22:50:35"
   },
   {
-   "id": 1417,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "XRP Catat Pekan Terbaik Sejak Lonjakan Pemilu 2024 Berkat Short Squeeze Bitcoin",
-   "x": "Token XRP mencatat kenaikan harian dan mingguan tertinggi dalam beberapa bulan, didorong oleh likuidasi besar-besaran pada Bitcoin. Namun, data aliran ETF dan futures mengindikasikan momentum ini mungkin tidak berkelanjutan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-gID_7.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T17:46:08"
-  },
-  {
    "id": 1296,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -152,10 +138,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:50:58"
+  },
+  {
+   "id": 1446,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Eksekutif CME dan Kalshi Bersitegang Soal Pasar Prediksi di DC",
+   "x": "Pimpinan CME Group dan Kalshi saling berdebat di hadapan regulator AS mengenai pasar prediksi. Perdebatan ini menyoroti ketegangan dalam penetapan standar regulasi untuk produk keuangan inovatif.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T22:32:11"
   },
   {
    "id": 1284,
@@ -186,18 +186,18 @@
    "published_at": "2026-08-20T04:30:53"
   },
   {
-   "id": 1186,
+   "id": 1390,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bank Terbesar di Italia Beralih dari Bitcoin ke Saham SpaceX",
-   "x": "Intesa Sanpaolo, bank terbesar di Italia, mengungkap kepemilikan saham SpaceX senilai US$966,42 juta hanya beberapa minggu setelah memangkas eksposur di exchange-traded fund (ETF) Bitcoin BlackRock. Pergeseran ini…",
+   "t": "OrdinalsBot, Layanan Inscription Pertama Bitcoin, Tutup setelah 3 Tahun",
+   "x": "OrdinalsBot, layanan inskripsi pertama di ekosistem Ordinals Bitcoin (BTC), telah mengumumkan penutupan layanannya. Proyek ini akan menjual brand, hak kekayaan intelektual, dan seluruh teknologi yang dimiliki…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/intesa-sanpaolo-italia-spacex-saham-bitcoin-etf",
-   "img": "https://assets.beincrypto.com/img/cTzMtBSUj9mUWfyKeztyT8-nlrA=/smart/266df16cf1b24c0db5d31981d9cbc2c9",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/ordinalsbot-menutup-operasi-menjual-aset",
+   "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-18T15:36:47"
+   "published_at": "2026-08-20T11:34:53"
   },
   {
    "id": 1336,
@@ -214,20 +214,6 @@
    "published_at": "2026-08-19T20:50:27"
   },
   {
-   "id": 1446,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Eksekutif CME dan Kalshi Bersitegang Soal Pasar Prediksi di DC",
-   "x": "Pimpinan CME Group dan Kalshi saling berdebat di hadapan regulator AS mengenai pasar prediksi. Perdebatan ini menyoroti ketegangan dalam penetapan standar regulasi untuk produk keuangan inovatif.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T22:32:11"
-  },
-  {
    "id": 1409,
    "k": "pasar",
    "cat": "Pasar",
@@ -236,10 +222,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:53:51"
+  },
+  {
+   "id": 1341,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump sebut AI lebih besar dari internet, dukung regulasi ringan",
+   "x": "Donald Trump memprediksi kecerdasan buatan (AI) akan melampaui internet dan membela pembangunan infrastruktur pendukungnya. Pernyataannya menyoroti potensi besar AI dan pandangannya terhadap regulasi industri teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T21:36:50"
   },
   {
    "id": 1209,
@@ -270,18 +270,18 @@
    "published_at": "2026-08-20T02:30:40"
   },
   {
-   "id": 1390,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "OrdinalsBot, Layanan Inscription Pertama Bitcoin, Tutup setelah 3 Tahun",
-   "x": "OrdinalsBot, layanan inskripsi pertama di ekosistem Ordinals Bitcoin (BTC), telah mengumumkan penutupan layanannya. Proyek ini akan menjual brand, hak kekayaan intelektual, dan seluruh teknologi yang dimiliki…",
+   "id": 1461,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Memory Adalah “Infrastruktur Strategis di Era AI,” Kata CEO Micron",
+   "x": "CEO Micron, Sanjay Mehrotra, mengungkapkan bahwa memori kini telah menjadi infrastruktur strategis di era kecerdasan buatan (AI), sebuah perubahan yang ia yakini telah mengubah secara permanen ekonomi dari industri yang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ordinalsbot-menutup-operasi-menjual-aset",
-   "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/micron-memory-infrastruktur-strategis-era-ai",
+   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-20T11:34:53"
+   "published_at": "2026-08-21T04:54:24"
   },
   {
    "id": 1506,
@@ -292,24 +292,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
-   "a": "10 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T13:50:11"
-  },
-  {
-   "id": 1341,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump sebut AI lebih besar dari internet, dukung regulasi ringan",
-   "x": "Donald Trump memprediksi kecerdasan buatan (AI) akan melampaui internet dan membela pembangunan infrastruktur pendukungnya. Pernyataannya menyoroti potensi besar AI dan pandangannya terhadap regulasi industri teknologi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T21:36:50"
   },
   {
    "id": 1208,
@@ -324,6 +310,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T20:45:48"
+  },
+  {
+   "id": 1510,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP hapus sinyal bearish paling kuatnya, koin terkait Ripple terbang",
+   "x": "Token XRP berhasil ditutup di atas dua rata-rata bergerak, menghapus sinyal bearish yang bertahan sejak Agustus. Kenaikan ini menandai pembalikan tren positif bagi koin tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
+   "a": "21 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T15:39:02"
   },
   {
    "id": 1272,
@@ -354,18 +354,18 @@
    "published_at": "2026-08-19T02:30:23"
   },
   {
-   "id": 1461,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Memory Adalah “Infrastruktur Strategis di Era AI,” Kata CEO Micron",
-   "x": "CEO Micron, Sanjay Mehrotra, mengungkapkan bahwa memori kini telah menjadi infrastruktur strategis di era kecerdasan buatan (AI), sebuah perubahan yang ia yakini telah mengubah secara permanen ekonomi dari industri yang…",
+   "id": 1338,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "3 Altcoin yang Grayscale Sebut Bisa Untung dari Aturan Token Baru AS",
+   "x": "Grayscale menyebut Ethereum, Solana, dan BNB sebagai altcoin yang bisa diuntungkan dari aturan token baru di AS yang menghidupkan kembali penggalangan dana token.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/micron-memory-infrastruktur-strategis-era-ai",
-   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "9 jam lalu",
+   "url": "https://id.beincrypto.com/grayscale-altcoin-aturan-baru-token-as",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-21T04:54:24"
+   "published_at": "2026-08-19T21:26:58"
   },
   {
    "id": 1386,
@@ -382,6 +382,20 @@
    "published_at": "2026-08-20T10:40:17"
   },
   {
+   "id": 1509,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bisnis Kripto: Treasury AS dorong Bitcoin naik lewat 'bukan-QE'",
+   "x": "Pembelian kembali obligasi oleh Departemen Keuangan AS memicu kenaikan Bitcoin. Sementara itu, Metaplanet berekspansi ke AS dan Cypherpunk bertaruh besar pada penambangan Zcash.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
+   "a": "10 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T15:50:08"
+  },
+  {
    "id": 1283,
    "k": "pasar",
    "cat": "Pasar",
@@ -396,20 +410,6 @@
    "published_at": "2026-08-19T11:31:04"
   },
   {
-   "id": 1413,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Utang AS Lampaui $40 Triliun Picu Debat Dampaknya bagi Bitcoin",
-   "x": "Utang AS yang mencapai rekor $40 triliun ini dinilai analis dapat memperkuat argumen jangka panjang untuk Bitcoin. Namun, imbal hasil obligasi, kekuatan dolar, dan likuiditas tetap menjadi faktor penggerak utama dalam jangka pendek.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T17:43:58"
-  },
-  {
    "id": 1422,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -418,7 +418,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:06:01"
@@ -432,24 +432,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/7-platform-andalan-crypto-degen-buat-hunting-meme-coin-potensial",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T09:00:03"
   },
   {
-   "id": 1338,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "3 Altcoin yang Grayscale Sebut Bisa Untung dari Aturan Token Baru AS",
-   "x": "Grayscale menyebut Ethereum, Solana, dan BNB sebagai altcoin yang bisa diuntungkan dari aturan token baru di AS yang menghidupkan kembali penggalangan dana token.",
+   "id": 1345,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Utang AS Tembus US$40 Triliun: Akankah Doom Loop Dorong Permintaan Bitcoin?",
+   "x": "Rekor utang AS sebesar USD40 triliun memicu kekhawatiran doom loop. Simak alasan investor mempertimbangkan Bitcoin seiring imbal hasil Treasury meningkat.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/grayscale-altcoin-aturan-baru-token-as",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "url": "https://id.beincrypto.com/utang-40-triliun-dolar-as-bitcoin-hedge",
+   "img": "https://assets.beincrypto.com/img/g-WSzxJa1dvpKvJiy_bStz-2oDI=/smart/71b119512fb847e3b35919ad3ff309d8",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-19T21:26:58"
+   "published_at": "2026-08-19T22:25:37"
   },
   {
    "id": 1495,
@@ -460,10 +460,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T10:43:30"
+  },
+  {
+   "id": 1413,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Utang AS Lampaui $40 Triliun Picu Debat Dampaknya bagi Bitcoin",
+   "x": "Utang AS yang mencapai rekor $40 triliun ini dinilai analis dapat memperkuat argumen jangka panjang untuk Bitcoin. Namun, imbal hasil obligasi, kekuatan dolar, dan likuiditas tetap menjadi faktor penggerak utama dalam jangka pendek.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T17:43:58"
   },
   {
    "id": 1487,
@@ -474,24 +488,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T09:31:05"
-  },
-  {
-   "id": 1189,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Jaksa AS serang mosi mantan CEO Celsius, sebut 'tanpa dasar'",
-   "x": "Mantan CEO Celsius, Alex Mashinsky, mengajukan mosi untuk membatalkan hukumannya meski sudah menjalani vonis 12 tahun penjara. Jaksa federal menolak mosi tersebut karena dianggap tidak memiliki dasar hukum yang kuat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T16:49:58"
   },
   {
    "id": 1309,
@@ -516,24 +516,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-tabrak-batas-terlarang-nasib-reli-kini-dipertaruhkan",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T02:30:07"
   },
   {
-   "id": 1345,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Utang AS Tembus US$40 Triliun: Akankah Doom Loop Dorong Permintaan Bitcoin?",
-   "x": "Rekor utang AS sebesar USD40 triliun memicu kekhawatiran doom loop. Simak alasan investor mempertimbangkan Bitcoin seiring imbal hasil Treasury meningkat.",
+   "id": 1357,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Target Emas Q4 JPMorgan Baru Saja Terlewati: Apakah US$5.000 Berikutnya?",
+   "x": "Emas mendekati $4.525 seiring pergerakan likuiditas Treasury mendorong kenaikan bullion. Berikut yang dibutuhkan untuk mendorong harga emas menembus $5.000 sebelum akhir tahun.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/utang-40-triliun-dolar-as-bitcoin-hedge",
-   "img": "https://assets.beincrypto.com/img/g-WSzxJa1dvpKvJiy_bStz-2oDI=/smart/71b119512fb847e3b35919ad3ff309d8",
+   "url": "https://id.beincrypto.com/harga-emas-5000-target-jpmorgan",
+   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-19T22:25:37"
+   "published_at": "2026-08-20T04:36:56"
   },
   {
    "id": 1465,
@@ -544,10 +544,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T05:00:12"
+  },
+  {
+   "id": 1189,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Jaksa AS serang mosi mantan CEO Celsius, sebut 'tanpa dasar'",
+   "x": "Mantan CEO Celsius, Alex Mashinsky, mengajukan mosi untuk membatalkan hukumannya meski sudah menjalani vonis 12 tahun penjara. Jaksa federal menolak mosi tersebut karena dianggap tidak memiliki dasar hukum yang kuat.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T16:49:58"
   },
   {
    "id": 1394,
@@ -564,20 +578,6 @@
    "published_at": "2026-08-20T11:31:04"
   },
   {
-   "id": 1297,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga Bitcoin capai rekor 11 minggu seiring AS gandakan buyback utang",
-   "x": "Harga Bitcoin menguat bersama saham AS setelah Departemen Keuangan AS mengumumkan akan menggandakan operasi pembelian kembali surat utangnya. Langkah ini memicu optimisme pasar terhadap aset berisiko.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T15:44:09"
-  },
-  {
    "id": 1493,
    "k": "pasar",
    "cat": "Pasar",
@@ -586,7 +586,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
    "img": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_1-1200x675.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T10:57:54"
@@ -606,18 +606,18 @@
    "published_at": "2026-08-19T04:00:24"
   },
   {
-   "id": 1357,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Target Emas Q4 JPMorgan Baru Saja Terlewati: Apakah US$5.000 Berikutnya?",
-   "x": "Emas mendekati $4.525 seiring pergerakan likuiditas Treasury mendorong kenaikan bullion. Berikut yang dibutuhkan untuk mendorong harga emas menembus $5.000 sebelum akhir tahun.",
+   "id": 1358,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "OpenAI CFO Ungkap Kapan IPO Bisa Benar-Benar Terwujud",
+   "x": "Chief Financial Officer OpenAI, Sarah Friar, mengungkapkan bahwa laboratorium artificial intelligence (AI) tersebut akan melakukan penawaran saham perdana (IPO) pada tahun 2027. Ia juga menambahkan bahwa debut IPO bisa…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-emas-5000-target-jpmorgan",
-   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
+   "url": "https://id.beincrypto.com/openai-ipo-2027-friar-timeline",
+   "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-20T04:36:56"
+   "published_at": "2026-08-20T04:32:35"
   },
   {
    "id": 1304,
@@ -628,10 +628,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:37:42"
+  },
+  {
+   "id": 1297,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Harga Bitcoin capai rekor 11 minggu seiring AS gandakan buyback utang",
+   "x": "Harga Bitcoin menguat bersama saham AS setelah Departemen Keuangan AS mengumumkan akan menggandakan operasi pembelian kembali surat utangnya. Langkah ini memicu optimisme pasar terhadap aset berisiko.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T15:44:09"
   },
   {
    "id": 1427,
@@ -642,24 +656,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T19:16:05"
-  },
-  {
-   "id": 1496,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana pangkas waktu slot blockchain menjadi 350 milidetik",
-   "x": "Solana berhasil mengurangi waktu slot blockchain menjadi 350 milidetik, mendekati target 200 milidetik untuk mengurangi latensi jaringan. Inovasi ini krusial bagi investor karena dapat meningkatkan efisiensi dan kecepatan transaksi di jaringan Solana.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
-   "a": "15 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T13:45:13"
   },
   {
    "id": 1352,
@@ -690,18 +690,18 @@
    "published_at": "2026-08-20T02:00:37"
   },
   {
-   "id": 1358,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "OpenAI CFO Ungkap Kapan IPO Bisa Benar-Benar Terwujud",
-   "x": "Chief Financial Officer OpenAI, Sarah Friar, mengungkapkan bahwa laboratorium artificial intelligence (AI) tersebut akan melakukan penawaran saham perdana (IPO) pada tahun 2027. Ia juga menambahkan bahwa debut IPO bisa…",
+   "id": 1433,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "MicroStrategy Hapus Kerugian 2 Bulan di Tengah Reli Saham Kripto: Apakah Kerusakan Sudah Berakhir?",
+   "x": "Saham MicroStrategy mencapai level tertinggi dalam dua bulan seiring bitcoin mendekati $69.800, namun treasury-nya masih berada $4,69 miliar di bawah air.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/openai-ipo-2027-friar-timeline",
-   "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/microstrategy-hapus-kerugian-2-bulan-saham-kripto",
+   "img": "https://assets.beincrypto.com/img/EiNmkZM1mg8ruwUNVsmVjW4CBDc=/smart/0724d54bf4e24ea3b84350cb530a3cb9",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-20T04:32:35"
+   "published_at": "2026-08-20T20:22:50"
   },
   {
    "id": 1451,
@@ -712,10 +712,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/datavault-wants-to-buy-a-bank-and-fund-it-with-35-million-after-reporting-1-4-million-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/datavault_bankwyse_standard_image.jpg",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T23:30:30"
+  },
+  {
+   "id": 1496,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana pangkas waktu slot blockchain menjadi 350 milidetik",
+   "x": "Solana berhasil mengurangi waktu slot blockchain menjadi 350 milidetik, mendekati target 200 milidetik untuk mengurangi latensi jaringan. Inovasi ini krusial bagi investor karena dapat meningkatkan efisiensi dan kecepatan transaksi di jaringan Solana.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T13:45:13"
   },
   {
    "id": 1230,
@@ -730,20 +744,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T21:20:04"
-  },
-  {
-   "id": 1410,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Optimism alihkan 546,9 juta OP dari airdrop ke dana pertumbuhan ekosistem",
-   "x": "Token OP yang sebelumnya dialokasikan untuk airdrop kini diarahkan untuk kemitraan dan insentif guna mendorong pertumbuhan ekosistem Optimism. Langkah ini merupakan hasil dari pemungutan suara tata kelola.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T15:43:00"
   },
   {
    "id": 1271,
@@ -774,18 +774,18 @@
    "published_at": "2026-08-19T02:00:01"
   },
   {
-   "id": 1169,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "3 Pertarungan yang Jepang Kalahkan Sekaligus, Akankah Bitcoin Merasakan Guncangan Yen?",
-   "x": "Jepang sedang kalah dalam 3 pertempuran sekaligus saat imbal hasil melonjak dan yen melemah. Akankah Bitcoin merasakan guncangan yen? Level kunci yang perlu diperhatikan.",
+   "id": 1378,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "73% Dana Saham Global Akan Masuk ke Eropa saat Iran Ancam Wilayah Tersebut",
+   "x": "Iran dilaporkan telah menilai serangan terhadap target militer AS di Eropa, menurut dua sumber yang dekat dengan rezim tersebut. Waktu ini menjadi ujian bagi rotasi investasi ke aset Eropa. Aliran dana masuk saat…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jepang-3-pertarungan-bitcoin-yen-kejut",
-   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/arus-modal-ekuitas-eropa-iran-ancaman-eropa",
+   "img": "https://assets.beincrypto.com/img/zQHACBGEcVbq8xALmdQTOaPCnI8=/smart/3e0579d1dd024de6a310f800c1ea06b7",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-18T13:28:02"
+   "published_at": "2026-08-20T10:16:19"
   },
   {
    "id": 1488,
@@ -796,10 +796,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/secs-latest-crypto-rules-only-open-a-few-of-wall-streets-million-doors-bitwise-cio-matt-hougan",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/wall-street-million-doors.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T09:29:56"
+  },
+  {
+   "id": 1410,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Optimism alihkan 546,9 juta OP dari airdrop ke dana pertumbuhan ekosistem",
+   "x": "Token OP yang sebelumnya dialokasikan untuk airdrop kini diarahkan untuk kemitraan dan insentif guna mendorong pertumbuhan ekosistem Optimism. Langkah ini merupakan hasil dari pemungutan suara tata kelola.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T15:43:00"
   },
   {
    "id": 1291,
@@ -814,20 +828,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T13:31:04"
-  },
-  {
-   "id": 1370,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "GnosisDAO setujui Gnosis Chain jadi Zona Ekonomi Ethereum",
-   "x": "Gnosis Chain akan beralih menjadi rollup Zona Ekonomi Ethereum yang terhubung langsung ke Ethereum. Perubahan ini mengakhiri set validator independennya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T08:59:40"
   },
   {
    "id": 1204,
