@@ -1,8 +1,22 @@
 {
- "total": 337,
+ "total": 338,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1477,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Anak Purbaya promosikan bursa kripto, apakah BingX berizin?",
+   "x": "Yudo Sadewa, anak Menkeu Purbaya, mempromosikan bursa kripto BingX di media sosial. Hal ini menimbulkan pertanyaan apakah platform tersebut telah mendapatkan izin dari OJK untuk beroperasi di Indonesia.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/anak-purbaya-promosi-crypto-exchange-apakah-platformnya-berizin",
+   "img": null,
+   "a": "57 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T07:00:33"
+  },
   {
    "id": 1343,
    "k": "pasar",
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-50000-sol-security-contest-did-not-cover-a-clock-attack-disclosed-months-earlier",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-clock-puppet.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T21:00:37"
@@ -74,20 +88,6 @@
    "published_at": "2026-08-18T10:49:53"
   },
   {
-   "id": 1369,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Dolar melemah, Bitcoin terbang ke US$69.000",
-   "x": "Bitcoin melesat lebih dari 6 persen saat dolar AS melemah dan likuiditas obligasi meningkat. Investor ritel menunjukkan sinyal FOMO, menandakan potensi euforia pasar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/dolar-loyo-usai-as-guyur-likuiditas-bitcoin-terbang-ke-us69-000",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T06:00:38"
-  },
-  {
    "id": 1150,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -102,6 +102,20 @@
    "published_at": "2026-08-18T10:38:56"
   },
   {
+   "id": 1369,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Dolar melemah, Bitcoin terbang ke US$69.000",
+   "x": "Bitcoin melesat lebih dari 6 persen saat dolar AS melemah dan likuiditas obligasi meningkat. Investor ritel menunjukkan sinyal FOMO, menandakan potensi euforia pasar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/dolar-loyo-usai-as-guyur-likuiditas-bitcoin-terbang-ke-us69-000",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T06:00:38"
+  },
+  {
    "id": 1364,
    "k": "pasar",
    "cat": "Pasar",
@@ -110,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cftc-komentar-permintaan-turunan-komputasi",
    "img": "https://assets.beincrypto.com/img/ndgOBb1lrpqb4VtemQSunmwqyZA=/smart/6d3c12a6bdab4d73839582b078e74bb7",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T07:18:27"
@@ -138,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-gID_7.jpg",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:46:08"
@@ -172,20 +186,6 @@
    "published_at": "2026-08-19T22:36:38"
   },
   {
-   "id": 1362,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trump desak Kongres soal CLARITY Act untuk jaga kepemimpinan kripto AS",
-   "x": "Mantan Presiden AS Donald Trump mendorong Kongres untuk segera mengesahkan CLARITY Act. Langkah ini krusial untuk mempertahankan dominasi Amerika Serikat dalam industri aset digital global.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/trump-desak-kongres-soal-clarity-act-as-tak-mau-kalah-di-kripto",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T04:30:53"
-  },
-  {
    "id": 1162,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -198,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T11:21:51"
+  },
+  {
+   "id": 1362,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trump desak Kongres soal CLARITY Act untuk jaga kepemimpinan kripto AS",
+   "x": "Mantan Presiden AS Donald Trump mendorong Kongres untuk segera mengesahkan CLARITY Act. Langkah ini krusial untuk mempertahankan dominasi Amerika Serikat dalam industri aset digital global.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/trump-desak-kongres-soal-clarity-act-as-tak-mau-kalah-di-kripto",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T04:30:53"
   },
   {
    "id": 1186,
@@ -236,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T22:32:11"
@@ -250,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:53:51"
@@ -284,20 +298,6 @@
    "published_at": "2026-08-20T02:30:40"
   },
   {
-   "id": 1176,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Citi Berencana Luncurkan Kustodi Bitcoin untuk Klien Institusi",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T13:25:13"
-  },
-  {
    "id": 1390,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ordinalsbot-menutup-operasi-menjual-aset",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T11:34:53"
@@ -320,7 +320,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-grabs-77-of-1-3-billion-crypto-fund-surge-as-blackrock-leads-the-rebound",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-blackrock-capital-wave-.jpg",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T10:40:17"
@@ -382,20 +382,6 @@
    "published_at": "2026-08-19T02:30:23"
   },
   {
-   "id": 1177,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Era Uang Mudah Kripto Berakhir di Tengah Gelombang Kegagalan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f1b524375e138c791f103e5cb4cc6fa317f0aa25-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T13:22:40"
-  },
-  {
    "id": 1461,
    "k": "web3",
    "cat": "Web3",
@@ -404,7 +390,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/micron-memory-infrastruktur-strategis-era-ai",
    "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "26 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T04:54:24"
@@ -418,7 +404,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "20 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T05:00:12"
@@ -446,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:43:58"
@@ -478,20 +464,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:00:49"
-  },
-  {
-   "id": 1163,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Korea Selatan batasi akses Polymarket bersama 30 yurisdiksi lain",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T11:05:56"
   },
   {
    "id": 1338,
@@ -558,7 +530,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:06:01"
@@ -572,7 +544,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-tabrak-batas-terlarang-nasib-reli-kini-dipertaruhkan",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T02:30:07"
@@ -600,7 +572,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/datavault-wants-to-buy-a-bank-and-fund-it-with-35-million-after-reporting-1-4-million-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/datavault_bankwyse_standard_image.jpg",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T23:30:30"
@@ -614,7 +586,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T11:31:04"
@@ -684,7 +656,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zisk-gpu-inspection-case.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T07:00:12"
@@ -698,7 +670,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T19:16:05"
@@ -712,7 +684,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:43:00"
@@ -796,7 +768,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:59:40"
@@ -842,6 +814,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T13:28:02"
+  },
+  {
+   "id": 1305,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Investor Wall Street tambah $1,2 miliar di MSTR sebelum fokus ke STRC",
+   "x": "Investor institusi Wall Street meningkatkan kepemilikan saham MicroStrategy (MSTR) senilai $1,2 miliar pada kuartal kedua. Peningkatan ini terjadi sebelum perusahaan mengalihkan fokus akumulasi Bitcoin ke penyelamatan STRC.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/wall-street-piled-1-2-billion-into-mstr-in-q2-before-strategy-turned-its-bitcoin-flywheel-toward-rescuing-strc",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/saylor-strc-rescue-machine.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T15:30:23"
+  },
+  {
+   "id": 1291,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan InsurTech China Zhibao Tambah 2.380 Bitcoin dalam Pergeseran Kas Rp2,3 T",
+   "x": "Perusahaan teknologi asuransi asal Shanghai mengumpulkan dana Rp2,3 triliun dari investor yang menyetor Bitcoin langsung, bukan uang tunai. Langkah ini menunjukkan minat perusahaan tradisional pada aset digital sebagai bagian dari strategi kas mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T13:31:04"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "total": 40,
+ "total": 42,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bukan-cuma-mobil-toyota-kini-mulai-lirik-sektor-tokenisasi",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T06:00:33"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/microstrategy-hapus-kerugian-2-bulan-saham-kripto",
    "img": "https://assets.beincrypto.com/img/EiNmkZM1mg8ruwUNVsmVjW4CBDc=/smart/0724d54bf4e24ea3b84350cb530a3cb9",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T20:22:50"
@@ -180,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ripple-makin-gencar-tokenisasi-aset-akankah-xrp-kebagian-untung",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T03:00:09"
@@ -292,7 +292,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tether-backed-antalphas-loan-tvl-declined-696-million-as-its-gold-bet-returned-a-22-million-loss",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/antalpha-lending-underwater.jpg",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T20:00:46"
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/nasdaq-listed-company-warns-it-may-not-survive-12-months-after-its-crypto-treasury-crashed-46",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cosmos-health-sinking-treasury.jpg",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T18:15:06"
@@ -376,7 +376,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
    "img": "https://www.tbstat.com/wp/uploads/2023/08/gsr_news-1200x675.png",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T10:08:12"
@@ -418,7 +418,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T07:48:40"
@@ -446,7 +446,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ceo-robinhood-saham-tokenisasi-as-gap",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T07:01:06"
@@ -466,6 +466,34 @@
    "published_at": "2026-08-19T17:03:52"
   },
   {
+   "id": 1475,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "CZ Ingin Negara-Negara Tokenisasi Aset, tapi Ada Syaratnya",
+   "x": "Pendiri Binance, Changpeng Zhao (CZ), menuturkan bahwa tokenisasi bisa membantu negara menggalang dana dan menarik investasi asing, namun ia juga mengakui bahwa menempatkan aset pada beberapa blockchain dapat…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cz-negara-saham-tokenisasi-likuiditas-terfragmen",
+   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-21T05:31:06"
+  },
+  {
+   "id": 1470,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Shinhan Korea Selatan gandeng Solana, Etherfuse, Orca untuk terbitkan dana tokenisasi",
+   "x": "Bank Shinhan Korea Selatan menjalin kemitraan dengan Solana Foundation, Etherfuse, dan Orca untuk uji coba penerbitan dan distribusi dana yang ditokenisasi. Langkah ini menunjukkan minat institusi keuangan pada aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T06:32:48"
+  },
+  {
    "id": 1462,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -474,7 +502,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-asia-turun-bitcoin-emas-rally",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T03:43:31"
@@ -516,7 +544,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20230216_Ondo-1200x675.jpg",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:53:38"
@@ -530,7 +558,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bill-dudley-gelembung-pasar-saham",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T23:28:00"
