@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-18T08:01:39"
   },
   {
+   "id": 1465,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
+   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
+   "a": "20 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T05:00:12"
+  },
+  {
    "id": 1269,
    "k": "defi",
    "cat": "DeFi",
@@ -32,20 +46,6 @@
    "published_at": "2026-08-19T10:20:27"
   },
   {
-   "id": 1430,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Eksploitasi MAYAChain senilai $1,36 juta sebabkan kerusakan pool hampir $11 juta",
-   "x": "Transaksi mencurigakan merusak sistem akuntansi pool di MAYAChain, menyebabkan nilai CACAO anjlok 88,7%. Kerusakan ini membebani rencana pemulihan platform.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T19:00:51"
-  },
-  {
    "id": 1437,
    "k": "defi",
    "cat": "DeFi",
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Kraken_News-1200x675.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T20:41:44"
@@ -88,6 +88,20 @@
    "published_at": "2026-08-19T07:58:05"
   },
   {
+   "id": 1430,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Eksploitasi MAYAChain senilai $1,36 juta sebabkan kerusakan pool hampir $11 juta",
+   "x": "Transaksi mencurigakan merusak sistem akuntansi pool di MAYAChain, menyebabkan nilai CACAO anjlok 88,7%. Kerusakan ini membebani rencana pemulihan platform.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T19:00:51"
+  },
+  {
    "id": 1241,
    "k": "defi",
    "cat": "DeFi",
@@ -96,24 +110,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T03:58:13"
-  },
-  {
-   "id": 1261,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ethereum ingin sembunyikan transaksi Anda dari bot",
-   "x": "Pengembangan baru di Ethereum berupaya menyembunyikan pesanan transaksi yang sensitif terhadap bot sebelum dikirim. Hal ini penting untuk melindungi investor ritel dari serangan bot yang dapat memanipulasi harga.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T17:50:20"
+   "published_at": "2026-08-19T03:58:13"
   },
   {
    "id": 1153,
@@ -128,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T10:34:53"
+  },
+  {
+   "id": 1261,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ethereum ingin sembunyikan transaksi Anda dari bot",
+   "x": "Pengembangan baru di Ethereum berupaya menyembunyikan pesanan transaksi yang sensitif terhadap bot sebelum dikirim. Hal ini penting untuk melindungi investor ritel dari serangan bot yang dapat memanipulasi harga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T17:50:20"
   },
   {
    "id": 1266,
@@ -152,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
    "img": "https://www.tbstat.com/wp/uploads/2026/01/20260108_XRP_News_2-1200x675.jpg",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T11:34:05"
@@ -166,7 +180,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T05:13:54"

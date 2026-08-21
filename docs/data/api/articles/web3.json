@@ -1,8 +1,22 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1461,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Memory Adalah “Infrastruktur Strategis di Era AI,” Kata CEO Micron",
+   "x": "CEO Micron, Sanjay Mehrotra, mengungkapkan bahwa memori kini telah menjadi infrastruktur strategis di era kecerdasan buatan (AI), sebuah perubahan yang ia yakini telah mengubah secara permanen ekonomi dari industri yang…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/micron-memory-infrastruktur-strategis-era-ai",
+   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
+   "a": "26 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-21T04:54:24"
+  },
   {
    "id": 1370,
    "k": "web3",
@@ -12,24 +26,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:59:40"
-  },
-  {
-   "id": 1132,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Zoomex Gelar Kompetisi Perpetual Saham Putaran 2: Dorong Derivatif Lintas Aset bagi Trader Global",
-   "x": "Zoomex, crypto exchange derivatif global, kemarin (17/8) secara resmi mengumumkan peluncuran ajang yang sangat dinanti, Kompetisi Perpetual Saham Putaran 2. Acara ini dirancang dalam rangka menjembatani dunia Keuangan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kompetisi-perpetual-saham-putaran-2-zoomex",
-   "img": "https://assets.beincrypto.com/img/uUs93hfmclcODaBoRgF4OddqS54=/smart/24975ca79d894c97b00bc8aab21b9e29",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-18T05:20:46"
   },
   {
    "id": 1372,
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/gnosis-validator-model-retirement.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:30:25"
@@ -54,24 +54,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
    "img": "https://www.tbstat.com/wp/uploads/2020/09/20200904_Chainlink-Exploit-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T13:58:22"
   },
   {
-   "id": 1148,
+   "id": 1466,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pantau wallet bos Binance, trader kripto raup Rp4,9 miliar",
-   "x": "",
+   "t": "150 Wallet Polymarket Diduga Cuan dari Informasi Militer AS",
+   "x": "Sebanyak 150 dompet digital di platform Polymarket diduga meraup keuntungan dari informasi sensitif militer Amerika Serikat. Kejadian ini menimbulkan kekhawatiran mengenai potensi insider trading di ranah aset digital.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/gegara-pantau-wallet-bos-binance-trader-kripto-ini-cuan-rp49-miliar",
+   "url": "https://blockchainmedia.id/heboh-150-wallet-polymarket-diduga-cuan-dari-informasi-militer-as",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-18T07:00:24"
+   "published_at": "2026-08-21T03:30:17"
   },
   {
    "id": 1419,
@@ -82,10 +82,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T16:33:38"
+  },
+  {
+   "id": 1132,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Zoomex Gelar Kompetisi Perpetual Saham Putaran 2: Dorong Derivatif Lintas Aset bagi Trader Global",
+   "x": "Zoomex, crypto exchange derivatif global, kemarin (17/8) secara resmi mengumumkan peluncuran ajang yang sangat dinanti, Kompetisi Perpetual Saham Putaran 2. Acara ini dirancang dalam rangka menjembatani dunia Keuangan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/kompetisi-perpetual-saham-putaran-2-zoomex",
+   "img": "https://assets.beincrypto.com/img/uUs93hfmclcODaBoRgF4OddqS54=/smart/24975ca79d894c97b00bc8aab21b9e29",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-18T05:20:46"
   },
   {
    "id": 1397,
@@ -96,24 +110,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T12:35:32"
-  },
-  {
-   "id": 1404,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Fidelity Digital Assets Sebut 6 Risiko untuk Thesis Agen AI Kripto",
-   "x": "Fidelity Digital Assets mengungkap bahwa AI agent mungkin tidak akan terkonsolidasi di blockchain publik, dan menyebut risiko itu sebagai salah satu potensi risiko terbesar bagi tesis AI di sektor aset kripto…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/fidelity-grayscale-ai-blockchain-agent-risiko",
-   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-20T11:54:49"
   },
   {
    "id": 1454,
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-client-control-room.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T01:00:59"
@@ -142,6 +142,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T16:01:13"
+  },
+  {
+   "id": 1148,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pantau wallet bos Binance, trader kripto raup Rp4,9 miliar",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/gegara-pantau-wallet-bos-binance-trader-kripto-ini-cuan-rp49-miliar",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T07:00:24"
+  },
+  {
+   "id": 1404,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Fidelity Digital Assets Sebut 6 Risiko untuk Thesis Agen AI Kripto",
+   "x": "Fidelity Digital Assets mengungkap bahwa AI agent mungkin tidak akan terkonsolidasi di blockchain publik, dan menyebut risiko itu sebagai salah satu potensi risiko terbesar bagi tesis AI di sektor aset kripto…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/fidelity-grayscale-ai-blockchain-agent-risiko",
+   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-20T11:54:49"
   },
   {
    "id": 1141,
