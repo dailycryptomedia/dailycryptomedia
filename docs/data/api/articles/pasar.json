@@ -1,5 +1,5 @@
 {
- "total": 137,
+ "total": 135,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/anak-purbaya-promosi-crypto-exchange-apakah-platformnya-berizin",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T07:00:33"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-50000-sol-security-contest-did-not-cover-a-clock-attack-disclosed-months-earlier",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-clock-puppet.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T21:00:37"
@@ -60,20 +60,6 @@
    "published_at": "2026-08-18T19:54:16"
   },
   {
-   "id": 1152,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Promotor 'The Crypto Program' dideportasi dari Fiji terkait dugaan skema Ponzi senilai $165 juta",
-   "x": "Seorang promotor skema Ponzi aset kripto senilai $165 juta dideportasi dari Fiji ke AS untuk menghadapi tuntutan. Kasus ini melibatkan ribuan investor yang menjadi korban.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
-   "img": "https://www.tbstat.com/wp/uploads/2021/07/20210714_UK_Police_Seizures-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T10:49:53"
-  },
-  {
    "id": 1446,
    "k": "pasar",
    "cat": "Pasar",
@@ -82,10 +68,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T22:32:11"
+  },
+  {
+   "id": 1309,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Grayscale ajukan amandemen ETF Zcash, DCG bahas kontribusi 200.000 ZEC",
+   "x": "Digital Currency Group (DCG) sedang berdiskusi untuk menyumbangkan sejumlah besar Zcash ke dalam dana ETF Grayscale. Namun, kesepakatan ini masih bersifat non-binding dan belum final.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
+   "img": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Grayscale_Color-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T16:57:52"
   },
   {
    "id": 1177,
@@ -152,24 +152,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:53:51"
-  },
-  {
-   "id": 1309,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Grayscale ajukan amandemen ETF Zcash, DCG bahas kontribusi 200.000 ZEC",
-   "x": "Digital Currency Group (DCG) sedang berdiskusi untuk menyumbangkan sejumlah besar Zcash ke dalam dana ETF Grayscale. Namun, kesepakatan ini masih bersifat non-binding dan belum final.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
-   "img": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Grayscale_Color-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T16:57:52"
   },
   {
    "id": 1283,
@@ -184,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T11:31:04"
+  },
+  {
+   "id": 1493,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Lonjakan Bitcoin ke $80K tunjukkan pergeseran momentum likuiditas",
+   "x": "Arus dana masuk ETF Bitcoin spot AS kembali pulih, seiring lonjakan harga Bitcoin menuju $80.000. Hal ini mengindikasikan pergeseran momentum yang didorong oleh likuiditas pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
+   "img": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_1-1200x675.jpg",
+   "a": "4 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T10:57:54"
   },
   {
    "id": 1163,
@@ -222,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/arus-modal-ekuitas-eropa-iran-ancaman-eropa",
    "img": "https://assets.beincrypto.com/img/zQHACBGEcVbq8xALmdQTOaPCnI8=/smart/3e0579d1dd024de6a310f800c1ea06b7",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T10:16:19"
@@ -256,6 +256,20 @@
    "published_at": "2026-08-18T16:49:58"
   },
   {
+   "id": 1487,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Binance Buka Agen AI untuk Trading Aset Kripto",
+   "x": "Binance meluncurkan fitur yang menghubungkan agen AI seperti ChatGPT ke bursa kriptonya. Fitur ini memungkinkan AI melakukan trading secara otomatis, namun pengguna tetap bertanggung jawab atas pengawasan dana mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T09:31:05"
+  },
+  {
    "id": 1352,
    "k": "pasar",
    "cat": "Pasar",
@@ -268,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T03:07:29"
-  },
-  {
-   "id": 1487,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance Buka Agen AI untuk Trading Aset Kripto",
-   "x": "Binance meluncurkan fitur yang menghubungkan agen AI seperti ChatGPT ke bursa kriptonya. Fitur ini memungkinkan AI melakukan trading secara otomatis, namun pengguna tetap bertanggung jawab atas pengawasan dana mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-   "a": "24 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T09:31:05"
   },
   {
    "id": 1180,
@@ -354,20 +354,6 @@
    "published_at": "2026-08-19T15:44:09"
   },
   {
-   "id": 1421,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trump Terlihat 'Bullish' pada Clarity Act dalam Pertemuan Gedung Putih",
-   "x": "Presiden Donald Trump dilaporkan menunjukkan sikap positif terhadap pengesahan Clarity Act dalam pertemuan tertutup dengan para CEO industri kripto dan keuangan. Hal ini mengindikasikan potensi perubahan pendekatan regulasi di AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
-   "img": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-1195x675.jpg",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T17:44:28"
-  },
-  {
    "id": 1427,
    "k": "pasar",
    "cat": "Pasar",
@@ -376,10 +362,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T19:16:05"
+  },
+  {
+   "id": 1421,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trump Terlihat 'Bullish' pada Clarity Act dalam Pertemuan Gedung Putih",
+   "x": "Presiden Donald Trump dilaporkan menunjukkan sikap positif terhadap pengesahan Clarity Act dalam pertemuan tertutup dengan para CEO industri kripto dan keuangan. Hal ini mengindikasikan potensi perubahan pendekatan regulasi di AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
+   "img": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-1195x675.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T17:44:28"
   },
   {
    "id": 1355,
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/inflasi-jepang-yen-boj-kenaikan-suku-bunga",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T07:13:52"
@@ -418,7 +418,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/nearly-1-in-5-crypto-spot-trades-now-happen-on-dexs-as-centralized-exchange-volume-collapses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/dex-market-lighthouse.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T13:20:09"
@@ -432,24 +432,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:43:00"
-  },
-  {
-   "id": 1450,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CEO CME adu argumen dengan regulator soal pasar prediksi",
-   "x": "Pertemuan Komite Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengungkap perbedaan pandangan tajam antara dunia keuangan tradisional dan platform pasar prediksi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
-   "img": "https://www.tbstat.com/wp/uploads/2020/04/CFTC-1013x675.jpg",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T23:39:38"
   },
   {
    "id": 1230,
@@ -464,6 +450,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T21:20:04"
+  },
+  {
+   "id": 1450,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CEO CME adu argumen dengan regulator soal pasar prediksi",
+   "x": "Pertemuan Komite Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengungkap perbedaan pandangan tajam antara dunia keuangan tradisional dan platform pasar prediksi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
+   "img": "https://www.tbstat.com/wp/uploads/2020/04/CFTC-1013x675.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T23:39:38"
   },
   {
    "id": 1240,
@@ -488,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/analisis-pasar-kripto-rally-harga-xrp-lebih-kuat-lebih-lemah",
    "img": "https://assets.beincrypto.com/img/3ysatx1-FpxFTvAAe90XyfQcFy0=/smart/cdeba50106c44ef7874ffd30c011a8bb",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T10:14:40"
@@ -522,20 +522,6 @@
    "published_at": "2026-08-19T17:34:10"
   },
   {
-   "id": 1392,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "OpenLedger: Pembayaran Agen AI Jadi Aplikasi Kripto Unggulan",
-   "x": "OpenLedger melihat potensi besar pada pembayaran yang dikelola agen AI sebagai solusi utama bagi ekosistem kripto. Hal ini karena agen AI seringkali tidak memiliki akses ke sistem perbankan konvensional.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
-   "img": "https://www.tbstat.com/wp/uploads/2023/07/Telegram_Bots_Crypto-1200x675.jpg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T11:34:23"
-  },
-  {
    "id": 1347,
    "k": "pasar",
    "cat": "Pasar",
@@ -550,6 +536,20 @@
    "published_at": "2026-08-19T22:18:01"
   },
   {
+   "id": 1392,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "OpenLedger: Pembayaran Agen AI Jadi Aplikasi Kripto Unggulan",
+   "x": "OpenLedger melihat potensi besar pada pembayaran yang dikelola agen AI sebagai solusi utama bagi ekosistem kripto. Hal ini karena agen AI seringkali tidak memiliki akses ke sistem perbankan konvensional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
+   "img": "https://www.tbstat.com/wp/uploads/2023/07/Telegram_Bots_Crypto-1200x675.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T11:34:23"
+  },
+  {
    "id": 1491,
    "k": "pasar",
    "cat": "Pasar",
@@ -558,7 +558,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-kerja-cfd-trading-dan-perbedaan-cfd-dengan-futures",
    "img": null,
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T08:25:41"
@@ -572,7 +572,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/unitree-ceo-robot-chatgpt-moment-timeline",
    "img": "https://assets.beincrypto.com/img/Mtom53pKrYu0b9HsYd5aTashDT8=/smart/0f1571d9c8c84c709d3579f20d7f1441",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T13:25:24"
@@ -600,24 +600,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T20:26:28"
-  },
-  {
-   "id": 1333,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Token HYPE melonjak usai Trump sebut CFTC siapkan Hyperliquid patuh regulasi",
-   "x": "Token HYPE mengalami lonjakan harga setelah Donald Trump menyatakan CFTC sedang berupaya membawa platform Hyperliquid ke AS. Upaya ini bertujuan agar platform tersebut beroperasi sesuai regulasi yang berlaku.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262",
-   "img": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_2-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T20:29:35"
   },
   {
    "id": 1234,
@@ -634,6 +620,20 @@
    "published_at": "2026-08-18T22:56:04"
   },
   {
+   "id": 1333,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Token HYPE melonjak usai Trump sebut CFTC siapkan Hyperliquid patuh regulasi",
+   "x": "Token HYPE mengalami lonjakan harga setelah Donald Trump menyatakan CFTC sedang berupaya membawa platform Hyperliquid ke AS. Upaya ini bertujuan agar platform tersebut beroperasi sesuai regulasi yang berlaku.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262",
+   "img": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_2-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T20:29:35"
+  },
+  {
    "id": 1456,
    "k": "pasar",
    "cat": "Pasar",
@@ -642,7 +642,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-21-agustus-2026-hype-terancam-koreksi-pepe-trump-arb-dan-aero-cari-celah-terbang",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T02:00:47"
@@ -690,20 +690,6 @@
    "published_at": "2026-08-19T13:30:00"
   },
   {
-   "id": 1464,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "MANTRA hentikan semua transaksi dan jaringan pasca insiden",
-   "x": "MANTRA Chain menghentikan operasional jaringan dan seluruh transaksi menyusul insiden yang belum diungkapkan sifatnya. Penghentian ini berdampak pada aktivitas perdagangan token MANTRA.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
-   "img": "https://www.tbstat.com/wp/uploads/2025/02/Screenshot-2025-02-19-at-2.00.17 PM-1015x675.png",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T04:47:29"
-  },
-  {
    "id": 1428,
    "k": "pasar",
    "cat": "Pasar",
@@ -712,10 +698,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T18:44:08"
+  },
+  {
+   "id": 1464,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "MANTRA hentikan semua transaksi dan jaringan pasca insiden",
+   "x": "MANTRA Chain menghentikan operasional jaringan dan seluruh transaksi menyusul insiden yang belum diungkapkan sifatnya. Penghentian ini berdampak pada aktivitas perdagangan token MANTRA.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+   "img": "https://www.tbstat.com/wp/uploads/2025/02/Screenshot-2025-02-19-at-2.00.17 PM-1015x675.png",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T04:47:29"
   },
   {
    "id": 1363,
@@ -754,7 +754,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sudden-22-xrp-rally-triggers-forced-short-buying-across-the-market-driving-xrp-straight-toward-a-make-or-break-1-50-resistance-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-short-squeeze-launch.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T08:07:54"
@@ -774,20 +774,6 @@
    "published_at": "2026-08-19T11:18:38"
   },
   {
-   "id": 1481,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Volume Perdagangan Upbit Melonjak 273% Seiring Investor Korsel Kembali",
-   "x": "Investor Korea Selatan mulai kembali berinvestasi di aset kripto, terlihat dari lonjakan volume perdagangan di bursa Upbit. Analis menyebutkan investor kini lebih mengejar potensi keuntungan daripada loyalitas pada aset tertentu.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
-   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-1200x675.jpg",
-   "a": "37 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T09:17:58"
-  },
-  {
    "id": 1334,
    "k": "pasar",
    "cat": "Pasar",
@@ -800,6 +786,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T19:56:45"
+  },
+  {
+   "id": 1481,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Volume Perdagangan Upbit Melonjak 273% Seiring Investor Korsel Kembali",
+   "x": "Investor Korea Selatan mulai kembali berinvestasi di aset kripto, terlihat dari lonjakan volume perdagangan di bursa Upbit. Analis menyebutkan investor kini lebih mengejar potensi keuntungan daripada loyalitas pada aset tertentu.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
+   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T09:17:58"
   },
   {
    "id": 1278,
