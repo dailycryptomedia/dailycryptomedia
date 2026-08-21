@@ -1,5 +1,5 @@
 {
- "total": 328,
+ "total": 338,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/anak-purbaya-promosi-crypto-exchange-apakah-platformnya-berizin",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T07:00:33"
@@ -40,10 +40,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-50000-sol-security-contest-did-not-cover-a-clock-attack-disclosed-months-earlier",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-clock-puppet.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T21:00:37"
+  },
+  {
+   "id": 1525,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Gugatan Justin Sun Tetap di Pengadilan Publik",
+   "x": "Hakim federal memutuskan klaim pembekuan token pendiri Tron akan disidangkan di pengadilan federal. Nasib penggugat lain masih dinegosiasikan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376259/justin-sun-world-liberty-fight-public-court",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png",
+   "a": "3 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T19:10:31"
   },
   {
    "id": 1202,
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T19:54:16"
-  },
-  {
-   "id": 1417,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "XRP Catat Pekan Terbaik Sejak Lonjakan Pemilu 2024 Berkat Short Squeeze Bitcoin",
-   "x": "Token XRP mencatat kenaikan harian dan mingguan tertinggi dalam beberapa bulan, didorong oleh likuidasi besar-besaran pada Bitcoin. Namun, data aliran ETF dan futures mengindikasikan momentum ini mungkin tidak berkelanjutan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-gID_7.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T17:46:08"
   },
   {
    "id": 1342,
@@ -130,6 +130,20 @@
    "published_at": "2026-08-19T22:50:35"
   },
   {
+   "id": 1417,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "XRP Catat Pekan Terbaik Sejak Lonjakan Pemilu 2024 Berkat Short Squeeze Bitcoin",
+   "x": "Token XRP mencatat kenaikan harian dan mingguan tertinggi dalam beberapa bulan, didorong oleh likuidasi besar-besaran pada Bitcoin. Namun, data aliran ETF dan futures mengindikasikan momentum ini mungkin tidak berkelanjutan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T17:46:08"
+  },
+  {
    "id": 1296,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -142,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T15:50:58"
-  },
-  {
-   "id": 1446,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Eksekutif CME dan Kalshi Bersitegang Soal Pasar Prediksi di DC",
-   "x": "Pimpinan CME Group dan Kalshi saling berdebat di hadapan regulator AS mengenai pasar prediksi. Perdebatan ini menyoroti ketegangan dalam penetapan standar regulasi untuk produk keuangan inovatif.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T22:32:11"
   },
   {
    "id": 1284,
@@ -200,18 +200,32 @@
    "published_at": "2026-08-20T11:34:53"
   },
   {
-   "id": 1336,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana pangkas batas komputasi per blok demi kecepatan baru",
-   "x": "Solana membatasi kapasitas pemrosesan blok untuk mencegah jaringan kelebihan beban saat meningkatkan kecepatan. Langkah ini penting untuk menjaga stabilitas jaringan di tengah inovasi teknologi.",
+   "id": 1533,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan $11 Juta di Maya Protocol, Likuiditas Terancam",
+   "x": "Sebuah protokol DeFi mengalami kerugian likuiditas senilai $11 juta akibat peretasan, dengan pelaku masih memegang 20,83 BTC. Kerugian yang lebih luas dan dampak pada pengguna belum dirinci.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-speed-rail-shift.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
+   "a": "8 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T20:50:27"
+   "published_at": "2026-08-21T19:05:07"
+  },
+  {
+   "id": 1446,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Eksekutif CME dan Kalshi Bersitegang Soal Pasar Prediksi di DC",
+   "x": "Pimpinan CME Group dan Kalshi saling berdebat di hadapan regulator AS mengenai pasar prediksi. Perdebatan ini menyoroti ketegangan dalam penetapan standar regulasi untuk produk keuangan inovatif.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt_style_kalshi-02-gID_7.png",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T22:32:11"
   },
   {
    "id": 1409,
@@ -226,20 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:53:51"
-  },
-  {
-   "id": 1341,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump sebut AI lebih besar dari internet, dukung regulasi ringan",
-   "x": "Donald Trump memprediksi kecerdasan buatan (AI) akan melampaui internet dan membela pembangunan infrastruktur pendukungnya. Pernyataannya menyoroti potensi besar AI dan pandangannya terhadap regulasi industri teknologi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T21:36:50"
   },
   {
    "id": 1209,
@@ -278,24 +278,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/micron-memory-infrastruktur-strategis-era-ai",
    "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T04:54:24"
   },
   {
-   "id": 1506,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin dapat lindung nilai AI baru, tapi lindungi dari risiko salah",
-   "x": "Penambang Bitcoin kini dapat memanfaatkan kapasitas AI untuk lindung nilai, namun strategi ini mungkin tidak melindungi dari risiko yang sebenarnya. Hal ini penting bagi investor karena menunjukkan adaptasi industri terhadap teknologi baru di tengah tantangan pasar.",
+   "id": 1336,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana pangkas batas komputasi per blok demi kecepatan baru",
+   "x": "Solana membatasi kapasitas pemrosesan blok untuk mencegah jaringan kelebihan beban saat meningkatkan kecepatan. Langkah ini penting untuk menjaga stabilitas jaringan di tengah inovasi teknologi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-speed-rail-shift.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T13:50:11"
+   "published_at": "2026-08-19T20:50:27"
+  },
+  {
+   "id": 1341,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump sebut AI lebih besar dari internet, dukung regulasi ringan",
+   "x": "Donald Trump memprediksi kecerdasan buatan (AI) akan melampaui internet dan membela pembangunan infrastruktur pendukungnya. Pernyataannya menyoroti potensi besar AI dan pandangannya terhadap regulasi industri teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T21:36:50"
   },
   {
    "id": 1208,
@@ -310,20 +324,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T20:45:48"
-  },
-  {
-   "id": 1510,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "XRP hapus sinyal bearish paling kuatnya, koin terkait Ripple terbang",
-   "x": "Token XRP berhasil ditutup di atas dua rata-rata bergerak, menghapus sinyal bearish yang bertahan sejak Agustus. Kenaikan ini menandai pembalikan tren positif bagi koin tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T15:39:02"
   },
   {
    "id": 1272,
@@ -368,18 +368,32 @@
    "published_at": "2026-08-19T21:26:58"
   },
   {
-   "id": 1386,
+   "id": 1506,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin kuasai 77% lonjakan dana kripto $1,3 miliar, BlackRock pimpin pemulihan",
-   "x": "Dana investasi kripto mencatat lonjakan signifikan sebesar $1,3 miliar, dengan Bitcoin mendominasi 77% dari aliran dana tersebut, dipimpin oleh BlackRock. Ini menunjukkan minat institusional yang kuat terhadap Bitcoin di tengah pemulihan pasar.",
+   "t": "Penambang Bitcoin dapat lindung nilai AI baru, tapi lindungi dari risiko salah",
+   "x": "Penambang Bitcoin kini dapat memanfaatkan kapasitas AI untuk lindung nilai, namun strategi ini mungkin tidak melindungi dari risiko yang sebenarnya. Hal ini penting bagi investor karena menunjukkan adaptasi industri terhadap teknologi baru di tengah tantangan pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-grabs-77-of-1-3-billion-crypto-fund-surge-as-blackrock-leads-the-rebound",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-blackrock-capital-wave-.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T10:40:17"
+   "published_at": "2026-08-21T13:50:11"
+  },
+  {
+   "id": 1510,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP hapus sinyal bearish paling kuatnya, koin terkait Ripple terbang",
+   "x": "Token XRP berhasil ditutup di atas dua rata-rata bergerak, menghapus sinyal bearish yang bertahan sejak Agustus. Kenaikan ini menandai pembalikan tren positif bagi koin tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T15:39:02"
   },
   {
    "id": 1509,
@@ -390,24 +404,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher",
    "img": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T15:50:08"
-  },
-  {
-   "id": 1283,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Terduga Dalang Skema Ponzi Kripto Rp2,4 T Dideportasi dari Fiji ke AS",
-   "x": "Seorang pria diduga menjalankan skema ponzi kripto dengan menjanjikan imbal hasil bulanan tinggi, menarik ribuan investor sebelum melarikan diri. Kasus ini menyoroti risiko penipuan dalam investasi aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T11:31:04"
   },
   {
    "id": 1422,
@@ -432,7 +432,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/7-platform-andalan-crypto-degen-buat-hunting-meme-coin-potensial",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T09:00:03"
@@ -452,18 +452,32 @@
    "published_at": "2026-08-19T22:25:37"
   },
   {
-   "id": 1495,
+   "id": 1386,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
-   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
+   "t": "Bitcoin kuasai 77% lonjakan dana kripto $1,3 miliar, BlackRock pimpin pemulihan",
+   "x": "Dana investasi kripto mencatat lonjakan signifikan sebesar $1,3 miliar, dengan Bitcoin mendominasi 77% dari aliran dana tersebut, dipimpin oleh BlackRock. Ini menunjukkan minat institusional yang kuat terhadap Bitcoin di tengah pemulihan pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
-   "a": "6 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-grabs-77-of-1-3-billion-crypto-fund-surge-as-blackrock-leads-the-rebound",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-blackrock-capital-wave-.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T10:43:30"
+   "published_at": "2026-08-20T10:40:17"
+  },
+  {
+   "id": 1283,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Terduga Dalang Skema Ponzi Kripto Rp2,4 T Dideportasi dari Fiji ke AS",
+   "x": "Seorang pria diduga menjalankan skema ponzi kripto dengan menjanjikan imbal hasil bulanan tinggi, menarik ribuan investor sebelum melarikan diri. Kasus ini menyoroti risiko penipuan dalam investasi aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T11:31:04"
   },
   {
    "id": 1413,
@@ -474,24 +488,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:43:58"
-  },
-  {
-   "id": 1487,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance Buka Agen AI untuk Trading Aset Kripto",
-   "x": "Binance meluncurkan fitur yang menghubungkan agen AI seperti ChatGPT ke bursa kriptonya. Fitur ini memungkinkan AI melakukan trading secara otomatis, namun pengguna tetap bertanggung jawab atas pengawasan dana mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T09:31:05"
   },
   {
    "id": 1309,
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-tabrak-batas-terlarang-nasib-reli-kini-dipertaruhkan",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T02:30:07"
@@ -536,18 +536,32 @@
    "published_at": "2026-08-20T04:36:56"
   },
   {
-   "id": 1465,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
-   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
+   "id": 1495,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
+   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "12 jam lalu",
+   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T05:00:12"
+   "published_at": "2026-08-21T10:43:30"
+  },
+  {
+   "id": 1487,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Binance Buka Agen AI untuk Trading Aset Kripto",
+   "x": "Binance meluncurkan fitur yang menghubungkan agen AI seperti ChatGPT ke bursa kriptonya. Fitur ini memungkinkan AI melakukan trading secara otomatis, namun pengguna tetap bertanggung jawab atas pengawasan dana mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T09:31:05"
   },
   {
    "id": 1297,
@@ -564,20 +578,6 @@
    "published_at": "2026-08-19T15:44:09"
   },
   {
-   "id": 1394,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Alat AI Flock Lacak Pengemudi Tanpa Plat Nomor",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T11:31:04"
-  },
-  {
    "id": 1493,
    "k": "pasar",
    "cat": "Pasar",
@@ -586,7 +586,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
    "img": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_1-1200x675.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T10:57:54"
@@ -620,18 +620,32 @@
    "published_at": "2026-08-20T04:32:35"
   },
   {
-   "id": 1304,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Harga Bitcoin sentuh $69.500 karena AS gandakan buyback utang",
-   "x": "Bitcoin dan Ethereum melonjak setelah Departemen Keuangan AS menggandakan rencana pembelian kembali surat utang jangka panjangnya. Kebijakan ini bertujuan menekan imbal hasil jangka panjang dan meningkatkan likuiditas pasar.",
+   "id": 1465,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
+   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T15:37:42"
+   "published_at": "2026-08-21T05:00:12"
+  },
+  {
+   "id": 1394,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Alat AI Flock Lacak Pengemudi Tanpa Plat Nomor",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T11:31:04"
   },
   {
    "id": 1496,
@@ -642,24 +656,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T13:45:13"
-  },
-  {
-   "id": 1427,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitcoin menguat, tapi trader pasar prediksi ragu",
-   "x": "Harga Bitcoin sempat melonjak tajam, mengubah prediksi pasar dari bearish menjadi seimbang. Namun, taruhan jangka panjang masih mengindikasikan potensi penurunan nilai.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T19:16:05"
   },
   {
    "id": 1352,
@@ -698,24 +698,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/microstrategy-hapus-kerugian-2-bulan-saham-kripto",
    "img": "https://assets.beincrypto.com/img/EiNmkZM1mg8ruwUNVsmVjW4CBDc=/smart/0724d54bf4e24ea3b84350cb530a3cb9",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T20:22:50"
   },
   {
-   "id": 1451,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Datavault ingin beli bank senilai $35 juta",
-   "x": "Perusahaan teknologi Datavault berencana mengakuisisi bank dengan pendanaan baru senilai $35 juta. Rencana ini muncul saat perusahaan masih menghadapi peringatan terkait keberlangsungan usahanya.",
+   "id": 1304,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Harga Bitcoin sentuh $69.500 karena AS gandakan buyback utang",
+   "x": "Bitcoin dan Ethereum melonjak setelah Departemen Keuangan AS menggandakan rencana pembelian kembali surat utang jangka panjangnya. Kebijakan ini bertujuan menekan imbal hasil jangka panjang dan meningkatkan likuiditas pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/datavault-wants-to-buy-a-bank-and-fund-it-with-35-million-after-reporting-1-4-million-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/datavault_bankwyse_standard_image.jpg",
-   "a": "17 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T23:30:30"
+   "published_at": "2026-08-19T15:37:42"
+  },
+  {
+   "id": 1427,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitcoin menguat, tapi trader pasar prediksi ragu",
+   "x": "Harga Bitcoin sempat melonjak tajam, mengubah prediksi pasar dari bearish menjadi seimbang. Namun, taruhan jangka panjang masih mengindikasikan potensi penurunan nilai.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T19:16:05"
   },
   {
    "id": 1410,
@@ -730,20 +744,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:43:00"
-  },
-  {
-   "id": 1230,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Debat di X bisa sebabkan lebih banyak konten yang dibenci",
-   "x": "Algoritma X diduga memprioritaskan konten yang memicu perdebatan, berpotensi menampilkan lebih banyak unggahan yang tidak disukai pengguna. Fenomena ini relevan bagi pengguna media sosial di Indonesia yang terpapar dinamika platform global.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/twitter-x-logo-decrypt-style-01.png-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T21:20:04"
   },
   {
    "id": 1271,
@@ -788,18 +788,32 @@
    "published_at": "2026-08-20T10:16:19"
   },
   {
-   "id": 1488,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Aturan Kripto SEC Disebut Tak Sepenuhnya Buka Peluang Wall Street",
-   "x": "Kepala Investasi Bitwise, Matt Hougan, menilai regulasi kripto terbaru dari SEC belum cukup untuk membuka potensi penuh Wall Street. Ia berpendapat hambatan utama bukan pada satu undang-undang spesifik.",
+   "id": 1451,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Datavault ingin beli bank senilai $35 juta",
+   "x": "Perusahaan teknologi Datavault berencana mengakuisisi bank dengan pendanaan baru senilai $35 juta. Rencana ini muncul saat perusahaan masih menghadapi peringatan terkait keberlangsungan usahanya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/secs-latest-crypto-rules-only-open-a-few-of-wall-streets-million-doors-bitwise-cio-matt-hougan",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/wall-street-million-doors.jpg",
-   "a": "7 jam lalu",
+   "url": "https://cryptoslate.com/datavault-wants-to-buy-a-bank-and-fund-it-with-35-million-after-reporting-1-4-million-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/datavault_bankwyse_standard_image.jpg",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T09:29:56"
+   "published_at": "2026-08-20T23:30:30"
+  },
+  {
+   "id": 1230,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Debat di X bisa sebabkan lebih banyak konten yang dibenci",
+   "x": "Algoritma X diduga memprioritaskan konten yang memicu perdebatan, berpotensi menampilkan lebih banyak unggahan yang tidak disukai pengguna. Fenomena ini relevan bagi pengguna media sosial di Indonesia yang terpapar dinamika platform global.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/twitter-x-logo-decrypt-style-01.png-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T21:20:04"
   },
   {
    "id": 1370,
@@ -814,20 +828,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:59:40"
-  },
-  {
-   "id": 1291,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan InsurTech China Zhibao Tambah 2.380 Bitcoin dalam Pergeseran Kas Rp2,3 T",
-   "x": "Perusahaan teknologi asuransi asal Shanghai mengumpulkan dana Rp2,3 triliun dari investor yang menyetor Bitcoin langsung, bukan uang tunai. Langkah ini menunjukkan minat perusahaan tradisional pada aset digital sebagai bagian dari strategi kas mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T13:31:04"
   },
   {
    "id": 1204,

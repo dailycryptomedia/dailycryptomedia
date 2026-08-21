@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morgan-stanley-ethereum-etp-staking-risk",
    "img": "https://assets.beincrypto.com/img/4OOxchTi9lvFBg-JtBV8ZdNyEBg=/smart/23155c933ca94e188a02ccc6f56f8e7d",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T13:06:45"
   },
   {
-   "id": 1465,
+   "id": 1533,
    "k": "defi",
    "cat": "DeFi",
-   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
-   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
+   "t": "Peretasan $11 Juta di Maya Protocol, Likuiditas Terancam",
+   "x": "Sebuah protokol DeFi mengalami kerugian likuiditas senilai $11 juta akibat peretasan, dengan pelaku masih memegang 20,83 BTC. Kerugian yang lebih luas dan dampak pada pengguna belum dirinci.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "12 jam lalu",
+   "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
+   "a": "8 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T05:00:12"
+   "published_at": "2026-08-21T19:05:07"
   },
   {
    "id": 1269,
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Kraken_News-1200x675.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T20:41:44"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T18:20:35"
@@ -88,18 +88,18 @@
    "published_at": "2026-08-19T07:58:05"
   },
   {
-   "id": 1430,
+   "id": 1465,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Eksploitasi MAYAChain senilai $1,36 juta sebabkan kerusakan pool hampir $11 juta",
-   "x": "Transaksi mencurigakan merusak sistem akuntansi pool di MAYAChain, menyebabkan nilai CACAO anjlok 88,7%. Kerusakan ini membebani rencana pemulihan platform.",
+   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
+   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T19:00:51"
+   "published_at": "2026-08-21T05:00:12"
   },
   {
    "id": 1241,
@@ -130,18 +130,18 @@
    "published_at": "2026-08-20T11:34:05"
   },
   {
-   "id": 1524,
+   "id": 1430,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pemegang token Shade hadapi penghancuran permanen tanpa jaminan nilai",
-   "x": "Protokol privasi Shade memberikan tenggat waktu bagi pemegang token SHD untuk melakukan pembakaran token yang bersifat permanen. Tindakan ini tidak menjamin nilai atau alokasi di masa depan, menimbulkan ketidakpastian bagi investor.",
+   "t": "Eksploitasi MAYAChain senilai $1,36 juta sebabkan kerusakan pool hampir $11 juta",
+   "x": "Transaksi mencurigakan merusak sistem akuntansi pool di MAYAChain, menyebabkan nilai CACAO anjlok 88,7%. Kerusakan ini membebani rencana pemulihan platform.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/feather-vault-split.jpg",
-   "a": "58 menit lalu",
+   "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mayachain-exploit-puppet-pools.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T16:16:45"
+   "published_at": "2026-08-20T19:00:51"
   },
   {
    "id": 1266,
@@ -156,6 +156,48 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T08:34:51"
+  },
+  {
+   "id": 1531,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "BounceBit Pindah ke BNB Chain Pasca Peretasan $3 Juta",
+   "x": "Proyek BounceBit akan menghentikan operasional blockchain-nya dan bermigrasi ke BNB Chain setelah mengalami peretasan senilai $3 juta. Pelaku berhasil mentransfer jutaan token BB.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+   "img": "https://www.tbstat.com/wp/uploads/2022/03/20220321_DAO-Generic-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T17:28:34"
+  },
+  {
+   "id": 1524,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pemegang token Shade hadapi penghancuran permanen tanpa jaminan nilai",
+   "x": "Protokol privasi Shade memberikan tenggat waktu bagi pemegang token SHD untuk melakukan pembakaran token yang bersifat permanen. Tindakan ini tidak menjamin nilai atau alokasi di masa depan, menimbulkan ketidakpastian bagi investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/feather-vault-split.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T16:16:45"
+  },
+  {
+   "id": 1246,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "MAYAChain hentikan jaringan usai eksploitasi senilai $1,7 juta",
+   "x": "Peretasan terhadap MAYAChain diduga mengeksploitasi enam celah keamanan berantai, menyebabkan kerugian aset digital senilai $1,7 juta. Insiden ini menyebabkan nilai token CACAO anjlok hampir 89%.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T05:13:54"
   },
   {
    "id": 1218,
@@ -180,24 +222,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sealed-key-risk.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-18T17:50:20"
-  },
-  {
-   "id": 1246,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "MAYAChain hentikan jaringan usai eksploitasi senilai $1,7 juta",
-   "x": "Peretasan terhadap MAYAChain diduga mengeksploitasi enam celah keamanan berantai, menyebabkan kerugian aset digital senilai $1,7 juta. Insiden ini menyebabkan nilai token CACAO anjlok hampir 89%.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T05:13:54"
   },
   {
    "id": 1288,

@@ -1,5 +1,5 @@
 {
- "total": 35,
+ "total": 37,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-kripto-sec-ico-america",
    "img": "https://assets.beincrypto.com/img/H27xaw7ogoUtPUaoX4Q6CtnthLU=/smart/121cd58e84964fb2bfa2f264a2741240",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-18T19:12:52"
+  },
+  {
+   "id": 1525,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Gugatan Justin Sun Tetap di Pengadilan Publik",
+   "x": "Hakim federal memutuskan klaim pembekuan token pendiri Tron akan disidangkan di pengadilan federal. Nasib penggugat lain masih dinegosiasikan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376259/justin-sun-world-liberty-fight-public-court",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png",
+   "a": "3 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T19:10:31"
   },
   {
    "id": 1296,
@@ -46,20 +60,6 @@
    "published_at": "2026-08-19T22:36:38"
   },
   {
-   "id": 1341,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump sebut AI lebih besar dari internet, dukung regulasi ringan",
-   "x": "Donald Trump memprediksi kecerdasan buatan (AI) akan melampaui internet dan membela pembangunan infrastruktur pendukungnya. Pernyataannya menyoroti potensi besar AI dan pandangannya terhadap regulasi industri teknologi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T21:36:50"
-  },
-  {
    "id": 1488,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -68,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/secs-latest-crypto-rules-only-open-a-few-of-wall-streets-million-doors-bitwise-cio-matt-hougan",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/wall-street-million-doors.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T09:29:56"
@@ -102,6 +102,20 @@
    "published_at": "2026-08-19T09:40:10"
   },
   {
+   "id": 1341,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump sebut AI lebih besar dari internet, dukung regulasi ringan",
+   "x": "Donald Trump memprediksi kecerdasan buatan (AI) akan melampaui internet dan membela pembangunan infrastruktur pendukungnya. Pernyataannya menyoroti potensi besar AI dan pandangannya terhadap regulasi industri teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T21:36:50"
+  },
+  {
    "id": 1228,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -130,20 +144,6 @@
    "published_at": "2026-08-18T19:49:12"
   },
   {
-   "id": 1394,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Alat AI Flock Lacak Pengemudi Tanpa Plat Nomor",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T11:31:04"
-  },
-  {
    "id": 1423,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -166,10 +166,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/justin-sun-kemenangan-pengadilan-liberty-dunia-wlfi-lawsuit",
    "img": "https://assets.beincrypto.com/img/2okOBZysTWm99fgy5U2Ea6crNiA=/smart/cf2b03d4a9a94998938a5ddbb476a546",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T22:19:36"
+  },
+  {
+   "id": 1394,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Alat AI Flock Lacak Pengemudi Tanpa Plat Nomor",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T11:31:04"
   },
   {
    "id": 1298,
@@ -200,20 +214,6 @@
    "published_at": "2026-08-18T21:22:47"
   },
   {
-   "id": 1225,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan pengecualian penggalangan dana kripto",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang memungkinkan proyek kripto menggalang dana tanpa registrasi sekuritas penuh. Ini bisa mempermudah penerbitan token baru.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-18T20:00:25"
-  },
-  {
    "id": 1277,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -236,10 +236,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kinetics-fund-ripple-stake-xrp-sec-filing",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T18:05:01"
+  },
+  {
+   "id": 1225,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan pengecualian penggalangan dana kripto",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang memungkinkan proyek kripto menggalang dana tanpa registrasi sekuritas penuh. Ini bisa mempermudah penerbitan token baru.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-18T20:00:25"
   },
   {
    "id": 1287,
@@ -270,20 +284,6 @@
    "published_at": "2026-08-18T19:23:53"
   },
   {
-   "id": 1385,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator perbankan kejar finalisasi aturan stablecoin GENIUS Act",
-   "x": "Regulator perbankan AS berupaya menyelesaikan aturan untuk stablecoin sebelum tenggat waktu Januari. Langkah ini krusial untuk memberikan kepastian regulasi bagi aset digital yang semakin berkembang.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/jonathan-gould-office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T09:31:03"
-  },
-  {
    "id": 1256,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -310,6 +310,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T01:25:07"
+  },
+  {
+   "id": 1527,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump Dorong Kejelasan Regulasi Kripto, SEC dan CFTC Bersiap",
+   "x": "Mantan Presiden AS Donald Trump mendesak anggota parlemen untuk meloloskan RUU kejelasan kripto. Regulator SEC dan CFTC juga bersiap menetapkan aturan mereka sendiri.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T18:06:56"
   },
   {
    "id": 1395,
@@ -340,20 +354,6 @@
    "published_at": "2026-08-20T10:06:46"
   },
   {
-   "id": 1406,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
-   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T13:31:05"
-  },
-  {
    "id": 1403,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -366,6 +366,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T11:55:41"
+  },
+  {
+   "id": 1385,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulator perbankan kejar finalisasi aturan stablecoin GENIUS Act",
+   "x": "Regulator perbankan AS berupaya menyelesaikan aturan untuk stablecoin sebelum tenggat waktu Januari. Langkah ini krusial untuk memberikan kepastian regulasi bagi aset digital yang semakin berkembang.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/jonathan-gould-office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T09:31:03"
   },
   {
    "id": 1319,
@@ -396,20 +410,6 @@
    "published_at": "2026-08-18T19:49:12"
   },
   {
-   "id": 1303,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC beri kejelasan bagi aset kripto",
-   "x": "Regulator sekuritas AS, SEC, mengeluarkan proposal aturan baru yang berpotensi memberikan kejelasan bagi pasar aset kripto. Jika disetujui, aturan ini dapat memicu lonjakan penawaran koin awal (ICO) di Amerika Serikat.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T14:30:24"
-  },
-  {
    "id": 1351,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -422,6 +422,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-19T22:56:35"
+  },
+  {
+   "id": 1406,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
+   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T13:31:05"
   },
   {
    "id": 1332,
@@ -452,6 +466,20 @@
    "published_at": "2026-08-18T19:23:53"
   },
   {
+   "id": 1303,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC beri kejelasan bagi aset kripto",
+   "x": "Regulator sekuritas AS, SEC, mengeluarkan proposal aturan baru yang berpotensi memberikan kejelasan bagi pasar aset kripto. Jika disetujui, aturan ini dapat memicu lonjakan penawaran koin awal (ICO) di Amerika Serikat.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T14:30:24"
+  },
+  {
    "id": 1442,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -460,7 +488,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress",
    "img": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act-1.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T20:56:23"
@@ -488,7 +516,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T05:47:16"
