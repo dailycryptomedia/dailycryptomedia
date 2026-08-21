@@ -1,9 +1,11 @@
 {
  "status": "ok",
- "artikel_total": 1546,
- "artikel_tayang": 984,
+ "artikel_total": 1549,
+ "artikel_tayang": 987,
  "menit_sejak_pengambilan_terakhir": 0,
- "sumber_bermasalah": [],
- "diekspor_pada": "2026-08-21T21:53:12.504314+00:00",
+ "sumber_bermasalah": [
+  "theblock"
+ ],
+ "diekspor_pada": "2026-08-21T22:55:33.190272+00:00",
  "mode": "statis"
 }
