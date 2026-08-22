@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T19:05:07"
+  },
+  {
+   "id": 1582,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Microsoft perbaiki celah keamanan 'Perfect 10' yang bisa dieksploitasi peretas",
+   "x": "Microsoft telah memperbaiki kerentanan keamanan kritis pada produk Entra ID yang berpotensi memungkinkan peretas menjalankan kode dari jarak jauh. Perusahaan menyatakan celah tersebut telah ditutup sebelum diumumkan dan tidak ada bukti eksploitasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png",
+   "a": "13 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-22T17:31:03"
   },
   {
    "id": 1437,
@@ -46,20 +60,6 @@
    "published_at": "2026-08-20T20:41:44"
   },
   {
-   "id": 1324,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Eksploitasi enam bug hentikan Maya Protocol, $1,4 juta Bitcoin dicuri",
-   "x": "Protokol lintas rantai Maya Protocol menghentikan operasinya setelah peretas mencuri $1,4 juta aset digital, termasuk Bitcoin. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem DeFi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T18:20:35"
-  },
-  {
    "id": 1465,
    "k": "defi",
    "cat": "DeFi",
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T05:00:12"
+  },
+  {
+   "id": 1324,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Eksploitasi enam bug hentikan Maya Protocol, $1,4 juta Bitcoin dicuri",
+   "x": "Protokol lintas rantai Maya Protocol menghentikan operasinya setelah peretas mencuri $1,4 juta aset digital, termasuk Bitcoin. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem DeFi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T18:20:35"
   },
   {
    "id": 1393,
@@ -96,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mantra-validator-stop-signal.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T23:10:37"
@@ -110,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
    "img": "https://www.tbstat.com/wp/uploads/2022/03/20220321_DAO-Generic-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T17:28:34"
