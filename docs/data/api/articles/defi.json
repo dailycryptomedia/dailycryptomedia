@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morgan-stanley-ethereum-etp-staking-risk",
    "img": "https://assets.beincrypto.com/img/4OOxchTi9lvFBg-JtBV8ZdNyEBg=/smart/23155c933ca94e188a02ccc6f56f8e7d",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T13:06:45"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T19:05:07"
@@ -102,18 +102,18 @@
    "published_at": "2026-08-21T05:00:12"
   },
   {
-   "id": 1241,
+   "id": 1266,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Dewan akuntansi AS usulkan syarat stablecoin jadi setara kas",
-   "x": "Dewan Standar Akuntansi Keuangan AS (FASB) mengusulkan aturan baru agar stablecoin dapat dikategorikan sebagai setara kas. Ini penting bagi perusahaan yang ingin melaporkan aset digital mereka di neraca.",
+   "t": "Arthur Hayes ambil peran CEO di Flop Labs jelang airdrop Q4",
+   "x": "Arthur Hayes, tokoh ternama di industri kripto, kini menjabat sebagai CEO Flop Labs. Perusahaan ini berencana meluncurkan airdrop besar pada kuartal keempat 2026.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T03:58:13"
+   "published_at": "2026-08-19T08:34:51"
   },
   {
    "id": 1393,
@@ -138,24 +138,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mantra-validator-stop-signal.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T23:10:37"
   },
   {
-   "id": 1266,
+   "id": 1246,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Arthur Hayes ambil peran CEO di Flop Labs jelang airdrop Q4",
-   "x": "Arthur Hayes, tokoh ternama di industri kripto, kini menjabat sebagai CEO Flop Labs. Perusahaan ini berencana meluncurkan airdrop besar pada kuartal keempat 2026.",
+   "t": "MAYAChain hentikan jaringan usai eksploitasi senilai $1,7 juta",
+   "x": "Peretasan terhadap MAYAChain diduga mengeksploitasi enam celah keamanan berantai, menyebabkan kerugian aset digital senilai $1,7 juta. Insiden ini menyebabkan nilai token CACAO anjlok hampir 89%.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T08:34:51"
+   "published_at": "2026-08-19T05:13:54"
   },
   {
    "id": 1531,
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
    "img": "https://www.tbstat.com/wp/uploads/2022/03/20220321_DAO-Generic-1200x675.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T17:28:34"
@@ -186,34 +186,6 @@
    "published_at": "2026-08-20T19:00:51"
   },
   {
-   "id": 1246,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "MAYAChain hentikan jaringan usai eksploitasi senilai $1,7 juta",
-   "x": "Peretasan terhadap MAYAChain diduga mengeksploitasi enam celah keamanan berantai, menyebabkan kerugian aset digital senilai $1,7 juta. Insiden ini menyebabkan nilai token CACAO anjlok hampir 89%.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T05:13:54"
-  },
-  {
-   "id": 1524,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pemegang token Shade hadapi penghancuran permanen tanpa jaminan nilai",
-   "x": "Protokol privasi Shade memberikan tenggat waktu bagi pemegang token SHD untuk melakukan pembakaran token yang bersifat permanen. Tindakan ini tidak menjamin nilai atau alokasi di masa depan, menimbulkan ketidakpastian bagi investor.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/feather-vault-split.jpg",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T16:16:45"
-  },
-  {
    "id": 1288,
    "k": "defi",
    "cat": "DeFi",
@@ -226,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T12:00:00"
+  },
+  {
+   "id": 1524,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pemegang token Shade hadapi penghancuran permanen tanpa jaminan nilai",
+   "x": "Protokol privasi Shade memberikan tenggat waktu bagi pemegang token SHD untuk melakukan pembakaran token yang bersifat permanen. Tindakan ini tidak menjamin nilai atau alokasi di masa depan, menimbulkan ketidakpastian bagi investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/holders-face-permanent-token-destruction-with-no-guarantee-of-value-as-immediate-deadline-looms-for-shades-privacy-protocol",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/feather-vault-split.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T16:16:45"
   },
   {
    "id": 1261,
