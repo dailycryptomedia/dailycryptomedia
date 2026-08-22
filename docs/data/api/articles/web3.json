@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:59:40"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/gnosis-validator-model-retirement.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T08:30:25"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gawat-500-juta-sand-dicetak-secara-misterius-the-sandbox-diduga-kebobolan",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T05:30:33"
@@ -88,18 +88,18 @@
    "published_at": "2026-08-20T16:33:38"
   },
   {
-   "id": 1404,
+   "id": 1561,
    "k": "web3",
    "cat": "Web3",
-   "t": "Fidelity Digital Assets Sebut 6 Risiko untuk Thesis Agen AI Kripto",
-   "x": "Fidelity Digital Assets mengungkap bahwa AI agent mungkin tidak akan terkonsolidasi di blockchain publik, dan menyebut risiko itu sebagai salah satu potensi risiko terbesar bagi tesis AI di sektor aset kripto…",
+   "t": "The Sandbox Berhasil Atasi Eksploitasi Bridge setelah SAND Tanpa Dukungan Dicetak di Base dan BSC",
+   "x": "The Sandbox menyampaikan bahwa mereka telah mengatasi kerentanan di bridge lintas chain SAND pada Base dan BNB Smart Chain setelah seorang penyerang mencetak token tanpa jaminan di kedua jaringan tersebut. Pihak proyek…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/fidelity-grayscale-ai-blockchain-agent-risiko",
-   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/sandbox-sand-bridge-exploit-base-bsc",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "42 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-20T11:54:49"
+   "published_at": "2026-08-22T08:20:49"
   },
   {
    "id": 1397,
@@ -138,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/7-platform-andalan-crypto-degen-buat-hunting-meme-coin-potensial",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T09:00:03"
@@ -156,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T16:01:13"
+  },
+  {
+   "id": 1404,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Fidelity Digital Assets Sebut 6 Risiko untuk Thesis Agen AI Kripto",
+   "x": "Fidelity Digital Assets mengungkap bahwa AI agent mungkin tidak akan terkonsolidasi di blockchain publik, dan menyebut risiko itu sebagai salah satu potensi risiko terbesar bagi tesis AI di sektor aset kripto…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/fidelity-grayscale-ai-blockchain-agent-risiko",
+   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-20T11:54:49"
   },
   {
    "id": 1454,
