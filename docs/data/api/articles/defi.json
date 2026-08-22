@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T19:05:07"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:31:03"
@@ -74,20 +74,6 @@
    "published_at": "2026-08-21T05:00:12"
   },
   {
-   "id": 1324,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Eksploitasi enam bug hentikan Maya Protocol, $1,4 juta Bitcoin dicuri",
-   "x": "Protokol lintas rantai Maya Protocol menghentikan operasinya setelah peretas mencuri $1,4 juta aset digital, termasuk Bitcoin. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem DeFi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T18:20:35"
-  },
-  {
    "id": 1393,
    "k": "defi",
    "cat": "DeFi",
@@ -110,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mantra-validator-stop-signal.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T23:10:37"
