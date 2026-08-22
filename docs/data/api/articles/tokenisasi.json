@@ -1,5 +1,5 @@
 {
- "total": 28,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher",
    "img": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T15:50:08"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bos-binance-sebut-tokenisasi-bakal-ubah-dunia-investasi",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T06:00:47"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T16:24:24"
@@ -88,18 +88,18 @@
    "published_at": "2026-08-20T20:22:50"
   },
   {
-   "id": 1304,
+   "id": 1562,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Harga Bitcoin sentuh $69.500 karena AS gandakan buyback utang",
-   "x": "Bitcoin dan Ethereum melonjak setelah Departemen Keuangan AS menggandakan rencana pembelian kembali surat utang jangka panjangnya. Kebijakan ini bertujuan menekan imbal hasil jangka panjang dan meningkatkan likuiditas pasar.",
+   "t": "Treasury tetapkan batas waktu stablecoin luar negeri akses pelanggan AS",
+   "x": "Departemen Keuangan AS mengusulkan aturan yang membatasi penyedia layanan aset digital untuk menawarkan stablecoin pembayaran kepada pelanggan di Amerika Serikat mulai 18 Juli 2028. Aturan ini dapat memengaruhi akses stablecoin offshore ke pasar AS.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bull-treasury.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-menu-filter.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T15:37:42"
+   "published_at": "2026-08-22T08:35:21"
   },
   {
    "id": 1331,
@@ -144,62 +144,6 @@
    "published_at": "2026-08-20T10:08:12"
   },
   {
-   "id": 1300,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Treasury Baru Saja Membuat Batas di 5,3%, dan Bitcoin Langsung Merespons",
-   "x": "Departemen Keuangan menggandakan pembelian kembali surat utang jangka panjang setelah yield 30 tahun mencapai 5,34%. Yield turun seiring Bitcoin menembus USD65.000.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pembelian-kembali-treasury-imbal-hasil-30-tahun-bitcoin",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-19T14:48:33"
-  },
-  {
-   "id": 1562,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Treasury tetapkan batas waktu stablecoin luar negeri akses pelanggan AS",
-   "x": "Departemen Keuangan AS mengusulkan aturan yang membatasi penyedia layanan aset digital untuk menawarkan stablecoin pembayaran kepada pelanggan di Amerika Serikat mulai 18 Juli 2028. Aturan ini dapat memengaruhi akses stablecoin offshore ke pasar AS.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-menu-filter.jpg",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-22T08:35:21"
-  },
-  {
-   "id": 1307,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "StanChart, HSBC uji coba transaksi di blockchain Swift",
-   "x": "Dua bank besar berhasil melakukan transaksi lintas batas menggunakan sistem token deposit terhubung melalui ledger Swift. Ini adalah langkah maju menuju pembayaran lintas batas yang lebih efisien dan tersedia setiap saat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T16:30:12"
-  },
-  {
-   "id": 1320,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "OCC percepat finalisasi aturan stablecoin GENIUS Act November",
-   "x": "Kantor Pengawas Mata Uang (OCC) AS berupaya menyelesaikan aturan implementasi undang-undang stablecoin pada November. Undang-undang ini telah ditandatangani oleh Presiden Trump.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
-   "img": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T17:03:52"
-  },
-  {
    "id": 1475,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -222,38 +166,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/adam-backs-bitcoin-treasury-deal-died-but-its-15m-obligation-did-not",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bstr_standard_image.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T07:00:55"
   },
   {
-   "id": 1519,
+   "id": 1307,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Reli Bitcoin dorong saham kripto, termasuk perusahaan penambangan",
-   "x": "Kenaikan harga Bitcoin di atas $79.000 turut mendongkrak saham perusahaan terkait aset kripto, terutama sektor penambangan dan perusahaan yang menyimpan Bitcoin. Hal ini mencerminkan korelasi positif antara pergerakan harga Bitcoin dan kinerja saham perusahaan kripto.",
+   "t": "StanChart, HSBC uji coba transaksi di blockchain Swift",
+   "x": "Dua bank besar berhasil melakukan transaksi lintas batas menggunakan sistem token deposit terhubung melalui ledger Swift. Ini adalah langkah maju menuju pembayaran lintas batas yang lebih efisien dan tersedia setiap saat.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
-   "a": "23 jam lalu",
+   "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T16:11:07"
+   "published_at": "2026-08-19T16:30:12"
   },
   {
-   "id": 1470,
+   "id": 1320,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Shinhan Korea Selatan gandeng Solana, Etherfuse, Orca untuk terbitkan dana tokenisasi",
-   "x": "Bank Shinhan Korea Selatan menjalin kemitraan dengan Solana Foundation, Etherfuse, dan Orca untuk uji coba penerbitan dan distribusi dana yang ditokenisasi. Langkah ini menunjukkan minat institusi keuangan pada aset digital.",
+   "t": "OCC percepat finalisasi aturan stablecoin GENIUS Act November",
+   "x": "Kantor Pengawas Mata Uang (OCC) AS berupaya menyelesaikan aturan implementasi undang-undang stablecoin pada November. Undang-undang ini telah ditandatangani oleh Presiden Trump.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
-   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
+   "img": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T06:32:48"
+   "published_at": "2026-08-19T17:03:52"
   },
   {
    "id": 1462,
@@ -278,38 +222,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trump-backed-4-billion-usd1-stablecoin-has-wallet-powers-its-own-github-does-not-show",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usd1-balance-control-risk.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T21:55:39"
   },
   {
-   "id": 1371,
+   "id": 1519,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "BitGo Korea raih registrasi VASP untuk kustodian kripto institusi",
-   "x": "BitGo Korea dilaporkan telah mendapatkan registrasi sebagai penyedia layanan aset virtual (VASP) dari regulator. Ini memungkinkannya menyediakan layanan kustodian aset digital untuk investor institusi.",
+   "t": "Reli Bitcoin dorong saham kripto, termasuk perusahaan penambangan",
+   "x": "Kenaikan harga Bitcoin di atas $79.000 turut mendongkrak saham perusahaan terkait aset kripto, terutama sektor penambangan dan perusahaan yang menyimpan Bitcoin. Hal ini mencerminkan korelasi positif antara pergerakan harga Bitcoin dan kinerja saham perusahaan kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T07:48:40"
-  },
-  {
-   "id": 1438,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Eksekutif Ondo: tokenisasi ikuti jejak ETF awal",
-   "x": "Seorang eksekutif Ondo membandingkan perkembangan tokenisasi aset dunia nyata dengan awal mula ETF. Perusahaan berharap undang-undang baru di AS dapat membuka jalan bagi penawaran produk tokenisasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/20230216_Ondo-1200x675.jpg",
+   "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T17:53:38"
+   "published_at": "2026-08-21T16:11:07"
+  },
+  {
+   "id": 1470,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Shinhan Korea Selatan gandeng Solana, Etherfuse, Orca untuk terbitkan dana tokenisasi",
+   "x": "Bank Shinhan Korea Selatan menjalin kemitraan dengan Solana Foundation, Etherfuse, dan Orca untuk uji coba penerbitan dan distribusi dana yang ditokenisasi. Langkah ini menunjukkan minat institusi keuangan pada aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T06:32:48"
   },
   {
    "id": 1361,
@@ -338,6 +282,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T20:00:46"
+  },
+  {
+   "id": 1371,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "BitGo Korea raih registrasi VASP untuk kustodian kripto institusi",
+   "x": "BitGo Korea dilaporkan telah mendapatkan registrasi sebagai penyedia layanan aset virtual (VASP) dari regulator. Ini memungkinkannya menyediakan layanan kustodian aset digital untuk investor institusi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T07:48:40"
+  },
+  {
+   "id": 1438,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Eksekutif Ondo: tokenisasi ikuti jejak ETF awal",
+   "x": "Seorang eksekutif Ondo membandingkan perkembangan tokenisasi aset dunia nyata dengan awal mula ETF. Perusahaan berharap undang-undang baru di AS dapat membuka jalan bagi penawaran produk tokenisasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20230216_Ondo-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T17:53:38"
   },
   {
    "id": 1458,
@@ -380,20 +352,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T18:15:06"
-  },
-  {
-   "id": 1306,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Taruhan kas negara Metaplanet di Bitcoin AS bisa capai $3,4 miliar",
-   "x": "Metaplanet berpotensi mendapatkan hingga $3,4 miliar dari taruhan kas negara di Bitcoin AS. Namun, sebagian besar dana bergantung pada pelaksanaan waran dan hak preferensial di masa depan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/metaplanets-us-bitcoin-treasury-bet-could-unlock-up-to-3-4-billion-but-theres-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/metaplanet-bitcoin-takeover.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T14:20:36"
   }
  ]
 }

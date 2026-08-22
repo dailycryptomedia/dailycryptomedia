@@ -1,5 +1,5 @@
 {
- "total": 121,
+ "total": 120,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T15:53:51"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T13:31:03"
@@ -130,18 +130,18 @@
    "published_at": "2026-08-19T20:50:27"
   },
   {
-   "id": 1297,
+   "id": 1496,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Harga Bitcoin capai rekor 11 minggu seiring AS gandakan buyback utang",
-   "x": "Harga Bitcoin menguat bersama saham AS setelah Departemen Keuangan AS mengumumkan akan menggandakan operasi pembelian kembali surat utangnya. Langkah ini memicu optimisme pasar terhadap aset berisiko.",
+   "t": "Solana pangkas waktu slot blockchain menjadi 350 milidetik",
+   "x": "Solana berhasil mengurangi waktu slot blockchain menjadi 350 milidetik, mendekati target 200 milidetik untuk mengurangi latensi jaringan. Inovasi ini krusial bagi investor karena dapat meningkatkan efisiensi dan kecepatan transaksi di jaringan Solana.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T15:44:09"
+   "published_at": "2026-08-21T13:45:13"
   },
   {
    "id": 1446,
@@ -180,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-xrp-siap-lepas-landas-pola-ini-pernah-picu-reli-brutal",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T02:30:09"
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-mirip-moderna-tiga-nama-cocok",
    "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T22:14:05"
@@ -208,24 +208,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-hits-80000s-doorstep-just-as-the-etf-bid-disappears-for-the-weekend",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-weekend-market-blackout.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T09:45:03"
   },
   {
-   "id": 1496,
+   "id": 1410,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Solana pangkas waktu slot blockchain menjadi 350 milidetik",
-   "x": "Solana berhasil mengurangi waktu slot blockchain menjadi 350 milidetik, mendekati target 200 milidetik untuk mengurangi latensi jaringan. Inovasi ini krusial bagi investor karena dapat meningkatkan efisiensi dan kecepatan transaksi di jaringan Solana.",
+   "t": "Optimism alihkan 546,9 juta OP dari airdrop ke dana pertumbuhan ekosistem",
+   "x": "Token OP yang sebelumnya dialokasikan untuk airdrop kini diarahkan untuk kemitraan dan insentif guna mendorong pertumbuhan ekosistem Optimism. Langkah ini merupakan hasil dari pemungutan suara tata kelola.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T13:45:13"
+   "published_at": "2026-08-20T15:43:00"
   },
   {
    "id": 1510,
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-aster-bersiap-keluar-dari-zona-mati-ath-baru-menanti",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T04:00:17"
@@ -298,18 +298,18 @@
    "published_at": "2026-08-19T17:35:32"
   },
   {
-   "id": 1410,
+   "id": 1318,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Optimism alihkan 546,9 juta OP dari airdrop ke dana pertumbuhan ekosistem",
-   "x": "Token OP yang sebelumnya dialokasikan untuk airdrop kini diarahkan untuk kemitraan dan insentif guna mendorong pertumbuhan ekosistem Optimism. Langkah ini merupakan hasil dari pemungutan suara tata kelola.",
+   "t": "FalconX dan Ethena bawa aset pendukung USDe ke fasilitas kredit institusional $1 miliar",
+   "x": "Ethena dan FalconX mengintegrasikan aset pendukung stablecoin USDe ke dalam fasilitas kredit institusional senilai $1 miliar. Langkah ini memperluas sumber imbal hasil Ethena di luar strategi basis kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
+   "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T15:43:00"
+   "published_at": "2026-08-19T17:34:10"
   },
   {
    "id": 1487,
@@ -348,7 +348,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-22-agustus-2026-ena-dash-bch-zec-dan-flr-mulai-unjuk-taring",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T02:00:10"
@@ -382,18 +382,18 @@
    "published_at": "2026-08-20T13:20:09"
   },
   {
-   "id": 1318,
+   "id": 1432,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "FalconX dan Ethena bawa aset pendukung USDe ke fasilitas kredit institusional $1 miliar",
-   "x": "Ethena dan FalconX mengintegrasikan aset pendukung stablecoin USDe ke dalam fasilitas kredit institusional senilai $1 miliar. Langkah ini memperluas sumber imbal hasil Ethena di luar strategi basis kripto.",
+   "t": "Binance buka trading kripto untuk agen AI dengan kontrol pengguna",
+   "x": "Binance meluncurkan Agent OS yang memungkinkan agen AI melakukan trading dan pembayaran aset kripto. Fitur ini memberikan kontrol penuh kepada pengguna atas izin dan akses akun mereka.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T17:34:10"
+   "published_at": "2026-08-20T20:26:28"
   },
   {
    "id": 1427,
@@ -466,18 +466,18 @@
    "published_at": "2026-08-21T15:00:32"
   },
   {
-   "id": 1432,
+   "id": 1492,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Binance buka trading kripto untuk agen AI dengan kontrol pengguna",
-   "x": "Binance meluncurkan Agent OS yang memungkinkan agen AI melakukan trading dan pembayaran aset kripto. Fitur ini memberikan kontrol penuh kepada pengguna atas izin dan akses akun mereka.",
+   "t": "Coldcard perkuat generasi seed phrase dengan pembaruan firmware",
+   "x": "Coinkite mengimbau pengguna Coldcard untuk membuat seed phrase baru karena yang lama masih berisiko meski ada pembaruan keamanan. Pengguna disarankan untuk segera memindahkan aset ke dompet dengan seed phrase yang aman.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png",
+   "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T20:26:28"
+   "published_at": "2026-08-21T10:13:23"
   },
   {
    "id": 1347,
@@ -502,7 +502,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-1200x675.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T21:34:53"
@@ -530,7 +530,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/zcash-harga-tertinggi-8-tahun-grayscale-etf",
    "img": "https://assets.beincrypto.com/img/zLyxewepxHxdYI3zm6f-Z9m4AeU=/smart/f76a8352ebff49dcb9d1ed1861eb1b6c",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T09:17:46"
@@ -550,18 +550,18 @@
    "published_at": "2026-08-19T21:55:42"
   },
   {
-   "id": 1492,
+   "id": 1518,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Coldcard perkuat generasi seed phrase dengan pembaruan firmware",
-   "x": "Coinkite mengimbau pengguna Coldcard untuk membuat seed phrase baru karena yang lama masih berisiko meski ada pembaruan keamanan. Pengguna disarankan untuk segera memindahkan aset ke dompet dengan seed phrase yang aman.",
+   "t": "Digital Asset dan yayasan Paul Ryan uji coba manfaat negara AS dengan Canton",
+   "x": "Program RISE akan menggunakan Canton Network untuk mendistribusikan manfaat negara di tiga negara bagian AS mulai 2027. Inisiatif ini menunjukkan potensi blockchain dalam menyederhanakan administrasi publik dan penyaluran bantuan sosial.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet-1.jpg",
+   "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T10:13:23"
+   "published_at": "2026-08-21T16:25:29"
   },
   {
    "id": 1428,
@@ -614,7 +614,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nvidia-saham-beruntun-rugi-earnings",
    "img": "https://assets.beincrypto.com/img/4-YUWZyKoM2j98xSEkXFF42HRFc=/smart/11dc3e55665d4a84b50631392b69839c",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T22:10:03"
@@ -628,24 +628,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/illuvium-says-six-months-of-cuts-bought-it-another-year-as-mmo-becomes-its-main-remaining-bet",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illuvium_standard_image.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T04:00:09"
   },
   {
-   "id": 1518,
+   "id": 1322,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Digital Asset dan yayasan Paul Ryan uji coba manfaat negara AS dengan Canton",
-   "x": "Program RISE akan menggunakan Canton Network untuk mendistribusikan manfaat negara di tiga negara bagian AS mulai 2027. Inisiatif ini menunjukkan potensi blockchain dalam menyederhanakan administrasi publik dan penyaluran bantuan sosial.",
+   "t": "PAC kripto menang primer, tapi kalah di lomba Florida senilai $2 juta",
+   "x": "Sebuah Political Action Committee (PAC) yang mendukung industri kripto meraih kemenangan dalam pemilihan primer di AS. Namun, PAC ini juga mengalami kekalahan dalam pemilihan di Florida yang menghabiskan dana besar, menunjukkan tantangan dalam upaya melobi anggota parlemen.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
-   "a": "23 jam lalu",
+   "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto-2.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T16:25:29"
+   "published_at": "2026-08-19T18:48:58"
   },
   {
    "id": 1334,
@@ -718,18 +718,18 @@
    "published_at": "2026-08-19T18:40:46"
   },
   {
-   "id": 1322,
+   "id": 1498,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "PAC kripto menang primer, tapi kalah di lomba Florida senilai $2 juta",
-   "x": "Sebuah Political Action Committee (PAC) yang mendukung industri kripto meraih kemenangan dalam pemilihan primer di AS. Namun, PAC ini juga mengalami kekalahan dalam pemilihan di Florida yang menghabiskan dana besar, menunjukkan tantangan dalam upaya melobi anggota parlemen.",
+   "t": "Binance: karyawan di UE telah diperiksa dan dibebaskan",
+   "x": "Karyawan Binance di Uni Emirat Arab telah diperiksa dan dibebaskan setelah memberikan keterangan mengenai aliran dana pihak ketiga. Kejadian ini penting bagi investor karena menunjukkan upaya Binance dalam menjaga kepatuhan dan transparansi operasional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto-2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T18:48:58"
+   "published_at": "2026-08-21T12:48:04"
   },
   {
    "id": 1312,
@@ -788,32 +788,32 @@
    "published_at": "2026-08-19T21:06:40"
   },
   {
-   "id": 1337,
+   "id": 1581,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pemegang Bitcoin hadapi potensi pembekuan bursa saat peluncuran rantai baru",
-   "x": "Peluncuran rantai baru pada jaringan Bitcoin berpotensi menyebabkan pembekuan sementara di bursa aset kripto. Hal ini dilakukan untuk menguji keamanan dan stabilitas pasar selama transisi.",
+   "t": "Pemungutan suara tata kelola Solana pertama mendekat dengan kesalahan tampilan kuorum 60%",
+   "x": "Kesalahan teknis pada tampilan kuorum pemungutan suara tata kelola pertama Solana terdeteksi. Perbaikan sedang disiapkan sebelum epoch 1021 untuk memastikan integritas proses.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-holders-face-potential-exchange-freezes-as-new-chain-rollout-tests-replay-safety-and-market-stability",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/gmo-bitcoin-service-freeze.jpg",
+   "url": "https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-vote-quorum-screen.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-22T15:45:50"
+  },
+  {
+   "id": 1366,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "HYPE melonjak 20% usai Trump sinyal jalur legal AS untuk Hyperliquid",
+   "x": "Token HYPE melonjak 20% setelah Donald Trump menyatakan Komisi Perdagangan Berjangka Komoditas AS (CFTC) sedang mengupayakan akses patuh regulasi untuk Hyperliquid. Perkembangan ini memicu optimisme di pasar aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-s-general-information-about-hyperliquid-mission.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-19T19:45:09"
-  },
-  {
-   "id": 1498,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance: karyawan di UE telah diperiksa dan dibebaskan",
-   "x": "Karyawan Binance di Uni Emirat Arab telah diperiksa dan dibebaskan setelah memberikan keterangan mengenai aliran dana pihak ketiga. Kejadian ini penting bagi investor karena menunjukkan upaya Binance dalam menjaga kepatuhan dan transparansi operasional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T12:48:04"
+   "published_at": "2026-08-20T05:52:30"
   },
   {
    "id": 1405,
