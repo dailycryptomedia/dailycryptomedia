@@ -1,5 +1,5 @@
 {
- "total": 63,
+ "total": 64,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-08-20T06:00:38"
   },
   {
+   "id": 1590,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Validasi instan Bitcoin 27ms butuh 17 tahun komputasi GPU",
+   "x": "Pengembang Hazync melaporkan verifikasi blok dalam milidetik, namun kampanye pembuktian seluruh rantai belum selesai. Ini menunjukkan potensi peningkatan kecepatan validasi di jaringan Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/reaching-instant-27ms-validation-on-bitcoin-will-take-17-gpu-years-of-compute-power",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-stopwatch-gpu.jpg",
+   "a": "7 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-22T20:45:15"
+  },
+  {
    "id": 1417,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:46:08"
-  },
-  {
-   "id": 1506,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin dapat lindung nilai AI baru, tapi lindungi dari risiko salah",
-   "x": "Penambang Bitcoin kini dapat memanfaatkan kapasitas AI untuk lindung nilai, namun strategi ini mungkin tidak melindungi dari risiko yang sebenarnya. Hal ini penting bagi investor karena menunjukkan adaptasi industri terhadap teknologi baru di tengah tantangan pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T13:50:11"
   },
   {
    "id": 1413,
@@ -116,6 +116,20 @@
    "published_at": "2026-08-20T02:30:40"
   },
   {
+   "id": 1506,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penambang Bitcoin dapat lindung nilai AI baru, tapi lindungi dari risiko salah",
+   "x": "Penambang Bitcoin kini dapat memanfaatkan kapasitas AI untuk lindung nilai, namun strategi ini mungkin tidak melindungi dari risiko yang sebenarnya. Hal ini penting bagi investor karena menunjukkan adaptasi industri terhadap teknologi baru di tengah tantangan pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T13:50:11"
+  },
+  {
    "id": 1577,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -124,24 +138,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T15:31:04"
-  },
-  {
-   "id": 1569,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin anjlok, Riot Platforms terpaksa jamin 1.825 BTC",
-   "x": "Penurunan harga Bitcoin memaksa Riot Platforms menambah 1.825 BTC sebagai jaminan pinjaman $200 juta. Lonjakan harga saat ini berpotensi membebaskan kembali 1.500 BTC dari jaminan tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-crash-forced-riot-to-pledge-1825-btc-but-this-huge-rally-may-now-free-1500-btc",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/riot-bitcoin-collateral-release.jpg",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-22T10:50:30"
   },
   {
    "id": 1538,
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T20:26:16"
@@ -180,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/inflow-etf-bitcoin-ethereum-tertinggi-oktober",
    "img": "https://assets.beincrypto.com/img/pon3dfo6AVm_sR5b6pPjQgH7ZKc=/smart/2107838830124092abb733c06131136b",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T18:32:04"
@@ -200,6 +200,20 @@
    "published_at": "2026-08-21T02:30:07"
   },
   {
+   "id": 1569,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin anjlok, Riot Platforms terpaksa jamin 1.825 BTC",
+   "x": "Penurunan harga Bitcoin memaksa Riot Platforms menambah 1.825 BTC sebagai jaminan pinjaman $200 juta. Lonjakan harga saat ini berpotensi membebaskan kembali 1.500 BTC dari jaminan tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-crash-forced-riot-to-pledge-1825-btc-but-this-huge-rally-may-now-free-1500-btc",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/riot-bitcoin-collateral-release.jpg",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-22T10:50:30"
+  },
+  {
    "id": 1546,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -208,24 +222,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T21:31:05"
-  },
-  {
-   "id": 1386,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin kuasai 77% lonjakan dana kripto $1,3 miliar, BlackRock pimpin pemulihan",
-   "x": "Dana investasi kripto mencatat lonjakan signifikan sebesar $1,3 miliar, dengan Bitcoin mendominasi 77% dari aliran dana tersebut, dipimpin oleh BlackRock. Ini menunjukkan minat institusional yang kuat terhadap Bitcoin di tengah pemulihan pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-grabs-77-of-1-3-billion-crypto-fund-surge-as-blackrock-leads-the-rebound",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-blackrock-capital-wave-.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T10:40:17"
   },
   {
    "id": 1388,
@@ -264,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/elon-musk-bitcoin-tanpa-mencekik-leher",
    "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T23:00:00"
@@ -284,6 +284,20 @@
    "published_at": "2026-08-21T06:00:23"
   },
   {
+   "id": 1386,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin kuasai 77% lonjakan dana kripto $1,3 miliar, BlackRock pimpin pemulihan",
+   "x": "Dana investasi kripto mencatat lonjakan signifikan sebesar $1,3 miliar, dengan Bitcoin mendominasi 77% dari aliran dana tersebut, dipimpin oleh BlackRock. Ini menunjukkan minat institusional yang kuat terhadap Bitcoin di tengah pemulihan pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-grabs-77-of-1-3-billion-crypto-fund-surge-as-blackrock-leads-the-rebound",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-blackrock-capital-wave-.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T10:40:17"
+  },
+  {
    "id": 1418,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -296,20 +310,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T17:12:43"
-  },
-  {
-   "id": 1495,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
-   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T10:43:30"
   },
   {
    "id": 1536,
@@ -348,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-rsi-tujuh-tahun-tertinggi-zona-risiko",
    "img": "https://assets.beincrypto.com/img/_LxIiFoKiD15fzk0vYeJaT_0o68=/smart/364b74c4371f4f48a1664ddd3735d50d",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T14:52:18"
@@ -368,6 +368,20 @@
    "published_at": "2026-08-20T09:00:15"
   },
   {
+   "id": 1495,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
+   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T10:43:30"
+  },
+  {
    "id": 1540,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -376,24 +390,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T20:07:05"
-  },
-  {
-   "id": 1541,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Defisit modal $22,9 juta ancam pivot perusahaan energi ke mining Bitcoin off-grid",
-   "x": "Sebuah perusahaan energi menghadapi tantangan finansial signifikan dalam upayanya beralih ke penambangan Bitcoin terdesentralisasi. Defisit modal yang besar dapat menghambat rencana strategis ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-22-9-million-capital-deficit-threatens-to-derail-an-energy-firms-pivot-to-off-grid-bitcoin-mining",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/olenox-miner-debt-squeeze.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T20:30:07"
   },
   {
    "id": 1414,
@@ -432,10 +432,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-bull-score-tembus-60-mungkinkah-btc-naik-ke-us82-000",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T07:00:17"
+  },
+  {
+   "id": 1541,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Defisit modal $22,9 juta ancam pivot perusahaan energi ke mining Bitcoin off-grid",
+   "x": "Sebuah perusahaan energi menghadapi tantangan finansial signifikan dalam upayanya beralih ke penambangan Bitcoin terdesentralisasi. Defisit modal yang besar dapat menghambat rencana strategis ini.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-22-9-million-capital-deficit-threatens-to-derail-an-energy-firms-pivot-to-off-grid-bitcoin-mining",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/olenox-miner-debt-squeeze.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T20:30:07"
   },
   {
    "id": 1511,
@@ -450,20 +464,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T14:57:28"
-  },
-  {
-   "id": 1368,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tunjukkan 8 sinyal kapitulasi, trader lindungi dari kejatuhan",
-   "x": "Bitcoin menunjukkan sinyal kapitulasi terkuat dalam penurunan saat ini, mengindikasikan fase akhir penjualan meskipun pemulihan belum terlihat. Trader menghabiskan US$552 juta untuk melindungi dari potensi kejatuhan lebih lanjut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-flashes-8-capitulation-signals-but-traders-just-spent-552-million-protecting-against-another-crash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-capitulation-risk-hedge.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T07:00:01"
   },
   {
    "id": 1441,
@@ -494,6 +494,20 @@
    "published_at": "2026-08-21T18:01:15"
   },
   {
+   "id": 1368,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tunjukkan 8 sinyal kapitulasi, trader lindungi dari kejatuhan",
+   "x": "Bitcoin menunjukkan sinyal kapitulasi terkuat dalam penurunan saat ini, mengindikasikan fase akhir penjualan meskipun pemulihan belum terlihat. Trader menghabiskan US$552 juta untuk melindungi dari potensi kejatuhan lebih lanjut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-flashes-8-capitulation-signals-but-traders-just-spent-552-million-protecting-against-another-crash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-capitulation-risk-hedge.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T07:00:01"
+  },
+  {
    "id": 1335,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -506,20 +520,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-19T19:51:11"
-  },
-  {
-   "id": 1523,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "AS perluas kasus peretasan terkait Iran ke 17 terdakwa",
-   "x": "Departemen Kehakiman AS mendakwa 17 orang dalam kasus peretasan yang terkait dengan Iran, termasuk upaya pemerasan terhadap HBO senilai $6 juta menggunakan Bitcoin. Kasus ini menyoroti risiko keamanan siber yang dihadapi perusahaan besar terkait aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-expands-iran-linked-hacking-case-to-17-defendants-over-hbos-6-million-bitcoin-ransom-plot",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/iran-hacker-doj-case.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T16:45:42"
   },
   {
    "id": 1499,
@@ -550,6 +550,20 @@
    "published_at": "2026-08-20T22:41:36"
   },
   {
+   "id": 1523,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "AS perluas kasus peretasan terkait Iran ke 17 terdakwa",
+   "x": "Departemen Kehakiman AS mendakwa 17 orang dalam kasus peretasan yang terkait dengan Iran, termasuk upaya pemerasan terhadap HBO senilai $6 juta menggunakan Bitcoin. Kasus ini menyoroti risiko keamanan siber yang dihadapi perusahaan besar terkait aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/us-expands-iran-linked-hacking-case-to-17-defendants-over-hbos-6-million-bitcoin-ransom-plot",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/iran-hacker-doj-case.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T16:45:42"
+  },
+  {
    "id": 1528,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -562,20 +576,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T17:28:55"
-  },
-  {
-   "id": 1349,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tembus $69.000 bergantung pada imbal hasil pasca peringatan The Fed",
-   "x": "Kenaikan Bitcoin ke level $70.000 dipicu oleh buyback obligasi AS yang menekan imbal hasil dan memicu likuidasi posisi short. Pergerakan ini menunjukkan korelasi erat antara pasar aset digital dan kebijakan moneter AS.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-69000-breakout-now-hinges-on-yields-after-fed-warns-more-tightening-may-be-needed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_treasury_buybacks_standard_image.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-19T22:20:38"
   },
   {
    "id": 1411,
@@ -606,6 +606,20 @@
    "published_at": "2026-08-21T08:20:04"
   },
   {
+   "id": 1349,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tembus $69.000 bergantung pada imbal hasil pasca peringatan The Fed",
+   "x": "Kenaikan Bitcoin ke level $70.000 dipicu oleh buyback obligasi AS yang menekan imbal hasil dan memicu likuidasi posisi short. Pergerakan ini menunjukkan korelasi erat antara pasar aset digital dan kebijakan moneter AS.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-69000-breakout-now-hinges-on-yields-after-fed-warns-more-tightening-may-be-needed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_treasury_buybacks_standard_image.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-19T22:20:38"
+  },
+  {
    "id": 1420,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -620,20 +634,6 @@
    "published_at": "2026-08-20T16:04:04"
   },
   {
-   "id": 1445,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin Ini Teken Kesepakatan AI Senilai $350 Juta, Butuh Dana Tambahan",
-   "x": "Sebuah perusahaan penambangan Bitcoin mengumumkan kesepakatan besar di bidang kecerdasan buatan, namun membutuhkan pendanaan signifikan untuk merealisasikannya. Hal ini menunjukkan tantangan finansial dalam ekspansi bisnis aset digital ke sektor teknologi baru.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/this-bitcoin-miner-just-signed-a-350-million-ai-deal-but-it-needs-185-million-to-make-it-work",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hive-ai-hardhat-buildout.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T22:15:15"
-  },
-  {
    "id": 1539,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -642,7 +642,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis",
    "img": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T20:00:47"
@@ -662,6 +662,20 @@
    "published_at": "2026-08-21T03:37:44"
   },
   {
+   "id": 1445,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penambang Bitcoin Ini Teken Kesepakatan AI Senilai $350 Juta, Butuh Dana Tambahan",
+   "x": "Sebuah perusahaan penambangan Bitcoin mengumumkan kesepakatan besar di bidang kecerdasan buatan, namun membutuhkan pendanaan signifikan untuk merealisasikannya. Hal ini menunjukkan tantangan finansial dalam ekspansi bisnis aset digital ke sektor teknologi baru.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/this-bitcoin-miner-just-signed-a-350-million-ai-deal-but-it-needs-185-million-to-make-it-work",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hive-ai-hardhat-buildout.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T22:15:15"
+  },
+  {
    "id": 1522,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -674,20 +688,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T16:29:01"
-  },
-  {
-   "id": 1353,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Hyperscale Bitcoin treasury jual 686 BTC untuk lunasi pinjaman",
-   "x": "Perusahaan ini menjual sebagian besar aset Bitcoinnya untuk melunasi pinjaman, namun mengakui kas yang tersisa tidak cukup untuk operasional 12 bulan ke depan. Hal ini mengindikasikan potensi kesulitan keuangan yang berkelanjutan bagi perusahaan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-treasury-hyperscale-sells-686-btc-to-clear-loans-but-says-cash-wont-cover-next-12-months",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hyperscale-liquidity-ai-risk.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T02:00:01"
   },
   {
    "id": 1377,
@@ -718,6 +718,20 @@
    "published_at": "2026-08-20T07:33:42"
   },
   {
+   "id": 1353,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Hyperscale Bitcoin treasury jual 686 BTC untuk lunasi pinjaman",
+   "x": "Perusahaan ini menjual sebagian besar aset Bitcoinnya untuk melunasi pinjaman, namun mengakui kas yang tersisa tidak cukup untuk operasional 12 bulan ke depan. Hal ini mengindikasikan potensi kesulitan keuangan yang berkelanjutan bagi perusahaan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-treasury-hyperscale-sells-686-btc-to-clear-loans-but-says-cash-wont-cover-next-12-months",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hyperscale-liquidity-ai-risk.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T02:00:01"
+  },
+  {
    "id": 1512,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -730,20 +744,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T14:27:31"
-  },
-  {
-   "id": 1387,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Trump ingin AS jadi 'whale' Bitcoin, tapi Kongres pegang kendali",
-   "x": "Presiden Trump menyatakan minat AS untuk mengakumulasi Bitcoin dalam jumlah besar. Namun, undang-undang yang ada tidak memberikan otoritas pendanaan yang jelas bagi Departemen Keuangan untuk melakukan pembelian skala besar di pasar terbuka.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trump-wants-the-us-to-become-a-bitcoin-whale-but-congress-controls-the-wallet",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-reserve-sorting-machine.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T09:40:11"
   },
   {
    "id": 1479,
@@ -774,18 +774,18 @@
    "published_at": "2026-08-20T15:39:17"
   },
   {
-   "id": 1412,
+   "id": 1387,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penambang Bitcoin Ionic rugi $35 juta meski 90% pendapatan dari sewa AI",
-   "x": "Penambang Bitcoin Ionic mencatat kerugian sebesar $35 juta, meskipun mayoritas pendapatannya berasal dari penyewaan kapasitas komputasi untuk kecerdasan buatan. Hal ini menunjukkan tantangan operasional dalam industri penambangan aset kripto.",
+   "t": "Trump ingin AS jadi 'whale' Bitcoin, tapi Kongres pegang kendali",
+   "x": "Presiden Trump menyatakan minat AS untuk mengakumulasi Bitcoin dalam jumlah besar. Namun, undang-undang yang ada tidak memberikan otoritas pendanaan yang jelas bagi Departemen Keuangan untuk melakukan pembelian skala besar di pasar terbuka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miner-ionic-gets-90-of-revenue-from-ai-lease-as-btc-drives-35m-loss",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ionic-lease-revenue-shift.jpg",
+   "url": "https://cryptoslate.com/trump-wants-the-us-to-become-a-bitcoin-whale-but-congress-controls-the-wallet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-reserve-sorting-machine.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T14:15:31"
+   "published_at": "2026-08-20T09:40:11"
   },
   {
    "id": 1500,
@@ -802,18 +802,18 @@
    "published_at": "2026-08-21T13:33:12"
   },
   {
-   "id": 1408,
+   "id": 1412,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tembus $72.000, sentimen bullish didorong penurunan imbal hasil obligasi",
-   "x": "Harga Bitcoin melonjak melampaui $72.000 untuk pertama kalinya sejak Juni. Penurunan imbal hasil obligasi pemerintah AS dan dukungan kebijakan dari Washington turut mendorong sentimen positif pasar.",
+   "t": "Penambang Bitcoin Ionic rugi $35 juta meski 90% pendapatan dari sewa AI",
+   "x": "Penambang Bitcoin Ionic mencatat kerugian sebesar $35 juta, meskipun mayoritas pendapatannya berasal dari penyewaan kapasitas komputasi untuk kecerdasan buatan. Hal ini menunjukkan tantangan operasional dalam industri penambangan aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-blasts-past-72000-as-trump-treasury-buybacks-wipe-out-3-1b-in-shorts",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-policy-breakout.jpg",
+   "url": "https://cryptoslate.com/bitcoin-miner-ionic-gets-90-of-revenue-from-ai-lease-as-btc-drives-35m-loss",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ionic-lease-revenue-shift.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T12:15:07"
+   "published_at": "2026-08-20T14:15:31"
   },
   {
    "id": 1483,
@@ -830,18 +830,18 @@
    "published_at": "2026-08-21T09:23:35"
   },
   {
-   "id": 1503,
+   "id": 1408,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin dan XRP Menuju Weekly Close Terkuat sejak 2024: Apa Selanjutnya?",
-   "x": "Bitcoin dan XRP melesat menuju penutupan mingguan terkuat sejak 2024, didorong oleh short squeeze bersejarah dan gelombang sinyal kebijakan yang mendukung dari Washington. Data on-chain kini menambah lapisan baru…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-xrp-penutupan-mingguan-terkuat-sejak-2024",
-   "img": "https://assets.beincrypto.com/img/WHXVEiqBn4L1S1lK39Faq3nhLpI=/smart/8c0c7b3bc1d34801854f24d62ec48f6e",
-   "a": "kemarin",
+   "t": "Bitcoin tembus $72.000, sentimen bullish didorong penurunan imbal hasil obligasi",
+   "x": "Harga Bitcoin melonjak melampaui $72.000 untuk pertama kalinya sejak Juni. Penurunan imbal hasil obligasi pemerintah AS dan dukungan kebijakan dari Washington turut mendorong sentimen positif pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-blasts-past-72000-as-trump-treasury-buybacks-wipe-out-3-1b-in-shorts",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-policy-breakout.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-21T10:58:34"
+   "translated": true,
+   "published_at": "2026-08-20T12:15:07"
   }
  ]
 }
