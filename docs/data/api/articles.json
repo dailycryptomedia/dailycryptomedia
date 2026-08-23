@@ -1,5 +1,5 @@
 {
- "total": 211,
+ "total": 213,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/eric-trump-bantah-rumor-kripto-baru",
    "img": "https://assets.beincrypto.com/img/VmEnTDMQ3DNKf7lQRCgWfqXxvh8=/smart/3611215e70a0464a881096728dfc6c16",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T10:40:00"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T19:31:35"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/apes-35-miliar-rupiah-raib-gegara-keliru-address-kripto",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T08:00:47"
@@ -110,24 +110,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/upbit-catat-volume-trading-per-jam-xrp-trump",
    "img": "https://assets.beincrypto.com/img/G8ktanEojydB4E9zgu-oAVxkWzo=/smart/efe947ebcadb497b8e55c1e4047c805e",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T18:37:00"
   },
   {
-   "id": 1590,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Validasi instan Bitcoin 27ms butuh 17 tahun komputasi GPU",
-   "x": "Pengembang Hazync melaporkan verifikasi blok dalam milidetik, namun kampanye pembuktian seluruh rantai belum selesai. Ini menunjukkan potensi peningkatan kecepatan validasi di jaringan Bitcoin.",
+   "id": 1621,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pembayaran kripto $20 juta sisakan kas perusahaan mikro di bawah $83 ribu",
+   "x": "Sebuah perusahaan mikro hanya memiliki sisa kas kurang dari $83 ribu setelah menerima pembayaran aset kripto senilai $20 juta. Sebanyak 205.512,5 token belum dapat dimonetisasi, menunjukkan potensi kerugian atau kesulitan likuiditas.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/reaching-instant-27ms-validation-on-bitcoin-will-take-17-gpu-years-of-compute-power",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-stopwatch-gpu.jpg",
-   "a": "18 jam lalu",
+   "url": "https://cryptoslate.com/how-a-20m-crypto-payout-left-a-micro-cap-firm-with-under-83k-in-usable-cash-reserves",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zk-awa-stranded-assets.jpg",
+   "a": "3 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-22T20:45:15"
+   "published_at": "2026-08-23T15:45:11"
   },
   {
    "id": 1417,
@@ -194,24 +194,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kenaikan-harga-server-ai-nvidia",
    "img": "https://assets.beincrypto.com/img/cFNKQiJzubcvZOeJdhqGyyNtOc0=/smart/ca4478974e2449b5b5ed9d6070a94279",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T10:28:24"
   },
   {
-   "id": 1533,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan $11 Juta di Maya Protocol, Likuiditas Terancam",
-   "x": "Sebuah protokol DeFi mengalami kerugian likuiditas senilai $11 juta akibat peretasan, dengan pelaku masih memegang 20,83 BTC. Kerugian yang lebih luas dan dampak pada pengguna belum dirinci.",
+   "id": 1590,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Validasi instan Bitcoin 27ms butuh 17 tahun komputasi GPU",
+   "x": "Pengembang Hazync melaporkan verifikasi blok dalam milidetik, namun kampanye pembuktian seluruh rantai belum selesai. Ini menunjukkan potensi peningkatan kecepatan validasi di jaringan Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/reaching-instant-27ms-validation-on-bitcoin-will-take-17-gpu-years-of-compute-power",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-stopwatch-gpu.jpg",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T19:05:07"
+   "published_at": "2026-08-22T20:45:15"
   },
   {
    "id": 1582,
@@ -222,7 +222,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:31:03"
@@ -250,7 +250,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
    "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:35:27"
@@ -284,18 +284,18 @@
    "published_at": "2026-08-21T04:54:24"
   },
   {
-   "id": 1506,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin dapat lindung nilai AI baru, tapi lindungi dari risiko salah",
-   "x": "Penambang Bitcoin kini dapat memanfaatkan kapasitas AI untuk lindung nilai, namun strategi ini mungkin tidak melindungi dari risiko yang sebenarnya. Hal ini penting bagi investor karena menunjukkan adaptasi industri terhadap teknologi baru di tengah tantangan pasar.",
+   "id": 1533,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan $11 Juta di Maya Protocol, Likuiditas Terancam",
+   "x": "Sebuah protokol DeFi mengalami kerugian likuiditas senilai $11 juta akibat peretasan, dengan pelaku masih memegang 20,83 BTC. Kerugian yang lebih luas dan dampak pada pengguna belum dirinci.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T13:50:11"
+   "published_at": "2026-08-21T19:05:07"
   },
   {
    "id": 1577,
@@ -306,7 +306,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T15:31:04"
@@ -348,7 +348,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ray-dalio-soroti-ekonomi-as-bitcoin-dan-emas-kembali-jadi-pilihan",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T07:00:50"
@@ -362,24 +362,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bouncebit-exploit-chain-sunset-bb-reissue",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T16:26:33"
   },
   {
-   "id": 1569,
+   "id": 1506,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin anjlok, Riot Platforms terpaksa jamin 1.825 BTC",
-   "x": "Penurunan harga Bitcoin memaksa Riot Platforms menambah 1.825 BTC sebagai jaminan pinjaman $200 juta. Lonjakan harga saat ini berpotensi membebaskan kembali 1.500 BTC dari jaminan tersebut.",
+   "t": "Penambang Bitcoin dapat lindung nilai AI baru, tapi lindungi dari risiko salah",
+   "x": "Penambang Bitcoin kini dapat memanfaatkan kapasitas AI untuk lindung nilai, namun strategi ini mungkin tidak melindungi dari risiko yang sebenarnya. Hal ini penting bagi investor karena menunjukkan adaptasi industri terhadap teknologi baru di tengah tantangan pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-crash-forced-riot-to-pledge-1825-btc-but-this-huge-rally-may-now-free-1500-btc",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/riot-bitcoin-collateral-release.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-miners-are-getting-a-new-ai-hedge-but-it-may-protect-them-from-the-wrong-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/compute-risk-corridor.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-22T10:50:30"
+   "published_at": "2026-08-21T13:50:11"
   },
   {
    "id": 1572,
@@ -432,7 +432,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-bisa-jatuh-lagi-tapi-justru-ini-awal-reli-besar",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T03:00:51"
@@ -446,24 +446,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/altcoin-season-datang-relly-215-miliar",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T11:15:03"
   },
   {
-   "id": 1598,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Coldcard wajib 65 penekanan tombol usai eksploitasi seed",
-   "x": "Perangkat keras dompet kripto Coldcard memperketat pembuatan dompet baru untuk mencegah eksploitasi seed. Pengguna yang terpengaruh harus segera memindahkan dana mereka.",
+   "id": 1569,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin anjlok, Riot Platforms terpaksa jamin 1.825 BTC",
+   "x": "Penurunan harga Bitcoin memaksa Riot Platforms menambah 1.825 BTC sebagai jaminan pinjaman $200 juta. Lonjakan harga saat ini berpotensi membebaskan kembali 1.500 BTC dari jaminan tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coldcard-keypress-seed-security.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-crash-forced-riot-to-pledge-1825-btc-but-this-huge-rally-may-now-free-1500-btc",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/riot-bitcoin-collateral-release.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-23T05:00:07"
+   "published_at": "2026-08-22T10:50:30"
   },
   {
    "id": 1446,
@@ -480,18 +480,18 @@
    "published_at": "2026-08-20T22:32:11"
   },
   {
-   "id": 1410,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Optimism alihkan 546,9 juta OP dari airdrop ke dana pertumbuhan ekosistem",
-   "x": "Token OP yang sebelumnya dialokasikan untuk airdrop kini diarahkan untuk kemitraan dan insentif guna mendorong pertumbuhan ekosistem Optimism. Langkah ini merupakan hasil dari pemungutan suara tata kelola.",
+   "id": 1620,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Studi The Fed: investor kripto terpengaruh keyakinan dan imbal hasil",
+   "x": "Studi dari Federal Reserve Bank of Cleveland menemukan investor kripto memiliki pandangan berbeda mengenai imbal hasil dan risiko. Informasi mengenai keuntungan Bitcoin di masa lalu dapat meningkatkan alokasi dan pembelian aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+   "a": "18 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T15:43:00"
+   "published_at": "2026-08-23T15:30:53"
   },
   {
    "id": 1450,
@@ -530,24 +530,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/inflow-etf-bitcoin-ethereum-tertinggi-oktober",
    "img": "https://assets.beincrypto.com/img/pon3dfo6AVm_sR5b6pPjQgH7ZKc=/smart/2107838830124092abb733c06131136b",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T18:32:04"
   },
   {
-   "id": 1565,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitcoin dekati $80.000 saat ETF libur akhir pekan",
-   "x": "Bitcoin hampir mencapai $80.000 setelah reli mingguan terbesar dalam dua tahun. Lonjakan ini didorong oleh aliran dana masuk ETF spot senilai $1,6 miliar dan likuidasi posisi short.",
+   "id": 1598,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Coldcard wajib 65 penekanan tombol usai eksploitasi seed",
+   "x": "Perangkat keras dompet kripto Coldcard memperketat pembuatan dompet baru untuk mencegah eksploitasi seed. Pengguna yang terpengaruh harus segera memindahkan dana mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-hits-80000s-doorstep-just-as-the-etf-bid-disappears-for-the-weekend",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-weekend-market-blackout.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coldcard-keypress-seed-security.jpg",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-22T09:45:03"
+   "published_at": "2026-08-23T05:00:07"
   },
   {
    "id": 1510,
@@ -558,24 +558,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T15:39:02"
   },
   {
-   "id": 1538,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CEO Bitget prediksi Bitcoin stagnan akhir tahun, ragukan AS beli BTC",
-   "x": "CEO Bitget memperkirakan Bitcoin akan bertahan di kisaran harga saat ini hingga akhir tahun karena ketidakpastian ekonomi global. Ia juga meragukan pemerintah AS akan membeli Bitcoin dalam waktu dekat.",
+   "id": 1410,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Optimism alihkan 546,9 juta OP dari airdrop ke dana pertumbuhan ekosistem",
+   "x": "Token OP yang sebelumnya dialokasikan untuk airdrop kini diarahkan untuk kemitraan dan insentif guna mendorong pertumbuhan ekosistem Optimism. Langkah ini merupakan hasil dari pemungutan suara tata kelola.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T20:26:16"
+   "published_at": "2026-08-20T15:43:00"
   },
   {
    "id": 1545,
@@ -620,18 +620,18 @@
    "published_at": "2026-08-20T20:22:50"
   },
   {
-   "id": 1495,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
-   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
+   "id": 1565,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitcoin dekati $80.000 saat ETF libur akhir pekan",
+   "x": "Bitcoin hampir mencapai $80.000 setelah reli mingguan terbesar dalam dua tahun. Lonjakan ini didorong oleh aliran dana masuk ETF spot senilai $1,6 miliar dan likuidasi posisi short.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-hits-80000s-doorstep-just-as-the-etf-bid-disappears-for-the-weekend",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-weekend-market-blackout.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T10:43:30"
+   "published_at": "2026-08-22T09:45:03"
   },
   {
    "id": 1546,
@@ -648,18 +648,18 @@
    "published_at": "2026-08-21T21:31:05"
   },
   {
-   "id": 1432,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance buka trading kripto untuk agen AI dengan kontrol pengguna",
-   "x": "Binance meluncurkan Agent OS yang memungkinkan agen AI melakukan trading dan pembayaran aset kripto. Fitur ini memberikan kontrol penuh kepada pengguna atas izin dan akses akun mereka.",
+   "id": 1538,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Bitget prediksi Bitcoin stagnan akhir tahun, ragukan AS beli BTC",
+   "x": "CEO Bitget memperkirakan Bitcoin akan bertahan di kisaran harga saat ini hingga akhir tahun karena ketidakpastian ekonomi global. Ia juga meragukan pemerintah AS akan membeli Bitcoin dalam waktu dekat.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T20:26:28"
+   "published_at": "2026-08-21T20:26:16"
   },
   {
    "id": 1437,
@@ -684,7 +684,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berita-kripto-terbaru-minggu-ini-bitcoin-bangkit-hingga-kasus-address-poisoning",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T10:00:21"
@@ -704,18 +704,18 @@
    "published_at": "2026-08-21T22:14:05"
   },
   {
-   "id": 1465,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
-   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
+   "id": 1495,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
+   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
+   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T05:00:12"
+   "published_at": "2026-08-21T10:43:30"
   },
   {
    "id": 1618,
@@ -726,24 +726,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png",
-   "a": "23 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T14:31:04"
   },
   {
-   "id": 1535,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Berita Hukum Kripto Pekan Ini: Sanksi untuk Eks FTX dan Kasus Tentara AS",
-   "x": "Regulator AS melarang eksekutif Alameda dan FTX berdagang, sementara jaksa menentang mosi tentara AS yang dituduh untung dari penggulingan Maduro. Perkembangan ini menyoroti upaya penegakan hukum di sektor aset digital.",
+   "id": 1432,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Binance buka trading kripto untuk agen AI dengan kontrol pengguna",
+   "x": "Binance meluncurkan Agent OS yang memungkinkan agen AI melakukan trading dan pembayaran aset kripto. Fitur ini memberikan kontrol penuh kepada pengguna atas izin dan akses akun mereka.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T19:19:27"
+   "published_at": "2026-08-20T20:26:28"
   },
   {
    "id": 1513,
@@ -754,7 +754,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
    "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T15:38:02"
@@ -788,18 +788,18 @@
    "published_at": "2026-08-22T08:20:49"
   },
   {
-   "id": 1600,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Akses ke bursa kripto global terancam di Nigeria",
-   "x": "Nigeria mengusulkan persyaratan modal minimum ₦2 miliar untuk bursa dan kustodian, serta jaminan 120% untuk stablecoin valas. Aturan ini berpotensi membatasi akses investor lokal ke platform kripto internasional.",
+   "id": 1465,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
+   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/seamless-access-to-global-crypto-platforms-could-evaporate-for-locals-under-nigerias-proposed-%e2%82%a62-billion-capital-floor",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/offshore-platform-drag.jpg",
-   "a": "7 jam lalu",
+   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-23T07:00:07"
+   "published_at": "2026-08-21T05:00:12"
   },
   {
    "id": 1487,
@@ -816,18 +816,18 @@
    "published_at": "2026-08-21T09:31:05"
   },
   {
-   "id": 1536,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Dekati Rekor Tertinggi, Emas Juga Menguat",
-   "x": "Bitcoin menunjukkan volatilitas yang mereda setelah mencapai level tertinggi sejak pertengahan Mei. Penguatan ini terjadi bersamaan dengan emas yang juga mendekati level tertinggi dalam tiga bulan terakhir.",
+   "id": 1535,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Berita Hukum Kripto Pekan Ini: Sanksi untuk Eks FTX dan Kasus Tentara AS",
+   "x": "Regulator AS melarang eksekutif Alameda dan FTX berdagang, sementara jaksa menentang mosi tentara AS yang dituduh untung dari penggulingan Maduro. Perkembangan ini menyoroti upaya penegakan hukum di sektor aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
+   "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T19:10:47"
+   "published_at": "2026-08-21T19:19:27"
   },
   {
    "id": 1464,
