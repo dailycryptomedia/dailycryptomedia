@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-08-21T04:54:24"
   },
   {
-   "id": 1370,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "GnosisDAO setujui Gnosis Chain jadi Zona Ekonomi Ethereum",
-   "x": "Gnosis Chain akan beralih menjadi rollup Zona Ekonomi Ethereum yang terhubung langsung ke Ethereum. Perubahan ini mengakhiri set validator independennya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T08:59:40"
-  },
-  {
    "id": 1568,
    "k": "web3",
    "cat": "Web3",
@@ -40,24 +26,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/affiliate-conclave-jadi-ajang-bertemunya-mesin-pertumbuhan-web3",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T09:55:25"
   },
   {
-   "id": 1372,
+   "id": 1476,
    "k": "web3",
    "cat": "Web3",
-   "t": "Jaringan kripto setujui lepas blockchain mandiri, buka 27% suplai token",
-   "x": "GnosisDAO menyetujui rencana penghentian Gnosis Chain sebagai Layer 1 mandiri, yang akan membuka sekitar 350.000 GNO yang di-stake. Jaringan ini akan menjadi rollup Zona Ekonomi Ethereum.",
+   "t": "Penyerang kuasai 63% penggunaan awal fitur dompet pintar Ethereum",
+   "x": "Peneliti menemukan mayoritas transaksi otorisasi awal pada fitur dompet pintar Ethereum dikaitkan dengan kontrak yang dikendalikan penyerang, menyebabkan kerugian jutaan dolar. Hal ini menyoroti risiko keamanan pada adopsi awal teknologi baru.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/gnosis-validator-model-retirement.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/ethereum-wallets-gained-new-powers-but-early-eip-7702-data-shows-who-moved-fastest",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/eip7702-malicious-authorizations.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T08:30:25"
+   "published_at": "2026-08-21T07:00:39"
+  },
+  {
+   "id": 1397,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Perusahaan siber ungkap kampanye phishing kripto targetkan 885.000 nomor telepon",
+   "x": "Sebuah perusahaan keamanan siber menemukan kampanye phishing baru yang menargetkan ratusan ribu nomor telepon. Tujuannya adalah mencuri aset kripto investor dengan mengarahkan mereka ke situs web palsu.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-20T12:35:32"
   },
   {
    "id": 1398,
@@ -102,20 +102,6 @@
    "published_at": "2026-08-22T08:20:49"
   },
   {
-   "id": 1397,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Perusahaan siber ungkap kampanye phishing kripto targetkan 885.000 nomor telepon",
-   "x": "Sebuah perusahaan keamanan siber menemukan kampanye phishing baru yang menargetkan ratusan ribu nomor telepon. Tujuannya adalah mencuri aset kripto investor dengan mengarahkan mereka ke situs web palsu.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T12:35:32"
-  },
-  {
    "id": 1558,
    "k": "web3",
    "cat": "Web3",
@@ -130,18 +116,18 @@
    "published_at": "2026-08-22T05:30:33"
   },
   {
-   "id": 1476,
+   "id": 1454,
    "k": "web3",
    "cat": "Web3",
-   "t": "Penyerang kuasai 63% penggunaan awal fitur dompet pintar Ethereum",
-   "x": "Peneliti menemukan mayoritas transaksi otorisasi awal pada fitur dompet pintar Ethereum dikaitkan dengan kontrak yang dikendalikan penyerang, menyebabkan kerugian jutaan dolar. Hal ini menyoroti risiko keamanan pada adopsi awal teknologi baru.",
+   "t": "Upgrade Ethereum ubah hambatan blok 2 detik jadi jendela 9 detik",
+   "x": "Pembaruan jaringan publik Ethereum akan menguji perubahan klien, builder, dan gas sebelum diterapkan ke testnet dan mainnet. Ini bertujuan meningkatkan efisiensi pemrosesan transaksi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-wallets-gained-new-powers-but-early-eip-7702-data-shows-who-moved-fastest",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/eip7702-malicious-authorizations.jpg",
+   "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-client-control-room.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T07:00:39"
+   "published_at": "2026-08-21T01:00:59"
   },
   {
    "id": 1404,
@@ -166,24 +152,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/7-platform-andalan-crypto-degen-buat-hunting-meme-coin-potensial",
    "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T09:00:03"
-  },
-  {
-   "id": 1454,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Upgrade Ethereum ubah hambatan blok 2 detik jadi jendela 9 detik",
-   "x": "Pembaruan jaringan publik Ethereum akan menguji perubahan klien, builder, dan gas sebelum diterapkan ke testnet dan mainnet. Ini bertujuan meningkatkan efisiensi pemrosesan transaksi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-client-control-room.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T01:00:59"
+   "published_at": "2026-08-21T09:00:03"
   },
   {
    "id": 1599,
@@ -194,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cuma-1-persen-wallet-yang-mendominasi-polymarket-apa-artinya-bagi-prediksi-pemilu-as",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T04:00:37"
