@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:31:03"
@@ -60,18 +60,18 @@
    "published_at": "2026-08-20T20:41:44"
   },
   {
-   "id": 1465,
+   "id": 1598,
    "k": "defi",
    "cat": "DeFi",
-   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
-   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
+   "t": "Coldcard wajib 65 penekanan tombol usai eksploitasi seed",
+   "x": "Perangkat keras dompet kripto Coldcard memperketat pembuatan dompet baru untuk mencegah eksploitasi seed. Pengguna yang terpengaruh harus segera memindahkan dana mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coldcard-keypress-seed-security.jpg",
+   "a": "16 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T05:00:12"
+   "published_at": "2026-08-23T05:00:07"
   },
   {
    "id": 1393,
@@ -88,18 +88,18 @@
    "published_at": "2026-08-20T11:34:05"
   },
   {
-   "id": 1551,
+   "id": 1465,
    "k": "defi",
    "cat": "DeFi",
-   "t": "MANTRA Chain offline pasca eksploitasi, restart 21 Agustus tergantung uji patch",
-   "x": "MANTRA Chain menghentikan operasionalnya karena eksploitasi pada dependensi eksternal. Penghentian ini berdampak pada transaksi, transfer, dan staking, dengan jadwal restart pada 21 Agustus bergantung pada keberhasilan uji coba perbaikan.",
+   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
+   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mantra-validator-stop-signal.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T23:10:37"
+   "published_at": "2026-08-21T05:00:12"
   },
   {
    "id": 1531,
@@ -114,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T17:28:34"
+  },
+  {
+   "id": 1551,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "MANTRA Chain offline pasca eksploitasi, restart 21 Agustus tergantung uji patch",
+   "x": "MANTRA Chain menghentikan operasionalnya karena eksploitasi pada dependensi eksternal. Penghentian ini berdampak pada transaksi, transfer, dan staking, dengan jadwal restart pada 21 Agustus bergantung pada keberhasilan uji coba perbaikan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/mantra-chain-stays-offline-after-exploit-as-aug-21-restart-hinges-on-patch-test",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/mantra-validator-stop-signal.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T23:10:37"
   },
   {
    "id": 1430,
