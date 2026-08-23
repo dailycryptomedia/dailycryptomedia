@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bouncebit-exploit-chain-sunset-bb-reissue",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T16:26:33"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-cftc-signal.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:10:29"
@@ -130,32 +130,18 @@
    "published_at": "2026-08-20T22:19:36"
   },
   {
-   "id": 1406,
+   "id": 1442,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
-   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T13:31:05"
-  },
-  {
-   "id": 1395,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulasi MiCA di Eropa batasi USDT, pasar global tak terpengaruh",
-   "x": "Regulator Eropa membatasi peredaran USDT di platform terpusat. Namun, hal ini belum berdampak signifikan pada permintaan global terhadap stablecoin tersebut.",
+   "t": "Ketua CFTC: Regulasi Kripto Akan Berlanjut Jika CLARITY Gagal",
+   "x": "Ketua Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengindikasikan kesiapan untuk melanjutkan pengembangan regulasi aset kripto. Langkah ini diambil untuk memastikan perlindungan pengembang dan kebijakan terkait industri kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-after-mica-has-regulation-reshaped-stablecoin-liquidity.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act-1.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T13:30:00"
+   "published_at": "2026-08-20T20:56:23"
   },
   {
    "id": 1578,
@@ -166,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-left-russia-years-ago-but-moscow-still-got-customer-records-used-in-a-terrorism-case",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/binance-russia-surveillance.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T15:05:23"
@@ -186,18 +172,18 @@
    "published_at": "2026-08-20T18:05:01"
   },
   {
-   "id": 1442,
+   "id": 1468,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Ketua CFTC: Regulasi Kripto Akan Berlanjut Jika CLARITY Gagal",
-   "x": "Ketua Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengindikasikan kesiapan untuk melanjutkan pengembangan regulasi aset kripto. Langkah ini diambil untuk memastikan perlindungan pengembang dan kebijakan terkait industri kripto.",
+   "t": "Anggota parlemen Korsel minta perluasan kekuasaan FIU atas perusahaan kripto tak terdaftar",
+   "x": "Anggota parlemen Korea Selatan mengusulkan perluasan kewenangan Unit Intelijen Keuangan (FIU) untuk menyelidiki dan merujuk operator aset kripto ilegal ke penegak hukum. Tujuannya adalah memperketat pengawasan terhadap perusahaan yang belum terdaftar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act-1.jpg",
+   "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T20:56:23"
+   "published_at": "2026-08-21T05:47:16"
   },
   {
    "id": 1423,
@@ -214,34 +200,6 @@
    "published_at": "2026-08-20T17:00:27"
   },
   {
-   "id": 1403,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pengadilan Buka Peluang bagi Pengguna Kripto untuk Gugat Binance atas Dana yang Dicuri",
-   "x": "Pengadilan banding memutuskan korban pencurian aset kripto dapat menuntut Binance di pengadilan AS, menolak arbitrase berdasarkan ketentuan yang tidak pernah mereka tandatangani.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengguna-kripto-gugat-binance-dana-curian",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-20T11:55:41"
-  },
-  {
-   "id": 1468,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Anggota parlemen Korsel minta perluasan kekuasaan FIU atas perusahaan kripto tak terdaftar",
-   "x": "Anggota parlemen Korea Selatan mengusulkan perluasan kewenangan Unit Intelijen Keuangan (FIU) untuk menyelidiki dan merujuk operator aset kripto ilegal ke penegak hukum. Tujuannya adalah memperketat pengawasan terhadap perusahaan yang belum terdaftar.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T05:47:16"
-  },
-  {
    "id": 1591,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -250,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/everyday-crypto-users-face-monthly-tax-bills-on-total-asset-value-if-covered-brokers-fail-to-collect-under-new-illinois-rules",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-broker-tax-burden.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T21:55:10"
@@ -264,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-funding-rules.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T13:45:53"
