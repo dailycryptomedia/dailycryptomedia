@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bouncebit-exploit-chain-sunset-bb-reissue",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T16:26:33"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
    "img": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T13:30:00"
@@ -74,18 +74,18 @@
    "published_at": "2026-08-21T19:09:55"
   },
   {
-   "id": 1394,
+   "id": 1527,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Alat AI Flock Lacak Pengemudi Tanpa Plat Nomor",
-   "x": "",
+   "t": "Trump Dorong Kejelasan Regulasi Kripto, SEC dan CFTC Bersiap",
+   "x": "Mantan Presiden AS Donald Trump mendesak anggota parlemen untuk meloloskan RUU kejelasan kripto. Regulator SEC dan CFTC juga bersiap menetapkan aturan mereka sendiri.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-20T11:31:04"
+   "published_at": "2026-08-21T18:06:56"
   },
   {
    "id": 1535,
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-cftc-signal.jpg",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:10:29"
@@ -130,18 +130,18 @@
    "published_at": "2026-08-20T22:19:36"
   },
   {
-   "id": 1527,
+   "id": 1406,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Trump Dorong Kejelasan Regulasi Kripto, SEC dan CFTC Bersiap",
-   "x": "Mantan Presiden AS Donald Trump mendesak anggota parlemen untuk meloloskan RUU kejelasan kripto. Regulator SEC dan CFTC juga bersiap menetapkan aturan mereka sendiri.",
+   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
+   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T18:06:56"
+   "published_at": "2026-08-20T13:31:05"
   },
   {
    "id": 1395,
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-after-mica-has-regulation-reshaped-stablecoin-liquidity.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-20T13:30:00"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-left-russia-years-ago-but-moscow-still-got-customer-records-used-in-a-terrorism-case",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/binance-russia-surveillance.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T15:05:23"
@@ -184,20 +184,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T18:05:01"
-  },
-  {
-   "id": 1406,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pemeriksa AML palsu coba kuras dompet kripto pengguna",
-   "x": "Penipu menyamar sebagai penyedia layanan kepatuhan anti pencucian uang (AML) aset kripto. Mereka menipu pengguna agar menyetujui transaksi yang berisiko menguras aset digital mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T13:31:05"
   },
   {
    "id": 1442,
@@ -236,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pengguna-kripto-gugat-binance-dana-curian",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-20T11:55:41"
@@ -264,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/everyday-crypto-users-face-monthly-tax-bills-on-total-asset-value-if-covered-brokers-fail-to-collect-under-new-illinois-rules",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-broker-tax-burden.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T21:55:10"
@@ -278,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-funding-rules.jpg",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T13:45:53"
