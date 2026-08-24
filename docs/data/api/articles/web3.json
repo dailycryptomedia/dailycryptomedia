@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,20 +74,6 @@
    "published_at": "2026-08-22T05:30:33"
   },
   {
-   "id": 1454,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Upgrade Ethereum ubah hambatan blok 2 detik jadi jendela 9 detik",
-   "x": "Pembaruan jaringan publik Ethereum akan menguji perubahan klien, builder, dan gas sebelum diterapkan ke testnet dan mainnet. Ini bertujuan meningkatkan efisiensi pemrosesan transaksi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-client-control-room.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T01:00:59"
-  },
-  {
    "id": 1490,
    "k": "web3",
    "cat": "Web3",
@@ -110,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cuma-1-persen-wallet-yang-mendominasi-polymarket-apa-artinya-bagi-prediksi-pemilu-as",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T04:00:37"
@@ -124,7 +110,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/heboh-150-wallet-polymarket-diduga-cuan-dari-informasi-militer-as",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-21T03:30:17"

@@ -1,8 +1,22 @@
 {
- "total": 3,
+ "total": 2,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1644,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Bank Korea Gunakan Ripple Payments, tapi Apakah XRP Terlibat?",
+   "x": "Ripple mengumumkan kemitraan dengan Jeonbuk Bank, bank regional pertama di Korea yang menggunakan layanan pembayaran Ripple. Kemitraan ini menimbulkan pertanyaan mengenai keterlibatan XRP dalam operasional bank tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bank-korea-gunakan-ripple-payments-tapi-apakah-xrp-benar-benar-terlibat",
+   "img": null,
+   "a": "32 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T03:00:48"
+  },
   {
    "id": 1574,
    "k": "bisnis",
@@ -16,34 +30,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T13:51:33"
-  },
-  {
-   "id": 1451,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Datavault ingin beli bank senilai $35 juta",
-   "x": "Perusahaan teknologi Datavault berencana mengakuisisi bank dengan pendanaan baru senilai $35 juta. Rencana ini muncul saat perusahaan masih menghadapi peringatan terkait keberlangsungan usahanya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/datavault-wants-to-buy-a-bank-and-fund-it-with-35-million-after-reporting-1-4-million-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/datavault_bankwyse_standard_image.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-20T23:30:30"
-  },
-  {
-   "id": 1453,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Penambang Zcash beli 9,4% target merger yang peringatkan likuidasi jika gagal",
-   "x": "Sebuah penempatan pribadi membuat Fortitude memiliki 9,4% saham di HeartSciences dengan premi 22%. Investor perlu memantau tanggal pemungutan suara merger yang belum ditetapkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zcash-miner-buys-9-4-of-merger-target-that-warns-failed-deal-could-end-in-liquidation",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/fortitude_heartsciences_standard_image.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T03:00:10"
   }
  ]
 }
