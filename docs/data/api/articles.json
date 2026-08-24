@@ -1,5 +1,5 @@
 {
- "total": 179,
+ "total": 185,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-23T08:00:47"
   },
   {
+   "id": 1671,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SBI pimpin pendanaan Fasset $68 juta di valuasi $1 miliar",
+   "x": "Fasset menggalang dana $68 juta untuk ekspansi, termasuk rencana bank digital di Malaysia dan pembayaran stablecoin. Investor Indonesia perlu mencermati potensi kolaborasi aset digital di pasar Asia Tenggara.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/crypto-futures-stablecoin-options.jpg",
+   "a": "23 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T11:25:26"
+  },
+  {
    "id": 1606,
    "k": "pasar",
    "cat": "Pasar",
@@ -26,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/eric-trump-bantah-rumor-kripto-baru",
    "img": "https://assets.beincrypto.com/img/VmEnTDMQ3DNKf7lQRCgWfqXxvh8=/smart/3611215e70a0464a881096728dfc6c16",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T10:40:00"
@@ -54,24 +68,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/how-a-20m-crypto-payout-left-a-micro-cap-firm-with-under-83k-in-usable-cash-reserves",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zk-awa-stranded-assets.jpg",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T15:45:11"
-  },
-  {
-   "id": 1509,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bisnis Kripto: Treasury AS dorong Bitcoin naik lewat 'bukan-QE'",
-   "x": "Pembelian kembali obligasi oleh Departemen Keuangan AS memicu kenaikan Bitcoin. Sementara itu, Metaplanet berekspansi ke AS dan Cypherpunk bertaruh besar pada penambangan Zcash.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T15:50:08"
   },
   {
    "id": 1588,
@@ -96,10 +96,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bank-korea-gunakan-ripple-payments-tapi-apakah-xrp-benar-benar-terlibat",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T03:00:48"
+  },
+  {
+   "id": 1509,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bisnis Kripto: Treasury AS dorong Bitcoin naik lewat 'bukan-QE'",
+   "x": "Pembelian kembali obligasi oleh Departemen Keuangan AS memicu kenaikan Bitcoin. Sementara itu, Metaplanet berekspansi ke AS dan Cypherpunk bertaruh besar pada penambangan Zcash.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic-bag-bitcoin.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T15:50:08"
   },
   {
    "id": 1585,
@@ -144,20 +158,6 @@
    "published_at": "2026-08-22T20:45:15"
   },
   {
-   "id": 1571,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulasi MiCA akan menyasar brankas DeFi, namun sulit diterapkan",
-   "x": "Uni Eropa mengkaji apakah pinjaman DeFi akan masuk dalam regulasi MiCA. Namun, sifat terdesentralisasi brankas pinjaman membuat penentuan entitas yang harus diatur menjadi tantangan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-22T13:30:00"
-  },
-  {
    "id": 1584,
    "k": "pasar",
    "cat": "Pasar",
@@ -186,6 +186,20 @@
    "published_at": "2026-08-22T08:00:30"
   },
   {
+   "id": 1571,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulasi MiCA akan menyasar brankas DeFi, namun sulit diterapkan",
+   "x": "Uni Eropa mengkaji apakah pinjaman DeFi akan masuk dalam regulasi MiCA. Namun, sifat terdesentralisasi brankas pinjaman membuat penentuan entitas yang harus diatur menjadi tantangan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-22T13:30:00"
+  },
+  {
    "id": 1607,
    "k": "pasar",
    "cat": "Pasar",
@@ -194,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kenaikan-harga-server-ai-nvidia",
    "img": "https://assets.beincrypto.com/img/cFNKQiJzubcvZOeJdhqGyyNtOc0=/smart/ca4478974e2449b5b5ed9d6070a94279",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T10:28:24"
@@ -228,20 +242,6 @@
    "published_at": "2026-08-21T19:05:07"
   },
   {
-   "id": 1496,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana pangkas waktu slot blockchain menjadi 350 milidetik",
-   "x": "Solana berhasil mengurangi waktu slot blockchain menjadi 350 milidetik, mendekati target 200 milidetik untuk mengurangi latensi jaringan. Inovasi ini krusial bagi investor karena dapat meningkatkan efisiensi dan kecepatan transaksi di jaringan Solana.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T13:45:13"
-  },
-  {
    "id": 1625,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -250,7 +250,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News_2-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T17:02:20"
@@ -268,6 +268,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T09:55:25"
+  },
+  {
+   "id": 1496,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana pangkas waktu slot blockchain menjadi 350 milidetik",
+   "x": "Solana berhasil mengurangi waktu slot blockchain menjadi 350 milidetik, mendekati target 200 milidetik untuk mengurangi latensi jaringan. Inovasi ini krusial bagi investor karena dapat meningkatkan efisiensi dan kecepatan transaksi di jaringan Solana.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T13:45:13"
   },
   {
    "id": 1580,
@@ -312,20 +326,6 @@
    "published_at": "2026-08-21T13:50:11"
   },
   {
-   "id": 1620,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Studi The Fed: investor kripto terpengaruh keyakinan dan imbal hasil",
-   "x": "Studi dari Federal Reserve Bank of Cleveland menemukan investor kripto memiliki pandangan berbeda mengenai imbal hasil dan risiko. Informasi mengenai keuntungan Bitcoin di masa lalu dapat meningkatkan alokasi dan pembelian aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T15:30:53"
-  },
-  {
    "id": 1634,
    "k": "defi",
    "cat": "DeFi",
@@ -334,7 +334,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
    "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T20:50:45"
@@ -354,6 +354,20 @@
    "published_at": "2026-08-23T07:00:50"
   },
   {
+   "id": 1620,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Studi The Fed: investor kripto terpengaruh keyakinan dan imbal hasil",
+   "x": "Studi dari Federal Reserve Bank of Cleveland menemukan investor kripto memiliki pandangan berbeda mengenai imbal hasil dan risiko. Informasi mengenai keuntungan Bitcoin di masa lalu dapat meningkatkan alokasi dan pembelian aset kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-23T15:30:53"
+  },
+  {
    "id": 1610,
    "k": "pasar",
    "cat": "Pasar",
@@ -362,7 +376,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/altcoin-season-datang-relly-215-miliar",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T11:15:03"
@@ -390,38 +404,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-crash-forced-riot-to-pledge-1825-btc-but-this-huge-rally-may-now-free-1500-btc",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/riot-bitcoin-collateral-release.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T10:50:30"
   },
   {
-   "id": 1538,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CEO Bitget prediksi Bitcoin stagnan akhir tahun, ragukan AS beli BTC",
-   "x": "CEO Bitget memperkirakan Bitcoin akan bertahan di kisaran harga saat ini hingga akhir tahun karena ketidakpastian ekonomi global. Ia juga meragukan pemerintah AS akan membeli Bitcoin dalam waktu dekat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T20:26:16"
-  },
-  {
-   "id": 1493,
+   "id": 1545,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Lonjakan Bitcoin ke $80K tunjukkan pergeseran momentum likuiditas",
-   "x": "Arus dana masuk ETF Bitcoin spot AS kembali pulih, seiring lonjakan harga Bitcoin menuju $80.000. Hal ini mengindikasikan pergeseran momentum yang didorong oleh likuiditas pasar.",
+   "t": "Grayscale selangkah lebih dekat luncurkan ETF Zcash pertama di AS",
+   "x": "Grayscale kembali mengajukan amandemen ke Komisi Sekuritas dan Bursa AS (SEC) untuk peluncuran ETF Zcash. Pengajuan ini mendekatkan perusahaan pada realisasi produk investasi kripto pertamanya yang terdaftar di bursa AS.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
-   "img": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_1-1200x675.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-1200x675.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T10:57:54"
+   "published_at": "2026-08-21T21:34:53"
   },
   {
    "id": 1595,
@@ -436,6 +436,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T03:00:51"
+  },
+  {
+   "id": 1673,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ECB bela privasi euro digital di tengah pengawasan global",
+   "x": "Bank Sentral Eropa (ECB) menegaskan tidak akan melacak pengguna euro digital, merespons kekhawatiran privasi global terhadap mata uang digital bank sentral (CBDC). Ini penting bagi Indonesia yang juga menjajaki potensi CBDC.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb-2.jpg",
+   "a": "27 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T11:21:19"
   },
   {
    "id": 1586,
@@ -480,32 +494,18 @@
    "published_at": "2026-08-23T05:00:07"
   },
   {
-   "id": 1535,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Berita Hukum Kripto Pekan Ini: Sanksi untuk Eks FTX dan Kasus Tentara AS",
-   "x": "Regulator AS melarang eksekutif Alameda dan FTX berdagang, sementara jaksa menentang mosi tentara AS yang dituduh untung dari penggulingan Maduro. Perkembangan ini menyoroti upaya penegakan hukum di sektor aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T19:19:27"
-  },
-  {
-   "id": 1545,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Grayscale selangkah lebih dekat luncurkan ETF Zcash pertama di AS",
-   "x": "Grayscale kembali mengajukan amandemen ke Komisi Sekuritas dan Bursa AS (SEC) untuk peluncuran ETF Zcash. Pengajuan ini mendekatkan perusahaan pada realisasi produk investasi kripto pertamanya yang terdaftar di bursa AS.",
+   "id": 1513,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Saham Strategy naik ke level tertinggi dua bulan bersama Bitcoin",
+   "x": "Saham Strategy (MSTR) menguat seiring dengan kenaikan Bitcoin, mendekati target harga $100. Penguatan ini terjadi setelah jeda dua bulan dalam pembelian Bitcoin oleh perusahaan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-1200x675.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
+   "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T21:34:53"
+   "published_at": "2026-08-21T15:38:02"
   },
   {
    "id": 1558,
@@ -520,6 +520,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T05:30:33"
+  },
+  {
+   "id": 1538,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Bitget prediksi Bitcoin stagnan akhir tahun, ragukan AS beli BTC",
+   "x": "CEO Bitget memperkirakan Bitcoin akan bertahan di kisaran harga saat ini hingga akhir tahun karena ketidakpastian ekonomi global. Ia juga meragukan pemerintah AS akan membeli Bitcoin dalam waktu dekat.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T20:26:16"
   },
   {
    "id": 1547,
@@ -544,7 +558,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T14:31:04"
@@ -564,32 +578,18 @@
    "published_at": "2026-08-22T09:45:03"
   },
   {
-   "id": 1536,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Dekati Rekor Tertinggi, Emas Juga Menguat",
-   "x": "Bitcoin menunjukkan volatilitas yang mereda setelah mencapai level tertinggi sejak pertengahan Mei. Penguatan ini terjadi bersamaan dengan emas yang juga mendekati level tertinggi dalam tiga bulan terakhir.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T19:10:47"
-  },
-  {
-   "id": 1513,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Saham Strategy naik ke level tertinggi dua bulan bersama Bitcoin",
-   "x": "Saham Strategy (MSTR) menguat seiring dengan kenaikan Bitcoin, mendekati target harga $100. Penguatan ini terjadi setelah jeda dua bulan dalam pembelian Bitcoin oleh perusahaan.",
+   "id": 1579,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana persingkat waktu slot mainnet menjadi 350 milidetik",
+   "x": "Solana memangkas waktu slot mainnet menjadi 350 milidetik sebagai langkah awal menuju target 200 milidetik. Perubahan ini bertujuan mempercepat konfirmasi transaksi tanpa meningkatkan throughput jaringan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
-   "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T15:38:02"
+   "published_at": "2026-08-22T15:54:13"
   },
   {
    "id": 1553,
@@ -606,6 +606,20 @@
    "published_at": "2026-08-22T02:30:09"
   },
   {
+   "id": 1535,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Berita Hukum Kripto Pekan Ini: Sanksi untuk Eks FTX dan Kasus Tentara AS",
+   "x": "Regulator AS melarang eksekutif Alameda dan FTX berdagang, sementara jaksa menentang mosi tentara AS yang dituduh untung dari penggulingan Maduro. Perkembangan ini menyoroti upaya penegakan hukum di sektor aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T19:19:27"
+  },
+  {
    "id": 1628,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -614,7 +628,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-peminjaman-jepang-yen-lemah-bitcoin",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T19:14:03"
@@ -628,7 +642,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T16:31:04"
@@ -642,38 +656,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cleaning-firm-dumps-dogecoin-to-fund-100m-ai-pivot-amid-stock-dilution-warning",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cleancore-share-dilution.jpg",
-   "a": "18 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T10:05:10"
   },
   {
-   "id": 1492,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Coldcard perkuat generasi seed phrase dengan pembaruan firmware",
-   "x": "Coinkite mengimbau pengguna Coldcard untuk membuat seed phrase baru karena yang lama masih berisiko meski ada pembaruan keamanan. Pengguna disarankan untuk segera memindahkan aset ke dompet dengan seed phrase yang aman.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T10:13:23"
-  },
-  {
-   "id": 1579,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana persingkat waktu slot mainnet menjadi 350 milidetik",
-   "x": "Solana memangkas waktu slot mainnet menjadi 350 milidetik sebagai langkah awal menuju target 200 milidetik. Perubahan ini bertujuan mempercepat konfirmasi transaksi tanpa meningkatkan throughput jaringan.",
+   "id": 1675,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bernstein: Pertumbuhan Circle berlanjut tanpa Clarity Act, potensi naik 59%",
+   "x": "Bernstein menilai Circle dapat mempertahankan pertumbuhan tanpa Clarity Act, didukung pemulihan suplai USDC dan volume stablecoin. Investor perlu mencermati perkembangan stablecoin global.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+   "img": "https://www.tbstat.com/wp/uploads/2025/11/20230424_Circle_News-1200x675.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-22T15:54:13"
+   "published_at": "2026-08-24T10:08:38"
   },
   {
    "id": 1609,
@@ -688,6 +688,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T10:00:21"
+  },
+  {
+   "id": 1536,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Dekati Rekor Tertinggi, Emas Juga Menguat",
+   "x": "Bitcoin menunjukkan volatilitas yang mereda setelah mencapai level tertinggi sejak pertengahan Mei. Penguatan ini terjadi bersamaan dengan emas yang juga mendekati level tertinggi dalam tiga bulan terakhir.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T19:10:47"
   },
   {
    "id": 1561,
@@ -718,32 +732,18 @@
    "published_at": "2026-08-21T20:07:05"
   },
   {
-   "id": 1495,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin dekati $80.000, likuidasi taruhan short senilai $4 miliar",
-   "x": "Bitcoin melonjak mendekati rekor $80.000, mengakhiri reli tiga hari yang melikuidasi lebih dari $4 miliar taruhan bearish. Kenaikan ini mendorong aset digital tersebut ke level tertinggi dalam tiga bulan terakhir.",
+   "id": 1636,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Fase selanjutnya tokenisasi adalah utilitas",
+   "x": "Tokenisasi aset, khususnya dana obligasi negara AS senilai miliaran dolar, telah beralih dari sekadar konsep menjadi kenyataan. Ini menandakan pergeseran menuju penggunaan praktis token dalam manajemen aset tradisional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-climb-80k.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/the-next-phase-of-tokenization-is-utility",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-onchain-bridge.jpg",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T10:43:30"
-  },
-  {
-   "id": 1518,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Digital Asset dan yayasan Paul Ryan uji coba manfaat negara AS dengan Canton",
-   "x": "Program RISE akan menggunakan Canton Network untuk mendistribusikan manfaat negara di tiga negara bagian AS mulai 2027. Inisiatif ini menunjukkan potensi blockchain dalam menyederhanakan administrasi publik dan penyaluran bantuan sosial.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T16:25:29"
+   "published_at": "2026-08-23T22:30:23"
   },
   {
    "id": 1515,
@@ -774,6 +774,20 @@
    "published_at": "2026-08-23T09:00:35"
   },
   {
+   "id": 1518,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Digital Asset dan yayasan Paul Ryan uji coba manfaat negara AS dengan Canton",
+   "x": "Program RISE akan menggunakan Canton Network untuk mendistribusikan manfaat negara di tiga negara bagian AS mulai 2027. Inisiatif ini menunjukkan potensi blockchain dalam menyederhanakan administrasi publik dan penyaluran bantuan sosial.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-21T16:25:29"
+  },
+  {
    "id": 1637,
    "k": "pasar",
    "cat": "Pasar",
@@ -782,7 +796,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitwise-inflows-bear-market-tom-lee",
    "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T23:00:00"
@@ -802,32 +816,18 @@
    "published_at": "2026-08-21T14:57:28"
   },
   {
-   "id": 1636,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Fase selanjutnya tokenisasi adalah utilitas",
-   "x": "Tokenisasi aset, khususnya dana obligasi negara AS senilai miliaran dolar, telah beralih dari sekadar konsep menjadi kenyataan. Ini menandakan pergeseran menuju penggunaan praktis token dalam manajemen aset tradisional.",
+   "id": 1600,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Akses ke bursa kripto global terancam di Nigeria",
+   "x": "Nigeria mengusulkan persyaratan modal minimum ₦2 miliar untuk bursa dan kustodian, serta jaminan 120% untuk stablecoin valas. Aturan ini berpotensi membatasi akses investor lokal ke platform kripto internasional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-next-phase-of-tokenization-is-utility",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-onchain-bridge.jpg",
-   "a": "11 jam lalu",
+   "url": "https://cryptoslate.com/seamless-access-to-global-crypto-platforms-could-evaporate-for-locals-under-nigerias-proposed-%e2%82%a62-billion-capital-floor",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/offshore-platform-drag.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-23T22:30:23"
-  },
-  {
-   "id": 1519,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Reli Bitcoin dorong saham kripto, termasuk perusahaan penambangan",
-   "x": "Kenaikan harga Bitcoin di atas $79.000 turut mendongkrak saham perusahaan terkait aset kripto, terutama sektor penambangan dan perusahaan yang menyimpan Bitcoin. Hal ini mencerminkan korelasi positif antara pergerakan harga Bitcoin dan kinerja saham perusahaan kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T16:11:07"
+   "published_at": "2026-08-23T07:00:07"
   },
   {
    "id": 1531,
