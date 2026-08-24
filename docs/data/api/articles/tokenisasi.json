@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/iran-hormuz-fee-pasar-obligasi-yield",
    "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T02:41:47"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-next-phase-of-tokenization-is-utility",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-onchain-bridge.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T22:30:23"
@@ -54,24 +54,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ray-dalio-soroti-ekonomi-as-bitcoin-dan-emas-kembali-jadi-pilihan",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T07:00:50"
-  },
-  {
-   "id": 1470,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Shinhan Korea Selatan gandeng Solana, Etherfuse, Orca untuk terbitkan dana tokenisasi",
-   "x": "Bank Shinhan Korea Selatan menjalin kemitraan dengan Solana Foundation, Etherfuse, dan Orca untuk uji coba penerbitan dan distribusi dana yang ditokenisasi. Langkah ini menunjukkan minat institusi keuangan pada aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
-   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T06:32:48"
   },
   {
    "id": 1614,
@@ -82,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/robert-kiyosaki-emas-perak-bitcoin-dolar-palsu",
    "img": "https://assets.beincrypto.com/img/4VifjO6egNVv4QW2JPDTwZtgdaI=/smart/354c76524ffe43188f66983666850973",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T11:40:00"
@@ -124,38 +110,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bos-binance-sebut-tokenisasi-bakal-ubah-dunia-investasi",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T06:00:47"
-  },
-  {
-   "id": 1475,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "CZ Ingin Negara-Negara Tokenisasi Aset, tapi Ada Syaratnya",
-   "x": "Pendiri Binance, Changpeng Zhao (CZ), menuturkan bahwa tokenisasi bisa membantu negara menggalang dana dan menarik investasi asing, namun ia juga mengakui bahwa menempatkan aset pada beberapa blockchain dapat…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cz-negara-saham-tokenisasi-likuiditas-terfragmen",
-   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-21T05:31:06"
-  },
-  {
-   "id": 1611,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Investor asing jual obligasi AS, Washington incar penerbit stablecoin",
-   "x": "Investor asing mengurangi kepemilikan obligasi pemerintah AS senilai $29 miliar pada Juni, mengalihkan dana ke saham. Situasi ini mendorong pemerintah AS mencari sumber pendanaan baru dari penerbit stablecoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/as-foreign-investors-dump-29-billion-in-treasury-bills-washington-pivots-to-stablecoin-issuers-to-back-us-debt",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-bill-drain.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T11:10:14"
   },
   {
    "id": 1593,
@@ -172,6 +130,34 @@
    "published_at": "2026-08-23T00:26:03"
   },
   {
+   "id": 1611,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Investor asing jual obligasi AS, Washington incar penerbit stablecoin",
+   "x": "Investor asing mengurangi kepemilikan obligasi pemerintah AS senilai $29 miliar pada Juni, mengalihkan dana ke saham. Situasi ini mendorong pemerintah AS mencari sumber pendanaan baru dari penerbit stablecoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/as-foreign-investors-dump-29-billion-in-treasury-bills-washington-pivots-to-stablecoin-issuers-to-back-us-debt",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-bill-drain.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-23T11:10:14"
+  },
+  {
+   "id": 1661,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tron Inc. Treasury Capai 711 Juta TRX saat Saham Naik 7,49%",
+   "x": "Saham Tron Inc. naik 7,49% seiring treasury TRX miliknya melampaui 711,2 juta token dan TRON melewati 400 juta akun.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tron-saham-melonjak-400juta-akun",
+   "img": "https://assets.beincrypto.com/img/WD934jxC-6LgAUwvihN8XV8-kT4=/smart/56973e8aac584e748561e146e557dd65",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-24T06:34:47"
+  },
+  {
    "id": 1559,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -180,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/adam-backs-bitcoin-treasury-deal-died-but-its-15m-obligation-did-not",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bstr_standard_image.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T07:00:55"
@@ -194,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/america-is-creating-a-new-class-of-crypto-banks-but-they-arent-really-banks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/floating-crypto-trust-bank.jpg",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T09:00:49"
@@ -236,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-treasury-firm-seeks-20b-share-ceiling-and-reverse-splits-after-launching-300m-stock-offering",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/chaince-share-megaphone.jpg",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T12:15:46"
