@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T08:20:49"
+  },
+  {
+   "id": 1731,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hugging Face dikabarkan jajaki penjualan senilai $13 miliar",
+   "x": "Perusahaan hub AI open-source Hugging Face dilaporkan sedang menjajaki kemungkinan penjualan dengan valuasi yang meningkat pesat. Hal ini terjadi tak lama setelah insiden peretasan dan kesepakatan Stripe yang menaikkan harga infrastruktur AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg",
+   "a": "32 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T22:16:04"
   },
   {
    "id": 1568,
@@ -40,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/zilliqa-points-to-hardware-wallet-flaw-discarding-entropy-to-expose-crypto-keys-enabling-683m-zil-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zilliqa-ledger-bug-exposure.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T18:10:16"
