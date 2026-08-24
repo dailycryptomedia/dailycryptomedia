@@ -1,5 +1,5 @@
 {
- "total": 47,
+ "total": 44,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T15:30:53"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News_2-1200x675.jpg",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T17:02:20"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-peminjaman-jepang-yen-lemah-bitcoin",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T19:14:03"
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berita-kripto-terbaru-minggu-ini-bitcoin-bangkit-hingga-kasus-address-poisoning",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T10:00:21"
@@ -236,7 +236,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-bisa-sentuh-us80-ribu-tapi-jebakan-besar-menanti",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T02:30:19"
@@ -334,7 +334,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
    "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Funding_General-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T03:52:31"
@@ -348,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peter-schiff-bisa-saja-menghasilkan-uang-bitcoin",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T02:34:26"
@@ -452,32 +452,18 @@
    "published_at": "2026-08-21T16:29:01"
   },
   {
-   "id": 1479,
+   "id": 1500,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Treasury Bitcoin Strategy Mencapai Titik Impas Saat BTC Lampaui $77K",
-   "x": "Harga Bitcoin naik 20% dalam dua hari, membuat treasury Bitcoin milik Strategy mencapai titik impas. Pergerakan ini menunjukkan pemulihan nilai aset digital setelah periode penurunan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg",
+   "t": "Bitcoin Bergerak 140x Lebih Cepat dari Saham Minggu Ini: US$80.000 Akhir Pekan Ini?",
+   "x": "Bitcoin melampaui saham 140x minggu ini, kemudian tertahan di $79.500. Tiga lapisan resistance kini menghalangi jalan menuju $80.000.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-140x-lebih-cepat-saham-80000-akhir-pekan",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T08:48:52"
-  },
-  {
-   "id": 1485,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Teori Siklus Tengah Benjamin Cowen Terbukti Benar setelah Level Terendah Bitcoin di Juli",
-   "x": "Level terendah Bitcoin di bulan Juli mengonfirmasi tesis siklus jangka menengah Benjamin Cowen telah memasuki tahap akumulasi, meskipun risiko Q4 di $44.000 masih tetap ada.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cowen-bitcoin-siklus-tahap-akumulasi",
-   "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
-   "a": "3 hari lalu",
-   "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-21T08:20:04"
+   "published_at": "2026-08-21T13:33:12"
   },
   {
    "id": 1663,
@@ -488,7 +474,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-weekend-dip-wiped-out-250m-in-leveraged-long-traders-while-open-interest-weakens",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-liquidation-wave.jpg",
-   "a": "34 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T07:53:41"
@@ -508,18 +494,18 @@
    "published_at": "2026-08-21T14:27:31"
   },
   {
-   "id": 1500,
+   "id": 1662,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Bergerak 140x Lebih Cepat dari Saham Minggu Ini: US$80.000 Akhir Pekan Ini?",
-   "x": "Bitcoin melampaui saham 140x minggu ini, kemudian tertahan di $79.500. Tiga lapisan resistance kini menghalangi jalan menuju $80.000.",
+   "t": "Strive CEO Sebut Bear Market Bitcoin Sudah Berakhir setelah Terjadi Double Breakout",
+   "x": "CEO Strive, Matt Cole, mengatakan bear market Bitcoin (BTC) sudah berakhir, karena aset ini mengalami breakout terhadap US dollar dan emas pada minggu yang sama. Cole menuturkan bahwa rasio BTC/emas biasanya berubah…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-140x-lebih-cepat-saham-80000-akhir-pekan",
+   "url": "https://id.beincrypto.com/strive-ceo-bitcoin-bear-market-over",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 hari lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-21T13:33:12"
+   "published_at": "2026-08-24T05:55:24"
   },
   {
    "id": 1630,
@@ -530,66 +516,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-core-considers-dropping-encrypted-routing-support-as-poor-node-health-exposes-users-to-eclipse-attacks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cjdns-deprecation-debate.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T19:10:29"
-  },
-  {
-   "id": 1662,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strive CEO Sebut Bear Market Bitcoin Sudah Berakhir setelah Terjadi Double Breakout",
-   "x": "CEO Strive, Matt Cole, mengatakan bear market Bitcoin (BTC) sudah berakhir, karena aset ini mengalami breakout terhadap US dollar dan emas pada minggu yang sama. Cole menuturkan bahwa rasio BTC/emas biasanya berubah…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/strive-ceo-bitcoin-bear-market-over",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-24T05:55:24"
-  },
-  {
-   "id": 1632,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin dan Ethereum Catat Mingguan Tertinggi 2026",
-   "x": "ETF spot Bitcoin dan Ethereum AS mencatat aliran dana masuk mingguan tertinggi tahun ini seiring lonjakan harga aset kripto. Hal ini menarik kembali investor ke produk dana yang sebelumnya kesulitan mendapatkan permintaan stabil.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T20:05:10"
-  },
-  {
-   "id": 1483,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Apa Itu Bitcoin Infinity Day? Ritual 8/21 yang Melarang Jualan Selama Sehari",
-   "x": "Bitcoin Infinity Day jatuh pada 21 Agustus. Para holder membeli atau HODL saat BTC melonjak ke USD75.360 dan rasa serakah kembali muncul.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-infinity-day-21-agustus-dijelaskan",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-21T09:23:35"
-  },
-  {
-   "id": 1627,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "IPO penambang Bitcoin minta 99,8% dana dari pembeli publik, beri hanya 10% ekuitas",
-   "x": "Sebuah perusahaan penambang Bitcoin mengajukan penawaran umum perdana (IPO) dengan meminta hampir seluruh dana dari investor publik. Namun, pembeli hanya akan mendapatkan 10% kepemilikan ekuitas, yang berpotensi membuat mereka langsung terdilusi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miner-ipo-demands-99-8-of-funds-from-public-buyers-while-handing-them-just-10-equity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitari-ipo-equity-split.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T18:05:40"
   },
   {
    "id": 1651,
@@ -600,24 +530,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-dihargai-dalam-saham-reaksi",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T05:15:00"
   },
   {
-   "id": 1650,
+   "id": 1632,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemegang Bitcoin hadapi risiko fork tak terselesaikan seiring peluncuran rantai uji eCash baru",
-   "x": "Rantai uji eCash baru diluncurkan tanpa penyelesaian aturan replay dan penanganan bursa, menimbulkan risiko bagi pemegang Bitcoin. Hal ini terjadi menjelang tenggat waktu Oktober, yang dapat memengaruhi stabilitas aset digital.",
+   "t": "ETF Bitcoin dan Ethereum Catat Mingguan Tertinggi 2026",
+   "x": "ETF spot Bitcoin dan Ethereum AS mencatat aliran dana masuk mingguan tertinggi tahun ini seiring lonjakan harga aset kripto. Hal ini menarik kembali investor ke produk dana yang sebelumnya kesulitan mendapatkan permintaan stabil.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-holders-face-unresolved-fork-risks-as-new-ecash-test-chain-launches-ahead-of-october-deadline",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-ecash-fork.jpg",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T05:00:06"
+   "published_at": "2026-08-23T20:05:10"
   },
   {
    "id": 1643,
@@ -628,10 +558,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/penambang-bitcoin-terkemuka-prediksi-ethereum-akan-mengalahkan-btc-siklus-ini",
    "img": "https://assets.beincrypto.com/img/guIOuOaPXYGHC1ZWnMb_VsOXNLM=/smart/af4d6702b8ee4032b21f8e426df12985",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T00:32:21"
+  },
+  {
+   "id": 1627,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "IPO penambang Bitcoin minta 99,8% dana dari pembeli publik, beri hanya 10% ekuitas",
+   "x": "Sebuah perusahaan penambang Bitcoin mengajukan penawaran umum perdana (IPO) dengan meminta hampir seluruh dana dari investor publik. Namun, pembeli hanya akan mendapatkan 10% kepemilikan ekuitas, yang berpotensi membuat mereka langsung terdilusi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-miner-ipo-demands-99-8-of-funds-from-public-buyers-while-handing-them-just-10-equity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitari-ipo-equity-split.jpg",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-23T18:05:40"
   },
   {
    "id": 1503,
@@ -646,6 +590,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-21T10:58:34"
+  },
+  {
+   "id": 1650,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pemegang Bitcoin hadapi risiko fork tak terselesaikan seiring peluncuran rantai uji eCash baru",
+   "x": "Rantai uji eCash baru diluncurkan tanpa penyelesaian aturan replay dan penanganan bursa, menimbulkan risiko bagi pemegang Bitcoin. Hal ini terjadi menjelang tenggat waktu Oktober, yang dapat memengaruhi stabilitas aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-holders-face-unresolved-fork-risks-as-new-ecash-test-chain-launches-ahead-of-october-deadline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-ecash-fork.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T05:00:06"
   },
   {
    "id": 1543,
