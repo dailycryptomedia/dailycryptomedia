@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/crypto-futures-stablecoin-options.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T11:25:26"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/iran-hormuz-fee-pasar-obligasi-yield",
    "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T02:41:47"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-next-phase-of-tokenization-is-utility",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-onchain-bridge.jpg",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T22:30:23"
@@ -68,10 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
    "img": "https://www.tbstat.com/wp/uploads/2025/11/20230424_Circle_News-1200x675.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T10:08:38"
+  },
+  {
+   "id": 1715,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Saham tokenisasi Coinbase live di Base dengan feed harga Chainlink",
+   "x": "Coinbase meluncurkan saham tokenisasi aset dunia nyata di jaringan Base, memungkinkan pengguna non-AS memperdagangkannya secara 24/7. Ini membuka potensi integrasi aset tradisional ke dalam ekosistem DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
+   "a": "32 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T19:11:48"
   },
   {
    "id": 1689,
@@ -82,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/stablecoin-latam-arus-modal",
    "img": "https://assets.beincrypto.com/img/dK3hKNVSbShbDukQaGIQUKmzRvM=/smart/6a073113b06d42b882fc3dd6af3fc5b3",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T12:47:58"
@@ -166,24 +180,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/400m-ai-crypto-treasury-firm-seeks-second-reverse-split-while-restoring-capacity-for-3-billion-shares",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/reverse-split-shredder.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T11:10:34"
   },
   {
-   "id": 1661,
+   "id": 1718,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Tron Inc. Treasury Capai 711 Juta TRX saat Saham Naik 7,49%",
-   "x": "Saham Tron Inc. naik 7,49% seiring treasury TRX miliknya melampaui 711,2 juta token dan TRON melewati 400 juta akun.",
+   "t": "Bitcoin Kehilangan US$80.000 saat Kritikus Ramai soal Rencana Buyback US$950 Miliar dari Treasury",
+   "x": "Bitcoin kehilangan level $80.000 dalam hitungan jam saat Citadel, Schiff, dan analis lainnya menyerang rencana pendanaan buyback Treasury.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tron-saham-melonjak-400juta-akun",
-   "img": "https://assets.beincrypto.com/img/WD934jxC-6LgAUwvihN8XV8-kT4=/smart/56973e8aac584e748561e146e557dd65",
-   "a": "11 jam lalu",
+   "url": "https://id.beincrypto.com/bitcoin-80000-treasury-general-account-buybacks",
+   "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-24T06:34:47"
+   "published_at": "2026-08-24T18:22:00"
   },
   {
    "id": 1559,
@@ -198,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T07:00:55"
+  },
+  {
+   "id": 1661,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tron Inc. Treasury Capai 711 Juta TRX saat Saham Naik 7,49%",
+   "x": "Saham Tron Inc. naik 7,49% seiring treasury TRX miliknya melampaui 711,2 juta token dan TRON melewati 400 juta akun.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tron-saham-melonjak-400juta-akun",
+   "img": "https://assets.beincrypto.com/img/WD934jxC-6LgAUwvihN8XV8-kT4=/smart/56973e8aac584e748561e146e557dd65",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-24T06:34:47"
   },
   {
    "id": 1604,

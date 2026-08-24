@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-08-23T12:35:36"
   },
   {
-   "id": 1533,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan $11 Juta di Maya Protocol, Likuiditas Terancam",
-   "x": "Sebuah protokol DeFi mengalami kerugian likuiditas senilai $11 juta akibat peretasan, dengan pelaku masih memegang 20,83 BTC. Kerugian yang lebih luas dan dampak pada pengguna belum dirinci.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/maya-protocol-exploit-wallet-still-holds-20-83-btc-as-11-million-pool-impact-remains-unresolved",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/maya-protocol-exploit-damage.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T19:05:07"
-  },
-  {
    "id": 1582,
    "k": "defi",
    "cat": "DeFi",
@@ -44,48 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:31:03"
-  },
-  {
-   "id": 1634,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Protokol DeFi Term Finance rugpull senilai $8,5 juta",
-   "x": "Protokol peminjaman DeFi Term Finance mengalami kerugian sekitar $8,5 juta akibat eksploitasi tata kelola. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem DeFi, meskipun ada mekanisme perlindungan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
-   "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T20:50:45"
-  },
-  {
-   "id": 1648,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Term Finance rugi estimasi $8,5 juta akibat eksploitasi tata kelola vault",
-   "x": "Term Finance menutup Meta Vaults secara permanen setelah peretasan yang diperkirakan menghilangkan hampir seluruh simpanan Ethereum. Peristiwa ini menyoroti risiko keamanan dalam protokol DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-24T03:59:29"
-  },
-  {
-   "id": 1653,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tim Trump Tarik Jutaan US$ dari Liquidity Pool Memecoin TRUMP saat Reli Harga",
-   "x": "Wallet yang terkait dengan Trump kembali menarik USDC dari liquidity pool TRUMP minggu ini, memperpanjang pola yang pertama kali dilacak oleh LookOnChain pada 2025.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tim-trump-tarik-liquidity-pool-trump",
-   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-24T04:31:25"
   },
   {
    "id": 1598,
@@ -102,18 +46,46 @@
    "published_at": "2026-08-23T05:00:07"
   },
   {
-   "id": 1531,
+   "id": 1634,
    "k": "defi",
    "cat": "DeFi",
-   "t": "BounceBit Pindah ke BNB Chain Pasca Peretasan $3 Juta",
-   "x": "Proyek BounceBit akan menghentikan operasional blockchain-nya dan bermigrasi ke BNB Chain setelah mengalami peretasan senilai $3 juta. Pelaku berhasil mentransfer jutaan token BB.",
+   "t": "Protokol DeFi Term Finance rugpull senilai $8,5 juta",
+   "x": "Protokol peminjaman DeFi Term Finance mengalami kerugian sekitar $8,5 juta akibat eksploitasi tata kelola. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem DeFi, meskipun ada mekanisme perlindungan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
-   "img": "https://www.tbstat.com/wp/uploads/2022/03/20220321_DAO-Generic-1200x675.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+   "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-21T17:28:34"
+   "published_at": "2026-08-23T20:50:45"
+  },
+  {
+   "id": 1648,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Term Finance rugi estimasi $8,5 juta akibat eksploitasi tata kelola vault",
+   "x": "Term Finance menutup Meta Vaults secara permanen setelah peretasan yang diperkirakan menghilangkan hampir seluruh simpanan Ethereum. Peristiwa ini menyoroti risiko keamanan dalam protokol DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T03:59:29"
+  },
+  {
+   "id": 1653,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tim Trump Tarik Jutaan US$ dari Liquidity Pool Memecoin TRUMP saat Reli Harga",
+   "x": "Wallet yang terkait dengan Trump kembali menarik USDC dari liquidity pool TRUMP minggu ini, memperpanjang pola yang pertama kali dilacak oleh LookOnChain pada 2025.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tim-trump-tarik-liquidity-pool-trump",
+   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-24T04:31:25"
   },
   {
    "id": 1551,
@@ -138,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bouncebit-abandons-layer-1-after-286-million-token-exploit-leaving-token-holders-in-limbo",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bouncebit-layer-retired.jpg",
-   "a": "53 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T17:05:57"
@@ -152,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/evm-network-halts-block-production-after-supply-exploit-as-ton-connection-remains-dark",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/tac-supply-shutdown.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T08:50:38"

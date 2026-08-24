@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T09:55:25"
+  },
+  {
+   "id": 1720,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Zilliqa sebut cacat dompet keras curi 683 juta ZIL",
+   "x": "Zilliqa mengidentifikasi kelemahan pada dompet keras yang mengekspos kunci kripto, menyebabkan pencurian 683 juta ZIL. Insiden ini menyoroti pentingnya keamanan perangkat keras dalam melindungi aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/zilliqa-points-to-hardware-wallet-flaw-discarding-entropy-to-expose-crypto-keys-enabling-683m-zil-theft",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zilliqa-ledger-bug-exposure.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T18:10:16"
   },
   {
    "id": 1558,
