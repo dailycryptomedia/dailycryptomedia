@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,10 +54,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
    "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T20:50:45"
+  },
+  {
+   "id": 1648,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Term Finance rugi estimasi $8,5 juta akibat eksploitasi tata kelola vault",
+   "x": "Term Finance menutup Meta Vaults secara permanen setelah peretasan yang diperkirakan menghilangkan hampir seluruh simpanan Ethereum. Peristiwa ini menyoroti risiko keamanan dalam protokol DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T03:59:29"
   },
   {
    "id": 1612,
@@ -68,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/term-labs-defi-exploit-vaults",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T12:35:36"
@@ -82,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coldcard-keypress-seed-security.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T05:00:07"
@@ -102,18 +116,18 @@
    "published_at": "2026-08-21T17:28:34"
   },
   {
-   "id": 1465,
+   "id": 1653,
    "k": "defi",
    "cat": "DeFi",
-   "t": "BTCS gunakan Ethereum lunasi utang Aave, kas sisa $317.000",
-   "x": "BTCS menggunakan Ethereum untuk melunasi utang di Aave, menyisakan kas tunai hanya $317.000 di akhir kuartal kedua. Mayoritas aset perusahaan masih terikat pada posisi staking dan DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/btcs_standard_image.jpg",
-   "a": "2 hari lalu",
+   "t": "Tim Trump Tarik Jutaan US$ dari Liquidity Pool Memecoin TRUMP saat Reli Harga",
+   "x": "Wallet yang terkait dengan Trump kembali menarik USDC dari liquidity pool TRUMP minggu ini, memperpanjang pola yang pertama kali dilacak oleh LookOnChain pada 2025.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tim-trump-tarik-liquidity-pool-trump",
+   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
+   "a": "1 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T05:00:12"
+   "translated": false,
+   "published_at": "2026-08-24T04:31:25"
   },
   {
    "id": 1551,

@@ -1,21 +1,21 @@
 {
- "total": 8,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 1461,
+   "id": 1561,
    "k": "web3",
    "cat": "Web3",
-   "t": "Memory Adalah “Infrastruktur Strategis di Era AI,” Kata CEO Micron",
-   "x": "CEO Micron, Sanjay Mehrotra, mengungkapkan bahwa memori kini telah menjadi infrastruktur strategis di era kecerdasan buatan (AI), sebuah perubahan yang ia yakini telah mengubah secara permanen ekonomi dari industri yang…",
+   "t": "The Sandbox Berhasil Atasi Eksploitasi Bridge setelah SAND Tanpa Dukungan Dicetak di Base dan BSC",
+   "x": "The Sandbox menyampaikan bahwa mereka telah mengatasi kerentanan di bridge lintas chain SAND pada Base dan BNB Smart Chain setelah seorang penyerang mencetak token tanpa jaminan di kedua jaringan tersebut. Pihak proyek…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/micron-memory-infrastruktur-strategis-era-ai",
-   "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/sandbox-sand-bridge-exploit-base-bsc",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-21T04:54:24"
+   "published_at": "2026-08-22T08:20:49"
   },
   {
    "id": 1568,
@@ -46,20 +46,6 @@
    "published_at": "2026-08-21T07:00:39"
   },
   {
-   "id": 1561,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "The Sandbox Berhasil Atasi Eksploitasi Bridge setelah SAND Tanpa Dukungan Dicetak di Base dan BSC",
-   "x": "The Sandbox menyampaikan bahwa mereka telah mengatasi kerentanan di bridge lintas chain SAND pada Base dan BNB Smart Chain setelah seorang penyerang mencetak token tanpa jaminan di kedua jaringan tersebut. Pihak proyek…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sandbox-sand-bridge-exploit-base-bsc",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-22T08:20:49"
-  },
-  {
    "id": 1558,
    "k": "web3",
    "cat": "Web3",
@@ -68,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gawat-500-juta-sand-dicetak-secara-misterius-the-sandbox-diduga-kebobolan",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T05:30:33"
@@ -96,24 +82,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cuma-1-persen-wallet-yang-mendominasi-polymarket-apa-artinya-bagi-prediksi-pemilu-as",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T04:00:37"
-  },
-  {
-   "id": 1466,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "150 Wallet Polymarket Diduga Cuan dari Informasi Militer AS",
-   "x": "Sebanyak 150 dompet digital di platform Polymarket diduga meraup keuntungan dari informasi sensitif militer Amerika Serikat. Kejadian ini menimbulkan kekhawatiran mengenai potensi insider trading di ranah aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/heboh-150-wallet-polymarket-diduga-cuan-dari-informasi-militer-as",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-21T03:30:17"
   }
  ]
 }
