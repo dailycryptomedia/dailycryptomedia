@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bouncebit-exploit-chain-sunset-bb-reissue",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-22T16:26:33"
@@ -54,10 +54,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-cftc-signal.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T17:10:29"
+  },
+  {
+   "id": 1707,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pusat Kebijakan Hyperliquid Desak SEC dan CFTC Harmonisasi Aturan Kontrak Berjangka",
+   "x": "Pusat Kebijakan Hyperliquid mendorong regulator AS, SEC dan CFTC, untuk menyelaraskan aturan mengenai kontrak berjangka abadi. Dorongan ini muncul seiring meningkatnya skala produk berjangka multi-aset Hyperliquid dan menarik perhatian bursa tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T16:18:24"
   },
   {
    "id": 1537,
@@ -116,18 +130,18 @@
    "published_at": "2026-08-22T15:05:23"
   },
   {
-   "id": 1674,
+   "id": 1704,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Jerman pimpin implementasi MiCA dengan 6 bank tambahan",
-   "x": "Jerman semakin unggul dalam lisensi regulasi aset kripto MiCA Uni Eropa, menambah 6 bank baru. Ini menunjukkan komitmen kuat Eropa terhadap kerangka regulasi aset digital.",
+   "t": "Grup Advokasi Kripto Lawan Pajak Aset Digital Illinois di Pengadilan",
+   "x": "Dua grup advokasi aset digital menggugat pajak kripto 0,2% di Illinois atas dasar konstitusional dan proses hukum. Langkah ini menyusul gugatan serupa yang diajukan oleh Digital Chamber pada Juli lalu.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
-   "a": "5 jam lalu",
+   "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T10:41:34"
+   "published_at": "2026-08-24T16:05:48"
   },
   {
    "id": 1591,
@@ -144,18 +158,18 @@
    "published_at": "2026-08-22T21:55:10"
   },
   {
-   "id": 1638,
+   "id": 1674,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Reli Bitcoin 23% Didorong Kebijakan Utang AS: Hodler's Digest",
-   "x": "Potensi krisis utang AS memicu reli Bitcoin sebesar 23%, yang bisa menandai awal siklus baru. Peristiwa ini menunjukkan korelasi antara kebijakan fiskal AS dan pergerakan aset digital.",
+   "t": "Jerman pimpin implementasi MiCA dengan 6 bank tambahan",
+   "x": "Jerman semakin unggul dalam lisensi regulasi aset kripto MiCA Uni Eropa, menambah 6 bank baru. Ini menunjukkan komitmen kuat Eropa terhadap kerangka regulasi aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png",
-   "a": "16 jam lalu",
+   "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-23T23:56:00"
+   "published_at": "2026-08-24T10:41:34"
   },
   {
    "id": 1575,
@@ -170,6 +184,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T13:45:53"
+  },
+  {
+   "id": 1638,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Reli Bitcoin 23% Didorong Kebijakan Utang AS: Hodler's Digest",
+   "x": "Potensi krisis utang AS memicu reli Bitcoin sebesar 23%, yang bisa menandai awal siklus baru. Peristiwa ini menunjukkan korelasi antara kebijakan fiskal AS dan pergerakan aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-23T23:56:00"
   }
  ]
 }
