@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-22T08:20:49"
   },
   {
+   "id": 1742,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "AI penipu tak perlu retas dompet jika bisa yakinkan Anda menggunakannya",
+   "x": "Penipu siber kini memanfaatkan AI untuk memanipulasi pengguna agar memberikan akses ke dompet kripto mereka. Modus baru ini menggeser fokus dari peretasan teknis ke rekayasa sosial yang lebih canggih.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ai-scammers-no-longer-need-to-hack-your-wallet-if-they-can-convince-you-to-use-it-for-them",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/deepfake-transfer-security-risk.jpg",
+   "a": "2 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T23:45:07"
+  },
+  {
    "id": 1731,
    "k": "web3",
    "cat": "Web3",
@@ -26,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg",
-   "a": "32 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T22:16:04"
@@ -54,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/zilliqa-points-to-hardware-wallet-flaw-discarding-entropy-to-expose-crypto-keys-enabling-683m-zil-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zilliqa-ledger-bug-exposure.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T18:10:16"
