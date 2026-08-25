@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-pakai-dex-screener-buat-cari-kripto-potensial",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T09:00:11"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-ipfs-explained.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T11:57:33"
@@ -110,10 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bouncebit-abandons-layer-1-after-286-million-token-exploit-leaving-token-holders-in-limbo",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bouncebit-layer-retired.jpg",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T17:05:57"
+  },
+  {
+   "id": 1821,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "DEX Robinhood Chain Arcus luncurkan pTokens untuk akun perpetual",
+   "x": "Arcus, bursa terdesentralisasi di jaringan Robinhood, memperkenalkan pTokens yang memungkinkan konversi akun perpetual menjadi token ERC-20 yang dapat ditransfer. Ini membuka kemungkinan baru untuk likuiditas dan transfer aset derivatif.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
+   "img": "https://www.tbstat.com/wp/uploads/2021/08/20210803_Robinhood_Crypto-1200x675.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T14:00:00"
   },
   {
    "id": 1648,
