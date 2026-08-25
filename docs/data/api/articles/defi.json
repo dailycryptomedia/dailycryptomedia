@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -44,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T05:00:07"
+  },
+  {
+   "id": 1785,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Cara pakai DEX Screener cari kripto potensial",
+   "x": "Artikel ini memberikan panduan untuk mengidentifikasi aset kripto potensial menggunakan DEX Screener, tidak hanya berdasarkan tren harga. Pembaca dapat mempelajari strategi analisis untuk menemukan peluang investasi di pasar terdesentralisasi.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cara-pakai-dex-screener-buat-cari-kripto-potensial",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T09:00:11"
   },
   {
    "id": 1634,
@@ -96,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bouncebit-abandons-layer-1-after-286-million-token-exploit-leaving-token-holders-in-limbo",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bouncebit-layer-retired.jpg",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T17:05:57"
@@ -110,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/evm-network-halts-block-production-after-supply-exploit-as-ton-connection-remains-dark",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/tac-supply-shutdown.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T08:50:38"
