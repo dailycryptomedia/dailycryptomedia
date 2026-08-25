@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ai-scammers-no-longer-need-to-hack-your-wallet-if-they-can-convince-you-to-use-it-for-them",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/deepfake-transfer-security-risk.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T23:45:07"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T22:16:04"
@@ -60,6 +60,34 @@
    "published_at": "2026-08-22T09:55:25"
   },
   {
+   "id": 1754,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BNB Chain aktifkan hard fork Pasteur untuk perkuat keamanan bridge",
+   "x": "BNB Chain mengaktifkan pembaruan Pasteur hard fork pada BSC untuk menutup celah keamanan pada jembatan aset digital (bridge) dan validator. Peningkatan ini juga bertujuan meningkatkan kapasitas transaksi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T03:56:29"
+  },
+  {
+   "id": 1755,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Cosmos Labs Konfirmasi Insiden Cosmos EVM saat 3 Chain Ungkap Dampaknya",
+   "x": "Cosmos Labs telah mengkonfirmasi adanya insiden keamanan yang saat ini sedang berlangsung yang berdampak pada pengguna modul Cosmos EVM. Mereka menyarankan seluruh chain yang terkait untuk meminta validator menghentikan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/insiden-keamanan-cosmos-evm-kiichain-tac-mantra",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "42 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-25T04:34:43"
+  },
+  {
    "id": 1720,
    "k": "web3",
    "cat": "Web3",
@@ -68,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/zilliqa-points-to-hardware-wallet-flaw-discarding-entropy-to-expose-crypto-keys-enabling-683m-zil-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/zilliqa-ledger-bug-exposure.jpg",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T18:10:16"
@@ -88,6 +116,20 @@
    "published_at": "2026-08-22T05:30:33"
   },
   {
+   "id": 1761,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Proposal Ethereum usulkan pemotongan 33.800 ETH dan hentikan klien ringan Altair",
+   "x": "Sebuah proposal Ethereum (EIP-8390) mengusulkan pemotongan suplai ETH sebesar 33.800 unit dengan memanfaatkan bukti finalitas offchain. Namun, usulan ini berpotensi menghentikan seluruh klien ringan Altair yang sudah ada.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereum-proposal-would-cut-33800-eth-issuance-and-break-every-deployed-altair-light-client",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sync-committee-removal.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T03:40:43"
+  },
+  {
    "id": 1599,
    "k": "web3",
    "cat": "Web3",
@@ -96,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cuma-1-persen-wallet-yang-mendominasi-polymarket-apa-artinya-bagi-prediksi-pemilu-as",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T04:00:37"
