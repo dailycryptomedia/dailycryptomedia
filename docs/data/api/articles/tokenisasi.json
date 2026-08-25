@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 35,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/rekening-aktivis-diblokir-bank-mandiri-self-custody-kripto-jadi-alternatif",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T06:00:47"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T20:16:03"
@@ -82,24 +82,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668",
    "img": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Stablecoins_News-1200x675.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T05:24:15"
   },
   {
-   "id": 1715,
+   "id": 1795,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Saham tokenisasi Coinbase live di Base dengan feed harga Chainlink",
-   "x": "Coinbase meluncurkan saham tokenisasi aset dunia nyata di jaringan Base, memungkinkan pengguna non-AS memperdagangkannya secara 24/7. Ini membuka potensi integrasi aset tradisional ke dalam ekosistem DeFi.",
+   "t": "Arcus luncurkan posisi derivatif ter-tokenisasi di Robinhood Chain",
+   "x": "Arcus memperkenalkan token ERC-20 yang dapat ditransfer untuk posisi derivatif, memungkinkan perdagangan dengan leverage tanpa pengguna harus menjual aset mereka. Inovasi ini membuka cara baru dalam mengelola posisi derivatif di blockchain.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
-   "a": "16 jam lalu",
+   "url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-trading-platform-1.jpg",
+   "a": "28 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T19:11:48"
+   "published_at": "2026-08-25T14:00:00"
   },
   {
    "id": 1756,
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/druckenmiller-bessent-buyback-obligasi-treasury",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-25T04:25:00"
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/Franklin-Templeton-gID_7.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T09:30:27"
@@ -166,24 +166,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675",
    "img": "https://www.tbstat.com/wp/uploads/2024/08/20240802_HongKong_News_1-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T06:39:12"
   },
   {
-   "id": 1775,
+   "id": 1715,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Standard Chartered jadi distributor pertama stablecoin HKD bank",
-   "x": "Standard Chartered akan mendistribusikan stablecoin HKD, menandai langkah besar dalam adopsi aset digital oleh perbankan tradisional. Inisiatif ini berpotensi memperluas penggunaan stablecoin untuk penyelesaian transaksi keuangan.",
+   "t": "Saham tokenisasi Coinbase live di Base dengan feed harga Chainlink",
+   "x": "Coinbase meluncurkan saham tokenisasi aset dunia nyata di jaringan Base, memungkinkan pengguna non-AS memperdagangkannya secara 24/7. Ini membuka potensi integrasi aset tradisional ke dalam ekosistem DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
-   "a": "1 jam lalu",
+   "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-25T09:52:40"
+   "published_at": "2026-08-24T19:11:48"
   },
   {
    "id": 1744,
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/masalah-pembayaran-stablecoin-banxa-checkout",
    "img": "https://assets.beincrypto.com/img/IxcAE5qjSOdNrhGgcgKETOC-sng=/smart/1a117cf311e24d5fb937da5fea4e1e43",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-25T02:14:10"
@@ -222,7 +222,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T19:43:43"
@@ -242,18 +242,18 @@
    "published_at": "2026-08-24T10:08:38"
   },
   {
-   "id": 1764,
+   "id": 1775,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "AS targetkan sektor kripto Iran, sita pembayaran minyak lebih dari US$100 juta",
-   "x": "Pemerintah AS memperluas sanksi ke sektor aset digital Iran, menuduh perantara di UE memfasilitasi pembayaran lebih dari US$100 juta untuk penjualan minyak. Tindakan ini menargetkan aliran dana ilegal.",
+   "t": "Standard Chartered jadi distributor pertama stablecoin HKD bank",
+   "x": "Standard Chartered akan mendistribusikan stablecoin HKD, menandai langkah besar dalam adopsi aset digital oleh perbankan tradisional. Inisiatif ini berpotensi memperluas penggunaan stablecoin untuk penyelesaian transaksi keuangan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png",
-   "a": "6 jam lalu",
+   "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-25T05:29:29"
+   "published_at": "2026-08-25T09:52:40"
   },
   {
    "id": 1689,
@@ -264,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/stablecoin-latam-arus-modal",
    "img": "https://assets.beincrypto.com/img/dK3hKNVSbShbDukQaGIQUKmzRvM=/smart/6a073113b06d42b882fc3dd6af3fc5b3",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T12:47:58"
@@ -278,10 +278,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-tops-80000-as-treasury-weighs-950-billion-cash-pile-for-bond-buybacks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-liquidity-valve.jpg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T09:20:40"
+  },
+  {
+   "id": 1805,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Coinbase luncurkan token saham di jaringan Base",
+   "x": "Coinbase kini memungkinkan pengguna memperdagangkan token saham yang mewakili kepemilikan langsung atas saham asli. Inisiatif ini membuka jalan bagi aset dunia nyata (RWA) di ekosistem DeFi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T11:58:22"
   },
   {
    "id": 1723,
@@ -292,10 +306,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
    "img": "https://www.tbstat.com/wp/uploads/2025/06/cropped-6-1200x675.jpg",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T19:23:02"
+  },
+  {
+   "id": 1798,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Laporan: India rencanakan obligasi ter-tokenisasi pertama pakai CBDC grosir",
+   "x": "India berencana menguji coba obligasi korporasi ter-tokenisasi menggunakan mata uang digital bank sentral (CBDC) grosir dalam sebuah pilot project. Langkah ini menandai potensi adopsi tokenisasi aset dunia nyata di pasar keuangan negara tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-business-environment-for-crypto-like-in-india2.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T12:09:15"
   },
   {
    "id": 1758,
@@ -306,7 +334,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-emas-bulan-terbaik-sejak-1999",
    "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-25T03:33:32"
@@ -320,10 +348,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solana-stakers-face-yield-cuts-as-a-treasury-firm-fights-to-protect-99-4-of-its-revenue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-validator-yield-vote.jpg",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T20:20:22"
+  },
+  {
+   "id": 1764,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "AS targetkan sektor kripto Iran, sita pembayaran minyak lebih dari US$100 juta",
+   "x": "Pemerintah AS memperluas sanksi ke sektor aset digital Iran, menuduh perantara di UE memfasilitasi pembayaran lebih dari US$100 juta untuk penjualan minyak. Tindakan ini menargetkan aliran dana ilegal.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T05:29:29"
   },
   {
    "id": 1614,
@@ -376,7 +418,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-treasury-firm-seeks-20b-share-ceiling-and-reverse-splits-after-launching-300m-stock-offering",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/chaince-share-megaphone.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T12:15:46"
@@ -390,10 +432,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-80000-treasury-general-account-buybacks",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T18:22:00"
+  },
+  {
+   "id": 1802,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Rencana buyback 25% manajer aset kripto ini bisa alihkan saham ke karyawan",
+   "x": "Rencana pembelian kembali saham oleh manajer aset kripto besar berpotensi mengalihkan saham tersebut kepada karyawan alih-alih mengurangi suplai beredar. Hal ini menimbulkan pertanyaan mengenai dampak sebenarnya pada valuasi aset.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-a-major-crypto-asset-managers-25-buyback-plan-might-recycle-shares-into-employee-awards-instead-of-shrinking-supply",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coinshares-share-recycling.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T12:40:47"
   },
   {
    "id": 1661,
@@ -410,6 +466,20 @@
    "published_at": "2026-08-24T06:34:47"
   },
   {
+   "id": 1810,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Lisk Akan Menutup Blockchain-nya setelah 10 Tahun. Dulu Pernah Bernilai US$4 Miliar",
+   "x": "Lisk akan menutup blockchain-nya pada 31 Oktober, membakar 100 juta LSK, dan beralih ke bisnis keuangan stablecoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/lisk-blockchain-shutdown-lsk-burn",
+   "img": "https://assets.beincrypto.com/img/AnNI9moOUZMIebf4FDnFx8KGoBg=/smart/1fb1df15b92c4c8fa533fa09136010a3",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-25T12:25:36"
+  },
+  {
    "id": 1736,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -418,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kapitalisasi-pasar-rwa-melonjak-kalahkan-meme-coin",
    "img": "https://assets.beincrypto.com/img/rDVaGmXhuWTHATwZTMokhWYaQQk=/smart/b568ca62086c4e51853ddf5ba53764bc",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-24T20:42:53"

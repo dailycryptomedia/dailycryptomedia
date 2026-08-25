@@ -1,5 +1,5 @@
 {
- "total": 100,
+ "total": 104,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,20 +46,6 @@
    "published_at": "2026-08-23T15:45:11"
   },
   {
-   "id": 1572,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Sepertiga situs web pasca-ChatGPT ditulis AI, menurut Pew",
-   "x": "Penelitian Pew menemukan sepertiga situs web yang dipindai ditulis oleh AI, dengan konsentrasi di domain .com. Ini menunjukkan peningkatan pesat konten yang dihasilkan mesin di internet.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-22T13:31:03"
-  },
-  {
    "id": 1721,
    "k": "pasar",
    "cat": "Pasar",
@@ -68,10 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets.png",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T20:46:16"
+  },
+  {
+   "id": 1618,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Robot AI Bisa Alami Momen 'ChatGPT' pada 2027, Kata Ketua ACE Robotics",
+   "x": "AI untuk robot yang memahami dunia fisik bisa jadi terobosan besar. Adopsi luas mungkin masih butuh waktu bertahun-tahun.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-23T14:31:04"
   },
   {
    "id": 1588,
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jangan-lengah-harga-bitcoin-masih-rawan-longsor",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T03:00:58"
@@ -124,24 +124,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/riot-platforms-locked-in-a-9-1-billion-anthropic-deal-but-its-bridge-loan-expires-before-the-rent-starts",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/iot-power-financing-gap.jpg",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T16:00:01"
-  },
-  {
-   "id": 1618,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Robot AI Bisa Alami Momen 'ChatGPT' pada 2027, Kata Ketua ACE Robotics",
-   "x": "AI untuk robot yang memahami dunia fisik bisa jadi terobosan besar. Adopsi luas mungkin masih butuh waktu bertahun-tahun.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T14:31:04"
   },
   {
    "id": 1714,
@@ -152,10 +138,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-1.jpg",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T19:18:06"
+  },
+  {
+   "id": 1622,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Studi: 63% Buku Keagamaan di Amazon Kemungkinan Ditulis AI",
+   "x": "Analisis Originality.ai terhadap lebih dari 2.000 judul buku menemukan 63% buku keagamaan di Amazon kemungkinan dibuat oleh kecerdasan buatan. Buku tentang sihir memiliki tingkat konten AI tertinggi, mencapai 78%.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-23T16:31:04"
   },
   {
    "id": 1692,
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/cropped-11-1200x658.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T13:36:31"
@@ -180,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-eth-sentuh-level-langganan-rebound-us9-000-jadi-target-reli",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T02:30:28"
@@ -208,24 +208,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ledger-patched-an-ethereum-app-bug-that-could-show-one-transaction-and-sign-another",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ledger-ethereum-update-warning.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T05:00:33"
-  },
-  {
-   "id": 1622,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Studi: 63% Buku Keagamaan di Amazon Kemungkinan Ditulis AI",
-   "x": "Analisis Originality.ai terhadap lebih dari 2.000 judul buku menemukan 63% buku keagamaan di Amazon kemungkinan dibuat oleh kecerdasan buatan. Buku tentang sihir memiliki tingkat konten AI tertinggi, mencapai 78%.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-23T16:31:04"
   },
   {
    "id": 1673,
@@ -240,6 +226,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T11:21:19"
+  },
+  {
+   "id": 1705,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Zcash Capai Rekor Tertinggi Delapan Tahun Seiring Taruhan Futures Hampir Dua Kali Lipat",
+   "x": "Harga Zcash melonjak melampaui $880, mencapai level tertinggi dalam delapan tahun terakhir. Minat terbuka pada kontrak berjangka abadi (perpetual futures) untuk Zcash juga meningkat tajam hingga mencapai $1,8 miliar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T17:50:35"
   },
   {
    "id": 1584,
@@ -292,24 +292,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fidelity-grants-etfs-power-to-stake-100-of-crypto-while-outlining-exit-delay-risks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/fidelity-liquidity-flood-risk.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T22:30:27"
-  },
-  {
-   "id": 1705,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Zcash Capai Rekor Tertinggi Delapan Tahun Seiring Taruhan Futures Hampir Dua Kali Lipat",
-   "x": "Harga Zcash melonjak melampaui $880, mencapai level tertinggi dalam delapan tahun terakhir. Minat terbuka pada kontrak berjangka abadi (perpetual futures) untuk Zcash juga meningkat tajam hingga mencapai $1,8 miliar.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-24T17:50:35"
   },
   {
    "id": 1698,
@@ -320,10 +306,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-3.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T15:29:26"
+  },
+  {
+   "id": 1726,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Model AI Ox Alpha gratis, kalahkan Claude Fable, dan tak ada yang tahu pembuatnya",
+   "x": "Model AI Ox Alpha memuncaki skor benchmark dan mampu memproses input video. Identitas pengembangnya masih menjadi misteri di kalangan komunitas AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T20:46:03"
   },
   {
    "id": 1579,
@@ -354,18 +354,18 @@
    "published_at": "2026-08-23T02:30:45"
   },
   {
-   "id": 1724,
+   "id": 1808,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Sanksi Iran Bessent: Pasar Harga Efek Terbatas sampai Bank Besar Kena Sanksi",
-   "x": "Bessent mengancam akan memutus para pendukung Iran dari sistem dolar. Harga minyak turun, Bitcoin naik, dan tidak ada institusi yang disebutkan.",
+   "t": "Prediction Market Bertabrakan dengan Hukum Olahraga dan Kekuatan Exchange",
+   "x": "Prediction market menjadi salah satu sektor yang paling cepat berkembang dalam dunia trading di AS, dan kontrak olahraga kini berada di pusat perseteruan hukum tentang kontrol regulasi. Persaingan exchange, hukum…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bessent-sanksi-iran-gigi-terbatas-bank",
-   "img": "https://assets.beincrypto.com/img/kVb_bumhWtipE3Yt3driJz0edtc=/smart/becd2f7ebaa64290a330e9977a0ad593",
-   "a": "15 jam lalu",
+   "url": "https://id.beincrypto.com/prediction-markets-hukum-olahraga-pertukaran-kekuasaan",
+   "img": "https://assets.beincrypto.com/img/9kDLTyNb7aG4NxCsYKMVPbRqhu0=/smart/f830e86eb2874459aa94c92836141d90",
+   "a": "36 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-24T20:25:18"
+   "published_at": "2026-08-25T13:52:09"
   },
   {
    "id": 1667,
@@ -382,32 +382,32 @@
    "published_at": "2026-08-24T10:05:10"
   },
   {
-   "id": 1726,
+   "id": 1796,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Model AI Ox Alpha gratis, kalahkan Claude Fable, dan tak ada yang tahu pembuatnya",
-   "x": "Model AI Ox Alpha memuncaki skor benchmark dan mampu memproses input video. Identitas pengembangnya masih menjadi misteri di kalangan komunitas AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png",
-   "a": "15 jam lalu",
+   "t": "Peretasan Hugging Face ungkap paradoks keamanan siber AI open-weight",
+   "x": "Hugging Face menghadapi risiko keamanan siber akibat ketergantungannya pada model AI open-weight dari Tiongkok untuk pertahanan. Kurangnya pengaman pada model tersebut justru berpotensi menimbulkan bahaya baru.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/wp-cover-30445-creating-good-agi-that-wont-kill-us-all-with-crypto-artifici-960x540.webp",
+   "a": "58 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T20:46:03"
+   "published_at": "2026-08-25T13:30:00"
   },
   {
-   "id": 1722,
+   "id": 1717,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bernstein lihat siklus pertumbuhan USDC baru, targetkan harga Circle $140",
-   "x": "Pasokan USDC naik sekitar $2 miliar dalam seminggu, didorong oleh aktivitas transaksi yang lebih tinggi. Analis memprediksi pertumbuhan lebih lanjut untuk stablecoin ini.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-usd-coin-usdc-in-united-states-1.jpg",
-   "a": "15 jam lalu",
+   "t": "Hyperliquid capai rekor tertinggi jelang unlock token $1,2 miliar",
+   "x": "Token Hyperliquid mencapai rekor tertinggi di tengah antisipasi pelepasan suplai token terbesarnya. Peristiwa ini dapat memengaruhi likuiditas dan volatilitas harga token tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T20:00:39"
+   "published_at": "2026-08-24T18:30:27"
   },
   {
    "id": 1765,
@@ -418,7 +418,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T06:46:31"
@@ -432,24 +432,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-25-agustus-2026-pengu-ondo-neo-mnt-cc-mulai-uusik-peta-pasar",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T02:00:33"
   },
   {
-   "id": 1637,
+   "id": 1724,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bitwise Baru Saja Meraih US$1,8 Miliar di Bear Market, Tom Lee Menyadari",
-   "x": "Bitwise menarik arus masuk bersih sebesar $1,8 miliar dan Tom Lee memberikan apresiasi. Namun, uang tersebut membeli yield, bukan kenaikan harga.",
+   "t": "Sanksi Iran Bessent: Pasar Harga Efek Terbatas sampai Bank Besar Kena Sanksi",
+   "x": "Bessent mengancam akan memutus para pendukung Iran dari sistem dolar. Harga minyak turun, Bitcoin naik, dan tidak ada institusi yang disebutkan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitwise-inflows-bear-market-tom-lee",
-   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/bessent-sanksi-iran-gigi-terbatas-bank",
+   "img": "https://assets.beincrypto.com/img/kVb_bumhWtipE3Yt3driJz0edtc=/smart/becd2f7ebaa64290a330e9977a0ad593",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-23T23:00:00"
+   "published_at": "2026-08-24T20:25:18"
   },
   {
    "id": 1600,
@@ -466,32 +466,32 @@
    "published_at": "2026-08-23T07:00:07"
   },
   {
-   "id": 1717,
+   "id": 1722,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Hyperliquid capai rekor tertinggi jelang unlock token $1,2 miliar",
-   "x": "Token Hyperliquid mencapai rekor tertinggi di tengah antisipasi pelepasan suplai token terbesarnya. Peristiwa ini dapat memengaruhi likuiditas dan volatilitas harga token tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png",
-   "a": "17 jam lalu",
+   "t": "Bernstein lihat siklus pertumbuhan USDC baru, targetkan harga Circle $140",
+   "x": "Pasokan USDC naik sekitar $2 miliar dalam seminggu, didorong oleh aktivitas transaksi yang lebih tinggi. Analis memprediksi pertumbuhan lebih lanjut untuk stablecoin ini.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-usd-coin-usdc-in-united-states-1.jpg",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T18:30:27"
+   "published_at": "2026-08-24T20:00:39"
   },
   {
-   "id": 1665,
+   "id": 1686,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Aliran dana ETF Bitcoin capai rekor mingguan terkuat sejak Oktober 2025",
-   "x": "ETF Bitcoin spot AS mencatat aliran dana masuk mingguan terkuat sejak Oktober 2025, mencapai $1,92 miliar. Kenaikan ini terjadi saat harga Bitcoin sempat menembus $78.000, menandakan minat institusional yang meningkat pada aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/b-man-character-running.png",
+   "t": "Pakistan beri batas waktu 5 September bagi perusahaan kripto untuk daftar",
+   "x": "Pakistan mewajibkan semua perusahaan kripto yang melayani pengguna lokal untuk mendaftar paling lambat 5 September. Setelah itu, mereka harus mendirikan badan usaha lokal untuk melanjutkan operasional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-pakistan-flag-gID_7.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T08:56:52"
+   "published_at": "2026-08-24T12:14:27"
   },
   {
    "id": 1719,
@@ -502,7 +502,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
    "img": "https://www.tbstat.com/wp/uploads/2023/03/20230327_MarketsUp_Down_Generic_4-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T18:07:20"
@@ -516,24 +516,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-xrp-naik-brutal-tapi-analis-malah-bilang-jangan-beli-dulu",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T04:00:47"
   },
   {
-   "id": 1617,
+   "id": 1637,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Alibaba Luncurkan Penjualan Saham Rekor Senilai US$10 Miliar untuk Masuk ke Persaingan AI",
-   "x": "Alibaba Group Holding (BABA) berencana mengumpulkan sekitar US$10 miliar melalui penjualan saham. Raksasa e-commerce dan cloud computing asal Cina ini menyampaikan akan mengalokasikan 100% hasil bersih dari penjualan…",
+   "t": "Bitwise Baru Saja Meraih US$1,8 Miliar di Bear Market, Tom Lee Menyadari",
+   "x": "Bitwise menarik arus masuk bersih sebesar $1,8 miliar dan Tom Lee memberikan apresiasi. Namun, uang tersebut membeli yield, bukan kenaikan harga.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/alibaba-penjualan-saham-10-miliar-ai",
-   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
+   "url": "https://id.beincrypto.com/bitwise-inflows-bear-market-tom-lee",
+   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-23T14:08:50"
+   "published_at": "2026-08-23T23:00:00"
   },
   {
    "id": 1619,
@@ -550,32 +550,32 @@
    "published_at": "2026-08-23T14:30:39"
   },
   {
-   "id": 1686,
+   "id": 1665,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pakistan beri batas waktu 5 September bagi perusahaan kripto untuk daftar",
-   "x": "Pakistan mewajibkan semua perusahaan kripto yang melayani pengguna lokal untuk mendaftar paling lambat 5 September. Setelah itu, mereka harus mendirikan badan usaha lokal untuk melanjutkan operasional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-pakistan-flag-gID_7.png",
-   "a": "23 jam lalu",
+   "t": "Aliran dana ETF Bitcoin capai rekor mingguan terkuat sejak Oktober 2025",
+   "x": "ETF Bitcoin spot AS mencatat aliran dana masuk mingguan terkuat sejak Oktober 2025, mencapai $1,92 miliar. Kenaikan ini terjadi saat harga Bitcoin sempat menembus $78.000, menandakan minat institusional yang meningkat pada aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/b-man-character-running.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T12:14:27"
+   "published_at": "2026-08-24T08:56:52"
   },
   {
-   "id": 1763,
+   "id": 1804,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "ETF Bitcoin catat aliran dana masuk US$338 juta, total US$2,26 miliar dalam enam hari",
-   "x": "Produk Exchange-Traded Fund (ETF) Bitcoin mencatat aliran dana masuk signifikan selama enam hari perdagangan, mencapai total US$2,26 miliar. Arus dana masuk ini membantu mempersempit defisit tahunan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/b-man-etf-cointelegraph-style.png",
-   "a": "4 jam lalu",
+   "t": "Grayscale luncurkan ETF Zcash usai celah privasi kritis guncang aset kripto",
+   "x": "Grayscale meluncurkan ETF Zcash untuk memberikan eksposur kepada investor ritel terhadap aset kripto yang berfokus pada privasi. Peluncuran ini terjadi setelah ditemukannya celah keamanan yang sempat mengguncang aset digital tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-25T07:38:29"
+   "published_at": "2026-08-25T12:01:03"
   },
   {
    "id": 1708,
@@ -586,7 +586,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
    "img": "https://www.tbstat.com/wp/uploads/2022/12/20221220_DAO-Voting-1-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T15:57:45"
@@ -606,18 +606,18 @@
    "published_at": "2026-08-24T07:00:32"
   },
   {
-   "id": 1659,
+   "id": 1617,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "India Harga US$10 Miliar untuk Transaksi Saham di Agustus, Bulan Rekor",
-   "x": "Pada bulan Agustus, pasar modal ekuitas India telah mencatat harga hampir US$10 miliar dalam berbagai transaksi. Dengan capaian ini, India berada di jalur menuju bulan terkuatnya sepanjang sejarah. Penjualan saham…",
+   "t": "Alibaba Luncurkan Penjualan Saham Rekor Senilai US$10 Miliar untuk Masuk ke Persaingan AI",
+   "x": "Alibaba Group Holding (BABA) berencana mengumpulkan sekitar US$10 miliar melalui penjualan saham. Raksasa e-commerce dan cloud computing asal Cina ini menyampaikan akan mengalokasikan 100% hasil bersih dari penjualan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/transaksi-ekuitas-india-cetak-rekor-agustus",
-   "img": "https://assets.beincrypto.com/img/Cdkk1_3-4tIXDkcnLr3yh2xgbqI=/smart/a43f08d4851e447897f79c46cfb04a99",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/alibaba-penjualan-saham-10-miliar-ai",
+   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-24T07:41:44"
+   "published_at": "2026-08-23T14:08:50"
   },
   {
    "id": 1633,
@@ -634,18 +634,18 @@
    "published_at": "2026-08-23T21:10:58"
   },
   {
-   "id": 1681,
+   "id": 1797,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bos Zondacrypto minta keringanan hukuman atas kesaksian terkait politik",
-   "x": "Bos bursa kripto Zondacrypto, Przemysław Kral, menghadapi tuntutan penipuan dan bekerja sama dengan jaksa Polandia. Kasus ini melibatkan dugaan kerugian nasabah yang mencapai ratusan juta dolar.",
+   "t": "Operasi gabungan Chainalysis tandai 7.700 akun dalam investigasi pelecehan anak",
+   "x": "Sebuah operasi yang dipimpin Chainalysis berhasil mengidentifikasi lebih dari 7.700 akun mencurigakan di 11 bursa kripto dan layanan pembayaran. Tindakan ini merupakan bagian dari investigasi global terhadap pelecehan anak.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-poland-1.jpg",
-   "a": "21 jam lalu",
+   "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/magnifier-coin-bitcoin-search22.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T14:00:51"
+   "published_at": "2026-08-25T13:00:00"
   },
   {
    "id": 1779,
@@ -656,7 +656,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
    "img": "https://www.tbstat.com/wp/uploads/2019/05/scales-1200x675.jpg",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T07:53:23"
@@ -676,18 +676,18 @@
    "published_at": "2026-08-23T02:00:13"
   },
   {
-   "id": 1768,
+   "id": 1659,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peretas Negara Cina Gandakan Jumlah Serangan setelah Adopsi AI, Laporan Menunjukkan",
-   "x": "Hacker yang terafiliasi negara Cina kini melakukan serangan dua kali lebih banyak dibanding sebelumnya setelah mereka menyerahkan pekerjaan sehari-hari ke DeepSeek dan sistem artificial intelligence (AI) open-source…",
+   "t": "India Harga US$10 Miliar untuk Transaksi Saham di Agustus, Bulan Rekor",
+   "x": "Pada bulan Agustus, pasar modal ekuitas India telah mencatat harga hampir US$10 miliar dalam berbagai transaksi. Dengan capaian ini, India berada di jalur menuju bulan terkuatnya sepanjang sejarah. Penjualan saham…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretas-cina-deepseek-serangan-volume",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "4 jam lalu",
+   "url": "https://id.beincrypto.com/transaksi-ekuitas-india-cetak-rekor-agustus",
+   "img": "https://assets.beincrypto.com/img/Cdkk1_3-4tIXDkcnLr3yh2xgbqI=/smart/a43f08d4851e447897f79c46cfb04a99",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-25T07:13:22"
+   "published_at": "2026-08-24T07:41:44"
   },
   {
    "id": 1587,
@@ -704,32 +704,32 @@
    "published_at": "2026-08-22T18:25:40"
   },
   {
-   "id": 1658,
+   "id": 1763,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bank dan regulator uji coba transfer kripto tahan kuantum",
-   "x": "Sejumlah bank bersama regulator dari Abu Dhabi, Bhutan, dan Malta menguji coba dompet digital dan transfer aset kripto yang tahan terhadap serangan komputasi kuantum. Uji coba ini bertujuan mengantisipasi ancaman keamanan di masa depan.",
+   "t": "ETF Bitcoin catat aliran dana masuk US$338 juta, total US$2,26 miliar dalam enam hari",
+   "x": "Produk Exchange-Traded Fund (ETF) Bitcoin mencatat aliran dana masuk signifikan selama enam hari perdagangan, mencapai total US$2,26 miliar. Arus dana masuk ini membantu mempersempit defisit tahunan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/b-man-etf-cointelegraph-style.png",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T05:51:29"
+   "published_at": "2026-08-25T07:38:29"
   },
   {
-   "id": 1694,
+   "id": 1800,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Gemini sediakan pasar prediksi kripto untuk klien pialang Apex",
-   "x": "Gemini akan menyediakan platform bagi klien pialang Apex untuk bertransaksi kontrak prediksi aset kripto. Kemitraan ini memperluas jangkauan Gemini ke segmen pasar pialang.",
+   "t": "Grayscale debutkan ETF Zcash pertama seiring lonjakan koin privasi",
+   "x": "Grayscale meluncurkan ETF pertama yang menawarkan eksposur langsung ke Zcash, aset kripto yang berfokus pada privasi. Peluncuran ini bertepatan dengan lonjakan minat terhadap koin privasi di pasar aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-   "img": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Gemini_Color-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News_2-1200x675.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T11:01:02"
+   "published_at": "2026-08-25T12:00:00"
   },
   {
    "id": 1646,
@@ -746,18 +746,18 @@
    "published_at": "2026-08-24T02:00:09"
   },
   {
-   "id": 1626,
+   "id": 1768,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Lonjakan Lalu Lintas Selat 400% Redakan Kekhawatiran Pasokan, Akankah Harga Minyak Breakout Turun pada Senin?",
-   "x": "Lalu lintas minyak di Selat Hormuz melonjak 400% dalam dua minggu, namun WTI dan Brent masih naik. Keduanya kini menguji garis tren turun Mei.",
+   "t": "Peretas Negara Cina Gandakan Jumlah Serangan setelah Adopsi AI, Laporan Menunjukkan",
+   "x": "Hacker yang terafiliasi negara Cina kini melakukan serangan dua kali lebih banyak dibanding sebelumnya setelah mereka menyerahkan pekerjaan sehari-hari ke DeepSeek dan sistem artificial intelligence (AI) open-source…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/lonjakan-lalu-lintas-hormuz-uji-harga-minyak",
-   "img": "https://assets.beincrypto.com/img/2GfKW71TpQanHFFpQpieTfsH-c0=/smart/215ff6136474469b872831b3cd4f99d1",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/peretas-cina-deepseek-serangan-volume",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-23T18:11:50"
+   "published_at": "2026-08-25T07:13:22"
   },
   {
    "id": 1589,
@@ -774,18 +774,32 @@
    "published_at": "2026-08-22T19:15:53"
   },
   {
-   "id": 1647,
+   "id": 1681,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pakistan buka portal lisensi kripto, beri tenggat 5 September untuk perusahaan lama",
-   "x": "Pakistan meluncurkan kerangka regulasi baru untuk aset digital, mewajibkan penyedia aset virtual yang sudah ada untuk mengajukan izin. Kegagalan mematuhi tenggat waktu 5 September akan menghentikan operasi mereka di negara tersebut.",
+   "t": "Bos Zondacrypto minta keringanan hukuman atas kesaksian terkait politik",
+   "x": "Bos bursa kripto Zondacrypto, Przemysław Kral, menghadapi tuntutan penipuan dan bekerja sama dengan jaksa Polandia. Kasus ini melibatkan dugaan kerugian nasabah yang mencapai ratusan juta dolar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa-1.png",
+   "url": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-poland-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T05:17:57"
+   "published_at": "2026-08-24T14:00:51"
+  },
+  {
+   "id": 1694,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Gemini sediakan pasar prediksi kripto untuk klien pialang Apex",
+   "x": "Gemini akan menyediakan platform bagi klien pialang Apex untuk bertransaksi kontrak prediksi aset kripto. Kemitraan ini memperluas jangkauan Gemini ke segmen pasar pialang.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
+   "img": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Gemini_Color-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T11:01:02"
   },
   {
    "id": 1786,
@@ -796,52 +810,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/nanas-subang-mau-go-global-ai-dan-blockchain-jadi-senjata-baru",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T08:00:32"
   },
   {
-   "id": 1635,
+   "id": 1626,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Perusahaan AI Ungkap Bug Ledger, CTO Sebut Itu Menyebarkan Ketakutan setelah Perbaikan Diam-Diam",
-   "x": "Ledger diam-diam memperbaiki bug pada aplikasi Ethereum pada 12 Agustus. CTO-nya mengatakan perusahaan AI yang go public tersebut mengada-adakan ketakutan.",
+   "t": "Lonjakan Lalu Lintas Selat 400% Redakan Kekhawatiran Pasokan, Akankah Harga Minyak Breakout Turun pada Senin?",
+   "x": "Lalu lintas minyak di Selat Hormuz melonjak 400% dalam dua minggu, namun WTI dan Brent masih naik. Keduanya kini menguji garis tren turun Mei.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bug-pengungkapan-bug-aplikasi-ledger-ethereum",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "url": "https://id.beincrypto.com/lonjakan-lalu-lintas-hormuz-uji-harga-minyak",
+   "img": "https://assets.beincrypto.com/img/2GfKW71TpQanHFFpQpieTfsH-c0=/smart/215ff6136474469b872831b3cd4f99d1",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-23T22:00:00"
+   "published_at": "2026-08-23T18:11:50"
   },
   {
-   "id": 1624,
+   "id": 1801,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pakistan beri tenggat 5 September untuk platform kripto patuhi aturan atau hengkang",
-   "x": "Pakistan mewajibkan platform aset kripto yang belum terdaftar untuk menghentikan layanan mereka pada 5 September. Aturan ini bertujuan untuk meningkatkan kepatuhan dan pengawasan terhadap aktivitas aset kripto di negara tersebut.",
+   "t": "Perusahaan kripto ini rugi operasional $13 juta, namun keuntungan kertas tokennya berikan bonus besar",
+   "x": "Perusahaan kripto ini mencatat kerugian operasional signifikan namun berhasil membukukan keuntungan kertas dari tokennya sendiri. Hal ini membuka jalan bagi pembayaran bonus besar bagi karyawannya, menyoroti potensi volatilitas valuasi token.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/pakistan-gives-crypto-platforms-a-september-5-deadline-to-comply-or-leave",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/pvara-crypto-stopwatch.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/this-crypto-firm-lost-13-million-operating-but-paper-gains-on-its-own-token-cleared-a-path-to-major-payout-bonuses",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/9bit-umbrella-profit-shield.jpg",
+   "a": "42 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-23T17:00:05"
-  },
-  {
-   "id": 1777,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pemilik bisnis terancam 280 tahun penjara atas skema Ponzi kripto $24 juta",
-   "x": "Seorang pemilik bisnis divonis bersalah atas penipuan dan pencucian uang terkait skema Ponzi aset kripto senilai $24 juta. Kasus ini menjadi pengingat pentingnya kehati-hatian investor terhadap tawaran investasi yang tidak jelas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-the-long-arm-of-justice-cftc.png",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-25T07:58:10"
+   "published_at": "2026-08-25T13:45:52"
   }
  ]
 }

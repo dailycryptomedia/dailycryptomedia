@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/term-labs-defi-exploit-vaults",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-23T12:35:36"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-pakai-dex-screener-buat-cari-kripto-potensial",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T09:00:11"
@@ -74,18 +74,18 @@
    "published_at": "2026-08-23T20:50:45"
   },
   {
-   "id": 1648,
+   "id": 1799,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Term Finance rugi estimasi $8,5 juta akibat eksploitasi tata kelola vault",
-   "x": "Term Finance menutup Meta Vaults secara permanen setelah peretasan yang diperkirakan menghilangkan hampir seluruh simpanan Ethereum. Peristiwa ini menyoroti risiko keamanan dalam protokol DeFi.",
+   "t": "Shipyard hentikan kerja IPFS setelah Protocol Labs akhiri pendanaan",
+   "x": "Shipyard menghentikan pengembangan perangkat lunak InterPlanetary File System (IPFS) karena pendanaan dari Protocol Labs dihentikan. Hal ini menimbulkan kekhawatiran mengenai keberlanjutan layanan publik penting yang bergantung pada IPFS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-ipfs-explained.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T03:59:29"
+   "published_at": "2026-08-25T11:57:33"
   },
   {
    "id": 1653,
@@ -110,10 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bouncebit-abandons-layer-1-after-286-million-token-exploit-leaving-token-holders-in-limbo",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bouncebit-layer-retired.jpg",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T17:05:57"
+  },
+  {
+   "id": 1648,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Term Finance rugi estimasi $8,5 juta akibat eksploitasi tata kelola vault",
+   "x": "Term Finance menutup Meta Vaults secara permanen setelah peretasan yang diperkirakan menghilangkan hampir seluruh simpanan Ethereum. Peristiwa ini menyoroti risiko keamanan dalam protokol DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T03:59:29"
   },
   {
    "id": 1668,
