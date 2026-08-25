@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-22T16:26:33"
   },
   {
+   "id": 1793,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pajak Bitcoin kini berlaku saat keluar negeri, bukan saat dijual",
+   "x": "Beberapa negara kini mengenakan pajak atas keuntungan Bitcoin yang belum direalisasi saat warga negara mereka berhenti menjadi wajib pajak. Aturan ini mengubah cara aset kripto diperlakukan secara fiskal.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/some-bitcoin-holders-tax-bill-is-now-set-when-they-leave-the-country-instead-of-when-they-sell",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-residency-tax-cage.jpg",
+   "a": "14 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T11:35:54"
+  },
+  {
    "id": 1571,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -30,6 +44,48 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-22T13:30:00"
+  },
+  {
+   "id": 1792,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "AS bisa sanksi siapa pun yang beroperasi di sektor kripto Iran",
+   "x": "Pemerintah AS memperluas cakupan sanksi ekonomi ke sektor aset digital Iran. Kebijakan ini merupakan bagian dari strategi yang lebih luas untuk menekan ekonomi negara tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T10:21:41"
+  },
+  {
+   "id": 1707,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pusat Kebijakan Hyperliquid Desak SEC dan CFTC Harmonisasi Aturan Kontrak Berjangka",
+   "x": "Pusat Kebijakan Hyperliquid mendorong regulator AS, SEC dan CFTC, untuk menyelaraskan aturan mengenai kontrak berjangka abadi. Dorongan ini muncul seiring meningkatnya skala produk berjangka multi-aset Hyperliquid dan menarik perhatian bursa tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T16:18:24"
+  },
+  {
+   "id": 1733,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
+   "x": "SEC memanggil Bank of America, Citi, Goldman, dan JPMorgan terkait dana AI yang merugi 67% dan dijual ke Citadel.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penyelidikan-sec-bank-collapse-dana-ai",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-24T22:00:00"
   },
   {
    "id": 1583,
@@ -46,34 +102,6 @@
    "published_at": "2026-08-22T17:10:29"
   },
   {
-   "id": 1707,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pusat Kebijakan Hyperliquid Desak SEC dan CFTC Harmonisasi Aturan Kontrak Berjangka",
-   "x": "Pusat Kebijakan Hyperliquid mendorong regulator AS, SEC dan CFTC, untuk menyelaraskan aturan mengenai kontrak berjangka abadi. Dorongan ini muncul seiring meningkatnya skala produk berjangka multi-aset Hyperliquid dan menarik perhatian bursa tradisional.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-24T16:18:24"
-  },
-  {
-   "id": 1733,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
-   "x": "SEC memanggil Bank of America, Citi, Goldman, dan JPMorgan terkait dana AI yang merugi 67% dan dijual ke Citadel.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penyelidikan-sec-bank-collapse-dana-ai",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-24T22:00:00"
-  },
-  {
    "id": 1730,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -82,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T21:33:13"
@@ -110,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court",
    "img": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T16:05:48"
@@ -124,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/falconx-equity-perps-review-1.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T02:30:17"
@@ -138,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T10:41:34"
@@ -166,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T02:03:55"
