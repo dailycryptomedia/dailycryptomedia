@@ -18,20 +18,6 @@
    "published_at": "2026-08-23T12:35:36"
   },
   {
-   "id": 1582,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Microsoft perbaiki celah keamanan 'Perfect 10' yang bisa dieksploitasi peretas",
-   "x": "Microsoft telah memperbaiki kerentanan keamanan kritis pada produk Entra ID yang berpotensi memungkinkan peretas menjalankan kode dari jarak jauh. Perusahaan menyatakan celah tersebut telah ditutup sebelum diumumkan dan tidak ada bukti eksploitasi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-22T17:31:03"
-  },
-  {
    "id": 1598,
    "k": "defi",
    "cat": "DeFi",
@@ -54,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-pakai-dex-screener-buat-cari-kripto-potensial",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T09:00:11"
@@ -82,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-ipfs-explained.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T11:57:33"
@@ -102,18 +88,18 @@
    "published_at": "2026-08-24T04:31:25"
   },
   {
-   "id": 1709,
+   "id": 1830,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Penutupan Chain Hilangkan Utilitas Token BounceBit Akibat Celah Otorisasi",
-   "x": "Celah otorisasi pada BounceBit mengekspos 286 juta token, menyebabkan penutupan chain dan hilangnya utilitas token. Penerbitan ulang token 1:1 dilakukan untuk menjaga jumlah unit, sementara utilitas seperti gas, staking, dan tata kelola menunggu peran ekonomi baru.",
+   "t": "Aturan staking ETH baru 2.048 bisa tahan imbal hasil pengguna lebih lama",
+   "x": "Ethereum mengusulkan perubahan aturan staking yang bisa menaikkan ambang batas minimal menjadi 2.048 ETH. Hal ini berpotensi menunda pencairan imbal hasil bagi validator yang belum memenuhi syarat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bouncebit-abandons-layer-1-after-286-million-token-exploit-leaving-token-holders-in-limbo",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bouncebit-layer-retired.jpg",
-   "a": "23 jam lalu",
+   "url": "https://cryptoslate.com/how-ethereums-new-2048-eth-staking-rule-could-lock-up-user-rewards-longer-than-expected",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-reward-sweep-gate.jpg",
+   "a": "23 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T17:05:57"
+   "published_at": "2026-08-25T17:30:21"
   },
   {
    "id": 1821,
@@ -124,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
    "img": "https://www.tbstat.com/wp/uploads/2021/08/20210803_Robinhood_Crypto-1200x675.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T14:00:00"
@@ -142,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T03:59:29"
+  },
+  {
+   "id": 1709,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Penutupan Chain Hilangkan Utilitas Token BounceBit Akibat Celah Otorisasi",
+   "x": "Celah otorisasi pada BounceBit mengekspos 286 juta token, menyebabkan penutupan chain dan hilangnya utilitas token. Penerbitan ulang token 1:1 dilakukan untuk menjaga jumlah unit, sementara utilitas seperti gas, staking, dan tata kelola menunggu peran ekonomi baru.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bouncebit-abandons-layer-1-after-286-million-token-exploit-leaving-token-holders-in-limbo",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bouncebit-layer-retired.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T17:05:57"
   },
   {
    "id": 1668,

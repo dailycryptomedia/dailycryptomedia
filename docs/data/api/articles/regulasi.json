@@ -1,22 +1,8 @@
 {
- "total": 13,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 1580,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "BounceBit Tutup Chain-nya setelah Penyerang Pindahkan 286,5 Juta Token",
-   "x": "BounceBit akan menutup permanen blockchain layer-1 miliknya setelah seorang penyerang memindahkan 286,5 juta BB dari sembilan akun mainnet utama. Proyek ini akan menerbitkan ulang token tersebut sebagai aset BEP-20 di…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bouncebit-exploit-chain-sunset-bb-reissue",
-   "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-22T16:26:33"
-  },
   {
    "id": 1793,
    "k": "regulasi",
@@ -26,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/some-bitcoin-holders-tax-bill-is-now-set-when-they-leave-the-country-instead-of-when-they-sell",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-residency-tax-cage.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T11:35:54"
@@ -40,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T21:33:13"
+  },
+  {
+   "id": 1733,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
+   "x": "SEC memanggil Bank of America, Citi, Goldman, dan JPMorgan terkait dana AI yang merugi 67% dan dijual ke Citadel.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penyelidikan-sec-bank-collapse-dana-ai",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-24T22:00:00"
   },
   {
    "id": 1792,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T10:21:41"
@@ -74,32 +74,18 @@
    "published_at": "2026-08-24T16:18:24"
   },
   {
-   "id": 1733,
+   "id": 1749,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
-   "x": "SEC memanggil Bank of America, Citi, Goldman, dan JPMorgan terkait dana AI yang merugi 67% dan dijual ke Citadel.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penyelidikan-sec-bank-collapse-dana-ai",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-24T22:00:00"
-  },
-  {
-   "id": 1583,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "RUU CLARITY dijadwalkan ke Senat AS September ini, CFTC beri sinyal regulasi terbatas",
-   "x": "Rancangan undang-undang yang mengatur aset digital, CLARITY, akan disidangkan di Senat AS bulan depan. Sementara itu, Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengindikasikan kewenangannya saat ini tidak mencakup kerangka regulasi yang komprehensif.",
+   "t": "FalconX minta SEC atur derivatif DeFi di bawah aturan swap",
+   "x": "Perusahaan aset digital FalconX meminta regulator AS untuk mengklasifikasikan produk derivatif tunggal di sektor DeFi di bawah aturan perdagangan swap. Langkah ini dapat memengaruhi cara produk tersebut diatur dan diawasi di pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/clarity-cftc-signal.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/falconx-equity-perps-review-1.jpg",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-22T17:10:29"
+   "published_at": "2026-08-25T02:30:17"
   },
   {
    "id": 1704,
@@ -116,18 +102,18 @@
    "published_at": "2026-08-24T16:05:48"
   },
   {
-   "id": 1749,
+   "id": 1591,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "FalconX minta SEC atur derivatif DeFi di bawah aturan swap",
-   "x": "Perusahaan aset digital FalconX meminta regulator AS untuk mengklasifikasikan produk derivatif tunggal di sektor DeFi di bawah aturan perdagangan swap. Langkah ini dapat memengaruhi cara produk tersebut diatur dan diawasi di pasar.",
+   "t": "Pengguna kripto hadapi tagihan pajak bulanan atas nilai aset jika broker gagal pungut",
+   "x": "Illinois memberlakukan aturan pajak baru yang mewajibkan pengguna kripto membayar pajak bulanan atas total nilai aset jika broker tidak memungutnya. Aturan ini berpotensi menambah beban administrasi dan pajak bagi investor ritel di AS.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/falconx-equity-perps-review-1.jpg",
-   "a": "13 jam lalu",
+   "url": "https://cryptoslate.com/everyday-crypto-users-face-monthly-tax-bills-on-total-asset-value-if-covered-brokers-fail-to-collect-under-new-illinois-rules",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-broker-tax-burden.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-25T02:30:17"
+   "published_at": "2026-08-22T21:55:10"
   },
   {
    "id": 1674,
@@ -144,18 +130,18 @@
    "published_at": "2026-08-24T10:41:34"
   },
   {
-   "id": 1591,
+   "id": 1831,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengguna kripto hadapi tagihan pajak bulanan atas nilai aset jika broker gagal pungut",
-   "x": "Illinois memberlakukan aturan pajak baru yang mewajibkan pengguna kripto membayar pajak bulanan atas total nilai aset jika broker tidak memungutnya. Aturan ini berpotensi menambah beban administrasi dan pajak bagi investor ritel di AS.",
+   "t": "Dokumen SEC Take-Two kaitkan mata uang Solana GTA VI dengan memecoin",
+   "x": "Terdapat dokumen SEC yang mengaitkan mata uang dalam gim GTA VI dengan aset kripto di Solana. Namun, pihak pengembang menegaskan tidak ada hubungan resmi dengan memecoin tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/everyday-crypto-users-face-monthly-tax-bills-on-total-asset-value-if-covered-brokers-fail-to-collect-under-new-illinois-rules",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-broker-tax-burden.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/take-two-branded-sec-filings-push-gta-vi-solana-currency-linked-to-memecoin-trading",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-solana-magnifying-glass.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-22T21:55:10"
+   "published_at": "2026-08-25T16:25:23"
   },
   {
    "id": 1743,
@@ -166,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T02:03:55"
