@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-08-24T22:16:04"
   },
   {
-   "id": 1754,
+   "id": 1898,
    "k": "web3",
    "cat": "Web3",
-   "t": "BNB Chain aktifkan hard fork Pasteur untuk perkuat keamanan bridge",
-   "x": "BNB Chain mengaktifkan pembaruan Pasteur hard fork pada BSC untuk menutup celah keamanan pada jembatan aset digital (bridge) dan validator. Peningkatan ini juga bertujuan meningkatkan kapasitas transaksi.",
+   "t": "Jepang pertimbangkan jalur cepat blockchain untuk penyelesaian kas sekuritas",
+   "x": "Otoritas Jepang sedang mengkaji penggunaan blockchain untuk penyelesaian kas sekuritas secara real-time. Studi infrastruktur dan rencana pengembangan ditargetkan selesai awal 2027.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/c-man-lamba-2-web3.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-25T03:56:29"
+   "published_at": "2026-08-26T10:46:47"
   },
   {
    "id": 1770,
@@ -96,10 +96,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T18:39:26"
+  },
+  {
+   "id": 1754,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BNB Chain aktifkan hard fork Pasteur untuk perkuat keamanan bridge",
+   "x": "BNB Chain mengaktifkan pembaruan Pasteur hard fork pada BSC untuk menutup celah keamanan pada jembatan aset digital (bridge) dan validator. Peningkatan ini juga bertujuan meningkatkan kapasitas transaksi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-25T03:56:29"
   },
   {
    "id": 1811,
@@ -110,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tether-usdt-bekukan-kriminal-daftar-hitam",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-25T11:46:00"
@@ -138,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T14:10:05"
@@ -152,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/firefox-crypto-wallet-malware-hid-behind-nine-sports-add-ons-turning-routine-updates-into-a-key-rotation-trap",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/firefox_wallet_extension_standard_image.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T04:00:18"
@@ -166,7 +180,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T22:16:03"
@@ -180,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/phantoms-plan-to-drop-sui-exposes-the-hidden-power-wallet-interfaces-hold-over-user-funds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sui-migration-countdown.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T01:35:48"

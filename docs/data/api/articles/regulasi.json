@@ -1,8 +1,22 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 1905,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bill Gates Ingin Hingga 40% Pekerjaan Disediakan untuk Manusia, Bukan AI",
+   "x": "Bill Gates mengusulkan agar pekerjaan tertentu hanya dikerjakan oleh manusia, sebuah konsep yang ia sebut Human Reserved, dalam esai barunya tentang dampak artificial intelligence (AI). Co-founder Microsoft ini juga…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bill-gates-pekerjaan-manusia-yang-dicadangkan-ai",
+   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-26T10:36:51"
+  },
   {
    "id": 1793,
    "k": "regulasi",
@@ -12,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/some-bitcoin-holders-tax-bill-is-now-set-when-they-leave-the-country-instead-of-when-they-sell",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-residency-tax-cage.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T11:35:54"
@@ -32,20 +46,6 @@
    "published_at": "2026-08-24T21:33:13"
   },
   {
-   "id": 1733,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
-   "x": "SEC memanggil Bank of America, Citi, Goldman, dan JPMorgan terkait dana AI yang merugi 67% dan dijual ke Citadel.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penyelidikan-sec-bank-collapse-dana-ai",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-24T22:00:00"
-  },
-  {
    "id": 1871,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T04:51:58"
@@ -68,10 +68,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T10:21:41"
+  },
+  {
+   "id": 1733,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Sebuah Dana AI Senilai US$30 Miliar Runtuh, Sekarang SEC Menyelidiki Peran Wall Street",
+   "x": "SEC memanggil Bank of America, Citi, Goldman, dan JPMorgan terkait dana AI yang merugi 67% dan dijual ke Citadel.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penyelidikan-sec-bank-collapse-dana-ai",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-24T22:00:00"
   },
   {
    "id": 1749,
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/take-two-branded-sec-filings-push-gta-vi-solana-currency-linked-to-memecoin-trading",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-solana-magnifying-glass.jpg",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T16:25:23"
@@ -138,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-24T10:41:34"
@@ -170,6 +184,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-23T23:56:00"
+  },
+  {
+   "id": 1899,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Penawaran ekuitas Kalshi senilai $1,5 miliar 75% terjual",
+   "x": "Kalshi melaporkan telah menjual tiga perempat dari penawaran ekuitasnya senilai $1,5 miliar, mengumpulkan $1,12 miliar. Penawaran ini mengandalkan pengecualian regulasi SEC untuk penawaran swasta, yang menunjukkan bagaimana perusahaan rintisan dapat menggalang dana tanpa pendaftaran publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets-1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T10:15:44"
   }
  ]
 }
