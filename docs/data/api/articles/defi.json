@@ -1,21 +1,21 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 1612,
+   "id": 1653,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Hack DeFi Lainnya: Term Labs Kehilangan US$8,5 Juta dalam Eksploitasi Governance",
-   "x": "Protokol lending DeFi, Term Labs, kehilangan sekitar US$8,5 juta pada hari Minggu setelah eksploitasi governance memengaruhi vault Term-nya, terang perusahaan keamanan blockchain PeckShield. Pelaku menarik 2.843…",
+   "t": "Tim Trump Tarik Jutaan US$ dari Liquidity Pool Memecoin TRUMP saat Reli Harga",
+   "x": "Wallet yang terkait dengan Trump kembali menarik USDC dari liquidity pool TRUMP minggu ini, memperpanjang pola yang pertama kali dilacak oleh LookOnChain pada 2025.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/term-labs-defi-exploit-vaults",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "url": "https://id.beincrypto.com/tim-trump-tarik-liquidity-pool-trump",
+   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-23T12:35:36"
+   "published_at": "2026-08-24T04:31:25"
   },
   {
    "id": 1872,
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/moonwell-has-a-1-8m-liquidity-hole-and-its-latest-plan-allocates-0-to-fix-it",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/moonwell-cbeth-withdrawal-lock.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T05:30:47"
@@ -68,24 +68,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-ipfs-explained.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T11:57:33"
-  },
-  {
-   "id": 1653,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tim Trump Tarik Jutaan US$ dari Liquidity Pool Memecoin TRUMP saat Reli Harga",
-   "x": "Wallet yang terkait dengan Trump kembali menarik USDC dari liquidity pool TRUMP minggu ini, memperpanjang pola yang pertama kali dilacak oleh LookOnChain pada 2025.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tim-trump-tarik-liquidity-pool-trump",
-   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-24T04:31:25"
   },
   {
    "id": 1830,
@@ -96,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/how-ethereums-new-2048-eth-staking-rule-could-lock-up-user-rewards-longer-than-expected",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-reward-sweep-gate.jpg",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T17:30:21"
@@ -110,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
    "img": "https://www.tbstat.com/wp/uploads/2021/08/20210803_Robinhood_Crypto-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T14:00:00"

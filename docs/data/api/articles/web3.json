@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,24 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement",
    "img": "https://s3-images.ctmedia.io/media/article-covers/c-man-lamba-2-web3.png",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T10:46:47"
   },
   {
-   "id": 1770,
+   "id": 1917,
    "k": "web3",
    "cat": "Web3",
-   "t": "TRM Labs Telusuri US$16,8 Juta di 30 Wallet Kripto Terkait Iran yang Masuk Daftar Sanksi",
-   "x": "Sekitar US$16,8 juta mengalir ke 30 alamat aset kripto yang terhubung dengan anggota Mabna Institute Iran, menurut perusahaan intelijen blockchain TRM Labs. Departemen Keuangan AS mencantumkan alamat-alamat tersebut…",
+   "t": "Charles Hoskinson Sebut Cardano Akan Menang, tapi Dengan Bantuan Ethereum",
+   "x": "Pendiri Cardano, Charles Hoskinson, berkata bahwa jaringan ini akan “menang dalam pertarungan ini,” ketika ADA pulih 26% dan kritik terhadap ekosistem semakin keras. Ia juga mengungkapkan bahwa kerja sama dengan para…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trm-labs-alamat-kripto-iran-sanksi",
-   "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/hoskinson-cardano-pengkritik-kolaborasi-ethereum",
+   "img": "https://assets.beincrypto.com/img/rZlOJXzTsAkXabcDrEPrM7418cE=/smart/ecc7714d949b47c88803a6e18c8dacd3",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-25T06:02:21"
+   "published_at": "2026-08-26T13:00:00"
   },
   {
    "id": 1720,
@@ -96,7 +96,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T18:39:26"
@@ -116,18 +116,18 @@
    "published_at": "2026-08-25T03:56:29"
   },
   {
-   "id": 1811,
+   "id": 1770,
    "k": "web3",
    "cat": "Web3",
-   "t": "Bagaimana Kriminal Memindahkan Jutaan USDT Sebelum Tether Bisa Membekukannya",
-   "x": "Pada 5 Juni 2025, sebuah wallet Tron menyimpan US$37,3 juta dalam USDT ketika Tether mulai memasukannya ke daftar hitam. Proses pembekuan ini butuh waktu 5,7 menit untuk disetujui melalui wallet multisignature milik…",
+   "t": "TRM Labs Telusuri US$16,8 Juta di 30 Wallet Kripto Terkait Iran yang Masuk Daftar Sanksi",
+   "x": "Sekitar US$16,8 juta mengalir ke 30 alamat aset kripto yang terhubung dengan anggota Mabna Institute Iran, menurut perusahaan intelijen blockchain TRM Labs. Departemen Keuangan AS mencantumkan alamat-alamat tersebut…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tether-usdt-bekukan-kriminal-daftar-hitam",
-   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "url": "https://id.beincrypto.com/trm-labs-alamat-kripto-iran-sanksi",
+   "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-25T11:46:00"
+   "published_at": "2026-08-25T06:02:21"
   },
   {
    "id": 1761,
@@ -152,10 +152,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T14:10:05"
+  },
+  {
+   "id": 1811,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Bagaimana Kriminal Memindahkan Jutaan USDT Sebelum Tether Bisa Membekukannya",
+   "x": "Pada 5 Juni 2025, sebuah wallet Tron menyimpan US$37,3 juta dalam USDT ketika Tether mulai memasukannya ke daftar hitam. Proses pembekuan ini butuh waktu 5,7 menit untuk disetujui melalui wallet multisignature milik…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tether-usdt-bekukan-kriminal-daftar-hitam",
+   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-25T11:46:00"
   },
   {
    "id": 1873,
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/firefox-crypto-wallet-malware-hid-behind-nine-sports-add-ons-turning-routine-updates-into-a-key-rotation-trap",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/firefox_wallet_extension_standard_image.jpg",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T04:00:18"
@@ -180,7 +194,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T22:16:03"
@@ -194,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/phantoms-plan-to-drop-sui-exposes-the-hidden-power-wallet-interfaces-hold-over-user-funds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sui-migration-countdown.jpg",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T01:35:48"

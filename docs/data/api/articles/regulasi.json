@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bill-gates-pekerjaan-manusia-yang-dicadangkan-ai",
    "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-26T10:36:51"
@@ -32,18 +32,18 @@
    "published_at": "2026-08-25T11:35:54"
   },
   {
-   "id": 1730,
+   "id": 1912,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "CFTC dan tentara AS berselisih soal interpretasi pasar prediksi",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) berselisih dengan seorang tentara mengenai interpretasi pasar prediksi. Kasus ini berawal dari dugaan penggunaan informasi non-publik untuk taruhan di platform Polymarket.",
+   "t": "Aturan Kripto Baru SEC Kemungkinan Tak Picu Ledakan ICO",
+   "x": "Usulan regulasi aset kripto dari Komisi Sekuritas dan Bursa Amerika Serikat (SEC) berpotensi menciptakan euforia awal. Namun, beberapa token mungkin tetap berada di zona abu-abu antara sekuritas dan non-sekuritas.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg",
+   "a": "56 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T21:33:13"
+   "published_at": "2026-08-26T13:30:00"
   },
   {
    "id": 1871,
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T04:51:58"
@@ -102,18 +102,18 @@
    "published_at": "2026-08-25T02:30:17"
   },
   {
-   "id": 1704,
+   "id": 1730,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Grup Advokasi Kripto Lawan Pajak Aset Digital Illinois di Pengadilan",
-   "x": "Dua grup advokasi aset digital menggugat pajak kripto 0,2% di Illinois atas dasar konstitusional dan proses hukum. Langkah ini menyusul gugatan serupa yang diajukan oleh Digital Chamber pada Juli lalu.",
+   "t": "CFTC dan tentara AS berselisih soal interpretasi pasar prediksi",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) berselisih dengan seorang tentara mengenai interpretasi pasar prediksi. Kasus ini berawal dari dugaan penggunaan informasi non-publik untuk taruhan di platform Polymarket.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
+   "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-24T16:05:48"
+   "published_at": "2026-08-24T21:33:13"
   },
   {
    "id": 1707,
@@ -138,10 +138,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/take-two-branded-sec-filings-push-gta-vi-solana-currency-linked-to-memecoin-trading",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-solana-magnifying-glass.jpg",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-25T16:25:23"
+  },
+  {
+   "id": 1704,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Grup Advokasi Kripto Lawan Pajak Aset Digital Illinois di Pengadilan",
+   "x": "Dua grup advokasi aset digital menggugat pajak kripto 0,2% di Illinois atas dasar konstitusional dan proses hukum. Langkah ini menyusul gugatan serupa yang diajukan oleh Digital Chamber pada Juli lalu.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-24T16:05:48"
   },
   {
    "id": 1674,
@@ -194,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets-1.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T10:15:44"
