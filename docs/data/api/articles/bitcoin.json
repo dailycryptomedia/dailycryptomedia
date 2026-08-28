@@ -1,5 +1,5 @@
 {
- "total": 53,
+ "total": 54,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-08-26T07:35:26"
   },
   {
-   "id": 2062,
+   "id": 2079,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ethena bidik pasar saham Wall Street senilai $120 triliun untuk imbal hasil 5x Bitcoin",
-   "x": "Ethena memperluas stablecoin USDe ke perdagangan derivatif ekuitas, menargetkan imbal hasil pendanaan yang jauh lebih tinggi dari Bitcoin. Langkah ini bertujuan memulihkan nilai setelah kontraksi sebelumnya.",
+   "t": "Pendanaan Bitcoin Capital B senilai €21 juta berisiko dilusi warrant besar",
+   "x": "Capital B menggalang dana €21 juta melalui penerbitan Bitcoin baru, yang berpotensi menimbulkan risiko dilusi bagi pemegang saham lama. Pelaksanaan waran penuh dapat mengurangi rasio kepemilikan yang ada secara signifikan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usde-equity-rebuild.jpg",
-   "a": "1 jam lalu",
+   "url": "https://cryptoslate.com/capital-bs-e21-million-bitcoin-raise-comes-with-heavy-warrant-dilution-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warrant-press.jpg",
+   "a": "13 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T21:30:27"
+   "published_at": "2026-08-28T23:20:40"
   },
   {
    "id": 2024,
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-15-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T21:16:04"
@@ -102,18 +102,18 @@
    "published_at": "2026-08-26T08:28:27"
   },
   {
-   "id": 1895,
+   "id": 2062,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Trader Bitcoin lindungi nilai di $60 ribu, borong di atas $78 ribu",
-   "x": "Posisi open interest di pasar opsi Bitcoin melonjak menjelang akhir September. Hal ini mengindikasikan aktivitas perdagangan yang meningkat signifikan menjelang keputusan The Fed.",
+   "t": "Ethena bidik pasar saham Wall Street senilai $120 triliun untuk imbal hasil 5x Bitcoin",
+   "x": "Ethena memperluas stablecoin USDe ke perdagangan derivatif ekuitas, menargetkan imbal hasil pendanaan yang jauh lebih tinggi dari Bitcoin. Langkah ini bertujuan memulihkan nilai setelah kontraksi sebelumnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-traders-hedged-60k-and-loaded-up-above-78k-leaving-the-low-70k-exposed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-market-fault-line.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usde-equity-rebuild.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T09:30:49"
+   "published_at": "2026-08-28T21:30:27"
   },
   {
    "id": 1961,
@@ -138,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-makin-panas-reli-btc-bisa-berlanjut-jika-us83-300-ditembus",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T08:15:25"
@@ -186,18 +186,18 @@
    "published_at": "2026-08-26T04:35:00"
   },
   {
-   "id": 1924,
+   "id": 1895,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Node Lightning Lama Berisiko Terhapus Total Setelah Perbaikan LND Tertunda",
-   "x": "Perbaikan keamanan untuk node Lightning Network yang dirilis terlambat membuat versi lama berisiko terhapus seluruhnya. Pengguna disarankan segera memperbarui perangkat lunak mereka untuk menghindari kerugian.",
+   "t": "Trader Bitcoin lindungi nilai di $60 ribu, borong di atas $78 ribu",
+   "x": "Posisi open interest di pasar opsi Bitcoin melonjak menjelang akhir September. Hal ini mengindikasikan aktivitas perdagangan yang meningkat signifikan menjelang keputusan The Fed.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/lnd-channel-zipper-flaw.jpg",
+   "url": "https://cryptoslate.com/bitcoin-traders-hedged-60k-and-loaded-up-above-78k-leaving-the-low-70k-exposed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-market-fault-line.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T13:35:38"
+   "published_at": "2026-08-26T09:30:49"
   },
   {
    "id": 1959,
@@ -256,18 +256,18 @@
    "published_at": "2026-08-26T12:52:40"
   },
   {
-   "id": 1864,
+   "id": 1924,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Proposal 1 miliar saham Soluna ungkap tantangan pendanaan ekspansi AI dan Bitcoin",
-   "x": "Soluna mengusulkan penambahan 625 juta saham untuk mendanai ekspansi bisnis AI dan Bitcoin. Langkah ini menyoroti kesulitan perusahaan dalam mengumpulkan modal untuk proyek ambisius di tengah tantangan pasar.",
+   "t": "Node Lightning Lama Berisiko Terhapus Total Setelah Perbaikan LND Tertunda",
+   "x": "Perbaikan keamanan untuk node Lightning Network yang dirilis terlambat membuat versi lama berisiko terhapus seluruhnya. Pengguna disarankan segera memperbarui perangkat lunak mereka untuk menghindari kerugian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solunas-1-billion-share-proposal-exposes-the-funding-challenge-behind-its-ai-and-bitcoin-expansion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/soluna-share-dilution-vote.jpg",
+   "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/lnd-channel-zipper-flaw.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T02:40:11"
+   "published_at": "2026-08-26T13:35:38"
   },
   {
    "id": 1963,
@@ -306,7 +306,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T15:31:25"
@@ -326,18 +326,18 @@
    "published_at": "2026-08-26T06:22:54"
   },
   {
-   "id": 1999,
+   "id": 1864,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin punya rute lolos dari komputasi kuantum, tapi 7 juta BTC berisiko",
-   "x": "Transaksi Bitcoin yang aman dari komputasi kuantum berhasil dilakukan, namun biaya tinggi dan kunci yang terekspos membatasi penerapannya. Potensi ancaman terhadap jutaan Bitcoin masih menjadi perhatian utama.",
+   "t": "Proposal 1 miliar saham Soluna ungkap tantangan pendanaan ekspansi AI dan Bitcoin",
+   "x": "Soluna mengusulkan penambahan 625 juta saham untuk mendanai ekspansi bisnis AI dan Bitcoin. Langkah ini menyoroti kesulitan perusahaan dalam mengumpulkan modal untuk proyek ambisius di tengah tantangan pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/solunas-1-billion-share-proposal-exposes-the-funding-challenge-behind-its-ai-and-bitcoin-expansion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/soluna-share-dilution-vote.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T22:30:35"
+   "published_at": "2026-08-26T02:40:11"
   },
   {
    "id": 2033,
@@ -348,7 +348,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T15:14:11"
@@ -382,18 +382,18 @@
    "published_at": "2026-08-27T17:52:30"
   },
   {
-   "id": 1866,
+   "id": 1999,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penambang Bitcoin Sphere 3D hadapi klaim tarif $2,2 juta",
-   "x": "Sphere 3D, penambang Bitcoin, menghadapi klaim tarif sebesar $2,2 juta yang setara 77% kasnya. Situasi ini menimbulkan kekhawatiran mengenai stabilitas keuangan perusahaan di tengah tantangan operasional.",
+   "t": "Bitcoin punya rute lolos dari komputasi kuantum, tapi 7 juta BTC berisiko",
+   "x": "Transaksi Bitcoin yang aman dari komputasi kuantum berhasil dilakukan, namun biaya tinggi dan kunci yang terekspos membatasi penerapannya. Potensi ancaman terhadap jutaan Bitcoin masih menjadi perhatian utama.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miner-sphere-3d-faces-2-2m-tariff-claim-equal-to-77-of-its-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sphere3d-tariff-origin.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T00:40:50"
+   "published_at": "2026-08-27T22:30:35"
   },
   {
    "id": 1965,
@@ -438,18 +438,18 @@
    "published_at": "2026-08-28T12:42:53"
   },
   {
-   "id": 2065,
+   "id": 1866,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ketua The Fed picu likuidasi kripto $488 juta seiring ekspektasi kenaikan suku bunga",
-   "x": "Bitcoin turun di bawah $77.000 setelah Ketua The Fed mengisyaratkan potensi kenaikan suku bunga. Penurunan ini memicu likuidasi aset kripto senilai ratusan juta dolar.",
+   "t": "Penambang Bitcoin Sphere 3D hadapi klaim tarif $2,2 juta",
+   "x": "Sphere 3D, penambang Bitcoin, menghadapi klaim tarif sebesar $2,2 juta yang setara 77% kasnya. Situasi ini menimbulkan kekhawatiran mengenai stabilitas keuangan perusahaan di tengah tantangan operasional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-miner-sphere-3d-faces-2-2m-tariff-claim-equal-to-77-of-its-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/sphere3d-tariff-origin.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T18:50:50"
+   "published_at": "2026-08-26T00:40:50"
   },
   {
    "id": 2030,
@@ -494,18 +494,18 @@
    "published_at": "2026-08-28T11:48:42"
   },
   {
-   "id": 2067,
+   "id": 2065,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
-   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
+   "t": "Ketua The Fed picu likuidasi kripto $488 juta seiring ekspektasi kenaikan suku bunga",
+   "x": "Bitcoin turun di bawah $77.000 setelah Ketua The Fed mengisyaratkan potensi kenaikan suku bunga. Penurunan ini memicu likuidasi aset kripto senilai ratusan juta dolar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
-   "a": "6 jam lalu",
+   "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T16:55:35"
+   "published_at": "2026-08-28T18:50:50"
   },
   {
    "id": 2032,
@@ -516,7 +516,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:04:37"
@@ -550,18 +550,18 @@
    "published_at": "2026-08-28T12:00:13"
   },
   {
-   "id": 2070,
+   "id": 2067,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
-   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
+   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
+   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T13:45:31"
+   "published_at": "2026-08-28T16:55:35"
   },
   {
    "id": 2034,
@@ -572,7 +572,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T14:17:21"
@@ -592,18 +592,18 @@
    "published_at": "2026-08-27T17:15:43"
   },
   {
-   "id": 2004,
+   "id": 2070,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Sinyal bottom Bitcoin muncul, namun data 6 bulan tunjukkan jebakan pembeli awal",
-   "x": "Sinyal bottom Bitcoin terdeteksi, namun data historis enam bulan menunjukkan potensi jebakan bagi pembeli awal. Investor perlu berhati-hati terhadap sinyal ini.",
+   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
+   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-bottom-signal-is-flashing-but-six-months-of-data-shows-a-trap-waiting-for-early-buyers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bottom-compass-warning.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T16:45:17"
+   "published_at": "2026-08-28T13:45:31"
   },
   {
    "id": 1967,
@@ -634,18 +634,18 @@
    "published_at": "2026-08-27T08:05:44"
   },
   {
-   "id": 2007,
+   "id": 2004,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bug AI paksa Lightning Bitcoin lockdown darurat 14 hari",
-   "x": "Pengembang Core Lightning mengunci sistem selama 14 hari untuk mengatasi kerentanan keamanan yang ditemukan oleh AI. Operator node diminta segera memperbarui perangkat lunak untuk melindungi jaringan dari potensi ancaman.",
+   "t": "Sinyal bottom Bitcoin muncul, namun data 6 bulan tunjukkan jebakan pembeli awal",
+   "x": "Sinyal bottom Bitcoin terdeteksi, namun data historis enam bulan menunjukkan potensi jebakan bagi pembeli awal. Investor perlu berhati-hati terhadap sinyal ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/onslaught-of-ai-found-bugs-forces-bitcoins-core-lightning-into-a-secret-14-day-emergency-lockdown",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/core-lightning-emergency-lockdown.jpg",
+   "url": "https://cryptoslate.com/bitcoins-bottom-signal-is-flashing-but-six-months-of-data-shows-a-trap-waiting-for-early-buyers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bottom-compass-warning.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T13:35:44"
+   "published_at": "2026-08-27T16:45:17"
   },
   {
    "id": 1968,
@@ -674,6 +674,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T07:01:19"
+  },
+  {
+   "id": 2007,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bug AI paksa Lightning Bitcoin lockdown darurat 14 hari",
+   "x": "Pengembang Core Lightning mengunci sistem selama 14 hari untuk mengatasi kerentanan keamanan yang ditemukan oleh AI. Operator node diminta segera memperbarui perangkat lunak untuk melindungi jaringan dari potensi ancaman.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/onslaught-of-ai-found-bugs-forces-bitcoins-core-lightning-into-a-secret-14-day-emergency-lockdown",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/core-lightning-emergency-lockdown.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T13:35:44"
   },
   {
    "id": 2036,
