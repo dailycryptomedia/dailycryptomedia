@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/justin-sun-jing-tian-50-juta-ai-breakup",
    "img": "https://assets.beincrypto.com/img/QNvX35PvaRP1zs8m50OD0QLn1XQ=/smart/e6cbc93f43ab49b79d660c65658d9401",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T20:43:09"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:50:48"
@@ -60,32 +60,18 @@
    "published_at": "2026-08-28T09:00:02"
   },
   {
-   "id": 1905,
+   "id": 1936,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bill Gates Ingin Hingga 40% Pekerjaan Disediakan untuk Manusia, Bukan AI",
-   "x": "Bill Gates mengusulkan agar pekerjaan tertentu hanya dikerjakan oleh manusia, sebuah konsep yang ia sebut Human Reserved, dalam esai barunya tentang dampak artificial intelligence (AI). Co-founder Microsoft ini juga…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bill-gates-pekerjaan-manusia-yang-dicadangkan-ai",
-   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-26T10:36:51"
-  },
-  {
-   "id": 1899,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Penawaran ekuitas Kalshi senilai $1,5 miliar 75% terjual",
-   "x": "Kalshi melaporkan telah menjual tiga perempat dari penawaran ekuitasnya senilai $1,5 miliar, mengumpulkan $1,12 miliar. Penawaran ini mengandalkan pengecualian regulasi SEC untuk penawaran swasta, yang menunjukkan bagaimana perusahaan rintisan dapat menggalang dana tanpa pendaftaran publik.",
+   "t": "Pemerintah Inggris laporkan 240 jutawan kripto pada 2025",
+   "x": "Sebanyak 240 individu di Inggris melaporkan keuntungan aset digital lebih dari $1,4 juta dalam setahun pajak. Laporan ini menyoroti potensi keuntungan finansial yang signifikan dari aset kripto bagi sebagian investor ritel.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets-1.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T10:15:44"
+   "published_at": "2026-08-27T15:56:00"
   },
   {
    "id": 2046,
@@ -102,18 +88,18 @@
    "published_at": "2026-08-28T09:37:26"
   },
   {
-   "id": 1936,
+   "id": 2015,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pemerintah Inggris laporkan 240 jutawan kripto pada 2025",
-   "x": "Sebanyak 240 individu di Inggris melaporkan keuntungan aset digital lebih dari $1,4 juta dalam setahun pajak. Laporan ini menyoroti potensi keuntungan finansial yang signifikan dari aset kripto bagi sebagian investor ritel.",
+   "t": "Senat California loloskan RUU larang pejabat publik terbitkan memecoin",
+   "x": "RUU yang disahkan Senat California melarang pejabat publik menerbitkan memecoin untuk warga negara bagian itu. Langkah ini bertujuan mencegah konflik kepentingan dan praktik 'pay-to-play' dalam penerbitan token.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142VHEYF1NJ88CYWK7HGE6J/hi-california-vs-maga-memecoins.jpg",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T15:56:00"
+   "published_at": "2026-08-28T12:09:48"
   },
   {
    "id": 1993,
@@ -128,20 +114,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T09:37:16"
-  },
-  {
-   "id": 2015,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Senat California loloskan RUU larang pejabat publik terbitkan memecoin",
-   "x": "RUU yang disahkan Senat California melarang pejabat publik menerbitkan memecoin untuk warga negara bagian itu. Langkah ini bertujuan mencegah konflik kepentingan dan praktik 'pay-to-play' dalam penerbitan token.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142VHEYF1NJ88CYWK7HGE6J/hi-california-vs-maga-memecoins.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T12:09:48"
   }
  ]
 }
