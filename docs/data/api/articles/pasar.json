@@ -1,5 +1,5 @@
 {
- "total": 81,
+ "total": 80,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-08-26T07:50:19"
   },
   {
-   "id": 1854,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Cardano punya hari untuk tutup dua celah voting sebelum tata kelola mentok 3 kursi",
-   "x": "Cardano menghadapi tenggat waktu untuk menutup kesenjangan dukungan pemungutan suara terkait tata kelola. Kegagalan dapat menghambat proses pengambilan keputusan jaringan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardano-has-days-to-close-two-huge-voting-gaps-before-governance-hits-a-3-seat-bottleneck",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cardano-committee-ballot.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-25T23:35:48"
-  },
-  {
    "id": 1911,
    "k": "pasar",
    "cat": "Pasar",
@@ -46,6 +32,20 @@
    "published_at": "2026-08-26T10:00:46"
   },
   {
+   "id": 1908,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Rally Bitcoin $80.000 berbalik dari short squeeze ke long squeeze",
+   "x": "Bitcoin sempat turun di bawah $78.000, memicu likuidasi lebih dari $300 juta. Penurunan ini terjadi setelah reli tajam yang didorong oleh perkembangan Treasury AS dan aliran dana ETF.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-80000-rally-just-flipped-from-short-squeeze-to-long-squeeze",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-liquidations.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T11:20:23"
+  },
+  {
    "id": 2008,
    "k": "pasar",
    "cat": "Pasar",
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14TAFCZGB4VMQ151R2N0EKE/hi-bitcoin-vs-fiat-currencies-over-the-past-several-years-have-they-been-hampered-by-the-inflation2-2.png",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:53:12"
@@ -102,20 +102,6 @@
    "published_at": "2026-08-26T11:20:35"
   },
   {
-   "id": 1908,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Rally Bitcoin $80.000 berbalik dari short squeeze ke long squeeze",
-   "x": "Bitcoin sempat turun di bawah $78.000, memicu likuidasi lebih dari $300 juta. Penurunan ini terjadi setelah reli tajam yang didorong oleh perkembangan Treasury AS dan aliran dana ETF.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-80000-rally-just-flipped-from-short-squeeze-to-long-squeeze",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-liquidations.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T11:20:23"
-  },
-  {
    "id": 1862,
    "k": "pasar",
    "cat": "Pasar",
@@ -128,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T02:30:30"
+  },
+  {
+   "id": 1909,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pemilik Profit Connect divonis bersalah atas skema penipuan kripto AI senilai $24 juta",
+   "x": "Brent Kovar dinyatakan bersalah atas 15 tuduhan penipuan terkait skema investasi kripto AI. Kasus ini melibatkan janji palsu dan cadangan yang tidak ada, menarik setidaknya 400 investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/profit-connect-owner-convicted-over-24m-ai-crypto-fraud-scheme",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-fraud-court-conviction.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T10:30:02"
   },
   {
    "id": 1913,
@@ -186,20 +186,6 @@
    "published_at": "2026-08-26T09:42:38"
   },
   {
-   "id": 1909,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pemilik Profit Connect divonis bersalah atas skema penipuan kripto AI senilai $24 juta",
-   "x": "Brent Kovar dinyatakan bersalah atas 15 tuduhan penipuan terkait skema investasi kripto AI. Kasus ini melibatkan janji palsu dan cadangan yang tidak ada, menarik setidaknya 400 investor.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/profit-connect-owner-convicted-over-24m-ai-crypto-fraud-scheme",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-fraud-court-conviction.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T10:30:02"
-  },
-  {
    "id": 1893,
    "k": "pasar",
    "cat": "Pasar",
@@ -212,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T09:00:28"
+  },
+  {
+   "id": 2063,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Cosmos salah prediksi bug kritis selama 4 bulan sebelum peretas curi hampir $6 juta",
+   "x": "Perbaikan bug kritis di Cosmos baru dirilis setelah insiden peretasan terjadi di enam blockchain. Sebagian besar dana yang dicuri belum berhasil dipulihkan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cosmos-misjudged-a-critical-bug-for-4-months-before-hackers-stole-nearly-6-million-across-6-chains",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cosmos-network-breach-shield.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T20:10:23"
   },
   {
    "id": 1915,
@@ -250,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T17:44:09"
@@ -270,20 +270,6 @@
    "published_at": "2026-08-28T21:07:40"
   },
   {
-   "id": 2063,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Cosmos salah prediksi bug kritis selama 4 bulan sebelum peretas curi hampir $6 juta",
-   "x": "Perbaikan bug kritis di Cosmos baru dirilis setelah insiden peretasan terjadi di enam blockchain. Sebagian besar dana yang dicuri belum berhasil dipulihkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cosmos-misjudged-a-critical-bug-for-4-months-before-hackers-stole-nearly-6-million-across-6-chains",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cosmos-network-breach-shield.jpg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T20:10:23"
-  },
-  {
    "id": 1863,
    "k": "pasar",
    "cat": "Pasar",
@@ -296,6 +282,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T02:00:20"
+  },
+  {
+   "id": 1925,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP Naik 32% dari $1 Seiring Masuknya Dana ETF dan Pergerakan Whale",
+   "x": "XRP mencatat kenaikan bulanan terkuat dalam setahun setelah pulih dari level di bawah $1. Aktivitas besar dari para pemegang saham besar (whale) menguji ketahanan reli ini.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-rebounds-32-from-1-as-etf-money-pours-in-and-whales-reposition",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-etf-whale-rebound.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T12:35:35"
   },
   {
    "id": 2014,
@@ -354,20 +354,6 @@
    "published_at": "2026-08-26T05:04:18"
   },
   {
-   "id": 1925,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "XRP Naik 32% dari $1 Seiring Masuknya Dana ETF dan Pergerakan Whale",
-   "x": "XRP mencatat kenaikan bulanan terkuat dalam setahun setelah pulih dari level di bawah $1. Aktivitas besar dari para pemegang saham besar (whale) menguji ketahanan reli ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-rebounds-32-from-1-as-etf-money-pours-in-and-whales-reposition",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-etf-whale-rebound.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T12:35:35"
-  },
-  {
    "id": 1874,
    "k": "pasar",
    "cat": "Pasar",
@@ -380,6 +366,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T04:00:30"
+  },
+  {
+   "id": 1896,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bug dompet kosong kuasai 82 aset Provenance",
+   "x": "Sebuah celah keamanan memungkinkan dompet digital tanpa saldo mengambil alih aset digital. Meskipun tidak ada eksploitasi yang terkonfirmasi, celah ini berisiko terhadap pasokan token dan dana yang tersimpan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-zero-balance-bug-let-empty-wallets-seize-control-of-82-provenance-assets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/provenance_zero_balance_bug_standard_image.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T08:10:16"
   },
   {
    "id": 1937,
@@ -404,7 +404,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
    "img": "https://www.tbstat.com/wp/uploads/2023/10/20230810_Solana_News2-1200x675.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T15:48:52"
@@ -438,20 +438,6 @@
    "published_at": "2026-08-26T04:56:03"
   },
   {
-   "id": 1896,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bug dompet kosong kuasai 82 aset Provenance",
-   "x": "Sebuah celah keamanan memungkinkan dompet digital tanpa saldo mengambil alih aset digital. Meskipun tidak ada eksploitasi yang terkonfirmasi, celah ini berisiko terhadap pasokan token dan dana yang tersimpan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-zero-balance-bug-let-empty-wallets-seize-control-of-82-provenance-assets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/provenance_zero_balance_bug_standard_image.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T08:10:16"
-  },
-  {
    "id": 1886,
    "k": "pasar",
    "cat": "Pasar",
@@ -464,6 +450,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T06:00:59"
+  },
+  {
+   "id": 1926,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Tiga Laporan Kritis AS Hadir, Uji Rekor Aliran Dana ETF Bitcoin",
+   "x": "Aliran dana masuk ETF Bitcoin senilai $2,5 miliar menghadapi ujian berat dengan rilis tiga laporan ekonomi penting AS. Data PCE, PDB, dan barang tahan lama akan memengaruhi pasar makro.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/three-critical-us-reports-arrive-in-30-minutes-as-bitcoins-2-57-billion-etf-streak-faces-its-first-real-test",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-etf-macro-race.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T12:00:51"
   },
   {
    "id": 1938,
@@ -522,20 +522,6 @@
    "published_at": "2026-08-26T10:54:07"
   },
   {
-   "id": 1926,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Tiga Laporan Kritis AS Hadir, Uji Rekor Aliran Dana ETF Bitcoin",
-   "x": "Aliran dana masuk ETF Bitcoin senilai $2,5 miliar menghadapi ujian berat dengan rilis tiga laporan ekonomi penting AS. Data PCE, PDB, dan barang tahan lama akan memengaruhi pasar makro.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/three-critical-us-reports-arrive-in-30-minutes-as-bitcoins-2-57-billion-etf-streak-faces-its-first-real-test",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-etf-macro-race.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T12:00:51"
-  },
-  {
    "id": 1894,
    "k": "pasar",
    "cat": "Pasar",
@@ -548,6 +534,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T08:00:45"
+  },
+  {
+   "id": 2000,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Krisis mata uang berikutnya bisa lebih sulit ditangani karena stablecoin, laporan Fed New York",
+   "x": "Laporan Federal Reserve New York mengindikasikan stablecoin dapat memperburuk krisis mata uang dan membebani kontrol modal. Peningkatan adopsi stablecoin berpotensi menimbulkan risiko sistemik.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/the-next-currency-crisis-may-be-harder-to-contain-because-of-stablecoins-new-york-fed-report-shows",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-crisis-hand.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T21:20:40"
   },
   {
    "id": 2019,
@@ -572,7 +572,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240507_Bybit_News_2-1200x675.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T14:44:23"
@@ -606,20 +606,6 @@
    "published_at": "2026-08-26T10:50:03"
   },
   {
-   "id": 2000,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Krisis mata uang berikutnya bisa lebih sulit ditangani karena stablecoin, laporan Fed New York",
-   "x": "Laporan Federal Reserve New York mengindikasikan stablecoin dapat memperburuk krisis mata uang dan membebani kontrol modal. Peningkatan adopsi stablecoin berpotensi menimbulkan risiko sistemik.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-next-currency-crisis-may-be-harder-to-contain-because-of-stablecoins-new-york-fed-report-shows",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-crisis-hand.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T21:20:40"
-  },
-  {
    "id": 2072,
    "k": "pasar",
    "cat": "Pasar",
@@ -628,10 +614,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/5-kripto-top-gainers-28-agustus-2026-ada-crypto-apa-saja",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T10:00:05"
+  },
+  {
+   "id": 2068,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "USDC jadi sponsor utama Chelsea di Liga Primer Inggris",
+   "x": "Circle, penerbit stablecoin USDC, menjadi sponsor utama jersey Chelsea untuk musim 2026/27. Kemitrahan ini menempatkan branding USDC pada seragam tim pria, wanita, dan akademi, menandai penetrasi stablecoin ke liga sepak bola papan atas.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/usdc-gets-promoted-to-the-premier-league-with-chelsea-main-shirt-sponsor-deal",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/chelsea-usdc-partnership.jpg",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T15:45:12"
   },
   {
    "id": 2013,
@@ -684,24 +684,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-perangkat-lunak-2026-rebound-ai",
    "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-27T23:44:00"
-  },
-  {
-   "id": 2068,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "USDC jadi sponsor utama Chelsea di Liga Primer Inggris",
-   "x": "Circle, penerbit stablecoin USDC, menjadi sponsor utama jersey Chelsea untuk musim 2026/27. Kemitrahan ini menempatkan branding USDC pada seragam tim pria, wanita, dan akademi, menandai penetrasi stablecoin ke liga sepak bola papan atas.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/usdc-gets-promoted-to-the-premier-league-with-chelsea-main-shirt-sponsor-deal",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/chelsea-usdc-partnership.jpg",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T15:45:12"
   },
   {
    "id": 1976,
@@ -716,6 +702,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T07:00:43"
+  },
+  {
+   "id": 2069,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ETF Bitcoin BlackRock raup 115% aliran dana masuk harian",
+   "x": "ETF Bitcoin BlackRock (IBIT) mencatatkan aliran dana masuk yang signifikan, melampaui total kenaikan pasar harian. Fenomena ini terjadi saat dana pesaing mengalami aliran keluar, menunjukkan dominasi IBIT di pasar ETF Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/blackrock-just-pulled-in-115-of-all-bitcoin-etf-inflows-in-a-single-day-as-rival-funds-bleed-cash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ibit-etf-support-pillar.jpg",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T14:55:10"
   },
   {
    "id": 2017,
@@ -774,20 +774,6 @@
    "published_at": "2026-08-26T08:45:13"
   },
   {
-   "id": 2069,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "ETF Bitcoin BlackRock raup 115% aliran dana masuk harian",
-   "x": "ETF Bitcoin BlackRock (IBIT) mencatatkan aliran dana masuk yang signifikan, melampaui total kenaikan pasar harian. Fenomena ini terjadi saat dana pesaing mengalami aliran keluar, menunjukkan dominasi IBIT di pasar ETF Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrock-just-pulled-in-115-of-all-bitcoin-etf-inflows-in-a-single-day-as-rival-funds-bleed-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ibit-etf-support-pillar.jpg",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T14:55:10"
-  },
-  {
    "id": 2076,
    "k": "pasar",
    "cat": "Pasar",
@@ -800,6 +786,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T02:30:55"
+  },
+  {
+   "id": 2003,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Morgan Stanley pimpin aliran dana ETF Solana $9 juta saat SOL di atas $100",
+   "x": "Produk ETF Solana yang dilacak Farside menarik dana masuk signifikan, dipimpin oleh Morgan Stanley. Kenaikan harga SOL di atas $100 turut mendorong minat investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/morgan-stanley-leads-solana-etf-9-million-inflows-as-sol-jumps-rises-above-100",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/morgan-stanley-solana-inflows.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T17:50:22"
   },
   {
    "id": 2044,
@@ -824,7 +824,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/hmrc-decrypt-style-1-gID_7.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T11:03:04"
