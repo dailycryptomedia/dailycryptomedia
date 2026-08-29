@@ -1,5 +1,5 @@
 {
- "total": 212,
+ "total": 213,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-08-26T07:50:19"
   },
   {
-   "id": 2079,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pendanaan Bitcoin Capital B senilai €21 juta berisiko dilusi warrant besar",
-   "x": "Capital B menggalang dana €21 juta melalui penerbitan Bitcoin baru, yang berpotensi menimbulkan risiko dilusi bagi pemegang saham lama. Pelaksanaan waran penuh dapat mengurangi rasio kepemilikan yang ada secara signifikan.",
+   "id": 2082,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kraken dan Galaxy berbalik arah saat Solana setujui pemotongan suplai besar",
+   "x": "Solana menyetujui pemotongan suplai besar yang berdampak pada Kraken dan Galaxy. Perubahan ini terjadi di tengah penundaan finalisasi on-chain.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/capital-bs-e21-million-bitcoin-raise-comes-with-heavy-warrant-dilution-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warrant-press.jpg",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/solana-sgp-0002-passes-with-176-million-sol-as-governance-debate-shifts-to-technical-execution",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-split-vote-tally.jpg",
+   "a": "3 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T23:20:40"
+   "published_at": "2026-08-29T03:30:06"
   },
   {
    "id": 1911,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-15-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T21:16:04"
@@ -96,24 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/yen-jepang-diselamatkan-peran-rahasia-as",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T23:05:29"
   },
   {
-   "id": 2062,
+   "id": 2079,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ethena bidik pasar saham Wall Street senilai $120 triliun untuk imbal hasil 5x Bitcoin",
-   "x": "Ethena memperluas stablecoin USDe ke perdagangan derivatif ekuitas, menargetkan imbal hasil pendanaan yang jauh lebih tinggi dari Bitcoin. Langkah ini bertujuan memulihkan nilai setelah kontraksi sebelumnya.",
+   "t": "Pendanaan Bitcoin Capital B senilai €21 juta berisiko dilusi warrant besar",
+   "x": "Capital B menggalang dana €21 juta melalui penerbitan Bitcoin baru, yang berpotensi menimbulkan risiko dilusi bagi pemegang saham lama. Pelaksanaan waran penuh dapat mengurangi rasio kepemilikan yang ada secara signifikan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usde-equity-rebuild.jpg",
-   "a": "5 jam lalu",
+   "url": "https://cryptoslate.com/capital-bs-e21-million-bitcoin-raise-comes-with-heavy-warrant-dilution-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warrant-press.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T21:30:27"
+   "published_at": "2026-08-28T23:20:40"
   },
   {
    "id": 2080,
@@ -124,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/whale-bitcoin-makin-agresif-namun-data-ini-justru-ungkap-ada-anomali",
    "img": null,
-   "a": "33 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T02:30:31"
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T20:19:44"
@@ -186,18 +186,18 @@
    "published_at": "2026-08-26T07:35:26"
   },
   {
-   "id": 1872,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Moonwell alami lubang likuiditas $1,8 juta dan tak alokasikan dana untuk perbaikan",
-   "x": "Platform DeFi Moonwell menghadapi masalah likuiditas sebesar $1,8 juta. Rencana perbaikan terbaru tidak mengalokasikan dana sama sekali, menimbulkan kekhawatiran bagi pengguna.",
+   "id": 2062,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ethena bidik pasar saham Wall Street senilai $120 triliun untuk imbal hasil 5x Bitcoin",
+   "x": "Ethena memperluas stablecoin USDe ke perdagangan derivatif ekuitas, menargetkan imbal hasil pendanaan yang jauh lebih tinggi dari Bitcoin. Langkah ini bertujuan memulihkan nilai setelah kontraksi sebelumnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/moonwell-has-a-1-8m-liquidity-hole-and-its-latest-plan-allocates-0-to-fix-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/moonwell-cbeth-withdrawal-lock.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usde-equity-rebuild.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T05:30:47"
+   "published_at": "2026-08-28T21:30:27"
   },
   {
    "id": 1910,
@@ -270,18 +270,18 @@
    "published_at": "2026-08-26T11:20:35"
   },
   {
-   "id": 1908,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Rally Bitcoin $80.000 berbalik dari short squeeze ke long squeeze",
-   "x": "Bitcoin sempat turun di bawah $78.000, memicu likuidasi lebih dari $300 juta. Penurunan ini terjadi setelah reli tajam yang didorong oleh perkembangan Treasury AS dan aliran dana ETF.",
+   "id": 1872,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Moonwell alami lubang likuiditas $1,8 juta dan tak alokasikan dana untuk perbaikan",
+   "x": "Platform DeFi Moonwell menghadapi masalah likuiditas sebesar $1,8 juta. Rencana perbaikan terbaru tidak mengalokasikan dana sama sekali, menimbulkan kekhawatiran bagi pengguna.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-80000-rally-just-flipped-from-short-squeeze-to-long-squeeze",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-liquidations.jpg",
+   "url": "https://cryptoslate.com/moonwell-has-a-1-8m-liquidity-hole-and-its-latest-plan-allocates-0-to-fix-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/moonwell-cbeth-withdrawal-lock.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T11:20:23"
+   "published_at": "2026-08-26T05:30:47"
   },
   {
    "id": 2081,
@@ -354,18 +354,18 @@
    "published_at": "2026-08-26T09:42:38"
   },
   {
-   "id": 1895,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Trader Bitcoin lindungi nilai di $60 ribu, borong di atas $78 ribu",
-   "x": "Posisi open interest di pasar opsi Bitcoin melonjak menjelang akhir September. Hal ini mengindikasikan aktivitas perdagangan yang meningkat signifikan menjelang keputusan The Fed.",
+   "id": 1908,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Rally Bitcoin $80.000 berbalik dari short squeeze ke long squeeze",
+   "x": "Bitcoin sempat turun di bawah $78.000, memicu likuidasi lebih dari $300 juta. Penurunan ini terjadi setelah reli tajam yang didorong oleh perkembangan Treasury AS dan aliran dana ETF.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-traders-hedged-60k-and-loaded-up-above-78k-leaving-the-low-70k-exposed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-market-fault-line.jpg",
+   "url": "https://cryptoslate.com/bitcoins-80000-rally-just-flipped-from-short-squeeze-to-long-squeeze",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-liquidations.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T09:30:49"
+   "published_at": "2026-08-26T11:20:23"
   },
   {
    "id": 1885,
@@ -432,24 +432,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/avici-eksploit-solana-card-vaults-drained",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T21:07:40"
   },
   {
-   "id": 1924,
+   "id": 1895,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Node Lightning Lama Berisiko Terhapus Total Setelah Perbaikan LND Tertunda",
-   "x": "Perbaikan keamanan untuk node Lightning Network yang dirilis terlambat membuat versi lama berisiko terhapus seluruhnya. Pengguna disarankan segera memperbarui perangkat lunak mereka untuk menghindari kerugian.",
+   "t": "Trader Bitcoin lindungi nilai di $60 ribu, borong di atas $78 ribu",
+   "x": "Posisi open interest di pasar opsi Bitcoin melonjak menjelang akhir September. Hal ini mengindikasikan aktivitas perdagangan yang meningkat signifikan menjelang keputusan The Fed.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/lnd-channel-zipper-flaw.jpg",
+   "url": "https://cryptoslate.com/bitcoin-traders-hedged-60k-and-loaded-up-above-78k-leaving-the-low-70k-exposed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-market-fault-line.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T13:35:38"
+   "published_at": "2026-08-26T09:30:49"
   },
   {
    "id": 1862,
@@ -522,18 +522,18 @@
    "published_at": "2026-08-26T05:04:18"
   },
   {
-   "id": 1864,
+   "id": 1924,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Proposal 1 miliar saham Soluna ungkap tantangan pendanaan ekspansi AI dan Bitcoin",
-   "x": "Soluna mengusulkan penambahan 625 juta saham untuk mendanai ekspansi bisnis AI dan Bitcoin. Langkah ini menyoroti kesulitan perusahaan dalam mengumpulkan modal untuk proyek ambisius di tengah tantangan pasar.",
+   "t": "Node Lightning Lama Berisiko Terhapus Total Setelah Perbaikan LND Tertunda",
+   "x": "Perbaikan keamanan untuk node Lightning Network yang dirilis terlambat membuat versi lama berisiko terhapus seluruhnya. Pengguna disarankan segera memperbarui perangkat lunak mereka untuk menghindari kerugian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solunas-1-billion-share-proposal-exposes-the-funding-challenge-behind-its-ai-and-bitcoin-expansion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/soluna-share-dilution-vote.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/lnd-channel-zipper-flaw.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T02:40:11"
+   "published_at": "2026-08-26T13:35:38"
   },
   {
    "id": 1893,
@@ -606,18 +606,18 @@
    "published_at": "2026-08-26T13:30:57"
   },
   {
-   "id": 1884,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Lobi bank AS minta pemegang stablecoin buka rekening sebelum pencairan",
-   "x": "Asosiasi Blockchain meminta pengecualian untuk pencairan dana satu kali dan yang melalui perantara. Regulator akan menentukan kapan pemegang dana mandiri menjadi nasabah penerbit.",
+   "id": 1864,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Proposal 1 miliar saham Soluna ungkap tantangan pendanaan ekspansi AI dan Bitcoin",
+   "x": "Soluna mengusulkan penambahan 625 juta saham untuk mendanai ekspansi bisnis AI dan Bitcoin. Langkah ini menyoroti kesulitan perusahaan dalam mengumpulkan modal untuk proyek ambisius di tengah tantangan pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-bank-lobby-wants-stablecoin-holders-to-open-an-account-before-cashing-out",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin_kyc_standard_image.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/solunas-1-billion-share-proposal-exposes-the-funding-challenge-behind-its-ai-and-bitcoin-expansion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/soluna-share-dilution-vote.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T07:00:43"
+   "published_at": "2026-08-26T02:40:11"
   },
   {
    "id": 1863,
@@ -690,18 +690,18 @@
    "published_at": "2026-08-26T04:56:03"
   },
   {
-   "id": 1998,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "KuCoin bisa blokir transaksi kripto Anda meski tak dikirim ke 17 platform terafiliasi",
-   "x": "Bursa kripto KuCoin dapat meninjau, menolak, atau membatasi akses dompet pengguna jika terdeteksi transaksi ke platform yang masuk daftar sanksi. Hal ini meningkatkan risiko bagi pengguna yang tidak menyadari potensi keterkaitan transaksi mereka.",
+   "id": 1884,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Lobi bank AS minta pemegang stablecoin buka rekening sebelum pencairan",
+   "x": "Asosiasi Blockchain meminta pengecualian untuk pencairan dana satu kali dan yang melalui perantara. Regulator akan menentukan kapan pemegang dana mandiri menjadi nasabah penerbit.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kucoin-can-block-your-crypto-transactions-even-if-you-never-sent-it-to-these-17-sanctioned-platforms",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/kucoin-sanctions-account-lock.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/us-bank-lobby-wants-stablecoin-holders-to-open-an-account-before-cashing-out",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin_kyc_standard_image.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T23:40:05"
+   "published_at": "2026-08-26T07:00:43"
   },
   {
    "id": 1874,
@@ -774,18 +774,18 @@
    "published_at": "2026-08-26T10:54:07"
   },
   {
-   "id": 1909,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pemilik Profit Connect divonis bersalah atas skema penipuan kripto AI senilai $24 juta",
-   "x": "Brent Kovar dinyatakan bersalah atas 15 tuduhan penipuan terkait skema investasi kripto AI. Kasus ini melibatkan janji palsu dan cadangan yang tidak ada, menarik setidaknya 400 investor.",
+   "id": 1998,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "KuCoin bisa blokir transaksi kripto Anda meski tak dikirim ke 17 platform terafiliasi",
+   "x": "Bursa kripto KuCoin dapat meninjau, menolak, atau membatasi akses dompet pengguna jika terdeteksi transaksi ke platform yang masuk daftar sanksi. Hal ini meningkatkan risiko bagi pengguna yang tidak menyadari potensi keterkaitan transaksi mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/profit-connect-owner-convicted-over-24m-ai-crypto-fraud-scheme",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-fraud-court-conviction.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/kucoin-can-block-your-crypto-transactions-even-if-you-never-sent-it-to-these-17-sanctioned-platforms",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/kucoin-sanctions-account-lock.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T10:30:02"
+   "published_at": "2026-08-27T23:40:05"
   },
   {
    "id": 1886,
