@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/helium-hnt-celina-texas-wifi",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-29T11:46:40"
@@ -44,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T20:19:44"
+  },
+  {
+   "id": 2115,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Polygon ungkap celah keamanan yang diperbaiki dalam hard fork",
+   "x": "Polygon telah memperbaiki kerentanan keamanan yang berpotensi menimbulkan risiko layanan dan sumber daya validator. Perbaikan ini dilakukan sebelum pengungkapan publik, menunjukkan langkah proaktif dalam menjaga keamanan jaringan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
+   "a": "34 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T20:28:51"
   },
   {
    "id": 1951,
