@@ -1,5 +1,5 @@
 {
- "total": 52,
+ "total": 53,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-08-28T23:20:40"
   },
   {
+   "id": 2086,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin alami aliran dana keluar, BTC di bawah $78 ribu",
+   "x": "ETF Bitcoin spot AS mencatat aliran dana keluar bersih sebesar $201,8 juta pada Jumat, mengakhiri tren positif sembilan hari. Total aset reksa dana tersebut kini kembali di bawah $100 miliar.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg",
+   "a": "16 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T06:47:12"
+  },
+  {
    "id": 2024,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T02:30:31"
-  },
-  {
-   "id": 1914,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bernstein Prediksi Bitcoin Capai $125 Ribu Akhir 2026",
-   "x": "Analis memprediksi Bitcoin akan kembali menembus $125.000 pada akhir 2026, sebelum mencapai $300.000 pada 2029. Prediksi ini didasarkan pada siklus pasar aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-governance-and-uses-beyond-death-pools-bitcoin-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T12:32:36"
   },
   {
    "id": 1900,
@@ -116,6 +116,20 @@
    "published_at": "2026-08-28T21:30:27"
   },
   {
+   "id": 1914,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bernstein Prediksi Bitcoin Capai $125 Ribu Akhir 2026",
+   "x": "Analis memprediksi Bitcoin akan kembali menembus $125.000 pada akhir 2026, sebelum mencapai $300.000 pada 2029. Prediksi ini didasarkan pada siklus pasar aset kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-governance-and-uses-beyond-death-pools-bitcoin-2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T12:32:36"
+  },
+  {
    "id": 1961,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -138,24 +152,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/arthur-hayes-sebut-bessent-yellen-2-0-bitcoin-bakal-diuntungkan",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T07:00:14"
-  },
-  {
-   "id": 1876,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin catat rekor aliran dana masuk tujuh hari berturut-turut",
-   "x": "Dana-dana ini hanya US$390 juta dari total aliran dana masuk Oktober 2025, setelah memangkas defisit aliran keluar tahun berjalan lebih dari setengahnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T07:30:31"
   },
   {
    "id": 1901,
@@ -200,6 +200,20 @@
    "published_at": "2026-08-26T09:30:49"
   },
   {
+   "id": 1876,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin catat rekor aliran dana masuk tujuh hari berturut-turut",
+   "x": "Dana-dana ini hanya US$390 juta dari total aliran dana masuk Oktober 2025, setelah memangkas defisit aliran keluar tahun berjalan lebih dari setengahnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T07:30:31"
+  },
+  {
    "id": 1959,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -226,20 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T08:15:25"
-  },
-  {
-   "id": 1897,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penyerapan pasokan jadi pertanyaan kunci saat Bitcoin gagal rebut kembali $80.000",
-   "x": "Bitcoin kesulitan mempertahankan level $80.000 karena investor kembali mencetak keuntungan. Analisis menunjukkan penyerapan pasokan menjadi faktor krusial bagi pergerakan harga selanjutnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-network-death-spiral-still-likely.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T10:49:26"
   },
   {
    "id": 1882,
@@ -270,6 +270,20 @@
    "published_at": "2026-08-26T13:35:38"
   },
   {
+   "id": 1897,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penyerapan pasokan jadi pertanyaan kunci saat Bitcoin gagal rebut kembali $80.000",
+   "x": "Bitcoin kesulitan mempertahankan level $80.000 karena investor kembali mencetak keuntungan. Analisis menunjukkan penyerapan pasokan menjadi faktor krusial bagi pergerakan harga selanjutnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-network-death-spiral-still-likely.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T10:49:26"
+  },
+  {
    "id": 1963,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -296,20 +310,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T08:00:37"
-  },
-  {
-   "id": 2011,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin turun ke $78.400 seiring The Fed waspadai inflasi",
-   "x": "Harga Bitcoin gagal menembus $80.000 setelah pidato Ketua The Fed yang mewaspadai tren inflasi AS. Hal ini menunjukkan kekhawatiran pasar terhadap kebijakan moneter bank sentral dapat memengaruhi pergerakan aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T15:31:25"
   },
   {
    "id": 1958,
@@ -340,6 +340,20 @@
    "published_at": "2026-08-27T22:30:35"
   },
   {
+   "id": 2011,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin turun ke $78.400 seiring The Fed waspadai inflasi",
+   "x": "Harga Bitcoin gagal menembus $80.000 setelah pidato Ketua The Fed yang mewaspadai tren inflasi AS. Hal ini menunjukkan kekhawatiran pasar terhadap kebijakan moneter bank sentral dapat memengaruhi pergerakan aset kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T15:31:25"
+  },
+  {
    "id": 2033,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -368,20 +382,6 @@
    "published_at": "2026-08-28T03:00:23"
   },
   {
-   "id": 2012,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin naik, pasar modal pulihkan aset kripto",
-   "x": "Kenaikan harga Bitcoin ke $80.000 mendorong saham aset kripto, seiring Circle, Strategy, dan Solana menunjukkan pemulihan. Hal ini mengindikasikan pasar modal, stablecoin, dan pertumbuhan on-chain menjadi pendorong utama.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T14:53:40"
-  },
-  {
    "id": 2057,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -390,7 +390,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saldo-bursa-eth-btc-berbeda-rally",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T12:42:53"
@@ -404,10 +404,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T18:50:50"
+  },
+  {
+   "id": 2012,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin naik, pasar modal pulihkan aset kripto",
+   "x": "Kenaikan harga Bitcoin ke $80.000 mendorong saham aset kripto, seiring Circle, Strategy, dan Solana menunjukkan pemulihan. Hal ini mengindikasikan pasar modal, stablecoin, dan pertumbuhan on-chain menjadi pendorong utama.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T14:53:40"
   },
   {
    "id": 1965,
@@ -424,6 +438,34 @@
    "published_at": "2026-08-27T17:36:04"
   },
   {
+   "id": 2061,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Dana Pensiun Korea US$1,35 Triliun Catat Imbal Hasil Rekor 27% — Tanpa Bitcoin",
+   "x": "National Pension Service (NPS) Korea Selatan mencatatkan imbal hasil investasi rekor sebesar 27,22% pada paruh pertama tahun 2026, hampir seluruhnya didorong oleh reli saham domestik yang luar biasa berkat ledakan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/korea-selatan-nps-cetak-rekor-impor-ai-boom-bitcoin",
+   "img": "https://assets.beincrypto.com/img/83YmzNvcONmKuZxmcRcYOV3iL8E=/smart/b637298c00814194ab24d3acb3e515d4",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-28T11:48:42"
+  },
+  {
+   "id": 2067,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
+   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T16:55:35"
+  },
+  {
    "id": 1934,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -438,34 +480,6 @@
    "published_at": "2026-08-27T16:13:10"
   },
   {
-   "id": 2061,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Dana Pensiun Korea US$1,35 Triliun Catat Imbal Hasil Rekor 27% — Tanpa Bitcoin",
-   "x": "National Pension Service (NPS) Korea Selatan mencatatkan imbal hasil investasi rekor sebesar 27,22% pada paruh pertama tahun 2026, hampir seluruhnya didorong oleh reli saham domestik yang luar biasa berkat ledakan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/korea-selatan-nps-cetak-rekor-impor-ai-boom-bitcoin",
-   "img": "https://assets.beincrypto.com/img/83YmzNvcONmKuZxmcRcYOV3iL8E=/smart/b637298c00814194ab24d3acb3e515d4",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-28T11:48:42"
-  },
-  {
-   "id": 2067,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
-   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T16:55:35"
-  },
-  {
    "id": 2030,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -474,10 +488,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:39:02"
+  },
+  {
+   "id": 2060,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Kehilangan Price Anchor setelah Opsi Senilai US$6,4 Miliar Berakhir. Akankah The Fed Menggantikan?",
+   "x": "Opsi Bitcoin senilai $6,4 miliar diselesaikan pada $79.682. Order jual berpindah ke $82.000 saat Warsh naik ke podium.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harga-expiry-bitcoin-options-anchor-the-fed",
+   "img": "https://assets.beincrypto.com/img/o9LmO0sgdcZU7uJvhmLlXtXP_sI=/smart/45081422bab3490da27c0ac6fa036a0a",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-28T12:00:13"
+  },
+  {
+   "id": 2070,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
+   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T13:45:31"
   },
   {
    "id": 1935,
@@ -494,34 +536,6 @@
    "published_at": "2026-08-27T16:04:15"
   },
   {
-   "id": 2060,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Kehilangan Price Anchor setelah Opsi Senilai US$6,4 Miliar Berakhir. Akankah The Fed Menggantikan?",
-   "x": "Opsi Bitcoin senilai $6,4 miliar diselesaikan pada $79.682. Order jual berpindah ke $82.000 saat Warsh naik ke podium.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-expiry-bitcoin-options-anchor-the-fed",
-   "img": "https://assets.beincrypto.com/img/o9LmO0sgdcZU7uJvhmLlXtXP_sI=/smart/45081422bab3490da27c0ac6fa036a0a",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-28T12:00:13"
-  },
-  {
-   "id": 2070,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
-   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T13:45:31"
-  },
-  {
    "id": 2032,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -534,20 +548,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:04:37"
-  },
-  {
-   "id": 1932,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Grayscale: Zcash bisa tantang efek jaringan Bitcoin seiring permintaan privasi naik",
-   "x": "Grayscale menilai Zcash memiliki potensi pertumbuhan lebih lanjut meskipun pangsa pasarnya masih kecil dibandingkan Bitcoin. Peningkatan permintaan privasi menjadi katalisator bagi aset digital yang fokus pada anonimitas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-vs-zcash.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T18:51:02"
   },
   {
    "id": 2004,
@@ -564,6 +564,20 @@
    "published_at": "2026-08-27T16:45:17"
   },
   {
+   "id": 1932,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Grayscale: Zcash bisa tantang efek jaringan Bitcoin seiring permintaan privasi naik",
+   "x": "Grayscale menilai Zcash memiliki potensi pertumbuhan lebih lanjut meskipun pangsa pasarnya masih kecil dibandingkan Bitcoin. Peningkatan permintaan privasi menjadi katalisator bagi aset digital yang fokus pada anonimitas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-vs-zcash.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T18:51:02"
+  },
+  {
    "id": 2034,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -578,20 +592,6 @@
    "published_at": "2026-08-28T14:17:21"
   },
   {
-   "id": 1933,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin bidik $81 ribu seiring lonjakan aset berisiko akibat laporan Nvidia",
-   "x": "Kenaikan harga Bitcoin dan aset kripto lainnya sejalan dengan pasar saham AS. Hal ini terjadi setelah laporan pendapatan kuartal II Nvidia melampaui ekspektasi, memicu sentimen positif pada aset berisiko.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T17:15:43"
-  },
-  {
    "id": 2007,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -604,6 +604,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T13:35:44"
+  },
+  {
+   "id": 1933,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin bidik $81 ribu seiring lonjakan aset berisiko akibat laporan Nvidia",
+   "x": "Kenaikan harga Bitcoin dan aset kripto lainnya sejalan dengan pasar saham AS. Hal ini terjadi setelah laporan pendapatan kuartal II Nvidia melampaui ekspektasi, memicu sentimen positif pada aset berisiko.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T17:15:43"
   },
   {
    "id": 1967,
@@ -656,7 +670,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-4.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T07:01:19"
@@ -670,7 +684,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376797/uk-police-seize-1-4m-in-bitcoin-traced-to-shuttered-darknet-markets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T11:34:20"
