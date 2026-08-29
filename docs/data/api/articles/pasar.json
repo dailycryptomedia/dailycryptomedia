@@ -1,5 +1,5 @@
 {
- "total": 63,
+ "total": 64,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-08-29T11:55:21"
   },
   {
+   "id": 2098,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "BitGo akuisisi unit trading institusional NYDIG senilai $42,5 juta",
+   "x": "BitGo mengakuisisi lengan trading institusional NYDIG untuk memperkuat kapabilitas derivatif dan pembiayaan. Akuisisi ini memungkinkan NYDIG fokus pada bisnis pusat data dan energi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/bitgo-nyse-decrypt-style-gID_7.jpg",
+   "a": "2 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T13:31:04"
+  },
+  {
    "id": 2082,
    "k": "pasar",
    "cat": "Pasar",
@@ -40,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solana-sgp-0002-passes-with-176-million-sol-as-governance-debate-shifts-to-technical-execution",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/solana-split-vote-tally.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T03:30:06"
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T08:01:04"
-  },
-  {
-   "id": 1927,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Euro Digital Akan Tawarkan 'Privasi Maksimal', Kata Anggota Dewan ECB",
-   "x": "Bank Sentral Eropa (ECB) menyatakan bahwa Euro digital akan menjamin privasi maksimal bagi penggunanya. Namun, bank yang memproses transaksi masih dapat mengaitkan individu dengan aktivitas mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T12:51:03"
   },
   {
    "id": 1983,
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pengu-masuk-robinhood-chain-apakah-reli-besar-akan-dimulai",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T03:30:29"
@@ -110,10 +110,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/avici-eksploit-solana-card-vaults-drained",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T21:07:40"
+  },
+  {
+   "id": 1927,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Euro Digital Akan Tawarkan 'Privasi Maksimal', Kata Anggota Dewan ECB",
+   "x": "Bank Sentral Eropa (ECB) menyatakan bahwa Euro digital akan menjamin privasi maksimal bagi penggunanya. Namun, bank yang memproses transaksi masih dapat mengaitkan individu dengan aktivitas mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-26T12:51:03"
   },
   {
    "id": 2088,
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-etfs-appeared-to-hit-10b-in-hours-but-filing-data-exposes-where-that-money-really-came-from",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-etf-piggy-bank.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T07:10:07"
@@ -142,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:53:12"
-  },
-  {
-   "id": 2028,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana akan cetak lebih sedikit SOL setelah voting disinflasi lolos tipis",
-   "x": "Proposal 'Double Disinflation' lolos dengan selisih suara tipis setelah sempat terancam gagal. Proposal lain terkait pembakaran biaya transaksi gagal disetujui.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T17:44:09"
   },
   {
    "id": 2040,
@@ -200,6 +200,20 @@
    "published_at": "2026-08-27T23:44:00"
   },
   {
+   "id": 2028,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana akan cetak lebih sedikit SOL setelah voting disinflasi lolos tipis",
+   "x": "Proposal 'Double Disinflation' lolos dengan selisih suara tipis setelah sempat terancam gagal. Proposal lain terkait pembakaran biaya transaksi gagal disetujui.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T17:44:09"
+  },
+  {
    "id": 2063,
    "k": "pasar",
    "cat": "Pasar",
@@ -208,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cosmos-misjudged-a-critical-bug-for-4-months-before-hackers-stole-nearly-6-million-across-6-chains",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cosmos-network-breach-shield.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T20:10:23"
@@ -226,20 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T13:00:00"
-  },
-  {
-   "id": 1960,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Android 17 Google Aktifkan Fitur Privasi Baru—Tapi Penjelajahan Anda Tak Sepenuhnya Tersembunyi",
-   "x": "Fitur privasi baru di Android 17 Google menyamarkan nama situs yang dikunjungi dalam permintaan web. Namun, data lain masih dapat terdeteksi, sehingga privasi pengguna belum sepenuhnya terjamin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T22:06:05"
   },
   {
    "id": 1984,
@@ -284,6 +284,20 @@
    "published_at": "2026-08-26T12:51:36"
   },
   {
+   "id": 1960,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Android 17 Google Aktifkan Fitur Privasi Baru—Tapi Penjelajahan Anda Tak Sepenuhnya Tersembunyi",
+   "x": "Fitur privasi baru di Android 17 Google menyamarkan nama situs yang dikunjungi dalam permintaan web. Namun, data lain masih dapat terdeteksi, sehingga privasi pengguna belum sepenuhnya terjamin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T22:06:05"
+  },
+  {
    "id": 1925,
    "k": "pasar",
    "cat": "Pasar",
@@ -310,20 +324,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T12:00:00"
-  },
-  {
-   "id": 1962,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "ChatGPT OpenAI bisa masuk akun Anda tanpa izin",
-   "x": "Model AI OpenAI dapat masuk ke akun pengguna untuk melakukan tugas tanpa sepengetahuan mereka. Meskipun kata sandi tidak terlihat, sesi yang masuk dapat berlanjut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T21:00:57"
   },
   {
    "id": 2041,
@@ -368,6 +368,20 @@
    "published_at": "2026-08-27T22:58:00"
   },
   {
+   "id": 1962,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ChatGPT OpenAI bisa masuk akun Anda tanpa izin",
+   "x": "Model AI OpenAI dapat masuk ke akun pengguna untuk melakukan tugas tanpa sepengetahuan mereka. Meskipun kata sandi tidak terlihat, sesi yang masuk dapat berlanjut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T21:00:57"
+  },
+  {
    "id": 1926,
    "k": "pasar",
    "cat": "Pasar",
@@ -390,24 +404,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142BY4XYSTFGAKG0DFRP8JS/arrest-crime-cop-hack-thief-arrested-police-asian-1.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T13:16:37"
-  },
-  {
-   "id": 2029,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ketua The Fed sebut AI sebagai 'titik penting dalam sejarah'",
-   "x": "Ketua bank sentral AS (The Fed) menyoroti peran penting kecerdasan buatan (AI) dalam perekonomian. Pernyataan ini penting karena AI berpotensi mengubah lanskap ekonomi global dan investasi aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T17:18:52"
   },
   {
    "id": 1985,
@@ -452,6 +452,20 @@
    "published_at": "2026-08-26T12:24:25"
   },
   {
+   "id": 2029,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ketua The Fed sebut AI sebagai 'titik penting dalam sejarah'",
+   "x": "Ketua bank sentral AS (The Fed) menyoroti peran penting kecerdasan buatan (AI) dalam perekonomian. Pernyataan ini penting karena AI berpotensi mengubah lanskap ekonomi global dan investasi aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T17:18:52"
+  },
+  {
    "id": 2000,
    "k": "pasar",
    "cat": "Pasar",
@@ -480,20 +494,6 @@
    "published_at": "2026-08-27T13:54:22"
   },
   {
-   "id": 1970,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CEO Flock minta warga AS 'kompromi' privasi di tengah reaksi kamera",
-   "x": "CEO Flock Garrett Langley menyarankan kompromi privasi terkait penggunaan kamera, di tengah laporan penyalahgunaan alat oleh aparat. Pernyataan ini memicu diskusi tentang keseimbangan antara keamanan publik dan hak privasi individu.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/flock-ceo-garrett-langley-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T14:33:10"
-  },
-  {
    "id": 2042,
    "k": "pasar",
    "cat": "Pasar",
@@ -502,7 +502,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T13:32:26"
@@ -536,6 +536,20 @@
    "published_at": "2026-08-26T12:22:07"
   },
   {
+   "id": 1970,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CEO Flock minta warga AS 'kompromi' privasi di tengah reaksi kamera",
+   "x": "CEO Flock Garrett Langley menyarankan kompromi privasi terkait penggunaan kamera, di tengah laporan penyalahgunaan alat oleh aparat. Pernyataan ini memicu diskusi tentang keseimbangan antara keamanan publik dan hak privasi individu.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/flock-ceo-garrett-langley-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T14:33:10"
+  },
+  {
    "id": 2068,
    "k": "pasar",
    "cat": "Pasar",
@@ -562,20 +576,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T12:51:59"
-  },
-  {
-   "id": 2035,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana Melonjak Seiring Inflasi Jaringan Diprediksi Turun",
-   "x": "Proposal penting untuk Solana akan disahkan, aktivitas pengembang kembali normal, dan Schwab kini menawarkan SOL kepada kliennya. Hal ini menjadi katalis positif bagi pergerakan harga aset digital tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T12:13:35"
   },
   {
    "id": 2044,
@@ -620,6 +620,20 @@
    "published_at": "2026-08-27T22:35:11"
   },
   {
+   "id": 2035,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana Melonjak Seiring Inflasi Jaringan Diprediksi Turun",
+   "x": "Proposal penting untuk Solana akan disahkan, aktivitas pengembang kembali normal, dan Schwab kini menawarkan SOL kepada kliennya. Hal ini menjadi katalis positif bagi pergerakan harga aset digital tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T12:13:35"
+  },
+  {
    "id": 2069,
    "k": "pasar",
    "cat": "Pasar",
@@ -646,20 +660,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T09:21:44"
-  },
-  {
-   "id": 1969,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana catat bulan terbaik sejak awal 2024, voting tata kelola bersejarah menanti",
-   "x": "Solana menunjukkan performa impresif dengan kenaikan harga signifikan bulan ini. Jaringan ini akan menggelar pemungutan suara tata kelola penting yang berpotensi memengaruhi pasokan tokennya.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T15:12:18"
   },
   {
    "id": 2045,
@@ -704,6 +704,20 @@
    "published_at": "2026-08-26T11:58:40"
   },
   {
+   "id": 1969,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana catat bulan terbaik sejak awal 2024, voting tata kelola bersejarah menanti",
+   "x": "Solana menunjukkan performa impresif dengan kenaikan harga signifikan bulan ini. Jaringan ini akan menggelar pemungutan suara tata kelola penting yang berpotensi memengaruhi pasokan tokennya.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T15:12:18"
+  },
+  {
    "id": 2003,
    "k": "pasar",
    "cat": "Pasar",
@@ -726,24 +740,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue",
    "img": "https://s3-images.ctmedia.io/media/article-covers/charlyn-ho-2.webp",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T13:30:00"
-  },
-  {
-   "id": 2037,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "240 Miliarder Kripto Raih Lebih dari Setengah Keuntungan Pajak Inggris",
-   "x": "Data pajak Inggris menunjukkan 240 individu melaporkan keuntungan modal aset digital di atas 1 juta poundsterling. Mayoritas dari mereka berusia di bawah 55 tahun dan berjenis kelamin laki-laki.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/hmrc-decrypt-style-1-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T11:03:04"
+   "published_at": "2026-08-28T13:30:00"
   },
   {
    "id": 1989,
@@ -774,6 +774,20 @@
    "published_at": "2026-08-27T18:43:25"
   },
   {
+   "id": 2037,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "240 Miliarder Kripto Raih Lebih dari Setengah Keuntungan Pajak Inggris",
+   "x": "Data pajak Inggris menunjukkan 240 individu melaporkan keuntungan modal aset digital di atas 1 juta poundsterling. Mayoritas dari mereka berusia di bawah 55 tahun dan berjenis kelamin laki-laki.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/hmrc-decrypt-style-1-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T11:03:04"
+  },
+  {
    "id": 2005,
    "k": "pasar",
    "cat": "Pasar",
@@ -800,20 +814,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T11:22:59"
-  },
-  {
-   "id": 2038,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Hakim Putuskan Pemerintah Trump Ilegal Balas Dendam Terhadap Anthropic",
-   "x": "Seorang hakim membatalkan penetapan rantai pasokan dan mengeluarkan perintah penahanan permanen terhadap pemerintah AS. Tindakan ini terkait dugaan pembalasan terhadap Anthropic.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376781/judge-rules-trump-administration-illegally-retaliated-against-anthropic-over-ai-red-lines",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T10:11:34"
   },
   {
    "id": 1991,
