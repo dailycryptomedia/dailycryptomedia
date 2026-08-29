@@ -1,22 +1,8 @@
 {
- "total": 53,
+ "total": 49,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 1880,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Fear and Greed Index Kripto Capai 74, Tertinggi sejak Oktober 2025",
-   "x": "Crypto Fear and Greed Index menyentuh angka 74 pada 25 Agustus, level yang terakhir tercapai pada 5 Oktober 2025. Bitcoin (BTC) mencetak all-time high keesokan harinya. Sentimen kini turun menjadi 65. Kenaikan ini…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/indeks-crypto-fear-greed-74-oktober",
-   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-26T07:35:26"
-  },
   {
    "id": 2079,
    "k": "bitcoin",
@@ -26,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/capital-bs-e21-million-bitcoin-raise-comes-with-heavy-warrant-dilution-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warrant-press.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T23:20:40"
@@ -46,6 +32,20 @@
    "published_at": "2026-08-29T06:47:12"
   },
   {
+   "id": 1892,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Breakout Bitcoin Bisa Capai US$83.000 setelah Reli 22%, tapi 3 Risiko Masih Ada",
+   "x": "Harga Bitcoin (BTC) naik 22% dalam satu minggu dan mendekati breakout berikutnya, dan kali ini situasinya terlihat lebih berbahaya dibanding sebelumnya. Breakout terakhir terjadi pada 19 Agustus dan dipicu oleh…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/breakout-harga-bitcoin-tiga-analisis-risiko",
+   "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-26T08:28:27"
+  },
+  {
    "id": 2024,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-15-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T21:16:04"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/whale-bitcoin-makin-agresif-namun-data-ini-justru-ungkap-ada-anomali",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T02:30:31"
@@ -88,20 +88,6 @@
    "published_at": "2026-08-26T11:47:25"
   },
   {
-   "id": 1892,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Breakout Bitcoin Bisa Capai US$83.000 setelah Reli 22%, tapi 3 Risiko Masih Ada",
-   "x": "Harga Bitcoin (BTC) naik 22% dalam satu minggu dan mendekati breakout berikutnya, dan kali ini situasinya terlihat lebih berbahaya dibanding sebelumnya. Breakout terakhir terjadi pada 19 Agustus dan dipicu oleh…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/breakout-harga-bitcoin-tiga-analisis-risiko",
-   "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-26T08:28:27"
-  },
-  {
    "id": 2062,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -110,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usde-equity-rebuild.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T21:30:27"
@@ -130,6 +116,20 @@
    "published_at": "2026-08-26T12:32:36"
   },
   {
+   "id": 1918,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Katalis Bitcoin Terbesar Bukan Halving: Akankah Utang AS Dorong BTC ke US$300.000?",
+   "x": "Bernstein, Arthur Hayes, dan arus ETF menyebut utang AS sebagai katalis bitcoin terbesar, dengan target $300.000 pada 2029.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/katalis-bitcoin-terbesar-utang-as",
+   "img": "https://assets.beincrypto.com/img/BLIkKYeOCZ95sOJtlFws4rqntKE=/smart/e05c2c4f52b14aeb93fc7e3262009cd1",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-26T12:52:40"
+  },
+  {
    "id": 1961,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -144,18 +144,18 @@
    "published_at": "2026-08-27T21:36:05"
   },
   {
-   "id": 1885,
+   "id": 2074,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Arthur Hayes sebut Bessent \"Yellen 2.0\", Bitcoin bakal diuntungkan?",
-   "x": "Arthur Hayes menilai Bitcoin masih punya ruang naik setelah tembus US$80.000, seiring Bessent mulai mengikuti pola likuiditas era Yellen.",
+   "t": "Bitcoin Makin Panas, Reli BTC Bisa Berlanjut Jika US$83.300 Ditembus",
+   "x": "Bitcoin menguat 26 persen dari titik terendah Agustus. Glassnode menilai reli masih terbuka jika BTC mampu bertahan di atas US$83.300.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/arthur-hayes-sebut-bessent-yellen-2-0-bitcoin-bakal-diuntungkan",
+   "url": "https://blockchainmedia.id/bitcoin-makin-panas-reli-btc-bisa-berlanjut-jika-us83-300-ditembus",
    "img": null,
-   "a": "3 hari lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T07:00:14"
+   "published_at": "2026-08-28T08:15:25"
   },
   {
    "id": 1901,
@@ -172,20 +172,6 @@
    "published_at": "2026-08-26T10:21:18"
   },
   {
-   "id": 1918,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Katalis Bitcoin Terbesar Bukan Halving: Akankah Utang AS Dorong BTC ke US$300.000?",
-   "x": "Bernstein, Arthur Hayes, dan arus ETF menyebut utang AS sebagai katalis bitcoin terbesar, dengan target $300.000 pada 2029.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/katalis-bitcoin-terbesar-utang-as",
-   "img": "https://assets.beincrypto.com/img/BLIkKYeOCZ95sOJtlFws4rqntKE=/smart/e05c2c4f52b14aeb93fc7e3262009cd1",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-26T12:52:40"
-  },
-  {
    "id": 1895,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -198,76 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-26T09:30:49"
-  },
-  {
-   "id": 1876,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin catat rekor aliran dana masuk tujuh hari berturut-turut",
-   "x": "Dana-dana ini hanya US$390 juta dari total aliran dana masuk Oktober 2025, setelah memangkas defisit aliran keluar tahun berjalan lebih dari setengahnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-2.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T07:30:31"
-  },
-  {
-   "id": 1959,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Selesaikan Transaksi Eksperimental Pertama Tahan Kuantum, Starkware Sebut",
-   "x": "Transaksi Bitcoin yang aman dari serangan kuantum berhasil dilakukan tanpa perlu pembaruan jaringan. Inovasi ini menggunakan aturan Bitcoin yang ada untuk melindungi aset digital dari ancaman komputasi masa depan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T22:36:04"
-  },
-  {
-   "id": 2074,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Makin Panas, Reli BTC Bisa Berlanjut Jika US$83.300 Ditembus",
-   "x": "Bitcoin menguat 26 persen dari titik terendah Agustus. Glassnode menilai reli masih terbuka jika BTC mampu bertahan di atas US$83.300.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-makin-panas-reli-btc-bisa-berlanjut-jika-us83-300-ditembus",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T08:15:25"
-  },
-  {
-   "id": 1882,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Memiliki Satu Bitcoin Utuh 70 Kali Lebih Langka daripada Jadi Miliuner",
-   "x": "Data River menunjukkan bahwa memiliki satu bitcoin utuh lebih langka daripada menjadi jutawan di seluruh dunia.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/satu-bitcoin-lebih-langka-dari-jutawan",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-26T06:22:54"
-  },
-  {
-   "id": 1924,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Node Lightning Lama Berisiko Terhapus Total Setelah Perbaikan LND Tertunda",
-   "x": "Perbaikan keamanan untuk node Lightning Network yang dirilis terlambat membuat versi lama berisiko terhapus seluruhnya. Pengguna disarankan segera memperbarui perangkat lunak mereka untuk menghindari kerugian.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/lnd-channel-zipper-flaw.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-26T13:35:38"
   },
   {
    "id": 1897,
@@ -284,18 +200,32 @@
    "published_at": "2026-08-26T10:49:26"
   },
   {
-   "id": 1963,
+   "id": 1958,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "$6,4 Miliar Opsi Bitcoin Kedaluwarsa Besok—Ini Artinya",
-   "x": "Kedaluwarsa opsi Bitcoin senilai $6,4 miliar di bursa Deribit berpotensi memengaruhi pergerakan harga aset digital. Posisi 'max pain' yang jauh di bawah harga saat ini bisa menjadi indikator sentimen pasar.",
+   "t": "MicroStrategy Tidak Perlu Jual Bitcoin Lagi? Saham MSTR Reli 12%",
+   "x": "Saham MicroStrategy reli 12% karena kas Strategy hampir menyamai utang sebesar $6,75 miliar, meredakan kekhawatiran penjualan Bitcoin secara paksa.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/microstrategy-saham-bitcoin-dump-ketakutan",
+   "img": "https://assets.beincrypto.com/img/8wTVmiJnmAM5KRex2Ml5kmZbnLk=/smart/c9d9244a492a47eea1259524d75d5cc2",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-27T17:52:30"
+  },
+  {
+   "id": 1959,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Selesaikan Transaksi Eksperimental Pertama Tahan Kuantum, Starkware Sebut",
+   "x": "Transaksi Bitcoin yang aman dari serangan kuantum berhasil dilakukan tanpa perlu pembaruan jaringan. Inovasi ini menggunakan aturan Bitcoin yang ada untuk melindungi aset digital dari ancaman komputasi masa depan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg",
+   "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T19:47:21"
+   "published_at": "2026-08-27T22:36:04"
   },
   {
    "id": 1975,
@@ -312,32 +242,18 @@
    "published_at": "2026-08-27T08:00:37"
   },
   {
-   "id": 1958,
+   "id": 1924,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "MicroStrategy Tidak Perlu Jual Bitcoin Lagi? Saham MSTR Reli 12%",
-   "x": "Saham MicroStrategy reli 12% karena kas Strategy hampir menyamai utang sebesar $6,75 miliar, meredakan kekhawatiran penjualan Bitcoin secara paksa.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/microstrategy-saham-bitcoin-dump-ketakutan",
-   "img": "https://assets.beincrypto.com/img/8wTVmiJnmAM5KRex2Ml5kmZbnLk=/smart/c9d9244a492a47eea1259524d75d5cc2",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-27T17:52:30"
-  },
-  {
-   "id": 1999,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin punya rute lolos dari komputasi kuantum, tapi 7 juta BTC berisiko",
-   "x": "Transaksi Bitcoin yang aman dari komputasi kuantum berhasil dilakukan, namun biaya tinggi dan kunci yang terekspos membatasi penerapannya. Potensi ancaman terhadap jutaan Bitcoin masih menjadi perhatian utama.",
+   "t": "Node Lightning Lama Berisiko Terhapus Total Setelah Perbaikan LND Tertunda",
+   "x": "Perbaikan keamanan untuk node Lightning Network yang dirilis terlambat membuat versi lama berisiko terhapus seluruhnya. Pengguna disarankan segera memperbarui perangkat lunak mereka untuk menghindari kerugian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/old-lightning-nodes-may-be-exposed-to-a-full-channel-wipeout-after-lnd-fix-lands-later-than-disclosed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/lnd-channel-zipper-flaw.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T22:30:35"
+   "published_at": "2026-08-26T13:35:38"
   },
   {
    "id": 2011,
@@ -348,38 +264,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T15:31:25"
-  },
-  {
-   "id": 2033,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Trader Bitcoin pantau Ketua The Fed Warsh, tak dapat petunjuk",
-   "x": "Ketua The Fed Jerome Powell dalam pidatonya di Jackson Hole tidak memberikan sinyal suku bunga, meskipun inflasi tinggi. Hal ini membuat trader Bitcoin yang mencari petunjuk arah pasar menjadi tidak pasti.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T15:14:11"
-  },
-  {
-   "id": 2075,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin 2030: Faktor Pendorong Nilai BTC Lebih Tinggi",
-   "x": "Artikel ini membahas faktor fundamental jangka panjang yang berpotensi meningkatkan permintaan dan adopsi Bitcoin. Analisis ini penting bagi investor untuk memahami potensi pertumbuhan aset digital utama di masa depan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-2030-apa-yang-sebenarnya-bisa-membuat-btc-bernilai-jauh-lebih-tinggi",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T03:00:23"
   },
   {
    "id": 2057,
@@ -396,18 +284,46 @@
    "published_at": "2026-08-28T12:42:53"
   },
   {
-   "id": 2065,
+   "id": 1963,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ketua The Fed picu likuidasi kripto $488 juta seiring ekspektasi kenaikan suku bunga",
-   "x": "Bitcoin turun di bawah $77.000 setelah Ketua The Fed mengisyaratkan potensi kenaikan suku bunga. Penurunan ini memicu likuidasi aset kripto senilai ratusan juta dolar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
-   "a": "13 jam lalu",
+   "t": "$6,4 Miliar Opsi Bitcoin Kedaluwarsa Besok—Ini Artinya",
+   "x": "Kedaluwarsa opsi Bitcoin senilai $6,4 miliar di bursa Deribit berpotensi memengaruhi pergerakan harga aset digital. Posisi 'max pain' yang jauh di bawah harga saat ini bisa menjadi indikator sentimen pasar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T18:50:50"
+   "published_at": "2026-08-27T19:47:21"
+  },
+  {
+   "id": 2075,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin 2030: Faktor Pendorong Nilai BTC Lebih Tinggi",
+   "x": "Artikel ini membahas faktor fundamental jangka panjang yang berpotensi meningkatkan permintaan dan adopsi Bitcoin. Analisis ini penting bagi investor untuk memahami potensi pertumbuhan aset digital utama di masa depan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-2030-apa-yang-sebenarnya-bisa-membuat-btc-bernilai-jauh-lebih-tinggi",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T03:00:23"
+  },
+  {
+   "id": 1999,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin punya rute lolos dari komputasi kuantum, tapi 7 juta BTC berisiko",
+   "x": "Transaksi Bitcoin yang aman dari komputasi kuantum berhasil dilakukan, namun biaya tinggi dan kunci yang terekspos membatasi penerapannya. Potensi ancaman terhadap jutaan Bitcoin masih menjadi perhatian utama.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T22:30:35"
   },
   {
    "id": 2012,
@@ -424,20 +340,6 @@
    "published_at": "2026-08-28T14:53:40"
   },
   {
-   "id": 1965,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin hadapi resistensi kuat saat Jackson Hole dimulai dengan agenda Fed tak biasa",
-   "x": "Bitcoin bertahan di atas $80.000 menjelang simposium bank sentral AS (The Fed). Agenda simposium kali ini berfokus pada infrastruktur pembayaran dan keuangan, area yang dekat dengan aset kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T17:36:04"
-  },
-  {
    "id": 2061,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -452,18 +354,32 @@
    "published_at": "2026-08-28T11:48:42"
   },
   {
-   "id": 2067,
+   "id": 2033,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
-   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
-   "a": "15 jam lalu",
+   "t": "Trader Bitcoin pantau Ketua The Fed Warsh, tak dapat petunjuk",
+   "x": "Ketua The Fed Jerome Powell dalam pidatonya di Jackson Hole tidak memberikan sinyal suku bunga, meskipun inflasi tinggi. Hal ini membuat trader Bitcoin yang mencari petunjuk arah pasar menjadi tidak pasti.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T16:55:35"
+   "published_at": "2026-08-28T15:14:11"
+  },
+  {
+   "id": 2065,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ketua The Fed picu likuidasi kripto $488 juta seiring ekspektasi kenaikan suku bunga",
+   "x": "Bitcoin turun di bawah $77.000 setelah Ketua The Fed mengisyaratkan potensi kenaikan suku bunga. Penurunan ini memicu likuidasi aset kripto senilai ratusan juta dolar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T18:50:50"
   },
   {
    "id": 1934,
@@ -480,20 +396,6 @@
    "published_at": "2026-08-27T16:13:10"
   },
   {
-   "id": 2030,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Charles Schwab perluas perdagangan kripto selain Bitcoin dan Ethereum",
-   "x": "Perusahaan pialang Charles Schwab akan menambah Solana, Avalanche, dan Chainlink dalam layanan perdagangan kripto mereka. Ekspansi ini menunjukkan minat yang meningkat pada altcoin di luar aset kripto utama.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T16:39:02"
-  },
-  {
    "id": 2060,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -508,18 +410,32 @@
    "published_at": "2026-08-28T12:00:13"
   },
   {
-   "id": 2070,
+   "id": 1965,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
-   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
-   "a": "18 jam lalu",
+   "t": "Bitcoin hadapi resistensi kuat saat Jackson Hole dimulai dengan agenda Fed tak biasa",
+   "x": "Bitcoin bertahan di atas $80.000 menjelang simposium bank sentral AS (The Fed). Agenda simposium kali ini berfokus pada infrastruktur pembayaran dan keuangan, area yang dekat dengan aset kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T13:45:31"
+   "published_at": "2026-08-27T17:36:04"
+  },
+  {
+   "id": 2067,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
+   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T16:55:35"
   },
   {
    "id": 1935,
@@ -536,6 +452,48 @@
    "published_at": "2026-08-27T16:04:15"
   },
   {
+   "id": 2030,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Charles Schwab perluas perdagangan kripto selain Bitcoin dan Ethereum",
+   "x": "Perusahaan pialang Charles Schwab akan menambah Solana, Avalanche, dan Chainlink dalam layanan perdagangan kripto mereka. Ekspansi ini menunjukkan minat yang meningkat pada altcoin di luar aset kripto utama.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T16:39:02"
+  },
+  {
+   "id": 2070,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
+   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T13:45:31"
+  },
+  {
+   "id": 1932,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Grayscale: Zcash bisa tantang efek jaringan Bitcoin seiring permintaan privasi naik",
+   "x": "Grayscale menilai Zcash memiliki potensi pertumbuhan lebih lanjut meskipun pangsa pasarnya masih kecil dibandingkan Bitcoin. Peningkatan permintaan privasi menjadi katalisator bagi aset digital yang fokus pada anonimitas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-vs-zcash.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T18:51:02"
+  },
+  {
    "id": 2032,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -544,7 +502,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:04:37"
@@ -564,18 +522,18 @@
    "published_at": "2026-08-27T16:45:17"
   },
   {
-   "id": 1932,
+   "id": 1933,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Grayscale: Zcash bisa tantang efek jaringan Bitcoin seiring permintaan privasi naik",
-   "x": "Grayscale menilai Zcash memiliki potensi pertumbuhan lebih lanjut meskipun pangsa pasarnya masih kecil dibandingkan Bitcoin. Peningkatan permintaan privasi menjadi katalisator bagi aset digital yang fokus pada anonimitas.",
+   "t": "Bitcoin bidik $81 ribu seiring lonjakan aset berisiko akibat laporan Nvidia",
+   "x": "Kenaikan harga Bitcoin dan aset kripto lainnya sejalan dengan pasar saham AS. Hal ini terjadi setelah laporan pendapatan kuartal II Nvidia melampaui ekspektasi, memicu sentimen positif pada aset berisiko.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-vs-zcash.jpg",
+   "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T18:51:02"
+   "published_at": "2026-08-27T17:15:43"
   },
   {
    "id": 2034,
@@ -586,7 +544,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T14:17:21"
@@ -606,18 +564,18 @@
    "published_at": "2026-08-27T13:35:44"
   },
   {
-   "id": 1933,
+   "id": 1942,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin bidik $81 ribu seiring lonjakan aset berisiko akibat laporan Nvidia",
-   "x": "Kenaikan harga Bitcoin dan aset kripto lainnya sejalan dengan pasar saham AS. Hal ini terjadi setelah laporan pendapatan kuartal II Nvidia melampaui ekspektasi, memicu sentimen positif pada aset berisiko.",
+   "t": "Core Lightning perbaiki kerentanan, siapkan pembaruan keamanan",
+   "x": "Core Lightning mendeteksi beberapa kerentanan pada jaringannya dan akan merilis pembaruan keamanan. Pengguna disarankan memutus koneksi node mereka hingga pembaruan terpasang untuk mencegah risiko.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoi.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T17:15:43"
+   "published_at": "2026-08-27T08:05:44"
   },
   {
    "id": 1967,
@@ -634,18 +592,18 @@
    "published_at": "2026-08-27T16:17:28"
   },
   {
-   "id": 1942,
+   "id": 1943,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Core Lightning perbaiki kerentanan, siapkan pembaruan keamanan",
-   "x": "Core Lightning mendeteksi beberapa kerentanan pada jaringannya dan akan merilis pembaruan keamanan. Pengguna disarankan memutus koneksi node mereka hingga pembaruan terpasang untuk mencegah risiko.",
+   "t": "Aliran Dana ETF Bitcoin Melambat ke US$232 Juta, BTC di Bawah US$80 Ribu",
+   "x": "Dana masuk ETF Bitcoin spot AS melambat menjadi US$232,1 juta, mengakhiri tren positif delapan hari senilai US$2,8 miliar. Perlambatan ini terjadi saat Bitcoin bertahan di bawah level US$80.000.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/bitcoi.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-4.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T08:05:44"
+   "published_at": "2026-08-27T07:01:19"
   },
   {
    "id": 1968,
@@ -662,18 +620,18 @@
    "published_at": "2026-08-27T15:45:28"
   },
   {
-   "id": 1943,
+   "id": 1945,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Aliran Dana ETF Bitcoin Melambat ke US$232 Juta, BTC di Bawah US$80 Ribu",
-   "x": "Dana masuk ETF Bitcoin spot AS melambat menjadi US$232,1 juta, mengakhiri tren positif delapan hari senilai US$2,8 miliar. Perlambatan ini terjadi saat Bitcoin bertahan di bawah level US$80.000.",
+   "t": "StarkWare uji transaksi Bitcoin tahan kuantum di mainnet",
+   "x": "StarkWare berhasil mendemonstrasikan transaksi Bitcoin tahan kuantum tanpa perlu fork. Namun, uji coba ini memakan biaya hingga $200 dan memerlukan pengajuan langsung ke penambang.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-4.jpg",
+   "url": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/quantum-transaction",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T07:01:19"
+   "published_at": "2026-08-27T04:14:48"
   },
   {
    "id": 2036,
@@ -690,18 +648,18 @@
    "published_at": "2026-08-28T11:34:20"
   },
   {
-   "id": 1945,
+   "id": 1939,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "StarkWare uji transaksi Bitcoin tahan kuantum di mainnet",
-   "x": "StarkWare berhasil mendemonstrasikan transaksi Bitcoin tahan kuantum tanpa perlu fork. Namun, uji coba ini memakan biaya hingga $200 dan memerlukan pengajuan langsung ke penambang.",
+   "t": "Bitcoin hadapi uji permintaan sesungguhnya di atas $83K seiring likuiditas menipis: Glassnode",
+   "x": "Analisis Glassnode menunjukkan Bitcoin menghadapi ujian permintaan signifikan di atas $83.000. Konvergensi garis tren dan struktur likuiditas membatasi potensi kenaikan harga.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/quantum-transaction",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-update-crypto-exchange-liquidity-explained.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T04:14:48"
+   "published_at": "2026-08-27T10:34:12"
   },
   {
    "id": 1973,
@@ -716,20 +674,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T10:39:10"
-  },
-  {
-   "id": 1939,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin hadapi uji permintaan sesungguhnya di atas $83K seiring likuiditas menipis: Glassnode",
-   "x": "Analisis Glassnode menunjukkan Bitcoin menghadapi ujian permintaan signifikan di atas $83.000. Konvergensi garis tren dan struktur likuiditas membatasi potensi kenaikan harga.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-update-crypto-exchange-liquidity-explained.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T10:34:12"
   },
   {
    "id": 1946,
