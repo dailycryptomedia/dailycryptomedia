@@ -1,5 +1,5 @@
 {
- "total": 46,
+ "total": 47,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T06:47:12"
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/reform-uk-lepas-sponsor-kripto",
    "img": "https://assets.beincrypto.com/img/0h0mRz-XhbRReAusImteAn3HV3A=/smart/894edd7a93ac469b92e232f31eedebb2",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-29T14:00:04"
@@ -138,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/microstrategy-saham-bitcoin-dump-ketakutan",
    "img": "https://assets.beincrypto.com/img/8wTVmiJnmAM5KRex2Ml5kmZbnLk=/smart/c9d9244a492a47eea1259524d75d5cc2",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-27T17:52:30"
@@ -298,18 +298,18 @@
    "published_at": "2026-08-27T19:47:21"
   },
   {
-   "id": 2097,
+   "id": 2110,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin gagal tembus $81.000, level $75.000 kembali terbuka",
-   "x": "Bitcoin gagal mempertahankan rekor tertingginya di atas $81.000, kini diperdagangkan mendekati $78.000. Penolakan ini membuka potensi penurunan ke level $75.000 jika support $77.000 ditembus.",
+   "t": "Aliran masuk ETF Bitcoin terhenti setelah rekor $3 miliar, ETH, XRP, dan Solana tetap dibeli",
+   "x": "Aliran dana masuk ETF Bitcoin mengalami pembalikan sebesar $201,9 juta, mengakhiri tren positif selama sepekan. Hal ini menunjukkan potensi pergeseran minat investor ke aset kripto lain seperti Ethereum, XRP, dan Solana.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-failed-81000-breakout-just-put-75000-back-on-the-table",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-range.jpg",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-etf-inflows-snap-after-3-billion-streak-as-eth-xrp-and-solana-keep-buying",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-flow-escalators.jpg",
+   "a": "23 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T12:40:28"
+   "published_at": "2026-08-29T17:40:52"
   },
   {
    "id": 1935,
@@ -354,18 +354,18 @@
    "published_at": "2026-08-28T15:14:11"
   },
   {
-   "id": 1999,
+   "id": 2097,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin punya rute lolos dari komputasi kuantum, tapi 7 juta BTC berisiko",
-   "x": "Transaksi Bitcoin yang aman dari komputasi kuantum berhasil dilakukan, namun biaya tinggi dan kunci yang terekspos membatasi penerapannya. Potensi ancaman terhadap jutaan Bitcoin masih menjadi perhatian utama.",
+   "t": "Bitcoin gagal tembus $81.000, level $75.000 kembali terbuka",
+   "x": "Bitcoin gagal mempertahankan rekor tertingginya di atas $81.000, kini diperdagangkan mendekati $78.000. Penolakan ini membuka potensi penurunan ke level $75.000 jika support $77.000 ditembus.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoins-failed-81000-breakout-just-put-75000-back-on-the-table",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-range.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T22:30:35"
+   "published_at": "2026-08-29T12:40:28"
   },
   {
    "id": 1932,
@@ -390,24 +390,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T17:36:04"
   },
   {
-   "id": 2065,
+   "id": 1999,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ketua The Fed picu likuidasi kripto $488 juta seiring ekspektasi kenaikan suku bunga",
-   "x": "Bitcoin turun di bawah $77.000 setelah Ketua The Fed mengisyaratkan potensi kenaikan suku bunga. Penurunan ini memicu likuidasi aset kripto senilai ratusan juta dolar.",
+   "t": "Bitcoin punya rute lolos dari komputasi kuantum, tapi 7 juta BTC berisiko",
+   "x": "Transaksi Bitcoin yang aman dari komputasi kuantum berhasil dilakukan, namun biaya tinggi dan kunci yang terekspos membatasi penerapannya. Potensi ancaman terhadap jutaan Bitcoin masih menjadi perhatian utama.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T18:50:50"
+   "published_at": "2026-08-27T22:30:35"
   },
   {
    "id": 1933,
@@ -438,18 +438,18 @@
    "published_at": "2026-08-28T16:39:02"
   },
   {
-   "id": 2067,
+   "id": 2065,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
-   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
+   "t": "Ketua The Fed picu likuidasi kripto $488 juta seiring ekspektasi kenaikan suku bunga",
+   "x": "Bitcoin turun di bawah $77.000 setelah Ketua The Fed mengisyaratkan potensi kenaikan suku bunga. Penurunan ini memicu likuidasi aset kripto senilai ratusan juta dolar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin_fed_pressure_standard_image_wide.jpg",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T16:55:35"
+   "published_at": "2026-08-28T18:50:50"
   },
   {
    "id": 1942,
@@ -480,18 +480,18 @@
    "published_at": "2026-08-28T16:04:37"
   },
   {
-   "id": 2070,
+   "id": 2067,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
-   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
+   "t": "ETF Bitcoin BlackRock kembali kuasai kedaluw opsi mingguan",
+   "x": "ETF Bitcoin BlackRock (IBIT) kembali memenuhi syarat untuk opsi mingguan setelah adanya perubahan kerangka kerja regulasi. Perubahan ini menurunkan ambang batas aset kelolaan dan volume transaksi, yang berpotensi meningkatkan likuiditas pasar derivatif Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
+   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/miax-ibit-pathway.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T13:45:31"
+   "published_at": "2026-08-28T16:55:35"
   },
   {
    "id": 1943,
@@ -522,18 +522,18 @@
    "published_at": "2026-08-28T14:17:21"
   },
   {
-   "id": 2004,
+   "id": 2070,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Sinyal bottom Bitcoin muncul, namun data 6 bulan tunjukkan jebakan pembeli awal",
-   "x": "Sinyal bottom Bitcoin terdeteksi, namun data historis enam bulan menunjukkan potensi jebakan bagi pembeli awal. Investor perlu berhati-hati terhadap sinyal ini.",
+   "t": "ETF Bitcoin JPMorgan terlewat peluang hindari potongan 6%",
+   "x": "ETF Bitcoin IBIT milik JPMorgan terlewat kesempatan untuk menghindari potongan 6% karena data penutupan yang dipublikasikan. Hal ini berpotensi memengaruhi investor yang memegang aset melalui dana tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-bottom-signal-is-flashing-but-six-months-of-data-shows-a-trap-waiting-for-early-buyers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bottom-compass-warning.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-cost-drag.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T16:45:17"
+   "published_at": "2026-08-28T13:45:31"
   },
   {
    "id": 1945,
@@ -564,18 +564,18 @@
    "published_at": "2026-08-27T16:17:28"
   },
   {
-   "id": 2007,
+   "id": 2004,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bug AI paksa Lightning Bitcoin lockdown darurat 14 hari",
-   "x": "Pengembang Core Lightning mengunci sistem selama 14 hari untuk mengatasi kerentanan keamanan yang ditemukan oleh AI. Operator node diminta segera memperbarui perangkat lunak untuk melindungi jaringan dari potensi ancaman.",
+   "t": "Sinyal bottom Bitcoin muncul, namun data 6 bulan tunjukkan jebakan pembeli awal",
+   "x": "Sinyal bottom Bitcoin terdeteksi, namun data historis enam bulan menunjukkan potensi jebakan bagi pembeli awal. Investor perlu berhati-hati terhadap sinyal ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/onslaught-of-ai-found-bugs-forces-bitcoins-core-lightning-into-a-secret-14-day-emergency-lockdown",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/core-lightning-emergency-lockdown.jpg",
+   "url": "https://cryptoslate.com/bitcoins-bottom-signal-is-flashing-but-six-months-of-data-shows-a-trap-waiting-for-early-buyers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-bottom-compass-warning.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T13:35:44"
+   "published_at": "2026-08-27T16:45:17"
   },
   {
    "id": 1939,
@@ -604,6 +604,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T15:45:28"
+  },
+  {
+   "id": 2007,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bug AI paksa Lightning Bitcoin lockdown darurat 14 hari",
+   "x": "Pengembang Core Lightning mengunci sistem selama 14 hari untuk mengatasi kerentanan keamanan yang ditemukan oleh AI. Operator node diminta segera memperbarui perangkat lunak untuk melindungi jaringan dari potensi ancaman.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/onslaught-of-ai-found-bugs-forces-bitcoins-core-lightning-into-a-secret-14-day-emergency-lockdown",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/core-lightning-emergency-lockdown.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T13:35:44"
   },
   {
    "id": 1946,
