@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/polygon-labs-issues-urgent-client-upgrade-notice-following-austin-and-kyoto-hardforks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/polygon-consensus-chain-break.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T09:10:11"
@@ -40,24 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T20:19:44"
   },
   {
-   "id": 1917,
+   "id": 1951,
    "k": "web3",
    "cat": "Web3",
-   "t": "Charles Hoskinson Sebut Cardano Akan Menang, tapi Dengan Bantuan Ethereum",
-   "x": "Pendiri Cardano, Charles Hoskinson, berkata bahwa jaringan ini akan “menang dalam pertarungan ini,” ketika ADA pulih 26% dan kritik terhadap ekosistem semakin keras. Ia juga mengungkapkan bahwa kerja sama dengan para…",
+   "t": "Kaspa Naik 5% saat KaChat 4.0 “Everywhere Update” Diluncurkan",
+   "x": "Kaspa naik lebih dari 5% dalam perdagangan terbaru, dengan token berpindah tangan di sekitar US$0,0286 pada akhir Agustus 2026. Pergerakan ini bertepatan dengan perkembangan KaChat 4.0, versi terbaru dari aplikasi pesan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/hoskinson-cardano-pengkritik-kolaborasi-ethereum",
-   "img": "https://assets.beincrypto.com/img/rZlOJXzTsAkXabcDrEPrM7418cE=/smart/ecc7714d949b47c88803a6e18c8dacd3",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/kaspa-kas-harga-kachat-update-launch",
+   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-26T13:00:00"
+   "published_at": "2026-08-27T22:24:41"
   },
   {
    "id": 1998,
@@ -82,38 +82,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:14:37"
-  },
-  {
-   "id": 1951,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kaspa Naik 5% saat KaChat 4.0 “Everywhere Update” Diluncurkan",
-   "x": "Kaspa naik lebih dari 5% dalam perdagangan terbaru, dengan token berpindah tangan di sekitar US$0,0286 pada akhir Agustus 2026. Pergerakan ini bertepatan dengan perkembangan KaChat 4.0, versi terbaru dari aplikasi pesan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kaspa-kas-harga-kachat-update-launch",
-   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-27T22:24:41"
-  },
-  {
-   "id": 2006,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pengguna kripto rugi $5,69 juta karena frasa pemulihan wallet terlalu mudah ditebak",
-   "x": "Sejumlah pengguna kehilangan dana karena kerentanan pada frasa pemulihan wallet mereka, yang tidak dapat diperbaiki melalui pembaruan aplikasi. Hal ini menekankan pentingnya keamanan penyimpanan aset digital dan penggunaan frasa pemulihan yang kuat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-users-lost-at-least-5-69-million-because-their-wallet-seeds-were-too-predictable",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/weak-seed-wallet-breach.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T14:40:18"
   },
   {
    "id": 1953,
@@ -128,6 +100,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-27T21:07:32"
+  },
+  {
+   "id": 2006,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pengguna kripto rugi $5,69 juta karena frasa pemulihan wallet terlalu mudah ditebak",
+   "x": "Sejumlah pengguna kehilangan dana karena kerentanan pada frasa pemulihan wallet mereka, yang tidak dapat diperbaiki melalui pembaruan aplikasi. Hal ini menekankan pentingnya keamanan penyimpanan aset digital dan penggunaan frasa pemulihan yang kuat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-users-lost-at-least-5-69-million-because-their-wallet-seeds-were-too-predictable",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/weak-seed-wallet-breach.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T14:40:18"
   }
  ]
 }
