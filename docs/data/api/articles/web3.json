@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,18 +74,18 @@
    "published_at": "2026-08-27T22:24:41"
   },
   {
-   "id": 1873,
+   "id": 2006,
    "k": "web3",
    "cat": "Web3",
-   "t": "40 add-on Firefox jahat incar dompet kripto, 9 berawal dari alat skor olahraga",
-   "x": "Sebanyak 40 ekstensi peramban Firefox terdeteksi mencuri informasi dompet kripto. Pengguna perlu memigrasikan aset mereka meski add-on berbahaya tersebut telah dihapus.",
+   "t": "Pengguna kripto rugi $5,69 juta karena frasa pemulihan wallet terlalu mudah ditebak",
+   "x": "Sejumlah pengguna kehilangan dana karena kerentanan pada frasa pemulihan wallet mereka, yang tidak dapat diperbaiki melalui pembaruan aplikasi. Hal ini menekankan pentingnya keamanan penyimpanan aset digital dan penggunaan frasa pemulihan yang kuat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/firefox-crypto-wallet-malware-hid-behind-nine-sports-add-ons-turning-routine-updates-into-a-key-rotation-trap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/firefox_wallet_extension_standard_image.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/crypto-users-lost-at-least-5-69-million-because-their-wallet-seeds-were-too-predictable",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/weak-seed-wallet-breach.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T04:00:18"
+   "published_at": "2026-08-27T14:40:18"
   },
   {
    "id": 2027,
@@ -114,20 +114,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-27T21:07:32"
-  },
-  {
-   "id": 2006,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pengguna kripto rugi $5,69 juta karena frasa pemulihan wallet terlalu mudah ditebak",
-   "x": "Sejumlah pengguna kehilangan dana karena kerentanan pada frasa pemulihan wallet mereka, yang tidak dapat diperbaiki melalui pembaruan aplikasi. Hal ini menekankan pentingnya keamanan penyimpanan aset digital dan penggunaan frasa pemulihan yang kuat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-users-lost-at-least-5-69-million-because-their-wallet-seeds-were-too-predictable",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/weak-seed-wallet-breach.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T14:40:18"
   }
  ]
 }

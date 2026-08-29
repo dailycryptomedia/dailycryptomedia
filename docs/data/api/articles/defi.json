@@ -1,21 +1,21 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 1872,
+   "id": 2066,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Moonwell alami lubang likuiditas $1,8 juta dan tak alokasikan dana untuk perbaikan",
-   "x": "Platform DeFi Moonwell menghadapi masalah likuiditas sebesar $1,8 juta. Rencana perbaikan terbaru tidak mengalokasikan dana sama sekali, menimbulkan kekhawatiran bagi pengguna.",
+   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
+   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/moonwell-has-a-1-8m-liquidity-hole-and-its-latest-plan-allocates-0-to-fix-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/moonwell-cbeth-withdrawal-lock.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-26T05:30:47"
+   "published_at": "2026-08-28T17:45:49"
   },
   {
    "id": 1964,
@@ -74,20 +74,6 @@
    "published_at": "2026-08-27T03:30:39"
   },
   {
-   "id": 2066,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
-   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T17:45:49"
-  },
-  {
    "id": 1971,
    "k": "defi",
    "cat": "DeFi",
@@ -138,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/sand-refund.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T05:40:48"
