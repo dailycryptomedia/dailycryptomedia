@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-08-26T13:00:00"
   },
   {
-   "id": 1998,
+   "id": 2091,
    "k": "web3",
    "cat": "Web3",
-   "t": "KuCoin bisa blokir transaksi kripto Anda meski tak dikirim ke 17 platform terafiliasi",
-   "x": "Bursa kripto KuCoin dapat meninjau, menolak, atau membatasi akses dompet pengguna jika terdeteksi transaksi ke platform yang masuk daftar sanksi. Hal ini meningkatkan risiko bagi pengguna yang tidak menyadari potensi keterkaitan transaksi mereka.",
+   "t": "Polygon Labs keluarkan notifikasi pembaruan klien mendesak pasca hardfork",
+   "x": "Polygon Labs meminta pengguna segera memperbarui klien mereka setelah selesainya hardfork Austin dan Kyoto. Pembaruan ini penting untuk menjaga konsensus jaringan dan mencegah risiko kegagalan node.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kucoin-can-block-your-crypto-transactions-even-if-you-never-sent-it-to-these-17-sanctioned-platforms",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/kucoin-sanctions-account-lock.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/polygon-labs-issues-urgent-client-upgrade-notice-following-austin-and-kyoto-hardforks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/polygon-consensus-chain-break.jpg",
+   "a": "23 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T23:40:05"
+   "published_at": "2026-08-29T09:10:11"
   },
   {
    "id": 2025,
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T20:19:44"
@@ -74,18 +74,18 @@
    "published_at": "2026-08-27T22:24:41"
   },
   {
-   "id": 2006,
+   "id": 1998,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pengguna kripto rugi $5,69 juta karena frasa pemulihan wallet terlalu mudah ditebak",
-   "x": "Sejumlah pengguna kehilangan dana karena kerentanan pada frasa pemulihan wallet mereka, yang tidak dapat diperbaiki melalui pembaruan aplikasi. Hal ini menekankan pentingnya keamanan penyimpanan aset digital dan penggunaan frasa pemulihan yang kuat.",
+   "t": "KuCoin bisa blokir transaksi kripto Anda meski tak dikirim ke 17 platform terafiliasi",
+   "x": "Bursa kripto KuCoin dapat meninjau, menolak, atau membatasi akses dompet pengguna jika terdeteksi transaksi ke platform yang masuk daftar sanksi. Hal ini meningkatkan risiko bagi pengguna yang tidak menyadari potensi keterkaitan transaksi mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-users-lost-at-least-5-69-million-because-their-wallet-seeds-were-too-predictable",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/weak-seed-wallet-breach.jpg",
+   "url": "https://cryptoslate.com/kucoin-can-block-your-crypto-transactions-even-if-you-never-sent-it-to-these-17-sanctioned-platforms",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/kucoin-sanctions-account-lock.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T14:40:18"
+   "published_at": "2026-08-27T23:40:05"
   },
   {
    "id": 2027,
@@ -96,7 +96,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:14:37"
@@ -114,6 +114,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-27T21:07:32"
+  },
+  {
+   "id": 2006,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pengguna kripto rugi $5,69 juta karena frasa pemulihan wallet terlalu mudah ditebak",
+   "x": "Sejumlah pengguna kehilangan dana karena kerentanan pada frasa pemulihan wallet mereka, yang tidak dapat diperbaiki melalui pembaruan aplikasi. Hal ini menekankan pentingnya keamanan penyimpanan aset digital dan penggunaan frasa pemulihan yang kuat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-users-lost-at-least-5-69-million-because-their-wallet-seeds-were-too-predictable",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/weak-seed-wallet-breach.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T14:40:18"
   }
  ]
 }
