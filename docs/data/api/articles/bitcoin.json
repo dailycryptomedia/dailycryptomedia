@@ -1,8 +1,22 @@
 {
- "total": 51,
+ "total": 52,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2134,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Berita Kripto Minggu Ini: Reli Bitcoin hingga USDC Chelsea",
+   "x": "Bitcoin menembus US$80.000 dan USDC menjadi sponsor Chelsea. Otoritas Jasa Keuangan (OJK) juga membuat gebrakan baru di industri kripto Indonesia.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/berita-kripto-terbaru-minggu-ini-reli-bitcoin-hingga-usdc-chelsea",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T08:00:35"
+  },
   {
    "id": 2105,
    "k": "bitcoin",
@@ -46,6 +60,20 @@
    "published_at": "2026-08-29T06:47:12"
   },
   {
+   "id": 2103,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Reform UK Lepas Sponsor Kripto: Apa yang Diinginkan Farage Sebagai Ganti?",
+   "x": "Polisi Inggris menyita Bitcoin senilai $1,4 juta dari darknet. Reform UK memutus sponsor aset kripto, namun kebijakannya belum berubah.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/reform-uk-lepas-sponsor-kripto",
+   "img": "https://assets.beincrypto.com/img/0h0mRz-XhbRReAusImteAn3HV3A=/smart/894edd7a93ac469b92e232f31eedebb2",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-29T14:00:04"
+  },
+  {
    "id": 2080,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -58,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T02:30:31"
-  },
-  {
-   "id": 2103,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Reform UK Lepas Sponsor Kripto: Apa yang Diinginkan Farage Sebagai Ganti?",
-   "x": "Polisi Inggris menyita Bitcoin senilai $1,4 juta dari darknet. Reform UK memutus sponsor aset kripto, namun kebijakannya belum berubah.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/reform-uk-lepas-sponsor-kripto",
-   "img": "https://assets.beincrypto.com/img/0h0mRz-XhbRReAusImteAn3HV3A=/smart/894edd7a93ac469b92e232f31eedebb2",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-29T14:00:04"
   },
   {
    "id": 2024,
@@ -116,20 +130,6 @@
    "published_at": "2026-08-28T15:31:25"
   },
   {
-   "id": 2125,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "NU izinkan transaksi Bitcoin, begini penjelasannya",
-   "x": "Forum Bahtsul Masail NU memutuskan bahwa Bitcoin boleh ditransaksikan. Keputusan ini penting bagi umat Muslim di Indonesia yang ingin berinvestasi atau bertransaksi menggunakan aset kripto.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/nu-ketok-palu-bitcoin-kini-boleh-ditransaksikan",
-   "img": null,
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T03:00:55"
-  },
-  {
    "id": 1958,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-27T17:52:30"
+  },
+  {
+   "id": 2125,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "NU izinkan transaksi Bitcoin, begini penjelasannya",
+   "x": "Forum Bahtsul Masail NU memutuskan bahwa Bitcoin boleh ditransaksikan. Keputusan ini penting bagi umat Muslim di Indonesia yang ingin berinvestasi atau bertransaksi menggunakan aset kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/nu-ketok-palu-bitcoin-kini-boleh-ditransaksikan",
+   "img": null,
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T03:00:55"
   },
   {
    "id": 1961,
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-knots-is-trying-to-fork-bitcoin-again-after-its-last-chain-died-in-two-blocks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-fork-pressure-test.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T18:50:53"
@@ -186,20 +200,6 @@
    "published_at": "2026-08-28T14:53:40"
   },
   {
-   "id": 2074,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Makin Panas, Reli BTC Bisa Berlanjut Jika US$83.300 Ditembus",
-   "x": "Bitcoin menguat 26 persen dari titik terendah Agustus. Glassnode menilai reli masih terbuka jika BTC mampu bertahan di atas US$83.300.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-makin-panas-reli-btc-bisa-berlanjut-jika-us83-300-ditembus",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T08:15:25"
-  },
-  {
    "id": 2057,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -212,6 +212,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T12:42:53"
+  },
+  {
+   "id": 2074,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Makin Panas, Reli BTC Bisa Berlanjut Jika US$83.300 Ditembus",
+   "x": "Bitcoin menguat 26 persen dari titik terendah Agustus. Glassnode menilai reli masih terbuka jika BTC mampu bertahan di atas US$83.300.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-makin-panas-reli-btc-bisa-berlanjut-jika-us83-300-ditembus",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T08:15:25"
   },
   {
    "id": 1959,
@@ -256,20 +270,6 @@
    "published_at": "2026-08-27T16:13:10"
   },
   {
-   "id": 1975,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Masuk Fase Pre-Bull, US$90.000 Jadi Target Berikutnya?",
-   "x": "Bitcoin menunjukkan penguatan setelah menembus level US$80.000. Analis kini memantau potensi kenaikan lebih lanjut menuju target harga antara US$79.500 hingga US$90.000.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-masuk-fase-pre-bull-us90-000-jadi-target-berikutnya",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T08:00:37"
-  },
-  {
    "id": 2061,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -282,6 +282,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T11:48:42"
+  },
+  {
+   "id": 1975,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Masuk Fase Pre-Bull, US$90.000 Jadi Target Berikutnya?",
+   "x": "Bitcoin menunjukkan penguatan setelah menembus level US$80.000. Analis kini memantau potensi kenaikan lebih lanjut menuju target harga antara US$79.500 hingga US$90.000.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-masuk-fase-pre-bull-us90-000-jadi-target-berikutnya",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-27T08:00:37"
   },
   {
    "id": 1963,
@@ -326,20 +340,6 @@
    "published_at": "2026-08-27T16:04:15"
   },
   {
-   "id": 2075,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin 2030: Faktor Pendorong Nilai BTC Lebih Tinggi",
-   "x": "Artikel ini membahas faktor fundamental jangka panjang yang berpotensi meningkatkan permintaan dan adopsi Bitcoin. Analisis ini penting bagi investor untuk memahami potensi pertumbuhan aset digital utama di masa depan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-2030-apa-yang-sebenarnya-bisa-membuat-btc-bernilai-jauh-lebih-tinggi",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T03:00:23"
-  },
-  {
    "id": 2060,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -352,6 +352,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T12:00:13"
+  },
+  {
+   "id": 2075,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin 2030: Faktor Pendorong Nilai BTC Lebih Tinggi",
+   "x": "Artikel ini membahas faktor fundamental jangka panjang yang berpotensi meningkatkan permintaan dan adopsi Bitcoin. Analisis ini penting bagi investor untuk memahami potensi pertumbuhan aset digital utama di masa depan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-2030-apa-yang-sebenarnya-bisa-membuat-btc-bernilai-jauh-lebih-tinggi",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T03:00:23"
   },
   {
    "id": 2033,
@@ -418,7 +432,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-etf-inflows-snap-after-3-billion-streak-as-eth-xrp-and-solana-keep-buying",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-flow-escalators.jpg",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T17:40:52"
@@ -460,7 +474,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-failed-81000-breakout-just-put-75000-back-on-the-table",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-tightrope-range.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T12:40:28"
