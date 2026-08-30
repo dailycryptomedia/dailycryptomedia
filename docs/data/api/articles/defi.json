@@ -1,21 +1,21 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 2066,
+   "id": 2141,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
-   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
+   "t": "Token saham kripto tak bergerak saat Wall Street libur, pasar jadi tidak likuid",
+   "x": "Token saham kripto menunjukkan sedikit pergerakan selama akhir pekan karena pasar menjadi tidak likuid ketika bursa saham tradisional tutup. Hal ini mengindikasikan ketergantungan likuiditas aset kripto pada jam perdagangan pasar saham konvensional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/tokenized-stocks-bridge.jpg",
+   "a": "23 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T17:45:49"
+   "published_at": "2026-08-30T11:40:11"
   },
   {
    "id": 1964,
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-27T03:30:39"
+  },
+  {
+   "id": 2066,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
+   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T17:45:49"
   },
   {
    "id": 1971,
