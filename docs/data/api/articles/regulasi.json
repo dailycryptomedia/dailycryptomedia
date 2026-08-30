@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-08-28T20:43:09"
   },
   {
-   "id": 2039,
+   "id": 2152,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengadilan AS tolak klaim yurisdiksi eksklusif CFTC atas taruhan olahraga",
-   "x": "Pengadilan banding AS menolak klaim Komisi Perdagangan Berjangka Komoditas (CFTC) atas yurisdiksi eksklusif terkait taruhan olahraga. Keputusan ini menegaskan kewenangan negara bagian Nevada dalam mengatur aktivitas tersebut, yang dapat memengaruhi regulasi aset digital di masa depan.",
+   "t": "Chainalysis tuding ICE alihkan kontrak $95 juta ke TRM Labs",
+   "x": "Chainalysis menggugat ICE karena diduga mengalihkan kontrak blockchain senilai $95 juta ke TRM Labs tanpa persaingan terbuka. Gugatan ini meminta pengadilan memblokir kontrak tersebut dan mewajibkan ICE menggelar tender ulang.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News-1200x675.jpg",
+   "a": "11 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T19:50:48"
+   "published_at": "2026-08-30T17:51:54"
   },
   {
    "id": 2073,
@@ -60,18 +60,18 @@
    "published_at": "2026-08-27T15:56:00"
   },
   {
-   "id": 2046,
+   "id": 2039,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Data Pajak Inggris: 240 Orang Raih Miliaran Pound dari Keuntungan Kripto",
-   "x": "Otoritas pajak Inggris melaporkan 240 individu meraih keuntungan modal aset digital lebih dari 1 juta poundsterling. Peningkatan pengawasan pajak aset kripto di Inggris terus berlanjut.",
+   "t": "Pengadilan AS tolak klaim yurisdiksi eksklusif CFTC atas taruhan olahraga",
+   "x": "Pengadilan banding AS menolak klaim Komisi Perdagangan Berjangka Komoditas (CFTC) atas yurisdiksi eksklusif terkait taruhan olahraga. Keputusan ini menegaskan kewenangan negara bagian Nevada dalam mengatur aktivitas tersebut, yang dapat memengaruhi regulasi aset digital di masa depan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
-   "img": "https://www.tbstat.com/wp/uploads/2023/08/20230712_UK_CryptoTax_News-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T09:37:26"
+   "published_at": "2026-08-28T19:50:48"
   },
   {
    "id": 2015,
@@ -86,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T12:09:48"
+  },
+  {
+   "id": 2046,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Data Pajak Inggris: 240 Orang Raih Miliaran Pound dari Keuntungan Kripto",
+   "x": "Otoritas pajak Inggris melaporkan 240 individu meraih keuntungan modal aset digital lebih dari 1 juta poundsterling. Peningkatan pengawasan pajak aset kripto di Inggris terus berlanjut.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
+   "img": "https://www.tbstat.com/wp/uploads/2023/08/20230712_UK_CryptoTax_News-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T09:37:26"
   },
   {
    "id": 1993,
