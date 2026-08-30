@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T11:40:11"
+  },
+  {
+   "id": 2150,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Blockchain Cronos Berhenti Usai Dugaan Upaya Peretasan US$75 Juta",
+   "x": "Cronos menghentikan blockchain-nya setelah eksploitasi Tectonic, menjebak sebagian besar dana yang dicuri sebelum mereka bisa keluar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cronos-hentikan-blockchain-eksploitasi-tectonic",
+   "img": "https://assets.beincrypto.com/img/X55vSHTmWjn_iRoP-lvNxPHGVoc=/smart/03449aaa37574356be71f302e31bf8cd",
+   "a": "13 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-30T16:19:43"
   },
   {
    "id": 1964,
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:17:09"
