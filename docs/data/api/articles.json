@@ -1,5 +1,5 @@
 {
- "total": 212,
+ "total": 213,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/microstrategy-lanjutkan-beli-bitcoin-saylor-kembali",
    "img": "https://assets.beincrypto.com/img/KW4qk0UloBjHwgnwrqN1Yi9WNJM=/smart/58386c9c3d524205a493781679af5bb2",
-   "a": "16 menit lalu",
+   "a": "46 menit lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-30T18:17:38"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/veteran-bitcoin-developer-luke-dashjr-exits-ocean-pool-will-hash-power-follow-him-to-new-pool",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ocean-convoy-crossroads.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T14:00:58"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berita-kripto-terbaru-minggu-ini-reli-bitcoin-hingga-usdc-chelsea",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T08:00:35"
@@ -228,18 +228,18 @@
    "published_at": "2026-08-29T15:30:47"
   },
   {
-   "id": 2152,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Chainalysis tuding ICE alihkan kontrak $95 juta ke TRM Labs",
-   "x": "Chainalysis menggugat ICE karena diduga mengalihkan kontrak blockchain senilai $95 juta ke TRM Labs tanpa persaingan terbuka. Gugatan ini meminta pengadilan memblokir kontrak tersebut dan mewajibkan ICE menggelar tender ulang.",
+   "id": 2157,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Jaringan Cronos terkait Crypto.com berhenti pasca eksploitasi Tectonic senilai $75 juta",
+   "x": "Jaringan Cronos menghentikan operasionalnya setelah peretasan Tectonic yang diperkirakan merugikan $75 juta. Penyerang memanipulasi harga token TONIC sebelum meminjam aset, mirip modus peretasan Mango Markets.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
-   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News-1200x675.jpg",
-   "a": "42 menit lalu",
+   "url": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg",
+   "a": "23 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T17:51:54"
+   "published_at": "2026-08-30T18:40:08"
   },
   {
    "id": 2136,
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T09:45:01"
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/elon-musk-batas-kuantum-klaim-bitcoin",
    "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
-   "a": "56 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-30T17:37:32"
@@ -312,18 +312,18 @@
    "published_at": "2026-08-29T14:30:29"
   },
   {
-   "id": 2116,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Blockchain Fogo hentikan mainnet setelah peretas terima 400 juta token FOGO",
-   "x": "Peretas berhasil mendapatkan 400 juta token FOGO, setara 10% pasokan beredar dan bernilai sekitar $3 juta. Insiden ini memaksa penghentian mainnet blockchain Fogo untuk mengatasi kerentanan keamanan.",
+   "id": 2152,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Chainalysis tuding ICE alihkan kontrak $95 juta ke TRM Labs",
+   "x": "Chainalysis menggugat ICE karena diduga mengalihkan kontrak blockchain senilai $95 juta ke TRM Labs tanpa persaingan terbuka. Gugatan ini meminta pengadilan memblokir kontrak tersebut dan mewajibkan ICE menggelar tender ulang.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
-   "img": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Hack_General-1200x675.jpg",
-   "a": "21 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News-1200x675.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T21:16:51"
+   "published_at": "2026-08-30T17:51:54"
   },
   {
    "id": 2112,
@@ -390,24 +390,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uk-crypto-investors-declared-1-38b-in-gains-but-half-came-from-just-240-people",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/exec-327b211d-c207-4bbf-902f-304997a14412.png",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T20:00:30"
   },
   {
-   "id": 1983,
+   "id": 2116,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pangeran UEA 'mata-mata' ambil 49% saham usaha bank keluarga Trump",
-   "x": "Penasihat keamanan nasional Uni Emirat Arab mengambil peran investasi signifikan dalam usaha perbankan keluarga mantan Presiden AS Donald Trump. Laporan ini mengungkap potensi pengaruh asing dalam bisnis keluarga Trump.",
+   "t": "Blockchain Fogo hentikan mainnet setelah peretas terima 400 juta token FOGO",
+   "x": "Peretas berhasil mendapatkan 400 juta token FOGO, setara 10% pasokan beredar dan bernilai sekitar $3 juta. Insiden ini memaksa penghentian mainnet blockchain Fogo untuk mengatasi kerentanan keamanan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
-   "img": "https://www.tbstat.com/wp/uploads/2025/05/20250523_DJT-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+   "img": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Hack_General-1200x675.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T23:02:03"
+   "published_at": "2026-08-29T21:16:51"
   },
   {
    "id": 2132,
@@ -480,18 +480,18 @@
    "published_at": "2026-08-29T13:30:22"
   },
   {
-   "id": 2039,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pengadilan AS tolak klaim yurisdiksi eksklusif CFTC atas taruhan olahraga",
-   "x": "Pengadilan banding AS menolak klaim Komisi Perdagangan Berjangka Komoditas (CFTC) atas yurisdiksi eksklusif terkait taruhan olahraga. Keputusan ini menegaskan kewenangan negara bagian Nevada dalam mengatur aktivitas tersebut, yang dapat memengaruhi regulasi aset digital di masa depan.",
+   "id": 1983,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pangeran UEA 'mata-mata' ambil 49% saham usaha bank keluarga Trump",
+   "x": "Penasihat keamanan nasional Uni Emirat Arab mengambil peran investasi signifikan dalam usaha perbankan keluarga mantan Presiden AS Donald Trump. Laporan ini mengungkap potensi pengaruh asing dalam bisnis keluarga Trump.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+   "img": "https://www.tbstat.com/wp/uploads/2025/05/20250523_DJT-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T19:50:48"
+   "published_at": "2026-08-27T23:02:03"
   },
   {
    "id": 2089,
@@ -564,18 +564,18 @@
    "published_at": "2026-08-30T12:30:29"
   },
   {
-   "id": 2040,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Dana Bitwise jadi ETF Solana pertama capai AUM $1 miliar",
-   "x": "ETF Solana Staking Bitwise (BSOL) berhasil melampaui valuasi aset kelolaan (AUM) sebesar $1 miliar. Pencapaian ini menandai minat institusional yang kuat terhadap ekosistem Solana.",
+   "id": 2039,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan AS tolak klaim yurisdiksi eksklusif CFTC atas taruhan olahraga",
+   "x": "Pengadilan banding AS menolak klaim Komisi Perdagangan Berjangka Komoditas (CFTC) atas yurisdiksi eksklusif terkait taruhan olahraga. Keputusan ini menegaskan kewenangan negara bagian Nevada dalam mengatur aktivitas tersebut, yang dapat memengaruhi regulasi aset digital di masa depan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
-   "img": "https://www.tbstat.com/wp/uploads/2023/10/20230810_Solana_News2-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T15:48:52"
+   "published_at": "2026-08-28T19:50:48"
   },
   {
    "id": 2008,
@@ -648,18 +648,18 @@
    "published_at": "2026-08-30T09:30:10"
   },
   {
-   "id": 1984,
+   "id": 2040,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Presiden Komite Olimpiade Polandia ditahan dalam penyelidikan suap Zondacrypto",
-   "x": "Pejabat tinggi olahraga Polandia ditahan terkait investigasi platform aset digital ZondaCrypto. Kasus ini menyoroti risiko keterlibatan pejabat publik dalam skandal yang berkaitan dengan aset digital.",
+   "t": "Dana Bitwise jadi ETF Solana pertama capai AUM $1 miliar",
+   "x": "ETF Solana Staking Bitwise (BSOL) berhasil melampaui valuasi aset kelolaan (AUM) sebesar $1 miliar. Pencapaian ini menandai minat institusional yang kuat terhadap ekosistem Solana.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
-   "img": "https://www.tbstat.com/wp/uploads/2019/05/police-arrest-1-1200x675.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
+   "img": "https://www.tbstat.com/wp/uploads/2023/10/20230810_Solana_News2-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T18:23:53"
+   "published_at": "2026-08-28T15:48:52"
   },
   {
    "id": 2154,
@@ -670,7 +670,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M19WS2MWX8WK42HTJNANTQJ5/hi-michael-saylor.png",
-   "a": "34 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T17:59:00"
@@ -684,7 +684,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/nu-ketok-palu-bitcoin-kini-boleh-ditransaksikan",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T03:00:55"
@@ -732,18 +732,18 @@
    "published_at": "2026-08-29T03:30:06"
   },
   {
-   "id": 2041,
+   "id": 1984,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bybit luncurkan opsi 24/7 untuk perpetual saham, mulai dari SpaceX dan Nvidia",
-   "x": "Bursa kripto Bybit kini menawarkan perdagangan opsi tanpa henti untuk produk derivatif saham, dimulai dengan saham SpaceX dan Nvidia. Inisiatif ini memperluas pilihan instrumen investasi bagi pengguna yang mencari eksposur ke pasar saham tradisional melalui platform kripto.",
+   "t": "Presiden Komite Olimpiade Polandia ditahan dalam penyelidikan suap Zondacrypto",
+   "x": "Pejabat tinggi olahraga Polandia ditahan terkait investigasi platform aset digital ZondaCrypto. Kasus ini menyoroti risiko keterlibatan pejabat publik dalam skandal yang berkaitan dengan aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240507_Bybit_News_2-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
+   "img": "https://www.tbstat.com/wp/uploads/2019/05/police-arrest-1-1200x675.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T14:44:23"
+   "published_at": "2026-08-27T18:23:53"
   },
   {
    "id": 2115,
@@ -768,7 +768,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-cari-kerjaan-sampingan-di-web3-cocok-buat-tambah-penghasilan",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T09:00:37"
@@ -782,7 +782,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kalshi-cftc-staf-gedung-putih-penalti",
    "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-29T21:53:31"
@@ -810,24 +810,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/us-treasury-relies-on-stablecoins-to-fund-short-term-debt-but-they-cant-fix-its-28b-long-bond-problem",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-93-day-gate.jpg",
-   "a": "8 menit lalu",
+   "a": "38 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T18:25:24"
   },
   {
-   "id": 1985,
+   "id": 2041,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ethena Foundation usulkan perubahan biaya untuk buyback token ENA",
-   "x": "Ethena Foundation mengumumkan beberapa pembaruan, termasuk rencana pembelian kembali token ENA dan penghentian unlock bulanan. Perubahan ini bertujuan untuk menstabilkan nilai token dan memberikan kepastian bagi investor.",
+   "t": "Bybit luncurkan opsi 24/7 untuk perpetual saham, mulai dari SpaceX dan Nvidia",
+   "x": "Bursa kripto Bybit kini menawarkan perdagangan opsi tanpa henti untuk produk derivatif saham, dimulai dengan saham SpaceX dan Nvidia. Inisiatif ini memperluas pilihan instrumen investasi bagi pengguna yang mencari eksposur ke pasar saham tradisional melalui platform kripto.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-1200x675.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240507_Bybit_News_2-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-27T17:35:33"
+   "published_at": "2026-08-28T14:44:23"
   },
   {
    "id": 2108,
