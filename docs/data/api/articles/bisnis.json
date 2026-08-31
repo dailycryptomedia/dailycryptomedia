@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-31T11:21:57"
   },
   {
+   "id": 2260,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Texas hentikan pendanaan pengawasan publik setelah protes",
+   "x": "Gubernur Texas memerintahkan penghentian dana untuk alat pembaca plat nomor bertenaga AI menyusul protes publik. Kekhawatiran privasi dan skandal penyalahgunaan oleh petugas memicu keputusan ini.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg",
+   "a": "17 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T21:46:04"
+  },
+  {
    "id": 2093,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -30,62 +44,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-29T10:54:48"
-  },
-  {
-   "id": 2071,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Perusahaan publik tanpa pendapatan coba tiru Michael Saylor, sahamnya anjlok 25%",
-   "x": "Sebuah perusahaan publik tanpa pendapatan mencoba strategi meniru Michael Saylor untuk menghindari delisting, namun sahamnya langsung anjlok. Hal ini menunjukkan risiko tinggi dalam upaya meniru strategi perusahaan teknologi yang berfokus pada Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-zero-revenue-public-company-tried-to-copy-michael-saylor-to-avoid-delisting-but-its-stock-immediately-crashed-25",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/alpha-modus-dilution-impact-.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T12:50:31"
-  },
-  {
-   "id": 2043,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pembangunan AI IREN senilai $25-30 miliar 'menakuti' investor, kata Bernstein",
-   "x": "Rencana ekspansi besar-besaran IREN di bidang kecerdasan buatan (AI) menimbulkan kekhawatiran di kalangan investor, menurut analisis Bernstein. Skala investasi yang signifikan ini memicu perdebatan mengenai potensi pengembalian dan risiko yang terlibat dalam proyek AI berskala raksasa.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016",
-   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221116_Earnings_Generic4-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T12:57:52"
-  },
-  {
-   "id": 2018,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Token ENA naik 10% seiring Ethena usulkan pembelian kembali token pakai pendapatan",
-   "x": "Harga token ENA mengalami kenaikan setelah Ethena mengusulkan mekanisme pembelian kembali token menggunakan sebagian besar pendapatan protokol. Proposal ini bertujuan untuk meningkatkan nilai token bagi pemegang dan menunjukkan model bisnis yang berfokus pada pemegang saham.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-overview-of-synthetic-crypto-assets-for-ethena.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T09:27:30"
-  },
-  {
-   "id": 2054,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "IPO Walmart Tahun 1970 Masih Jadi Pelajaran untuk Pembeli SpaceX",
-   "x": "Walmart menempati posisi teratas dalam daftar IPO dengan imbal hasil terbesar, mengubah USD1.000 menjadi USD38,9 juta. Lihat peringkat SpaceX dan Nvidia.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengembalian-ipo-terbesar-spacex-nvidia",
-   "img": "https://assets.beincrypto.com/img/AFTEDiWk_isMnKXI5-t9kZ3cTlQ=/smart/4a235da675974755bbfcbc866ea83376",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-28T16:28:55"
   }
  ]
 }

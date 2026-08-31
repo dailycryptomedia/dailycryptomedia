@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BE6GQ6SXNVS4KFF2WV7WJH/hi-what-is-dns-hijacking-1.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:57:10"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T09:41:27"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T13:45:33"
@@ -124,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/elon-musk-ai-hacking-prediksi-2027",
    "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T07:56:08"
@@ -142,62 +142,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T11:40:11"
-  },
-  {
-   "id": 2010,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bullish sediakan fasilitas stablecoin USD.AI $100 juta untuk pinjaman GPU",
-   "x": "Bursa kripto institusional Bullish memberikan likuiditas stablecoin senilai $100 juta untuk mendukung pinjaman yang dijamin infrastruktur komputasi AI. Ini menunjukkan potensi sinergi antara AI dan DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T16:17:09"
-  },
-  {
-   "id": 2066,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
-   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T17:45:49"
-  },
-  {
-   "id": 2020,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "OneKey reproduksi serangan penggantian transaksi pada aplikasi Ledger Ethereum lama",
-   "x": "Perusahaan keamanan OneKey berhasil mereplikasi kerentanan pada versi lama aplikasi Ledger untuk Ethereum, meskipun tidak ada dana pengguna yang hilang. Insiden ini menyoroti pentingnya pembaruan perangkat lunak secara berkala untuk menjaga keamanan aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-great-big-companies-use-blockchain2.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T08:21:16"
-  },
-  {
-   "id": 2022,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "The Sandbox Janji Ganti Rugi Penuh Pasca Eksploitasi Senilai US$700 Ribu",
-   "x": "The Sandbox akan mengganti penuh dana pemegang token yang terdampak eksploitasi bridge senilai US$700 ribu. Klaim penggantian aset digital akan dibuka dalam dua minggu ke depan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/sand-refund.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T05:40:48"
   }
  ]
 }

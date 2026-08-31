@@ -1,22 +1,8 @@
 {
- "total": 11,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 2051,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Justin Sun Mengungkap Pacarnya Meminta US$50 Juta, tapi AI Menyarankan Tidak",
-   "x": "Justin Sun mengatakan bahwa AI memberitahunya untuk tidak membayar USD50 juta. CZ mengatakan bahwa pertarungan tersebut seharusnya diselesaikan di pengadilan, bukan secara online.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/justin-sun-jing-tian-50-juta-ai-breakup",
-   "img": "https://assets.beincrypto.com/img/QNvX35PvaRP1zs8m50OD0QLn1XQ=/smart/e6cbc93f43ab49b79d660c65658d9401",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-28T20:43:09"
-  },
   {
    "id": 2252,
    "k": "regulasi",
@@ -40,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T14:50:46"
@@ -54,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T15:46:03"
@@ -74,20 +60,6 @@
    "published_at": "2026-08-30T17:51:54"
   },
   {
-   "id": 2073,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OJK siapkan jurus baru kembangkan industri kripto RI",
-   "x": "Otoritas Jasa Keuangan (OJK) meluncurkan tiga strategi baru untuk mendorong pertumbuhan industri aset kripto di Indonesia. Fokusnya adalah pada inovasi teknologi dan peningkatan perlindungan bagi konsumen.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ini-jurus-baru-ojk-untuk-mengembangkan-industri-kripto-ri",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T09:00:02"
-  },
-  {
    "id": 2211,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -102,6 +74,20 @@
    "published_at": "2026-08-31T13:20:05"
   },
   {
+   "id": 2261,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Phemex beri peringatan 82 token terkait likuiditas dan kepatuhan",
+   "x": "Bursa kripto Phemex memberi peringatan kepada 82 token karena masalah likuiditas dan kepatuhan proyek. Langkah ini menyoroti pentingnya standar operasional yang ketat di pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/phemex-token-risk-review.jpg",
+   "a": "13 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T21:50:11"
+  },
+  {
    "id": 2202,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -114,48 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T11:10:44"
-  },
-  {
-   "id": 2039,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pengadilan AS tolak klaim yurisdiksi eksklusif CFTC atas taruhan olahraga",
-   "x": "Pengadilan banding AS menolak klaim Komisi Perdagangan Berjangka Komoditas (CFTC) atas yurisdiksi eksklusif terkait taruhan olahraga. Keputusan ini menegaskan kewenangan negara bagian Nevada dalam mengatur aktivitas tersebut, yang dapat memengaruhi regulasi aset digital di masa depan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T19:50:48"
-  },
-  {
-   "id": 2015,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Senat California loloskan RUU larang pejabat publik terbitkan memecoin",
-   "x": "RUU yang disahkan Senat California melarang pejabat publik menerbitkan memecoin untuk warga negara bagian itu. Langkah ini bertujuan mencegah konflik kepentingan dan praktik 'pay-to-play' dalam penerbitan token.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142VHEYF1NJ88CYWK7HGE6J/hi-california-vs-maga-memecoins.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T12:09:48"
-  },
-  {
-   "id": 2046,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Data Pajak Inggris: 240 Orang Raih Miliaran Pound dari Keuntungan Kripto",
-   "x": "Otoritas pajak Inggris melaporkan 240 individu meraih keuntungan modal aset digital lebih dari 1 juta poundsterling. Peningkatan pengawasan pajak aset kripto di Inggris terus berlanjut.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
-   "img": "https://www.tbstat.com/wp/uploads/2023/08/20230712_UK_CryptoTax_News-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T09:37:26"
   }
  ]
 }

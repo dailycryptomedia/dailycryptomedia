@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,20 +32,6 @@
    "published_at": "2026-08-29T09:10:11"
   },
   {
-   "id": 2025,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Meta uji coba robot untuk operasional pusat data",
-   "x": "Meta membutuhkan lebih banyak tenaga ahli seiring perluasan infrastruktur AI. Namun, karyawan khawatir otomatisasi dapat mengurangi atau menghilangkan beberapa posisi kerja.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T20:19:44"
-  },
-  {
    "id": 2137,
    "k": "web3",
    "cat": "Web3",
@@ -68,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M192XKMKNFS0976BS9Z52ZW1/hi-ton-wallet.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T16:38:00"
@@ -82,24 +68,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/onchain-reputasi-skor-kredit-coinbase",
    "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T11:54:13"
-  },
-  {
-   "id": 2027,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kota AS batasi pusat data AI karena risiko air",
-   "x": "Sejumlah kota di Amerika Serikat mempertimbangkan pembatasan pembangunan pusat data kecerdasan buatan (AI). Kekhawatiran ini muncul akibat tingginya konsumsi air dan listrik yang dibutuhkan infrastruktur AI, menimbulkan isu keberlanjutan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T19:14:37"
   },
   {
    "id": 2115,
