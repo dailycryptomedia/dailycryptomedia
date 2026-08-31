@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
    "img": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T18:40:08"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BE6GQ6SXNVS4KFF2WV7WJH/hi-what-is-dns-hijacking-1.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:57:10"
@@ -82,24 +82,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T09:41:27"
   },
   {
-   "id": 2141,
+   "id": 2216,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Token saham kripto tak bergerak saat Wall Street libur, pasar jadi tidak likuid",
-   "x": "Token saham kripto menunjukkan sedikit pergerakan selama akhir pekan karena pasar menjadi tidak likuid ketika bursa saham tradisional tutup. Hal ini mengindikasikan ketergantungan likuiditas aset kripto pada jam perdagangan pasar saham konvensional.",
+   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
+   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/tokenized-stocks-bridge.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
+   "a": "18 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T11:40:11"
+   "published_at": "2026-08-31T13:45:33"
   },
   {
    "id": 2176,
@@ -124,24 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/elon-musk-ai-hacking-prediksi-2027",
    "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T07:56:08"
   },
   {
-   "id": 2066,
+   "id": 2141,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
-   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
+   "t": "Token saham kripto tak bergerak saat Wall Street libur, pasar jadi tidak likuid",
+   "x": "Token saham kripto menunjukkan sedikit pergerakan selama akhir pekan karena pasar menjadi tidak likuid ketika bursa saham tradisional tutup. Hal ini mengindikasikan ketergantungan likuiditas aset kripto pada jam perdagangan pasar saham konvensional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/tokenized-stocks-bridge.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T17:45:49"
+   "published_at": "2026-08-30T11:40:11"
   },
   {
    "id": 2010,
@@ -156,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:17:09"
+  },
+  {
+   "id": 2066,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
+   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T17:45:49"
   },
   {
    "id": 2020,
