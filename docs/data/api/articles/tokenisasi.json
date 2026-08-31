@@ -1,5 +1,5 @@
 {
- "total": 28,
+ "total": 29,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-treasury-company-registers-93-of-shares-for-resale-and-puts-third-of-its-crypto-into-options",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usbc-bitcoin-control-lock.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T12:45:04"
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T12:37:44"
@@ -242,18 +242,18 @@
    "published_at": "2026-08-28T19:05:30"
   },
   {
-   "id": 2108,
+   "id": 2235,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Volume transfer saham tokenisasi melonjak 415% jadi $29,5 miliar",
-   "x": "Aktivitas on-chain saham tokenisasi melonjak drastis dalam 30 hari terakhir. Peningkatan ini menunjukkan minat yang tumbuh pada aset digital yang merepresentasikan saham tradisional.",
+   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
+   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
+   "a": "25 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T16:27:28"
+   "published_at": "2026-08-31T16:38:51"
   },
   {
    "id": 2231,
@@ -270,6 +270,34 @@
    "published_at": "2026-08-31T15:14:35"
   },
   {
+   "id": 2108,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Volume transfer saham tokenisasi melonjak 415% jadi $29,5 miliar",
+   "x": "Aktivitas on-chain saham tokenisasi melonjak drastis dalam 30 hari terakhir. Peningkatan ini menunjukkan minat yang tumbuh pada aset digital yang merepresentasikan saham tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T16:27:28"
+  },
+  {
+   "id": 2167,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "ECB Ingin Euro Langsung di Blockchain, Apakah Ini Akan Membunuh Stablecoin di Eropa?",
+   "x": "Schnabel mengatakan bahwa ECB sebaiknya menerbitkan cadangan euro di chain, dengan menganggap stablecoin sebagai pelengkap, bukan sebagai anchor settlement.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cadangan-euro-ecb-dampak-stablecoin-on-chain",
+   "img": "https://assets.beincrypto.com/img/zQHACBGEcVbq8xALmdQTOaPCnI8=/smart/3e0579d1dd024de6a310f800c1ea06b7",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-30T22:00:00"
+  },
+  {
    "id": 2009,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -282,34 +310,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T17:46:12"
-  },
-  {
-   "id": 2167,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "ECB Ingin Euro Langsung di Blockchain, Apakah Ini Akan Membunuh Stablecoin di Eropa?",
-   "x": "Schnabel mengatakan bahwa ECB sebaiknya menerbitkan cadangan euro di chain, dengan menganggap stablecoin sebagai pelengkap, bukan sebagai anchor settlement.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cadangan-euro-ecb-dampak-stablecoin-on-chain",
-   "img": "https://assets.beincrypto.com/img/zQHACBGEcVbq8xALmdQTOaPCnI8=/smart/3e0579d1dd024de6a310f800c1ea06b7",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-30T22:00:00"
-  },
-  {
-   "id": 2016,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Capital B raih $24,5 juta untuk kas Bitcoin di tengah ketidakpastian pasar",
-   "x": "Perusahaan kas Bitcoin asal Prancis ini berhasil mengumpulkan dana sebesar $24,5 juta dari investor swasta, termasuk dukungan dari tokoh industri. Pendanaan ini terjadi di tengah kondisi pasar yang belum stabil, menunjukkan minat berkelanjutan pada aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142AJ5B6BQSFDTHCF63GJPC/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T11:36:43"
   },
   {
    "id": 2052,
@@ -326,18 +326,18 @@
    "published_at": "2026-08-28T19:50:16"
   },
   {
-   "id": 2021,
+   "id": 2016,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Visa Jajaki Pembayaran Stablecoin dan AI dengan Induk Upbit",
-   "x": "Visa dan Dunamu akan mengeksplorasi penggunaan stablecoin untuk pembayaran dan remitansi, termasuk potensi pemanfaatan OUSD. Kemitraan ini menandai langkah besar dalam integrasi aset digital di sistem pembayaran global.",
+   "t": "Capital B raih $24,5 juta untuk kas Bitcoin di tengah ketidakpastian pasar",
+   "x": "Perusahaan kas Bitcoin asal Prancis ini berhasil mengumpulkan dana sebesar $24,5 juta dari investor swasta, termasuk dukungan dari tokoh industri. Pendanaan ini terjadi di tengah kondisi pasar yang belum stabil, menunjukkan minat berkelanjutan pada aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-stablecoin.jpg",
+   "url": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142AJ5B6BQSFDTHCF63GJPC/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T07:41:15"
+   "published_at": "2026-08-28T11:36:43"
   },
   {
    "id": 2053,
@@ -352,6 +352,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T19:25:27"
+  },
+  {
+   "id": 2021,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Visa Jajaki Pembayaran Stablecoin dan AI dengan Induk Upbit",
+   "x": "Visa dan Dunamu akan mengeksplorasi penggunaan stablecoin untuk pembayaran dan remitansi, termasuk potensi pemanfaatan OUSD. Kemitraan ini menandai langkah besar dalam integrasi aset digital di sistem pembayaran global.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-stablecoin.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T07:41:15"
   },
   {
    "id": 2058,

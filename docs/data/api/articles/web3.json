@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,18 +60,18 @@
    "published_at": "2026-08-30T09:00:37"
   },
   {
-   "id": 2115,
+   "id": 2236,
    "k": "web3",
    "cat": "Web3",
-   "t": "Polygon ungkap celah keamanan yang diperbaiki dalam hard fork",
-   "x": "Polygon telah memperbaiki kerentanan keamanan yang berpotensi menimbulkan risiko layanan dan sumber daya validator. Perbaikan ini dilakukan sebelum pengungkapan publik, menunjukkan langkah proaktif dalam menjaga keamanan jaringan.",
+   "t": "Wallet di Telegram berganti nama jadi Walt seiring debut dompet Gram",
+   "x": "Telegram meluncurkan dompet kripto mandiri bernama Gram, sementara layanan dompet sebelumnya berganti nama menjadi Walt. Perubahan ini menandai evolusi layanan aset digital di dalam platform pesan populer tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M192XKMKNFS0976BS9Z52ZW1/hi-ton-wallet.jpg",
+   "a": "25 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T20:28:51"
+   "published_at": "2026-08-31T16:38:00"
   },
   {
    "id": 2204,
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/onchain-reputasi-skor-kredit-coinbase",
    "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T11:54:13"
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:14:37"
+  },
+  {
+   "id": 2115,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Polygon ungkap celah keamanan yang diperbaiki dalam hard fork",
+   "x": "Polygon telah memperbaiki kerentanan keamanan yang berpotensi menimbulkan risiko layanan dan sumber daya validator. Perbaikan ini dilakukan sebelum pengungkapan publik, menunjukkan langkah proaktif dalam menjaga keamanan jaringan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T20:28:51"
   },
   {
    "id": 2173,
