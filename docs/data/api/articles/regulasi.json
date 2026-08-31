@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T20:43:09"
+  },
+  {
+   "id": 2211,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulator Jepang minta pembebasan pajak stablecoin jenis trust mulai 2027",
+   "x": "Regulator Jepang mengusulkan agar stablecoin jenis trust dibebaskan dari kewajiban pelaporan pajak mulai 2027. Langkah ini bertujuan meningkatkan kegunaan stablecoin sebagai alat transaksi di negara tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
+   "a": "13 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T13:20:05"
   },
   {
    "id": 2152,
@@ -40,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T11:10:44"
