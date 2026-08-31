@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,18 +74,18 @@
    "published_at": "2026-08-29T20:28:51"
   },
   {
-   "id": 2173,
+   "id": 2204,
    "k": "web3",
    "cat": "Web3",
-   "t": "10 Saham S&P 500 Teratas dalam Satu Dekade Terakhir Miliki Satu Tema Jelas",
-   "x": "Sembilan dari saham S&P 500 dengan kinerja terbaik dekade ini mencatatkan kenaikannya berkat chip AI, jaringan, dan permintaan pusat data.",
+   "t": "Dompet Kripto Anda Bisa Gantikan Skor Kredit — CEO Coinbase Berpendapat Demikian",
+   "x": "Brian Armstrong mengatakan reputasi onchain akan menggantikan skor kredit saat pemberi pinjaman kripto menguji pinjaman tanpa jaminan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/top-10-saham-ai-sp-500-satu-dekade",
-   "img": "https://assets.beincrypto.com/img/lfO07JqFhBZzXUI_IcXRlZj1Igc=/smart/8e6c0553f3684f669339d4221d0f52c1",
-   "a": "9 jam lalu",
+   "url": "https://id.beincrypto.com/onchain-reputasi-skor-kredit-coinbase",
+   "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
+   "a": "39 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T02:13:36"
+   "published_at": "2026-08-31T11:54:13"
   },
   {
    "id": 2027,
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:14:37"
+  },
+  {
+   "id": 2173,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "10 Saham S&P 500 Teratas dalam Satu Dekade Terakhir Miliki Satu Tema Jelas",
+   "x": "Sembilan dari saham S&P 500 dengan kinerja terbaik dekade ini mencatatkan kenaikannya berkat chip AI, jaringan, dan permintaan pusat data.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/top-10-saham-ai-sp-500-satu-dekade",
+   "img": "https://assets.beincrypto.com/img/lfO07JqFhBZzXUI_IcXRlZj1Igc=/smart/8e6c0553f3684f669339d4221d0f52c1",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-31T02:13:36"
   }
  ]
 }
