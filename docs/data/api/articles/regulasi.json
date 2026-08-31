@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
-   "a": "43 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T14:50:46"
@@ -46,6 +46,20 @@
    "published_at": "2026-08-31T13:20:05"
   },
   {
+   "id": 2229,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Sony berargumen di pengadilan bahwa game digital tak bisa dimiliki",
+   "x": "Sony berargumen dalam gugatan class action di California bahwa kepemilikan game digital tidak sah. Argumen ini dapat berdampak pada model bisnis penjualan game di masa depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
+   "a": "18 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T15:46:03"
+  },
+  {
    "id": 2152,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -54,24 +68,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T17:51:54"
-  },
-  {
-   "id": 2202,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Irlandia larang aset kripto dari skema tabungan negara senilai $203 miliar",
-   "x": "Pemerintah Irlandia tidak mengizinkan aset kripto masuk ke dalam skema tabungan negara yang ditujukan untuk deposito senilai $203 miliar. Skema ini akan dibuka tahun depan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T11:10:44"
   },
   {
    "id": 2073,
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T12:09:48"
+  },
+  {
+   "id": 2202,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Irlandia larang aset kripto dari skema tabungan negara senilai $203 miliar",
+   "x": "Pemerintah Irlandia tidak mengizinkan aset kripto masuk ke dalam skema tabungan negara yang ditujukan untuk deposito senilai $203 miliar. Skema ini akan dibuka tahun depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T11:10:44"
   },
   {
    "id": 2039,
