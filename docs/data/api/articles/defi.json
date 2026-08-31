@@ -1,8 +1,22 @@
 {
- "total": 8,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2190,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Antrean staking 36 hari rugikan deposan Ethereum $350.000 per hari",
+   "x": "Antrean aktivasi staking Ethereum yang memakan waktu 35,75 hari menyebabkan hilangnya potensi imbal hasil harian lebih dari $350.000 bagi deposan. Keterlambatan ini berdampak pada efisiensi imbal hasil staking aset digital terbesar kedua.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-staking-entry-backlog.jpg",
+   "a": "8 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T08:25:54"
+  },
   {
    "id": 2157,
    "k": "defi",
@@ -16,6 +30,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T18:40:08"
+  },
+  {
+   "id": 2150,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Blockchain Cronos Berhenti Usai Dugaan Upaya Peretasan US$75 Juta",
+   "x": "Cronos menghentikan blockchain-nya setelah eksploitasi Tectonic, menjebak sebagian besar dana yang dicuri sebelum mereka bisa keluar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cronos-hentikan-blockchain-eksploitasi-tectonic",
+   "img": "https://assets.beincrypto.com/img/X55vSHTmWjn_iRoP-lvNxPHGVoc=/smart/03449aaa37574356be71f302e31bf8cd",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-30T16:19:43"
+  },
+  {
+   "id": 2176,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Cronos hentikan jaringan usai eksploitasi Tectonic senilai $75 juta",
+   "x": "Jaringan Cronos dihentikan sementara setelah eksploitasi pada protokol Tectonic yang diperkirakan merugikan hingga $75 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi yang terus berkembang.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1AX3ZN7EESDX1ZF7WKP963R/hi-transactions-stopped-1.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T03:25:48"
   },
   {
    "id": 2141,
@@ -32,46 +74,18 @@
    "published_at": "2026-08-30T11:40:11"
   },
   {
-   "id": 2150,
+   "id": 2189,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Blockchain Cronos Berhenti Usai Dugaan Upaya Peretasan US$75 Juta",
-   "x": "Cronos menghentikan blockchain-nya setelah eksploitasi Tectonic, menjebak sebagian besar dana yang dicuri sebelum mereka bisa keluar.",
+   "t": "Elon Musk Peringatkan Peretasan AI Akan Melebihi Kemampuan Manusia pada Akhir 2027",
+   "x": "Elon Musk mengatakan peretasan AI akan melampaui manusia pada akhir 2027 saat cacat kritis di Artifactory memicu perdebatan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cronos-hentikan-blockchain-eksploitasi-tectonic",
-   "img": "https://assets.beincrypto.com/img/X55vSHTmWjn_iRoP-lvNxPHGVoc=/smart/03449aaa37574356be71f302e31bf8cd",
-   "a": "15 jam lalu",
+   "url": "https://id.beincrypto.com/elon-musk-ai-hacking-prediksi-2027",
+   "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
+   "a": "37 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-30T16:19:43"
-  },
-  {
-   "id": 2176,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Cronos hentikan jaringan usai eksploitasi Tectonic senilai $75 juta",
-   "x": "Jaringan Cronos dihentikan sementara setelah eksploitasi pada protokol Tectonic yang diperkirakan merugikan hingga $75 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi yang terus berkembang.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1AX3ZN7EESDX1ZF7WKP963R/hi-transactions-stopped-1.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T03:25:48"
-  },
-  {
-   "id": 2066,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
-   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T17:45:49"
+   "published_at": "2026-08-31T07:56:08"
   },
   {
    "id": 2010,
@@ -88,6 +102,20 @@
    "published_at": "2026-08-28T16:17:09"
   },
   {
+   "id": 2066,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ripple pangkas potensi serangan XRP Ledger seiring audit AI uji coba fitur pinjaman",
+   "x": "Ripple mengurangi potensi serangan pada XRP Ledger dengan menghapus kode yang tidak terpakai. Langkah ini dilakukan seiring persiapan fitur pinjaman asli dan audit keamanan AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ripple-moves-to-shrink-xrp-ledger-attack-surface-as-ai-audit-tests-lending-push",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-ai-code-scan.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T17:45:49"
+  },
+  {
    "id": 2020,
    "k": "defi",
    "cat": "DeFi",
@@ -96,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger",
    "img": "https://s3-images.ctmedia.io/media/article-covers/hi-how-great-big-companies-use-blockchain2.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T08:21:16"
