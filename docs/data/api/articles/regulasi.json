@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-08-28T20:43:09"
   },
   {
+   "id": 2252,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Irlandia kecualikan kripto dari akun investasi bebas pajak baru",
+   "x": "Pemerintah Irlandia tidak akan memasukkan aset kripto ke dalam skema akun investasi baru yang menawarkan insentif pajak. Keputusan ini mengklasifikasikan kripto sebagai produk berisiko tinggi dibandingkan instrumen keuangan tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
+   "a": "8 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T20:25:25"
+  },
+  {
    "id": 2221,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -30,20 +44,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T14:50:46"
-  },
-  {
-   "id": 2211,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator Jepang minta pembebasan pajak stablecoin jenis trust mulai 2027",
-   "x": "Regulator Jepang mengusulkan agar stablecoin jenis trust dibebaskan dari kewajiban pelaporan pajak mulai 2027. Langkah ini bertujuan meningkatkan kegunaan stablecoin sebagai alat transaksi di negara tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T13:20:05"
   },
   {
    "id": 2229,
@@ -88,18 +88,18 @@
    "published_at": "2026-08-28T09:00:02"
   },
   {
-   "id": 2015,
+   "id": 2211,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Senat California loloskan RUU larang pejabat publik terbitkan memecoin",
-   "x": "RUU yang disahkan Senat California melarang pejabat publik menerbitkan memecoin untuk warga negara bagian itu. Langkah ini bertujuan mencegah konflik kepentingan dan praktik 'pay-to-play' dalam penerbitan token.",
+   "t": "Regulator Jepang minta pembebasan pajak stablecoin jenis trust mulai 2027",
+   "x": "Regulator Jepang mengusulkan agar stablecoin jenis trust dibebaskan dari kewajiban pelaporan pajak mulai 2027. Langkah ini bertujuan meningkatkan kegunaan stablecoin sebagai alat transaksi di negara tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142VHEYF1NJ88CYWK7HGE6J/hi-california-vs-maga-memecoins.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T12:09:48"
+   "published_at": "2026-08-31T13:20:05"
   },
   {
    "id": 2202,
@@ -110,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T11:10:44"
@@ -128,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T19:50:48"
+  },
+  {
+   "id": 2015,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Senat California loloskan RUU larang pejabat publik terbitkan memecoin",
+   "x": "RUU yang disahkan Senat California melarang pejabat publik menerbitkan memecoin untuk warga negara bagian itu. Langkah ini bertujuan mencegah konflik kepentingan dan praktik 'pay-to-play' dalam penerbitan token.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142VHEYF1NJ88CYWK7HGE6J/hi-california-vs-maga-memecoins.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T12:09:48"
   },
   {
    "id": 2046,
