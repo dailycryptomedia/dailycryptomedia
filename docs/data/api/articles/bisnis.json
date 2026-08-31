@@ -1,8 +1,22 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2201,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Hyperliquid dan Pump.fun catat 90% pembelian kembali aset kripto senilai $638 juta",
+   "x": "Proyek aset kripto menghabiskan rekor $638 juta untuk pembelian kembali token pada tahun 2026. Langkah ini dilakukan untuk mengembalikan nilai lebih kepada pemegang token.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BKM23K1W60BMQWAASQP4GF/hiblockchain-powered-prediction-platforms-hyperliquid-1.jpg",
+   "a": "11 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T11:21:57"
+  },
   {
    "id": 2093,
    "k": "bisnis",
@@ -32,20 +46,6 @@
    "published_at": "2026-08-28T12:50:31"
   },
   {
-   "id": 2018,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Token ENA naik 10% seiring Ethena usulkan pembelian kembali token pakai pendapatan",
-   "x": "Harga token ENA mengalami kenaikan setelah Ethena mengusulkan mekanisme pembelian kembali token menggunakan sebagian besar pendapatan protokol. Proposal ini bertujuan untuk meningkatkan nilai token bagi pemegang dan menunjukkan model bisnis yang berfokus pada pemegang saham.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-overview-of-synthetic-crypto-assets-for-ethena.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-28T09:27:30"
-  },
-  {
    "id": 2043,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -58,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T12:57:52"
+  },
+  {
+   "id": 2018,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Token ENA naik 10% seiring Ethena usulkan pembelian kembali token pakai pendapatan",
+   "x": "Harga token ENA mengalami kenaikan setelah Ethena mengusulkan mekanisme pembelian kembali token menggunakan sebagian besar pendapatan protokol. Proposal ini bertujuan untuk meningkatkan nilai token bagi pemegang dan menunjukkan model bisnis yang berfokus pada pemegang saham.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/hi-overview-of-synthetic-crypto-assets-for-ethena.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T09:27:30"
   },
   {
    "id": 2054,

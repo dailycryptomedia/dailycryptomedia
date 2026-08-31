@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T17:51:54"
+  },
+  {
+   "id": 2202,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Irlandia larang aset kripto dari skema tabungan negara senilai $203 miliar",
+   "x": "Pemerintah Irlandia tidak mengizinkan aset kripto masuk ke dalam skema tabungan negara yang ditujukan untuk deposito senilai $203 miliar. Skema ini akan dibuka tahun depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
+   "a": "23 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T11:10:44"
   },
   {
    "id": 2073,
