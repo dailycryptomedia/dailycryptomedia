@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
    "img": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T18:40:08"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/tokenized-stocks-bridge.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T11:40:11"
@@ -46,20 +46,6 @@
    "published_at": "2026-08-30T16:19:43"
   },
   {
-   "id": 1964,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ledger bantah diretas; aplikasi Ethereum rentan sudah ditambal",
-   "x": "Perusahaan dompet kripto Ledger mengklarifikasi bahwa mereka tidak diretas. Kerentanan pada aplikasi Ethereum yang dieksploitasi telah diperbaiki sebelum insiden terjadi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T18:16:03"
-  },
-  {
    "id": 2010,
    "k": "defi",
    "cat": "DeFi",
@@ -72,34 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T16:17:09"
-  },
-  {
-   "id": 1979,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "XRP bisa kasih passive income? Ini cara kerjanya tanpa staking",
-   "x": "Artikel ini mengulas potensi XRP untuk menghasilkan pendapatan pasif tanpa perlu staking. Pembaca akan dikenalkan pada mekanisme, peluang, serta risiko yang perlu dipahami.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/xrp-bisa-kasih-passive-income-ini-cara-kerjanya-tanpa-staking",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T03:30:39"
-  },
-  {
-   "id": 1986,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "DeFi Development Corp beli lagi hampir 20.000 SOL",
-   "x": "DeFi Development Corp kembali mengakuisisi Solana (SOL) dalam jumlah besar. Pembelian ini menandai kembalinya perusahaan tersebut ke pasar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-08-27-defi-development-resumes-solana-purchases-acquiring-nearly-20000-sol-412932",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T15:32:13"
   },
   {
    "id": 2066,
@@ -116,20 +74,6 @@
    "published_at": "2026-08-28T17:45:49"
   },
   {
-   "id": 1971,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Robinhood Chain Tingkatkan Level, Meme dan RWA Melonjak",
-   "x": "Jaringan Robinhood mencatat volume perdagangan DEX tertinggi sejak pertengahan Juli, mencapai US$443 juta. Lonjakan ini didorong oleh popularitas token meme dan aset dunia nyata (RWA).",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-vlad-tenev-decrypt-style-01-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T12:13:26"
-  },
-  {
    "id": 2020,
    "k": "defi",
    "cat": "DeFi",
@@ -142,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T08:21:16"
-  },
-  {
-   "id": 1990,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Moonwell Investigasi Masalah Pasar Pinjaman di Base, Rug Pull Senilai Jutaan Dolar",
-   "x": "Moonwell sedang menyelidiki masalah pada platform pinjamannya di jaringan Base setelah firma keamanan mendeteksi eksploitasi senilai sekitar US$8,7 juta. Peristiwa ini menyoroti risiko dalam ekosistem DeFi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913",
-   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-27T12:59:46"
   },
   {
    "id": 2022,
