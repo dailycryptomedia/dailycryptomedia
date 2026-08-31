@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,24 +40,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cronos-hentikan-blockchain-eksploitasi-tectonic",
    "img": "https://assets.beincrypto.com/img/X55vSHTmWjn_iRoP-lvNxPHGVoc=/smart/03449aaa37574356be71f302e31bf8cd",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-30T16:19:43"
   },
   {
-   "id": 2010,
+   "id": 2176,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Bullish sediakan fasilitas stablecoin USD.AI $100 juta untuk pinjaman GPU",
-   "x": "Bursa kripto institusional Bullish memberikan likuiditas stablecoin senilai $100 juta untuk mendukung pinjaman yang dijamin infrastruktur komputasi AI. Ini menunjukkan potensi sinergi antara AI dan DeFi.",
+   "t": "Cronos hentikan jaringan usai eksploitasi Tectonic senilai $75 juta",
+   "x": "Jaringan Cronos dihentikan sementara setelah eksploitasi pada protokol Tectonic yang diperkirakan merugikan hingga $75 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi yang terus berkembang.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1AX3ZN7EESDX1ZF7WKP963R/hi-transactions-stopped-1.jpg",
+   "a": "8 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-28T16:17:09"
+   "published_at": "2026-08-31T03:25:48"
   },
   {
    "id": 2066,
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-28T17:45:49"
+  },
+  {
+   "id": 2010,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bullish sediakan fasilitas stablecoin USD.AI $100 juta untuk pinjaman GPU",
+   "x": "Bursa kripto institusional Bullish memberikan likuiditas stablecoin senilai $100 juta untuk mendukung pinjaman yang dijamin infrastruktur komputasi AI. Ini menunjukkan potensi sinergi antara AI dan DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-28T16:17:09"
   },
   {
    "id": 2020,
