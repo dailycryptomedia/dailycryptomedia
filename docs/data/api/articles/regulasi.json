@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-28T20:43:09"
+  },
+  {
+   "id": 2221,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Perbedaan proposal SEC dan Kongres AS soal aset kripto",
+   "x": "Proposal Komisi Sekuritas dan Bursa AS (SEC) dan kerangka kerja aset tambahan Kongres berbeda dalam hal kualifikasi pihak, hak investor, dan interaksi aturan. Perbedaan ini krusial bagi lanskap regulasi aset digital di Amerika Serikat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
+   "a": "13 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T14:50:46"
   },
   {
    "id": 2211,
@@ -40,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News-1200x675.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T17:51:54"
