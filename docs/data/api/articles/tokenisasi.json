@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-emas-goldman-sachs-target-4900",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T06:54:07"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E661NCT1TRWRA3HD65CEX3/blockchainweek2020uk1-1.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T10:56:41"
@@ -60,18 +60,18 @@
    "published_at": "2026-08-31T15:04:14"
   },
   {
-   "id": 2207,
+   "id": 2347,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Robinhood Chain lampaui Ethereum dan Base dalam biaya transaksi",
-   "x": "Blockchain baru milik Robinhood mengalami lonjakan metrik, termasuk biaya transaksi. Fenomena ini didorong oleh popularitas token saham yang ditokenisasi dan memecoin.",
+   "t": "Solana Treasury DeFi Development Corp targetkan dana $20 juta untuk beli SOL",
+   "x": "Perusahaan publik yang berfokus pada ekosistem Solana berencana menggalang dana untuk menambah kepemilikan aset kripto SOL. Langkah ini menunjukkan kepercayaan terhadap potensi aset digital tersebut di pasar.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
+   "a": "4 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T12:37:44"
+   "published_at": "2026-09-01T18:03:47"
   },
   {
    "id": 2138,
@@ -130,6 +130,20 @@
    "published_at": "2026-09-01T14:26:02"
   },
   {
+   "id": 2207,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Robinhood Chain lampaui Ethereum dan Base dalam biaya transaksi",
+   "x": "Blockchain baru milik Robinhood mengalami lonjakan metrik, termasuk biaya transaksi. Fenomena ini didorong oleh popularitas token saham yang ditokenisasi dan memecoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T12:37:44"
+  },
+  {
    "id": 2177,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -186,6 +200,34 @@
    "published_at": "2026-08-31T14:17:57"
   },
   {
+   "id": 2346,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Top 100 Saham London Akan Masuk ke Aset Kripto, Tapi Ada Syaratnya",
+   "x": "Payward akan melakukan tokenisasi 100 saham teratas London sebagai xStocks untuk investor di 110 negara. Penduduk Inggris tidak dapat mengaksesnya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/saham-london-tokenisasi-lse-payward",
+   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
+   "a": "37 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T17:31:08"
+  },
+  {
+   "id": 2342,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "21 institusi, termasuk BofA dan Citi, rencanakan peluncuran stablecoin",
+   "x": "Sejumlah institusi keuangan besar seperti Bank of America dan Citigroup akan meluncurkan stablecoin yang awalnya berdenominasi dolar AS. Langkah ini menunjukkan minat institusi besar pada aset kripto dan potensi integrasinya dengan sistem keuangan tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERC5JF5XKZ3F15CXNCAGXJ/hi-what-is-a-decentralized-money-market-and-how-does-it-work-stablecoin-1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T16:39:12"
+  },
+  {
    "id": 2259,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -198,34 +240,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T21:25:44"
-  },
-  {
-   "id": 2342,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "21 institusi, termasuk BofA dan Citi, rencanakan peluncuran stablecoin",
-   "x": "Sejumlah institusi keuangan besar seperti Bank of America dan Citigroup akan meluncurkan stablecoin yang awalnya berdenominasi dolar AS. Langkah ini menunjukkan minat institusi besar pada aset kripto dan potensi integrasinya dengan sistem keuangan tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERC5JF5XKZ3F15CXNCAGXJ/hi-what-is-a-decentralized-money-market-and-how-does-it-work-stablecoin-1.jpg",
-   "a": "56 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T16:39:12"
-  },
-  {
-   "id": 2305,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan Treasury Solana Tawarkan Dividen 13% untuk Danai Pembelian SOL Berikutnya",
-   "x": "DeFi Development Corp. berencana mengumpulkan dana hingga US$20 juta melalui penawaran saham preferen. Saham ini menawarkan tingkat dividen tahunan awal sebesar 13%. Perusahaan treasury Solana (SOL) ini ingin…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
-   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T10:23:16"
   },
   {
    "id": 2132,
@@ -242,6 +256,34 @@
    "published_at": "2026-08-30T08:04:56"
   },
   {
+   "id": 2305,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan Treasury Solana Tawarkan Dividen 13% untuk Danai Pembelian SOL Berikutnya",
+   "x": "DeFi Development Corp. berencana mengumpulkan dana hingga US$20 juta melalui penawaran saham preferen. Saham ini menawarkan tingkat dividen tahunan awal sebesar 13%. Perusahaan treasury Solana (SOL) ini ingin…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
+   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T10:23:16"
+  },
+  {
+   "id": 2300,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitfinex Securities listingkan nota ter-tokenisasi terkait Strategy, Metaplanet",
+   "x": "Bitfinex Securities kini memperdagangkan nota ekuitas yang didukung aset dunia nyata. Ini membuka peluang bagi investor non-AS untuk berinvestasi pada instrumen keuangan tradisional melalui aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T10:00:00"
+  },
+  {
    "id": 2231,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -256,18 +298,18 @@
    "published_at": "2026-08-31T15:14:35"
   },
   {
-   "id": 2300,
+   "id": 2316,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitfinex Securities listingkan nota ter-tokenisasi terkait Strategy, Metaplanet",
-   "x": "Bitfinex Securities kini memperdagangkan nota ekuitas yang didukung aset dunia nyata. Ini membuka peluang bagi investor non-AS untuk berinvestasi pada instrumen keuangan tradisional melalui aset digital.",
+   "t": "Kast luncurkan platform bisnis bertenaga stablecoin pasca-pendanaan $80 juta",
+   "x": "Kast mengumumkan peluncuran platform bisnis baru yang memanfaatkan stablecoin setelah berhasil menggalang dana sebesar $80 juta. Inisiatif ini bertujuan untuk menarik ribuan bisnis aktif ke platformnya pada akhir 2026.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
-   "a": "7 jam lalu",
+   "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T10:00:00"
+   "published_at": "2026-09-01T13:00:00"
   },
   {
    "id": 2167,
@@ -284,34 +326,6 @@
    "published_at": "2026-08-30T22:00:00"
   },
   {
-   "id": 2316,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Kast luncurkan platform bisnis bertenaga stablecoin pasca-pendanaan $80 juta",
-   "x": "Kast mengumumkan peluncuran platform bisnis baru yang memanfaatkan stablecoin setelah berhasil menggalang dana sebesar $80 juta. Inisiatif ini bertujuan untuk menarik ribuan bisnis aktif ke platformnya pada akhir 2026.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T13:00:00"
-  },
-  {
-   "id": 2258,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Treasury Kripto Wall Street Mulai Beli Bitcoin dan Ethereum Lagi. Mengapa?",
-   "x": "Dana ETF kembali, Washington menetapkan kalender, dan kas kripto mulai membeli lagi. Berikut hal-hal yang sebenarnya berubah.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/crypto-treasuries-membeli-bitcoin-ethereum-lagi",
-   "img": "https://assets.beincrypto.com/img/tRdlg9rog92XT-6AAH7RAUCHf_A=/smart/99007089bc6e41f89cb85b2cb0166f7c",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-31T21:00:00"
-  },
-  {
    "id": 2330,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -324,6 +338,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:34:00"
+  },
+  {
+   "id": 2258,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Treasury Kripto Wall Street Mulai Beli Bitcoin dan Ethereum Lagi. Mengapa?",
+   "x": "Dana ETF kembali, Washington menetapkan kalender, dan kas kripto mulai membeli lagi. Berikut hal-hal yang sebenarnya berubah.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/crypto-treasuries-membeli-bitcoin-ethereum-lagi",
+   "img": "https://assets.beincrypto.com/img/tRdlg9rog92XT-6AAH7RAUCHf_A=/smart/99007089bc6e41f89cb85b2cb0166f7c",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-31T21:00:00"
   },
   {
    "id": 2235,
