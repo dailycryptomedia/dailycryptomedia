@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dell-laba-opsi-mengisyaratkan-pergerakan-11",
    "img": "https://assets.beincrypto.com/img/WE80nc7UgWtABJSzDTmvBJSVooE=/smart/a4d12c6901c24fb28539817a9dfc5487",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T23:00:00"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T21:46:04"
@@ -58,6 +58,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-29T10:54:48"
+  },
+  {
+   "id": 2287,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "1789 Capital pimpin pendanaan Polymarket senilai $1 miliar",
+   "x": "Perusahaan yang terafiliasi dengan Donald Trump Jr., 1789 Capital, dilaporkan memimpin putaran pendanaan senilai $1 miliar untuk Polymarket. Valuasi Polymarket akan mencapai $21 miliar, mendekati pesaingnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DY16J8V7YX1BYDHMX0HB5A/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-1.jpg",
+   "a": "20 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T07:47:13"
   }
  ]
 }
