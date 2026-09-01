@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-emas-goldman-sachs-target-4900",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T06:54:07"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E661NCT1TRWRA3HD65CEX3/blockchainweek2020uk1-1.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T10:56:41"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-31-nyse-parent-ice-partners-with-tzero-infrastructure-tokenized-securities-413111",
    "img": "https://www.tbstat.com/wp/uploads/2019/08/20190822_tZero-security-tokens-tzrop-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T15:04:14"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-treasury-company-registers-93-of-shares-for-resale-and-puts-third-of-its-crypto-into-options",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usbc-bitcoin-control-lock.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T12:45:04"
@@ -194,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T10:00:00"
@@ -214,18 +214,18 @@
    "published_at": "2026-09-01T10:23:16"
   },
   {
-   "id": 2235,
+   "id": 2316,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
-   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
+   "t": "Kast luncurkan platform bisnis bertenaga stablecoin pasca-pendanaan $80 juta",
+   "x": "Kast mengumumkan peluncuran platform bisnis baru yang memanfaatkan stablecoin setelah berhasil menggalang dana sebesar $80 juta. Inisiatif ini bertujuan untuk menarik ribuan bisnis aktif ke platformnya pada akhir 2026.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
-   "a": "20 jam lalu",
+   "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
+   "a": "6 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T16:38:51"
+   "published_at": "2026-09-01T13:00:00"
   },
   {
    "id": 2231,
@@ -242,18 +242,18 @@
    "published_at": "2026-08-31T15:14:35"
   },
   {
-   "id": 2108,
+   "id": 2235,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Volume transfer saham tokenisasi melonjak 415% jadi $29,5 miliar",
-   "x": "Aktivitas on-chain saham tokenisasi melonjak drastis dalam 30 hari terakhir. Peningkatan ini menunjukkan minat yang tumbuh pada aset digital yang merepresentasikan saham tradisional.",
+   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
+   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T16:27:28"
+   "published_at": "2026-08-31T16:38:51"
   },
   {
    "id": 2167,
@@ -270,6 +270,20 @@
    "published_at": "2026-08-30T22:00:00"
   },
   {
+   "id": 2108,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Volume transfer saham tokenisasi melonjak 415% jadi $29,5 miliar",
+   "x": "Aktivitas on-chain saham tokenisasi melonjak drastis dalam 30 hari terakhir. Peningkatan ini menunjukkan minat yang tumbuh pada aset digital yang merepresentasikan saham tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T16:27:28"
+  },
+  {
    "id": 2258,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -278,7 +292,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-treasuries-membeli-bitcoin-ethereum-lagi",
    "img": "https://assets.beincrypto.com/img/tRdlg9rog92XT-6AAH7RAUCHf_A=/smart/99007089bc6e41f89cb85b2cb0166f7c",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T21:00:00"
