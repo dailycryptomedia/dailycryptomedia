@@ -1,5 +1,5 @@
 {
- "total": 193,
+ "total": 199,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,34 @@
    "published_at": "2026-08-31T03:43:14"
   },
   {
+   "id": 2294,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Singapura pertimbangkan akui stablecoin asing",
+   "x": "Pemerintah Singapura sedang mengkaji kemungkinan untuk memasukkan stablecoin yang diterbitkan secara lintas batas ke dalam kerangka regulasinya. Langkah ini merupakan revisi dari kebijakan sebelumnya yang hanya membatasi pada penerbitan domestik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3MSKNNCKBC04B5EH6ZER3/sponsored-marina-bay-sand-singapore-light-water11.jpg",
+   "a": "11 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T09:55:11"
+  },
+  {
+   "id": 2298,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Investor XRP suntik dana $320 juta ke ETF meski rugi paper $746 juta",
+   "x": "Investor terus membeli produk ETF spot XRP di AS meskipun dana tersebut mencatat kerugian paper sebesar $746 juta pada akhir Juni. Hal ini menunjukkan adanya minat yang kuat terhadap aset digital ini di pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-investors-poured-320m-into-etfs-while-the-funds-sat-on-a-746m-paper-loss",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-bridge-under-pressure.jpg",
+   "a": "1 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T10:05:33"
+  },
+  {
    "id": 2166,
    "k": "pasar",
    "cat": "Pasar",
@@ -46,20 +74,6 @@
    "published_at": "2026-08-30T22:31:04"
   },
   {
-   "id": 2146,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pengembang Bitcoin veteran Luke Dashjr keluar dari pool OCEAN",
-   "x": "Pengembang Bitcoin veteran Luke Dashjr meninggalkan OCEAN pool. Keputusannya dapat memicu perpindahan hash power ke pool baru, yang berpotensi memengaruhi jaringan Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/veteran-bitcoin-developer-luke-dashjr-exits-ocean-pool-will-hash-power-follow-him-to-new-pool",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ocean-convoy-crossroads.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T14:00:58"
-  },
-  {
    "id": 2162,
    "k": "pasar",
    "cat": "Pasar",
@@ -72,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T20:28:52"
-  },
-  {
-   "id": 2252,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Irlandia kecualikan kripto dari akun investasi bebas pajak baru",
-   "x": "Pemerintah Irlandia tidak akan memasukkan aset kripto ke dalam skema akun investasi baru yang menawarkan insentif pajak. Keputusan ini mengklasifikasikan kripto sebagai produk berisiko tinggi dibandingkan instrumen keuangan tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T20:25:25"
   },
   {
    "id": 2134,
@@ -110,10 +110,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/beincrypto-bermitra-dengan-token2049-singapura-2026",
    "img": "https://assets.beincrypto.com/img/pMZW3eWOVfTjQn_c3KO4XS0fQ8Q=/smart/980f771a50d043cfbe963896d342dc22",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T15:52:52"
+  },
+  {
+   "id": 2252,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Irlandia kecualikan kripto dari akun investasi bebas pajak baru",
+   "x": "Pemerintah Irlandia tidak akan memasukkan aset kripto ke dalam skema akun investasi baru yang menawarkan insentif pajak. Keputusan ini mengklasifikasikan kripto sebagai produk berisiko tinggi dibandingkan instrumen keuangan tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T20:25:25"
+  },
+  {
+   "id": 2146,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pengembang Bitcoin veteran Luke Dashjr keluar dari pool OCEAN",
+   "x": "Pengembang Bitcoin veteran Luke Dashjr meninggalkan OCEAN pool. Keputusannya dapat memicu perpindahan hash power ke pool baru, yang berpotensi memengaruhi jaringan Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/veteran-bitcoin-developer-luke-dashjr-exits-ocean-pool-will-hash-power-follow-him-to-new-pool",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ocean-convoy-crossroads.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T14:00:58"
   },
   {
    "id": 2163,
@@ -130,20 +158,6 @@
    "published_at": "2026-08-30T21:31:04"
   },
   {
-   "id": 2107,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin hadapi ujian makro baru saat inflasi AS sulit turun",
-   "x": "Inflasi yang sulit turun di AS menjadi tantangan baru bagi Bitcoin. Investor institusi dan pembelian kembali obligasi negara mungkin meredam volatilitas, namun tidak menggantikan disinflasi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warsh-policy-collision.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-29T16:30:58"
-  },
-  {
    "id": 2100,
    "k": "pasar",
    "cat": "Pasar",
@@ -156,6 +170,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T13:58:02"
+  },
+  {
+   "id": 2288,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OJK hentikan dua platform investasi kripto ilegal",
+   "x": "Otoritas Jasa Keuangan (OJK) menghentikan dua platform investasi kripto karena masalah perizinan. Langkah ini penting bagi investor ritel Indonesia untuk mewaspadai penawaran investasi ilegal.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ojk-bongkar-dugaan-investasi-kripto-ilegal-dua-platform-dihentikan",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T07:00:39"
+  },
+  {
+   "id": 2281,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Emas Turun 5,5% dari Level Tertinggi 3 Bulan tapi Goldman Sachs Masih Lihat Potensi Naik 10%",
+   "x": "Harga emas turun 5,5% dari level tertinggi tiga bulanan di 4.697 yang dicapai pada 25 Agustus, kini diperdagangkan di sekitar 4.436 saat artikel ini diterbitkan. Goldman Sachs tetap memproyeksikan harga mencapai 4.900…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harga-emas-goldman-sachs-target-4900",
+   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T06:54:07"
   },
   {
    "id": 2092,
@@ -172,32 +214,18 @@
    "published_at": "2026-08-29T10:53:41"
   },
   {
-   "id": 2288,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OJK hentikan dua platform investasi kripto ilegal",
-   "x": "Otoritas Jasa Keuangan (OJK) menghentikan dua platform investasi kripto karena masalah perizinan. Langkah ini penting bagi investor ritel Indonesia untuk mewaspadai penawaran investasi ilegal.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ojk-bongkar-dugaan-investasi-kripto-ilegal-dua-platform-dihentikan",
-   "img": null,
-   "a": "2 jam lalu",
+   "id": 2107,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin hadapi ujian makro baru saat inflasi AS sulit turun",
+   "x": "Inflasi yang sulit turun di AS menjadi tantangan baru bagi Bitcoin. Investor institusi dan pembelian kembali obligasi negara mungkin meredam volatilitas, namun tidak menggantikan disinflasi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warsh-policy-collision.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T07:00:39"
-  },
-  {
-   "id": 2281,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Emas Turun 5,5% dari Level Tertinggi 3 Bulan tapi Goldman Sachs Masih Lihat Potensi Naik 10%",
-   "x": "Harga emas turun 5,5% dari level tertinggi tiga bulanan di 4.697 yang dicapai pada 25 Agustus, kini diperdagangkan di sekitar 4.436 saat artikel ini diterbitkan. Goldman Sachs tetap memproyeksikan harga mencapai 4.900…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-emas-goldman-sachs-target-4900",
-   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T06:54:07"
+   "published_at": "2026-08-29T16:30:58"
   },
   {
    "id": 2255,
@@ -208,24 +236,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T21:01:05"
-  },
-  {
-   "id": 2106,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "SEC Tinjau Ulang Jalur Pengajuan Otomatis ETF Kripto Eksotis",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) meninjau ulang proses pengajuan setelah membanjirnya proposal ETF kripto yang tidak biasa. Hal ini menunjukkan upaya regulator untuk mengelola produk investasi baru yang kompleks di pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-sec-is-reviewing-automatic-filing-pathways-after-exotic-crypto-and-event-linked-etf-proposals-flooded-the-market",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-etf-capsule.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-29T15:30:47"
   },
   {
    "id": 2279,
@@ -236,24 +250,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
    "img": "https://www.tbstat.com/wp/uploads/2023/01/20230118_ArkInvest-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T04:57:33"
-  },
-  {
-   "id": 2201,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Hyperliquid dan Pump.fun catat 90% pembelian kembali aset kripto senilai $638 juta",
-   "x": "Proyek aset kripto menghabiskan rekor $638 juta untuk pembelian kembali token pada tahun 2026. Langkah ini dilakukan untuk mengembalikan nilai lebih kepada pemegang token.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BKM23K1W60BMQWAASQP4GF/hiblockchain-powered-prediction-platforms-hyperliquid-1.jpg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T11:21:57"
   },
   {
    "id": 2285,
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/tanya-timothy-ronald-soal-akademi-crypto-pria-ini-ngaku-diusir",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T06:00:32"
@@ -284,6 +284,34 @@
    "published_at": "2026-08-31T07:19:21"
   },
   {
+   "id": 2201,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Hyperliquid dan Pump.fun catat 90% pembelian kembali aset kripto senilai $638 juta",
+   "x": "Proyek aset kripto menghabiskan rekor $638 juta untuk pembelian kembali token pada tahun 2026. Langkah ini dilakukan untuk mengembalikan nilai lebih kepada pemegang token.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BKM23K1W60BMQWAASQP4GF/hiblockchain-powered-prediction-platforms-hyperliquid-1.jpg",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T11:21:57"
+  },
+  {
+   "id": 2106,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "SEC Tinjau Ulang Jalur Pengajuan Otomatis ETF Kripto Eksotis",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) meninjau ulang proses pengajuan setelah membanjirnya proposal ETF kripto yang tidak biasa. Hal ini menunjukkan upaya regulator untuk mengelola produk investasi baru yang kompleks di pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/the-sec-is-reviewing-automatic-filing-pathways-after-exotic-crypto-and-event-linked-etf-proposals-flooded-the-market",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-etf-capsule.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T15:30:47"
+  },
+  {
    "id": 2109,
    "k": "pasar",
    "cat": "Pasar",
@@ -298,20 +326,6 @@
    "published_at": "2026-08-29T17:31:03"
   },
   {
-   "id": 2102,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Strategi XRP Evernorth bergantung pada satu angka pasca pemungutan suara Nasdaq",
-   "x": "Evernorth akan mengandalkan kepercayaan dan jumlah saham yang beredar untuk strategi XRP-nya setelah pemungutan suara Nasdaq. Hal ini penting bagi investor karena menentukan arah pergerakan aset digital tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/evernorths-xrp-strategy-hinges-on-one-number-after-nasdaq-vote",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/evernorth-xrp-ballot-box.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-29T14:30:29"
-  },
-  {
    "id": 2114,
    "k": "pasar",
    "cat": "Pasar",
@@ -324,20 +338,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T20:15:32"
-  },
-  {
-   "id": 2200,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pasar bergeser ke kenaikan suku bunga The Fed September: Lima hal tentang Bitcoin minggu ini",
-   "x": "Bitcoin mendekati penutupan bulanan Agustus di bawah level resistensi penting. Pasar kembali memperhitungkan kenaikan suku bunga acuan The Fed pada September.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BPBRHSF9T5QYV48MYETDGJ/hi-us-bitcoin-reserve-asset-bill-explained-1.jpg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T10:51:49"
   },
   {
    "id": 2174,
@@ -368,6 +368,34 @@
    "published_at": "2026-08-30T18:17:38"
   },
   {
+   "id": 2200,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pasar bergeser ke kenaikan suku bunga The Fed September: Lima hal tentang Bitcoin minggu ini",
+   "x": "Bitcoin mendekati penutupan bulanan Agustus di bawah level resistensi penting. Pasar kembali memperhitungkan kenaikan suku bunga acuan The Fed pada September.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BPBRHSF9T5QYV48MYETDGJ/hi-us-bitcoin-reserve-asset-bill-explained-1.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T10:51:49"
+  },
+  {
+   "id": 2102,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Strategi XRP Evernorth bergantung pada satu angka pasca pemungutan suara Nasdaq",
+   "x": "Evernorth akan mengandalkan kepercayaan dan jumlah saham yang beredar untuk strategi XRP-nya setelah pemungutan suara Nasdaq. Hal ini penting bagi investor karena menentukan arah pergerakan aset digital tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/evernorths-xrp-strategy-hinges-on-one-number-after-nasdaq-vote",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/evernorth-xrp-ballot-box.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T14:30:29"
+  },
+  {
    "id": 2105,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -382,20 +410,6 @@
    "published_at": "2026-08-29T15:31:04"
   },
   {
-   "id": 2185,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Reli XRP berikutnya bisa berikan tekanan pada posisi short 115 juta token",
-   "x": "Posisi short XRP senilai 115,7 juta token menghadapi tekanan seiring kenaikan posisi long manajer aset. Pergerakan ini bisa memengaruhi sentimen pasar terhadap aset digital tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrps-next-rally-could-put-this-115-million-token-short-under-pressure",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-market-tug-war.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T06:30:46"
-  },
-  {
    "id": 2157,
    "k": "defi",
    "cat": "DeFi",
@@ -408,20 +422,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T18:40:08"
-  },
-  {
-   "id": 2219,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Rusia prediksi volume perdagangan kripto $46 miliar di bursa teregulasi",
-   "x": "Bursa kripto teregulasi di Rusia diprediksi akan mencatat volume perdagangan lebih dari $46 miliar pada tahun pertama setelah legalisasi. Perkiraan ini datang dari bank terbesar di negara tersebut, menunjukkan potensi besar pasar kripto domestik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T14:50:58"
   },
   {
    "id": 2121,
@@ -446,10 +446,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/lebih-banyak-pasar-exploit-flow-evm-wflow",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T10:47:29"
+  },
+  {
+   "id": 2219,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Rusia prediksi volume perdagangan kripto $46 miliar di bursa teregulasi",
+   "x": "Bursa kripto teregulasi di Rusia diprediksi akan mencatat volume perdagangan lebih dari $46 miliar pada tahun pertama setelah legalisasi. Perkiraan ini datang dari bank terbesar di negara tersebut, menunjukkan potensi besar pasar kripto domestik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T14:50:58"
+  },
+  {
+   "id": 2185,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Reli XRP berikutnya bisa berikan tekanan pada posisi short 115 juta token",
+   "x": "Posisi short XRP senilai 115,7 juta token menghadapi tekanan seiring kenaikan posisi long manajer aset. Pergerakan ini bisa memengaruhi sentimen pasar terhadap aset digital tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrps-next-rally-could-put-this-115-million-token-short-under-pressure",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-market-tug-war.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T06:30:46"
   },
   {
    "id": 2098,
@@ -466,20 +494,6 @@
    "published_at": "2026-08-29T13:31:04"
   },
   {
-   "id": 2113,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Investor kripto Inggris laporkan keuntungan £1,38 miliar, separuhnya dari 240 orang",
-   "x": "Sebanyak 17.600 investor kripto di Inggris melaporkan keuntungan pajak senilai £1,38 miliar. Mayoritas keuntungan tersebut berasal dari segelintir individu, menunjukkan konsentrasi kekayaan yang tinggi di kalangan investor kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uk-crypto-investors-declared-1-38b-in-gains-but-half-came-from-just-240-people",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/exec-327b211d-c207-4bbf-902f-304997a14412.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-29T20:00:30"
-  },
-  {
    "id": 2225,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -488,24 +502,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-08-31-nyse-parent-ice-partners-with-tzero-infrastructure-tokenized-securities-413111",
    "img": "https://www.tbstat.com/wp/uploads/2019/08/20190822_tZero-security-tokens-tzrop-1200x675.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T15:04:14"
-  },
-  {
-   "id": 2211,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator Jepang minta pembebasan pajak stablecoin jenis trust mulai 2027",
-   "x": "Regulator Jepang mengusulkan agar stablecoin jenis trust dibebaskan dari kewajiban pelaporan pajak mulai 2027. Langkah ini bertujuan meningkatkan kegunaan stablecoin sebagai alat transaksi di negara tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T13:20:05"
   },
   {
    "id": 2271,
@@ -536,6 +536,34 @@
    "published_at": "2026-09-01T07:19:06"
   },
   {
+   "id": 2211,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulator Jepang minta pembebasan pajak stablecoin jenis trust mulai 2027",
+   "x": "Regulator Jepang mengusulkan agar stablecoin jenis trust dibebaskan dari kewajiban pelaporan pajak mulai 2027. Langkah ini bertujuan meningkatkan kegunaan stablecoin sebagai alat transaksi di negara tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T13:20:05"
+  },
+  {
+   "id": 2113,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Investor kripto Inggris laporkan keuntungan £1,38 miliar, separuhnya dari 240 orang",
+   "x": "Sebanyak 17.600 investor kripto di Inggris melaporkan keuntungan pajak senilai £1,38 miliar. Mayoritas keuntungan tersebut berasal dari segelintir individu, menunjukkan konsentrasi kekayaan yang tinggi di kalangan investor kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/uk-crypto-investors-declared-1-38b-in-gains-but-half-came-from-just-240-people",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/exec-327b211d-c207-4bbf-902f-304997a14412.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T20:00:30"
+  },
+  {
    "id": 2168,
    "k": "pasar",
    "cat": "Pasar",
@@ -550,20 +578,6 @@
    "published_at": "2026-08-30T23:31:03"
   },
   {
-   "id": 2099,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin bertransformasi jadi pusat komputasi kinerja tinggi",
-   "x": "Penambang Bitcoin kini tidak hanya fokus pada aset kripto, tetapi juga merambah ke komputasi kinerja tinggi. Perusahaan penambang besar AS justru mengalami penurunan harga saham meskipun Bitcoin menguat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miners-are-no-longer-pure-crypto-proxies-and-are-morphing-into-high-performance-computing-hubs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-data-center-pivot.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-29T13:30:22"
-  },
-  {
    "id": 2283,
    "k": "pasar",
    "cat": "Pasar",
@@ -572,24 +586,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
    "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T07:03:29"
-  },
-  {
-   "id": 2206,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strategy beli $370 juta Bitcoin, pembelian korporat pertama sejak Juni",
-   "x": "Perusahaan investasi Strategy kembali menambah cadangan Bitcoin senilai $370 juta. Langkah ini menandai pembelian korporat aset digital terbesar dalam dua bulan terakhir.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BWY7NE5K9B56H01VHHARK5/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T12:45:12"
   },
   {
    "id": 2122,
@@ -614,10 +614,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/santos-kalshi-lifetime-trading-ban",
    "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T00:47:08"
+  },
+  {
+   "id": 2206,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Strategy beli $370 juta Bitcoin, pembelian korporat pertama sejak Juni",
+   "x": "Perusahaan investasi Strategy kembali menambah cadangan Bitcoin senilai $370 juta. Langkah ini menandai pembelian korporat aset digital terbesar dalam dua bulan terakhir.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BWY7NE5K9B56H01VHHARK5/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T12:45:12"
+  },
+  {
+   "id": 2099,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penambang Bitcoin bertransformasi jadi pusat komputasi kinerja tinggi",
+   "x": "Penambang Bitcoin kini tidak hanya fokus pada aset kripto, tetapi juga merambah ke komputasi kinerja tinggi. Perusahaan penambang besar AS justru mengalami penurunan harga saham meskipun Bitcoin menguat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-miners-are-no-longer-pure-crypto-proxies-and-are-morphing-into-high-performance-computing-hubs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-data-center-pivot.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-29T13:30:22"
   },
   {
    "id": 2145,
@@ -634,20 +662,6 @@
    "published_at": "2026-08-30T13:31:04"
   },
   {
-   "id": 2161,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CEO Circle: Platform sistem finansial internet, tapi cirBTC hanya punya 40 BTC",
-   "x": "Circle mengklaim telah membangun platform untuk sistem finansial internet, namun aset digital cirBTC yang mereka luncurkan baru memiliki cadangan 40 BTC. Ini menunjukkan tantangan dalam adopsi dan skala produk baru mereka di pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ceo-jeremy-allaire-says-circle-built-the-internet-financial-system-but-cirbtc-has-only-40-btc",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cirbtc-glass-case-gap.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T20:00:26"
-  },
-  {
    "id": 2224,
    "k": "pasar",
    "cat": "Pasar",
@@ -660,20 +674,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T15:23:17"
-  },
-  {
-   "id": 2136,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bank Rusia Sber incar pinjaman USDT, ragukan permintaan rubel digital",
-   "x": "Bank terbesar Rusia, Sber, berencana menerima USDT dan Ether sebagai agunan pinjaman. Langkah ini seiring negara tersebut memperkenalkan perdagangan kripto yang teregulasi di bawah undang-undang baru.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T09:45:01"
   },
   {
    "id": 2192,
@@ -704,6 +704,34 @@
    "published_at": "2026-08-30T10:12:28"
   },
   {
+   "id": 2136,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bank Rusia Sber incar pinjaman USDT, ragukan permintaan rubel digital",
+   "x": "Bank terbesar Rusia, Sber, berencana menerima USDT dan Ether sebagai agunan pinjaman. Langkah ini seiring negara tersebut memperkenalkan perdagangan kripto yang teregulasi di bawah undang-undang baru.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T09:45:01"
+  },
+  {
+   "id": 2161,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Circle: Platform sistem finansial internet, tapi cirBTC hanya punya 40 BTC",
+   "x": "Circle mengklaim telah membangun platform untuk sistem finansial internet, namun aset digital cirBTC yang mereka luncurkan baru memiliki cadangan 40 BTC. Ini menunjukkan tantangan dalam adopsi dan skala produk baru mereka di pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ceo-jeremy-allaire-says-circle-built-the-internet-financial-system-but-cirbtc-has-only-40-btc",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cirbtc-glass-case-gap.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T20:00:26"
+  },
+  {
    "id": 2237,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -712,24 +740,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T16:55:46"
-  },
-  {
-   "id": 2142,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mantan staf Gedung Putih untung $107 ribu dari pasar prediksi sebelum CFTC bertindak",
-   "x": "Seorang mantan staf Gedung Putih didenda dan dilarang berpartisipasi di pasar prediksi karena menggunakan informasi rahasia untuk keuntungan. Kasus ini menyoroti pengawasan regulator terhadap potensi penyalahgunaan informasi di pasar prediksi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/white-house-aide-turned-secret-speech-text-into-107k-on-prediction-markets-before-cftc-stepped-in",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/kalshi-inside-access-trading.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T12:30:29"
   },
   {
    "id": 2152,
@@ -744,20 +758,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T17:51:54"
-  },
-  {
-   "id": 2287,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "1789 Capital pimpin pendanaan Polymarket senilai $1 miliar",
-   "x": "Perusahaan yang terafiliasi dengan Donald Trump Jr., 1789 Capital, dilaporkan memimpin putaran pendanaan senilai $1 miliar untuk Polymarket. Valuasi Polymarket akan mencapai $21 miliar, mendekati pesaingnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DY16J8V7YX1BYDHMX0HB5A/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-1.jpg",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T07:47:13"
   },
   {
    "id": 2125,
@@ -788,6 +788,34 @@
    "published_at": "2026-08-31T06:40:00"
   },
   {
+   "id": 2287,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "1789 Capital pimpin pendanaan Polymarket senilai $1 miliar",
+   "x": "Perusahaan yang terafiliasi dengan Donald Trump Jr., 1789 Capital, dilaporkan memimpin putaran pendanaan senilai $1 miliar untuk Polymarket. Valuasi Polymarket akan mencapai $21 miliar, mendekati pesaingnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DY16J8V7YX1BYDHMX0HB5A/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-1.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T07:47:13"
+  },
+  {
+   "id": 2142,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan staf Gedung Putih untung $107 ribu dari pasar prediksi sebelum CFTC bertindak",
+   "x": "Seorang mantan staf Gedung Putih didenda dan dilarang berpartisipasi di pasar prediksi karena menggunakan informasi rahasia untuk keuntungan. Kasus ini menyoroti pengawasan regulator terhadap potensi penyalahgunaan informasi di pasar prediksi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/white-house-aide-turned-secret-speech-text-into-107k-on-prediction-markets-before-cftc-stepped-in",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/kalshi-inside-access-trading.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T12:30:29"
+  },
+  {
    "id": 2242,
    "k": "pasar",
    "cat": "Pasar",
@@ -796,24 +824,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T17:54:15"
-  },
-  {
-   "id": 2135,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Dompet Bitcoin populer berisiko kehilangan dukungan perangkat keras baru",
-   "x": "Sebuah jembatan keamanan penting berhenti menerima perangkat keras baru, mengancam dompet Bitcoin populer. Hal ini dapat membatasi pilihan pengguna untuk mengamankan aset digital mereka dengan perangkat keras terbaru.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/popular-bitcoin-wallets-risk-losing-support-for-new-hardware-devices-as-critical-security-bridge-stops-accepting-new-devices",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/hardware-wallet-transition.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T09:30:10"
   },
   {
    "id": 2218,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T14:17:57"
-  },
-  {
-   "id": 2112,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pasar aset dunia nyata Stellar melonjak empat kali lipat jadi hampir $4 miliar",
-   "x": "Pasar aset dunia nyata di jaringan Stellar mengalami pertumbuhan pesat tahun ini. Peningkatan ini didorong oleh adopsi institusional dan aktivitas tokenisasi yang terus berkembang di jaringan tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-29T19:12:42"
   }
  ]
 }

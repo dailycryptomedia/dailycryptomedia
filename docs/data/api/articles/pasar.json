@@ -1,5 +1,5 @@
 {
- "total": 83,
+ "total": 87,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T03:43:14"
+  },
+  {
+   "id": 2294,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Singapura pertimbangkan akui stablecoin asing",
+   "x": "Pemerintah Singapura sedang mengkaji kemungkinan untuk memasukkan stablecoin yang diterbitkan secara lintas batas ke dalam kerangka regulasinya. Langkah ini merupakan revisi dari kebijakan sebelumnya yang hanya membatasi pada penerbitan domestik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3MSKNNCKBC04B5EH6ZER3/sponsored-marina-bay-sand-singapore-light-water11.jpg",
+   "a": "11 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T09:55:11"
   },
   {
    "id": 2166,
@@ -74,20 +88,6 @@
    "published_at": "2026-08-30T20:28:52"
   },
   {
-   "id": 2219,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Rusia prediksi volume perdagangan kripto $46 miliar di bursa teregulasi",
-   "x": "Bursa kripto teregulasi di Rusia diprediksi akan mencatat volume perdagangan lebih dari $46 miliar pada tahun pertama setelah legalisasi. Perkiraan ini datang dari bank terbesar di negara tersebut, menunjukkan potensi besar pasar kripto domestik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T14:50:58"
-  },
-  {
    "id": 2285,
    "k": "pasar",
    "cat": "Pasar",
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/tanya-timothy-ronald-soal-akademi-crypto-pria-ini-ngaku-diusir",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T06:00:32"
@@ -110,10 +110,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/beincrypto-bermitra-dengan-token2049-singapura-2026",
    "img": "https://assets.beincrypto.com/img/pMZW3eWOVfTjQn_c3KO4XS0fQ8Q=/smart/980f771a50d043cfbe963896d342dc22",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T15:52:52"
+  },
+  {
+   "id": 2219,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Rusia prediksi volume perdagangan kripto $46 miliar di bursa teregulasi",
+   "x": "Bursa kripto teregulasi di Rusia diprediksi akan mencatat volume perdagangan lebih dari $46 miliar pada tahun pertama setelah legalisasi. Perkiraan ini datang dari bank terbesar di negara tersebut, menunjukkan potensi besar pasar kripto domestik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T14:50:58"
   },
   {
    "id": 2109,
@@ -158,20 +172,6 @@
    "published_at": "2026-08-29T13:58:02"
   },
   {
-   "id": 2228,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitmine kuasai 4,9% suplai Ether usai tambah 53,5 ribu ETH",
-   "x": "Bitmine terus mengakumulasi Ether selama 65 minggu berturut-turut, bahkan saat pasar kripto mengalami penurunan. Kepemilikan besar ini menempatkan Bitmine sebagai pemain signifikan di ekosistem Ethereum.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C5X0EPKFXAYHMT2JV9CT5W/doctor-medicine-crypto-eth.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T15:39:00"
-  },
-  {
    "id": 2174,
    "k": "pasar",
    "cat": "Pasar",
@@ -194,10 +194,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/lebih-banyak-pasar-exploit-flow-evm-wflow",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T10:47:29"
+  },
+  {
+   "id": 2228,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitmine kuasai 4,9% suplai Ether usai tambah 53,5 ribu ETH",
+   "x": "Bitmine terus mengakumulasi Ether selama 65 minggu berturut-turut, bahkan saat pasar kripto mengalami penurunan. Kepemilikan besar ini menempatkan Bitmine sebagai pemain signifikan di ekosistem Ethereum.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C5X0EPKFXAYHMT2JV9CT5W/doctor-medicine-crypto-eth.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T15:39:00"
   },
   {
    "id": 2098,
@@ -236,24 +250,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
    "img": "https://www.tbstat.com/wp/uploads/2023/01/20230118_ArkInvest-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T04:57:33"
-  },
-  {
-   "id": 2241,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Webull perluas trading kripto ke Kanada lewat kolaborasi Coinbase",
-   "x": "Perusahaan pialang Webull kini menawarkan aset digital di Kanada, menambahkannya ke pilihan saham, ETF, dan opsi. Langkah ini seiring meningkatnya kepemilikan kripto di Kanada dan upaya regulator untuk memperjelas aturan industri.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C82GGTPW1R06193D045R8Q/canada-coin.jpg",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T17:28:19"
   },
   {
    "id": 2121,
@@ -282,6 +282,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T07:19:06"
+  },
+  {
+   "id": 2241,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Webull perluas trading kripto ke Kanada lewat kolaborasi Coinbase",
+   "x": "Perusahaan pialang Webull kini menawarkan aset digital di Kanada, menambahkannya ke pilihan saham, ETF, dan opsi. Langkah ini seiring meningkatnya kepemilikan kripto di Kanada dan upaya regulator untuk memperjelas aturan industri.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C82GGTPW1R06193D045R8Q/canada-coin.jpg",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T17:28:19"
   },
   {
    "id": 2168,
@@ -326,20 +340,6 @@
    "published_at": "2026-08-29T20:15:32"
   },
   {
-   "id": 2278,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "ETF Bitcoin BlackRock dorong rebound $217 juta saat dana altcoin berlanjut",
-   "x": "Dana ETF Bitcoin BlackRock mencatat aliran masuk signifikan, mendorong pemulihan pasar. Dana altcoin seperti Ether, XRP, dan Solana juga terus mencatatkan sesi positif berturut-turut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DMR8D8Q7DJ0ETNYGBE2SEM/bitco-etf.png",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T04:48:47"
-  },
-  {
    "id": 2271,
    "k": "pasar",
    "cat": "Pasar",
@@ -362,10 +362,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/santos-kalshi-lifetime-trading-ban",
    "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T00:47:08"
+  },
+  {
+   "id": 2278,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ETF Bitcoin BlackRock dorong rebound $217 juta saat dana altcoin berlanjut",
+   "x": "Dana ETF Bitcoin BlackRock mencatat aliran masuk signifikan, mendorong pemulihan pasar. Dana altcoin seperti Ether, XRP, dan Solana juga terus mencatatkan sesi positif berturut-turut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DMR8D8Q7DJ0ETNYGBE2SEM/bitco-etf.png",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T04:48:47"
   },
   {
    "id": 2145,
@@ -404,7 +418,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
    "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T07:03:29"
@@ -446,7 +460,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T17:54:15"
@@ -460,7 +474,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-volatility-pendulum.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T19:50:04"
@@ -586,7 +600,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T18:46:04"
@@ -656,7 +670,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T17:06:04"
@@ -726,7 +740,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T14:54:47"
@@ -768,7 +782,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-1-september-2026-xmr-lit-mnt-dash-dan-render-sedang-meracik-kejutan",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T02:00:55"
@@ -796,52 +810,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T14:03:39"
   },
   {
-   "id": 2171,
+   "id": 2295,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Cryptoiz Scan Binance Saring Kripto Potensial Sebelum Trading",
-   "x": "Cryptoiz meluncurkan fitur Scan Binance untuk membantu trader menyaring aset kripto potensial. Fitur ini menganalisis data sinyal, volume, dan risiko untuk meminimalkan potensi kerugian.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/membedah-fitur-scan-binance-di-cryptoiz-cara-menyaring-kripto-sebelum-trading",
-   "img": null,
-   "a": "kemarin",
+   "t": "Payward akan tokenisasi 100 saham London, siap trading di LSE 24",
+   "x": "Perusahaan induk Kraken, Payward, berencana menokenisasi 100 saham yang terdaftar di London menjadi produk xStocks. Inisiatif ini, yang menunggu persetujuan regulator, bertujuan mengintegrasikan aset tradisional ke dalam ekosistem aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
+   "img": "https://www.tbstat.com/wp/uploads/2019/08/shutterstock_431001775-1017x675.jpg",
+   "a": "27 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T00:50:26"
+   "published_at": "2026-09-01T09:39:20"
   },
   {
-   "id": 2289,
+   "id": 2299,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Prediksi Harga Bitcoin untuk September 2026: Apa yang Terjadi setelah Bulan ETF US$3,5 Miliar?",
-   "x": "Harga Bitcoin naik 24,95% di bulan Agustus, namun masih diperdagangkan 9,62% di bawah posisi awal tahun. Seluruh pembelian bulan ini hampir semuanya berasal dari dana institusi. Semua pihak lain justru melakukan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/prediksi-harga-bitcoin-september-2026",
-   "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
+   "t": "Jadwal Token Unlock Awal September 2026, Kripto Apa Saja?",
+   "x": "Sebanyak US$820 juta token akan dibuka pada awal September 2026, dengan HYPE, SUI, EIGEN, dan ENA menjadi yang teratas. Peristiwa ini berpotensi memengaruhi pasokan dan harga aset kripto terkait.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/jadwal-token-unlock-awal-september-2026-kripto-apa-saja",
+   "img": null,
    "a": "1 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T08:02:09"
-  },
-  {
-   "id": 2149,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Anthropic Unduh Musik dari Situs Torrent untuk Melatih Claude",
-   "x": "Sony dan Warner mengajukan gugatan musik terhadap Anthropic, menyatakan bahwa songbook yang diunduh secara torrent digunakan untuk melatih Claude.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/gugatan-musik-anthropic-torrenting-pelatihan-claude",
-   "img": "https://assets.beincrypto.com/img/YCGJOTIb4ttRbPWapjuwO2-Aejg=/smart/9b4f024c2b5f4f7fbb12281b5aa35fb3",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-30T15:26:20"
+   "translated": true,
+   "published_at": "2026-09-01T09:00:19"
   }
  ]
 }
