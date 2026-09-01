@@ -1,5 +1,5 @@
 {
- "total": 104,
+ "total": 105,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F9CHX26RTFEYCMMVC55WQZ/hi-pacs-in-crypto-and-blockchain2.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T21:25:27"
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/white-house-podium-decrypt-style-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T23:31:03"
@@ -236,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/openai-update-shows-new-safeguards-would-have-cut-off-700-rogue-ai-agent-swam-24-hours-faster",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/openai-agent-vault-breach.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T19:30:21"
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-pusat-data-larangan-peringatan",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T07:19:06"
@@ -306,7 +306,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T19:29:12"
@@ -334,7 +334,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
    "img": "https://www.tbstat.com/wp/uploads/2023/04/20230418_Binance_Generic-1200x675.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T10:33:52"
@@ -348,7 +348,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-belum-bikin-fomo-buyer-ternyata-masih-tahan-pelatuk",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T02:30:08"
@@ -418,7 +418,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:30:00"
@@ -480,18 +480,18 @@
    "published_at": "2026-08-31T17:54:15"
   },
   {
-   "id": 2120,
+   "id": 2198,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Deribit pindahkan 90% aset klien ke Coinbase, hentikan cek bukti cadangan harian",
-   "x": "Bursa derivatif kripto Deribit memindahkan mayoritas aset klien ke kustodian Coinbase dan menghentikan pemeriksaan bukti cadangan harian. Perubahan ini mengurangi transparansi publik mengenai aset nasabah.",
+   "t": "Konsensus XRPL macet setelah hapus 12% node pusat, tapi tweak sederhana gandakan pertahanan XRP",
+   "x": "Jaringan XRPL mengalami kelumpuhan konsensus saat hanya 12% node pusat yang dihapus. Namun, modifikasi sederhana pada sistem terbukti mampu meningkatkan pertahanan jaringan secara signifikan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/deribit-moved-90-of-client-assets-to-coinbase-then-killed-its-daily-proof-of-reserves-check",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/deribit-assets-custody-transfer.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/xrpl-consensus-freezes-after-removing-just-12-of-central-nodes-but-a-simple-tweak-triples-xrps-defense",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-network-peer-defense.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T23:20:14"
+   "published_at": "2026-08-31T10:19:49"
   },
   {
    "id": 2224,
@@ -564,18 +564,18 @@
    "published_at": "2026-08-31T20:16:03"
   },
   {
-   "id": 2198,
+   "id": 2315,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Konsensus XRPL macet setelah hapus 12% node pusat, tapi tweak sederhana gandakan pertahanan XRP",
-   "x": "Jaringan XRPL mengalami kelumpuhan konsensus saat hanya 12% node pusat yang dihapus. Namun, modifikasi sederhana pada sistem terbukti mampu meningkatkan pertahanan jaringan secara signifikan.",
+   "t": "Rusia aktifkan pasar kripto yang belum sepenuhnya ada",
+   "x": "Rusia telah mengaktifkan kerangka hukum untuk pasar aset digitalnya, namun banyak ketentuan baru akan berlaku pada 2027. Hal ini menimbulkan pertanyaan tentang operasional pasar tersebut saat ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrpl-consensus-freezes-after-removing-just-12-of-central-nodes-but-a-simple-tweak-triples-xrps-defense",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-network-peer-defense.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/russia-just-switched-on-a-crypto-market-that-doesnt-fully-exist-yet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/russia-crypto-law-transition.jpg",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T10:19:49"
+   "published_at": "2026-09-01T12:20:11"
   },
   {
    "id": 2243,
@@ -648,18 +648,18 @@
    "published_at": "2026-08-31T18:46:04"
   },
   {
-   "id": 2315,
+   "id": 2324,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Rusia aktifkan pasar kripto yang belum sepenuhnya ada",
-   "x": "Rusia telah mengaktifkan kerangka hukum untuk pasar aset digitalnya, namun banyak ketentuan baru akan berlaku pada 2027. Hal ini menimbulkan pertanyaan tentang operasional pasar tersebut saat ini.",
+   "t": "Inggris buru pipa kripto terkait Rusia senilai $86 miliar, gandakan denda sanksi",
+   "x": "Inggris meningkatkan upaya untuk melacak aliran aset kripto yang terkait dengan Rusia senilai $86 miliar. Langkah ini bertujuan untuk memperketat sanksi dan menggandakan denda bagi pelanggar, menunjukkan keseriusan regulator dalam mengawasi transaksi keuangan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/russia-just-switched-on-a-crypto-market-that-doesnt-fully-exist-yet",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/russia-crypto-law-transition.jpg",
-   "a": "10 jam lalu",
+   "url": "https://cryptoslate.com/uk-is-hunting-the-86-billion-russia-linked-crypto-pipeline-as-it-moves-to-double-sanctions-fines",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/a7-network-lockdown-uk.jpg",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T12:20:11"
+   "published_at": "2026-09-01T13:40:22"
   },
   {
    "id": 2191,
@@ -726,24 +726,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/OpenClaw2-gID_7.jpg",
-   "a": "49 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T22:16:04"
   },
   {
-   "id": 2324,
+   "id": 2348,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Inggris buru pipa kripto terkait Rusia senilai $86 miliar, gandakan denda sanksi",
-   "x": "Inggris meningkatkan upaya untuk melacak aliran aset kripto yang terkait dengan Rusia senilai $86 miliar. Langkah ini bertujuan untuk memperketat sanksi dan menggandakan denda bagi pelanggar, menunjukkan keseriusan regulator dalam mengawasi transaksi keuangan.",
+   "t": "Peretas manfaatkan celah otorisasi untuk memicu perulangan pembayaran kripto",
+   "x": "Sebuah peretasan mengeksploitasi kelemahan dalam pemeriksaan nomor seri pesan otorisasi. Celah ini memungkinkan penyerang mengulang permintaan yang sama ribuan kali, menyebabkan kerugian besar pada sistem pembayaran aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uk-is-hunting-the-86-billion-russia-linked-crypto-pipeline-as-it-moves-to-double-sanctions-fines",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/a7-network-lockdown-uk.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cryptoslate.com/how-a-hacker-reused-the-same-authorization-message-1490-times-to-trigger-massive-crypto-payout-loops",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/icon-checkpoint-replay-surge.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T13:40:22"
+   "published_at": "2026-09-01T17:40:14"
   },
   {
    "id": 2253,
@@ -796,7 +796,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ESRB24SSYCV2PQDNVNCJ2Z/blockchain-coin-crypto-payment-logistics.png",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T16:06:58"
@@ -816,18 +816,18 @@
    "published_at": "2026-08-31T17:06:04"
   },
   {
-   "id": 2348,
+   "id": 2133,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peretas manfaatkan celah otorisasi untuk memicu perulangan pembayaran kripto",
-   "x": "Sebuah peretasan mengeksploitasi kelemahan dalam pemeriksaan nomor seri pesan otorisasi. Celah ini memungkinkan penyerang mengulang permintaan yang sama ribuan kali, menyebabkan kerugian besar pada sistem pembayaran aset digital.",
+   "t": "Perusahaan Asuransi Jadi Sumber Masalah Bayangan Baru",
+   "x": "Perusahaan asuransi Delaware Life melaporkan perubahan signifikan dalam klasifikasi aset investasi, menunjukkan potensi risiko yang belum terdeteksi. Perubahan ini menyoroti kerentanan sektor asuransi terhadap penarikan dana besar-besaran.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-a-hacker-reused-the-same-authorization-message-1490-times-to-trigger-massive-crypto-payout-loops",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/icon-checkpoint-replay-surge.jpg",
-   "a": "5 jam lalu",
+   "url": "https://cryptoslate.com/the-next-shadow-banking-problem-may-come-from-insurance-companies-where-nobody-was-looking-for-a-bank-run",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/insurance-shadow-bank.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T17:40:14"
+   "published_at": "2026-08-30T08:33:19"
   },
   {
    "id": 2295,
