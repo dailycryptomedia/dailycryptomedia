@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peretasan-kripto-agustus-2026-rekor-peckshield",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T07:44:17"
@@ -124,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-1200x675.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T12:00:02"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T08:56:21"
@@ -212,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T11:40:11"
+  },
+  {
+   "id": 2372,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Menghentikan blockchain tak selalu pulihkan dana curian: 3 kasus",
+   "x": "Tiga jaringan blockchain menghentikan operasi untuk merespons eksploitasi, namun hasilnya bervariasi dalam pemulihan dana. Insiden ini menyoroti risiko dan kompleksitas dalam penegakan darurat di ekosistem aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/stopping-a-blockchain-doesnt-always-recover-stolen-funds-what-actually-happened-when-3-networks-pulled-the-plug",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cronos-restore-boundaries.jpg",
+   "a": "30 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T22:35:57"
   }
  ]
 }
