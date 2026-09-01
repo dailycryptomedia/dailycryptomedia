@@ -1,8 +1,22 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2290,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Agustus Pecahkan Rekor Peretasan Bulanan 2026 meski Kerugian Turun 49%",
+   "x": "Aset kripto mengalami 50 kasus peretasan besar pada bulan Agustus, jumlah bulanan tertinggi di tahun 2026. Total kerugian turun menjadi US$136,3 juta, turun 49,5% dibandingkan Juli. Perusahaan keamanan blockchain…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/peretasan-kripto-agustus-2026-rekor-peckshield",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "55 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T07:44:17"
+  },
   {
    "id": 2190,
    "k": "defi",
@@ -12,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-staking-entry-backlog.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:25:54"
@@ -46,20 +60,6 @@
    "published_at": "2026-08-31T08:57:10"
   },
   {
-   "id": 2150,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Blockchain Cronos Berhenti Usai Dugaan Upaya Peretasan US$75 Juta",
-   "x": "Cronos menghentikan blockchain-nya setelah eksploitasi Tectonic, menjebak sebagian besar dana yang dicuri sebelum mereka bisa keluar.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cronos-hentikan-blockchain-eksploitasi-tectonic",
-   "img": "https://assets.beincrypto.com/img/X55vSHTmWjn_iRoP-lvNxPHGVoc=/smart/03449aaa37574356be71f302e31bf8cd",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-30T16:19:43"
-  },
-  {
    "id": 2192,
    "k": "defi",
    "cat": "DeFi",
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/robinhood-chain-makin-gacor-volume-dex-tembus-us875-juta",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:15:35"
@@ -86,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T09:41:27"
+  },
+  {
+   "id": 2150,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Blockchain Cronos Berhenti Usai Dugaan Upaya Peretasan US$75 Juta",
+   "x": "Cronos menghentikan blockchain-nya setelah eksploitasi Tectonic, menjebak sebagian besar dana yang dicuri sebelum mereka bisa keluar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cronos-hentikan-blockchain-eksploitasi-tectonic",
+   "img": "https://assets.beincrypto.com/img/X55vSHTmWjn_iRoP-lvNxPHGVoc=/smart/03449aaa37574356be71f302e31bf8cd",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-30T16:19:43"
   },
   {
    "id": 2216,
