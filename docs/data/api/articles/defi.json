@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/robinhood-chain-1-miliar-meme-coin",
    "img": "https://assets.beincrypto.com/img/E4OYJwMTG0337j_MKbnQ7X6r15k=/smart/0c8536503dfa46909e2ab89ad0ff2291",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T12:34:30"
@@ -102,18 +102,18 @@
    "published_at": "2026-09-01T07:44:17"
   },
   {
-   "id": 2291,
+   "id": 2327,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Validator Cronos hapus riwayat transaksi untuk atasi eksploitasi protokol pinjaman senilai US$75 juta",
-   "x": "Validator jaringan Cronos menghapus riwayat transaksi untuk menghentikan eksploitasi protokol pinjaman senilai US$75 juta. Tindakan ini dilakukan untuk menahan aset di rantai, namun pengguna belum mendapat kepastian kapan layanan akan pulih.",
+   "t": "Kompromi oracle lintas rantai picu likuidasi dan pembekuan brankas di DeFi",
+   "x": "Sebuah kompromi pada oracle lintas rantai menyebabkan kerugian brankas dan likuidasi di beberapa jaringan DeFi. Insiden ini menyoroti risiko keamanan yang melekat pada infrastruktur DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
-   "a": "5 jam lalu",
+   "url": "https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/switchboard-oracle-floodgate-crisis.jpg",
+   "a": "9 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T08:56:21"
+   "published_at": "2026-09-01T14:30:15"
   },
   {
    "id": 2311,
@@ -158,18 +158,18 @@
    "published_at": "2026-08-30T16:19:43"
   },
   {
-   "id": 2216,
+   "id": 2291,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
-   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
+   "t": "Validator Cronos hapus riwayat transaksi untuk atasi eksploitasi protokol pinjaman senilai US$75 juta",
+   "x": "Validator jaringan Cronos menghapus riwayat transaksi untuk menghentikan eksploitasi protokol pinjaman senilai US$75 juta. Tindakan ini dilakukan untuk menahan aset di rantai, namun pengguna belum mendapat kepastian kapan layanan akan pulih.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T13:45:33"
+   "published_at": "2026-09-01T08:56:21"
   },
   {
    "id": 2189,
@@ -184,6 +184,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T07:56:08"
+  },
+  {
+   "id": 2216,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
+   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T13:45:33"
   },
   {
    "id": 2141,
