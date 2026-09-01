@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T07:00:39"
+  },
+  {
+   "id": 2320,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
+   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
+   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
+   "a": "25 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T13:13:07"
   },
   {
    "id": 2298,
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T20:25:25"
@@ -96,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T13:20:05"
