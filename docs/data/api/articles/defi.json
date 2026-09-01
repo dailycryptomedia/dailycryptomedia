@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peretasan-kripto-agustus-2026-rekor-peckshield",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "55 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T07:44:17"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BE6GQ6SXNVS4KFF2WV7WJH/hi-what-is-dns-hijacking-1.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:57:10"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T09:41:27"
@@ -102,18 +102,18 @@
    "published_at": "2026-08-30T16:19:43"
   },
   {
-   "id": 2216,
+   "id": 2291,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
-   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
+   "t": "Validator Cronos hapus riwayat transaksi untuk atasi eksploitasi protokol pinjaman senilai US$75 juta",
+   "x": "Validator jaringan Cronos menghapus riwayat transaksi untuk menghentikan eksploitasi protokol pinjaman senilai US$75 juta. Tindakan ini dilakukan untuk menahan aset di rantai, namun pengguna belum mendapat kepastian kapan layanan akan pulih.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
-   "a": "18 jam lalu",
+   "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
+   "a": "10 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T13:45:33"
+   "published_at": "2026-09-01T08:56:21"
   },
   {
    "id": 2176,
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T07:56:08"
+  },
+  {
+   "id": 2216,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
+   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T13:45:33"
   },
   {
    "id": 2141,
