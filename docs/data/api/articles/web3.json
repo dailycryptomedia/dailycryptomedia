@@ -1,8 +1,22 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2340,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "X (Twitter) Alert: Serangan Reset Password Besar Breakout",
+   "x": "Sebuah serangan reset password menghantam X pada hari Selasa. X tidak menemukan adanya pelanggaran dan menyalahkan pelaku yang memburu wallet X Money.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/x-password-reset-attack-tanpa-pelanggaraan",
+   "img": "https://assets.beincrypto.com/img/I3D2zlHOQWRw-vz7ciL28Jvy-yI=/smart/4cdf7e7bfe9343bbaf408a563e0d9491",
+   "a": "23 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T16:11:48"
+  },
   {
    "id": 2264,
    "k": "web3",
@@ -16,20 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T22:40:23"
-  },
-  {
-   "id": 2269,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Akankah Tuduhan terhadap Korea Utara Menghambat Rencana Masuk Hyperliquid ke AS?",
-   "x": "Wallet Lazarus Group memindahkan $30 juta melalui Hyperliquid saat Trump mendorong masuknya exchange tersebut ke AS.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/hyperliquid-korea-utara-lazarus-masuk-as",
-   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T01:47:00"
   },
   {
    "id": 2137,
@@ -60,6 +60,20 @@
    "published_at": "2026-08-31T16:38:00"
   },
   {
+   "id": 2269,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Akankah Tuduhan terhadap Korea Utara Menghambat Rencana Masuk Hyperliquid ke AS?",
+   "x": "Wallet Lazarus Group memindahkan $30 juta melalui Hyperliquid saat Trump mendorong masuknya exchange tersebut ke AS.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/hyperliquid-korea-utara-lazarus-masuk-as",
+   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T01:47:00"
+  },
+  {
    "id": 2335,
    "k": "web3",
    "cat": "Web3",
@@ -68,24 +82,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bai-cover.jpg",
-   "a": "43 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:10:03"
-  },
-  {
-   "id": 2204,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Kripto Anda Bisa Gantikan Skor Kredit — CEO Coinbase Berpendapat Demikian",
-   "x": "Brian Armstrong mengatakan reputasi onchain akan menggantikan skor kredit saat pemberi pinjaman kripto menguji pinjaman tanpa jaminan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/onchain-reputasi-skor-kredit-coinbase",
-   "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-31T11:54:13"
   },
   {
    "id": 2115,
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-29T20:28:51"
+  },
+  {
+   "id": 2204,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Kripto Anda Bisa Gantikan Skor Kredit — CEO Coinbase Berpendapat Demikian",
+   "x": "Brian Armstrong mengatakan reputasi onchain akan menggantikan skor kredit saat pemberi pinjaman kripto menguji pinjaman tanpa jaminan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/onchain-reputasi-skor-kredit-coinbase",
+   "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-31T11:54:13"
   },
   {
    "id": 2173,
