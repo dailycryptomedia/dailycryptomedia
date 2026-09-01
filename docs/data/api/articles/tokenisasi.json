@@ -1,5 +1,5 @@
 {
- "total": 26,
+ "total": 28,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T06:54:07"
+  },
+  {
+   "id": 2367,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Nvidia investasikan $3,5 miliar ke MediaTek perluas bisnis di luar GPU",
+   "x": "Nvidia berinvestasi pada MediaTek sebagai bagian dari penawaran obligasi raksasa perusahaan Taiwan tersebut. Langkah ini memperluas ekosistem chip Nvidia ke pesaing yang juga mengembangkan akselerator AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+   "a": "5 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T21:31:04"
   },
   {
    "id": 2156,
@@ -60,20 +74,6 @@
    "published_at": "2026-08-31T15:04:14"
   },
   {
-   "id": 2347,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Solana Treasury DeFi Development Corp targetkan dana $20 juta untuk beli SOL",
-   "x": "Perusahaan publik yang berfokus pada ekosistem Solana berencana menggalang dana untuk menambah kepemilikan aset kripto SOL. Langkah ini menunjukkan kepercayaan terhadap potensi aset digital tersebut di pasar.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T18:03:47"
-  },
-  {
    "id": 2138,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -86,6 +86,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-30T10:12:28"
+  },
+  {
+   "id": 2347,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Solana Treasury DeFi Development Corp targetkan dana $20 juta untuk beli SOL",
+   "x": "Perusahaan publik yang berfokus pada ekosistem Solana berencana menggalang dana untuk menambah kepemilikan aset kripto SOL. Langkah ini menunjukkan kepercayaan terhadap potensi aset digital tersebut di pasar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T18:03:47"
   },
   {
    "id": 2209,
@@ -110,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:13:05"
@@ -124,24 +138,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
    "img": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-1074x675.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:26:02"
-  },
-  {
-   "id": 2207,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Robinhood Chain lampaui Ethereum dan Base dalam biaya transaksi",
-   "x": "Blockchain baru milik Robinhood mengalami lonjakan metrik, termasuk biaya transaksi. Fenomena ini didorong oleh popularitas token saham yang ditokenisasi dan memecoin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T12:37:44"
   },
   {
    "id": 2177,
@@ -156,6 +156,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T03:04:29"
+  },
+  {
+   "id": 2207,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Robinhood Chain lampaui Ethereum dan Base dalam biaya transaksi",
+   "x": "Blockchain baru milik Robinhood mengalami lonjakan metrik, termasuk biaya transaksi. Fenomena ini didorong oleh popularitas token saham yang ditokenisasi dan memecoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T12:37:44"
   },
   {
    "id": 2147,
@@ -200,18 +214,18 @@
    "published_at": "2026-08-31T14:17:57"
   },
   {
-   "id": 2346,
+   "id": 2368,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Top 100 Saham London Akan Masuk ke Aset Kripto, Tapi Ada Syaratnya",
-   "x": "Payward akan melakukan tokenisasi 100 saham teratas London sebagai xStocks untuk investor di 110 negara. Penduduk Inggris tidak dapat mengaksesnya.",
+   "t": "Robert Kiyosaki Berutang US$1,2 Miliar: Apakah Bitcoinnya Terancam?",
+   "x": "Robert Kiyosaki mengatakan ia memiliki utang sebesar $1,2 miliar. Pinjaman tersebut berada pada apartemen, bukan pada Bitcoin dan emas yang ia promosikan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-london-tokenisasi-lse-payward",
-   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "3 jam lalu",
+   "url": "https://id.beincrypto.com/robert-kiyosaki-utang-bitcoin-properti",
+   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
+   "a": "29 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T17:31:08"
+   "published_at": "2026-09-01T21:06:51"
   },
   {
    "id": 2132,
@@ -236,24 +250,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
    "img": "https://www.tbstat.com/wp/uploads/2026/02/Dat-Image-1200x675.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T18:11:02"
   },
   {
-   "id": 2259,
+   "id": 2346,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perlombaan Stablecoin Bisa Membuat Pinjaman Bank Jadi Lebih Mahal",
-   "x": "Stablecoin Bisa Membuat Pinjaman Jadi Lebih Mahal. Itulah peringatan dari kepala Bank for International Settlements, Pablo Hernández de Cos, pada 28 Agustus, ketika bank semakin berkembang ke ranah uang digital. Aset…",
+   "t": "Top 100 Saham London Akan Masuk ke Aset Kripto, Tapi Ada Syaratnya",
+   "x": "Payward akan melakukan tokenisasi 100 saham teratas London sebagai xStocks untuk investor di 110 negara. Penduduk Inggris tidak dapat mengaksesnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bank-stablecoin-biaya-peminjaman",
-   "img": "https://assets.beincrypto.com/img/L3_8rL4gKUfdMCd7Jumd1cK5KHQ=/smart/b4d680d767024951808bb9e6a2215b7e",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/saham-london-tokenisasi-lse-payward",
+   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T21:25:44"
+   "published_at": "2026-09-01T17:31:08"
   },
   {
    "id": 2300,
@@ -270,18 +284,18 @@
    "published_at": "2026-09-01T10:00:00"
   },
   {
-   "id": 2305,
+   "id": 2259,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perusahaan Treasury Solana Tawarkan Dividen 13% untuk Danai Pembelian SOL Berikutnya",
-   "x": "DeFi Development Corp. berencana mengumpulkan dana hingga US$20 juta melalui penawaran saham preferen. Saham ini menawarkan tingkat dividen tahunan awal sebesar 13%. Perusahaan treasury Solana (SOL) ini ingin…",
+   "t": "Perlombaan Stablecoin Bisa Membuat Pinjaman Bank Jadi Lebih Mahal",
+   "x": "Stablecoin Bisa Membuat Pinjaman Jadi Lebih Mahal. Itulah peringatan dari kepala Bank for International Settlements, Pablo Hernández de Cos, pada 28 Agustus, ketika bank semakin berkembang ke ranah uang digital. Aset…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
-   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
-   "a": "10 jam lalu",
+   "url": "https://id.beincrypto.com/bank-stablecoin-biaya-peminjaman",
+   "img": "https://assets.beincrypto.com/img/L3_8rL4gKUfdMCd7Jumd1cK5KHQ=/smart/b4d680d767024951808bb9e6a2215b7e",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T10:23:16"
+   "published_at": "2026-08-31T21:25:44"
   },
   {
    "id": 2316,
@@ -298,6 +312,34 @@
    "published_at": "2026-09-01T13:00:00"
   },
   {
+   "id": 2305,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan Treasury Solana Tawarkan Dividen 13% untuk Danai Pembelian SOL Berikutnya",
+   "x": "DeFi Development Corp. berencana mengumpulkan dana hingga US$20 juta melalui penawaran saham preferen. Saham ini menawarkan tingkat dividen tahunan awal sebesar 13%. Perusahaan treasury Solana (SOL) ini ingin…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
+   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T10:23:16"
+  },
+  {
+   "id": 2330,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin datar di tengah badai pasar obligasi global",
+   "x": "Imbal hasil obligasi global mencapai rekor tertinggi dalam beberapa dekade, namun Bitcoin tetap stabil di kisaran $78.000. Ini menunjukkan Bitcoin belum terpengaruh oleh gejolak pasar obligasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T15:34:00"
+  },
+  {
    "id": 2231,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -312,18 +354,18 @@
    "published_at": "2026-08-31T15:14:35"
   },
   {
-   "id": 2330,
+   "id": 2235,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin datar di tengah badai pasar obligasi global",
-   "x": "Imbal hasil obligasi global mencapai rekor tertinggi dalam beberapa dekade, namun Bitcoin tetap stabil di kisaran $78.000. Ini menunjukkan Bitcoin belum terpengaruh oleh gejolak pasar obligasi.",
+   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
+   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
-   "a": "5 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T15:34:00"
+   "published_at": "2026-08-31T16:38:51"
   },
   {
    "id": 2167,
@@ -338,20 +380,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-30T22:00:00"
-  },
-  {
-   "id": 2235,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
-   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T16:38:51"
   },
   {
    "id": 2258,
