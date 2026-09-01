@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
    "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T13:13:07"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T20:25:25"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T15:46:03"
@@ -88,18 +88,18 @@
    "published_at": "2026-08-30T17:51:54"
   },
   {
-   "id": 2221,
+   "id": 2334,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Perbedaan proposal SEC dan Kongres AS soal aset kripto",
-   "x": "Proposal Komisi Sekuritas dan Bursa AS (SEC) dan kerangka kerja aset tambahan Kongres berbeda dalam hal kualifikasi pihak, hak investor, dan interaksi aturan. Perbedaan ini krusial bagi lanskap regulasi aset digital di Amerika Serikat.",
+   "t": "Strategi pakai kata SEC MSCI untuk ancam MSTR $24 miliar",
+   "x": "Sebuah strategi menantang klasifikasi MSCI dengan menggunakan argumen regulator yang pernah dilontarkan MSCI sendiri. Hal ini memaksa MSCI menilai apakah Bitcoin layak masuk dalam bisnis operasional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/sec-bitcoin-tug-war.jpg",
+   "a": "2 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T14:50:46"
+   "published_at": "2026-09-01T15:50:55"
   },
   {
    "id": 2211,
@@ -130,6 +130,20 @@
    "published_at": "2026-08-31T11:10:44"
   },
   {
+   "id": 2221,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Perbedaan proposal SEC dan Kongres AS soal aset kripto",
+   "x": "Proposal Komisi Sekuritas dan Bursa AS (SEC) dan kerangka kerja aset tambahan Kongres berbeda dalam hal kualifikasi pihak, hak investor, dan interaksi aturan. Perbedaan ini krusial bagi lanskap regulasi aset digital di Amerika Serikat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T14:50:46"
+  },
+  {
    "id": 2261,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/phemex-token-risk-review.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T21:50:11"

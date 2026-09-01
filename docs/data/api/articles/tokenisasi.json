@@ -1,5 +1,5 @@
 {
- "total": 23,
+ "total": 24,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -124,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
    "img": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-1074x675.jpg",
-   "a": "40 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:26:02"
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:13:05"
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bank-stablecoin-biaya-peminjaman",
    "img": "https://assets.beincrypto.com/img/L3_8rL4gKUfdMCd7Jumd1cK5KHQ=/smart/b4d680d767024951808bb9e6a2215b7e",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T21:25:44"
@@ -222,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
    "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T10:23:16"
@@ -250,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-carry-trade-jepang-yield-tinggi",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T15:14:35"
@@ -284,18 +284,18 @@
    "published_at": "2026-08-30T22:00:00"
   },
   {
-   "id": 2235,
+   "id": 2330,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
-   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
+   "t": "Bitcoin datar di tengah badai pasar obligasi global",
+   "x": "Imbal hasil obligasi global mencapai rekor tertinggi dalam beberapa dekade, namun Bitcoin tetap stabil di kisaran $78.000. Ini menunjukkan Bitcoin belum terpengaruh oleh gejolak pasar obligasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
+   "a": "19 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T16:38:51"
+   "published_at": "2026-09-01T15:34:00"
   },
   {
    "id": 2258,
@@ -310,6 +310,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T21:00:00"
+  },
+  {
+   "id": 2235,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
+   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T16:38:51"
   },
   {
    "id": 2108,

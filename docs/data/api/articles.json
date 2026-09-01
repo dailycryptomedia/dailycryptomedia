@@ -1,5 +1,5 @@
 {
- "total": 217,
+ "total": 220,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-1200x675.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T11:33:23"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/beincrypto-bermitra-dengan-token2049-singapura-2026",
    "img": "https://assets.beincrypto.com/img/pMZW3eWOVfTjQn_c3KO4XS0fQ8Q=/smart/980f771a50d043cfbe963896d342dc22",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T15:52:52"
@@ -124,24 +124,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M147DZTCHD31BVRCJN6E980E/magazinedoes-paper-bitcoin-and-derivatives-mean-there-is-an-unlimited-supply.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:30:00"
   },
   {
-   "id": 2146,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pengembang Bitcoin veteran Luke Dashjr keluar dari pool OCEAN",
-   "x": "Pengembang Bitcoin veteran Luke Dashjr meninggalkan OCEAN pool. Keputusannya dapat memicu perpindahan hash power ke pool baru, yang berpotensi memengaruhi jaringan Bitcoin.",
+   "id": 2334,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Strategi pakai kata SEC MSCI untuk ancam MSTR $24 miliar",
+   "x": "Sebuah strategi menantang klasifikasi MSCI dengan menggunakan argumen regulator yang pernah dilontarkan MSCI sendiri. Hal ini memaksa MSCI menilai apakah Bitcoin layak masuk dalam bisnis operasional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/veteran-bitcoin-developer-luke-dashjr-exits-ocean-pool-will-hash-power-follow-him-to-new-pool",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ocean-convoy-crossroads.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/sec-bitcoin-tug-war.jpg",
+   "a": "2 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T14:00:58"
+   "published_at": "2026-09-01T15:50:55"
   },
   {
    "id": 2163,
@@ -208,24 +208,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T20:25:25"
   },
   {
-   "id": 2107,
+   "id": 2146,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin hadapi ujian makro baru saat inflasi AS sulit turun",
-   "x": "Inflasi yang sulit turun di AS menjadi tantangan baru bagi Bitcoin. Investor institusi dan pembelian kembali obligasi negara mungkin meredam volatilitas, namun tidak menggantikan disinflasi.",
+   "t": "Pengembang Bitcoin veteran Luke Dashjr keluar dari pool OCEAN",
+   "x": "Pengembang Bitcoin veteran Luke Dashjr meninggalkan OCEAN pool. Keputusannya dapat memicu perpindahan hash power ke pool baru, yang berpotensi memengaruhi jaringan Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warsh-policy-collision.jpg",
+   "url": "https://cryptoslate.com/veteran-bitcoin-developer-luke-dashjr-exits-ocean-pool-will-hash-power-follow-him-to-new-pool",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ocean-convoy-crossroads.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T16:30:58"
+   "published_at": "2026-08-30T14:00:58"
   },
   {
    "id": 2255,
@@ -298,18 +298,18 @@
    "published_at": "2026-09-01T10:56:41"
   },
   {
-   "id": 2106,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "SEC Tinjau Ulang Jalur Pengajuan Otomatis ETF Kripto Eksotis",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) meninjau ulang proses pengajuan setelah membanjirnya proposal ETF kripto yang tidak biasa. Hal ini menunjukkan upaya regulator untuk mengelola produk investasi baru yang kompleks di pasar.",
+   "id": 2107,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin hadapi ujian makro baru saat inflasi AS sulit turun",
+   "x": "Inflasi yang sulit turun di AS menjadi tantangan baru bagi Bitcoin. Investor institusi dan pembelian kembali obligasi negara mungkin meredam volatilitas, namun tidak menggantikan disinflasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-sec-is-reviewing-automatic-filing-pathways-after-exotic-crypto-and-event-linked-etf-proposals-flooded-the-market",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cracked-etf-capsule.jpg",
+   "url": "https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warsh-policy-collision.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T15:30:47"
+   "published_at": "2026-08-29T16:30:58"
   },
   {
    "id": 2109,
@@ -396,18 +396,18 @@
    "published_at": "2026-08-31T06:30:46"
   },
   {
-   "id": 2105,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Koin Bitcoin Tertua Bangkit di 2026 dengan Kecepatan Tak Biasa",
-   "x": "Koin Bitcoin yang tidak tersentuh selama lebih dari 10 tahun mulai bergerak aktif di tahun 2026. Pergerakan dana senilai $40 juta dari dompet kuno ini menandakan potensi aktivitas pasar yang meningkat.",
+   "id": 2168,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan Operator Teleprompter Gedung Putih Didenda karena Perdagangan Orang Dalam",
+   "x": "Seorang mantan operator teleprompter Gedung Putih dihukum karena menggunakan akses informasi pidato presiden untuk keuntungan pribadi di pasar prediksi. Kasus ini menyoroti risiko penyalahgunaan informasi rahasia, bahkan di luar ranah keuangan tradisional.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/white-house-podium-decrypt-style-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-29T15:31:04"
+   "published_at": "2026-08-30T23:31:03"
   },
   {
    "id": 2157,
@@ -480,18 +480,18 @@
    "published_at": "2026-08-29T20:00:30"
   },
   {
-   "id": 2168,
+   "id": 2145,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mantan Operator Teleprompter Gedung Putih Didenda karena Perdagangan Orang Dalam",
-   "x": "Seorang mantan operator teleprompter Gedung Putih dihukum karena menggunakan akses informasi pidato presiden untuk keuntungan pribadi di pasar prediksi. Kasus ini menyoroti risiko penyalahgunaan informasi rahasia, bahkan di luar ranah keuangan tradisional.",
+   "t": "AI Labs Minta Pertahanan Siber Lebih Kuat Pasca Modelnya Meretas Perusahaan",
+   "x": "Lebih dari 100 organisasi AI, keamanan, dan teknologi mendesak pemerintah serta industri untuk bersiap menghadapi serangan siber yang didukung model AI canggih. Permintaan ini menyoroti potensi risiko keamanan yang muncul seiring perkembangan pesat teknologi kecerdasan buatan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/white-house-podium-decrypt-style-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T23:31:03"
+   "published_at": "2026-08-30T13:31:04"
   },
   {
    "id": 2225,
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-belum-bikin-fomo-buyer-ternyata-masih-tahan-pelatuk",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T02:30:08"
@@ -530,7 +530,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-pusat-data-larangan-peringatan",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T07:19:06"
@@ -564,18 +564,18 @@
    "published_at": "2026-08-30T20:00:26"
   },
   {
-   "id": 2145,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "AI Labs Minta Pertahanan Siber Lebih Kuat Pasca Modelnya Meretas Perusahaan",
-   "x": "Lebih dari 100 organisasi AI, keamanan, dan teknologi mendesak pemerintah serta industri untuk bersiap menghadapi serangan siber yang didukung model AI canggih. Permintaan ini menyoroti potensi risiko keamanan yang muncul seiring perkembangan pesat teknologi kecerdasan buatan.",
+   "id": 2237,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin stabil di tengah gejolak saham dan kenaikan minyak akibat serangan AS ke Iran",
+   "x": "Bitcoin menguat di tengah ketegangan geopolitik yang memicu kenaikan harga minyak dan menekan pasar saham. Penguatan ini terjadi saat aset digital terbesar itu mencatat performa bulanan terbaik sejak 2017.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T13:31:04"
+   "published_at": "2026-08-31T16:55:46"
   },
   {
    "id": 2283,
@@ -614,7 +614,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/santos-kalshi-lifetime-trading-ban",
    "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T00:47:08"
@@ -648,32 +648,32 @@
    "published_at": "2026-08-30T12:30:29"
   },
   {
-   "id": 2237,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin stabil di tengah gejolak saham dan kenaikan minyak akibat serangan AS ke Iran",
-   "x": "Bitcoin menguat di tengah ketegangan geopolitik yang memicu kenaikan harga minyak dan menekan pasar saham. Penguatan ini terjadi saat aset digital terbesar itu mencatat performa bulanan terbaik sejak 2017.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T16:55:46"
-  },
-  {
-   "id": 2303,
+   "id": 2242,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Binance tambah opsi saham AS dan ETF, volume derivatif capai $433 miliar",
-   "x": "Bursa kripto Binance kini menawarkan opsi pada 1.000 saham dan ETF tradisional AS. Volume perdagangan derivatif keuangan tradisional di platform tersebut melonjak signifikan sejak awal tahun.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
-   "img": "https://www.tbstat.com/wp/uploads/2023/04/20230418_Binance_Generic-1200x675.jpg",
-   "a": "4 jam lalu",
+   "t": "Hyperliquid jajaki kesepakatan dengan induk Kraken untuk bawa derivatif ke AS",
+   "x": "Bursa terdesentralisasi Hyperliquid sedang bernegosiasi untuk membawa produk derivatifnya ke AS melalui anak usaha Kraken. Kesepakatan ini akan menandai masuknya Hyperliquid ke pasar Amerika, sejalan dengan pernyataan mantan presiden Trump.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T10:33:52"
+   "published_at": "2026-08-31T17:54:15"
+  },
+  {
+   "id": 2333,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Saham Cango anjlok 20% setelah rugi $81,6 juta",
+   "x": "Perusahaan penambang Bitcoin Cango melaporkan kerugian kuartal kedua sebesar $81,6 juta. Perusahaan mengurangi armada penambangan dan fokus pada efisiensi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
+   "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
+   "a": "5 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T15:48:19"
   },
   {
    "id": 2192,
@@ -732,32 +732,32 @@
    "published_at": "2026-08-30T09:30:10"
   },
   {
-   "id": 2242,
+   "id": 2254,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Hyperliquid jajaki kesepakatan dengan induk Kraken untuk bawa derivatif ke AS",
-   "x": "Bursa terdesentralisasi Hyperliquid sedang bernegosiasi untuk membawa produk derivatifnya ke AS melalui anak usaha Kraken. Kesepakatan ini akan menandai masuknya Hyperliquid ke pasar Amerika, sejalan dengan pernyataan mantan presiden Trump.",
+   "t": "George Santos dilarang seumur hidup dari bursa prediksi",
+   "x": "Bursa prediksi Kalshi melarang mantan anggota kongres AS George Santos seumur hidup. Ia dituduh melakukan manipulasi pasar dengan bertaruh pada kehadirannya sendiri di acara kenegaraan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg",
-   "a": "21 jam lalu",
+   "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/george-santos-decrypt-style-gID_7.jpg",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T17:54:15"
+   "published_at": "2026-08-31T20:16:03"
   },
   {
-   "id": 2322,
+   "id": 2303,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Silhouette luncurkan perdagangan RFQ untuk xStocks di Hyperliquid",
-   "x": "Silhouette memperkenalkan perdagangan RFQ untuk xStocks di Hyperliquid, memungkinkan market maker bersaing dalam perdagangan ekuitas ter-tokenisasi yang diselesaikan on-chain. Ini membuka jalan baru untuk perdagangan aset dunia nyata di blockchain.",
+   "t": "Binance tambah opsi saham AS dan ETF, volume derivatif capai $433 miliar",
+   "x": "Bursa kripto Binance kini menawarkan opsi pada 1.000 saham dan ETF tradisional AS. Volume perdagangan derivatif keuangan tradisional di platform tersebut melonjak signifikan sejak awal tahun.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
-   "a": "1 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
+   "img": "https://www.tbstat.com/wp/uploads/2023/04/20230418_Binance_Generic-1200x675.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T13:30:00"
+   "published_at": "2026-09-01T10:33:52"
   },
   {
    "id": 2125,
@@ -816,32 +816,32 @@
    "published_at": "2026-08-31T11:30:03"
   },
   {
-   "id": 2254,
+   "id": 2247,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "George Santos dilarang seumur hidup dari bursa prediksi",
-   "x": "Bursa prediksi Kalshi melarang mantan anggota kongres AS George Santos seumur hidup. Ia dituduh melakukan manipulasi pasar dengan bertaruh pada kehadirannya sendiri di acara kenegaraan.",
+   "t": "Sberbank Rusia Catat $46 Miliar Perdagangan Kripto, Siap Beri Pinjaman Berbasis ETH dan USDT",
+   "x": "Bank terbesar Rusia, Sberbank, melaporkan potensi volume perdagangan aset kripto mencapai 4 triliun rubel dalam setahun. Bank ini juga berencana menawarkan pinjaman yang dijamin oleh Ethereum dan USDT setelah mendapat persetujuan regulator.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/george-santos-decrypt-style-gID_7.jpg",
-   "a": "18 jam lalu",
+   "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T20:16:03"
+   "published_at": "2026-08-31T18:46:04"
   },
   {
-   "id": 2311,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ethena luncurkan aplikasi Ethena Pay di Avalanche, tawarkan imbal hasil 6%",
-   "x": "Ethena meluncurkan versi beta aplikasi Ethena Pay yang dibangun di atas Avalanche. Aplikasi ini memungkinkan pengguna di 48 negara melakukan pembayaran dengan imbal hasil hingga 6% dan cashback 10%.",
+   "id": 2322,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Silhouette luncurkan perdagangan RFQ untuk xStocks di Hyperliquid",
+   "x": "Silhouette memperkenalkan perdagangan RFQ untuk xStocks di Hyperliquid, memungkinkan market maker bersaing dalam perdagangan ekuitas ter-tokenisasi yang diselesaikan on-chain. Ini membuka jalan baru untuk perdagangan aset dunia nyata di blockchain.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-1200x675.jpg",
-   "a": "3 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T12:00:02"
+   "published_at": "2026-09-01T13:30:00"
   }
  ]
 }
