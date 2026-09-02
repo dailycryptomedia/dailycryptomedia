@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,6 +60,20 @@
    "published_at": "2026-08-31T21:46:04"
   },
   {
+   "id": 2392,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Firma Trump Jr. pimpin pendanaan Polymarket, valuasi capai US$21 miliar",
+   "x": "Perusahaan milik Donald Trump Jr. memimpin putaran pendanaan baru untuk platform pasar prediksi Polymarket. Kesepakatan ini menaikkan valuasi Polymarket menjadi US$21 miliar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/firma-trump-jr-pimpin-pendanaan-polymarket-valuasi-tembus-us21-miliar",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T03:00:07"
+  },
+  {
    "id": 2265,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -96,10 +110,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DY16J8V7YX1BYDHMX0HB5A/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-1.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T07:47:13"
+  },
+  {
+   "id": 2390,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "US$2,7 juta masuk aplikasi Robinhood Chain dalam sehari, tapi tak sentuh pendapatan korporat",
+   "x": "Aplikasi di jaringan Robinhood Chain berhasil menarik dana sebesar US$2,7 juta dalam satu hari. Namun, pendapatan ini tidak tersalurkan ke rekening korporat perusahaan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/robinhood-chains-2-7-million-app-day-says-little-about-robinhoods-actual-take",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/robinhood-revenue-piggy-bank.jpg",
+   "a": "25 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T03:40:45"
   }
  ]
 }
