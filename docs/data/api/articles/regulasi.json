@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -172,18 +172,18 @@
    "published_at": "2026-09-02T10:22:36"
   },
   {
-   "id": 2221,
+   "id": 2461,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Perbedaan proposal SEC dan Kongres AS soal aset kripto",
-   "x": "Proposal Komisi Sekuritas dan Bursa AS (SEC) dan kerangka kerja aset tambahan Kongres berbeda dalam hal kualifikasi pihak, hak investor, dan interaksi aturan. Perbedaan ini krusial bagi lanskap regulasi aset digital di Amerika Serikat.",
+   "t": "SEC ubah aturan Wall Street 50 tahun agar blockchain publik tentukan kepemilikan saham",
+   "x": "Regulator AS merevisi aturan lama untuk memungkinkan blockchain publik menentukan kepemilikan saham secara legal. Perubahan ini berpotensi memengaruhi cara aset digital diperdagangkan dan dicatat di masa depan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
+   "a": "5 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T14:50:46"
+   "published_at": "2026-09-02T17:00:19"
   },
   {
    "id": 2344,
@@ -194,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T17:52:51"
@@ -214,18 +214,18 @@
    "published_at": "2026-08-31T11:10:44"
   },
   {
-   "id": 2261,
+   "id": 2221,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Phemex beri peringatan 82 token terkait likuiditas dan kepatuhan",
-   "x": "Bursa kripto Phemex memberi peringatan kepada 82 token karena masalah likuiditas dan kepatuhan proyek. Langkah ini menyoroti pentingnya standar operasional yang ketat di pasar aset digital.",
+   "t": "Perbedaan proposal SEC dan Kongres AS soal aset kripto",
+   "x": "Proposal Komisi Sekuritas dan Bursa AS (SEC) dan kerangka kerja aset tambahan Kongres berbeda dalam hal kualifikasi pihak, hak investor, dan interaksi aturan. Perbedaan ini krusial bagi lanskap regulasi aset digital di Amerika Serikat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/phemex-token-risk-review.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/why-the-secs-75-million-crypto-path-isnt-the-same-deal-congress-is-offering",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-rulebook-tug.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T21:50:11"
+   "published_at": "2026-08-31T14:50:46"
   },
   {
    "id": 2359,
@@ -240,6 +240,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T20:14:12"
+  },
+  {
+   "id": 2261,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Phemex beri peringatan 82 token terkait likuiditas dan kepatuhan",
+   "x": "Bursa kripto Phemex memberi peringatan kepada 82 token karena masalah likuiditas dan kepatuhan proyek. Langkah ini menyoroti pentingnya standar operasional yang ketat di pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/phemex-token-risk-review.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T21:50:11"
+  },
+  {
+   "id": 2459,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Ondo dorong SEC, CFTC bawa perpetual AS ke daratan",
+   "x": "Ondo Finance meminta regulator AS untuk memindahkan perdagangan produk derivatif perpetual yang terkait dengan saham ke dalam negeri. Hal ini bertujuan agar regulasi yang ada dapat mengakomodasi aktivitas derivatif yang lebih luas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+   "a": "26 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T16:39:22"
   },
   {
    "id": 2382,
