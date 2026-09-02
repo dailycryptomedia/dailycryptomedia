@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/gta-6-leaker-meraup-350k-cyberleek",
    "img": "https://assets.beincrypto.com/img/TEFmUTvj_Yt0FmD6C_op-us9c_w=/smart/b95d8637242c400ca02dde83b57e0072",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T23:10:58"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-staking-entry-backlog.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:25:54"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/robinhood-chain-makin-gacor-volume-dex-tembus-us875-juta",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:15:35"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/robinhood-chain-1-miliar-meme-coin",
    "img": "https://assets.beincrypto.com/img/E4OYJwMTG0337j_MKbnQ7X6r15k=/smart/0c8536503dfa46909e2ab89ad0ff2291",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T12:34:30"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/switchboard-oracle-floodgate-crisis.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:30:15"
@@ -186,18 +186,18 @@
    "published_at": "2026-08-30T16:19:43"
   },
   {
-   "id": 2216,
+   "id": 2412,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
-   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
+   "t": "DeFi Technologies lewat tenggat Nasdaq $1, saham DEFT ditinjau untuk delisting",
+   "x": "DeFi Technologies gagal memenuhi syarat harga penutupan minimum di Nasdaq, sehingga sahamnya DEFT berisiko dihapus dari pencatatan. Kegagalan ini dapat memengaruhi kepercayaan investor terhadap perusahaan yang beroperasi di sektor aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/deft-nasdaq-cliff.jpg",
+   "a": "18 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T13:45:33"
+   "published_at": "2026-09-02T08:20:13"
   },
   {
    "id": 2189,
@@ -212,6 +212,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T07:56:08"
+  },
+  {
+   "id": 2216,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Protokol DeFi kehilangan $83 juta akibat serangan yang sudah diperingatkan regulator",
+   "x": "Aktor jahat menyerang dua protokol DeFi, menyebabkan kerugian lebih dari $84 juta dalam empat hari menggunakan strategi manipulasi harga yang sebelumnya diwaspadai regulator AS. Insiden terbesar terjadi pada Tectonic di blockchain Cronos, dengan kerugian diperkirakan mencapai $75 juta.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T13:45:33"
   },
   {
    "id": 2141,
@@ -236,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stopping-a-blockchain-doesnt-always-recover-stolen-funds-what-actually-happened-when-3-networks-pulled-the-plug",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cronos-restore-boundaries.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T22:35:57"

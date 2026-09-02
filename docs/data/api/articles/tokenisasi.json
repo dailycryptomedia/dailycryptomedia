@@ -1,5 +1,5 @@
 {
- "total": 32,
+ "total": 31,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T21:31:04"
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:13:05"
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
    "img": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-1074x675.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:26:02"
@@ -242,48 +242,6 @@
    "published_at": "2026-09-01T21:06:51"
   },
   {
-   "id": 2132,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Real Trump Coins bantah luncurkan token GOLD, salahkan 'aktor jahat'",
-   "x": "Real Trump Coins membantah telah meluncurkan token GOLD atau aset digital lainnya. Tuduhan ini muncul di tengah pertanyaan seputar akun X dan pasokan token yang terkonsentrasi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M18SAPB6CQTXR7T638XMWVRB/hi-top-crypto-cyber-threats.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T08:04:56"
-  },
-  {
-   "id": 2349,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan treasury kripto capai kapitalisasi pasar $340 miliar seiring altcoin DAT unggul",
-   "x": "Kapitalisasi pasar gabungan perusahaan treasury kripto naik 10% sejak pertengahan Agustus, mencapai sekitar $340 miliar. Kinerja altcoin DAT dilaporkan melampaui aset lainnya.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
-   "img": "https://www.tbstat.com/wp/uploads/2026/02/Dat-Image-1200x675.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T18:11:02"
-  },
-  {
-   "id": 2346,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Top 100 Saham London Akan Masuk ke Aset Kripto, Tapi Ada Syaratnya",
-   "x": "Payward akan melakukan tokenisasi 100 saham teratas London sebagai xStocks untuk investor di 110 negara. Penduduk Inggris tidak dapat mengaksesnya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-london-tokenisasi-lse-payward",
-   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T17:31:08"
-  },
-  {
    "id": 2300,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -298,18 +256,32 @@
    "published_at": "2026-09-01T10:00:00"
   },
   {
-   "id": 2259,
+   "id": 2349,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perlombaan Stablecoin Bisa Membuat Pinjaman Bank Jadi Lebih Mahal",
-   "x": "Stablecoin Bisa Membuat Pinjaman Jadi Lebih Mahal. Itulah peringatan dari kepala Bank for International Settlements, Pablo Hernández de Cos, pada 28 Agustus, ketika bank semakin berkembang ke ranah uang digital. Aset…",
+   "t": "Perusahaan treasury kripto capai kapitalisasi pasar $340 miliar seiring altcoin DAT unggul",
+   "x": "Kapitalisasi pasar gabungan perusahaan treasury kripto naik 10% sejak pertengahan Agustus, mencapai sekitar $340 miliar. Kinerja altcoin DAT dilaporkan melampaui aset lainnya.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
+   "img": "https://www.tbstat.com/wp/uploads/2026/02/Dat-Image-1200x675.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T18:11:02"
+  },
+  {
+   "id": 2346,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Top 100 Saham London Akan Masuk ke Aset Kripto, Tapi Ada Syaratnya",
+   "x": "Payward akan melakukan tokenisasi 100 saham teratas London sebagai xStocks untuk investor di 110 negara. Penduduk Inggris tidak dapat mengaksesnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bank-stablecoin-biaya-peminjaman",
-   "img": "https://assets.beincrypto.com/img/L3_8rL4gKUfdMCd7Jumd1cK5KHQ=/smart/b4d680d767024951808bb9e6a2215b7e",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/saham-london-tokenisasi-lse-payward",
+   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T21:25:44"
+   "published_at": "2026-09-01T17:31:08"
   },
   {
    "id": 2316,
@@ -326,18 +298,18 @@
    "published_at": "2026-09-01T13:00:00"
   },
   {
-   "id": 2377,
+   "id": 2259,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perubahan Stablecoin Ini Membentuk Ulang Pembayaran Lintas Batas Global",
-   "x": "Pada pukul tiga pagi, sebuah sistem AI bisa menilai alur perdagangan, memverifikasi kontrak, dan melakukan pembayaran lintas negara hanya dalam hitungan detik. Namun, pembayaran itu tetap saja menunggu di antrean bank…",
+   "t": "Perlombaan Stablecoin Bisa Membuat Pinjaman Bank Jadi Lebih Mahal",
+   "x": "Stablecoin Bisa Membuat Pinjaman Jadi Lebih Mahal. Itulah peringatan dari kepala Bank for International Settlements, Pablo Hernández de Cos, pada 28 Agustus, ketika bank semakin berkembang ke ranah uang digital. Aset…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/stablecoin-pembayaran-lintas-negara-settlement-instan",
-   "img": "https://assets.beincrypto.com/img/CxPkFb_wdowD2HxaZn3AASnpUyQ=/smart/59cd20d658fc45c8bb12bdcba356f73f",
-   "a": "8 jam lalu",
+   "url": "https://id.beincrypto.com/bank-stablecoin-biaya-peminjaman",
+   "img": "https://assets.beincrypto.com/img/L3_8rL4gKUfdMCd7Jumd1cK5KHQ=/smart/b4d680d767024951808bb9e6a2215b7e",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T23:29:55"
+   "published_at": "2026-08-31T21:25:44"
   },
   {
    "id": 2330,
@@ -348,24 +320,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:34:00"
   },
   {
-   "id": 2305,
+   "id": 2377,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perusahaan Treasury Solana Tawarkan Dividen 13% untuk Danai Pembelian SOL Berikutnya",
-   "x": "DeFi Development Corp. berencana mengumpulkan dana hingga US$20 juta melalui penawaran saham preferen. Saham ini menawarkan tingkat dividen tahunan awal sebesar 13%. Perusahaan treasury Solana (SOL) ini ingin…",
+   "t": "Perubahan Stablecoin Ini Membentuk Ulang Pembayaran Lintas Batas Global",
+   "x": "Pada pukul tiga pagi, sebuah sistem AI bisa menilai alur perdagangan, memverifikasi kontrak, dan melakukan pembayaran lintas negara hanya dalam hitungan detik. Namun, pembayaran itu tetap saja menunggu di antrean bank…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
-   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
-   "a": "21 jam lalu",
+   "url": "https://id.beincrypto.com/stablecoin-pembayaran-lintas-negara-settlement-instan",
+   "img": "https://assets.beincrypto.com/img/CxPkFb_wdowD2HxaZn3AASnpUyQ=/smart/59cd20d658fc45c8bb12bdcba356f73f",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T10:23:16"
+   "published_at": "2026-09-01T23:29:55"
   },
   {
    "id": 2402,
@@ -382,18 +354,18 @@
    "published_at": "2026-09-02T05:48:21"
   },
   {
-   "id": 2231,
+   "id": 2305,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Imbal Hasil Obligasi 2 Tahun Jepang Sentuh Tertinggi 31 Tahun — Mengapa Yen Carry Trade Penting untuk Bitcoin",
-   "x": "Imbal hasil obligasi 2 tahun Jepang mencapai level tertinggi dalam 31 tahun, meningkatkan biaya carry trade yen dan memperbarui risiko tekanan untuk Bitcoin.",
+   "t": "Perusahaan Treasury Solana Tawarkan Dividen 13% untuk Danai Pembelian SOL Berikutnya",
+   "x": "DeFi Development Corp. berencana mengumpulkan dana hingga US$20 juta melalui penawaran saham preferen. Saham ini menawarkan tingkat dividen tahunan awal sebesar 13%. Perusahaan treasury Solana (SOL) ini ingin…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-carry-trade-jepang-yield-tinggi",
-   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-solana-treasury-preferred-stock-offering",
+   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T15:14:35"
+   "published_at": "2026-09-01T10:23:16"
   },
   {
    "id": 2235,
@@ -408,6 +380,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T16:38:51"
+  },
+  {
+   "id": 2231,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Imbal Hasil Obligasi 2 Tahun Jepang Sentuh Tertinggi 31 Tahun — Mengapa Yen Carry Trade Penting untuk Bitcoin",
+   "x": "Imbal hasil obligasi 2 tahun Jepang mencapai level tertinggi dalam 31 tahun, meningkatkan biaya carry trade yen dan memperbarui risiko tekanan untuk Bitcoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-carry-trade-jepang-yield-tinggi",
+   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-31T15:14:35"
   },
   {
    "id": 2167,
