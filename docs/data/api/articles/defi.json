@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-08-30T18:40:08"
   },
   {
-   "id": 2193,
+   "id": 2442,
    "k": "defi",
    "cat": "DeFi",
-   "t": "More Markets rug pull senilai $9,3 juta, kata Blockaid",
-   "x": "Peretas berhasil menguras cadangan pinjaman More Markets senilai sekitar $9,3 juta menggunakan token staking cair Ankr. Insiden ini menyoroti risiko keamanan yang terus ada di protokol DeFi.",
+   "t": "Protokol DeFi Sui Full Sail ditutup pasca insiden Switchboard",
+   "x": "Protokol Full Sail di blockchain Sui akan ditutup setelah peretasan mengakibatkan kerugian $91.000. Insiden ini terkait dengan penyedia oracle Switchboard.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BE6GQ6SXNVS4KFF2WV7WJH/hi-what-is-dns-hijacking-1.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
+   "a": "26 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T08:57:10"
+   "published_at": "2026-09-02T13:40:03"
   },
   {
    "id": 2192,
@@ -130,18 +130,18 @@
    "published_at": "2026-09-01T12:00:02"
   },
   {
-   "id": 2176,
+   "id": 2193,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Cronos hentikan jaringan usai eksploitasi Tectonic senilai $75 juta",
-   "x": "Jaringan Cronos dihentikan sementara setelah eksploitasi pada protokol Tectonic yang diperkirakan merugikan hingga $75 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi yang terus berkembang.",
+   "t": "More Markets rug pull senilai $9,3 juta, kata Blockaid",
+   "x": "Peretas berhasil menguras cadangan pinjaman More Markets senilai sekitar $9,3 juta menggunakan token staking cair Ankr. Insiden ini menyoroti risiko keamanan yang terus ada di protokol DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1AX3ZN7EESDX1ZF7WKP963R/hi-transactions-stopped-1.jpg",
+   "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BE6GQ6SXNVS4KFF2WV7WJH/hi-what-is-dns-hijacking-1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T03:25:48"
+   "published_at": "2026-08-31T08:57:10"
   },
   {
    "id": 2290,
@@ -170,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T08:56:21"
+  },
+  {
+   "id": 2176,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Cronos hentikan jaringan usai eksploitasi Tectonic senilai $75 juta",
+   "x": "Jaringan Cronos dihentikan sementara setelah eksploitasi pada protokol Tectonic yang diperkirakan merugikan hingga $75 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi yang terus berkembang.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1AX3ZN7EESDX1ZF7WKP963R/hi-transactions-stopped-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T03:25:48"
   },
   {
    "id": 2150,
@@ -222,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T13:45:33"
@@ -236,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-layer-1-blockchain-froze-for-4-hours-to-stop-a-4-9-million-hack-then-claimed-it-was-just-an-upgrade",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/injective-chain-freeze.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T11:50:26"
