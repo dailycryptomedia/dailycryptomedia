@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-01T07:00:39"
   },
   {
-   "id": 2320,
+   "id": 2379,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
-   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
+   "t": "Rekam Saham Wall Street Bisa Pindah ke On-Chain. Satu Trader Dihukum karena Menghapus Miliknya",
+   "x": "SEC mengambil langkah untuk menempatkan catatan saham di chain, sementara CFTC mendenda seorang trader swaps sebesar $90.000 karena menghapus pesan-pesannya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
-   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
-   "a": "10 jam lalu",
+   "url": "https://id.beincrypto.com/catatan-saham-sec-transfer-agent-secara-onchain",
+   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
+   "a": "31 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T13:13:07"
+   "published_at": "2026-09-02T00:10:24"
   },
   {
    "id": 2298,
@@ -88,6 +88,20 @@
    "published_at": "2026-08-30T17:51:54"
   },
   {
+   "id": 2320,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
+   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
+   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T13:13:07"
+  },
+  {
    "id": 2334,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -138,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T17:16:01"
@@ -194,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T20:14:12"
