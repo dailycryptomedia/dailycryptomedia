@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 31,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T21:31:04"
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:13:05"
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
    "img": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-1074x675.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:26:02"
@@ -166,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/robert-kiyosaki-utang-bitcoin-properti",
    "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T21:06:51"
@@ -186,18 +186,18 @@
    "published_at": "2026-08-31T12:37:44"
   },
   {
-   "id": 2147,
+   "id": 2426,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Treasury AS minta bursa kripto audit stablecoin asing atau terancam delisting",
-   "x": "Pemerintah AS mengusulkan aturan baru yang mewajibkan bursa kripto melakukan uji tuntas terhadap penerbit stablecoin asing. Jika tidak, mereka berisiko dihapus dari daftar perdagangan.",
+   "t": "Wall Street berlomba kuasai pergeseran stablecoin $1,9 T",
+   "x": "Perbankan AS berupaya mengendalikan pergeseran dana besar ke stablecoin untuk mencegah kehilangan nasabah. Perkiraan menunjukkan potensi aliran dana keluar signifikan dari simpanan bank AS, mengancam model bisnis bank regional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/treasury-proposed-genius-change-forces-us-exchanges-to-audit-foreign-stablecoin-or-face-delisting",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-access-denied.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-trojan-banks.jpg",
+   "a": "21 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T13:35:14"
+   "published_at": "2026-09-02T11:15:53"
   },
   {
    "id": 2342,
@@ -236,10 +236,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-london-tokenisasi-lse-payward",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T17:31:08"
+  },
+  {
+   "id": 2147,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Treasury AS minta bursa kripto audit stablecoin asing atau terancam delisting",
+   "x": "Pemerintah AS mengusulkan aturan baru yang mewajibkan bursa kripto melakukan uji tuntas terhadap penerbit stablecoin asing. Jika tidak, mereka berisiko dihapus dari daftar perdagangan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/treasury-proposed-genius-change-forces-us-exchanges-to-audit-foreign-stablecoin-or-face-delisting",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-access-denied.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-30T13:35:14"
   },
   {
    "id": 2300,
@@ -264,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
    "img": "https://www.tbstat.com/wp/uploads/2026/02/Dat-Image-1200x675.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T18:11:02"
@@ -306,7 +320,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/stablecoin-pembayaran-lintas-negara-settlement-instan",
    "img": "https://assets.beincrypto.com/img/CxPkFb_wdowD2HxaZn3AASnpUyQ=/smart/59cd20d658fc45c8bb12bdcba356f73f",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T23:29:55"
@@ -320,7 +334,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:34:00"
