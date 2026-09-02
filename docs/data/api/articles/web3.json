@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-validator-reward-failure-on-core-dao-triggers-exchange-transfer-blocks-and-leaves-token-issuance-in-question",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/core-validator-reward-overflow.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T21:35:27"
@@ -144,18 +144,18 @@
    "published_at": "2026-08-31T11:54:13"
   },
   {
-   "id": 2335,
+   "id": 2486,
    "k": "web3",
    "cat": "Web3",
-   "t": "2 triliun token dalam 7 hari: B.AI picu euforia pengembang",
-   "x": "Platform infrastruktur AI B.AI melampaui 2 triliun token dalam kampanye akses gratisnya. Pencapaian ini menunjukkan daya tarik platform bagi pengembang.",
+   "t": "Keamanan Wallet USDC Tergantung pada Blockchain, Jembatan, dan Wallet",
+   "x": "Keamanan stablecoin USDC terhadap ancaman komputasi kuantum bergantung pada kecepatan adopsi teknologi yang lebih aman oleh seluruh ekosistemnya. Ini mencakup blockchain, jembatan antar-rantai, dan dompet digital yang digunakan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bai-cover.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/usdc-may-be-only-as-quantum-safe-as-its-slowest-wallet-bridge-or-blockchain",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-weakest-chain-break.jpg",
+   "a": "26 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T15:10:03"
+   "published_at": "2026-09-02T21:10:30"
   },
   {
    "id": 2173,
@@ -170,6 +170,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T02:13:36"
+  },
+  {
+   "id": 2335,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "2 triliun token dalam 7 hari: B.AI picu euforia pengembang",
+   "x": "Platform infrastruktur AI B.AI melampaui 2 triliun token dalam kampanye akses gratisnya. Pencapaian ini menunjukkan daya tarik platform bagi pengembang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bai-cover.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T15:10:03"
   },
   {
    "id": 2428,
