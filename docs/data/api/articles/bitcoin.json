@@ -1,22 +1,8 @@
 {
- "total": 65,
+ "total": 64,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 2134,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Berita Kripto Minggu Ini: Reli Bitcoin hingga USDC Chelsea",
-   "x": "Bitcoin menembus US$80.000 dan USDC menjadi sponsor Chelsea. Otoritas Jasa Keuangan (OJK) juga membuat gebrakan baru di industri kripto Indonesia.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/berita-kripto-terbaru-minggu-ini-reli-bitcoin-hingga-usdc-chelsea",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T08:00:35"
-  },
   {
    "id": 2187,
    "k": "bitcoin",
@@ -82,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GE6N92Z9CKPGGD4FTE0QQP/hi-bitcoin-etf-is-now-superior-over-dollar-3.jpg",
-   "a": "38 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T07:59:43"
@@ -152,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
    "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:48:19"
@@ -348,7 +334,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pola-bart-simpson-bitcoin-rally-agustus",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T05:43:18"
@@ -642,7 +628,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/gal-gadot-decrypt-style-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:39:55"
@@ -656,7 +642,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-316-day-hashrate-drought-shows-why-ai-could-make-this-mining-downturn-harder-to-reverse",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-mining-ai-pivot.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T04:50:47"
@@ -684,7 +670,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kejutan-suku-bunga-jepang-uji-bitcoin",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T21:00:00"
@@ -740,7 +726,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-iran-serangan-dampak-harga-bitcoin",
    "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T19:59:14"
@@ -796,7 +782,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tether-stable-cows-adecoagro-penambangan-bitcoin",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T09:44:22"
@@ -842,6 +828,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T15:05:44"
+  },
+  {
+   "id": 2215,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Bergerak Seperti Emas, Bukan Nasdaq — Dan Saat Ini Itu Masalahnya",
+   "x": "Bitcoin (BTC) dan emas sama-sama telah menghapus sebagian besar keuntungan mereka dari minggu lalu. Kedua aset ini naik bersama sepanjang Agustus karena investor berbondong-bondong mengejar strategi debasement. Tapi…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harga-emas-bitcoin-perdagangan-debasement-jeda",
+   "img": "https://assets.beincrypto.com/img/Mrq9VgPtnCPBj4Gf5ifEd_cD7Zk=/smart/bf5cb01cd3574350a95732de951d29be",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-08-31T13:01:04"
   }
  ]
 }
