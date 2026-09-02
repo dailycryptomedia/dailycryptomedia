@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/catatan-saham-sec-transfer-agent-secara-onchain",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T00:10:24"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
    "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T13:13:07"
@@ -130,18 +130,18 @@
    "published_at": "2026-08-31T13:20:05"
   },
   {
-   "id": 2202,
+   "id": 2421,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Irlandia larang aset kripto dari skema tabungan negara senilai $203 miliar",
-   "x": "Pemerintah Irlandia tidak mengizinkan aset kripto masuk ke dalam skema tabungan negara yang ditujukan untuk deposito senilai $203 miliar. Skema ini akan dibuka tahun depan.",
+   "t": "SEC usulkan perubahan besar pertama agen transfer dalam 40 tahun",
+   "x": "Komisi Sekuritas dan Bursa Amerika Serikat (SEC) mengusulkan perubahan aturan agen transfer yang mengharuskan pelaporan penggunaan buku besar terdistribusi. Ini menunjukkan perhatian regulator terhadap tokenisasi aset.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
+   "a": "13 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T11:10:44"
+   "published_at": "2026-09-02T10:25:02"
   },
   {
    "id": 2343,
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T17:16:01"
@@ -186,6 +186,20 @@
    "published_at": "2026-09-01T17:52:51"
   },
   {
+   "id": 2202,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Irlandia larang aset kripto dari skema tabungan negara senilai $203 miliar",
+   "x": "Pemerintah Irlandia tidak mengizinkan aset kripto masuk ke dalam skema tabungan negara yang ditujukan untuk deposito senilai $203 miliar. Skema ini akan dibuka tahun depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T11:10:44"
+  },
+  {
    "id": 2261,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -208,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T20:14:12"
@@ -222,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-shadow-phishing-risk.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T02:30:59"
