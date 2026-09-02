@@ -1,9 +1,11 @@
 {
  "status": "ok",
- "artikel_total": 2382,
- "artikel_tayang": 1793,
+ "artikel_total": 2386,
+ "artikel_tayang": 1797,
  "menit_sejak_pengambilan_terakhir": 0,
- "sumber_bermasalah": [],
- "diekspor_pada": "2026-09-02T02:45:05.063280+00:00",
+ "sumber_bermasalah": [
+  "cryptoslate"
+ ],
+ "diekspor_pada": "2026-09-02T03:06:29.623885+00:00",
  "mode": "statis"
 }
