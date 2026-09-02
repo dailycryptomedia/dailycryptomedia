@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/meta-pendapatan-iklan-kesenjangan-google-search",
    "img": "https://assets.beincrypto.com/img/1wZNM-3sb56q2aOKy_ep6m2gbvk=/smart/7b88ba5b10e440e1a45a628d551760b2",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T19:36:53"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/firma-trump-jr-pimpin-pendanaan-polymarket-valuasi-tembus-us21-miliar",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T03:00:07"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
    "img": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T13:05:03"
@@ -102,18 +102,18 @@
    "published_at": "2026-08-31T23:00:00"
   },
   {
-   "id": 2378,
+   "id": 2478,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Circle proses $32 triliun transfer USDC, 95% pendapatan dari suku bunga",
-   "x": "Circle mencatat pemrosesan transfer senilai $32 triliun untuk stablecoin USDC. Mayoritas pendapatannya, 95,2% pada kuartal II, berasal dari pendapatan bunga, bukan biaya transaksi.",
+   "t": "Solana proses 5,2 miliar transaksi setelah pendapatan anjlok 87%",
+   "x": "Solana mencatat rekor transaksi pada Agustus, didorong oleh lonjakan biaya transaksi memecoin. Namun, pendapatan platform anjlok 87% dibandingkan tahun lalu akibat memudarnya euforia tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/circle-processed-32-trillion-in-usdc-transfers-yet-95-of-its-revenue-relies-entirely-on-interest-rates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-flow-reserve-tank.jpg",
-   "a": "18 jam lalu",
+   "url": "https://cryptoslate.com/solana-processed-5-2-billion-transactions-after-revenue-collapsed-87-heres-what-changed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-throughput-revenue-collapse.jpg",
+   "a": "1 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T00:35:08"
+   "published_at": "2026-09-02T20:05:17"
   },
   {
    "id": 2287,
@@ -138,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/polymarket-diburu-investor-trump-jr-hingga-ice-pasang-miliaran-dolar",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T07:00:32"
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
    "img": "https://www.tbstat.com/wp/uploads/2025/07/arbitrum-1200x675.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T16:00:00"
@@ -172,6 +172,20 @@
    "published_at": "2026-09-02T17:24:36"
   },
   {
+   "id": 2378,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle proses $32 triliun transfer USDC, 95% pendapatan dari suku bunga",
+   "x": "Circle mencatat pemrosesan transfer senilai $32 triliun untuk stablecoin USDC. Mayoritas pendapatannya, 95,2% pada kuartal II, berasal dari pendapatan bunga, bukan biaya transaksi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/circle-processed-32-trillion-in-usdc-transfers-yet-95-of-its-revenue-relies-entirely-on-interest-rates",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-flow-reserve-tank.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T00:35:08"
+  },
+  {
    "id": 2390,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -180,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/robinhood-chains-2-7-million-app-day-says-little-about-robinhoods-actual-take",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/robinhood-revenue-piggy-bank.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T03:40:45"
