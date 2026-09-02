@@ -1,5 +1,5 @@
 {
- "total": 63,
+ "total": 64,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
    "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:48:19"
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-bisa-cetak-high-baru-us81-000-terbuka-jika-level-ini-jebol",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T08:00:52"
@@ -432,7 +432,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/how-saylors-2-billion-capital-loop-is-quietly-rewriting-the-rules-of-bitcoin-ownership",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/08/strategy-bitcoin-finance-throne.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T06:55:19"
@@ -628,7 +628,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kejutan-suku-bunga-jepang-uji-bitcoin",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T21:00:00"
@@ -642,24 +642,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/gal-gadot-decrypt-style-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T14:39:55"
   },
   {
-   "id": 2257,
+   "id": 2400,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pusat data AI pelajari trik daya yang dikuasai penambang Bitcoin",
-   "x": "Pusat data AI membutuhkan daya listrik besar untuk memproses informasi, mirip dengan kebutuhan penambang Bitcoin. Keduanya menguasai cara efisien dalam penggunaan energi dan pendinginan untuk operasional komputasi skala besar.",
+   "t": "Kekeringan hashrate Bitcoin 316 hari tunjukkan AI persulit pemulihan penambangan",
+   "x": "Penambangan Bitcoin menghadapi tantangan baru karena AI memberikan alternatif penggunaan energi yang lebih menguntungkan. Hal ini membuat situs pembangkit listrik yang beralih ke penambangan enggan kembali, memperlambat pemulihan hashrate.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ai-data-centers-are-learning-the-power-trick-bitcoin-miners-mastered-first",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ai-grid-curtailment.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoins-316-day-hashrate-drought-shows-why-ai-could-make-this-mining-downturn-harder-to-reverse",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-mining-ai-pivot.jpg",
+   "a": "15 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T20:45:26"
+   "published_at": "2026-09-02T04:50:47"
   },
   {
    "id": 2280,
@@ -676,6 +676,34 @@
    "published_at": "2026-09-01T05:31:58"
   },
   {
+   "id": 2257,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pusat data AI pelajari trik daya yang dikuasai penambang Bitcoin",
+   "x": "Pusat data AI membutuhkan daya listrik besar untuk memproses informasi, mirip dengan kebutuhan penambang Bitcoin. Keduanya menguasai cara efisien dalam penggunaan energi dan pendinginan untuk operasional komputasi skala besar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ai-data-centers-are-learning-the-power-trick-bitcoin-miners-mastered-first",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ai-grid-curtailment.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T20:45:26"
+  },
+  {
+   "id": 2360,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Turun di Bawah US$77.000 setelah Trump Konfirmasi Serangan Baru ke Iran",
+   "x": "Bitcoin kehilangan level US$77.000 pada Selasa, 2 September, setelah Presiden Trump mengonfirmasi serangan udara AS terbaru ke target Iran di dekat Selat Hormuz. Token ini sempat menyentuh US$80.000 hanya 3 hari lalu…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/trump-iran-serangan-dampak-harga-bitcoin",
+   "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T19:59:14"
+  },
+  {
    "id": 2151,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -688,34 +716,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-30T17:10:47"
-  },
-  {
-   "id": 2360,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Turun di Bawah US$77.000 setelah Trump Konfirmasi Serangan Baru ke Iran",
-   "x": "Bitcoin kehilangan level US$77.000 pada Selasa, 2 September, setelah Presiden Trump mengonfirmasi serangan udara AS terbaru ke target Iran di dekat Selat Hormuz. Token ini sempat menyentuh US$80.000 hanya 3 hari lalu…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-iran-serangan-dampak-harga-bitcoin",
-   "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T19:59:14"
-  },
-  {
-   "id": 2246,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Mengapa obligasi negara Bitcoin senilai $2 miliar jadi bom waktu pasokan bersyarat tersembunyi",
-   "x": "Perusahaan menggunakan instrumen derivatif seperti opsi dan pinjaman untuk mengubah kepemilikan pasif Bitcoin menjadi kewajiban kontrak. Hal ini berpotensi menciptakan pasokan tersembunyi yang dapat memengaruhi pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-bitcoins-2b-corporate-treasuries-are-a-ticking-time-bomb-of-hidden-conditional-supply",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-options-trap.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T18:10:27"
   },
   {
    "id": 2143,
@@ -732,6 +732,34 @@
    "published_at": "2026-08-30T11:46:29"
   },
   {
+   "id": 2246,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Mengapa obligasi negara Bitcoin senilai $2 miliar jadi bom waktu pasokan bersyarat tersembunyi",
+   "x": "Perusahaan menggunakan instrumen derivatif seperti opsi dan pinjaman untuk mengubah kepemilikan pasif Bitcoin menjadi kewajiban kontrak. Hal ini berpotensi menciptakan pasokan tersembunyi yang dapat memengaruhi pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-bitcoins-2b-corporate-treasuries-are-a-ticking-time-bomb-of-hidden-conditional-supply",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-options-trap.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T18:10:27"
+  },
+  {
+   "id": 2302,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Tether CEO Posting GIF “Stable Cow” — dan Konfirmasi Kepemilikan 70% di Raksasa Pertanian",
+   "x": "Tether menyebut peternakan Adecoagro miliknya sebagai 'Stable Cows.' Lihat bagaimana 14.500 sapi perah kini mendukung dorongan Bitcoin miner mereka.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tether-stable-cows-adecoagro-penambangan-bitcoin",
+   "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-01T09:44:22"
+  },
+  {
    "id": 2308,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -744,34 +772,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T11:10:24"
-  },
-  {
-   "id": 2302,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Tether CEO Posting GIF “Stable Cow” — dan Konfirmasi Kepemilikan 70% di Raksasa Pertanian",
-   "x": "Tether menyebut peternakan Adecoagro miliknya sebagai 'Stable Cows.' Lihat bagaimana 14.500 sapi perah kini mendukung dorongan Bitcoin miner mereka.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tether-stable-cows-adecoagro-penambangan-bitcoin",
-   "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T09:44:22"
-  },
-  {
-   "id": 2240,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kesenjangan Derivatif Bitcoin CME dan Coinbase Picu Potensi Likuidasi Posisi",
-   "x": "Terdapat perbedaan besar pada posisi derivatif Bitcoin antara CME dan Coinbase. Kesenjangan ini berpotensi memicu likuidasi besar-besaran pada posisi para pedagang.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/massive-bitcoin-derivatives-gap-between-cme-and-coinbase-threatens-violent-position-shakeout",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coinbase-cme-bitcoin-divide.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T17:05:49"
   },
   {
    "id": 2208,
@@ -788,18 +788,18 @@
    "published_at": "2026-08-31T12:05:00"
   },
   {
-   "id": 2148,
+   "id": 2240,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Satu kas Bitcoin tingkat menengah pertaruhkan seluruh cadangan BTC pada satu harga reset 30 hari",
-   "x": "Sebuah entitas kas Bitcoin tingkat menengah mengambil risiko besar dengan mempertaruhkan seluruh cadangan BTC mereka pada satu penentuan harga dalam 30 hari. Keputusan ini menyoroti volatilitas dan strategi berisiko tinggi yang terkadang diadopsi oleh pengelola aset kripto.",
+   "t": "Kesenjangan Derivatif Bitcoin CME dan Coinbase Picu Potensi Likuidasi Posisi",
+   "x": "Terdapat perbedaan besar pada posisi derivatif Bitcoin antara CME dan Coinbase. Kesenjangan ini berpotensi memicu likuidasi besar-besaran pada posisi para pedagang.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/one-mid-tier-bitcoin-treasury-just-gambled-its-entire-btc-reserve-on-a-single-30-day-reset-price",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/powercompute-conditional-debt-balance.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/massive-bitcoin-derivatives-gap-between-cme-and-coinbase-threatens-violent-position-shakeout",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/coinbase-cme-bitcoin-divide.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T15:05:44"
+   "published_at": "2026-08-31T17:05:49"
   },
   {
    "id": 2215,
@@ -816,18 +816,18 @@
    "published_at": "2026-08-31T13:01:04"
   },
   {
-   "id": 2129,
+   "id": 2148,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pinjam dana KPR pakai Bitcoin $250 ribu tanpa margin call, tapi ada jebakan",
-   "x": "Kini, peminjam bisa gunakan Bitcoin senilai $250 ribu sebagai uang muka rumah tanpa khawatir margin call akibat pergerakan harga. Namun, aset digital tersebut bisa disita jika pembayaran cicilan tertunggak selama 60 hari.",
+   "t": "Satu kas Bitcoin tingkat menengah pertaruhkan seluruh cadangan BTC pada satu harga reset 30 hari",
+   "x": "Sebuah entitas kas Bitcoin tingkat menengah mengambil risiko besar dengan mempertaruhkan seluruh cadangan BTC mereka pada satu penentuan harga dalam 30 hari. Keputusan ini menyoroti volatilitas dan strategi berisiko tinggi yang terkadang diadopsi oleh pengelola aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/borrowers-can-now-use-250k-in-bitcoin-for-a-house-down-payment-without-margin-calls-but-one-trap-remains",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-mortgage-collateral-risk.jpg",
+   "url": "https://cryptoslate.com/one-mid-tier-bitcoin-treasury-just-gambled-its-entire-btc-reserve-on-a-single-30-day-reset-price",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/powercompute-conditional-debt-balance.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-30T06:05:48"
+   "published_at": "2026-08-30T15:05:44"
   },
   {
    "id": 2165,
