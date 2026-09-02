@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T17:16:01"
@@ -208,10 +208,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T20:14:12"
+  },
+  {
+   "id": 2382,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kebocoran data kepatuhan ungkap identitas 291 pengguna kripto",
+   "x": "Data kepatuhan yang bocor mencocokkan nama pengguna dengan aktivitas dompet kripto mereka, mengakhiri anonimitas. Insiden ini menyoroti risiko privasi dalam pengelolaan data pengguna oleh platform aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-shadow-phishing-risk.jpg",
+   "a": "14 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T02:30:59"
   }
  ]
 }
