@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,24 +82,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/palo-alto-ceo-ai-security-stack",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "34 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T05:04:42"
   },
   {
-   "id": 2264,
+   "id": 2404,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ontology hentikan transaksi mainnet karena isu keamanan",
-   "x": "Ontology menghentikan sementara transaksi di jaringan utamanya untuk menyelidiki potensi masalah keamanan. Belum ada konfirmasi insiden atau kerugian aset yang dilaporkan.",
+   "t": "Layer-1 utama hentikan transaksi 24 menit demi percepatan 10x",
+   "x": "Sebuah blockchain layer-1 akan menghentikan sementara transaksi untuk melakukan pembaruan yang diklaim dapat meningkatkan kecepatan sepuluh kali lipat. Langkah ini dilakukan untuk mengoptimalkan kinerja jaringan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ontology-halts-mainnet-transactions-as-technical-team-investigates-potential-security-issue",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ontology-mainnet-red-light.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/a-major-layer-1-chain-will-pause-new-transactions-for-24-minutes-to-unlock-a-10x-speed-boost",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/multiversx-speed-transition.jpg",
+   "a": "7 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T22:40:23"
+   "published_at": "2026-09-02T06:00:52"
   },
   {
    "id": 2269,
@@ -116,18 +116,18 @@
    "published_at": "2026-09-01T01:47:00"
   },
   {
-   "id": 2335,
+   "id": 2264,
    "k": "web3",
    "cat": "Web3",
-   "t": "2 triliun token dalam 7 hari: B.AI picu euforia pengembang",
-   "x": "Platform infrastruktur AI B.AI melampaui 2 triliun token dalam kampanye akses gratisnya. Pencapaian ini menunjukkan daya tarik platform bagi pengembang.",
+   "t": "Ontology hentikan transaksi mainnet karena isu keamanan",
+   "x": "Ontology menghentikan sementara transaksi di jaringan utamanya untuk menyelidiki potensi masalah keamanan. Belum ada konfirmasi insiden atau kerugian aset yang dilaporkan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bai-cover.jpg",
-   "a": "14 jam lalu",
+   "url": "https://cryptoslate.com/ontology-halts-mainnet-transactions-as-technical-team-investigates-potential-security-issue",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ontology-mainnet-red-light.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T15:10:03"
+   "published_at": "2026-08-31T22:40:23"
   },
   {
    "id": 2204,
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T11:54:13"
+  },
+  {
+   "id": 2335,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "2 triliun token dalam 7 hari: B.AI picu euforia pengembang",
+   "x": "Platform infrastruktur AI B.AI melampaui 2 triliun token dalam kampanye akses gratisnya. Pencapaian ini menunjukkan daya tarik platform bagi pengembang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bai-cover.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T15:10:03"
   },
   {
    "id": 2173,
