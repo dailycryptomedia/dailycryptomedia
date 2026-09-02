@@ -1,5 +1,5 @@
 {
- "total": 33,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,24 +40,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T21:31:04"
-  },
-  {
-   "id": 2156,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "AS gunakan stablecoin untuk utang jangka pendek, tak atasi masalah obligasi $28 miliar",
-   "x": "Pemerintah AS memanfaatkan stablecoin untuk mendanai kewajiban utang jangka pendeknya. Namun, strategi ini dinilai tidak cukup untuk mengatasi masalah utang obligasi jangka panjang senilai $28 miliar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-treasury-relies-on-stablecoins-to-fund-short-term-debt-but-they-cant-fix-its-28b-long-bond-problem",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-93-day-gate.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-30T18:25:24"
   },
   {
    "id": 2304,
@@ -72,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T10:56:41"
+  },
+  {
+   "id": 2209,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan kas Bitcoin daftarkan 93% saham untuk dijual kembali",
+   "x": "Perusahaan yang menyimpan Bitcoin sebagai kas mendaftarkan sebagian besar sahamnya untuk dijual kembali. Namun, risiko pinjaman dan kas tetap ada.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-treasury-company-registers-93-of-shares-for-resale-and-puts-third-of-its-crypto-into-options",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usbc-bitcoin-control-lock.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T12:45:04"
   },
   {
    "id": 2225,
@@ -116,20 +116,6 @@
    "published_at": "2026-09-01T18:03:47"
   },
   {
-   "id": 2209,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan kas Bitcoin daftarkan 93% saham untuk dijual kembali",
-   "x": "Perusahaan yang menyimpan Bitcoin sebagai kas mendaftarkan sebagian besar sahamnya untuk dijual kembali. Namun, risiko pinjaman dan kas tetap ada.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-treasury-company-registers-93-of-shares-for-resale-and-puts-third-of-its-crypto-into-options",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usbc-bitcoin-control-lock.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T12:45:04"
-  },
-  {
    "id": 2319,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -142,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:13:05"
+  },
+  {
+   "id": 2426,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Wall Street berlomba kuasai pergeseran stablecoin $1,9 T",
+   "x": "Perbankan AS berupaya mengendalikan pergeseran dana besar ke stablecoin untuk mencegah kehilangan nasabah. Perkiraan menunjukkan potensi aliran dana keluar signifikan dari simpanan bank AS, mengancam model bisnis bank regional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-trojan-banks.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T11:15:53"
   },
   {
    "id": 2326,
@@ -186,20 +186,6 @@
    "published_at": "2026-08-31T12:37:44"
   },
   {
-   "id": 2426,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Wall Street berlomba kuasai pergeseran stablecoin $1,9 T",
-   "x": "Perbankan AS berupaya mengendalikan pergeseran dana besar ke stablecoin untuk mencegah kehilangan nasabah. Perkiraan menunjukkan potensi aliran dana keluar signifikan dari simpanan bank AS, mengancam model bisnis bank regional.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-trojan-banks.jpg",
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T11:15:53"
-  },
-  {
    "id": 2440,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -208,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H3JQK56T4TK5037VBE2WN3/south-korea.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T13:11:25"
@@ -264,7 +250,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
    "img": "https://www.tbstat.com/wp/uploads/2026/02/Dat-Image-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T18:11:02"
@@ -306,7 +292,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/stablecoin-pembayaran-lintas-negara-settlement-instan",
    "img": "https://assets.beincrypto.com/img/CxPkFb_wdowD2HxaZn3AASnpUyQ=/smart/59cd20d658fc45c8bb12bdcba356f73f",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T23:29:55"
@@ -390,7 +376,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ulasan-antarctic-wallet-pembayaran-qr-cepat-trade-off-kustodi",
    "img": "https://assets.beincrypto.com/img/Y5Phub94kpSCNIdgR562cjP3GCk=/smart/29bb1b0ca86a4c34af0bb4c80f8b494a",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T15:10:52"
