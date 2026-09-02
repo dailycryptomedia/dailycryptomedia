@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-01T07:00:39"
   },
   {
-   "id": 2379,
+   "id": 2473,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Rekam Saham Wall Street Bisa Pindah ke On-Chain. Satu Trader Dihukum karena Menghapus Miliknya",
-   "x": "SEC mengambil langkah untuk menempatkan catatan saham di chain, sementara CFTC mendenda seorang trader swaps sebesar $90.000 karena menghapus pesan-pesannya.",
+   "t": "Grayscale Berseteru dengan SEC tentang Masa Depan ETF Kripto: “Jangan Rusak yang Sudah Berjalan Baik”",
+   "x": "Grayscale mendesak SEC untuk membangun aturan ETF kripto yang sudah ada, memperingatkan bahwa batasan baru akan meningkatkan biaya dan menunda peluncuran dana.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/catatan-saham-sec-transfer-agent-secara-onchain",
-   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "18 jam lalu",
+   "url": "https://id.beincrypto.com/grayscale-sec-aturan-etf-kripto",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "21 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-02T00:10:24"
+   "published_at": "2026-09-02T18:44:25"
   },
   {
    "id": 2298,
@@ -88,18 +88,18 @@
    "published_at": "2026-09-01T17:16:01"
   },
   {
-   "id": 2320,
+   "id": 2379,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
-   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
+   "t": "Rekam Saham Wall Street Bisa Pindah ke On-Chain. Satu Trader Dihukum karena Menghapus Miliknya",
+   "x": "SEC mengambil langkah untuk menempatkan catatan saham di chain, sementara CFTC mendenda seorang trader swaps sebesar $90.000 karena menghapus pesan-pesannya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
-   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/catatan-saham-sec-transfer-agent-secara-onchain",
+   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T13:13:07"
+   "published_at": "2026-09-02T00:10:24"
   },
   {
    "id": 2334,
@@ -144,18 +144,18 @@
    "published_at": "2026-09-02T10:25:02"
   },
   {
-   "id": 2422,
+   "id": 2320,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bondholder Aston Martin Ajukan Gugatan atas Pinjaman £450 Juta yang Memindahkan Hak Merek",
-   "x": "Pemegang obligasi Aston Martin meminta pengadilan New York untuk dokumen terkait kesepakatan senilai £450 juta yang memindahkan sebagian besar hak merek.",
+   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
+   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pemegang-obligasi-aston-martin-perjanjian-hak-merek",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "8 jam lalu",
+   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
+   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-02T10:22:36"
+   "published_at": "2026-09-01T13:13:07"
   },
   {
    "id": 2461,
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T17:00:19"
@@ -198,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T11:10:44"
+  },
+  {
+   "id": 2422,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bondholder Aston Martin Ajukan Gugatan atas Pinjaman £450 Juta yang Memindahkan Hak Merek",
+   "x": "Pemegang obligasi Aston Martin meminta pengadilan New York untuk dokumen terkait kesepakatan senilai £450 juta yang memindahkan sebagian besar hak merek.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pemegang-obligasi-aston-martin-perjanjian-hak-merek",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-02T10:22:36"
   },
   {
    "id": 2221,
@@ -250,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T16:39:22"
