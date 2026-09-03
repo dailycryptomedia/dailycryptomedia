@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-regulation-turnstile-1.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T14:35:11"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/robinhood-chain-makin-gacor-volume-dex-tembus-us875-juta",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-08-31T08:15:35"
@@ -102,18 +102,18 @@
    "published_at": "2026-09-01T12:34:30"
   },
   {
-   "id": 2190,
+   "id": 2327,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Antrean staking 36 hari rugikan deposan Ethereum $350.000 per hari",
-   "x": "Antrean aktivasi staking Ethereum yang memakan waktu 35,75 hari menyebabkan hilangnya potensi imbal hasil harian lebih dari $350.000 bagi deposan. Keterlambatan ini berdampak pada efisiensi imbal hasil staking aset digital terbesar kedua.",
+   "t": "Kompromi oracle lintas rantai picu likuidasi dan pembekuan brankas di DeFi",
+   "x": "Sebuah kompromi pada oracle lintas rantai menyebabkan kerugian brankas dan likuidasi di beberapa jaringan DeFi. Insiden ini menyoroti risiko keamanan yang melekat pada infrastruktur DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-staking-entry-backlog.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/switchboard-oracle-floodgate-crisis.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T08:25:54"
+   "published_at": "2026-09-01T14:30:15"
   },
   {
    "id": 2193,
@@ -144,18 +144,18 @@
    "published_at": "2026-09-01T07:44:17"
   },
   {
-   "id": 2327,
+   "id": 2291,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Kompromi oracle lintas rantai picu likuidasi dan pembekuan brankas di DeFi",
-   "x": "Sebuah kompromi pada oracle lintas rantai menyebabkan kerugian brankas dan likuidasi di beberapa jaringan DeFi. Insiden ini menyoroti risiko keamanan yang melekat pada infrastruktur DeFi.",
+   "t": "Validator Cronos hapus riwayat transaksi untuk atasi eksploitasi protokol pinjaman senilai US$75 juta",
+   "x": "Validator jaringan Cronos menghapus riwayat transaksi untuk menghentikan eksploitasi protokol pinjaman senilai US$75 juta. Tindakan ini dilakukan untuk menahan aset di rantai, namun pengguna belum mendapat kepastian kapan layanan akan pulih.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/switchboard-oracle-floodgate-crisis.jpg",
+   "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T14:30:15"
+   "published_at": "2026-09-01T08:56:21"
   },
   {
    "id": 2509,
@@ -172,34 +172,6 @@
    "published_at": "2026-09-03T04:46:52"
   },
   {
-   "id": 2291,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Validator Cronos hapus riwayat transaksi untuk atasi eksploitasi protokol pinjaman senilai US$75 juta",
-   "x": "Validator jaringan Cronos menghapus riwayat transaksi untuk menghentikan eksploitasi protokol pinjaman senilai US$75 juta. Tindakan ini dilakukan untuk menahan aset di rantai, namun pengguna belum mendapat kepastian kapan layanan akan pulih.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T08:56:21"
-  },
-  {
-   "id": 2189,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Elon Musk Peringatkan Peretasan AI Akan Melebihi Kemampuan Manusia pada Akhir 2027",
-   "x": "Elon Musk mengatakan peretasan AI akan melampaui manusia pada akhir 2027 saat cacat kritis di Artifactory memicu perdebatan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/elon-musk-ai-hacking-prediksi-2027",
-   "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-08-31T07:56:08"
-  },
-  {
    "id": 2412,
    "k": "defi",
    "cat": "DeFi",
@@ -208,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/deft-nasdaq-cliff.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T08:20:13"
@@ -250,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tron-h1-2026-strategy-report-dual-engine-growth-via-defi-and-ai-delivers-record-traction",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tron-strategy-report.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T14:15:18"
