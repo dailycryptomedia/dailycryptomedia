@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -130,18 +130,18 @@
    "published_at": "2026-09-03T07:00:34"
   },
   {
-   "id": 2204,
+   "id": 2428,
    "k": "web3",
    "cat": "Web3",
-   "t": "Dompet Kripto Anda Bisa Gantikan Skor Kredit — CEO Coinbase Berpendapat Demikian",
-   "x": "Brian Armstrong mengatakan reputasi onchain akan menggantikan skor kredit saat pemberi pinjaman kripto menguji pinjaman tanpa jaminan.",
+   "t": "Tether Digugat atas Pembekuan US$42 Juta USDT",
+   "x": "Gugatan pembekuan Tether USDT mempertanyakan apakah penerbit dapat mengunci dana senilai $42,4 juta di wallet tanpa surat perintah.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/onchain-reputasi-skor-kredit-coinbase",
-   "img": "https://assets.beincrypto.com/img/66p0tYkxK8HRrUc2U76k1s67Wrw=/smart/d04850d8d90a48e1b8024600f7bb8e28",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/tether-usdt-freeze-gugatan-perintah-pengadilan",
+   "img": "https://assets.beincrypto.com/img/xvPhyqOklMFH_y4cB2dEGLQpldo=/smart/b81e79eb3af74e178c2bc4bc039c1573",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T11:54:13"
+   "published_at": "2026-09-02T11:06:13"
   },
   {
    "id": 2404,
@@ -156,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T06:00:52"
-  },
-  {
-   "id": 2428,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Tether Digugat atas Pembekuan US$42 Juta USDT",
-   "x": "Gugatan pembekuan Tether USDT mempertanyakan apakah penerbit dapat mengunci dana senilai $42,4 juta di wallet tanpa surat perintah.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tether-usdt-freeze-gugatan-perintah-pengadilan",
-   "img": "https://assets.beincrypto.com/img/xvPhyqOklMFH_y4cB2dEGLQpldo=/smart/b81e79eb3af74e178c2bc4bc039c1573",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-02T11:06:13"
   },
   {
    "id": 2264,
@@ -194,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/usdc-may-be-only-as-quantum-safe-as-its-slowest-wallet-bridge-or-blockchain",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-weakest-chain-break.jpg",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T21:10:30"
