@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/grayscale-sec-aturan-etf-kripto",
    "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T18:44:25"
@@ -138,10 +138,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T10:25:02"
+  },
+  {
+   "id": 2501,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan Michigan perintahkan Kalshi blokir pasar prediksi olahraga",
+   "x": "Pengadilan Michigan memerintahkan bursa prediksi olahraga Kalshi untuk terus memblokir pasar taruhan olahraga. Pelanggaran terhadap perintah ini dapat dikenakan denda harian sebesar US$500.000.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
+   "a": "46 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T04:30:32"
   },
   {
    "id": 2475,
@@ -152,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/putusan-antitrust-google-adx-dampak-saham",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T18:57:18"
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T17:00:19"
@@ -250,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pemegang-obligasi-aston-martin-perjanjian-hak-merek",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T10:22:36"
@@ -278,7 +292,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T16:39:22"
@@ -292,10 +306,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-shadow-phishing-risk.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T02:30:59"
+  },
+  {
+   "id": 2504,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Stablecoin jadi pembeli utang The Fed secara diam-diam",
+   "x": "Token dolar berpotensi memperluas penggunaan pribadi dan permintaan surat utang Treasury tanpa menentukan alokasi cadangan bank sentral. Ini menunjukkan peran stablecoin yang berkembang di luar aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/globe-dollar-liquidity.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T02:30:23"
   }
  ]
 }
