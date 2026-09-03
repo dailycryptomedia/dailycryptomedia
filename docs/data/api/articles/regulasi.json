@@ -1,5 +1,5 @@
 {
- "total": 26,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -194,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg",
-   "a": "26 menit lalu",
+   "a": "57 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T21:09:13"
@@ -222,7 +222,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
-   "a": "48 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T20:46:52"
@@ -292,38 +292,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/regulasi-sec-aset-kripto-penggalangan-modal",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T06:00:54"
-  },
-  {
-   "id": 2261,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Phemex beri peringatan 82 token terkait likuiditas dan kepatuhan",
-   "x": "Bursa kripto Phemex memberi peringatan kepada 82 token karena masalah likuiditas dan kepatuhan proyek. Langkah ini menyoroti pentingnya standar operasional yang ketat di pasar aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/phemex-token-risk-review.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T21:50:11"
-  },
-  {
-   "id": 2320,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
-   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
-   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T13:13:07"
   },
   {
    "id": 2382,
@@ -340,18 +312,18 @@
    "published_at": "2026-09-02T02:30:59"
   },
   {
-   "id": 2422,
+   "id": 2320,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bondholder Aston Martin Ajukan Gugatan atas Pinjaman £450 Juta yang Memindahkan Hak Merek",
-   "x": "Pemegang obligasi Aston Martin meminta pengadilan New York untuk dokumen terkait kesepakatan senilai £450 juta yang memindahkan sebagian besar hak merek.",
+   "t": "4 Negara Besar Mulai Regulasi Aset Kripto Minggu Ini",
+   "x": "Rusia, Vietnam, dan Pakistan memperketat regulasi aset kripto minggu ini. Singapura hanya membuka konsultasi, bukan undang-undang.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pemegang-obligasi-aston-martin-perjanjian-hak-merek",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
+   "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-02T10:22:36"
+   "published_at": "2026-09-01T13:13:07"
   },
   {
    "id": 2504,
@@ -366,6 +338,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:23"
+  },
+  {
+   "id": 2422,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bondholder Aston Martin Ajukan Gugatan atas Pinjaman £450 Juta yang Memindahkan Hak Merek",
+   "x": "Pemegang obligasi Aston Martin meminta pengadilan New York untuk dokumen terkait kesepakatan senilai £450 juta yang memindahkan sebagian besar hak merek.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pemegang-obligasi-aston-martin-perjanjian-hak-merek",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-02T10:22:36"
   }
  ]
 }
