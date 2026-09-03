@@ -1,5 +1,5 @@
 {
- "total": 137,
+ "total": 136,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/thailand-crypto-identity-checks.jpg",
-   "a": "40 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T05:30:34"
@@ -110,24 +110,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HV8E147WPWCMKXKN1K3NV1/pcvirusmalware.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T21:27:15"
   },
   {
-   "id": 2185,
+   "id": 2356,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Reli XRP berikutnya bisa berikan tekanan pada posisi short 115 juta token",
-   "x": "Posisi short XRP senilai 115,7 juta token menghadapi tekanan seiring kenaikan posisi long manajer aset. Pergerakan ini bisa memengaruhi sentimen pasar terhadap aset digital tersebut.",
+   "t": "Pembaruan OpenAI: Pengaman Baru Bisa Blokir 700 Agen AI Jahat Lebih Cepat",
+   "x": "OpenAI melaporkan pengaman baru yang dikembangkan dapat mendeteksi dan memblokir 700 agen AI jahat dalam 24 jam. Insiden ini menyoroti pentingnya keamanan siber dalam pengembangan teknologi AI yang pesat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrps-next-rally-could-put-this-115-million-token-short-under-pressure",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-market-tug-war.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/openai-update-shows-new-safeguards-would-have-cut-off-700-rogue-ai-agent-swam-24-hours-faster",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/openai-agent-vault-breach.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T06:30:46"
+   "published_at": "2026-09-01T19:30:21"
   },
   {
    "id": 2383,
@@ -200,18 +200,18 @@
    "published_at": "2026-09-02T20:55:55"
   },
   {
-   "id": 2356,
+   "id": 2351,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pembaruan OpenAI: Pengaman Baru Bisa Blokir 700 Agen AI Jahat Lebih Cepat",
-   "x": "OpenAI melaporkan pengaman baru yang dikembangkan dapat mendeteksi dan memblokir 700 agen AI jahat dalam 24 jam. Insiden ini menyoroti pentingnya keamanan siber dalam pengembangan teknologi AI yang pesat.",
+   "t": "Optimism percepat kecepatan jaringan jadi 200 ms, tapi feed data standar hilangkan info penting",
+   "x": "Jaringan Optimism dikabarkan mencapai kecepatan 200 milidetik, namun feed data standar mengalami masalah kehilangan informasi krusial. Hal ini memaksa konsumen dan penyedia RPC untuk melakukan audit nilai placeholder.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/openai-update-shows-new-safeguards-would-have-cut-off-700-rogue-ai-agent-swam-24-hours-faster",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/openai-agent-vault-breach.jpg",
+   "url": "https://cryptoslate.com/optimism-is-pushing-network-speeds-to-200-milliseconds-but-standard-data-feeds-are-quietly-dropping-key-information",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-payload-printer.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T19:30:21"
+   "published_at": "2026-09-01T18:35:15"
   },
   {
    "id": 2391,
@@ -284,18 +284,18 @@
    "published_at": "2026-09-01T21:25:27"
   },
   {
-   "id": 2351,
+   "id": 2414,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Optimism percepat kecepatan jaringan jadi 200 ms, tapi feed data standar hilangkan info penting",
-   "x": "Jaringan Optimism dikabarkan mencapai kecepatan 200 milidetik, namun feed data standar mengalami masalah kehilangan informasi krusial. Hal ini memaksa konsumen dan penyedia RPC untuk melakukan audit nilai placeholder.",
+   "t": "Cardano capai ambang batas suara pembaruan komite konstitusi dengan selisih 0,18%",
+   "x": "Jaringan Cardano berhasil melewati ambang batas suara penting untuk pembaruan komite konstitusi. Hasil ini menunjukkan pentingnya partisipasi pemangku kepentingan dalam tata kelola jaringan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/optimism-is-pushing-network-speeds-to-200-milliseconds-but-standard-data-feeds-are-quietly-dropping-key-information",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-payload-printer.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/cardano-clears-key-voting-thresholds-for-constitutional-committee-renewal-by-0-18-margin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-governance-bridge.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T18:35:15"
+   "published_at": "2026-09-02T09:30:33"
   },
   {
    "id": 2271,
@@ -368,18 +368,18 @@
    "published_at": "2026-08-31T14:50:58"
   },
   {
-   "id": 2414,
+   "id": 2251,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Cardano capai ambang batas suara pembaruan komite konstitusi dengan selisih 0,18%",
-   "x": "Jaringan Cardano berhasil melewati ambang batas suara penting untuk pembaruan komite konstitusi. Hasil ini menunjukkan pentingnya partisipasi pemangku kepentingan dalam tata kelola jaringan.",
+   "t": "Bitcoin naik 24% seiring model prediksi harga CryptoSlate petakan September volatil",
+   "x": "Bitcoin mencatat kenaikan 24% dalam sebulan, dipicu oleh prediksi model harga yang mengindikasikan volatilitas. Aliran dana masuk ETF yang terpengaruh oleh level resistensi $80.000 dapat menguji keberlanjutan reli ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardano-clears-key-voting-thresholds-for-constitutional-committee-renewal-by-0-18-margin",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-governance-bridge.jpg",
-   "a": "20 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-volatility-pendulum.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T09:30:33"
+   "published_at": "2026-08-31T19:50:04"
   },
   {
    "id": 2385,
@@ -452,18 +452,18 @@
    "published_at": "2026-09-02T09:48:49"
   },
   {
-   "id": 2251,
+   "id": 2198,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bitcoin naik 24% seiring model prediksi harga CryptoSlate petakan September volatil",
-   "x": "Bitcoin mencatat kenaikan 24% dalam sebulan, dipicu oleh prediksi model harga yang mengindikasikan volatilitas. Aliran dana masuk ETF yang terpengaruh oleh level resistensi $80.000 dapat menguji keberlanjutan reli ini.",
+   "t": "Konsensus XRPL macet setelah hapus 12% node pusat, tapi tweak sederhana gandakan pertahanan XRP",
+   "x": "Jaringan XRPL mengalami kelumpuhan konsensus saat hanya 12% node pusat yang dihapus. Namun, modifikasi sederhana pada sistem terbukti mampu meningkatkan pertahanan jaringan secara signifikan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-volatility-pendulum.jpg",
+   "url": "https://cryptoslate.com/xrpl-consensus-freezes-after-removing-just-12-of-central-nodes-but-a-simple-tweak-triples-xrps-defense",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-network-peer-defense.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T19:50:04"
+   "published_at": "2026-08-31T10:19:49"
   },
   {
    "id": 2397,
@@ -536,18 +536,18 @@
    "published_at": "2026-09-02T04:15:34"
   },
   {
-   "id": 2198,
+   "id": 2315,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Konsensus XRPL macet setelah hapus 12% node pusat, tapi tweak sederhana gandakan pertahanan XRP",
-   "x": "Jaringan XRPL mengalami kelumpuhan konsensus saat hanya 12% node pusat yang dihapus. Namun, modifikasi sederhana pada sistem terbukti mampu meningkatkan pertahanan jaringan secara signifikan.",
+   "t": "Rusia aktifkan pasar kripto yang belum sepenuhnya ada",
+   "x": "Rusia telah mengaktifkan kerangka hukum untuk pasar aset digitalnya, namun banyak ketentuan baru akan berlaku pada 2027. Hal ini menimbulkan pertanyaan tentang operasional pasar tersebut saat ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrpl-consensus-freezes-after-removing-just-12-of-central-nodes-but-a-simple-tweak-triples-xrps-defense",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/xrpl-network-peer-defense.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/russia-just-switched-on-a-crypto-market-that-doesnt-fully-exist-yet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/russia-crypto-law-transition.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T10:19:49"
+   "published_at": "2026-09-01T12:20:11"
   },
   {
    "id": 2386,
@@ -620,18 +620,18 @@
    "published_at": "2026-08-31T15:39:00"
   },
   {
-   "id": 2315,
+   "id": 2423,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Rusia aktifkan pasar kripto yang belum sepenuhnya ada",
-   "x": "Rusia telah mengaktifkan kerangka hukum untuk pasar aset digitalnya, namun banyak ketentuan baru akan berlaku pada 2027. Hal ini menimbulkan pertanyaan tentang operasional pasar tersebut saat ini.",
+   "t": "Binance tawarkan opsi saham AS yang diselesaikan secara fisik",
+   "x": "Bursa kripto Binance kini menawarkan opsi derivatif yang diselesaikan secara fisik untuk lebih dari 1.000 saham Amerika Serikat. Ini memperluas jangkauan bursa ke pasar keuangan tradisional (TradFi) dan memberikan akses baru bagi penggunanya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/russia-just-switched-on-a-crypto-market-that-doesnt-fully-exist-yet",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/russia-crypto-law-transition.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/binance-deepens-tradfi-push-with-physically-settled-options-on-over-1000-us-equities",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/binance_stock_options_standard_image.jpg",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T12:20:11"
+   "published_at": "2026-09-02T10:40:35"
   },
   {
    "id": 2272,
@@ -704,18 +704,18 @@
    "published_at": "2026-09-01T17:39:48"
   },
   {
-   "id": 2423,
+   "id": 2324,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Binance tawarkan opsi saham AS yang diselesaikan secara fisik",
-   "x": "Bursa kripto Binance kini menawarkan opsi derivatif yang diselesaikan secara fisik untuk lebih dari 1.000 saham Amerika Serikat. Ini memperluas jangkauan bursa ke pasar keuangan tradisional (TradFi) dan memberikan akses baru bagi penggunanya.",
+   "t": "Inggris buru pipa kripto terkait Rusia senilai $86 miliar, gandakan denda sanksi",
+   "x": "Inggris meningkatkan upaya untuk melacak aliran aset kripto yang terkait dengan Rusia senilai $86 miliar. Langkah ini bertujuan untuk memperketat sanksi dan menggandakan denda bagi pelanggar, menunjukkan keseriusan regulator dalam mengawasi transaksi keuangan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-deepens-tradfi-push-with-physically-settled-options-on-over-1000-us-equities",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/binance_stock_options_standard_image.jpg",
-   "a": "19 jam lalu",
+   "url": "https://cryptoslate.com/uk-is-hunting-the-86-billion-russia-linked-crypto-pipeline-as-it-moves-to-double-sanctions-fines",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/a7-network-lockdown-uk.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T10:40:35"
+   "published_at": "2026-09-01T13:40:22"
   },
   {
    "id": 2299,
@@ -768,7 +768,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/goldman-sachs-pilihan-saham-eropa-september",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T07:39:37"
@@ -782,24 +782,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H85V728VXBM9KYCSEJAD01/g20-discuss-crypto-desk-table-meeting-hand-paper-people2.jpg",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T15:34:06"
   },
   {
-   "id": 2324,
+   "id": 2457,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Inggris buru pipa kripto terkait Rusia senilai $86 miliar, gandakan denda sanksi",
-   "x": "Inggris meningkatkan upaya untuk melacak aliran aset kripto yang terkait dengan Rusia senilai $86 miliar. Langkah ini bertujuan untuk memperketat sanksi dan menggandakan denda bagi pelanggar, menunjukkan keseriusan regulator dalam mengawasi transaksi keuangan.",
+   "t": "Belanja politik kripto $344 juta inginkan sesuatu dari Kongres",
+   "x": "Industri kripto menggelontorkan dana politik hingga $206 juta, memimpin sektor korporat lain. Dana ini diharapkan memengaruhi kebijakan Kongres AS terkait aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uk-is-hunting-the-86-billion-russia-linked-crypto-pipeline-as-it-moves-to-double-sanctions-fines",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/a7-network-lockdown-uk.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/what-the-344m-crypto-political-spending-spree-wants-from-congress-next",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-money-capitol-path.jpg",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T13:40:22"
+   "published_at": "2026-09-02T15:40:32"
   },
   {
    "id": 2506,
@@ -838,7 +838,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T10:20:03"
