@@ -1,5 +1,5 @@
 {
- "total": 34,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,18 +60,18 @@
    "published_at": "2026-09-01T10:56:41"
   },
   {
-   "id": 2209,
+   "id": 2426,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perusahaan kas Bitcoin daftarkan 93% saham untuk dijual kembali",
-   "x": "Perusahaan yang menyimpan Bitcoin sebagai kas mendaftarkan sebagian besar sahamnya untuk dijual kembali. Namun, risiko pinjaman dan kas tetap ada.",
+   "t": "Wall Street berlomba kuasai pergeseran stablecoin $1,9 T",
+   "x": "Perbankan AS berupaya mengendalikan pergeseran dana besar ke stablecoin untuk mencegah kehilangan nasabah. Perkiraan menunjukkan potensi aliran dana keluar signifikan dari simpanan bank AS, mengancam model bisnis bank regional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-treasury-company-registers-93-of-shares-for-resale-and-puts-third-of-its-crypto-into-options",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/usbc-bitcoin-control-lock.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-trojan-banks.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T12:45:04"
+   "published_at": "2026-09-02T11:15:53"
   },
   {
    "id": 2225,
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/meme-coin-x-saham-makin-panas-robinhood-chain-cetak-rekor-baru",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T08:00:40"
@@ -144,20 +144,6 @@
    "published_at": "2026-09-01T13:13:05"
   },
   {
-   "id": 2426,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Wall Street berlomba kuasai pergeseran stablecoin $1,9 T",
-   "x": "Perbankan AS berupaya mengendalikan pergeseran dana besar ke stablecoin untuk mencegah kehilangan nasabah. Perkiraan menunjukkan potensi aliran dana keluar signifikan dari simpanan bank AS, mengancam model bisnis bank regional.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-trojan-banks.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T11:15:53"
-  },
-  {
    "id": 2536,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -166,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437",
    "img": "https://www.tbstat.com/wp/uploads/2019/10/shutterstock_703031917-1-e1769511163397-1198x675.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T11:01:46"
@@ -194,7 +180,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T20:01:04"
@@ -240,20 +226,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-08-31T21:25:44"
-  },
-  {
-   "id": 2207,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Robinhood Chain lampaui Ethereum dan Base dalam biaya transaksi",
-   "x": "Blockchain baru milik Robinhood mengalami lonjakan metrik, termasuk biaya transaksi. Fenomena ini didorong oleh popularitas token saham yang ditokenisasi dan memecoin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-08-31T12:37:44"
   },
   {
    "id": 2342,
@@ -348,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:00:00"
@@ -474,7 +446,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/diversifikasi-jpmorgan-ai-sulit-ditemukan",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T03:00:00"
