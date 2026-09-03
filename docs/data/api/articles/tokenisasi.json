@@ -1,5 +1,5 @@
 {
- "total": 32,
+ "total": 33,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:13:05"
@@ -194,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H3JQK56T4TK5037VBE2WN3/south-korea.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T13:11:25"
@@ -270,18 +270,18 @@
    "published_at": "2026-09-01T23:29:55"
   },
   {
-   "id": 2300,
+   "id": 2547,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitfinex Securities listingkan nota ter-tokenisasi terkait Strategy, Metaplanet",
-   "x": "Bitfinex Securities kini memperdagangkan nota ekuitas yang didukung aset dunia nyata. Ini membuka peluang bagi investor non-AS untuk berinvestasi pada instrumen keuangan tradisional melalui aset digital.",
+   "t": "VARA dan Securitize jalin MoU inovasi tokenisasi di Dubai",
+   "x": "Regulator aset virtual Dubai (VARA) menjalin kemitraan dengan Securitize untuk mendorong inovasi tokenisasi. Keduanya akan mengeksplorasi kerangka regulasi aset digital yang ditokenisasi di kawasan tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KGRZRFAT4PNFKDRGKF3YTG/hi-crypto-in-gulf-a-new-trend-1.jpg",
+   "a": "38 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T10:00:00"
+   "published_at": "2026-09-03T13:00:00"
   },
   {
    "id": 2349,
@@ -312,18 +312,18 @@
    "published_at": "2026-09-01T10:23:16"
   },
   {
-   "id": 2316,
+   "id": 2300,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Kast luncurkan platform bisnis bertenaga stablecoin pasca-pendanaan $80 juta",
-   "x": "Kast mengumumkan peluncuran platform bisnis baru yang memanfaatkan stablecoin setelah berhasil menggalang dana sebesar $80 juta. Inisiatif ini bertujuan untuk menarik ribuan bisnis aktif ke platformnya pada akhir 2026.",
+   "t": "Bitfinex Securities listingkan nota ter-tokenisasi terkait Strategy, Metaplanet",
+   "x": "Bitfinex Securities kini memperdagangkan nota ekuitas yang didukung aset dunia nyata. Ini membuka peluang bagi investor non-AS untuk berinvestasi pada instrumen keuangan tradisional melalui aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
+   "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T13:00:00"
+   "published_at": "2026-09-01T10:00:00"
   },
   {
    "id": 2231,
@@ -340,6 +340,34 @@
    "published_at": "2026-08-31T15:14:35"
   },
   {
+   "id": 2316,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Kast luncurkan platform bisnis bertenaga stablecoin pasca-pendanaan $80 juta",
+   "x": "Kast mengumumkan peluncuran platform bisnis baru yang memanfaatkan stablecoin setelah berhasil menggalang dana sebesar $80 juta. Inisiatif ini bertujuan untuk menarik ribuan bisnis aktif ke platformnya pada akhir 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T13:00:00"
+  },
+  {
+   "id": 2458,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Ulasan Antarctic Wallet: Pembayaran QR Cepat, Trade-off Custody",
+   "x": "Wallet ini membuat USDT dan TON bisa digunakan untuk pembayaran lewat kode QR bank yang sudah dikenal. Cara pintas ini benar-benar berguna, namun pengguna harus rela melepas kendali atas aset sendiri dan menerima proses…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ulasan-antarctic-wallet-pembayaran-qr-cepat-trade-off-kustodi",
+   "img": "https://assets.beincrypto.com/img/Y5Phub94kpSCNIdgR562cjP3GCk=/smart/29bb1b0ca86a4c34af0bb4c80f8b494a",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-02T15:10:52"
+  },
+  {
    "id": 2330,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -352,34 +380,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T15:34:00"
-  },
-  {
-   "id": 2458,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Ulasan Antarctic Wallet: Pembayaran QR Cepat, Trade-off Custody",
-   "x": "Wallet ini membuat USDT dan TON bisa digunakan untuk pembayaran lewat kode QR bank yang sudah dikenal. Cara pintas ini benar-benar berguna, namun pengguna harus rela melepas kendali atas aset sendiri dan menerima proses…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ulasan-antarctic-wallet-pembayaran-qr-cepat-trade-off-kustodi",
-   "img": "https://assets.beincrypto.com/img/Y5Phub94kpSCNIdgR562cjP3GCk=/smart/29bb1b0ca86a4c34af0bb4c80f8b494a",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-02T15:10:52"
-  },
-  {
-   "id": 2402,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan treasury HYPE, Hyperliquid Strategies, tingkatkan fasilitas ekuitas jadi $2,5 miliar",
-   "x": "Hyperliquid Strategies, perusahaan yang terdaftar di Nasdaq, mengumumkan peningkatan fasilitas ekuitasnya menjadi $2,5 miliar. Peningkatan ini memungkinkan perusahaan untuk mengumpulkan lebih banyak modal guna mendukung operasionalnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GAJCXZX0S74T4ZCR5AKST8/hype-treasury.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T05:48:21"
   },
   {
    "id": 2435,
@@ -396,18 +396,18 @@
    "published_at": "2026-09-02T11:42:45"
   },
   {
-   "id": 2235,
+   "id": 2402,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
-   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
+   "t": "Perusahaan treasury HYPE, Hyperliquid Strategies, tingkatkan fasilitas ekuitas jadi $2,5 miliar",
+   "x": "Hyperliquid Strategies, perusahaan yang terdaftar di Nasdaq, mengumumkan peningkatan fasilitas ekuitasnya menjadi $2,5 miliar. Peningkatan ini memungkinkan perusahaan untuk mengumpulkan lebih banyak modal guna mendukung operasionalnya.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GAJCXZX0S74T4ZCR5AKST8/hype-treasury.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T16:38:51"
+   "published_at": "2026-09-02T05:48:21"
   },
   {
    "id": 2389,
@@ -422,6 +422,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T03:05:55"
+  },
+  {
+   "id": 2235,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin mulai penutupan bulanan yang volatil seiring imbal hasil obligasi AS dekati rekor baru",
+   "x": "Harga Bitcoin mengalami fluktuasi tajam dalam rentang lokalnya. Pergerakan ini terjadi bersamaan dengan pernyataan pejabat AS mengenai imbal hasil obligasi negara yang berpotensi mencapai rekor tertinggi tahun ini.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-08-31T16:38:51"
   },
   {
    "id": 2258,

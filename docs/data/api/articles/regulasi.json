@@ -1,5 +1,5 @@
 {
- "total": 25,
+ "total": 24,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -116,18 +116,18 @@
    "published_at": "2026-09-01T15:50:55"
   },
   {
-   "id": 2211,
+   "id": 2344,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Regulator Jepang minta pembebasan pajak stablecoin jenis trust mulai 2027",
-   "x": "Regulator Jepang mengusulkan agar stablecoin jenis trust dibebaskan dari kewajiban pelaporan pajak mulai 2027. Langkah ini bertujuan meningkatkan kegunaan stablecoin sebagai alat transaksi di negara tersebut.",
+   "t": "SEC usulkan pembaruan aturan agen transfer dengan sentuhan blockchain",
+   "x": "Regulator AS mengusulkan modernisasi aturan agen transfer yang sudah ada sejak 1980-an. Perubahan ini mencakup pencatatan berbasis blockchain dan sekuritas tokenisasi, yang berpotensi memengaruhi cara aset digital dicatat dan dipindahkan di masa depan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-08-31T13:20:05"
+   "published_at": "2026-09-01T17:52:51"
   },
   {
    "id": 2421,
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
    "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T04:30:32"
@@ -166,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hakim-menggugurkan-gugatan-pencemaran-nama-baik-jake-claver",
    "img": "https://assets.beincrypto.com/img/4jiYkVAg5k3RdXE5l_GK_QIDLkw=/smart/58e43e6a121f4cf99537d3ad81892eee",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T09:29:44"
@@ -186,18 +186,18 @@
    "published_at": "2026-09-02T17:00:19"
   },
   {
-   "id": 2344,
+   "id": 2359,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC usulkan pembaruan aturan agen transfer dengan sentuhan blockchain",
-   "x": "Regulator AS mengusulkan modernisasi aturan agen transfer yang sudah ada sejak 1980-an. Perubahan ini mencakup pencatatan berbasis blockchain dan sekuritas tokenisasi, yang berpotensi memengaruhi cara aset digital dicatat dan dipindahkan di masa depan.",
+   "t": "Badan kejahatan Inggris bekukan $13,5 juta dalam penyelidikan sponsor Liga Primer",
+   "x": "Otoritas Inggris membekukan dana tunai senilai $13,5 juta terkait penyelidikan terhadap Sorare. Perusahaan ini merupakan sponsor Liga Primer Inggris.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
+   "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T17:52:51"
+   "published_at": "2026-09-01T20:14:12"
   },
   {
    "id": 2475,
@@ -222,24 +222,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T11:25:35"
   },
   {
-   "id": 2359,
+   "id": 2459,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Badan kejahatan Inggris bekukan $13,5 juta dalam penyelidikan sponsor Liga Primer",
-   "x": "Otoritas Inggris membekukan dana tunai senilai $13,5 juta terkait penyelidikan terhadap Sorare. Perusahaan ini merupakan sponsor Liga Primer Inggris.",
+   "t": "Ondo dorong SEC, CFTC bawa perpetual AS ke daratan",
+   "x": "Ondo Finance meminta regulator AS untuk memindahkan perdagangan produk derivatif perpetual yang terkait dengan saham ke dalam negeri. Hal ini bertujuan agar regulasi yang ada dapat mengakomodasi aktivitas derivatif yang lebih luas.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T20:14:12"
+   "published_at": "2026-09-02T16:39:22"
   },
   {
    "id": 2512,
@@ -270,20 +270,6 @@
    "published_at": "2026-08-31T14:50:46"
   },
   {
-   "id": 2459,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Ondo dorong SEC, CFTC bawa perpetual AS ke daratan",
-   "x": "Ondo Finance meminta regulator AS untuk memindahkan perdagangan produk derivatif perpetual yang terkait dengan saham ke dalam negeri. Hal ini bertujuan agar regulasi yang ada dapat mengakomodasi aktivitas derivatif yang lebih luas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T16:39:22"
-  },
-  {
    "id": 2320,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -292,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/regulasi-kripto-september-2026-empat-negara",
    "img": "https://assets.beincrypto.com/img/QcBBy1AACKSUiy7xcBYYtKganKY=/smart/258b472929ea459aaf65a2fcdd1e44f5",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T13:13:07"
@@ -348,7 +334,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/globe-dollar-liquidity.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:23"
