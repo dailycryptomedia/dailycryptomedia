@@ -1,5 +1,5 @@
 {
- "total": 23,
+ "total": 24,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -68,24 +68,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
-   "a": "36 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T17:31:04"
   },
   {
-   "id": 2343,
+   "id": 2569,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC ingin perbarui aturan agen transfer era 1970-an untuk era blockchain",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan pembaruan aturan agen transfer untuk menyesuaikan dengan teknologi baru seperti blockchain dan tokenisasi. Perubahan ini penting untuk memastikan kepatuhan dan efisiensi dalam pencatatan kepemilikan aset digital di masa depan.",
+   "t": "Revolut selangkah lagi jadi bank AS berkat persetujuan bersyarat OCC",
+   "x": "Perusahaan teknologi finansial Revolut mendapatkan persetujuan awal dari regulator perbankan utama AS. Langkah ini merupakan bagian dari upaya Revolut untuk beroperasi sebagai bank di Amerika Serikat, yang dapat memperluas jangkauan layanan finansialnya di pasar tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
-   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
+   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
+   "a": "16 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T17:16:01"
+   "published_at": "2026-09-03T18:23:44"
   },
   {
    "id": 2379,
@@ -144,18 +144,18 @@
    "published_at": "2026-09-02T10:25:02"
   },
   {
-   "id": 2501,
+   "id": 2343,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengadilan Michigan perintahkan Kalshi blokir pasar prediksi olahraga",
-   "x": "Pengadilan Michigan memerintahkan bursa prediksi olahraga Kalshi untuk terus memblokir pasar taruhan olahraga. Pelanggaran terhadap perintah ini dapat dikenakan denda harian sebesar US$500.000.",
+   "t": "SEC ingin perbarui aturan agen transfer era 1970-an untuk era blockchain",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan pembaruan aturan agen transfer untuk menyesuaikan dengan teknologi baru seperti blockchain dan tokenisasi. Perubahan ini penting untuk memastikan kepatuhan dan efisiensi dalam pencatatan kepemilikan aset digital di masa depan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
-   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
-   "a": "13 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T04:30:32"
+   "published_at": "2026-09-01T17:16:01"
   },
   {
    "id": 2531,
@@ -166,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hakim-menggugurkan-gugatan-pencemaran-nama-baik-jake-claver",
    "img": "https://assets.beincrypto.com/img/4jiYkVAg5k3RdXE5l_GK_QIDLkw=/smart/58e43e6a121f4cf99537d3ad81892eee",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T09:29:44"
@@ -200,6 +200,20 @@
    "published_at": "2026-09-01T20:14:12"
   },
   {
+   "id": 2501,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan Michigan perintahkan Kalshi blokir pasar prediksi olahraga",
+   "x": "Pengadilan Michigan memerintahkan bursa prediksi olahraga Kalshi untuk terus memblokir pasar taruhan olahraga. Pelanggaran terhadap perintah ini dapat dikenakan denda harian sebesar US$500.000.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
+   "img": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T04:30:32"
+  },
+  {
    "id": 2475,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -222,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T11:25:35"
@@ -320,7 +334,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/globe-dollar-liquidity.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:23"
