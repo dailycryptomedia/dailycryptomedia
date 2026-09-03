@@ -1,5 +1,5 @@
 {
- "total": 311,
+ "total": 310,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/thailand-crypto-identity-checks.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T05:30:34"
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-mau-terbang-lagi-tembok-ini-jadi-ujian-sesungguhnya",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T03:30:41"
@@ -320,7 +320,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T21:31:05"
@@ -354,18 +354,18 @@
    "published_at": "2026-09-02T02:42:10"
   },
   {
-   "id": 2187,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Holder Bitcoin Akan Menghadapi Hard Fork pada 1 September — Ini yang Sebenarnya Berubah",
-   "x": "Luke Dashjr keluar dari OCEAN dan menyebut Bitcoin sebagai Spamcoin. Chain BLAKE2b miliknya akan memisahkan diri pada 1 September. Apa artinya untuk BTC.",
+   "id": 2199,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Blockaid Telusuri Eksploitasi US$9,3 Juta di Flow Lender More Markets",
+   "x": "More Markets kehilangan 15,5 juta Wrapped Flow (WFLOW) akibat eksploitasi di Flow EVM pada hari Senin. Perusahaan keamanan Blockaid memperkirakan dampak awal insiden ini mencapai US$9,3 juta. Protokol peminjaman…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-hard-fork-september-dashjr-ocean",
-   "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
+   "url": "https://id.beincrypto.com/lebih-banyak-pasar-exploit-flow-evm-wflow",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T07:19:21"
+   "published_at": "2026-08-31T10:47:29"
   },
   {
    "id": 2439,
@@ -376,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1FNPVV54PCXHCZQHZ8DRZWN/arthur.webp",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T13:30:00"
@@ -438,18 +438,18 @@
    "published_at": "2026-09-02T03:30:53"
   },
   {
-   "id": 2199,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Blockaid Telusuri Eksploitasi US$9,3 Juta di Flow Lender More Markets",
-   "x": "More Markets kehilangan 15,5 juta Wrapped Flow (WFLOW) akibat eksploitasi di Flow EVM pada hari Senin. Perusahaan keamanan Blockaid memperkirakan dampak awal insiden ini mencapai US$9,3 juta. Protokol peminjaman…",
+   "id": 2380,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Tiga Faktor Ini Mengguncang Wall Street dan Bitcoin",
+   "x": "Jim Cramer mengatakan minyak, The Fed yang hawkish, dan serangan Iran membuat Wall Street terpukul, dan Bitcoin juga tidak luput dari tekanan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/lebih-banyak-pasar-exploit-flow-evm-wflow",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/minyak-the-fed-iran-wall-street-bitcoin",
+   "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-08-31T10:47:29"
+   "published_at": "2026-09-02T01:21:43"
   },
   {
    "id": 2484,
@@ -460,7 +460,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HV8E147WPWCMKXKN1K3NV1/pcvirusmalware.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T21:27:15"
@@ -522,18 +522,18 @@
    "published_at": "2026-09-02T02:30:27"
   },
   {
-   "id": 2380,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Tiga Faktor Ini Mengguncang Wall Street dan Bitcoin",
-   "x": "Jim Cramer mengatakan minyak, The Fed yang hawkish, dan serangan Iran membuat Wall Street terpukul, dan Bitcoin juga tidak luput dari tekanan.",
+   "id": 2286,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trump Peringatkan Kota yang Tolak Data Center Akan Jadi “Tertinggal dan Miskin”",
+   "x": "Presiden Donald Trump meminta masyarakat Amerika untuk berhenti menolak proyek data center. Dalam tulisannya di Truth Social pada hari Senin, ia memperingatkan bahwa kota-kota yang menolak proyek tersebut akan menjadi…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/minyak-the-fed-iran-wall-street-bitcoin",
-   "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/trump-pusat-data-larangan-peringatan",
+   "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-02T01:21:43"
+   "published_at": "2026-09-01T07:19:06"
   },
   {
    "id": 2304,
@@ -606,18 +606,18 @@
    "published_at": "2026-09-01T02:30:08"
   },
   {
-   "id": 2286,
+   "id": 2267,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Trump Peringatkan Kota yang Tolak Data Center Akan Jadi “Tertinggal dan Miskin”",
-   "x": "Presiden Donald Trump meminta masyarakat Amerika untuk berhenti menolak proyek data center. Dalam tulisannya di Truth Social pada hari Senin, ia memperingatkan bahwa kota-kota yang menolak proyek tersebut akan menjadi…",
+   "t": "Trump Bebaskan Dia dari Penjara, Kini Dia Dilarang Seumur Hidup dari Trading",
+   "x": "Kalshi memberikan George Santos larangan trading seumur hidup dan denda sebesar $71.356 beberapa bulan setelah Trump mengurangi hukuman penjaranya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-pusat-data-larangan-peringatan",
-   "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/santos-kalshi-lifetime-trading-ban",
+   "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T07:19:06"
+   "published_at": "2026-09-01T00:47:08"
   },
   {
    "id": 2481,
@@ -642,7 +642,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-regulation-turnstile-1.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T14:35:11"
@@ -670,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
    "img": "https://www.tbstat.com/wp/uploads/2019/05/Screen-Shot-2019-05-23-at-6.44.52-PM-1200x669.png",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T11:32:55"
@@ -690,18 +690,18 @@
    "published_at": "2026-08-31T08:15:35"
   },
   {
-   "id": 2267,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trump Bebaskan Dia dari Penjara, Kini Dia Dilarang Seumur Hidup dari Trading",
-   "x": "Kalshi memberikan George Santos larangan trading seumur hidup dan denda sebesar $71.356 beberapa bulan setelah Trump mengurangi hukuman penjaranya.",
+   "id": 2473,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Grayscale Berseteru dengan SEC tentang Masa Depan ETF Kripto: “Jangan Rusak yang Sudah Berjalan Baik”",
+   "x": "Grayscale mendesak SEC untuk membangun aturan ETF kripto yang sudah ada, memperingatkan bahwa batasan baru akan meningkatkan biaya dan menunda peluncuran dana.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/santos-kalshi-lifetime-trading-ban",
-   "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/grayscale-sec-aturan-etf-kripto",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T00:47:08"
+   "published_at": "2026-09-02T18:44:25"
   },
   {
    "id": 2366,
@@ -774,18 +774,18 @@
    "published_at": "2026-09-02T02:00:43"
   },
   {
-   "id": 2473,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Grayscale Berseteru dengan SEC tentang Masa Depan ETF Kripto: “Jangan Rusak yang Sudah Berjalan Baik”",
-   "x": "Grayscale mendesak SEC untuk membangun aturan ETF kripto yang sudah ada, memperingatkan bahwa batasan baru akan meningkatkan biaya dan menunda peluncuran dana.",
+   "id": 2374,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bagaimana GTA 6 Leaker Raup US$350.000 dari CyberLeek",
+   "x": "Pelaku anonim di balik CyberLeek dikabarkan telah mengantongi sekitar US$350.000, menurut analis on-chain Conor Grogan. Dana ini diduga seluruhnya berasal dari biaya likuiditas, bukan dari penjualan langsung. Penarikan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/grayscale-sec-aturan-etf-kripto",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "12 jam lalu",
+   "url": "https://id.beincrypto.com/gta-6-leaker-meraup-350k-cyberleek",
+   "img": "https://assets.beincrypto.com/img/TEFmUTvj_Yt0FmD6C_op-us9c_w=/smart/b95d8637242c400ca02dde83b57e0072",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-02T18:44:25"
+   "published_at": "2026-09-01T23:10:58"
   },
   {
    "id": 2201,
