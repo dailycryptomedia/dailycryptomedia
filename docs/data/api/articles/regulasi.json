@@ -1,5 +1,5 @@
 {
- "total": 22,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-09-02T17:00:19"
   },
   {
-   "id": 2344,
+   "id": 2359,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC usulkan pembaruan aturan agen transfer dengan sentuhan blockchain",
-   "x": "Regulator AS mengusulkan modernisasi aturan agen transfer yang sudah ada sejak 1980-an. Perubahan ini mencakup pencatatan berbasis blockchain dan sekuritas tokenisasi, yang berpotensi memengaruhi cara aset digital dicatat dan dipindahkan di masa depan.",
+   "t": "Badan kejahatan Inggris bekukan $13,5 juta dalam penyelidikan sponsor Liga Primer",
+   "x": "Otoritas Inggris membekukan dana tunai senilai $13,5 juta terkait penyelidikan terhadap Sorare. Perusahaan ini merupakan sponsor Liga Primer Inggris.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T17:52:51"
+   "published_at": "2026-09-01T20:14:12"
   },
   {
    "id": 2565,
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
    "img": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T18:23:44"
@@ -102,18 +102,18 @@
    "published_at": "2026-09-03T11:25:35"
   },
   {
-   "id": 2359,
+   "id": 2585,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Badan kejahatan Inggris bekukan $13,5 juta dalam penyelidikan sponsor Liga Primer",
-   "x": "Otoritas Inggris membekukan dana tunai senilai $13,5 juta terkait penyelidikan terhadap Sorare. Perusahaan ini merupakan sponsor Liga Primer Inggris.",
+   "t": "CFTC minta pengadilan tolak gugatan CME soal derivatif kripto",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan dari CME Group. CFTC menilai gugatan tersebut tidak berdasar dan CME tidak memiliki kedudukan hukum.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T20:14:12"
+   "published_at": "2026-09-03T21:09:13"
   },
   {
    "id": 2421,
@@ -172,18 +172,18 @@
    "published_at": "2026-09-02T02:30:59"
   },
   {
-   "id": 2585,
+   "id": 2459,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "CFTC minta pengadilan tolak gugatan CME soal derivatif kripto",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan dari CME Group. CFTC menilai gugatan tersebut tidak berdasar dan CME tidak memiliki kedudukan hukum.",
+   "t": "Ondo dorong SEC, CFTC bawa perpetual AS ke daratan",
+   "x": "Ondo Finance meminta regulator AS untuk memindahkan perdagangan produk derivatif perpetual yang terkait dengan saham ke dalam negeri. Hal ini bertujuan agar regulasi yang ada dapat mengakomodasi aktivitas derivatif yang lebih luas.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg",
-   "a": "20 jam lalu",
+   "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T21:09:13"
+   "published_at": "2026-09-02T16:39:22"
   },
   {
    "id": 2579,
@@ -194,7 +194,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T20:16:04"
@@ -236,24 +236,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T12:10:29"
-  },
-  {
-   "id": 2459,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Ondo dorong SEC, CFTC bawa perpetual AS ke daratan",
-   "x": "Ondo Finance meminta regulator AS untuk memindahkan perdagangan produk derivatif perpetual yang terkait dengan saham ke dalam negeri. Hal ini bertujuan agar regulasi yang ada dapat mengakomodasi aktivitas derivatif yang lebih luas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T16:39:22"
   },
   {
    "id": 2512,
