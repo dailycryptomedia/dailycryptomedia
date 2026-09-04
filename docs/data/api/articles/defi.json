@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -144,34 +144,6 @@
    "published_at": "2026-09-01T08:56:21"
   },
   {
-   "id": 2290,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Agustus Pecahkan Rekor Peretasan Bulanan 2026 meski Kerugian Turun 49%",
-   "x": "Aset kripto mengalami 50 kasus peretasan besar pada bulan Agustus, jumlah bulanan tertinggi di tahun 2026. Total kerugian turun menjadi US$136,3 juta, turun 49,5% dibandingkan Juli. Perusahaan keamanan blockchain…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretasan-kripto-agustus-2026-rekor-peckshield",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-01T07:44:17"
-  },
-  {
-   "id": 2412,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "DeFi Technologies lewat tenggat Nasdaq $1, saham DEFT ditinjau untuk delisting",
-   "x": "DeFi Technologies gagal memenuhi syarat harga penutupan minimum di Nasdaq, sehingga sahamnya DEFT berisiko dihapus dari pencatatan. Kegagalan ini dapat memengaruhi kepercayaan investor terhadap perusahaan yang beroperasi di sektor aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/deft-nasdaq-cliff.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T08:20:13"
-  },
-  {
    "id": 2509,
    "k": "defi",
    "cat": "DeFi",
@@ -184,6 +156,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T04:46:52"
+  },
+  {
+   "id": 2412,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "DeFi Technologies lewat tenggat Nasdaq $1, saham DEFT ditinjau untuk delisting",
+   "x": "DeFi Technologies gagal memenuhi syarat harga penutupan minimum di Nasdaq, sehingga sahamnya DEFT berisiko dihapus dari pencatatan. Kegagalan ini dapat memengaruhi kepercayaan investor terhadap perusahaan yang beroperasi di sektor aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/deft-nasdaq-cliff.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T08:20:13"
   },
   {
    "id": 2431,
