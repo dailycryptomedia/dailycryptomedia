@@ -1,5 +1,5 @@
 {
- "total": 69,
+ "total": 70,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T16:38:17"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/target-penurunan-harga-bitcoin-september",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T07:45:50"
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GE6N92Z9CKPGGD4FTE0QQP/hi-bitcoin-etf-is-now-superior-over-dollar-3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T07:59:43"
@@ -166,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-bisa-meledak-ke-us500-ribu-skenarionya-bikin-penasaran",
    "img": null,
-   "a": "36 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T07:00:51"
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-bisa-cetak-high-baru-us81-000-terbuka-jika-level-ini-jebol",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T08:00:52"
@@ -676,18 +676,18 @@
    "published_at": "2026-09-03T09:13:48"
   },
   {
-   "id": 2429,
+   "id": 2619,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Remixpoint Jepang jual altcoin, sisakan 1.506 BTC sebagai satu-satunya taruhan kripto",
-   "x": "Perusahaan Jepang Remixpoint menjual aset kripto senilai $5,5 juta, termasuk ETH, SOL, XRP, dan DOGE. Keputusan ini menyederhanakan strategi investasi kripto mereka menjadi fokus tunggal pada Bitcoin.",
+   "t": "Aliran masuk ETF Bitcoin capai $731 juta, tertinggi sejak Januari",
+   "x": "ETF Bitcoin AS mencatat aliran dana masuk tertinggi sejak Januari, seiring Bitcoin kembali menembus $80.000. Ini menunjukkan minat institusional yang kembali tumbuh pada aset digital utama.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GWCXB7J8XXBV0DNCRSARD5/man-with-a-diplomatic-bag-bitcoin-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg",
+   "a": "30 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T12:00:00"
+   "published_at": "2026-09-04T07:37:13"
   },
   {
    "id": 2360,
@@ -730,6 +730,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T11:10:24"
+  },
+  {
+   "id": 2429,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Remixpoint Jepang jual altcoin, sisakan 1.506 BTC sebagai satu-satunya taruhan kripto",
+   "x": "Perusahaan Jepang Remixpoint menjual aset kripto senilai $5,5 juta, termasuk ETH, SOL, XRP, dan DOGE. Keputusan ini menyederhanakan strategi investasi kripto mereka menjadi fokus tunggal pada Bitcoin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GWCXB7J8XXBV0DNCRSARD5/man-with-a-diplomatic-bag-bitcoin-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T12:00:00"
   },
   {
    "id": 2447,
@@ -796,7 +810,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Strategy-B-logo-decrypt-style-01-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T11:43:14"
@@ -810,7 +824,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/parked-coldcard-loot-begins-moving-as-attacker-routes-1-6m-in-stolen-bitcoin-to-ethereum",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/coldcard-bitcoin-ethereum-cross-chain.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T22:50:13"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T05:28:12"
-  },
-  {
-   "id": 2329,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Gal Gadot bela AI di film Bitcoin: 'Bekerja dengannya atau tertinggal'",
-   "x": "Aktris Gal Gadot membela penggunaan kecerdasan buatan (AI) dalam film terbarunya tentang Bitcoin. Ia menekankan pentingnya beradaptasi dengan teknologi baru agar tidak tertinggal dalam industri kreatif.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/gal-gadot-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T14:39:55"
   }
  ]
 }
