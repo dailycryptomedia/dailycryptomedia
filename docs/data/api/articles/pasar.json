@@ -1,5 +1,5 @@
 {
- "total": 133,
+ "total": 135,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-palantir-tidak-gentar-atas-peringatan-merah-burry",
    "img": "https://assets.beincrypto.com/img/-DfqoOOFAQiujsU0jHyajfZ7ZFM=/smart/d8686024b5044713becb16c12b205347",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T21:23:46"
@@ -60,6 +60,20 @@
    "published_at": "2026-09-02T21:27:15"
   },
   {
+   "id": 2633,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "OpenReserve raih persetujuan awal OCC untuk piagam bank nasional",
+   "x": "OpenReserve Holdings mendapat lampu hijau awal dari OCC untuk mendirikan bank nasional yang berfokus pada penyelesaian on-chain. Langkah ini didukung oleh pendanaan awal sebesar $25 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
+   "img": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
+   "a": "19 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T10:18:40"
+  },
+  {
    "id": 2596,
    "k": "pasar",
    "cat": "Pasar",
@@ -72,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T02:00:20"
-  },
-  {
-   "id": 2482,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mantan CFO xAI dan X, Anthony Armstrong, gabung dewan direksi Coinbase",
-   "x": "Anthony Armstrong, yang sebelumnya menjabat sebagai CFO di xAI, X.AI Corp., dan X Corp., kini bergabung dengan dewan direksi Coinbase. Ia tidak memiliki hubungan dengan CEO Coinbase Brian Armstrong.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T21:03:53"
   },
   {
    "id": 2356,
@@ -144,6 +144,20 @@
    "published_at": "2026-09-03T09:28:34"
   },
   {
+   "id": 2482,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan CFO xAI dan X, Anthony Armstrong, gabung dewan direksi Coinbase",
+   "x": "Anthony Armstrong, yang sebelumnya menjabat sebagai CFO di xAI, X.AI Corp., dan X Corp., kini bergabung dengan dewan direksi Coinbase. Ia tidak memiliki hubungan dengan CEO Coinbase Brian Armstrong.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T21:03:53"
+  },
+  {
    "id": 2621,
    "k": "pasar",
    "cat": "Pasar",
@@ -156,20 +170,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T08:00:46"
-  },
-  {
-   "id": 2303,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance tambah opsi saham AS dan ETF, volume derivatif capai $433 miliar",
-   "x": "Bursa kripto Binance kini menawarkan opsi pada 1.000 saham dan ETF tradisional AS. Volume perdagangan derivatif keuangan tradisional di platform tersebut melonjak signifikan sejak awal tahun.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
-   "img": "https://www.tbstat.com/wp/uploads/2023/04/20230418_Binance_Generic-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T10:33:52"
   },
   {
    "id": 2351,
@@ -228,6 +228,20 @@
    "published_at": "2026-09-02T20:55:55"
   },
   {
+   "id": 2303,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Binance tambah opsi saham AS dan ETF, volume derivatif capai $433 miliar",
+   "x": "Bursa kripto Binance kini menawarkan opsi pada 1.000 saham dan ETF tradisional AS. Volume perdagangan derivatif keuangan tradisional di platform tersebut melonjak signifikan sejak awal tahun.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
+   "img": "https://www.tbstat.com/wp/uploads/2023/04/20230418_Binance_Generic-1200x675.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T10:33:52"
+  },
+  {
    "id": 2383,
    "k": "pasar",
    "cat": "Pasar",
@@ -240,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T02:42:10"
-  },
-  {
-   "id": 2454,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "World buka sumber ProveKit, perangkat identitas zero-knowledge",
-   "x": "Perangkat lunak ProveKit kini tersedia untuk umum, memungkinkan verifikasi identitas tanpa mengungkapkan data pribadi. Ini berpotensi meningkatkan privasi dan keamanan dalam aplikasi Web3.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364",
-   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_Wordlcoin_News-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T16:00:03"
   },
   {
    "id": 2578,
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/openai-chatgpt-6-astra-agi-launch",
    "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T20:20:33"
@@ -312,6 +312,20 @@
    "published_at": "2026-09-01T21:25:27"
   },
   {
+   "id": 2454,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "World buka sumber ProveKit, perangkat identitas zero-knowledge",
+   "x": "Perangkat lunak ProveKit kini tersedia untuk umum, memungkinkan verifikasi identitas tanpa mengungkapkan data pribadi. Ini berpotensi meningkatkan privasi dan keamanan dalam aplikasi Web3.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364",
+   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_Wordlcoin_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T16:00:03"
+  },
+  {
    "id": 2391,
    "k": "pasar",
    "cat": "Pasar",
@@ -326,20 +340,6 @@
    "published_at": "2026-09-02T03:30:53"
   },
   {
-   "id": 2322,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Silhouette luncurkan perdagangan RFQ untuk xStocks di Hyperliquid",
-   "x": "Silhouette memperkenalkan perdagangan RFQ untuk xStocks di Hyperliquid, memungkinkan market maker bersaing dalam perdagangan ekuitas ter-tokenisasi yang diselesaikan on-chain. Ini membuka jalan baru untuk perdagangan aset dunia nyata di blockchain.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T13:30:00"
-  },
-  {
    "id": 2597,
    "k": "pasar",
    "cat": "Pasar",
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/monads-mainnet-upgrade-makes-storing-data-together-98-cheaper",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/monad-mip8-storage-page-warming.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T02:30:28"
@@ -396,6 +396,20 @@
    "published_at": "2026-09-03T07:22:00"
   },
   {
+   "id": 2322,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Silhouette luncurkan perdagangan RFQ untuk xStocks di Hyperliquid",
+   "x": "Silhouette memperkenalkan perdagangan RFQ untuk xStocks di Hyperliquid, memungkinkan market maker bersaing dalam perdagangan ekuitas ter-tokenisasi yang diselesaikan on-chain. Ini membuka jalan baru untuk perdagangan aset dunia nyata di blockchain.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T13:30:00"
+  },
+  {
    "id": 2605,
    "k": "pasar",
    "cat": "Pasar",
@@ -404,24 +418,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-eth-belum-selesai-berdarah-jurang-berikutnya-sudah-menunggu",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T03:30:07"
-  },
-  {
-   "id": 2394,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Volume gabungan Kalshi dan Polymarket turun 15% di Agustus",
-   "x": "Volume gabungan Kalshi dan Polymarket mengalami penurunan bulanan pertama dalam setahun di bulan Agustus. Penurunan ini menandai perubahan tren setelah periode pertumbuhan yang konsisten.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
-   "img": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T04:28:38"
   },
   {
    "id": 2555,
@@ -480,6 +480,20 @@
    "published_at": "2026-09-02T09:48:49"
   },
   {
+   "id": 2394,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Volume gabungan Kalshi dan Polymarket turun 15% di Agustus",
+   "x": "Volume gabungan Kalshi dan Polymarket mengalami penurunan bulanan pertama dalam setahun di bulan Agustus. Penurunan ini menandai perubahan tren setelah periode pertumbuhan yang konsisten.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
+   "img": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T04:28:38"
+  },
+  {
    "id": 2385,
    "k": "pasar",
    "cat": "Pasar",
@@ -492,20 +506,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T02:00:43"
-  },
-  {
-   "id": 2420,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitcoin bertahan dekat $77.000 di tengah aksi jual obligasi global",
-   "x": "Harga bitcoin mendekati $77.000 saat imbal hasil obligasi global melonjak dan ketegangan AS-Iran mendorong harga minyak. Kondisi ini menguji ketahanan aset kripto pasca-reli.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T10:20:03"
   },
   {
    "id": 2414,
@@ -564,6 +564,20 @@
    "published_at": "2026-09-02T04:15:34"
   },
   {
+   "id": 2420,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitcoin bertahan dekat $77.000 di tengah aksi jual obligasi global",
+   "x": "Harga bitcoin mendekati $77.000 saat imbal hasil obligasi global melonjak dan ketegangan AS-Iran mendorong harga minyak. Kondisi ini menguji ketahanan aset kripto pasca-reli.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T10:20:03"
+  },
+  {
    "id": 2397,
    "k": "pasar",
    "cat": "Pasar",
@@ -578,20 +592,6 @@
    "published_at": "2026-09-02T04:00:01"
   },
   {
-   "id": 2396,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pemimpin keuangan G20 bertekad ciptakan 'jalur jelas' inovasi aset digital",
-   "x": "Para pejabat G20 sepakat bahwa aset digital dapat mendorong pertumbuhan ekonomi dan inovasi sektor swasta. Mereka berkomitmen untuk memfasilitasi pengembangan aset digital secara terarah.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
-   "img": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T04:43:52"
-  },
-  {
    "id": 2622,
    "k": "pasar",
    "cat": "Pasar",
@@ -600,7 +600,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-act-may-be-heading-for-lame-duck-after-house-republicans-slash-the-calendar",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-exit.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T08:30:15"
@@ -620,18 +620,18 @@
    "published_at": "2026-09-02T07:39:37"
   },
   {
-   "id": 2306,
+   "id": 2634,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Saylor minta MSCI hapus aturan 'diskriminatif' yang akan singkirkan Strategy",
-   "x": "Michael Saylor meminta MSCI untuk merevisi aturan penyaringan indeks yang dinilai diskriminatif. Aturan baru ini berpotensi menyingkirkan beberapa perusahaan, termasuk Strategy yang dipimpinnya.",
+   "t": "FinCEN kaitkan $12,7 miliar dengan penipuan kripto dari markas Asia",
+   "x": "Jumlah laporan bulanan penipuan aset digital meningkat rata-rata 18%, dengan modus operandi yang kini menyebar melampaui Asia Tenggara. Hal ini menyoroti tantangan pengawasan global terhadap kejahatan siber.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/amnesty-cambodia-scam-compound-gID_7.jpg",
+   "a": "15 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T11:28:45"
+   "published_at": "2026-09-04T10:22:57"
   },
   {
    "id": 2543,
@@ -648,6 +648,20 @@
    "published_at": "2026-09-03T12:41:11"
   },
   {
+   "id": 2396,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pemimpin keuangan G20 bertekad ciptakan 'jalur jelas' inovasi aset digital",
+   "x": "Para pejabat G20 sepakat bahwa aset digital dapat mendorong pertumbuhan ekonomi dan inovasi sektor swasta. Mereka berkomitmen untuk memfasilitasi pengembangan aset digital secara terarah.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
+   "img": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T04:43:52"
+  },
+  {
    "id": 2386,
    "k": "pasar",
    "cat": "Pasar",
@@ -660,20 +674,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T02:00:33"
-  },
-  {
-   "id": 2581,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
-   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
-   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T20:09:25"
   },
   {
    "id": 2562,
@@ -698,24 +698,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pemangkasan-pekerjaan-volkswagen-rencana-masa-depan-2030",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T04:37:06"
   },
   {
-   "id": 2570,
+   "id": 2306,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Gangguan ChatGPT, Claude, dan Grok Buat Pengguna Bertanya Cara Kerja Tanpa AI",
-   "x": "Tiga platform AI utama mengalami gangguan layanan serentak yang menghentikan aktivitas kerja pengguna. Kejadian ini menyoroti ketergantungan yang meningkat pada teknologi AI dalam berbagai sektor dan memicu diskusi tentang strategi mitigasi saat terjadi kendala teknis.",
+   "t": "Saylor minta MSCI hapus aturan 'diskriminatif' yang akan singkirkan Strategy",
+   "x": "Michael Saylor meminta MSCI untuk merevisi aturan penyaringan indeks yang dinilai diskriminatif. Aturan baru ini berpotensi menyingkirkan beberapa perusahaan, termasuk Strategy yang dipimpinnya.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
-   "a": "15 jam lalu",
+   "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T18:31:26"
+   "published_at": "2026-09-01T11:28:45"
   },
   {
    "id": 2345,
@@ -732,6 +732,20 @@
    "published_at": "2026-09-01T17:39:48"
   },
   {
+   "id": 2581,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
+   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
+   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T20:09:25"
+  },
+  {
    "id": 2506,
    "k": "pasar",
    "cat": "Pasar",
@@ -744,20 +758,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T03:00:51"
-  },
-  {
-   "id": 2502,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T03:39:02"
   },
   {
    "id": 2552,
@@ -788,18 +788,18 @@
    "published_at": "2026-09-03T07:36:42"
   },
   {
-   "id": 2337,
+   "id": 2570,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "X alami dugaan kebocoran data, pengguna terima email reset kata sandi",
-   "x": "Pengguna X (sebelumnya Twitter) melaporkan menerima email permintaan reset kata sandi yang tidak mereka ajukan. Pihak X mengakui adanya masalah namun belum mengonfirmasi apakah ini disebabkan oleh kebocoran data baru.",
+   "t": "Gangguan ChatGPT, Claude, dan Grok Buat Pengguna Bertanya Cara Kerja Tanpa AI",
+   "x": "Tiga platform AI utama mengalami gangguan layanan serentak yang menghentikan aktivitas kerja pengguna. Kejadian ini menyoroti ketergantungan yang meningkat pada teknologi AI dalam berbagai sektor dan memicu diskusi tentang strategi mitigasi saat terjadi kendala teknis.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/twitter-x-logo-decrypt-style-01.png-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T16:26:10"
+   "published_at": "2026-09-03T18:31:26"
   },
   {
    "id": 2591,
@@ -816,6 +816,20 @@
    "published_at": "2026-09-03T23:40:09"
   },
   {
+   "id": 2502,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T03:39:02"
+  },
+  {
    "id": 2507,
    "k": "pasar",
    "cat": "Pasar",
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:27"
-  },
-  {
-   "id": 2534,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Robinhood uji coba saham tokenisasi di blockchain, trader memecoin uji batas",
-   "x": "Robinhood meluncurkan tokenisasi saham di blockchain, memicu volume perdagangan memecoin senilai $217 juta. Inisiatif ini menguji potensi interaksi antara aset tradisional dan kripto di ekosistem baru.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/permissionless-supply-pool.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T10:20:55"
   }
  ]
 }
