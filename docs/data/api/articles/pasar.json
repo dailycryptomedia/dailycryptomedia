@@ -1,22 +1,8 @@
 {
- "total": 137,
+ "total": 133,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 2294,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Singapura pertimbangkan akui stablecoin asing",
-   "x": "Pemerintah Singapura sedang mengkaji kemungkinan untuk memasukkan stablecoin yang diterbitkan secara lintas batas ke dalam kerangka regulasinya. Langkah ini merupakan revisi dari kebijakan sebelumnya yang hanya membatasi pada penerbitan domestik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3MSKNNCKBC04B5EH6ZER3/sponsored-marina-bay-sand-singapore-light-water11.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T09:55:11"
-  },
   {
    "id": 2510,
    "k": "pasar",
@@ -60,6 +46,20 @@
    "published_at": "2026-09-01T19:29:12"
   },
   {
+   "id": 2484,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pejabat AS Gandeng CrowdStrike Lawan Malware Pencuri Kripto",
+   "x": "Otoritas federal AS bekerja sama dengan perusahaan keamanan siber untuk memberantas malware yang telah mencuri aset kripto senilai sekitar $150.000 selama delapan tahun. Upaya ini bertujuan melindungi investor dari kerugian akibat peretasan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HV8E147WPWCMKXKN1K3NV1/pcvirusmalware.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T21:27:15"
+  },
+  {
    "id": 2596,
    "k": "pasar",
    "cat": "Pasar",
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-4-september-2026-sui-hive-apt-cake-dan-sol-mulai-unjuk-gigi-reli-besar-di-depan-mata",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T02:00:20"
@@ -86,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T21:03:53"
-  },
-  {
-   "id": 2484,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pejabat AS Gandeng CrowdStrike Lawan Malware Pencuri Kripto",
-   "x": "Otoritas federal AS bekerja sama dengan perusahaan keamanan siber untuk memberantas malware yang telah mencuri aset kripto senilai sekitar $150.000 selama delapan tahun. Upaya ini bertujuan melindungi investor dari kerugian akibat peretasan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HV8E147WPWCMKXKN1K3NV1/pcvirusmalware.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T21:27:15"
   },
   {
    "id": 2356,
@@ -144,6 +130,20 @@
    "published_at": "2026-09-01T20:01:05"
   },
   {
+   "id": 2524,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kalshi ajukan persetujuan kontrak berjangka minyak mentah WTI ke CFTC",
+   "x": "Kalshi dilaporkan berencana mengajukan kontrak berjangka abadi minyak mentah WTI ke regulator AS. Kontrak ini akan diperdagangkan nonstop lima hari seminggu tanpa tanggal kedaluwarsa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K6CAJ83RBB5T87V61EY97D/political-tokens-into-the-white-house-oil.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T09:28:34"
+  },
+  {
    "id": 2621,
    "k": "pasar",
    "cat": "Pasar",
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/robinhood-salip-binance-holder-token-saham-tembus-862-ribu",
    "img": null,
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T08:00:46"
@@ -170,20 +170,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T10:33:52"
-  },
-  {
-   "id": 2524,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kalshi ajukan persetujuan kontrak berjangka minyak mentah WTI ke CFTC",
-   "x": "Kalshi dilaporkan berencana mengajukan kontrak berjangka abadi minyak mentah WTI ke regulator AS. Kontrak ini akan diperdagangkan nonstop lima hari seminggu tanpa tanggal kedaluwarsa.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K6CAJ83RBB5T87V61EY97D/political-tokens-into-the-white-house-oil.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T09:28:34"
   },
   {
    "id": 2351,
@@ -228,6 +214,20 @@
    "published_at": "2026-09-01T22:16:04"
   },
   {
+   "id": 2481,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Coinbase luncurkan derivatif kripto teregulasi di Kanada",
+   "x": "Coinbase kini menawarkan futures perpetual dan dated dengan leverage hingga 10x kepada trader Kanada yang memenuhi syarat. Langkah ini memperluas kehadiran platform perdagangan kripto besar AS di Kanada.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HT238M4JD1C8SQAQHTYKWY/people-street-futures.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T20:55:55"
+  },
+  {
    "id": 2383,
    "k": "pasar",
    "cat": "Pasar",
@@ -256,20 +256,6 @@
    "published_at": "2026-09-02T16:00:03"
   },
   {
-   "id": 2481,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Coinbase luncurkan derivatif kripto teregulasi di Kanada",
-   "x": "Coinbase kini menawarkan futures perpetual dan dated dengan leverage hingga 10x kepada trader Kanada yang memenuhi syarat. Langkah ini memperluas kehadiran platform perdagangan kripto besar AS di Kanada.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HT238M4JD1C8SQAQHTYKWY/people-street-futures.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T20:55:55"
-  },
-  {
    "id": 2578,
    "k": "pasar",
    "cat": "Pasar",
@@ -278,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bis-prototype-shows-why-real-institutional-adoption-on-xrp-ledger-wont-trigger-the-xrp-supply-squeeze-holders-expect",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-ledger-card.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T20:00:11"
@@ -312,6 +298,20 @@
    "published_at": "2026-09-02T20:46:04"
   },
   {
+   "id": 2366,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "PAC kripto pangkas belanja iklan di primer Massachusetts",
+   "x": "Dana kampanye yang didukung industri kripto mengurangi pengeluaran iklan politiknya di Massachusetts. Upaya ini merupakan bagian dari strategi jangka panjang untuk memengaruhi pemilihan umum 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F9CHX26RTFEYCMMVC55WQZ/hi-pacs-in-crypto-and-blockchain2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T21:25:27"
+  },
+  {
    "id": 2391,
    "k": "pasar",
    "cat": "Pasar",
@@ -338,20 +338,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T13:30:00"
-  },
-  {
-   "id": 2366,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "PAC kripto pangkas belanja iklan di primer Massachusetts",
-   "x": "Dana kampanye yang didukung industri kripto mengurangi pengeluaran iklan politiknya di Massachusetts. Upaya ini merupakan bagian dari strategi jangka panjang untuk memengaruhi pemilihan umum 2026.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F9CHX26RTFEYCMMVC55WQZ/hi-pacs-in-crypto-and-blockchain2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T21:25:27"
   },
   {
    "id": 2597,
@@ -390,10 +376,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T20:46:04"
+  },
+  {
+   "id": 2516,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Arus masuk ETF Ether, XRP berakhir saat dana Bitcoin pulih",
+   "x": "Dana ETF Ether mencatat aliran keluar $48 juta setelah sebelumnya menarik dana besar, sementara ETF XRP mengakhiri tren positifnya. Perubahan ini terjadi seiring dana ETF Bitcoin yang kembali menunjukkan minat investor.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K0R10249Q6B17ZZ511GTM6/hi-ethereum-etfs-navigating-tracking-difference-vs-tracking-error.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T07:22:00"
   },
   {
    "id": 2605,
@@ -424,20 +424,6 @@
    "published_at": "2026-09-02T04:28:38"
   },
   {
-   "id": 2516,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Arus masuk ETF Ether, XRP berakhir saat dana Bitcoin pulih",
-   "x": "Dana ETF Ether mencatat aliran keluar $48 juta setelah sebelumnya menarik dana besar, sementara ETF XRP mengakhiri tren positifnya. Perubahan ini terjadi seiring dana ETF Bitcoin yang kembali menunjukkan minat investor.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K0R10249Q6B17ZZ511GTM6/hi-ethereum-etfs-navigating-tracking-difference-vs-tracking-error.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T07:22:00"
-  },
-  {
    "id": 2555,
    "k": "pasar",
    "cat": "Pasar",
@@ -446,7 +432,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kalshis-new-oil-contract-promises-non-stop-exposure-but-a-hidden-flaw-could-expose-traders-to-massive-weekend-shocks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/weekend-gap-barrel.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T16:00:19"
@@ -480,6 +466,20 @@
    "published_at": "2026-09-02T16:43:53"
   },
   {
+   "id": 2417,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Industri kripto desak SEC hindari pembatasan ETF baru secara umum",
+   "x": "Grayscale dan a16z meminta SEC mempertahankan aturan klasifikasi yang ada dan tidak mengategorikan produk ETF baru secara seragam. Tujuannya agar proses peninjauan produk-produk ini lebih jelas dan cepat.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GP20DVTRFKRWTMYV78JG6F/hi-a-beginners-guide-on-launching-a-security-token-offering-copy.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T09:48:49"
+  },
+  {
    "id": 2385,
    "k": "pasar",
    "cat": "Pasar",
@@ -508,20 +508,6 @@
    "published_at": "2026-09-02T10:20:03"
   },
   {
-   "id": 2417,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Industri kripto desak SEC hindari pembatasan ETF baru secara umum",
-   "x": "Grayscale dan a16z meminta SEC mempertahankan aturan klasifikasi yang ada dan tidak mengategorikan produk ETF baru secara seragam. Tujuannya agar proses peninjauan produk-produk ini lebih jelas dan cepat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GP20DVTRFKRWTMYV78JG6F/hi-a-beginners-guide-on-launching-a-security-token-offering-copy.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T09:48:49"
-  },
-  {
    "id": 2414,
    "k": "pasar",
    "cat": "Pasar",
@@ -544,7 +530,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/xrp-ledger-bis-test-token-terlewatkan",
    "img": "https://assets.beincrypto.com/img/21lJG92OHfJ7eam_zUlb6s59450=/smart/ee08314885c84a6b8c6a25179c2ec0fe",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T20:39:45"
@@ -562,6 +548,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T23:46:04"
+  },
+  {
+   "id": 2393,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Core DAO rencanakan hard fork darurat setelah validator tarik imbalan berlebih",
+   "x": "Core DAO akan melakukan hard fork darurat untuk mengatasi penarikan imbalan berlebih oleh validator. Insiden ini diklaim telah terkendali dan tidak akan memengaruhi transaksi yang sudah dikonfirmasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1G5839NS07S6W53BDEES0HC/man-hacker-breaking-blockchain-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T04:15:34"
   },
   {
    "id": 2397,
@@ -590,20 +590,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T04:43:52"
-  },
-  {
-   "id": 2393,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Core DAO rencanakan hard fork darurat setelah validator tarik imbalan berlebih",
-   "x": "Core DAO akan melakukan hard fork darurat untuk mengatasi penarikan imbalan berlebih oleh validator. Insiden ini diklaim telah terkendali dan tidak akan memengaruhi transaksi yang sudah dikonfirmasi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1G5839NS07S6W53BDEES0HC/man-hacker-breaking-blockchain-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T04:15:34"
   },
   {
    "id": 2622,
@@ -648,6 +634,20 @@
    "published_at": "2026-09-01T11:28:45"
   },
   {
+   "id": 2543,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Nvidia beli Hugging Face senilai $12,9 miliar untuk perluas AI",
+   "x": "Nvidia mengakuisisi Hugging Face senilai $12,9 miliar, platform yang digunakan oleh jutaan pengembang AI. Langkah ini memperkuat posisi Nvidia di pasar perangkat lunak kecerdasan buatan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KKFHFD5J5RD9BJBAS2SSBF/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T12:41:11"
+  },
+  {
    "id": 2386,
    "k": "pasar",
    "cat": "Pasar",
@@ -662,32 +662,18 @@
    "published_at": "2026-09-02T02:00:33"
   },
   {
-   "id": 2295,
+   "id": 2581,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Payward akan tokenisasi 100 saham London, siap trading di LSE 24",
-   "x": "Perusahaan induk Kraken, Payward, berencana menokenisasi 100 saham yang terdaftar di London menjadi produk xStocks. Inisiatif ini, yang menunggu persetujuan regulator, bertujuan mengintegrasikan aset tradisional ke dalam ekosistem aset digital.",
+   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
+   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
-   "img": "https://www.tbstat.com/wp/uploads/2019/08/shutterstock_431001775-1017x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
+   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T09:39:20"
-  },
-  {
-   "id": 2543,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Nvidia beli Hugging Face senilai $12,9 miliar untuk perluas AI",
-   "x": "Nvidia mengakuisisi Hugging Face senilai $12,9 miliar, platform yang digunakan oleh jutaan pengembang AI. Langkah ini memperkuat posisi Nvidia di pasar perangkat lunak kecerdasan buatan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KKFHFD5J5RD9BJBAS2SSBF/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T12:41:11"
+   "published_at": "2026-09-03T20:09:25"
   },
   {
    "id": 2562,
@@ -698,7 +684,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/revolut-hit-by-washingtons-crypto-boom-illusion-exposing-a-massive-two-tier-banking-system",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bank-crossroads.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T16:55:12"
@@ -732,34 +718,6 @@
    "published_at": "2026-09-03T18:31:26"
   },
   {
-   "id": 2299,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Jadwal Token Unlock Awal September 2026, Kripto Apa Saja?",
-   "x": "Sebanyak US$820 juta token akan dibuka pada awal September 2026, dengan HYPE, SUI, EIGEN, dan ENA menjadi yang teratas. Peristiwa ini berpotensi memengaruhi pasokan dan harga aset kripto terkait.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/jadwal-token-unlock-awal-september-2026-kripto-apa-saja",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T09:00:19"
-  },
-  {
-   "id": 2581,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
-   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
-   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T20:09:25"
-  },
-  {
    "id": 2345,
    "k": "pasar",
    "cat": "Pasar",
@@ -774,6 +732,34 @@
    "published_at": "2026-09-01T17:39:48"
   },
   {
+   "id": 2506,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Harga XRP berpotensi merosot tajam, level ini jadi pemeran utama",
+   "x": "Harga XRP menghadapi ujian penting seiring melemahnya momentum dan meningkatnya risiko koreksi pasar. Level support menjadi krusial untuk menentukan arah pergerakan selanjutnya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-xrp-bisa-merosot-tajam-level-ini-jadi-pemeran-utamanya",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T03:00:51"
+  },
+  {
+   "id": 2502,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T03:39:02"
+  },
+  {
    "id": 2552,
    "k": "pasar",
    "cat": "Pasar",
@@ -782,7 +768,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-keeps-whipsawing-around-77000-and-etf-investors-are-doing-the-same",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-rollercoaster.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T14:50:20"
@@ -816,32 +802,46 @@
    "published_at": "2026-09-01T16:26:10"
   },
   {
-   "id": 2506,
+   "id": 2591,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Harga XRP berpotensi merosot tajam, level ini jadi pemeran utama",
-   "x": "Harga XRP menghadapi ujian penting seiring melemahnya momentum dan meningkatnya risiko koreksi pasar. Level support menjadi krusial untuk menentukan arah pergerakan selanjutnya.",
+   "t": "Tether digugat terkait koin 'pig butcher' beku, 6.600 mahasiswa dapat pinjaman kripto",
+   "x": "Pengusaha Thailand menggugat Tether atas pembekuan USDT senilai $42 juta yang terkait dengan penipuan 'pig butchering'. Perusahaan kripto Australia juga menghadapi denda besar jika tidak memenuhi tenggat lisensi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MT8AVRA0N4FG4HK9PK2CZ5/asia-express-11.jpg",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T23:40:09"
+  },
+  {
+   "id": 2507,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Enam bulan pasca hype, benarkah AI agent mulai hidup di blockchain?",
+   "x": "AI agent mulai mengadopsi blockchain untuk transaksi digital, enam bulan setelah hype awal. Perkembangan ini menunjukkan potensi integrasi AI dan teknologi blockchain di dunia kripto.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-xrp-bisa-merosot-tajam-level-ini-jadi-pemeran-utamanya",
+   "url": "https://blockchainmedia.id/enam-bulan-pasca-hype-benarkah-ai-agent-mulai-hidup-di-blockchain",
    "img": null,
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T03:00:51"
+   "published_at": "2026-09-03T02:30:27"
   },
   {
-   "id": 2502,
+   "id": 2534,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-   "a": "kemarin",
+   "t": "Robinhood uji coba saham tokenisasi di blockchain, trader memecoin uji batas",
+   "x": "Robinhood meluncurkan tokenisasi saham di blockchain, memicu volume perdagangan memecoin senilai $217 juta. Inisiatif ini menguji potensi interaksi antara aset tradisional dan kripto di ekosistem baru.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/permissionless-supply-pool.jpg",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T03:39:02"
+   "published_at": "2026-09-03T10:20:55"
   }
  ]
 }
