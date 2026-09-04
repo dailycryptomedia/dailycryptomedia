@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-trader-3000-menjadi-2-1-juta-meme-amc",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T10:03:54"
   },
   {
-   "id": 2370,
+   "id": 2494,
    "k": "web3",
    "cat": "Web3",
-   "t": "Kegagalan imbalan validator Core DAO picu blokir transfer bursa",
-   "x": "Coinbase dan LBank menghentikan sementara transfer token CORE akibat kegagalan imbalan validator. Insiden ini menimbulkan pertanyaan mengenai penerbitan token di masa depan.",
+   "t": "Hampir $10 juta harus keluar dari jaringan Ethereum L2 yang mati sebelum Malam Tahun Baru",
+   "x": "Jaringan Ethereum layer 2 menghentikan deposit dan memperingatkan rute keluar sebelum penutupan total. Pengguna harus segera memindahkan aset mereka untuk menghindari kehilangan dana yang tidak dapat dipulihkan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-validator-reward-failure-on-core-dao-triggers-exchange-transfer-blocks-and-leaves-token-issuance-in-question",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/core-validator-reward-overflow.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/silicon-last-departure.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T21:35:27"
+   "published_at": "2026-09-03T01:00:59"
   },
   {
    "id": 2546,
@@ -74,18 +74,18 @@
    "published_at": "2026-09-02T05:04:42"
   },
   {
-   "id": 2494,
+   "id": 2514,
    "k": "web3",
    "cat": "Web3",
-   "t": "Hampir $10 juta harus keluar dari jaringan Ethereum L2 yang mati sebelum Malam Tahun Baru",
-   "x": "Jaringan Ethereum layer 2 menghentikan deposit dan memperingatkan rute keluar sebelum penutupan total. Pengguna harus segera memindahkan aset mereka untuk menghindari kehilangan dana yang tidak dapat dipulihkan.",
+   "t": "Ontology paksa pembaruan node mendesak setelah aktivitas jahat restart chain",
+   "x": "Ontology mewajibkan pembaruan node versi 3.1.5 karena serangan jahat yang mengganggu operasional jaringan. Detail mengenai jalur serangan dan pemulihan layanan masih belum diungkapkan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/silicon-last-departure.jpg",
+   "url": "https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ontology-mainnet-recovery-bridge.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T01:00:59"
+   "published_at": "2026-09-03T07:00:34"
   },
   {
    "id": 2428,
@@ -100,20 +100,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T11:06:13"
-  },
-  {
-   "id": 2514,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ontology paksa pembaruan node mendesak setelah aktivitas jahat restart chain",
-   "x": "Ontology mewajibkan pembaruan node versi 3.1.5 karena serangan jahat yang mengganggu operasional jaringan. Detail mengenai jalur serangan dan pemulihan layanan masih belum diungkapkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ontology-mainnet-recovery-bridge.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T07:00:34"
   },
   {
    "id": 2404,
@@ -138,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cracking-1-33-trillion-daily-tokens-b-ai-powers-the-ai-grid-with-full-stack-infrastructure-to-fuel-the-agentic-era",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-cover-1.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T14:58:34"
@@ -166,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/privacy-coin-flaw-risks-endless-token-creation-leaving-node-operators-with-a-deadline-in-hours-to-fix-it",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/firo-network-split.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T20:05:37"

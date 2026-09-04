@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 29,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,38 +12,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/stablecoin-sudah-jadi-urusan-g20-indonesia-perlu-mulai-khawatir-soal-dolar-digital",
    "img": null,
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T03:00:11"
   },
   {
-   "id": 2368,
+   "id": 2695,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Robert Kiyosaki Berutang US$1,2 Miliar: Apakah Bitcoinnya Terancam?",
-   "x": "Robert Kiyosaki mengatakan ia memiliki utang sebesar $1,2 miliar. Pinjaman tersebut berada pada apartemen, bukan pada Bitcoin dan emas yang ia promosikan.",
+   "t": "Grayscale Sebut 3 Blockchain yang Pimpin Reli Saham Tokenized",
+   "x": "Grayscale mengatakan Robinhood Chain, BNB Chain, dan Solana memimpin perdagangan saham ter-tokenisasi, dengan volume mingguan mendekati USD3 miliar.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/robert-kiyosaki-utang-bitcoin-properti",
-   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/grayscale-saham-tertokenisasi-chain-terkemuka",
+   "img": "https://assets.beincrypto.com/img/bv_Nc4BYhxqlfYGM_J_YEbgT7hY=/smart/9455b93ed42e47d3bcdd20853c05a9ba",
+   "a": "19 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-01T21:06:51"
-  },
-  {
-   "id": 2367,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Nvidia investasikan $3,5 miliar ke MediaTek perluas bisnis di luar GPU",
-   "x": "Nvidia berinvestasi pada MediaTek sebagai bagian dari penawaran obligasi raksasa perusahaan Taiwan tersebut. Langkah ini memperluas ekosistem chip Nvidia ke pesaing yang juga mengembangkan akselerator AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T21:31:04"
+   "published_at": "2026-09-04T21:47:24"
   },
   {
    "id": 2567,
@@ -68,10 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NX00RHX337C9BD43FDVDSS/hi-robinhood-down-several-times-as-dj-sees-biggest-one-day-gains-1.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:56:52"
+  },
+  {
+   "id": 2553,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SoFi hubungkan jaringan perbankan dan stablecoin ke Kraken dalam kesepakatan baru",
+   "x": "Kraken akan mencantumkan stablecoin SoFiUSD dan memanfaatkan jaringan penyelesaian dolar SoFi yang beroperasi 24/7. Kesepakatan ini memungkinkan Kraken Prime mengeksekusi perdagangan bagi pelanggan kripto SoFi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T15:40:08"
   },
   {
    "id": 2536,
@@ -116,20 +116,6 @@
    "published_at": "2026-09-01T23:29:55"
   },
   {
-   "id": 2553,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SoFi hubungkan jaringan perbankan dan stablecoin ke Kraken dalam kesepakatan baru",
-   "x": "Kraken akan mencantumkan stablecoin SoFiUSD dan memanfaatkan jaringan penyelesaian dolar SoFi yang beroperasi 24/7. Kesepakatan ini memungkinkan Kraken Prime mengeksekusi perdagangan bagi pelanggan kripto SoFi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T15:40:08"
-  },
-  {
    "id": 2615,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -152,10 +138,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NZDZRJB5DD0DA0Z7XCR531/hi-why-south-korea-is-struggling-to-decide-who-can-issue-stablecoins-1.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T10:42:10"
+  },
+  {
+   "id": 2477,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Goldman Sachs dan BofA akan luncurkan stablecoin dolar bersama",
+   "x": "Sebanyak 21 bank, termasuk Goldman Sachs dan Bank of America, berencana meluncurkan stablecoin dolar AS pada paruh pertama 2027. Inisiatif ini menunjukkan minat institusi keuangan tradisional terhadap aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T20:01:04"
   },
   {
    "id": 2554,
@@ -200,20 +200,6 @@
    "published_at": "2026-09-04T19:16:51"
   },
   {
-   "id": 2477,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Goldman Sachs dan BofA akan luncurkan stablecoin dolar bersama",
-   "x": "Sebanyak 21 bank, termasuk Goldman Sachs dan Bank of America, berencana meluncurkan stablecoin dolar AS pada paruh pertama 2027. Inisiatif ini menunjukkan minat institusi keuangan tradisional terhadap aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T20:01:04"
-  },
-  {
    "id": 2426,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -250,7 +236,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
    "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T07:59:34"
@@ -264,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-emas-turun-prakiraan-payroll-as",
    "img": "https://assets.beincrypto.com/img/Hp5CQhaVUWegTAWUuslPohySq8o=/smart/15975f6f4a6c429b8cbb8540c450aca1",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T12:42:40"
@@ -306,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
    "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:46:06"
