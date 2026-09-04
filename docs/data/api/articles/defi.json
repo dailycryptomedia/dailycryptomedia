@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KD8ZMVTH2ZVX65BHNFY5E4/hi-how-to-earn-passive-income-with-peer-to-peer-lending.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T10:59:34"
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-investasi-saham-di-robinhood-chain-sambil-mendapat-passive-income",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T09:00:36"
@@ -102,6 +102,20 @@
    "published_at": "2026-09-01T12:34:30"
   },
   {
+   "id": 2625,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Cara Swap Kripto di DEX Tanpa Slippage Besar",
+   "x": "Transaksi swap aset kripto di bursa terdesentralisasi (DEX) seringkali terpengaruh slippage tinggi. Artikel ini memberikan panduan untuk meminimalkan dampaknya demi efisiensi transaksi on-chain.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cara-swap-crypto-dex-slippage",
+   "img": null,
+   "a": "6 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T09:00:40"
+  },
+  {
    "id": 2327,
    "k": "defi",
    "cat": "DeFi",
@@ -124,38 +138,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/arthur-hayes-eurjpy-likuiditas-kripto-call",
    "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-03T09:00:00"
-  },
-  {
-   "id": 2291,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Validator Cronos hapus riwayat transaksi untuk atasi eksploitasi protokol pinjaman senilai US$75 juta",
-   "x": "Validator jaringan Cronos menghapus riwayat transaksi untuk menghentikan eksploitasi protokol pinjaman senilai US$75 juta. Tindakan ini dilakukan untuk menahan aset di rantai, namun pengguna belum mendapat kepastian kapan layanan akan pulih.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/cronos-tectonic-exploit-halt.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T08:56:21"
-  },
-  {
-   "id": 2509,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Full Sail Menjadi Protokol Terbaru di 2026 yang Tutup setelah Peretasan",
-   "x": "Full Sail, sebuah decentralized exchange, menghentikan operasional di Sui (SUI) setelah penyerang menguras sekitar US$91.000 dari tiga vault miliknya pada 29 Agustus. Penutupan ini membuat protokol DeFi tersebut menjadi…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/full-sail-shutdown-exploit",
-   "img": "https://assets.beincrypto.com/img/oVY8mXzdxbpNZ9AoAk1dEg-bYgQ=/smart/691585afd384410ea9fc821902095520",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-03T04:46:52"
+   "published_at": "2026-09-03T09:00:00"
   },
   {
    "id": 2412,
@@ -172,6 +158,20 @@
    "published_at": "2026-09-02T08:20:13"
   },
   {
+   "id": 2624,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Aster Pimpin Token Perp DEX dengan 256.000 Holder, 5 Kali Lipat dari Rival Terdekat",
+   "x": "Aster (ASTER) memimpin semua token decentralized exchange perpetual yang diluncurkan dalam satu tahun terakhir berdasarkan jumlah holder, dengan sekitar 256.000 wallet. Data yang terbit hari Kamis merangking tujuh token…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pemegang-token-aster-perp-dex-memimpin",
+   "img": "https://assets.beincrypto.com/img/C5f_G26j7KUw8cQ_7UOlynZx0j0=/smart/d94f59ef7357450b8b128f72c3414c69",
+   "a": "41 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-04T08:24:57"
+  },
+  {
    "id": 2431,
    "k": "defi",
    "cat": "DeFi",
@@ -184,6 +184,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T11:50:26"
+  },
+  {
+   "id": 2509,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Full Sail Menjadi Protokol Terbaru di 2026 yang Tutup setelah Peretasan",
+   "x": "Full Sail, sebuah decentralized exchange, menghentikan operasional di Sui (SUI) setelah penyerang menguras sekitar US$91.000 dari tiga vault miliknya pada 29 Agustus. Penutupan ini membuat protokol DeFi tersebut menjadi…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/full-sail-shutdown-exploit",
+   "img": "https://assets.beincrypto.com/img/oVY8mXzdxbpNZ9AoAk1dEg-bYgQ=/smart/691585afd384410ea9fc821902095520",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-03T04:46:52"
   },
   {
    "id": 2446,
