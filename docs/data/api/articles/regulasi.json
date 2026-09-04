@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-02T18:44:25"
   },
   {
-   "id": 2334,
+   "id": 2461,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Strategi pakai kata SEC MSCI untuk ancam MSTR $24 miliar",
-   "x": "Sebuah strategi menantang klasifikasi MSCI dengan menggunakan argumen regulator yang pernah dilontarkan MSCI sendiri. Hal ini memaksa MSCI menilai apakah Bitcoin layak masuk dalam bisnis operasional.",
+   "t": "SEC ubah aturan Wall Street 50 tahun agar blockchain publik tentukan kepemilikan saham",
+   "x": "Regulator AS merevisi aturan lama untuk memungkinkan blockchain publik menentukan kepemilikan saham secara legal. Perubahan ini berpotensi memengaruhi cara aset digital diperdagangkan dan dicatat di masa depan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/sec-bitcoin-tug-war.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T15:50:55"
+   "published_at": "2026-09-02T17:00:19"
   },
   {
    "id": 2344,
@@ -88,18 +88,18 @@
    "published_at": "2026-09-02T00:10:24"
   },
   {
-   "id": 2461,
+   "id": 2538,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC ubah aturan Wall Street 50 tahun agar blockchain publik tentukan kepemilikan saham",
-   "x": "Regulator AS merevisi aturan lama untuk memungkinkan blockchain publik menentukan kepemilikan saham secara legal. Perubahan ini berpotensi memengaruhi cara aset digital diperdagangkan dan dicatat di masa depan.",
+   "t": "Kasus pengadilan TrueUSD senilai $456 juta, terdakwa diminta ungkap sumber dana hukum",
+   "x": "Pengadilan meminta terdakwa dalam gugatan senilai $456 juta terkait TrueUSD untuk mengungkapkan sumber pendanaan hukumnya dalam beberapa hari. Kegagalan mematuhi dapat berujung pada sanksi pengadilan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
+   "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T17:00:19"
+   "published_at": "2026-09-03T11:25:35"
   },
   {
    "id": 2359,
@@ -158,18 +158,18 @@
    "published_at": "2026-09-03T09:29:44"
   },
   {
-   "id": 2538,
+   "id": 2382,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kasus pengadilan TrueUSD senilai $456 juta, terdakwa diminta ungkap sumber dana hukum",
-   "x": "Pengadilan meminta terdakwa dalam gugatan senilai $456 juta terkait TrueUSD untuk mengungkapkan sumber pendanaan hukumnya dalam beberapa hari. Kegagalan mematuhi dapat berujung pada sanksi pengadilan.",
+   "t": "Kebocoran data kepatuhan ungkap identitas 291 pengguna kripto",
+   "x": "Data kepatuhan yang bocor mencocokkan nama pengguna dengan aktivitas dompet kripto mereka, mengakhiri anonimitas. Insiden ini menyoroti risiko privasi dalam pengelolaan data pengguna oleh platform aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-shadow-phishing-risk.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T11:25:35"
+   "published_at": "2026-09-02T02:30:59"
   },
   {
    "id": 2585,
@@ -208,7 +208,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T20:46:52"
@@ -228,18 +228,18 @@
    "published_at": "2026-09-02T18:57:18"
   },
   {
-   "id": 2382,
+   "id": 2648,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kebocoran data kepatuhan ungkap identitas 291 pengguna kripto",
-   "x": "Data kepatuhan yang bocor mencocokkan nama pengguna dengan aktivitas dompet kripto mereka, mengakhiri anonimitas. Insiden ini menyoroti risiko privasi dalam pengelolaan data pengguna oleh platform aset digital.",
+   "t": "Australia beri batas waktu 30 Sept. bagi perusahaan kripto untuk berizin atau hadapi tindakan penegakan",
+   "x": "Australia menetapkan tenggat waktu 30 September bagi perusahaan aset digital untuk mendapatkan lisensi atau mengambil jalur lain guna menghindari tindakan penegakan. Langkah ini bertujuan meningkatkan kepatuhan dan perlindungan investor di sektor aset kripto negara tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-shadow-phishing-risk.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T02:30:59"
+   "published_at": "2026-09-04T12:10:29"
   },
   {
    "id": 2459,
@@ -284,18 +284,18 @@
    "published_at": "2026-09-03T06:00:54"
   },
   {
-   "id": 2648,
+   "id": 2504,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Australia beri batas waktu 30 Sept. bagi perusahaan kripto untuk berizin atau hadapi tindakan penegakan",
-   "x": "Australia menetapkan tenggat waktu 30 September bagi perusahaan aset digital untuk mendapatkan lisensi atau mengambil jalur lain guna menghindari tindakan penegakan. Langkah ini bertujuan meningkatkan kepatuhan dan perlindungan investor di sektor aset kripto negara tersebut.",
+   "t": "Stablecoin jadi pembeli utang The Fed secara diam-diam",
+   "x": "Token dolar berpotensi memperluas penggunaan pribadi dan permintaan surat utang Treasury tanpa menentukan alokasi cadangan bank sentral. Ini menunjukkan peran stablecoin yang berkembang di luar aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/globe-dollar-liquidity.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T12:10:29"
+   "published_at": "2026-09-03T02:30:23"
   },
   {
    "id": 2422,
@@ -312,20 +312,6 @@
    "published_at": "2026-09-02T10:22:36"
   },
   {
-   "id": 2504,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Stablecoin jadi pembeli utang The Fed secara diam-diam",
-   "x": "Token dolar berpotensi memperluas penggunaan pribadi dan permintaan surat utang Treasury tanpa menentukan alokasi cadangan bank sentral. Ini menunjukkan peran stablecoin yang berkembang di luar aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/globe-dollar-liquidity.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T02:30:23"
-  },
-  {
    "id": 2599,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -334,7 +320,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/regulasi-ai-zuckerberg-sanders-showdown",
    "img": "https://assets.beincrypto.com/img/yCTCpOOfUBpNdbOVtYkEAh5_g_E=/smart/6f4a4fe8a37b4389ba53946dc9b000ac",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T02:01:08"

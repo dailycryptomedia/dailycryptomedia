@@ -1,5 +1,5 @@
 {
- "total": 315,
+ "total": 309,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/stablecoin-sudah-jadi-urusan-g20-indonesia-perlu-mulai-khawatir-soal-dolar-digital",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T03:00:11"
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377412/openai-agents-hack-german-website",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png",
-   "a": "2 menit lalu",
+   "a": "31 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T15:36:04"
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-04-ripple-college-sports-push-xrp-partnership-florida-gators-413576",
    "img": "https://www.tbstat.com/wp/uploads/2026/01/20260108_XRP_News-1200x675.jpg",
-   "a": "1 menit lalu",
+   "a": "29 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T15:37:17"
@@ -348,7 +348,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-bisa-meledak-ke-us500-ribu-skenarionya-bikin-penasaran",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T07:00:51"
@@ -368,18 +368,18 @@
    "published_at": "2026-09-02T13:30:00"
   },
   {
-   "id": 2334,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Strategi pakai kata SEC MSCI untuk ancam MSTR $24 miliar",
-   "x": "Sebuah strategi menantang klasifikasi MSCI dengan menggunakan argumen regulator yang pernah dilontarkan MSCI sendiri. Hal ini memaksa MSCI menilai apakah Bitcoin layak masuk dalam bisnis operasional.",
+   "id": 2445,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pencucian Kripto Korut Rp30 Miliar Beri Senjata Finansial Lawan DeFi",
+   "x": "Gugatan terhadap bursa kripto Hyperliquid oleh kelompok Lazarus Korea Utara senilai $30 juta menjadi amunisi bagi regulator keuangan tradisional untuk membatasi debut DeFi di AS. Hal ini meningkatkan kekhawatiran tentang potensi penyalahgunaan pasar terdesentralisasi oleh aktor negara yang terkena sanksi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/sec-bitcoin-tug-war.jpg",
+   "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-regulation-turnstile-1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T15:50:55"
+   "published_at": "2026-09-02T14:35:11"
   },
   {
    "id": 2636,
@@ -390,7 +390,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pakta-as-inggris-pusat-penipuan-kripto",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T10:49:32"
@@ -432,7 +432,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-swap-crypto-dex-slippage",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:00:40"
@@ -452,18 +452,18 @@
    "published_at": "2026-09-02T21:27:15"
   },
   {
-   "id": 2445,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pencucian Kripto Korut Rp30 Miliar Beri Senjata Finansial Lawan DeFi",
-   "x": "Gugatan terhadap bursa kripto Hyperliquid oleh kelompok Lazarus Korea Utara senilai $30 juta menjadi amunisi bagi regulator keuangan tradisional untuk membatasi debut DeFi di AS. Hal ini meningkatkan kekhawatiran tentang potensi penyalahgunaan pasar terdesentralisasi oleh aktor negara yang terkena sanksi.",
+   "id": 2356,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pembaruan OpenAI: Pengaman Baru Bisa Blokir 700 Agen AI Jahat Lebih Cepat",
+   "x": "OpenAI melaporkan pengaman baru yang dikembangkan dapat mendeteksi dan memblokir 700 agen AI jahat dalam 24 jam. Insiden ini menyoroti pentingnya keamanan siber dalam pengembangan teknologi AI yang pesat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-regulation-turnstile-1.jpg",
+   "url": "https://cryptoslate.com/openai-update-shows-new-safeguards-would-have-cut-off-700-rogue-ai-agent-swam-24-hours-faster",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/openai-agent-vault-breach.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T14:35:11"
+   "published_at": "2026-09-01T19:30:21"
   },
   {
    "id": 2380,
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-4-september-2026-sui-hive-apt-cake-dan-sol-mulai-unjuk-gigi-reli-besar-di-depan-mata",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T02:00:20"
@@ -530,24 +530,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NX00RHX337C9BD43FDVDSS/hi-robinhood-down-several-times-as-dj-sees-biggest-one-day-gains-1.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:56:52"
   },
   {
-   "id": 2356,
+   "id": 2351,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pembaruan OpenAI: Pengaman Baru Bisa Blokir 700 Agen AI Jahat Lebih Cepat",
-   "x": "OpenAI melaporkan pengaman baru yang dikembangkan dapat mendeteksi dan memblokir 700 agen AI jahat dalam 24 jam. Insiden ini menyoroti pentingnya keamanan siber dalam pengembangan teknologi AI yang pesat.",
+   "t": "Optimism percepat kecepatan jaringan jadi 200 ms, tapi feed data standar hilangkan info penting",
+   "x": "Jaringan Optimism dikabarkan mencapai kecepatan 200 milidetik, namun feed data standar mengalami masalah kehilangan informasi krusial. Hal ini memaksa konsumen dan penyedia RPC untuk melakukan audit nilai placeholder.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/openai-update-shows-new-safeguards-would-have-cut-off-700-rogue-ai-agent-swam-24-hours-faster",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/openai-agent-vault-breach.jpg",
+   "url": "https://cryptoslate.com/optimism-is-pushing-network-speeds-to-200-milliseconds-but-standard-data-feeds-are-quietly-dropping-key-information",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-payload-printer.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T19:30:21"
+   "published_at": "2026-09-01T18:35:15"
   },
   {
    "id": 2518,
@@ -600,7 +600,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/robinhood-salip-binance-holder-token-saham-tembus-862-ribu",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T08:00:46"
@@ -620,18 +620,18 @@
    "published_at": "2026-09-03T09:28:34"
   },
   {
-   "id": 2351,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Optimism percepat kecepatan jaringan jadi 200 ms, tapi feed data standar hilangkan info penting",
-   "x": "Jaringan Optimism dikabarkan mencapai kecepatan 200 milidetik, namun feed data standar mengalami masalah kehilangan informasi krusial. Hal ini memaksa konsumen dan penyedia RPC untuk melakukan audit nilai placeholder.",
+   "id": 2494,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hampir $10 juta harus keluar dari jaringan Ethereum L2 yang mati sebelum Malam Tahun Baru",
+   "x": "Jaringan Ethereum layer 2 menghentikan deposit dan memperingatkan rute keluar sebelum penutupan total. Pengguna harus segera memindahkan aset mereka untuk menghindari kehilangan dana yang tidak dapat dipulihkan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/optimism-is-pushing-network-speeds-to-200-milliseconds-but-standard-data-feeds-are-quietly-dropping-key-information",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-payload-printer.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/silicon-last-departure.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T18:35:15"
+   "published_at": "2026-09-03T01:00:59"
   },
   {
    "id": 2473,
@@ -662,18 +662,18 @@
    "published_at": "2026-09-01T18:22:09"
   },
   {
-   "id": 2333,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Saham Cango anjlok 20% setelah rugi $81,6 juta",
-   "x": "Perusahaan penambang Bitcoin Cango melaporkan kerugian kuartal kedua sebesar $81,6 juta. Perusahaan mengurangi armada penambangan dan fokus pada efisiensi.",
+   "id": 2645,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trezor: Peretasan ShipMonk pengaruhi 67.000 pelanggan tambahan",
+   "x": "Data baru yang teridentifikasi dari 2019-2021 mencakup nama, email, nomor telepon, alamat pengiriman, dan nomor pesanan. Insiden ini menambah jumlah pelanggan Trezor yang terdampak oleh pelanggaran keamanan ShipMonk.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
-   "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
+   "img": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T15:48:19"
+   "published_at": "2026-09-04T12:03:16"
   },
   {
    "id": 2383,
@@ -704,18 +704,18 @@
    "published_at": "2026-09-02T20:55:55"
   },
   {
-   "id": 2494,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Hampir $10 juta harus keluar dari jaringan Ethereum L2 yang mati sebelum Malam Tahun Baru",
-   "x": "Jaringan Ethereum layer 2 menghentikan deposit dan memperingatkan rute keluar sebelum penutupan total. Pengguna harus segera memindahkan aset mereka untuk menghindari kehilangan dana yang tidak dapat dipulihkan.",
+   "id": 2461,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC ubah aturan Wall Street 50 tahun agar blockchain publik tentukan kepemilikan saham",
+   "x": "Regulator AS merevisi aturan lama untuk memungkinkan blockchain publik menentukan kepemilikan saham secara legal. Perubahan ini berpotensi memengaruhi cara aset digital diperdagangkan dan dicatat di masa depan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/silicon-last-departure.jpg",
+   "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T01:00:59"
+   "published_at": "2026-09-02T17:00:19"
   },
   {
    "id": 2374,
@@ -746,18 +746,18 @@
    "published_at": "2026-09-02T19:15:06"
   },
   {
-   "id": 2645,
+   "id": 2454,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Trezor: Peretasan ShipMonk pengaruhi 67.000 pelanggan tambahan",
-   "x": "Data baru yang teridentifikasi dari 2019-2021 mencakup nama, email, nomor telepon, alamat pengiriman, dan nomor pesanan. Insiden ini menambah jumlah pelanggan Trezor yang terdampak oleh pelanggaran keamanan ShipMonk.",
+   "t": "World buka sumber ProveKit, perangkat identitas zero-knowledge",
+   "x": "Perangkat lunak ProveKit kini tersedia untuk umum, memungkinkan verifikasi identitas tanpa mengungkapkan data pribadi. Ini berpotensi meningkatkan privasi dan keamanan dalam aplikasi Web3.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-   "img": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
-   "a": "3 jam lalu",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364",
+   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_Wordlcoin_News-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T12:03:16"
+   "published_at": "2026-09-02T16:00:03"
   },
   {
    "id": 2391,
@@ -788,18 +788,18 @@
    "published_at": "2026-09-01T21:25:27"
   },
   {
-   "id": 2461,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC ubah aturan Wall Street 50 tahun agar blockchain publik tentukan kepemilikan saham",
-   "x": "Regulator AS merevisi aturan lama untuk memungkinkan blockchain publik menentukan kepemilikan saham secara legal. Perubahan ini berpotensi memengaruhi cara aset digital diperdagangkan dan dicatat di masa depan.",
+   "id": 2437,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tertahan di $77.000 saat The Fed terjepit antara data pekerjaan lemah dan minyak $90",
+   "x": "Harga Bitcoin terhambat oleh kekhawatiran inflasi yang dipicu oleh data ekonomi AS. Kenaikan harga minyak dan data harga yang tinggi membuat bank sentral AS (The Fed) sulit menurunkan suku bunga.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-sec-is-rewriting-50-year-old-wall-street-rules-to-let-public-blockchains-decide-who-legally-owns-a-stock",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/recordkeeping-gate-blockchain.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-hits-77000-wall-as-the-fed-gets-trapped-between-weak-jobs-and-90-oil",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-labor-oil-pressure.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T17:00:19"
+   "published_at": "2026-09-02T13:00:42"
   },
   {
    "id": 2340,
@@ -830,18 +830,18 @@
    "published_at": "2026-09-01T22:16:04"
   },
   {
-   "id": 2454,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "World buka sumber ProveKit, perangkat identitas zero-knowledge",
-   "x": "Perangkat lunak ProveKit kini tersedia untuk umum, memungkinkan verifikasi identitas tanpa mengungkapkan data pribadi. Ini berpotensi meningkatkan privasi dan keamanan dalam aplikasi Web3.",
+   "id": 2455,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Arbitrum DAO laporkan pendapatan $6,2 juta di semester I",
+   "x": "Pendapatan Arbitrum DAO mencapai $6,2 juta pada semester pertama, sebagian besar berasal dari biaya lisensi Robinhood Chain. Ini menandakan potensi model pendapatan baru bagi DAO di ekosistem Layer 2.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364",
-   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_Wordlcoin_News-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
+   "img": "https://www.tbstat.com/wp/uploads/2025/07/arbitrum-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T16:00:03"
+   "published_at": "2026-09-02T16:00:00"
   }
  ]
 }
