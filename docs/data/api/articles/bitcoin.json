@@ -1,5 +1,5 @@
 {
- "total": 64,
+ "total": 65,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T16:38:17"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/target-penurunan-harga-bitcoin-september",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T07:45:50"
@@ -334,7 +334,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bisnis-tambang-bitcoin-makin-lesu-penambang-ramai-beralih-ke-ai",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T06:00:35"
@@ -404,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T04:57:55"
@@ -754,7 +754,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Strategy-B-logo-decrypt-style-01-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T11:43:14"
@@ -810,10 +810,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/parked-coldcard-loot-begins-moving-as-attacker-routes-1-6m-in-stolen-bitcoin-to-ethereum",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/coldcard-bitcoin-ethereum-cross-chain.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T22:50:13"
+  },
+  {
+   "id": 2595,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peluang Kenaikan Suku Bunga The Fed Turun Jadi 50/50: Akankah Reli Bitcoin di Atas US$80.000 Bertahan?",
+   "x": "Peluang CME FedWatch untuk kenaikan suku bunga The Fed pada September turun menjadi 50/50 pada hari Jumat saat Bitcoin memperpanjang reli menuju $82.000.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/peluang-kenaikan-suku-the-fed-bitcoin-rally",
+   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
+   "a": "48 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-04T01:17:55"
   },
   {
    "id": 2302,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-01T09:44:22"
-  },
-  {
-   "id": 2415,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Sebuah Hard Fork Bitcoin Telah Aktif pada 1 September, tapi Miner, Exchange, dan Trader Mengabaikannya",
-   "x": "Hard fork Bitcoin gagal saat peluncuran dengan hampir tanpa hashrate, dan Adam Back mengejek perpecahan BLAKE2b.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-hard-fork-gagal-adam-back",
-   "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-02T09:23:39"
   }
  ]
 }
