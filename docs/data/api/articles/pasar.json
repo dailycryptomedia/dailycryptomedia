@@ -1,5 +1,5 @@
 {
- "total": 134,
+ "total": 136,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-palantir-tidak-gentar-atas-peringatan-merah-burry",
    "img": "https://assets.beincrypto.com/img/-DfqoOOFAQiujsU0jHyajfZ7ZFM=/smart/d8686024b5044713becb16c12b205347",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T21:23:46"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
    "img": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
-   "a": "48 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T10:18:40"
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/openai-chatgpt-6-astra-agi-launch",
    "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T20:20:33"
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/monads-mainnet-upgrade-makes-storing-data-together-98-cheaper",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/monad-mip8-storage-page-warming.jpg",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T02:30:28"
@@ -362,7 +362,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pakta-as-inggris-pusat-penipuan-kripto",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "17 menit lalu",
+   "a": "48 menit lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T10:49:32"
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-eth-belum-selesai-berdarah-jurang-berikutnya-sudah-menunggu",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T03:30:07"
@@ -466,32 +466,32 @@
    "published_at": "2026-09-02T16:43:53"
   },
   {
-   "id": 2417,
+   "id": 2639,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Industri kripto desak SEC hindari pembatasan ETF baru secara umum",
-   "x": "Grayscale dan a16z meminta SEC mempertahankan aturan klasifikasi yang ada dan tidak mengategorikan produk ETF baru secara seragam. Tujuannya agar proses peninjauan produk-produk ini lebih jelas dan cepat.",
+   "t": "Trezor: Pelanggaran Data Pengaruhi 67 Ribu Pelanggan AS",
+   "x": "Penyedia dompet kripto Trezor mengumumkan 67.000 pelanggan AS terdampak pelanggaran data penyedia logistiknya. Hal ini meningkatkan risiko serangan phishing dan penipuan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GP20DVTRFKRWTMYV78JG6F/hi-a-beginners-guide-on-launching-a-security-token-offering-copy.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
+   "a": "18 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T09:48:49"
+   "published_at": "2026-09-04T11:19:19"
   },
   {
-   "id": 2420,
+   "id": 2641,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bitcoin bertahan dekat $77.000 di tengah aksi jual obligasi global",
-   "x": "Harga bitcoin mendekati $77.000 saat imbal hasil obligasi global melonjak dan ketegangan AS-Iran mendorong harga minyak. Kondisi ini menguji ketahanan aset kripto pasca-reli.",
+   "t": "Perusahaan Kripto Desak SEC Percepat Tinjauan ETF",
+   "x": "Sejumlah perusahaan aset digital meminta Komisi Sekuritas dan Bursa AS (SEC) mempercepat proses persetujuan ETF dan mengizinkan pengajuan draf rahasia. Hal ini bertujuan untuk efisiensi dalam peluncuran produk investasi baru.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+   "a": "16 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T10:20:03"
+   "published_at": "2026-09-04T11:21:09"
   },
   {
    "id": 2385,
@@ -550,32 +550,32 @@
    "published_at": "2026-09-02T23:46:04"
   },
   {
-   "id": 2393,
+   "id": 2417,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Core DAO rencanakan hard fork darurat setelah validator tarik imbalan berlebih",
-   "x": "Core DAO akan melakukan hard fork darurat untuk mengatasi penarikan imbalan berlebih oleh validator. Insiden ini diklaim telah terkendali dan tidak akan memengaruhi transaksi yang sudah dikonfirmasi.",
+   "t": "Industri kripto desak SEC hindari pembatasan ETF baru secara umum",
+   "x": "Grayscale dan a16z meminta SEC mempertahankan aturan klasifikasi yang ada dan tidak mengategorikan produk ETF baru secara seragam. Tujuannya agar proses peninjauan produk-produk ini lebih jelas dan cepat.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1G5839NS07S6W53BDEES0HC/man-hacker-breaking-blockchain-1.jpg",
+   "url": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GP20DVTRFKRWTMYV78JG6F/hi-a-beginners-guide-on-launching-a-security-token-offering-copy.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T04:15:34"
+   "published_at": "2026-09-02T09:48:49"
   },
   {
-   "id": 2396,
+   "id": 2420,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pemimpin keuangan G20 bertekad ciptakan 'jalur jelas' inovasi aset digital",
-   "x": "Para pejabat G20 sepakat bahwa aset digital dapat mendorong pertumbuhan ekonomi dan inovasi sektor swasta. Mereka berkomitmen untuk memfasilitasi pengembangan aset digital secara terarah.",
+   "t": "Bitcoin bertahan dekat $77.000 di tengah aksi jual obligasi global",
+   "x": "Harga bitcoin mendekati $77.000 saat imbal hasil obligasi global melonjak dan ketegangan AS-Iran mendorong harga minyak. Kondisi ini menguji ketahanan aset kripto pasca-reli.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
-   "img": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News-1200x675.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T04:43:52"
+   "published_at": "2026-09-02T10:20:03"
   },
   {
    "id": 2397,
@@ -600,7 +600,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-act-may-be-heading-for-lame-duck-after-house-republicans-slash-the-calendar",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-exit.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T08:30:15"
@@ -628,38 +628,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/amnesty-cambodia-scam-compound-gID_7.jpg",
-   "a": "43 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T10:22:57"
   },
   {
-   "id": 2543,
+   "id": 2393,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Nvidia beli Hugging Face senilai $12,9 miliar untuk perluas AI",
-   "x": "Nvidia mengakuisisi Hugging Face senilai $12,9 miliar, platform yang digunakan oleh jutaan pengembang AI. Langkah ini memperkuat posisi Nvidia di pasar perangkat lunak kecerdasan buatan.",
+   "t": "Core DAO rencanakan hard fork darurat setelah validator tarik imbalan berlebih",
+   "x": "Core DAO akan melakukan hard fork darurat untuk mengatasi penarikan imbalan berlebih oleh validator. Insiden ini diklaim telah terkendali dan tidak akan memengaruhi transaksi yang sudah dikonfirmasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KKFHFD5J5RD9BJBAS2SSBF/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1G5839NS07S6W53BDEES0HC/man-hacker-breaking-blockchain-1.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T12:41:11"
+   "published_at": "2026-09-02T04:15:34"
   },
   {
-   "id": 2581,
+   "id": 2396,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
-   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
+   "t": "Pemimpin keuangan G20 bertekad ciptakan 'jalur jelas' inovasi aset digital",
+   "x": "Para pejabat G20 sepakat bahwa aset digital dapat mendorong pertumbuhan ekonomi dan inovasi sektor swasta. Mereka berkomitmen untuk memfasilitasi pengembangan aset digital secara terarah.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
-   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
-   "a": "14 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
+   "img": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T20:09:25"
+   "published_at": "2026-09-02T04:43:52"
   },
   {
    "id": 2386,
@@ -704,46 +704,46 @@
    "published_at": "2026-09-02T07:39:37"
   },
   {
-   "id": 2306,
+   "id": 2643,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Saylor minta MSCI hapus aturan 'diskriminatif' yang akan singkirkan Strategy",
-   "x": "Michael Saylor meminta MSCI untuk merevisi aturan penyaringan indeks yang dinilai diskriminatif. Aturan baru ini berpotensi menyingkirkan beberapa perusahaan, termasuk Strategy yang dipimpinnya.",
+   "t": "Pelanggaran Data Trezor Meluas, 67 Ribu Pelanggan Terdampak",
+   "x": "Data pelanggan Trezor yang terekspos dalam pelanggaran meluas hingga tahun 2019, melebihi batas retensi yang disepakati. Insiden ini menimbulkan kekhawatiran baru terkait keamanan data pengguna.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
+   "a": "4 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T11:28:45"
+   "published_at": "2026-09-04T11:32:49"
   },
   {
-   "id": 2345,
+   "id": 2543,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Platform prediksi Kalshi larang politikus AS seumur hidup karena taruhan orang dalam",
-   "x": "Kalshi memberikan larangan permanen kepada George Santos dan menangguhkan politikus lain karena menggunakan informasi orang dalam pada kontrak peristiwa. Tindakan ini menyoroti upaya platform prediksi untuk menjaga integritas pasar dari penyalahgunaan informasi.",
+   "t": "Nvidia beli Hugging Face senilai $12,9 miliar untuk perluas AI",
+   "x": "Nvidia mengakuisisi Hugging Face senilai $12,9 miliar, platform yang digunakan oleh jutaan pengembang AI. Langkah ini memperkuat posisi Nvidia di pasar perangkat lunak kecerdasan buatan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EQEQR2GJNM98QNW5X01NM1/hi-crypto-ban.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KKFHFD5J5RD9BJBAS2SSBF/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T17:39:48"
+   "published_at": "2026-09-03T12:41:11"
   },
   {
-   "id": 2502,
+   "id": 2581,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
+   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
+   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
+   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T03:39:02"
+   "published_at": "2026-09-03T20:09:25"
   },
   {
    "id": 2506,
@@ -782,7 +782,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pemangkasan-pekerjaan-volkswagen-rencana-masa-depan-2030",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T04:37:06"
@@ -796,24 +796,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T18:31:26"
   },
   {
-   "id": 2591,
+   "id": 2345,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Tether digugat terkait koin 'pig butcher' beku, 6.600 mahasiswa dapat pinjaman kripto",
-   "x": "Pengusaha Thailand menggugat Tether atas pembekuan USDT senilai $42 juta yang terkait dengan penipuan 'pig butchering'. Perusahaan kripto Australia juga menghadapi denda besar jika tidak memenuhi tenggat lisensi.",
+   "t": "Platform prediksi Kalshi larang politikus AS seumur hidup karena taruhan orang dalam",
+   "x": "Kalshi memberikan larangan permanen kepada George Santos dan menangguhkan politikus lain karena menggunakan informasi orang dalam pada kontrak peristiwa. Tindakan ini menyoroti upaya platform prediksi untuk menjaga integritas pasar dari penyalahgunaan informasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MT8AVRA0N4FG4HK9PK2CZ5/asia-express-11.jpg",
-   "a": "11 jam lalu",
+   "url": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EQEQR2GJNM98QNW5X01NM1/hi-crypto-ban.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T23:40:09"
+   "published_at": "2026-09-01T17:39:48"
+  },
+  {
+   "id": 2502,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T03:39:02"
   },
   {
    "id": 2507,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:27"
-  },
-  {
-   "id": 2534,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Robinhood uji coba saham tokenisasi di blockchain, trader memecoin uji batas",
-   "x": "Robinhood meluncurkan tokenisasi saham di blockchain, memicu volume perdagangan memecoin senilai $217 juta. Inisiatif ini menguji potensi interaksi antara aset tradisional dan kripto di ekosistem baru.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/permissionless-supply-pool.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T10:20:55"
   }
  ]
 }

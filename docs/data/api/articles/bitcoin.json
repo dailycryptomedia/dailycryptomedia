@@ -1,5 +1,5 @@
 {
- "total": 72,
+ "total": 71,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,20 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T16:38:17"
-  },
-  {
-   "id": 2307,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tahan lonjakan harga minyak dan kenaikan suku bunga The Fed",
-   "x": "Bitcoin menunjukkan ketahanan terhadap kenaikan harga minyak dan spekulasi kenaikan suku bunga The Fed. Investor kini menanti laporan pekerjaan AS untuk arah pasar selanjutnya.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T11:33:23"
   },
   {
    "id": 2437,
@@ -88,6 +74,20 @@
    "published_at": "2026-09-03T03:30:41"
   },
   {
+   "id": 2424,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Remixpoint Jepang jual ETH, SOL, XRP, DOGE demi strategi bitcoin",
+   "x": "Bursa kripto Jepang Remixpoint telah menjual seluruh kepemilikan aset kripto selain bitcoin. Perusahaan kini fokus pada bitcoin sebagai satu-satunya aset digital yang dipegang, senilai sekitar $115 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
+   "img": "https://www.tbstat.com/wp/uploads/2019/05/Screen-Shot-2019-05-23-at-6.44.52-PM-1200x669.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T11:32:55"
+  },
+  {
    "id": 2518,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -116,20 +116,6 @@
    "published_at": "2026-09-02T21:31:05"
   },
   {
-   "id": 2424,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Remixpoint Jepang jual ETH, SOL, XRP, DOGE demi strategi bitcoin",
-   "x": "Bursa kripto Jepang Remixpoint telah menjual seluruh kepemilikan aset kripto selain bitcoin. Perusahaan kini fokus pada bitcoin sebagai satu-satunya aset digital yang dipegang, senilai sekitar $115 juta.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-   "img": "https://www.tbstat.com/wp/uploads/2019/05/Screen-Shot-2019-05-23-at-6.44.52-PM-1200x669.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T11:32:55"
-  },
-  {
    "id": 2638,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -138,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/from-bitcoin-to-oil-perpetual-contracts-are-breaking-into-american-financial-markets",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-oil-perpetual-contracts.jpg",
-   "a": "6 menit lalu",
+   "a": "37 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T11:00:32"
@@ -172,6 +158,20 @@
    "published_at": "2026-09-04T07:00:51"
   },
   {
+   "id": 2333,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Saham Cango anjlok 20% setelah rugi $81,6 juta",
+   "x": "Perusahaan penambang Bitcoin Cango melaporkan kerugian kuartal kedua sebesar $81,6 juta. Perusahaan mengurangi armada penambangan dan fokus pada efisiensi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
+   "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-01T15:48:19"
+  },
+  {
    "id": 2403,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -200,20 +200,6 @@
    "published_at": "2026-09-01T20:31:05"
   },
   {
-   "id": 2333,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Saham Cango anjlok 20% setelah rugi $81,6 juta",
-   "x": "Perusahaan penambang Bitcoin Cango melaporkan kerugian kuartal kedua sebesar $81,6 juta. Perusahaan mengurangi armada penambangan dan fokus pada efisiensi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
-   "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-01T15:48:19"
-  },
-  {
    "id": 2587,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -222,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/remixpoint-bitcoin-altcoin-sale.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T21:25:27"
@@ -250,10 +236,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/whale-bitcoin-masih-ogah-jual-sinyal-btc-masih-bisa-terbang",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T02:30:44"
+  },
+  {
+   "id": 2640,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "IMF: El Salvador Tak Pakai Dana Publik untuk Beli Bitcoin Sejak Juni 2025",
+   "x": "Dana Moneter Internasional (IMF) menyatakan El Salvador tidak menggunakan dana publik untuk akumulasi bitcoin sejak Juni 2025. Pembelian aset kripto tersebut berasal dari donasi swasta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
+   "img": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
+   "a": "8 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T11:28:46"
   },
   {
    "id": 2525,
@@ -282,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-01T18:22:09"
-  },
-  {
-   "id": 2433,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Adam Back investasikan lagi $8,8 juta ke Capital B untuk target 3.521 BTC",
-   "x": "Capital B, perusahaan pengelola aset bitcoin asal Prancis, kembali menerima pendanaan sebesar $8,8 juta dari Adam Back. Dana ini akan digunakan untuk mencapai target kepemilikan 3.521 BTC.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T12:31:27"
   },
   {
    "id": 2362,
@@ -340,6 +326,20 @@
    "published_at": "2026-09-02T02:30:27"
   },
   {
+   "id": 2433,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Adam Back investasikan lagi $8,8 juta ke Capital B untuk target 3.521 BTC",
+   "x": "Capital B, perusahaan pengelola aset bitcoin asal Prancis, kembali menerima pendanaan sebesar $8,8 juta dari Adam Back. Dana ini akan digunakan untuk mencapai target kepemilikan 3.521 BTC.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T12:31:27"
+  },
+  {
    "id": 2560,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -348,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dampak-harga-bitcoin-perang-trump-iran-berakhir",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T16:09:20"
@@ -368,20 +368,6 @@
    "published_at": "2026-09-02T19:15:06"
   },
   {
-   "id": 2559,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CEO Strive: Perusahaan bisa jadi pemegang Bitcoin publik terbesar kedua pada 2026",
-   "x": "Saham Strive mencapai level tertinggi tahunan, mendekati harga pelaksanaan waran. Hal ini menempatkan perusahaan pada jalur untuk menjadi salah satu pemegang Bitcoin publik terbesar jika tren ini berlanjut.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T16:27:35"
-  },
-  {
    "id": 2542,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -390,7 +376,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-next-80000-breakout-has-47-billion-more-profitable-supply-to-absorb",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-profit-feast.jpg",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T12:30:29"
@@ -424,6 +410,20 @@
    "published_at": "2026-09-03T06:00:35"
   },
   {
+   "id": 2559,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Strive: Perusahaan bisa jadi pemegang Bitcoin publik terbesar kedua pada 2026",
+   "x": "Saham Strive mencapai level tertinggi tahunan, mendekati harga pelaksanaan waran. Hal ini menempatkan perusahaan pada jalur untuk menjadi salah satu pemegang Bitcoin publik terbesar jika tren ini berlanjut.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T16:27:35"
+  },
+  {
    "id": 2609,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -432,7 +432,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-82000-fidelity-bear-market-tidak-pasti",
    "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T04:32:47"
@@ -446,24 +446,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T18:15:07"
-  },
-  {
-   "id": 2452,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Saham Hyperscale Data capai rekor terendah saat perusahaan alihkan situs Michigan dari mining bitcoin ke AI",
-   "x": "Hyperscale Data mengalihkan fokus dari penambangan bitcoin ke kecerdasan buatan (AI) di fasilitasnya di Michigan. Perubahan ini menyebabkan saham perusahaan anjlok ke titik terendah sepanjang masa.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-02-hyperscale-data-shares-all-time-low-company-flips-michigan-site-bitcoin-mining-into-ai-413357",
-   "img": "https://www.tbstat.com/wp/uploads/2024/07/20240711_BitcoinMining_News_2-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T15:29:15"
   },
   {
    "id": 2400,
@@ -494,6 +480,20 @@
    "published_at": "2026-09-03T10:15:34"
   },
   {
+   "id": 2452,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Saham Hyperscale Data capai rekor terendah saat perusahaan alihkan situs Michigan dari mining bitcoin ke AI",
+   "x": "Hyperscale Data mengalihkan fokus dari penambangan bitcoin ke kecerdasan buatan (AI) di fasilitasnya di Michigan. Perubahan ini menyebabkan saham perusahaan anjlok ke titik terendah sepanjang masa.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-02-hyperscale-data-shares-all-time-low-company-flips-michigan-site-bitcoin-mining-into-ai-413357",
+   "img": "https://www.tbstat.com/wp/uploads/2024/07/20240711_BitcoinMining_News_2-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T15:29:15"
+  },
+  {
    "id": 2544,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -502,7 +502,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/willy-woo-siklus-4-tahun-bitcoin",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "22 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T12:32:42"
@@ -516,24 +516,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-03-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T21:31:05"
-  },
-  {
-   "id": 2419,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CEO Strategy nilai jual bitcoin di $60.000 lalu beli di $80.000 adalah 'transaksi tepat'",
-   "x": "CEO Strategy membela keputusan menjual bitcoin pada harga $60.000 sebelum membelinya kembali di $80.000. Keputusan ini didasarkan pada biaya modal perusahaan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323",
-   "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T10:26:16"
   },
   {
    "id": 2631,
@@ -558,10 +544,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NGYSVS43N7A248K7QYWTY9/yacht-boat",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T06:16:35"
+  },
+  {
+   "id": 2419,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Strategy nilai jual bitcoin di $60.000 lalu beli di $80.000 adalah 'transaksi tepat'",
+   "x": "CEO Strategy membela keputusan menjual bitcoin pada harga $60.000 sebelum membelinya kembali di $80.000. Keputusan ini didasarkan pada biaya modal perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323",
+   "img": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T10:26:16"
   },
   {
    "id": 2495,
@@ -586,24 +586,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T11:30:45"
-  },
-  {
-   "id": 2623,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin AS Catat Aliran Dana Masuk Terbesar Sejak Januari Senilai $731 Juta",
-   "x": "Produk ETF Bitcoin di Amerika Serikat mencatat rekor aliran dana masuk harian tertinggi sejak Januari. Komentar dovish dari Gubernur The Fed Christopher Waller disebut sebagai pemicu masuknya modal signifikan ke produk Bitcoin.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
-   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News4-1200x675.png",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T08:47:05"
   },
   {
    "id": 2488,
@@ -632,6 +618,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T16:35:56"
+  },
+  {
+   "id": 2623,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin AS Catat Aliran Dana Masuk Terbesar Sejak Januari Senilai $731 Juta",
+   "x": "Produk ETF Bitcoin di Amerika Serikat mencatat rekor aliran dana masuk harian tertinggi sejak Januari. Komentar dovish dari Gubernur The Fed Christopher Waller disebut sebagai pemicu masuknya modal signifikan ke produk Bitcoin.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
+   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News4-1200x675.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T08:47:05"
   },
   {
    "id": 2369,
@@ -670,7 +670,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/scan-reveals-96000-fake-address-outputs-clogging-bitcoins-unspent-database",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-text-node-state-op-return-vs-fake-address.jpg",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T00:20:15"
@@ -684,7 +684,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T07:37:13"
@@ -796,7 +796,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-hard-fork-dashjr-bitcoin-palsu",
    "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
-   "a": "38 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T10:28:04"
@@ -816,18 +816,18 @@
    "published_at": "2026-09-03T11:43:14"
   },
   {
-   "id": 2308,
+   "id": 2566,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Likuidasi posisi pendek picu lonjakan nilai aset kripto sebelum investor institusi masuk",
-   "x": "Likuidasi besar-besaran pada posisi pendek memicu lonjakan nilai aset kripto hingga ratusan miliar dolar. Masuknya modal dari produk investasi teregulasi kemudian menopang kenaikan harga.",
+   "t": "Bitcoin tinggalkan siklus 4 tahun demi ritme Wall Street 6-8 tahun",
+   "x": "Analisis menunjukkan Bitcoin mungkin beralih dari siklus harga empat tahunan ke pola yang lebih panjang. Perubahan ini bisa memengaruhi strategi investasi aset digital jangka panjang.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-short-liquidations-cleared-500b-in-crypto-positions-before-institutional-buyers-took-over",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-capital-bridge.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-may-be-leaving-its-4-year-cycle-behind-for-a-6-to-8-year-wall-street-rhythm",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rhythm-turntable.jpg",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-01T11:10:24"
+   "published_at": "2026-09-03T17:10:33"
   },
   {
    "id": 2485,
