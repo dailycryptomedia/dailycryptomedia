@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A1KT2B2MD6EQRF/poland.png",
-   "a": "49 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T10:44:29"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-80000-rally-just-lost-the-feds-labor-market-escape-hatch",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-jobs-cpi-fed-pressure.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T04:00:32"
@@ -158,18 +158,18 @@
    "published_at": "2026-09-02T18:57:18"
   },
   {
-   "id": 2538,
+   "id": 2718,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kasus pengadilan TrueUSD senilai $456 juta, terdakwa diminta ungkap sumber dana hukum",
-   "x": "Pengadilan meminta terdakwa dalam gugatan senilai $456 juta terkait TrueUSD untuk mengungkapkan sumber pendanaan hukumnya dalam beberapa hari. Kegagalan mematuhi dapat berujung pada sanksi pengadilan.",
+   "t": "Perdagangan pajak \"beli, pinjam, mati\" diam-diam menambah risiko kredit tersembunyi di pool DeFi",
+   "x": "Strategi perdagangan pajak di DeFi memungkinkan pengguna mencairkan aset tanpa menjualnya, namun berpotensi menimbulkan risiko kredit tersembunyi. Ini bisa memengaruhi stabilitas protokol DeFi yang semakin populer di kalangan investor aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/how-the-buy-borrow-die-tax-trade-is-quietly-loading-defi-pools-with-hidden-credit-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-liquidation-seesaw.jpg",
+   "a": "7 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T11:25:35"
+   "published_at": "2026-09-05T12:00:05"
   },
   {
    "id": 2459,
@@ -214,6 +214,34 @@
    "published_at": "2026-09-03T06:00:54"
   },
   {
+   "id": 2538,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kasus pengadilan TrueUSD senilai $456 juta, terdakwa diminta ungkap sumber dana hukum",
+   "x": "Pengadilan meminta terdakwa dalam gugatan senilai $456 juta terkait TrueUSD untuk mengungkapkan sumber pendanaan hukumnya dalam beberapa hari. Kegagalan mematuhi dapat berujung pada sanksi pengadilan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T11:25:35"
+  },
+  {
+   "id": 2697,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump Sedang Membangun Ulang CFTC, tapi Nampaknya Tidak Menguntungkan Aset Kripto",
+   "x": "Gedung Putih telah memeriksa empat komisaris CFTC. Undang-undang membatasi satu partai maksimal tiga, namun tidak pernah memaksa kursi minoritas untuk diisi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/crypto-dream-cftc-trump-demokrat-pilihan",
+   "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-04T21:53:32"
+  },
+  {
    "id": 2648,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -228,18 +256,18 @@
    "published_at": "2026-09-04T12:10:29"
   },
   {
-   "id": 2697,
+   "id": 2599,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Trump Sedang Membangun Ulang CFTC, tapi Nampaknya Tidak Menguntungkan Aset Kripto",
-   "x": "Gedung Putih telah memeriksa empat komisaris CFTC. Undang-undang membatasi satu partai maksimal tiga, namun tidak pernah memaksa kursi minoritas untuk diisi.",
+   "t": "AI Regulation Showdown: Zuckerberg Ingin Cepat, Sedangkan Sanders Serukan Jeda",
+   "x": "Zuckerberg ingin rilis model AI lebih cepat. Sanders ingin jeda penuh. Regulasi AI di AS kini bergantung pada Gedung Putih.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/crypto-dream-cftc-trump-demokrat-pilihan",
-   "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
-   "a": "13 jam lalu",
+   "url": "https://id.beincrypto.com/regulasi-ai-zuckerberg-sanders-showdown",
+   "img": "https://assets.beincrypto.com/img/yCTCpOOfUBpNdbOVtYkEAh5_g_E=/smart/6f4a4fe8a37b4389ba53946dc9b000ac",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-04T21:53:32"
+   "published_at": "2026-09-04T02:01:08"
   },
   {
    "id": 2504,
@@ -254,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:23"
-  },
-  {
-   "id": 2599,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "AI Regulation Showdown: Zuckerberg Ingin Cepat, Sedangkan Sanders Serukan Jeda",
-   "x": "Zuckerberg ingin rilis model AI lebih cepat. Sanders ingin jeda penuh. Regulasi AI di AS kini bergantung pada Gedung Putih.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/regulasi-ai-zuckerberg-sanders-showdown",
-   "img": "https://assets.beincrypto.com/img/yCTCpOOfUBpNdbOVtYkEAh5_g_E=/smart/6f4a4fe8a37b4389ba53946dc9b000ac",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-04T02:01:08"
   }
  ]
 }
