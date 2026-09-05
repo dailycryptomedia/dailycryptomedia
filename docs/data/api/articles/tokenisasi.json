@@ -1,5 +1,5 @@
 {
- "total": 25,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/grayscale-saham-tertokenisasi-chain-terkemuka",
    "img": "https://assets.beincrypto.com/img/bv_Nc4BYhxqlfYGM_J_YEbgT7hY=/smart/9455b93ed42e47d3bcdd20853c05a9ba",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T21:47:24"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-is-turning-ais-massive-electricity-appetite-into-a-61-billion-bond-market",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/megawatts-into-bonds.jpg",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T07:00:44"
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/robinhood-rejects-amc-ceos-demand-to-halt-amc-tokenized-stock-offering-holders-no-shareholder-rights",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/amc-robinhood-token-split.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T10:00:50"
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png",
-   "a": "29 menit lalu",
+   "a": "59 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T16:06:41"
@@ -312,18 +312,18 @@
    "published_at": "2026-09-03T03:00:00"
   },
   {
-   "id": 2610,
+   "id": 2732,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Rasio volatilitas Bitcoin terhadap emas anjlok ke level terendah 6 tahun",
-   "x": "Korelasi Bitcoin dan emas mencapai level tertinggi dalam enam tahun terakhir, menunjukkan kedua aset bergerak lebih mirip. Peristiwa ini menarik perhatian investor yang mencari aset aman di tengah gejolak pasar.",
+   "t": "Riset The Fed soal stablecoin ungkap potensi hitung ganda dolar",
+   "x": "Penelitian bank sentral AS (The Fed) mengidentifikasi potensi masalah dalam pengukuran likuiditas akibat stablecoin yang dapat dihitung ganda dalam agregat moneter. Hal ini menyoroti kompleksitas regulasi aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-gold-forge-test.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg",
+   "a": "20 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T05:10:53"
+   "published_at": "2026-09-05T16:45:23"
   },
   {
    "id": 2547,
@@ -338,6 +338,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T13:00:00"
+  },
+  {
+   "id": 2610,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Rasio volatilitas Bitcoin terhadap emas anjlok ke level terendah 6 tahun",
+   "x": "Korelasi Bitcoin dan emas mencapai level tertinggi dalam enam tahun terakhir, menunjukkan kedua aset bergerak lebih mirip. Peristiwa ini menarik perhatian investor yang mencari aset aman di tengah gejolak pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-gold-forge-test.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T05:10:53"
   },
   {
    "id": 2577,
