@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -88,18 +88,18 @@
    "published_at": "2026-09-03T09:29:44"
   },
   {
-   "id": 2538,
+   "id": 2705,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kasus pengadilan TrueUSD senilai $456 juta, terdakwa diminta ungkap sumber dana hukum",
-   "x": "Pengadilan meminta terdakwa dalam gugatan senilai $456 juta terkait TrueUSD untuk mengungkapkan sumber pendanaan hukumnya dalam beberapa hari. Kegagalan mematuhi dapat berujung pada sanksi pengadilan.",
+   "t": "Bitcoin turun di bawah $80.000 seiring laporan pekerjaan Agustus pengaruhi ekspektasi kebijakan The Fed",
+   "x": "Data pekerjaan Agustus yang lebih kuat dari perkiraan memicu kekhawatiran pengetatan kebijakan moneter The Fed, menekan harga Bitcoin. Investor kini menanti data inflasi AS berikutnya sebagai penentu arah pergerakan aset digital ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoins-80000-rally-just-lost-the-feds-labor-market-escape-hatch",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-jobs-cpi-fed-pressure.jpg",
+   "a": "5 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T11:25:35"
+   "published_at": "2026-09-05T04:00:32"
   },
   {
    "id": 2459,
@@ -158,18 +158,18 @@
    "published_at": "2026-09-02T18:57:18"
   },
   {
-   "id": 2648,
+   "id": 2538,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Australia beri batas waktu 30 Sept. bagi perusahaan kripto untuk berizin atau hadapi tindakan penegakan",
-   "x": "Australia menetapkan tenggat waktu 30 September bagi perusahaan aset digital untuk mendapatkan lisensi atau mengambil jalur lain guna menghindari tindakan penegakan. Langkah ini bertujuan meningkatkan kepatuhan dan perlindungan investor di sektor aset kripto negara tersebut.",
+   "t": "Kasus pengadilan TrueUSD senilai $456 juta, terdakwa diminta ungkap sumber dana hukum",
+   "x": "Pengadilan meminta terdakwa dalam gugatan senilai $456 juta terkait TrueUSD untuk mengungkapkan sumber pendanaan hukumnya dalam beberapa hari. Kegagalan mematuhi dapat berujung pada sanksi pengadilan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
-   "a": "15 jam lalu",
+   "url": "https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/frozen-tusd-hourglass.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T12:10:29"
+   "published_at": "2026-09-03T11:25:35"
   },
   {
    "id": 2579,
@@ -214,6 +214,34 @@
    "published_at": "2026-09-03T06:00:54"
   },
   {
+   "id": 2648,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Australia beri batas waktu 30 Sept. bagi perusahaan kripto untuk berizin atau hadapi tindakan penegakan",
+   "x": "Australia menetapkan tenggat waktu 30 September bagi perusahaan aset digital untuk mendapatkan lisensi atau mengambil jalur lain guna menghindari tindakan penegakan. Langkah ini bertujuan meningkatkan kepatuhan dan perlindungan investor di sektor aset kripto negara tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T12:10:29"
+  },
+  {
+   "id": 2697,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump Sedang Membangun Ulang CFTC, tapi Nampaknya Tidak Menguntungkan Aset Kripto",
+   "x": "Gedung Putih telah memeriksa empat komisaris CFTC. Undang-undang membatasi satu partai maksimal tiga, namun tidak pernah memaksa kursi minoritas untuk diisi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/crypto-dream-cftc-trump-demokrat-pilihan",
+   "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-04T21:53:32"
+  },
+  {
    "id": 2504,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -226,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:23"
-  },
-  {
-   "id": 2697,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump Sedang Membangun Ulang CFTC, tapi Nampaknya Tidak Menguntungkan Aset Kripto",
-   "x": "Gedung Putih telah memeriksa empat komisaris CFTC. Undang-undang membatasi satu partai maksimal tiga, namun tidak pernah memaksa kursi minoritas untuk diisi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/crypto-dream-cftc-trump-demokrat-pilihan",
-   "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-04T21:53:32"
   },
   {
    "id": 2422,
