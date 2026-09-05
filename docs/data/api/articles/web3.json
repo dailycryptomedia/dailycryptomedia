@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -88,20 +88,6 @@
    "published_at": "2026-09-03T07:00:34"
   },
   {
-   "id": 2404,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Layer-1 utama hentikan transaksi 24 menit demi percepatan 10x",
-   "x": "Sebuah blockchain layer-1 akan menghentikan sementara transaksi untuk melakukan pembaruan yang diklaim dapat meningkatkan kecepatan sepuluh kali lipat. Langkah ini dilakukan untuk mengoptimalkan kinerja jaringan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-major-layer-1-chain-will-pause-new-transactions-for-24-minutes-to-unlock-a-10x-speed-boost",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/multiversx-speed-transition.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T06:00:52"
-  },
-  {
    "id": 2658,
    "k": "web3",
    "cat": "Web3",
@@ -124,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/robinhood-chain-broken-bridge.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T00:20:00"
