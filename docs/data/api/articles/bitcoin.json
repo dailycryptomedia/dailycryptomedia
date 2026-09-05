@@ -1,5 +1,5 @@
 {
- "total": 62,
+ "total": 63,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -404,7 +404,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-mendadak-bikin-ulah-pola-ini-kirim-sinyal-ke-us85-ribu",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T02:30:07"
@@ -432,7 +432,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T18:15:07"
@@ -530,7 +530,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T20:30:47"
@@ -600,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/salinas-pliego-bitcoin-juta-patokan-emas",
    "img": "https://assets.beincrypto.com/img/XswPTiHZ4nbBgH6_SB4iglW9sKw=/smart/b65a0222a6764cb7872b06aa22272dae",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T20:27:50"
@@ -628,7 +628,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T23:15:02"
@@ -788,6 +788,20 @@
    "published_at": "2026-09-04T01:17:55"
   },
   {
+   "id": 2733,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Polygon Picu Komunitas Kripto dengan Opini Liburan dan Menyindir Kritikus",
+   "x": "CEO Polygon memicu komunitas aset kripto dengan pendapat soal liburan, lalu memberi pelajaran kepada para kritikus tentang mentalitas Bitcoin maxi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/polygon-ceo-liburan-ajak-bitcoin-maxis",
+   "img": "https://assets.beincrypto.com/img/6px3t-4e_dIw6x538aBNlnfEyko=/smart/a9e2192d1a89434ea2c222ea2efd2490",
+   "a": "53 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-05T17:46:10"
+  },
+  {
    "id": 2679,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -810,7 +824,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-perdagangan-debasement-utang-as",
    "img": "https://assets.beincrypto.com/img/E-55T_rQUC571wW88KcrIxYKFlY=/smart/f449c59e8af94389b8d1d4a67ef7db58",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-05T15:19:47"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T18:59:32"
-  },
-  {
-   "id": 2655,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Uji Level Tertinggi Mei: Mengapa Kali Ini Berbeda untuk Buyer Terbaru?",
-   "x": "Harga Bitcoin kembali ke level tertinggi bulan Mei, namun on-chain floor di bawahnya turun USD7.500. Lihat level-level yang penting.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-bitcoin-mungkin-level-di-lantai-onchain",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-04T14:00:00"
   }
  ]
 }
