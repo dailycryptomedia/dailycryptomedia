@@ -1,5 +1,5 @@
 {
- "total": 107,
+ "total": 108,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,6 +46,20 @@
    "published_at": "2026-09-04T15:36:04"
   },
   {
+   "id": 2735,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "UBS dan Jane Street Pegang ETF Hyperliquid Senilai $75 Juta",
+   "x": "Sejumlah perusahaan investasi besar memegang aset senilai total $75 juta pada ETF Hyperliquid. Ini menunjukkan minat institusi terhadap produk investasi aset digital baru.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
+   "a": "4 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-05T20:02:08"
+  },
+  {
    "id": 2651,
    "k": "pasar",
    "cat": "Pasar",
@@ -60,20 +74,6 @@
    "published_at": "2026-09-04T13:30:00"
   },
   {
-   "id": 2633,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "OpenReserve raih persetujuan awal OCC untuk piagam bank nasional",
-   "x": "OpenReserve Holdings mendapat lampu hijau awal dari OCC untuk mendirikan bank nasional yang berfokus pada penyelesaian on-chain. Langkah ini didukung oleh pendanaan awal sebesar $25 juta.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
-   "img": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T10:18:40"
-  },
-  {
    "id": 2701,
    "k": "pasar",
    "cat": "Pasar",
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-5-september-2026-dash-pepe-zec-ena-dan-floki-di-titik-balik-target-baru-tak-main-main",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T02:00:48"
@@ -124,10 +124,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T13:01:03"
+  },
+  {
+   "id": 2633,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "OpenReserve raih persetujuan awal OCC untuk piagam bank nasional",
+   "x": "OpenReserve Holdings mendapat lampu hijau awal dari OCC untuk mendirikan bank nasional yang berfokus pada penyelesaian on-chain. Langkah ini didukung oleh pendanaan awal sebesar $25 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
+   "img": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T10:18:40"
   },
   {
    "id": 2484,
@@ -142,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T21:27:15"
-  },
-  {
-   "id": 2482,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mantan CFO xAI dan X, Anthony Armstrong, gabung dewan direksi Coinbase",
-   "x": "Anthony Armstrong, yang sebelumnya menjabat sebagai CFO di xAI, X.AI Corp., dan X Corp., kini bergabung dengan dewan direksi Coinbase. Ia tidak memiliki hubungan dengan CEO Coinbase Brian Armstrong.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T21:03:53"
   },
   {
    "id": 2596,
@@ -180,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/users-exposed-by-trezor-breach-grows-sixfold-after-supposedly-deleted-shipping-logs-are-found",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-shipping-breach.jpg",
-   "a": "33 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T19:00:02"
@@ -214,6 +214,20 @@
    "published_at": "2026-09-04T20:31:03"
   },
   {
+   "id": 2482,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan CFO xAI dan X, Anthony Armstrong, gabung dewan direksi Coinbase",
+   "x": "Anthony Armstrong, yang sebelumnya menjabat sebagai CFO di xAI, X.AI Corp., dan X Corp., kini bergabung dengan dewan direksi Coinbase. Ia tidak memiliki hubungan dengan CEO Coinbase Brian Armstrong.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-02T21:03:53"
+  },
+  {
    "id": 2524,
    "k": "pasar",
    "cat": "Pasar",
@@ -226,20 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T09:28:34"
-  },
-  {
-   "id": 2681,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trump ingin Hyperliquid masuk AS, ini caranya",
-   "x": "Presiden Trump menyatakan keinginannya membawa platform derivatif kripto Hyperliquid ke Amerika Serikat. Hal ini menimbulkan pertanyaan mengenai bagaimana proses regulasi dan persetujuan dapat diwujudkan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594",
-   "img": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_4-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T18:35:21"
   },
   {
    "id": 2621,
@@ -264,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T14:00:05"
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/siklus-perumahan-as-18-tahun-bitcoin-crash-saham",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-05T11:48:34"
@@ -298,6 +298,20 @@
    "published_at": "2026-09-04T16:24:46"
   },
   {
+   "id": 2681,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trump ingin Hyperliquid masuk AS, ini caranya",
+   "x": "Presiden Trump menyatakan keinginannya membawa platform derivatif kripto Hyperliquid ke Amerika Serikat. Hal ini menimbulkan pertanyaan mengenai bagaimana proses regulasi dan persetujuan dapat diwujudkan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594",
+   "img": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_4-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T18:35:21"
+  },
+  {
    "id": 2481,
    "k": "pasar",
    "cat": "Pasar",
@@ -312,20 +326,6 @@
    "published_at": "2026-09-02T20:55:55"
   },
   {
-   "id": 2645,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trezor: Peretasan ShipMonk pengaruhi 67.000 pelanggan tambahan",
-   "x": "Data baru yang teridentifikasi dari 2019-2021 mencakup nama, email, nomor telepon, alamat pengiriman, dan nomor pesanan. Insiden ini menambah jumlah pelanggan Trezor yang terdampak oleh pelanggaran keamanan ShipMonk.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-   "img": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T12:03:16"
-  },
-  {
    "id": 2707,
    "k": "pasar",
    "cat": "Pasar",
@@ -334,7 +334,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/drama-robinhood-vs-amc-bikin-meme-coin-ini-terbang-17-000-persen",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T06:00:44"
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bis-prototype-shows-why-real-institutional-adoption-on-xrp-ledger-wont-trigger-the-xrp-supply-squeeze-holders-expect",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-ledger-card.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T20:00:11"
@@ -382,6 +382,20 @@
    "published_at": "2026-09-02T20:46:04"
   },
   {
+   "id": 2645,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trezor: Peretasan ShipMonk pengaruhi 67.000 pelanggan tambahan",
+   "x": "Data baru yang teridentifikasi dari 2019-2021 mencakup nama, email, nomor telepon, alamat pengiriman, dan nomor pesanan. Insiden ini menambah jumlah pelanggan Trezor yang terdampak oleh pelanggaran keamanan ShipMonk.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
+   "img": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T12:03:16"
+  },
+  {
    "id": 2516,
    "k": "pasar",
    "cat": "Pasar",
@@ -396,20 +410,6 @@
    "published_at": "2026-09-03T07:22:00"
   },
   {
-   "id": 2669,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Zcash tembus $1.000 seiring lonjakan aliran dana ETF dan miner",
-   "x": "Aliran dana masuk Grayscale ZCSH meningkat, namun persaingan jaringan yang ketat mengurangi keuntungan miner dari kenaikan harga token ZEC. Hal ini menunjukkan dinamika pasar yang kompleks bagi aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T16:59:34"
-  },
-  {
    "id": 2712,
    "k": "pasar",
    "cat": "Pasar",
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/5-launchpad-meme-coin-di-robinhood-chain-yang-menarik-dicoba",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T09:00:02"
@@ -466,6 +466,20 @@
    "published_at": "2026-09-03T20:46:04"
   },
   {
+   "id": 2669,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Zcash tembus $1.000 seiring lonjakan aliran dana ETF dan miner",
+   "x": "Aliran dana masuk Grayscale ZCSH meningkat, namun persaingan jaringan yang ketat mengurangi keuntungan miner dari kenaikan harga token ZEC. Hal ini menunjukkan dinamika pasar yang kompleks bagi aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T16:59:34"
+  },
+  {
    "id": 2639,
    "k": "pasar",
    "cat": "Pasar",
@@ -478,20 +492,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T11:19:19"
-  },
-  {
-   "id": 2641,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Perusahaan Kripto Desak SEC Percepat Tinjauan ETF",
-   "x": "Sejumlah perusahaan aset digital meminta Komisi Sekuritas dan Bursa AS (SEC) mempercepat proses persetujuan ETF dan mengizinkan pengajuan draf rahasia. Hal ini bertujuan untuk efisiensi dalam peluncuran produk investasi baru.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T11:21:09"
   },
   {
    "id": 2706,
@@ -550,6 +550,20 @@
    "published_at": "2026-09-02T23:46:04"
   },
   {
+   "id": 2641,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Perusahaan Kripto Desak SEC Percepat Tinjauan ETF",
+   "x": "Sejumlah perusahaan aset digital meminta Komisi Sekuritas dan Bursa AS (SEC) mempercepat proses persetujuan ETF dan mengizinkan pengajuan draf rahasia. Hal ini bertujuan untuk efisiensi dalam peluncuran produk investasi baru.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T11:21:09"
+  },
+  {
    "id": 2543,
    "k": "pasar",
    "cat": "Pasar",
@@ -562,20 +576,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T12:41:11"
-  },
-  {
-   "id": 2581,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
-   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
-   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T20:09:25"
   },
   {
    "id": 2605,
@@ -634,6 +634,20 @@
    "published_at": "2026-09-04T10:22:57"
   },
   {
+   "id": 2581,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kapitalisasi pasar kripto melonjak ke $2,82 triliun, Zcash pimpin reli",
+   "x": "Kapitalisasi pasar aset digital global menembus $2,82 triliun didorong oleh kenaikan Bitcoin dan saham terkait. Kenaikan ini terjadi di tengah ketidakpastian ekspektasi suku bunga The Fed, yang memicu optimisme di pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
+   "img": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T20:09:25"
+  },
+  {
    "id": 2591,
    "k": "pasar",
    "cat": "Pasar",
@@ -646,20 +660,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T23:40:09"
-  },
-  {
-   "id": 2502,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T03:39:02"
   },
   {
    "id": 2506,
@@ -716,6 +716,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T18:36:41"
+  },
+  {
+   "id": 2502,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T03:39:02"
   },
   {
    "id": 2564,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T17:55:20"
-  },
-  {
-   "id": 2604,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Adobe Tunjuk Anil Chakravarthy Sebagai CEO, namun Kekhawatiran AI Pengaruhi Saham",
-   "x": "Adobe mengangkat Anil Chakravarthy sebagai CEO menggantikan Shantanu Narayen yang mengundurkan diri, dengan saham turun 18% pada 2026 karena kekhawatiran terhadap AI.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/adobe-anil-chakravarthy-ceo-baru",
-   "img": "https://assets.beincrypto.com/img/kXfi63YPF2jWRc4rLKmQUzVAbCU=/smart/f6565b5ab4dc4ec99f01903b9969e9da",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-04T03:00:00"
   }
  ]
 }
