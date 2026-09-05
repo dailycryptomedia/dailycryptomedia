@@ -1,5 +1,5 @@
 {
- "total": 27,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/grayscale-saham-tertokenisasi-chain-terkemuka",
    "img": "https://assets.beincrypto.com/img/bv_Nc4BYhxqlfYGM_J_YEbgT7hY=/smart/9455b93ed42e47d3bcdd20853c05a9ba",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T21:47:24"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-is-turning-ais-massive-electricity-appetite-into-a-61-billion-bond-market",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/megawatts-into-bonds.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T07:00:44"
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/robinhood-rejects-amc-ceos-demand-to-halt-amc-tokenized-stock-offering-holders-no-shareholder-rights",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/amc-robinhood-token-split.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T10:00:50"
@@ -236,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-emas-turun-prakiraan-payroll-as",
    "img": "https://assets.beincrypto.com/img/Hp5CQhaVUWegTAWUuslPohySq8o=/smart/15975f6f4a6c429b8cbb8540c450aca1",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T12:42:40"
@@ -326,34 +326,6 @@
    "published_at": "2026-09-03T16:04:11"
   },
   {
-   "id": 2435,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pons Raup Lebih Banyak Fee dalam 24 Jam Dibanding Hyperliquid, Polymarket, dan Fomo Digabung",
-   "x": "Robinhood membangun sebuah chain untuk saham tokenisasi. Namun, para trader meme coin justru mengambil alihnya, dan sebuah launchpad bernama Pons mengklaim telah menembus volume US$4,54 miliar dalam waktu kurang dari 2…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pons-volume-rekord-robinhood-chain-launchpad",
-   "img": "https://assets.beincrypto.com/img/E4OYJwMTG0337j_MKbnQ7X6r15k=/smart/0c8536503dfa46909e2ab89ad0ff2291",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-02T11:42:45"
-  },
-  {
-   "id": 2547,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "VARA dan Securitize jalin MoU inovasi tokenisasi di Dubai",
-   "x": "Regulator aset virtual Dubai (VARA) menjalin kemitraan dengan Securitize untuk mendorong inovasi tokenisasi. Keduanya akan mengeksplorasi kerangka regulasi aset digital yang ditokenisasi di kawasan tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KGRZRFAT4PNFKDRGKF3YTG/hi-crypto-in-gulf-a-new-trend-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T13:00:00"
-  },
-  {
    "id": 2497,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -366,6 +338,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T03:00:00"
+  },
+  {
+   "id": 2547,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "VARA dan Securitize jalin MoU inovasi tokenisasi di Dubai",
+   "x": "Regulator aset virtual Dubai (VARA) menjalin kemitraan dengan Securitize untuk mendorong inovasi tokenisasi. Keduanya akan mengeksplorasi kerangka regulasi aset digital yang ditokenisasi di kawasan tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KGRZRFAT4PNFKDRGKF3YTG/hi-crypto-in-gulf-a-new-trend-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T13:00:00"
   },
   {
    "id": 2577,
