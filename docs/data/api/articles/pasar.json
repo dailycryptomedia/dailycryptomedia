@@ -1,5 +1,5 @@
 {
- "total": 106,
+ "total": 107,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-5-september-2026-dash-pepe-zec-ena-dan-floki-di-titik-balik-target-baru-tak-main-main",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T02:00:48"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T13:01:03"
@@ -172,18 +172,18 @@
    "published_at": "2026-09-04T02:00:20"
   },
   {
-   "id": 2723,
+   "id": 2734,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Zcash tembus $1.000 saat ETF spotnya capai aset $400 juta",
-   "x": "Harga Zcash melampaui $1.000, mendorong nilai aset ETF Grayscale menjadi lebih dari $400 juta dalam dua minggu. Kenaikan ini terjadi kurang dari dua minggu setelah peluncuran ETF tersebut.",
+   "t": "Pelanggaran Trezor ungkap 80.689 pengguna setelah log pengiriman ditemukan",
+   "x": "Trezor mengumumkan jumlah pengguna yang terdampak pelanggaran data bertambah enam kali lipat menjadi 80.689 orang. Penemuan log pengiriman yang sebelumnya diduga telah dihapus memperluas cakupan insiden ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/users-exposed-by-trezor-breach-grows-sixfold-after-supposedly-deleted-shipping-logs-are-found",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-shipping-breach.jpg",
+   "a": "5 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-05T14:00:05"
+   "published_at": "2026-09-05T19:00:02"
   },
   {
    "id": 2636,
@@ -256,18 +256,18 @@
    "published_at": "2026-09-04T08:00:46"
   },
   {
-   "id": 2578,
+   "id": 2723,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "BIS jelaskan adopsi institusional XRP Ledger tak picu kelangkaan suplai XRP",
-   "x": "Bank for International Settlements (BIS) merilis analisis mengenai adopsi institusional pada XRP Ledger. Analisis ini menunjukkan bahwa meskipun penggunaan meningkat, pembakaran biaya transaksi tidak signifikan sehingga tidak akan memicu kelangkaan suplai XRP seperti yang diharapkan pemegang.",
+   "t": "Zcash tembus $1.000 saat ETF spotnya capai aset $400 juta",
+   "x": "Harga Zcash melampaui $1.000, mendorong nilai aset ETF Grayscale menjadi lebih dari $400 juta dalam dua minggu. Kenaikan ini terjadi kurang dari dua minggu setelah peluncuran ETF tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bis-prototype-shows-why-real-institutional-adoption-on-xrp-ledger-wont-trigger-the-xrp-supply-squeeze-holders-expect",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-ledger-card.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T20:00:11"
+   "published_at": "2026-09-05T14:00:05"
   },
   {
    "id": 2717,
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/siklus-perumahan-as-18-tahun-bitcoin-crash-saham",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-05T11:48:34"
@@ -334,24 +334,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/drama-robinhood-vs-amc-bikin-meme-coin-ini-terbang-17-000-persen",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T06:00:44"
   },
   {
-   "id": 2597,
+   "id": 2578,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Upgrade mainnet Monad turunkan biaya penyimpanan data 98%",
-   "x": "Monad berhasil melakukan upgrade mainnet yang secara drastis menurunkan biaya penyimpanan data hingga 98%. Hal ini berpotensi membuat teknologi blockchain lebih terjangkau untuk aplikasi terdesentralisasi.",
+   "t": "BIS jelaskan adopsi institusional XRP Ledger tak picu kelangkaan suplai XRP",
+   "x": "Bank for International Settlements (BIS) merilis analisis mengenai adopsi institusional pada XRP Ledger. Analisis ini menunjukkan bahwa meskipun penggunaan meningkat, pembakaran biaya transaksi tidak signifikan sehingga tidak akan memicu kelangkaan suplai XRP seperti yang diharapkan pemegang.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/monads-mainnet-upgrade-makes-storing-data-together-98-cheaper",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/monad-mip8-storage-page-warming.jpg",
+   "url": "https://cryptoslate.com/bis-prototype-shows-why-real-institutional-adoption-on-xrp-ledger-wont-trigger-the-xrp-supply-squeeze-holders-expect",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-ledger-card.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T02:30:28"
+   "published_at": "2026-09-03T20:00:11"
   },
   {
    "id": 2582,
@@ -418,24 +418,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/5-launchpad-meme-coin-di-robinhood-chain-yang-menarik-dicoba",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T09:00:02"
   },
   {
-   "id": 2555,
+   "id": 2597,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kontrak minyak baru Kalshi tawarkan eksposur nonstop, tapi cacat tersembunyi bisa bahayakan trader",
-   "x": "Kalshi meluncurkan kontrak minyak baru yang memungkinkan eksposur berkelanjutan. Namun, kontrak ini berisiko membuat trader terpapar guncangan pasar saat akhir pekan karena pasar minyak tetap tutup.",
+   "t": "Upgrade mainnet Monad turunkan biaya penyimpanan data 98%",
+   "x": "Monad berhasil melakukan upgrade mainnet yang secara drastis menurunkan biaya penyimpanan data hingga 98%. Hal ini berpotensi membuat teknologi blockchain lebih terjangkau untuk aplikasi terdesentralisasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kalshis-new-oil-contract-promises-non-stop-exposure-but-a-hidden-flaw-could-expose-traders-to-massive-weekend-shocks",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/weekend-gap-barrel.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/monads-mainnet-upgrade-makes-storing-data-together-98-cheaper",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/monad-mip8-storage-page-warming.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T16:00:19"
+   "published_at": "2026-09-04T02:30:28"
   },
   {
    "id": 2608,
@@ -508,18 +508,18 @@
    "published_at": "2026-09-05T03:30:24"
   },
   {
-   "id": 2665,
+   "id": 2555,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mengapa GENIUS Bisa Buat Dolar Digital Rentan Terhadap 'Bank Run' Jaringan Blockchain",
-   "x": "Sebuah makalah staf The Fed menunjukkan bagaimana kemacetan dan efek jaringan yang lemah dapat mendorong pemegang dolar digital untuk melakukan penarikan atau migrasi jaringan. Hal ini berpotensi menimbulkan risiko likuiditas bagi aset digital.",
+   "t": "Kontrak minyak baru Kalshi tawarkan eksposur nonstop, tapi cacat tersembunyi bisa bahayakan trader",
+   "x": "Kalshi meluncurkan kontrak minyak baru yang memungkinkan eksposur berkelanjutan. Namun, kontrak ini berisiko membuat trader terpapar guncangan pasar saat akhir pekan karena pasar minyak tetap tutup.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-genius-could-leave-digital-dollars-vulnerable-to-sudden-blockchain-network-bank-runs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-fee-turnstile.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/kalshis-new-oil-contract-promises-non-stop-exposure-but-a-hidden-flaw-could-expose-traders-to-massive-weekend-shocks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/weekend-gap-barrel.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T15:30:13"
+   "published_at": "2026-09-03T16:00:19"
   },
   {
    "id": 2519,
@@ -592,18 +592,18 @@
    "published_at": "2026-09-04T03:30:07"
   },
   {
-   "id": 2622,
+   "id": 2665,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "RUU CLARITY terancam jadi \"lame duck\" setelah DPR pangkas kalender",
-   "x": "Rancangan Undang-Undang CLARITY berpotensi tidak lolos sebelum DPR AS mengakhiri masa sidang. Langkah prosedural Senat pada 15 September berdekatan dengan jadwal akhir masa sidang DPR.",
+   "t": "Mengapa GENIUS Bisa Buat Dolar Digital Rentan Terhadap 'Bank Run' Jaringan Blockchain",
+   "x": "Sebuah makalah staf The Fed menunjukkan bagaimana kemacetan dan efek jaringan yang lemah dapat mendorong pemegang dolar digital untuk melakukan penarikan atau migrasi jaringan. Hal ini berpotensi menimbulkan risiko likuiditas bagi aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/clarity-act-may-be-heading-for-lame-duck-after-house-republicans-slash-the-calendar",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-exit.jpg",
+   "url": "https://cryptoslate.com/why-genius-could-leave-digital-dollars-vulnerable-to-sudden-blockchain-network-bank-runs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-fee-turnstile.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T08:30:15"
+   "published_at": "2026-09-04T15:30:13"
   },
   {
    "id": 2511,
@@ -676,18 +676,18 @@
    "published_at": "2026-09-03T03:00:51"
   },
   {
-   "id": 2562,
+   "id": 2622,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Revolut terhambat ilusi booming kripto Washington",
-   "x": "Aplikasi bank digital Revolut untuk beroperasi di AS tertunda, menyoroti tantangan bagi perusahaan fintech di tengah pengawasan regulator. Hal ini dapat memengaruhi akses layanan keuangan kripto bagi pengguna di sana.",
+   "t": "RUU CLARITY terancam jadi \"lame duck\" setelah DPR pangkas kalender",
+   "x": "Rancangan Undang-Undang CLARITY berpotensi tidak lolos sebelum DPR AS mengakhiri masa sidang. Langkah prosedural Senat pada 15 September berdekatan dengan jadwal akhir masa sidang DPR.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/revolut-hit-by-washingtons-crypto-boom-illusion-exposing-a-massive-two-tier-banking-system",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bank-crossroads.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/clarity-act-may-be-heading-for-lame-duck-after-house-republicans-slash-the-calendar",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-exit.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T16:55:12"
+   "published_at": "2026-09-04T08:30:15"
   },
   {
    "id": 2561,
@@ -746,18 +746,18 @@
    "published_at": "2026-09-03T02:30:27"
   },
   {
-   "id": 2680,
+   "id": 2562,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kalshi didenda $500.000 per hari karena Michigan hentikan kontrak acara olahraga",
-   "x": "Bursa derivatif Kalshi menghadapi denda harian sebesar $500.000 setelah regulator Michigan memerintahkan penghentian kontrak acara olahraga. Keputusan ini menambah ketidakpastian regulasi bagi platform yang menawarkan produk keuangan terkait peristiwa.",
+   "t": "Revolut terhambat ilusi booming kripto Washington",
+   "x": "Aplikasi bank digital Revolut untuk beroperasi di AS tertunda, menyoroti tantangan bagi perusahaan fintech di tengah pengawasan regulator. Hal ini dapat memengaruhi akses layanan keuangan kripto bagi pengguna di sana.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kalshi-faces-500000-daily-fines-as-michigan-forces-sports-event-contracts-offline",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-michigan-emergency-stop.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/revolut-hit-by-washingtons-crypto-boom-illusion-exposing-a-massive-two-tier-banking-system",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bank-crossroads.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T17:55:20"
+   "published_at": "2026-09-03T16:55:12"
   },
   {
    "id": 2526,
@@ -816,18 +816,18 @@
    "published_at": "2026-09-03T02:00:24"
   },
   {
-   "id": 2657,
+   "id": 2680,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Aplikasi zero-knowledge mati setelah pembaruan rantai rusak kunci verifikasi",
-   "x": "Pembaruan rantai yang mengganggu kunci verifikasi membuat aplikasi zero-knowledge tidak dapat memproses transaksi. Hal ini menghentikan aktivitas yang bergantung pada otorisasi bukti, menyoroti kerentanan infrastruktur kripto.",
+   "t": "Kalshi didenda $500.000 per hari karena Michigan hentikan kontrak acara olahraga",
+   "x": "Bursa derivatif Kalshi menghadapi denda harian sebesar $500.000 setelah regulator Michigan memerintahkan penghentian kontrak acara olahraga. Keputusan ini menambah ketidakpastian regulasi bagi platform yang menawarkan produk keuangan terkait peristiwa.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zero-knowledge-apps-go-dark-after-chain-upgrade-breaks-their-underlying-verification-keys",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/mina-mesa-construction.jpg",
+   "url": "https://cryptoslate.com/kalshi-faces-500000-daily-fines-as-michigan-forces-sports-event-contracts-offline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-michigan-emergency-stop.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T14:25:14"
+   "published_at": "2026-09-04T17:55:20"
   },
   {
    "id": 2604,
