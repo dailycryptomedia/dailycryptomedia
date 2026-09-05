@@ -1,8 +1,22 @@
 {
- "total": 73,
+ "total": 74,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2703,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Kripto Ini Kalahkan Bitcoin Jadi Raja Transaksi di Indonesia",
+   "x": "Sebuah aset kripto melampaui Bitcoin sebagai yang terpopuler dalam transaksi di Indonesia. Dominasi ini terlihat dari volume perdagangan yang jauh melampaui Bitcoin.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bukan-bitcoin-kripto-ini-justru-jadi-raja-transaksi-di-indonesia",
+   "img": null,
+   "a": "6 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-05T03:00:12"
+  },
   {
    "id": 2518,
    "k": "bitcoin",
@@ -60,20 +74,6 @@
    "published_at": "2026-09-03T09:31:07"
   },
   {
-   "id": 2505,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Harga Bitcoin berpotensi naik lagi, level ini jadi ujian sesungguhnya",
-   "x": "Harga Bitcoin bergerak di bawah US$80.000 setelah reli Agustus gagal bertahan. Pergerakan ini terjadi pasca short squeeze besar pada pertengahan Agustus yang mendorong kenaikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-bitcoin-mau-terbang-lagi-tembok-ini-jadi-ujian-sesungguhnya",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T03:30:41"
-  },
-  {
    "id": 2424,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -86,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T11:32:55"
+  },
+  {
+   "id": 2505,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin berpotensi naik lagi, level ini jadi ujian sesungguhnya",
+   "x": "Harga Bitcoin bergerak di bawah US$80.000 setelah reli Agustus gagal bertahan. Pergerakan ini terjadi pasca short squeeze besar pada pertengahan Agustus yang mendorong kenaikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-bitcoin-mau-terbang-lagi-tembok-ini-jadi-ujian-sesungguhnya",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T03:30:41"
   },
   {
    "id": 2403,
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/from-bitcoin-to-oil-perpetual-contracts-are-breaking-into-american-financial-markets",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-oil-perpetual-contracts.jpg",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T11:00:32"
@@ -144,20 +158,6 @@
    "published_at": "2026-09-02T07:59:43"
   },
   {
-   "id": 2616,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin berpotensi capai US$500 ribu, namun hadapi tantangan",
-   "x": "Bitcoin masih punya peluang mencapai US$500 ribu, namun tantangan likuiditas dan permintaan yang rapuh perlu diatasi. Prospek ini menarik bagi investor aset digital di Indonesia yang memantau pergerakan aset kripto utama.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-bisa-meledak-ke-us500-ribu-skenarionya-bikin-penasaran",
-   "img": null,
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T07:00:51"
-  },
-  {
    "id": 2640,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -170,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T11:28:46"
+  },
+  {
+   "id": 2616,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin berpotensi capai US$500 ribu, namun hadapi tantangan",
+   "x": "Bitcoin masih punya peluang mencapai US$500 ribu, namun tantangan likuiditas dan permintaan yang rapuh perlu diatasi. Prospek ini menarik bagi investor aset digital di Indonesia yang memantau pergerakan aset kripto utama.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-bisa-meledak-ke-us500-ribu-skenarionya-bikin-penasaran",
+   "img": null,
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T07:00:51"
   },
   {
    "id": 2525,
@@ -228,20 +242,6 @@
    "published_at": "2026-09-02T13:30:00"
   },
   {
-   "id": 2603,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Whale Bitcoin Belum Jual, Sinyal BTC Siap Menguat?",
-   "x": "Investor besar Bitcoin (whale) belum menunjukkan aktivitas penjualan yang signifikan. Data on-chain mengindikasikan potensi kenaikan harga BTC setelah periode konsolidasi.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/whale-bitcoin-masih-ogah-jual-sinyal-btc-masih-bisa-terbang",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T02:30:44"
-  },
-  {
    "id": 2433,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -254,6 +254,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T12:31:27"
+  },
+  {
+   "id": 2603,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Whale Bitcoin Belum Jual, Sinyal BTC Siap Menguat?",
+   "x": "Investor besar Bitcoin (whale) belum menunjukkan aktivitas penjualan yang signifikan. Data on-chain mengindikasikan potensi kenaikan harga BTC setelah periode konsolidasi.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/whale-bitcoin-masih-ogah-jual-sinyal-btc-masih-bisa-terbang",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T02:30:44"
   },
   {
    "id": 2666,
@@ -312,20 +326,6 @@
    "published_at": "2026-09-03T04:57:55"
   },
   {
-   "id": 2384,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Harga Bitcoin Berpeluang Capai US$100 Ribu",
-   "x": "Harga Bitcoin menunjukkan potensi untuk terus meningkat, dengan target US$100 ribu kini mulai dipertimbangkan sebagai level berikutnya. Hal ini bisa menjadi indikator tren bullish di pasar aset kripto.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-bitcoin-mau-ngamuk-us100-ribu-kini-masuk-radar",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T02:30:27"
-  },
-  {
    "id": 2559,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -338,6 +338,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T16:27:35"
+  },
+  {
+   "id": 2704,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin Bergerak Agresif, Sinyal Reli ke US$85 Ribu",
+   "x": "Harga Bitcoin melonjak di atas US$80 ribu, memicu analisis teknikal tentang potensi kenaikan lebih lanjut. Pergerakan ini menarik perhatian investor terhadap prospek Bitcoin.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-bitcoin-mendadak-bikin-ulah-pola-ini-kirim-sinyal-ke-us85-ribu",
+   "img": null,
+   "a": "36 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-05T02:30:07"
   },
   {
    "id": 2560,
@@ -376,7 +390,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T14:55:26"
@@ -396,20 +410,6 @@
    "published_at": "2026-09-03T10:15:34"
   },
   {
-   "id": 2515,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bisnis tambang Bitcoin lesu, penambang beralih ke AI?",
-   "x": "Penambang Bitcoin menghadapi tekanan akibat pelemahan hashrate, mendorong mereka mencari peluang baru. Kecerdasan buatan (AI) kini dilirik sebagai alternatif bisnis yang menjanjikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bisnis-tambang-bitcoin-makin-lesu-penambang-ramai-beralih-ke-ai",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T06:00:35"
-  },
-  {
    "id": 2452,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -422,6 +422,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T15:29:15"
+  },
+  {
+   "id": 2515,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bisnis tambang Bitcoin lesu, penambang beralih ke AI?",
+   "x": "Penambang Bitcoin menghadapi tekanan akibat pelemahan hashrate, mendorong mereka mencari peluang baru. Kecerdasan buatan (AI) kini dilirik sebagai alternatif bisnis yang menjanjikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bisnis-tambang-bitcoin-makin-lesu-penambang-ramai-beralih-ke-ai",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T06:00:35"
   },
   {
    "id": 2609,
@@ -530,7 +544,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-calendar-test.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T18:50:33"
@@ -558,7 +572,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
    "img": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News4-1200x675.png",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T08:47:05"
@@ -614,7 +628,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg",
-   "a": "18 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T07:37:13"
@@ -656,7 +670,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-just-crossed-the-line-that-ended-4-out-of-5-bear-markets-but-one-deadly-historical-trap-could-still-trigger-a-crash-to-62000",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ridge-reclaim.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:50:34"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-02T15:00:18"
-  },
-  {
-   "id": 2528,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin gagal tembus $80.000 karena hambatan 880 ribu BTC",
-   "x": "Bitcoin menghadapi hambatan signifikan di kisaran harga $77.500 hingga $80.300, yang menahan kenaikan harga di atas $80.000. Sekitar 880 ribu BTC dimiliki oleh pemegang yang mendekati titik impas.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-cannot-break-out-past-80000-until-it-devours-an-880k-btc-roadblock-that-choked-every-rally",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-supply-bottleneck.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T09:13:48"
   }
  ]
 }

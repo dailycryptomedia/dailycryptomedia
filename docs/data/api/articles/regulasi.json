@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -158,18 +158,18 @@
    "published_at": "2026-09-02T18:57:18"
   },
   {
-   "id": 2382,
+   "id": 2648,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kebocoran data kepatuhan ungkap identitas 291 pengguna kripto",
-   "x": "Data kepatuhan yang bocor mencocokkan nama pengguna dengan aktivitas dompet kripto mereka, mengakhiri anonimitas. Insiden ini menyoroti risiko privasi dalam pengelolaan data pengguna oleh platform aset digital.",
+   "t": "Australia beri batas waktu 30 Sept. bagi perusahaan kripto untuk berizin atau hadapi tindakan penegakan",
+   "x": "Australia menetapkan tenggat waktu 30 September bagi perusahaan aset digital untuk mendapatkan lisensi atau mengambil jalur lain guna menghindari tindakan penegakan. Langkah ini bertujuan meningkatkan kepatuhan dan perlindungan investor di sektor aset kripto negara tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/leaked-compliance-records-shatter-anonymity-of-291-crypto-users-by-matching-names-directly-to-wallet-activity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-shadow-phishing-risk.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T02:30:59"
+   "published_at": "2026-09-04T12:10:29"
   },
   {
    "id": 2579,
@@ -214,34 +214,6 @@
    "published_at": "2026-09-03T06:00:54"
   },
   {
-   "id": 2648,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Australia beri batas waktu 30 Sept. bagi perusahaan kripto untuk berizin atau hadapi tindakan penegakan",
-   "x": "Australia menetapkan tenggat waktu 30 September bagi perusahaan aset digital untuk mendapatkan lisensi atau mengambil jalur lain guna menghindari tindakan penegakan. Langkah ini bertujuan meningkatkan kepatuhan dan perlindungan investor di sektor aset kripto negara tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/asic-crypto-deadline-hourglass.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T12:10:29"
-  },
-  {
-   "id": 2697,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump Sedang Membangun Ulang CFTC, tapi Nampaknya Tidak Menguntungkan Aset Kripto",
-   "x": "Gedung Putih telah memeriksa empat komisaris CFTC. Undang-undang membatasi satu partai maksimal tiga, namun tidak pernah memaksa kursi minoritas untuk diisi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/crypto-dream-cftc-trump-demokrat-pilihan",
-   "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-04T21:53:32"
-  },
-  {
    "id": 2504,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -254,6 +226,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T02:30:23"
+  },
+  {
+   "id": 2697,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump Sedang Membangun Ulang CFTC, tapi Nampaknya Tidak Menguntungkan Aset Kripto",
+   "x": "Gedung Putih telah memeriksa empat komisaris CFTC. Undang-undang membatasi satu partai maksimal tiga, namun tidak pernah memaksa kursi minoritas untuk diisi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/crypto-dream-cftc-trump-demokrat-pilihan",
+   "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-04T21:53:32"
   },
   {
    "id": 2422,
