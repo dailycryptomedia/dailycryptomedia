@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,18 +60,18 @@
    "published_at": "2026-09-04T01:24:02"
   },
   {
-   "id": 2436,
+   "id": 2455,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Wyoming perluas kemitraan Chainlink untuk verifikasi cadangan on-chain FRNT",
-   "x": "Wyoming memigrasikan token stabilnya (FRNT) ke solusi Chainlink setelah tinjauan keamanan. Langkah ini bertujuan meningkatkan verifikasi cadangan aset digital di blockchain.",
+   "t": "Arbitrum DAO laporkan pendapatan $6,2 juta di semester I",
+   "x": "Pendapatan Arbitrum DAO mencapai $6,2 juta pada semester pertama, sebagian besar berasal dari biaya lisensi Robinhood Chain. Ini menandakan potensi model pendapatan baru bagi DAO di ekosistem Layer 2.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
-   "img": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
+   "img": "https://www.tbstat.com/wp/uploads/2025/07/arbitrum-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T13:05:03"
+   "published_at": "2026-09-02T16:00:00"
   },
   {
    "id": 2537,
@@ -86,20 +86,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-03T10:39:02"
-  },
-  {
-   "id": 2455,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Arbitrum DAO laporkan pendapatan $6,2 juta di semester I",
-   "x": "Pendapatan Arbitrum DAO mencapai $6,2 juta pada semester pertama, sebagian besar berasal dari biaya lisensi Robinhood Chain. Ini menandakan potensi model pendapatan baru bagi DAO di ekosistem Layer 2.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
-   "img": "https://www.tbstat.com/wp/uploads/2025/07/arbitrum-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-02T16:00:00"
   },
   {
    "id": 2617,

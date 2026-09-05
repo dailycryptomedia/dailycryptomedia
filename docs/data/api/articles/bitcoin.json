@@ -1,5 +1,5 @@
 {
- "total": 67,
+ "total": 66,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-09-03T16:38:17"
   },
   {
-   "id": 2437,
+   "id": 2638,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tertahan di $77.000 saat The Fed terjepit antara data pekerjaan lemah dan minyak $90",
-   "x": "Harga Bitcoin terhambat oleh kekhawatiran inflasi yang dipicu oleh data ekonomi AS. Kenaikan harga minyak dan data harga yang tinggi membuat bank sentral AS (The Fed) sulit menurunkan suku bunga.",
+   "t": "Kontrak perpetual dari Bitcoin hingga minyak merambah pasar keuangan AS",
+   "x": "Regulator AS meminta gugatan terkait kontrak perpetual dibatalkan, sementara rencana uji coba pasar terus berjalan. Ini menunjukkan perluasan produk derivatif kripto ke aset tradisional di Amerika Serikat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-hits-77000-wall-as-the-fed-gets-trapped-between-weak-jobs-and-90-oil",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-labor-oil-pressure.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/from-bitcoin-to-oil-perpetual-contracts-are-breaking-into-american-financial-markets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-oil-perpetual-contracts.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T13:00:42"
+   "published_at": "2026-09-04T11:00:32"
   },
   {
    "id": 2523,
@@ -130,18 +130,18 @@
    "published_at": "2026-09-02T21:31:05"
   },
   {
-   "id": 2638,
+   "id": 2652,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kontrak perpetual dari Bitcoin hingga minyak merambah pasar keuangan AS",
-   "x": "Regulator AS meminta gugatan terkait kontrak perpetual dibatalkan, sementara rencana uji coba pasar terus berjalan. Ini menunjukkan perluasan produk derivatif kripto ke aset tradisional di Amerika Serikat.",
+   "t": "Perusahaan publik jual Bitcoin, eksposur BTC pemegang saham malah naik",
+   "x": "Sebuah perusahaan publik mengurangi jumlah Bitcoin yang dipegangnya, namun jumlah saham yang beredar juga berkurang lebih besar. Hal ini secara tidak terduga meningkatkan rasio Bitcoin per saham bagi investor.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/from-bitcoin-to-oil-perpetual-contracts-are-breaking-into-american-financial-markets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-oil-perpetual-contracts.jpg",
+   "url": "https://cryptoslate.com/a-public-company-sold-bitcoin-and-somehow-gave-each-shareholder-more-btc-exposure",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/procap-buyback-funnel.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T11:00:32"
+   "published_at": "2026-09-04T13:30:11"
   },
   {
    "id": 2439,
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1FNPVV54PCXHCZQHZ8DRZWN/arthur.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-02T13:30:00"
@@ -214,18 +214,18 @@
    "published_at": "2026-09-02T19:15:06"
   },
   {
-   "id": 2652,
+   "id": 2587,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Perusahaan publik jual Bitcoin, eksposur BTC pemegang saham malah naik",
-   "x": "Sebuah perusahaan publik mengurangi jumlah Bitcoin yang dipegangnya, namun jumlah saham yang beredar juga berkurang lebih besar. Hal ini secara tidak terduga meningkatkan rasio Bitcoin per saham bagi investor.",
+   "t": "Perusahaan Jepang jual ETH, SOL, XRP demi pegang Bitcoin senilai $121 juta",
+   "x": "Sebuah perusahaan Jepang melepas aset kripto lain untuk fokus pada Bitcoin. Keputusan ini dilakukan meski aset yang dijual telah memberikan keuntungan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-public-company-sold-bitcoin-and-somehow-gave-each-shareholder-more-btc-exposure",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/procap-buyback-funnel.jpg",
-   "a": "23 jam lalu",
+   "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/remixpoint-bitcoin-altcoin-sale.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T13:30:11"
+   "published_at": "2026-09-03T21:25:27"
   },
   {
    "id": 2500,
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/penambang-bitcoin-perang-kekuatan-ai",
    "img": "https://assets.beincrypto.com/img/d6etWlQmcNXGN2nnP9mMqNl0nzE=/smart/346c91748faa4db2acf7c7d07ff9b642",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T16:07:49"
@@ -292,24 +292,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg",
-   "a": "21 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T15:13:28"
   },
   {
-   "id": 2587,
+   "id": 2659,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Perusahaan Jepang jual ETH, SOL, XRP demi pegang Bitcoin senilai $121 juta",
-   "x": "Sebuah perusahaan Jepang melepas aset kripto lain untuk fokus pada Bitcoin. Keputusan ini dilakukan meski aset yang dijual telah memberikan keuntungan.",
+   "t": "ETF Bitcoin dan Ethereum catat aliran dana masuk hampir $900 juta",
+   "x": "Dana ETF Bitcoin mencatat hari aliran dana masuk terbesar ketiga tahun ini, sementara produk ETF Ethereum membalikkan tren keluar dana sebelumnya. Ini menunjukkan minat investor institusi yang kembali menguat pada aset kripto utama melalui produk investasi teregulasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/remixpoint-bitcoin-altcoin-sale.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T21:25:27"
+   "published_at": "2026-09-04T14:55:26"
   },
   {
    "id": 2533,
@@ -382,18 +382,18 @@
    "published_at": "2026-09-03T18:15:07"
   },
   {
-   "id": 2659,
+   "id": 2542,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin dan Ethereum catat aliran dana masuk hampir $900 juta",
-   "x": "Dana ETF Bitcoin mencatat hari aliran dana masuk terbesar ketiga tahun ini, sementara produk ETF Ethereum membalikkan tren keluar dana sebelumnya. Ini menunjukkan minat investor institusi yang kembali menguat pada aset kripto utama melalui produk investasi teregulasi.",
+   "t": "Bitcoin butuh serap suplai untung $47 miliar untuk tembus $80.000",
+   "x": "Sebanyak 68% suplai Bitcoin kini untung, naik dari 65% Mei lalu. Ini berarti ada sekitar 600.000 BTC senilai $47 miliar yang bisa dijual dengan laba sebelum harganya naik lebih jauh.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cryptoslate.com/bitcoins-next-80000-breakout-has-47-billion-more-profitable-supply-to-absorb",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-profit-feast.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T14:55:26"
+   "published_at": "2026-09-03T12:30:29"
   },
   {
    "id": 2613,
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-mendadak-bikin-ulah-pola-ini-kirim-sinyal-ke-us85-ribu",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T02:30:07"
@@ -452,18 +452,18 @@
    "published_at": "2026-09-03T21:31:05"
   },
   {
-   "id": 2542,
+   "id": 2683,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin butuh serap suplai untung $47 miliar untuk tembus $80.000",
-   "x": "Sebanyak 68% suplai Bitcoin kini untung, naik dari 65% Mei lalu. Ini berarti ada sekitar 600.000 BTC senilai $47 miliar yang bisa dijual dengan laba sebelum harganya naik lebih jauh.",
+   "t": "Bitcoin hadapi jebakan The Fed dua minggu karena inflasi ancam pemangkasan suku bunga",
+   "x": "The Fed akan memutuskan suku bunga dengan data CPI, bukan PCE resmi, menciptakan ketidakpastian bagi pasar kripto. Keputusan ini dapat memengaruhi ekspektasi pemangkasan suku bunga dan volatilitas Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-next-80000-breakout-has-47-billion-more-profitable-supply-to-absorb",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-profit-feast.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-calendar-test.jpg",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T12:30:29"
+   "published_at": "2026-09-04T18:50:33"
   },
   {
    "id": 2460,
@@ -522,18 +522,18 @@
    "published_at": "2026-09-04T12:26:01"
   },
   {
-   "id": 2683,
+   "id": 2631,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin hadapi jebakan The Fed dua minggu karena inflasi ancam pemangkasan suku bunga",
-   "x": "The Fed akan memutuskan suku bunga dengan data CPI, bukan PCE resmi, menciptakan ketidakpastian bagi pasar kripto. Keputusan ini dapat memengaruhi ekspektasi pemangkasan suku bunga dan volatilitas Bitcoin.",
+   "t": "Bitcoin lewati level penutup 4 dari 5 pasar bearish, tapi jebakan bisa jatuhkan ke $62.000",
+   "x": "Bitcoin menembus rata-rata pergerakan 50 minggu yang menandai akhir pasar bearish sebelumnya. Namun, penutupan mingguan di atas level ini belum tercapai, menyisakan potensi penurunan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-calendar-test.jpg",
-   "a": "18 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-just-crossed-the-line-that-ended-4-out-of-5-bear-markets-but-one-deadly-historical-trap-could-still-trigger-a-crash-to-62000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ridge-reclaim.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T18:50:33"
+   "published_at": "2026-09-04T09:50:34"
   },
   {
    "id": 2619,
@@ -592,18 +592,18 @@
    "published_at": "2026-09-03T11:43:14"
   },
   {
-   "id": 2631,
+   "id": 2488,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin lewati level penutup 4 dari 5 pasar bearish, tapi jebakan bisa jatuhkan ke $62.000",
-   "x": "Bitcoin menembus rata-rata pergerakan 50 minggu yang menandai akhir pasar bearish sebelumnya. Namun, penutupan mingguan di atas level ini belum tercapai, menyisakan potensi penurunan.",
+   "t": "ETF Bitcoin BlackRock kalahkan S&P 500 setelah investor alami penurunan 53%",
+   "x": "ETF Bitcoin spot BlackRock mencatat imbal hasil tipis di atas S&P 500, namun investornya mengalami penurunan nilai aset yang jauh lebih dalam. Performa ini menyoroti volatilitas aset digital dibandingkan indeks saham tradisional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-just-crossed-the-line-that-ended-4-out-of-5-bear-markets-but-one-deadly-historical-trap-could-still-trigger-a-crash-to-62000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ridge-reclaim.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-barely-beat-the-sp-500-after-putting-investors-through-a-53-crash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/etf-volatility-rollercoaster.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T09:50:34"
+   "published_at": "2026-09-02T22:20:04"
   },
   {
    "id": 2710,
@@ -628,24 +628,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/salinas-pliego-bitcoin-juta-patokan-emas",
    "img": "https://assets.beincrypto.com/img/XswPTiHZ4nbBgH6_SB4iglW9sKw=/smart/b65a0222a6764cb7872b06aa22272dae",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T20:27:50"
   },
   {
-   "id": 2488,
+   "id": 2698,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin BlackRock kalahkan S&P 500 setelah investor alami penurunan 53%",
-   "x": "ETF Bitcoin spot BlackRock mencatat imbal hasil tipis di atas S&P 500, namun investornya mengalami penurunan nilai aset yang jauh lebih dalam. Performa ini menyoroti volatilitas aset digital dibandingkan indeks saham tradisional.",
+   "t": "El Salvador beli 1.540 Bitcoin, IMF sebut tak pakai dana publik",
+   "x": "IMF mengungkapkan dana publik tidak digunakan untuk pembelian Bitcoin El Salvador sejak tinjauan pertama. Hal ini menimbulkan pertanyaan mengenai klaim pemerintah soal pendanaan aset digital tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-barely-beat-the-sp-500-after-putting-investors-through-a-53-crash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/etf-volatility-rollercoaster.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T22:20:04"
+   "published_at": "2026-09-04T23:15:02"
   },
   {
    "id": 2690,
@@ -656,7 +656,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T20:30:47"
@@ -676,18 +676,18 @@
    "published_at": "2026-09-02T14:00:48"
   },
   {
-   "id": 2698,
+   "id": 2592,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "El Salvador beli 1.540 Bitcoin, IMF sebut tak pakai dana publik",
-   "x": "IMF mengungkapkan dana publik tidak digunakan untuk pembelian Bitcoin El Salvador sejak tinjauan pertama. Hal ini menimbulkan pertanyaan mengenai klaim pemerintah soal pendanaan aset digital tersebut.",
+   "t": "Pemindaian ungkap 96.000 output alamat palsu membebani basis data Bitcoin",
+   "x": "Sebuah pemindaian menemukan puluhan ribu output data palsu membebani basis data Bitcoin. Hal ini menunjukkan bagaimana data yang tidak efisien dapat membebani node jaringan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg",
-   "a": "13 jam lalu",
+   "url": "https://cryptoslate.com/scan-reveals-96000-fake-address-outputs-clogging-bitcoins-unspent-database",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-text-node-state-op-return-vs-fake-address.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T23:15:02"
+   "published_at": "2026-09-04T00:20:15"
   },
   {
    "id": 2637,
@@ -704,18 +704,18 @@
    "published_at": "2026-09-04T10:28:04"
   },
   {
-   "id": 2592,
+   "id": 2443,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemindaian ungkap 96.000 output alamat palsu membebani basis data Bitcoin",
-   "x": "Sebuah pemindaian menemukan puluhan ribu output data palsu membebani basis data Bitcoin. Hal ini menunjukkan bagaimana data yang tidak efisien dapat membebani node jaringan.",
+   "t": "Michael Saylor punya 7 hari selamatkan produk Bitcoin $10 miliar",
+   "x": "Michael Saylor harus mengembalikan nilai STRC ke $100 pada 8 September. Upaya buyback senilai $635,2 juta belum berhasil menaikkan harga token yang masih berkisar $97.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/scan-reveals-96000-fake-address-outputs-clogging-bitcoins-unspent-database",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-text-node-state-op-return-vs-fake-address.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/strategy-keeps-strc-at-12-as-saylor-has-seven-days-to-salvage-the-1-billion-bitcoin-yield-product-as-costs-spiral",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/strc-par-tug-pressure.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T00:20:15"
+   "published_at": "2026-09-02T13:45:03"
   },
   {
    "id": 2485,
@@ -732,18 +732,18 @@
    "published_at": "2026-09-02T20:56:45"
   },
   {
-   "id": 2443,
+   "id": 2528,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Michael Saylor punya 7 hari selamatkan produk Bitcoin $10 miliar",
-   "x": "Michael Saylor harus mengembalikan nilai STRC ke $100 pada 8 September. Upaya buyback senilai $635,2 juta belum berhasil menaikkan harga token yang masih berkisar $97.",
+   "t": "Bitcoin gagal tembus $80.000 karena hambatan 880 ribu BTC",
+   "x": "Bitcoin menghadapi hambatan signifikan di kisaran harga $77.500 hingga $80.300, yang menahan kenaikan harga di atas $80.000. Sekitar 880 ribu BTC dimiliki oleh pemegang yang mendekati titik impas.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategy-keeps-strc-at-12-as-saylor-has-seven-days-to-salvage-the-1-billion-bitcoin-yield-product-as-costs-spiral",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/strc-par-tug-pressure.jpg",
+   "url": "https://cryptoslate.com/bitcoin-cannot-break-out-past-80000-until-it-devours-an-880k-btc-roadblock-that-choked-every-rally",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-supply-bottleneck.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-02T13:45:03"
+   "published_at": "2026-09-03T09:13:48"
   },
   {
    "id": 2611,
@@ -760,18 +760,18 @@
    "published_at": "2026-09-04T05:28:12"
   },
   {
-   "id": 2528,
+   "id": 2667,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin gagal tembus $80.000 karena hambatan 880 ribu BTC",
-   "x": "Bitcoin menghadapi hambatan signifikan di kisaran harga $77.500 hingga $80.300, yang menahan kenaikan harga di atas $80.000. Sekitar 880 ribu BTC dimiliki oleh pemegang yang mendekati titik impas.",
+   "t": "Bitcoin di Bawah $80.000 Akibat Data Pekerjaan AS Perkuat Risiko Kenaikan Suku Bunga The Fed",
+   "x": "Bitcoin turun di bawah $80.000 setelah data pekerjaan AS yang lebih kuat dari perkiraan meningkatkan kekhawatiran kenaikan suku bunga The Fed. Hal ini memicu penguatan dolar dan imbal hasil obligasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-cannot-break-out-past-80000-until-it-devours-an-880k-btc-roadblock-that-choked-every-rally",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-supply-bottleneck.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-tightrope-deadline.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T09:13:48"
+   "published_at": "2026-09-04T16:10:13"
   },
   {
    "id": 2449,
@@ -788,18 +788,18 @@
    "published_at": "2026-09-02T15:00:18"
   },
   {
-   "id": 2667,
+   "id": 2566,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin di Bawah $80.000 Akibat Data Pekerjaan AS Perkuat Risiko Kenaikan Suku Bunga The Fed",
-   "x": "Bitcoin turun di bawah $80.000 setelah data pekerjaan AS yang lebih kuat dari perkiraan meningkatkan kekhawatiran kenaikan suku bunga The Fed. Hal ini memicu penguatan dolar dan imbal hasil obligasi.",
+   "t": "Bitcoin tinggalkan siklus 4 tahun demi ritme Wall Street 6-8 tahun",
+   "x": "Analisis menunjukkan Bitcoin mungkin beralih dari siklus harga empat tahunan ke pola yang lebih panjang. Perubahan ini bisa memengaruhi strategi investasi aset digital jangka panjang.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-tightrope-deadline.jpg",
-   "a": "20 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-may-be-leaving-its-4-year-cycle-behind-for-a-6-to-8-year-wall-street-rhythm",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rhythm-turntable.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T16:10:13"
+   "published_at": "2026-09-03T17:10:33"
   },
   {
    "id": 2614,
@@ -816,18 +816,18 @@
    "published_at": "2026-09-04T05:58:48"
   },
   {
-   "id": 2566,
+   "id": 2593,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tinggalkan siklus 4 tahun demi ritme Wall Street 6-8 tahun",
-   "x": "Analisis menunjukkan Bitcoin mungkin beralih dari siklus harga empat tahunan ke pola yang lebih panjang. Perubahan ini bisa memengaruhi strategi investasi aset digital jangka panjang.",
+   "t": "Peretas alihkan $1,6 juta Bitcoin curian ke Ethereum",
+   "x": "Pelaku peretasan mulai memindahkan aset Bitcoin yang dicuri dari dompet Coldcard. Dana tersebut kemudian dialihkan ke jaringan Ethereum, menunjukkan pergerakan dana curian antar-blockchain.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-may-be-leaving-its-4-year-cycle-behind-for-a-6-to-8-year-wall-street-rhythm",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rhythm-turntable.jpg",
+   "url": "https://cryptoslate.com/parked-coldcard-loot-begins-moving-as-attacker-routes-1-6m-in-stolen-bitcoin-to-ethereum",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/coldcard-bitcoin-ethereum-cross-chain.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T17:10:33"
+   "published_at": "2026-09-03T22:50:13"
   },
   {
    "id": 2678,
@@ -838,7 +838,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hargreaves-lansdown-bitcoin-listing",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T17:21:27"
