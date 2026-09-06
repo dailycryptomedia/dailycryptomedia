@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kegagalan-regulasi-kripto-polandia",
    "img": "https://assets.beincrypto.com/img/vtr371PD4VFP1nSJCd2gG2S0RDI=/smart/b23396da40234234a5b4f4b88de0868b",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T11:04:39"
@@ -46,20 +46,6 @@
    "published_at": "2026-09-05T10:44:29"
   },
   {
-   "id": 2565,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CFTC minta hakim tolak gugatan CME soal futures kripto",
-   "x": "Regulator AS berargumen bahwa CME tidak dapat menggugat persetujuan kontrak berjangka Bitcoin tanpa menunjukkan kerugian finansial nyata. Kasus ini penting bagi penentuan kewenangan regulator atas produk derivatif kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T17:31:04"
-  },
-  {
    "id": 2569,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -72,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T18:23:44"
+  },
+  {
+   "id": 2579,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bernie Sanders dorong RUU larang pengembangan AI canggih",
+   "x": "Senator Bernie Sanders mengusulkan RUU untuk menghentikan pengembangan kecerdasan buatan (AI) canggih dan membentuk regulator federal. RUU ini mengancam pelanggar dengan hukuman penjara hingga 20 tahun, menyoroti kekhawatiran pemerintah AS terhadap potensi risiko AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-03T20:16:04"
   },
   {
    "id": 2697,
@@ -114,20 +114,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T21:09:13"
-  },
-  {
-   "id": 2579,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bernie Sanders dorong RUU larang pengembangan AI canggih",
-   "x": "Senator Bernie Sanders mengusulkan RUU untuk menghentikan pengembangan kecerdasan buatan (AI) canggih dan membentuk regulator federal. RUU ini mengancam pelanggar dengan hukuman penjara hingga 20 tahun, menyoroti kekhawatiran pemerintah AS terhadap potensi risiko AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T20:16:04"
   },
   {
    "id": 2584,

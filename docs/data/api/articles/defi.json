@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -44,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:00:40"
+  },
+  {
+   "id": 2766,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Router Protocol yang didukung Coinbase akan ditutup, bakar 303 juta token ROUTE",
+   "x": "Router Protocol mengumumkan penutupan operasionalnya setelah upaya komersialisasi dan pencarian pembeli gagal. Keputusan ini berdampak pada pembakaran 303 juta token ROUTE.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News_3-1200x675.jpg",
+   "a": "3 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-06T18:03:26"
   },
   {
    "id": 2624,
