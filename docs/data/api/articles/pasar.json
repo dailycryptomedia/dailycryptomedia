@@ -1,5 +1,5 @@
 {
- "total": 102,
+ "total": 95,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-lagi-panas-di-asia-indonesia-ternyata-sudah-masuk-jalur-ripple",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T02:30:50"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/thailand-crypto-identity-checks.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T05:30:34"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-plan-to-cut-account-deposits-by-90-could-weaken-a-reason-to-hold-sol",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-rent-growth-hurdle.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T15:30:17"
@@ -648,20 +648,6 @@
    "published_at": "2026-09-04T11:32:49"
   },
   {
-   "id": 2502,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CFTC minta pengadilan tolak gugatan CME soal futures kripto",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) meminta pengadilan menolak gugatan CME terkait perpetual futures kripto. CFTC menilai CME tidak memiliki kedudukan hukum atas klaim kerugian kompetitif.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T03:39:02"
-  },
-  {
    "id": 2606,
    "k": "pasar",
    "cat": "Pasar",
@@ -754,7 +740,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/dari-draftkings-ke-polymarket-lebron-james-pindah-haluan",
    "img": null,
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T03:30:27"
@@ -816,20 +802,6 @@
    "published_at": "2026-09-03T17:13:04"
   },
   {
-   "id": 2506,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga XRP berpotensi merosot tajam, level ini jadi pemeran utama",
-   "x": "Harga XRP menghadapi ujian penting seiring melemahnya momentum dan meningkatnya risiko koreksi pasar. Level support menjadi krusial untuk menentukan arah pergerakan selanjutnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-xrp-bisa-merosot-tajam-level-ini-jadi-pemeran-utamanya",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T03:00:51"
-  },
-  {
    "id": 2680,
    "k": "pasar",
    "cat": "Pasar",
@@ -842,6 +814,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T17:55:20"
+  },
+  {
+   "id": 2526,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Harga Uniswap (UNI) Naik 100%, dan Satu Chain yang Bermain ‘Robin Hood' Menjelaskan Alasannya",
+   "x": "Harga Uniswap telah naik dua kali lipat sejak 14 Agustus, dan sumber dananya berasal dari tempat yang tak terduga. Robinhood Chain, jaringan yang Robinhood luncurkan di Arbitrum pada Juli lalu, kini menghasilkan dua…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harga-uniswap-naik-dua-kali-analisis-chain-robinhood",
+   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-03T09:02:13"
+  },
+  {
+   "id": 2646,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kripto menguat signifikan didorong harapan suku bunga",
+   "x": "Aset kripto mengalami kenaikan tajam, dengan Bitcoin menembus rekor tertinggi baru di atas $81.000, didorong oleh harapan penurunan suku bunga. Penguatan ini memicu optimisme di kalangan investor mengenai potensi kelanjutan tren naik di pasar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T12:31:31"
   }
  ]
 }
