@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -158,18 +158,18 @@
    "published_at": "2026-09-04T19:16:51"
   },
   {
-   "id": 2615,
+   "id": 2769,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perusahaan publik jual semua aset kripto, mulai lagi rencana kas Bitcoin $827 juta",
-   "x": "Sebuah perusahaan publik yang telah menjual seluruh aset kriptonya kini berupaya mengumpulkan dana untuk memulai kembali rencana kas Bitcoin senilai $827 juta. Penggalangan dana awal hanya mencakup sebagian kecil dari target tersebut, menunjukkan tantangan dalam pembiayaan kembali.",
+   "t": "Bitcoin hadapi realitas makro baru saat The Fed kurangi likuiditas",
+   "x": "Departemen Keuangan AS akan melipatgandakan operasi pembelian kembali obligasi pemerintah. Kebijakan ini berpotensi membanjiri pasar dengan likuiditas, yang bisa memengaruhi aset berisiko seperti Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/after-selling-every-coin-it-owned-a-public-company-is-using-strategys-strc-playbook-to-restart-its-827m-bitcoin-treasury-plan",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/vacated-bitcoin-bridge-.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-uncertain-the-fed-and-treasury-are-pulling-the-bond-market-in-opposite-directions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-tap-treasury-floodgates.jpg",
+   "a": "5 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T06:30:03"
+   "published_at": "2026-09-06T19:00:20"
   },
   {
    "id": 2746,
@@ -200,18 +200,18 @@
    "published_at": "2026-09-04T12:42:40"
   },
   {
-   "id": 2732,
+   "id": 2615,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Riset The Fed soal stablecoin ungkap potensi hitung ganda dolar",
-   "x": "Penelitian bank sentral AS (The Fed) mengidentifikasi potensi masalah dalam pengukuran likuiditas akibat stablecoin yang dapat dihitung ganda dalam agregat moneter. Hal ini menyoroti kompleksitas regulasi aset digital.",
+   "t": "Perusahaan publik jual semua aset kripto, mulai lagi rencana kas Bitcoin $827 juta",
+   "x": "Sebuah perusahaan publik yang telah menjual seluruh aset kriptonya kini berupaya mengumpulkan dana untuk memulai kembali rencana kas Bitcoin senilai $827 juta. Penggalangan dana awal hanya mencakup sebagian kecil dari target tersebut, menunjukkan tantangan dalam pembiayaan kembali.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/after-selling-every-coin-it-owned-a-public-company-is-using-strategys-strc-playbook-to-restart-its-827m-bitcoin-treasury-plan",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/vacated-bitcoin-bridge-.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-05T16:45:23"
+   "published_at": "2026-09-04T06:30:03"
   },
   {
    "id": 2653,
@@ -242,18 +242,18 @@
    "published_at": "2026-09-05T22:13:54"
   },
   {
-   "id": 2610,
+   "id": 2732,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Rasio volatilitas Bitcoin terhadap emas anjlok ke level terendah 6 tahun",
-   "x": "Korelasi Bitcoin dan emas mencapai level tertinggi dalam enam tahun terakhir, menunjukkan kedua aset bergerak lebih mirip. Peristiwa ini menarik perhatian investor yang mencari aset aman di tengah gejolak pasar.",
+   "t": "Riset The Fed soal stablecoin ungkap potensi hitung ganda dolar",
+   "x": "Penelitian bank sentral AS (The Fed) mengidentifikasi potensi masalah dalam pengukuran likuiditas akibat stablecoin yang dapat dihitung ganda dalam agregat moneter. Hal ini menyoroti kompleksitas regulasi aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-gold-forge-test.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T05:10:53"
+   "published_at": "2026-09-05T16:45:23"
   },
   {
    "id": 2577,
@@ -268,6 +268,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T19:36:56"
+  },
+  {
+   "id": 2610,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Rasio volatilitas Bitcoin terhadap emas anjlok ke level terendah 6 tahun",
+   "x": "Korelasi Bitcoin dan emas mencapai level tertinggi dalam enam tahun terakhir, menunjukkan kedua aset bergerak lebih mirip. Peristiwa ini menarik perhatian investor yang mencari aset aman di tengah gejolak pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-gold-forge-test.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T05:10:53"
   }
  ]
 }
