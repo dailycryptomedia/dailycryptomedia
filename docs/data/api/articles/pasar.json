@@ -1,8 +1,22 @@
 {
- "total": 100,
+ "total": 101,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 2741,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP melonjak di Asia, Indonesia terhubung ke jaringan Ripple",
+   "x": "Volume perdagangan XRP di Asia melonjak tajam, menempatkannya sebagai aset digital yang sedang hangat diperbincangkan. Indonesia ternyata sudah terintegrasi dalam jaringan Ripple, menunjukkan konektivitas yang kuat dengan ekosistem pembayaran global.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/xrp-lagi-panas-di-asia-indonesia-ternyata-sudah-masuk-jalur-ripple",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-06T02:30:50"
+  },
   {
    "id": 2510,
    "k": "pasar",
@@ -96,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-plan-to-cut-account-deposits-by-90-could-weaken-a-reason-to-hold-sol",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-rent-growth-hurdle.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T15:30:17"
@@ -446,7 +460,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/machi-big-brother-friend-tech-bid",
    "img": "https://assets.beincrypto.com/img/NrJlTKzsmmVOBRowsnxunxeQcCc=/smart/4c7b45607263457e952b2dbe7dd88060",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T00:37:25"
@@ -502,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-pons-naik-brutal-uniswap-labs-masuk-dan-target-us3-jadi-sorotan",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T03:30:24"
@@ -670,7 +684,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-eth-belum-selesai-berdarah-jurang-berikutnya-sudah-menunggu",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T03:30:07"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T17:55:20"
-  },
-  {
-   "id": 2526,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga Uniswap (UNI) Naik 100%, dan Satu Chain yang Bermain ‘Robin Hood' Menjelaskan Alasannya",
-   "x": "Harga Uniswap telah naik dua kali lipat sejak 14 Agustus, dan sumber dananya berasal dari tempat yang tak terduga. Robinhood Chain, jaringan yang Robinhood luncurkan di Arbitrum pada Juli lalu, kini menghasilkan dua…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-uniswap-naik-dua-kali-analisis-chain-robinhood",
-   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-03T09:02:13"
   }
  ]
 }
