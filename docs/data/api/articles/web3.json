@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-04T10:03:54"
   },
   {
-   "id": 2494,
+   "id": 2514,
    "k": "web3",
    "cat": "Web3",
-   "t": "Hampir $10 juta harus keluar dari jaringan Ethereum L2 yang mati sebelum Malam Tahun Baru",
-   "x": "Jaringan Ethereum layer 2 menghentikan deposit dan memperingatkan rute keluar sebelum penutupan total. Pengguna harus segera memindahkan aset mereka untuk menghindari kehilangan dana yang tidak dapat dipulihkan.",
+   "t": "Ontology paksa pembaruan node mendesak setelah aktivitas jahat restart chain",
+   "x": "Ontology mewajibkan pembaruan node versi 3.1.5 karena serangan jahat yang mengganggu operasional jaringan. Detail mengenai jalur serangan dan pemulihan layanan masih belum diungkapkan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/silicon-last-departure.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ontology-mainnet-recovery-bridge.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-03T01:00:59"
+   "published_at": "2026-09-03T07:00:34"
   },
   {
    "id": 2546,
@@ -44,20 +44,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T12:52:54"
-  },
-  {
-   "id": 2514,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ontology paksa pembaruan node mendesak setelah aktivitas jahat restart chain",
-   "x": "Ontology mewajibkan pembaruan node versi 3.1.5 karena serangan jahat yang mengganggu operasional jaringan. Detail mengenai jalur serangan dan pemulihan layanan masih belum diungkapkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ontology-mainnet-recovery-bridge.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T07:00:34"
   },
   {
    "id": 2658,
