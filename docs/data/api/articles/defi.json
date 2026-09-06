@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-04T09:03:34"
   },
   {
-   "id": 2731,
+   "id": 2760,
    "k": "defi",
    "cat": "DeFi",
-   "t": "DAO paksa protokol kripto pilih kode atau rem darurat",
-   "x": "Organisasi Otonom Terdesentralisasi (DAO) memungkinkan pemegang token untuk berdebat dan memilih proposal, yang kemudian dijalankan oleh perangkat lunak. Model tata kelola ini menimbulkan tantangan dalam menyeimbangkan inovasi kode dengan mekanisme pengamanan darurat.",
+   "t": "Proposal pinjaman kripto Aave izinkan alat darurat bekukan pasar",
+   "x": "Proposal Aave memungkinkan peran darurat untuk membekukan pasar kripto jika terjadi kondisi ekstrem. Namun, alat ini tidak dapat digunakan untuk membuka kembali pasar, menimbulkan pertanyaan tentang potensi penyalahgunaan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/daos-are-forcing-crypto-protocols-to-choose-between-code-and-emergency-brakes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/dao-delegate-throne.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cryptoslate.com/aave-lending-proposal-would-grant-emergency-powers-without-requiring-public-reports-on-their-use",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-emergency-powers.jpg",
+   "a": "3 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-05T17:00:09"
+   "published_at": "2026-09-06T15:33:08"
   },
   {
    "id": 2625,
@@ -58,6 +58,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T08:24:57"
+  },
+  {
+   "id": 2731,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "DAO paksa protokol kripto pilih kode atau rem darurat",
+   "x": "Organisasi Otonom Terdesentralisasi (DAO) memungkinkan pemegang token untuk berdebat dan memilih proposal, yang kemudian dijalankan oleh perangkat lunak. Model tata kelola ini menimbulkan tantangan dalam menyeimbangkan inovasi kode dengan mekanisme pengamanan darurat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/daos-are-forcing-crypto-protocols-to-choose-between-code-and-emergency-brakes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/dao-delegate-throne.jpg",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-05T17:00:09"
   }
  ]
 }
