@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -250,38 +250,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T16:45:23"
-  },
-  {
-   "id": 2556,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Induk Kraken, Payward, bermitra dengan SoFi untuk stablecoin dan penyelesaian 24/7",
-   "x": "Kemitraan ini akan membawa stablecoin SoFiUSD ke platform Kraken dan menghubungkan jaringan penyelesaian dolar SoFi yang beroperasi sepanjang waktu. Ini juga memberikan akses SoFi ke likuiditas aset digital melalui Kraken Prime.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-03T16:04:11"
-  },
-  {
-   "id": 2610,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Rasio volatilitas Bitcoin terhadap emas anjlok ke level terendah 6 tahun",
-   "x": "Korelasi Bitcoin dan emas mencapai level tertinggi dalam enam tahun terakhir, menunjukkan kedua aset bergerak lebih mirip. Peristiwa ini menarik perhatian investor yang mencari aset aman di tengah gejolak pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-gold-forge-test.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T05:10:53"
   },
   {
    "id": 2577,
@@ -296,6 +268,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-03T19:36:56"
+  },
+  {
+   "id": 2610,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Rasio volatilitas Bitcoin terhadap emas anjlok ke level terendah 6 tahun",
+   "x": "Korelasi Bitcoin dan emas mencapai level tertinggi dalam enam tahun terakhir, menunjukkan kedua aset bergerak lebih mirip. Peristiwa ini menarik perhatian investor yang mencari aset aman di tengah gejolak pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-gold-forge-test.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T05:10:53"
   }
  ]
 }
