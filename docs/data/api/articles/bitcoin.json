@@ -1,5 +1,5 @@
 {
- "total": 44,
+ "total": 45,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kontroversi-bitcoin-backing-peter-schiff",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "15 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T20:43:43"
+  },
+  {
+   "id": 2826,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Token palsu diduga sebabkan $320 juta Bitcoin hilang dari Liquid",
+   "x": "Peneliti menemukan dugaan kegagalan pada cache validasi transaksi Liquid Network. Ini menjelaskan bagaimana token tanpa jaminan bisa ditukar dengan Bitcoin asli, menyebabkan kerugian besar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tokens-created-out-of-thin-air-may-explain-how-320-million-in-bitcoin-left-a-sidechain",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/liquid-network-bitcoin.jpg",
+   "a": "2 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T13:05:17"
   },
   {
    "id": 2730,
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T17:01:04"
-  },
-  {
-   "id": 2652,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Perusahaan publik jual Bitcoin, eksposur BTC pemegang saham malah naik",
-   "x": "Sebuah perusahaan publik mengurangi jumlah Bitcoin yang dipegangnya, namun jumlah saham yang beredar juga berkurang lebih besar. Hal ini secara tidak terduga meningkatkan rasio Bitcoin per saham bagi investor.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-public-company-sold-bitcoin-and-somehow-gave-each-shareholder-more-btc-exposure",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/procap-buyback-funnel.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T13:30:11"
   },
   {
    "id": 2773,
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XVQV0DBV1Z4W8PX2TG1AZJ/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2-1.jpg",
-   "a": "32 menit lalu",
+   "a": "57 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T12:10:22"
@@ -116,6 +116,20 @@
    "published_at": "2026-09-05T10:41:36"
   },
   {
+   "id": 2652,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Perusahaan publik jual Bitcoin, eksposur BTC pemegang saham malah naik",
+   "x": "Sebuah perusahaan publik mengurangi jumlah Bitcoin yang dipegangnya, namun jumlah saham yang beredar juga berkurang lebih besar. Hal ini secara tidak terduga meningkatkan rasio Bitcoin per saham bagi investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-public-company-sold-bitcoin-and-somehow-gave-each-shareholder-more-btc-exposure",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/procap-buyback-funnel.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T13:30:11"
+  },
+  {
    "id": 2661,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -128,20 +142,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T15:13:28"
-  },
-  {
-   "id": 2659,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin dan Ethereum catat aliran dana masuk hampir $900 juta",
-   "x": "Dana ETF Bitcoin mencatat hari aliran dana masuk terbesar ketiga tahun ini, sementara produk ETF Ethereum membalikkan tren keluar dana sebelumnya. Ini menunjukkan minat investor institusi yang kembali menguat pada aset kripto utama melalui produk investasi teregulasi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T14:55:26"
   },
   {
    "id": 2798,
@@ -200,6 +200,20 @@
    "published_at": "2026-09-04T16:07:49"
   },
   {
+   "id": 2659,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin dan Ethereum catat aliran dana masuk hampir $900 juta",
+   "x": "Dana ETF Bitcoin mencatat hari aliran dana masuk terbesar ketiga tahun ini, sementara produk ETF Ethereum membalikkan tren keluar dana sebelumnya. Ini menunjukkan minat investor institusi yang kembali menguat pada aset kripto utama melalui produk investasi teregulasi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T14:55:26"
+  },
+  {
    "id": 2812,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -208,24 +222,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T09:55:42"
-  },
-  {
-   "id": 2807,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas 'whitehat' tahan $320 juta BTC hingga celah jaringan diperbaiki",
-   "x": "Seorang peretas menemukan celah fatal pada jaringan Bitcoin yang memungkinkan pencurian dana. Ia menahan aset senilai $320 juta hingga pengembang membuktikan perbaikan telah dilakukan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-whitehat-hacker-is-holding-320-million-in-drained-bitcoin-until-developers-prove-they-patched-a-fatal-network-flaw",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/liquid-bridge-pause.jpg",
    "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T08:55:13"
+   "published_at": "2026-09-07T09:55:42"
   },
   {
    "id": 2815,
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T13:01:48"
@@ -284,6 +284,20 @@
    "published_at": "2026-09-07T08:30:37"
   },
   {
+   "id": 2807,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas 'whitehat' tahan $320 juta BTC hingga celah jaringan diperbaiki",
+   "x": "Seorang peretas menemukan celah fatal pada jaringan Bitcoin yang memungkinkan pencurian dana. Ia menahan aset senilai $320 juta hingga pengembang membuktikan perbaikan telah dilakukan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-whitehat-hacker-is-holding-320-million-in-drained-bitcoin-until-developers-prove-they-patched-a-fatal-network-flaw",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/liquid-bridge-pause.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T08:55:13"
+  },
+  {
    "id": 2819,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -296,20 +310,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T11:09:27"
-  },
-  {
-   "id": 2683,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin hadapi jebakan The Fed dua minggu karena inflasi ancam pemangkasan suku bunga",
-   "x": "The Fed akan memutuskan suku bunga dengan data CPI, bukan PCE resmi, menciptakan ketidakpastian bagi pasar kripto. Keputusan ini dapat memengaruhi ekspektasi pemangkasan suku bunga dan volatilitas Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-calendar-test.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T18:50:33"
   },
   {
    "id": 2781,
@@ -368,18 +368,18 @@
    "published_at": "2026-09-04T20:27:50"
   },
   {
-   "id": 2698,
+   "id": 2683,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "El Salvador beli 1.540 Bitcoin, IMF sebut tak pakai dana publik",
-   "x": "IMF mengungkapkan dana publik tidak digunakan untuk pembelian Bitcoin El Salvador sejak tinjauan pertama. Hal ini menimbulkan pertanyaan mengenai klaim pemerintah soal pendanaan aset digital tersebut.",
+   "t": "Bitcoin hadapi jebakan The Fed dua minggu karena inflasi ancam pemangkasan suku bunga",
+   "x": "The Fed akan memutuskan suku bunga dengan data CPI, bukan PCE resmi, menciptakan ketidakpastian bagi pasar kripto. Keputusan ini dapat memengaruhi ekspektasi pemangkasan suku bunga dan volatilitas Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg",
+   "url": "https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-calendar-test.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T23:15:02"
+   "published_at": "2026-09-04T18:50:33"
   },
   {
    "id": 2806,
@@ -404,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1WEJ8K82HDZFDZDMKSQ89V0/cover-collage.png",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T00:05:02"
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/september-jadi-awal-altseason-2026-indikator-ini-jadi-buktinya",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T06:00:26"
@@ -432,24 +432,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dolar-as-kehilangan-97-persen-nilai-kasus-bitcoin",
    "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T15:57:58"
   },
   {
-   "id": 2667,
+   "id": 2698,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin di Bawah $80.000 Akibat Data Pekerjaan AS Perkuat Risiko Kenaikan Suku Bunga The Fed",
-   "x": "Bitcoin turun di bawah $80.000 setelah data pekerjaan AS yang lebih kuat dari perkiraan meningkatkan kekhawatiran kenaikan suku bunga The Fed. Hal ini memicu penguatan dolar dan imbal hasil obligasi.",
+   "t": "El Salvador beli 1.540 Bitcoin, IMF sebut tak pakai dana publik",
+   "x": "IMF mengungkapkan dana publik tidak digunakan untuk pembelian Bitcoin El Salvador sejak tinjauan pertama. Hal ini menimbulkan pertanyaan mengenai klaim pemerintah soal pendanaan aset digital tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-tightrope-deadline.jpg",
+   "url": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T16:10:13"
+   "published_at": "2026-09-04T23:15:02"
   },
   {
    "id": 2794,
@@ -494,6 +494,20 @@
    "published_at": "2026-09-04T17:21:27"
   },
   {
+   "id": 2667,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin di Bawah $80.000 Akibat Data Pekerjaan AS Perkuat Risiko Kenaikan Suku Bunga The Fed",
+   "x": "Bitcoin turun di bawah $80.000 setelah data pekerjaan AS yang lebih kuat dari perkiraan meningkatkan kekhawatiran kenaikan suku bunga The Fed. Hal ini memicu penguatan dolar dan imbal hasil obligasi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-tightrope-deadline.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T16:10:13"
+  },
+  {
    "id": 2810,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -516,7 +530,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/buterin-taruhan-melawan-ai-bitcoin-crash",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T10:51:28"
@@ -586,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cz-bitcoin-lampaui-target-harga-emas",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T02:02:00"
