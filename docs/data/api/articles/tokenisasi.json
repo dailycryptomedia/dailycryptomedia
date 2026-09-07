@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T10:34:47"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689",
    "img": "https://www.tbstat.com/wp/uploads/2025/08/dbs-1200x675.jpg",
-   "a": "7 menit lalu",
+   "a": "38 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T13:00:40"
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T13:34:30"
@@ -172,18 +172,18 @@
    "published_at": "2026-09-06T19:00:20"
   },
   {
-   "id": 2650,
+   "id": 2778,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin dan Emas Turun karena Payroll AS Tembus Perkiraan hingga 3 Kali Lipat",
-   "x": "Bitcoin dan emas sama-sama turun dalam hitungan menit setelah laporan pekerjaan AS, setelah data payroll Agustus meningkat tiga kali lipat dari perkiraan, mencapai 162.000.",
+   "t": "Terakhir Kali Imbal Hasil Treasury Capai 6%, Bitcoin Belum Ada — Apa yang Terjadi jika Kini Tembus Lagi?",
+   "x": "Rick Bensignor memperkirakan imbal hasil Treasury AS tenor 10 tahun akan naik menuju 6%. Berikut artinya bagi harga Bitcoin.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-emas-turun-prakiraan-payroll-as",
-   "img": "https://assets.beincrypto.com/img/Hp5CQhaVUWegTAWUuslPohySq8o=/smart/15975f6f4a6c429b8cbb8540c450aca1",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/imbal-hasil-treasury-bitcoin-6-persen",
+   "img": "https://assets.beincrypto.com/img/ADHGiAxERHy_554lxlEkdG5jHNI=/smart/c9e0d1f4ef4f41f69bb700eaba265351",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-04T12:42:40"
+   "published_at": "2026-09-07T01:22:20"
   },
   {
    "id": 2732,
@@ -200,18 +200,18 @@
    "published_at": "2026-09-05T16:45:23"
   },
   {
-   "id": 2778,
+   "id": 2736,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Terakhir Kali Imbal Hasil Treasury Capai 6%, Bitcoin Belum Ada — Apa yang Terjadi jika Kini Tembus Lagi?",
-   "x": "Rick Bensignor memperkirakan imbal hasil Treasury AS tenor 10 tahun akan naik menuju 6%. Berikut artinya bagi harga Bitcoin.",
+   "t": "Banksy, Star Wars, dan JPMorgan Bertemu di Museum US$1 Miliar",
+   "x": "Mellody Hobson membantu mendanai museum George Lucas senilai $1 miliar sementara bank miliknya mendorong uang ter-tokenisasi di onchain.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/imbal-hasil-treasury-bitcoin-6-persen",
-   "img": "https://assets.beincrypto.com/img/ADHGiAxERHy_554lxlEkdG5jHNI=/smart/c9e0d1f4ef4f41f69bb700eaba265351",
-   "a": "11 jam lalu",
+   "url": "https://id.beincrypto.com/museum-george-lucas-jpmorgan-hobson",
+   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-07T01:22:20"
+   "published_at": "2026-09-05T22:13:54"
   },
   {
    "id": 2817,
@@ -226,20 +226,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T10:45:22"
-  },
-  {
-   "id": 2736,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Banksy, Star Wars, dan JPMorgan Bertemu di Museum US$1 Miliar",
-   "x": "Mellody Hobson membantu mendanai museum George Lucas senilai $1 miliar sementara bank miliknya mendorong uang ter-tokenisasi di onchain.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/museum-george-lucas-jpmorgan-hobson",
-   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-05T22:13:54"
   }
  ]
 }
