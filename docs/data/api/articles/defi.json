@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-lending-proposal-would-grant-emergency-powers-without-requiring-public-reports-on-their-use",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-emergency-powers.jpg",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T15:33:08"
+  },
+  {
+   "id": 2791,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Harmony usulkan penghentian layer 1, migrasi ONE ke Ethereum",
+   "x": "Harmony mengusulkan penghentian blockchain layer 1-nya dan migrasi token ONE ke Ethereum. Langkah ini diambil setelah insiden peretasan yang menyebabkan pembatalan 109.000 transaksi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X3TQW8VBS6ZBQQFGKK9XGD/hi-bancor-excludes-users-2.jpg",
+   "a": "37 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T05:00:49"
   },
   {
    "id": 2625,
