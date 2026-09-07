@@ -1,5 +1,5 @@
 {
- "total": 79,
+ "total": 78,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,6 +60,20 @@
    "published_at": "2026-09-04T15:36:04"
   },
   {
+   "id": 2823,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Hyperliquid uji daftar izin untuk batasi akses pasar",
+   "x": "Hyperliquid memperkenalkan fitur baru yang memungkinkan operator pasar membatasi akses ke platform mereka. Ini menambah kontrol tanpa mengubah pasar yang sudah ada.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hyperliquid-tests-allowlists-that-let-operators-restrict-access-to-their-own-markets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hyperliquid-allowlist-gateway.jpg",
+   "a": "2 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T12:40:21"
+  },
+  {
    "id": 2735,
    "k": "pasar",
    "cat": "Pasar",
@@ -72,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T20:02:08"
-  },
-  {
-   "id": 2727,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Rencana Solana potong deposit akun 90% bisa melemahkan alasan pegang SOL",
-   "x": "Solana berencana memangkas persyaratan deposit akun hingga 90%. Perubahan ini dapat mengurangi insentif bagi pengguna untuk menyimpan SOL di jaringan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-plan-to-cut-account-deposits-by-90-could-weaken-a-reason-to-hold-sol",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-rent-growth-hurdle.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-05T15:30:17"
   },
   {
    "id": 2741,
@@ -124,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kalshi-pemenang-yang-salah-18-juta-kebangkitan-michigan",
    "img": "https://assets.beincrypto.com/img/rT8kJlYxL5r-XWw3YcnO4Y5u1nU=/smart/3a9135f9becb4bf2a1840717e219e6ed",
-   "a": "16 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T19:11:29"
@@ -144,6 +144,20 @@
    "published_at": "2026-09-05T13:01:03"
   },
   {
+   "id": 2727,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Rencana Solana potong deposit akun 90% bisa melemahkan alasan pegang SOL",
+   "x": "Solana berencana memangkas persyaratan deposit akun hingga 90%. Perubahan ini dapat mengurangi insentif bagi pengguna untuk menyimpan SOL di jaringan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solanas-plan-to-cut-account-deposits-by-90-could-weaken-a-reason-to-hold-sol",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-rent-growth-hurdle.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-05T15:30:17"
+  },
+  {
    "id": 2681,
    "k": "pasar",
    "cat": "Pasar",
@@ -156,20 +170,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T18:35:21"
-  },
-  {
-   "id": 2765,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Aliran dana ETF Bitcoin turun 76% jelang libur Labor Day",
-   "x": "Aliran dana masuk ke ETF Bitcoin tercatat turun 76% menjelang libur Labor Day di AS. Hanya ETF BlackRock dan Fidelity yang masih menarik dana baru, menunjukkan potensi perlambatan minat investor institusi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-etf-inflows-fall-76-entering-labor-day-break-as-only-blackrock-and-fidelity-attract-fresh-money",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-inflow-trains.jpg",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T17:00:52"
   },
   {
    "id": 2701,
@@ -186,18 +186,18 @@
    "published_at": "2026-09-05T02:00:48"
   },
   {
-   "id": 2644,
+   "id": 2821,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kunjungan Kalshi AS melonjak 1.500% di tengah tekanan regulator",
-   "x": "Lalu lintas web Kalshi melonjak lebih dari 1.500% dalam setahun, seiring meningkatnya pengawasan hukum terhadap kontrak olahraga mereka. Pertumbuhan ini terjadi saat regulator AS meningkatkan tekanan terhadap platform tersebut.",
+   "t": "Harga Zcash capai rekor tertinggi sejak 2016, kapitalisasi pasar tembus $20 miliar",
+   "x": "Harga Zcash melonjak 45% dalam sepekan setelah konversi Grayscale Zcash Trust menjadi ETF. Kenaikan ini mendorong kapitalisasi pasarnya melampaui $20 miliar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB5TDQQNF/hi-comparison-us-elections-3.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg",
+   "a": "11 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T11:32:28"
+   "published_at": "2026-09-07T12:31:23"
   },
   {
    "id": 2779,
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/iphone-lipat-apple-ternus-keynote",
    "img": "https://assets.beincrypto.com/img/s9z9ZE9jO1qp3OpzArVKDsNAZKo=/smart/2eb3212a076d4259b9d0414224fa9fff",
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T01:12:54"
@@ -228,32 +228,32 @@
    "published_at": "2026-09-06T13:01:04"
   },
   {
-   "id": 2645,
+   "id": 2765,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Trezor: Peretasan ShipMonk pengaruhi 67.000 pelanggan tambahan",
-   "x": "Data baru yang teridentifikasi dari 2019-2021 mencakup nama, email, nomor telepon, alamat pengiriman, dan nomor pesanan. Insiden ini menambah jumlah pelanggan Trezor yang terdampak oleh pelanggaran keamanan ShipMonk.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-   "img": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
-   "a": "3 hari lalu",
+   "t": "Aliran dana ETF Bitcoin turun 76% jelang libur Labor Day",
+   "x": "Aliran dana masuk ke ETF Bitcoin tercatat turun 76% menjelang libur Labor Day di AS. Hanya ETF BlackRock dan Fidelity yang masih menarik dana baru, menunjukkan potensi perlambatan minat investor institusi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-etf-inflows-fall-76-entering-labor-day-break-as-only-blackrock-and-fidelity-attract-fresh-money",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-inflow-trains.jpg",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T12:03:16"
+   "published_at": "2026-09-06T17:00:52"
   },
   {
-   "id": 2744,
+   "id": 2669,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Model harga Bitcoin kompleks pelajari kebisingan pasar",
-   "x": "Model harga Bitcoin yang canggih, termasuk yang berbasis hukum pangkat dan jaringan AI, kini mampu mempelajari pola pasar yang berulang. Hal ini menunjukkan perkembangan dalam analisis aset digital untuk memprediksi pergerakan harga.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-smartest-bitcoin-price-models-keep-losing-to-the-dumbest-forecast",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-benchmark-shot.jpg",
-   "a": "kemarin",
+   "t": "Zcash tembus $1.000 seiring lonjakan aliran dana ETF dan miner",
+   "x": "Aliran dana masuk Grayscale ZCSH meningkat, namun persaingan jaringan yang ketat mengurangi keuntungan miner dari kenaikan harga token ZEC. Hal ini menunjukkan dinamika pasar yang kompleks bagi aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T07:00:57"
+   "published_at": "2026-09-04T16:59:34"
   },
   {
    "id": 2707,
@@ -298,32 +298,32 @@
    "published_at": "2026-09-06T16:01:03"
   },
   {
-   "id": 2669,
+   "id": 2744,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Zcash tembus $1.000 seiring lonjakan aliran dana ETF dan miner",
-   "x": "Aliran dana masuk Grayscale ZCSH meningkat, namun persaingan jaringan yang ketat mengurangi keuntungan miner dari kenaikan harga token ZEC. Hal ini menunjukkan dinamika pasar yang kompleks bagi aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T16:59:34"
-  },
-  {
-   "id": 2734,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pelanggaran Trezor ungkap 80.689 pengguna setelah log pengiriman ditemukan",
-   "x": "Trezor mengumumkan jumlah pengguna yang terdampak pelanggaran data bertambah enam kali lipat menjadi 80.689 orang. Penemuan log pengiriman yang sebelumnya diduga telah dihapus memperluas cakupan insiden ini.",
+   "t": "Model harga Bitcoin kompleks pelajari kebisingan pasar",
+   "x": "Model harga Bitcoin yang canggih, termasuk yang berbasis hukum pangkat dan jaringan AI, kini mampu mempelajari pola pasar yang berulang. Hal ini menunjukkan perkembangan dalam analisis aset digital untuk memprediksi pergerakan harga.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/users-exposed-by-trezor-breach-grows-sixfold-after-supposedly-deleted-shipping-logs-are-found",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-shipping-breach.jpg",
+   "url": "https://cryptoslate.com/the-smartest-bitcoin-price-models-keep-losing-to-the-dumbest-forecast",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-benchmark-shot.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-05T19:00:02"
+   "published_at": "2026-09-06T07:00:57"
+  },
+  {
+   "id": 2780,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Harmony akan hentikan Layer 1, usulkan migrasi token ke Ethereum",
+   "x": "Harmony berencana menghentikan operasional Layer 1 dan memindahkan tokennya ke Ethereum. Langkah ini bertujuan untuk mendukung inisiatif baru dalam ekonomi kreatif berbasis kecerdasan buatan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+   "img": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T02:28:47"
   },
   {
    "id": 2712,
@@ -368,32 +368,32 @@
    "published_at": "2026-09-04T20:31:03"
   },
   {
-   "id": 2780,
+   "id": 2734,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Harmony akan hentikan Layer 1, usulkan migrasi token ke Ethereum",
-   "x": "Harmony berencana menghentikan operasional Layer 1 dan memindahkan tokennya ke Ethereum. Langkah ini bertujuan untuk mendukung inisiatif baru dalam ekonomi kreatif berbasis kecerdasan buatan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
-   "img": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T02:28:47"
-  },
-  {
-   "id": 2749,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Detik-detik perdagangan Bitcoin futures senilai $14 miliar",
-   "x": "Perdagangan futures Bitcoin senilai $14 miliar menunjukkan lonjakan aktivitas dalam interval 15 menit. Pergerakan harga dan volume perdagangan meningkat tajam pada detik-detik tertentu, menyoroti volatilitas pasar derivatif kripto.",
+   "t": "Pelanggaran Trezor ungkap 80.689 pengguna setelah log pengiriman ditemukan",
+   "x": "Trezor mengumumkan jumlah pengguna yang terdampak pelanggaran data bertambah enam kali lipat menjadi 80.689 orang. Penemuan log pengiriman yang sebelumnya diduga telah dihapus memperluas cakupan insiden ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-invisible-opening-bell-inside-cryptos-endless-trading-day",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/echoes-market-bell.jpg",
+   "url": "https://cryptoslate.com/users-exposed-by-trezor-breach-grows-sixfold-after-supposedly-deleted-shipping-logs-are-found",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-shipping-breach.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T11:00:27"
+   "published_at": "2026-09-05T19:00:02"
+  },
+  {
+   "id": 2772,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "STONK melonjak 250% capai $140 juta, peluncuran Solana StonkFun picu volume",
+   "x": "Token STONK melonjak 250% setelah terintegrasi dengan Raydium LaunchLab, mendorong kapitalisasi pasarnya hingga $140 juta. Kenaikan ini terjadi bersamaan dengan lonjakan harga token RAY sebesar 40%.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+   "img": "https://www.tbstat.com/wp/uploads/2026/09/exec-36cc6328-e734-4401-9c1a-d4a058f8b90d-1200x675.png",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-06T20:51:40"
   },
   {
    "id": 2706,
@@ -438,32 +438,18 @@
    "published_at": "2026-09-04T16:24:46"
   },
   {
-   "id": 2772,
+   "id": 2749,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "STONK melonjak 250% capai $140 juta, peluncuran Solana StonkFun picu volume",
-   "x": "Token STONK melonjak 250% setelah terintegrasi dengan Raydium LaunchLab, mendorong kapitalisasi pasarnya hingga $140 juta. Kenaikan ini terjadi bersamaan dengan lonjakan harga token RAY sebesar 40%.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
-   "img": "https://www.tbstat.com/wp/uploads/2026/09/exec-36cc6328-e734-4401-9c1a-d4a058f8b90d-1200x675.png",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T20:51:40"
-  },
-  {
-   "id": 2759,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Arus dana masuk ETF Bitcoin AS capai $63 miliar",
-   "x": "Arus dana masuk bersih ke ETF Bitcoin spot AS telah mencapai $63 miliar. Ini menunjukkan minat institusional yang besar pada aset digital melalui produk investasi teregulasi.",
+   "t": "Detik-detik perdagangan Bitcoin futures senilai $14 miliar",
+   "x": "Perdagangan futures Bitcoin senilai $14 miliar menunjukkan lonjakan aktivitas dalam interval 15 menit. Pergerakan harga dan volume perdagangan meningkat tajam pada detik-detik tertentu, menyoroti volatilitas pasar derivatif kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-63-billion-revolving-door-carrying-the-entire-us-bitcoin-etf-market",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ibit-wall-street-gateway.jpg",
-   "a": "21 jam lalu",
+   "url": "https://cryptoslate.com/the-invisible-opening-bell-inside-cryptos-endless-trading-day",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/echoes-market-bell.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T15:00:20"
+   "published_at": "2026-09-06T11:00:27"
   },
   {
    "id": 2739,
@@ -508,18 +494,18 @@
    "published_at": "2026-09-04T18:36:41"
   },
   {
-   "id": 2747,
+   "id": 2759,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Strategy dan Robinhood pimpin ETF saham senilai $4,5 miliar",
-   "x": "Dua perusahaan ini kini memegang porsi signifikan pada ETF saham kapitalisasi besar yang tidak secara spesifik dirancang untuk aset kripto. Hal ini menunjukkan bagaimana volatilitas aset digital dapat memengaruhi portofolio saham umum.",
+   "t": "Arus dana masuk ETF Bitcoin AS capai $63 miliar",
+   "x": "Arus dana masuk bersih ke ETF Bitcoin spot AS telah mencapai $63 miliar. Ini menunjukkan minat institusional yang besar pada aset digital melalui produk investasi teregulasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-road-mainstream-etf.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/the-63-billion-revolving-door-carrying-the-entire-us-bitcoin-etf-market",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ibit-wall-street-gateway.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T10:00:43"
+   "published_at": "2026-09-06T15:00:20"
   },
   {
    "id": 2782,
@@ -564,18 +550,18 @@
    "published_at": "2026-09-06T17:01:04"
   },
   {
-   "id": 2723,
+   "id": 2747,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Zcash tembus $1.000 saat ETF spotnya capai aset $400 juta",
-   "x": "Harga Zcash melampaui $1.000, mendorong nilai aset ETF Grayscale menjadi lebih dari $400 juta dalam dua minggu. Kenaikan ini terjadi kurang dari dua minggu setelah peluncuran ETF tersebut.",
+   "t": "Strategy dan Robinhood pimpin ETF saham senilai $4,5 miliar",
+   "x": "Dua perusahaan ini kini memegang porsi signifikan pada ETF saham kapitalisasi besar yang tidak secara spesifik dirancang untuk aset kripto. Hal ini menunjukkan bagaimana volatilitas aset digital dapat memengaruhi portofolio saham umum.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg",
+   "url": "https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-road-mainstream-etf.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-05T14:00:05"
+   "published_at": "2026-09-06T10:00:43"
   },
   {
    "id": 2801,
@@ -620,18 +606,18 @@
    "published_at": "2026-09-05T15:01:04"
   },
   {
-   "id": 2665,
+   "id": 2723,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mengapa GENIUS Bisa Buat Dolar Digital Rentan Terhadap 'Bank Run' Jaringan Blockchain",
-   "x": "Sebuah makalah staf The Fed menunjukkan bagaimana kemacetan dan efek jaringan yang lemah dapat mendorong pemegang dolar digital untuk melakukan penarikan atau migrasi jaringan. Hal ini berpotensi menimbulkan risiko likuiditas bagi aset digital.",
+   "t": "Zcash tembus $1.000 saat ETF spotnya capai aset $400 juta",
+   "x": "Harga Zcash melampaui $1.000, mendorong nilai aset ETF Grayscale menjadi lebih dari $400 juta dalam dua minggu. Kenaikan ini terjadi kurang dari dua minggu setelah peluncuran ETF tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-genius-could-leave-digital-dollars-vulnerable-to-sudden-blockchain-network-bank-runs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-fee-turnstile.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/zcash-breaks-1000-as-its-spot-etf-crosses-400-million-in-assets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-1000-zcsh-etf-privacy-rally.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T15:30:13"
+   "published_at": "2026-09-05T14:00:05"
   },
   {
    "id": 2804,
@@ -662,32 +648,32 @@
    "published_at": "2026-09-04T13:50:20"
   },
   {
-   "id": 2646,
+   "id": 2662,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto menguat signifikan didorong harapan suku bunga",
-   "x": "Aset kripto mengalami kenaikan tajam, dengan Bitcoin menembus rekor tertinggi baru di atas $81.000, didorong oleh harapan penurunan suku bunga. Penguatan ini memicu optimisme di kalangan investor mengenai potensi kelanjutan tren naik di pasar.",
+   "t": "Pendiri Bersama BitMEX Sumbang £4 Juta Lagi untuk Reform UK",
+   "x": "Pendiri bersama BitMEX, Ben Delo, kembali menyumbangkan dana signifikan kepada partai Reform UK. Donasi ini menjadi bagian terbesar dari pendanaan partai tersebut pada kuartal ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg",
+   "url": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/nigel-farage-decrypt-style-04-2-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T12:31:31"
+   "published_at": "2026-09-04T15:10:00"
   },
   {
-   "id": 2753,
+   "id": 2665,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Aliran dana ETF Solana turun 97%, dana CME kurang net short",
-   "x": "Aliran dana bersih ke ETF Solana anjlok 97% pada pekan yang berakhir 4 September. Sementara itu, posisi net short pada dana berjangka CME untuk Solana berkurang.",
+   "t": "Mengapa GENIUS Bisa Buat Dolar Digital Rentan Terhadap 'Bank Run' Jaringan Blockchain",
+   "x": "Sebuah makalah staf The Fed menunjukkan bagaimana kemacetan dan efek jaringan yang lemah dapat mendorong pemegang dolar digital untuk melakukan penarikan atau migrasi jaringan. Hal ini berpotensi menimbulkan risiko likuiditas bagi aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-weekly-etf-inflows-fell-97-while-cme-funds-became-less-net-short",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-leaky-capital-funnel.jpg",
-   "a": "23 jam lalu",
+   "url": "https://cryptoslate.com/why-genius-could-leave-digital-dollars-vulnerable-to-sudden-blockchain-network-bank-runs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-fee-turnstile.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T12:30:38"
+   "published_at": "2026-09-04T15:30:13"
   },
   {
    "id": 2743,
@@ -718,32 +704,18 @@
    "published_at": "2026-09-04T16:16:32"
   },
   {
-   "id": 2662,
+   "id": 2753,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pendiri Bersama BitMEX Sumbang £4 Juta Lagi untuk Reform UK",
-   "x": "Pendiri bersama BitMEX, Ben Delo, kembali menyumbangkan dana signifikan kepada partai Reform UK. Donasi ini menjadi bagian terbesar dari pendanaan partai tersebut pada kuartal ini.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/nigel-farage-decrypt-style-04-2-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-04T15:10:00"
-  },
-  {
-   "id": 2680,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kalshi didenda $500.000 per hari karena Michigan hentikan kontrak acara olahraga",
-   "x": "Bursa derivatif Kalshi menghadapi denda harian sebesar $500.000 setelah regulator Michigan memerintahkan penghentian kontrak acara olahraga. Keputusan ini menambah ketidakpastian regulasi bagi platform yang menawarkan produk keuangan terkait peristiwa.",
+   "t": "Aliran dana ETF Solana turun 97%, dana CME kurang net short",
+   "x": "Aliran dana bersih ke ETF Solana anjlok 97% pada pekan yang berakhir 4 September. Sementara itu, posisi net short pada dana berjangka CME untuk Solana berkurang.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kalshi-faces-500000-daily-fines-as-michigan-forces-sports-event-contracts-offline",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-michigan-emergency-stop.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/solanas-weekly-etf-inflows-fell-97-while-cme-funds-became-less-net-short",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-leaky-capital-funnel.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T17:55:20"
+   "published_at": "2026-09-06T12:30:38"
   },
   {
    "id": 2742,
@@ -774,6 +746,48 @@
    "published_at": "2026-09-04T13:15:26"
   },
   {
+   "id": 2680,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kalshi didenda $500.000 per hari karena Michigan hentikan kontrak acara olahraga",
+   "x": "Bursa derivatif Kalshi menghadapi denda harian sebesar $500.000 setelah regulator Michigan memerintahkan penghentian kontrak acara olahraga. Keputusan ini menambah ketidakpastian regulasi bagi platform yang menawarkan produk keuangan terkait peristiwa.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/kalshi-faces-500000-daily-fines-as-michigan-forces-sports-event-contracts-offline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-michigan-emergency-stop.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T17:55:20"
+  },
+  {
+   "id": 2793,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Analis TradingCamp Ungkap Zona Jemput Harga PEPE Termurah",
+   "x": "Analis dari TradingCamp mengidentifikasi zona harga terendah untuk token PEPE yang dianggap menarik. Identifikasi ini dilakukan menjelang potensi kenaikan harga selanjutnya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ini-zona-jemput-harga-pepe-termurah-menurut-analis-tradingcamp",
+   "img": null,
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T04:30:22"
+  },
+  {
+   "id": 2757,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "LeBron James Polymarket Deal: Akankah Prediction Market Menjadi Mainstream?",
+   "x": "LeBron James mendukung Polymarket setelah kesepakatan DraftKings-nya berakhir, memberikan pasar prediksi nama terbesar di dunia olahraga sejauh ini saat pertarungan hukum semakin intens.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/lebron-james-kemitraan-polymarket-deal",
+   "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-06T13:14:41"
+  },
+  {
    "id": 2657,
    "k": "pasar",
    "cat": "Pasar",
@@ -788,32 +802,32 @@
    "published_at": "2026-09-04T14:25:14"
   },
   {
-   "id": 2793,
+   "id": 2789,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Analis TradingCamp Ungkap Zona Jemput Harga PEPE Termurah",
-   "x": "Analis dari TradingCamp mengidentifikasi zona harga terendah untuk token PEPE yang dianggap menarik. Identifikasi ini dilakukan menjelang potensi kenaikan harga selanjutnya.",
+   "t": "Harga XRP Mulai Panas, Reli Besar Berpotensi ke US$10",
+   "x": "Harga XRP menunjukkan tanda-tanda pemulihan setelah tertekan. Kenaikan terbaru membuka peluang reli signifikan, mengarah pada target harga US$10.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ini-zona-jemput-harga-pepe-termurah-menurut-analis-tradingcamp",
+   "url": "https://blockchainmedia.id/harga-xrp-mulai-panaskan-mesin-reli-besar-berpotensi-membawanya-ke-us10",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T04:30:22"
+   "published_at": "2026-09-07T03:30:19"
   },
   {
-   "id": 2757,
+   "id": 2800,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "LeBron James Polymarket Deal: Akankah Prediction Market Menjadi Mainstream?",
-   "x": "LeBron James mendukung Polymarket setelah kesepakatan DraftKings-nya berakhir, memberikan pasar prediksi nama terbesar di dunia olahraga sejauh ini saat pertarungan hukum semakin intens.",
+   "t": "3 Token Unlocks yang Perlu Dipantau di Pekan Kedua September 2026",
+   "x": "Pada minggu kedua September 2026, pasar aset kripto akan kedatangan token baru senilai sekitar US$325,6 juta. Sejumlah proyek besar, seperti Aptos (APT), Linea (LINEA), dan Cheelee (CHEEL), akan merilis pasokan token…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/lebron-james-kemitraan-polymarket-deal",
-   "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "22 jam lalu",
+   "url": "https://id.beincrypto.com/token-unlocks-minggu-kedua-september-2026",
+   "img": "https://assets.beincrypto.com/img/rDVaGmXhuWTHATwZTMokhWYaQQk=/smart/b568ca62086c4e51853ddf5ba53764bc",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-06T13:14:41"
+   "published_at": "2026-09-07T06:46:26"
   },
   {
    "id": 2820,
@@ -824,24 +838,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-privacy-crossroads.jpg",
-   "a": "13 menit lalu",
+   "a": "47 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T11:55:13"
-  },
-  {
-   "id": 2789,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga XRP Mulai Panas, Reli Besar Berpotensi ke US$10",
-   "x": "Harga XRP menunjukkan tanda-tanda pemulihan setelah tertekan. Kenaikan terbaru membuka peluang reli signifikan, mengarah pada target harga US$10.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-xrp-mulai-panaskan-mesin-reli-besar-berpotensi-membawanya-ke-us10",
-   "img": null,
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T03:30:19"
   }
  ]
 }
