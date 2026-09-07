@@ -1,5 +1,5 @@
 {
- "total": 43,
+ "total": 45,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kontroversi-bitcoin-backing-peter-schiff",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T20:43:43"
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T13:01:48"
@@ -200,18 +200,18 @@
    "published_at": "2026-09-04T16:07:49"
   },
   {
-   "id": 2647,
+   "id": 2812,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "IMF sebut donasi danai pertumbuhan Bitcoin El Salvador",
-   "x": "Dana Moneter Internasional (IMF) kini menyatakan bahwa pertumbuhan penggunaan Bitcoin di El Salvador didanai oleh donasi, bukan dari pergerakan dana pemerintah. Pernyataan ini berbeda dari klaim sebelumnya yang meragukan pergerakan aset negara tersebut.",
+   "t": "Peretas 'diduga peretas topi putih' tarik $320 juta Bitcoin dari Liquid",
+   "x": "Peretas yang mengaku sebagai 'topi putih' berhasil menarik dana Bitcoin senilai $320 juta dari bursa Liquid. Blockstream dan peretas berkomunikasi melalui pesan terenkripsi dalam transaksi Bitcoin.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-El-Salvador-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
+   "a": "10 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T12:26:01"
+   "published_at": "2026-09-07T09:55:42"
   },
   {
    "id": 2659,
@@ -284,6 +284,20 @@
    "published_at": "2026-09-07T08:30:37"
   },
   {
+   "id": 2647,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "IMF sebut donasi danai pertumbuhan Bitcoin El Salvador",
+   "x": "Dana Moneter Internasional (IMF) kini menyatakan bahwa pertumbuhan penggunaan Bitcoin di El Salvador didanai oleh donasi, bukan dari pergerakan dana pemerintah. Pernyataan ini berbeda dari klaim sebelumnya yang meragukan pergerakan aset negara tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-El-Salvador-decrypt-style-01-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-04T12:26:01"
+  },
+  {
    "id": 2807,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -292,7 +306,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-whitehat-hacker-is-holding-320-million-in-drained-bitcoin-until-developers-prove-they-patched-a-fatal-network-flaw",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/liquid-bridge-pause.jpg",
-   "a": "45 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T08:55:13"
@@ -320,7 +334,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1WEJ8K82HDZFDZDMKSQ89V0/cover-collage.png",
-   "a": "9 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T00:05:02"
@@ -376,7 +390,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
-   "a": "58 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T08:42:02"
@@ -404,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/september-jadi-awal-altseason-2026-indikator-ini-jadi-buktinya",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T06:00:26"
@@ -432,10 +446,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-just-crossed-the-line-that-ended-4-out-of-5-bear-markets-but-one-deadly-historical-trap-could-still-trigger-a-crash-to-62000",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ridge-reclaim.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T09:50:34"
+  },
+  {
+   "id": 2810,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penyerang Coldcard pindahkan 45% Bitcoin curian",
+   "x": "Pelaku serangan terhadap perangkat keras Coldcard memindahkan 45% dari total Bitcoin yang dicuri. Sebagian besar dana curian masih berada di alamat dompet asli, sementara sebagian kecilnya diduga dicuci.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XGRZ6TAY9ZXV32M12BDT6R/hi-the-hidden-force-behind-bitcoin-and-ethereum-price-swings.jpg",
+   "a": "30 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T09:36:19"
   },
   {
    "id": 2748,
@@ -460,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dolar-as-kehilangan-97-persen-nilai-kasus-bitcoin",
    "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T15:57:58"
@@ -572,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cz-bitcoin-lampaui-target-harga-emas",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T02:02:00"

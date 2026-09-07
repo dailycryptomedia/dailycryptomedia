@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,52 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/crypto-trader-3000-menjadi-2-1-juta-meme-amc",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-04T10:03:54"
+  },
+  {
+   "id": 2813,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Jembatan kripto dukungan Coinbase ditutup karena model bisnis tak lagi berkelanjutan",
+   "x": "Proyek jembatan lintas rantai (cross-chain) menghentikan operasionalnya karena biaya transaksi yang tipis tidak mampu menopang infrastruktur. Rencana pembakaran token senilai 303,3 juta ROUTE juga masih tertunda.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/router-protocol-broken-link.jpg",
+   "a": "6 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T10:00:29"
+  },
+  {
+   "id": 2758,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Stablecoin butuh bank untuk berkembang",
+   "x": "Perkembangan stablecoin terhambat oleh kurangnya infrastruktur teregulasi yang dipercaya institusi. Keterlibatan bank menjadi kunci agar stablecoin dapat diadopsi secara luas.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-06T15:01:03"
+  },
+  {
+   "id": 2803,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Harmony Akan Tutup Operasi. Holder ONE Akan Dapatkan Token Ethereum Secara Otomatis",
+   "x": "Harmony akan menutup blockchain yang mereka luncurkan pada 2019 dan akan memigrasikan native token mereka, Harmony (ONE), ke Ethereum (ETH) sebagai aset ERC-20 yang baru. Tim Harmony menyebut adanya ancaman dari aktor…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harmony-sunset-network-one-ethereum-migrasi",
+   "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-07T07:40:31"
   },
   {
    "id": 2658,
@@ -30,34 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-04T14:58:34"
-  },
-  {
-   "id": 2758,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Stablecoin butuh bank untuk berkembang",
-   "x": "Perkembangan stablecoin terhambat oleh kurangnya infrastruktur teregulasi yang dipercaya institusi. Keterlibatan bank menjadi kunci agar stablecoin dapat diadopsi secara luas.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T15:01:03"
-  },
-  {
-   "id": 2803,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Harmony Akan Tutup Operasi. Holder ONE Akan Dapatkan Token Ethereum Secara Otomatis",
-   "x": "Harmony akan menutup blockchain yang mereka luncurkan pada 2019 dan akan memigrasikan native token mereka, Harmony (ONE), ke Ethereum (ETH) sebagai aset ERC-20 yang baru. Tim Harmony menyebut adanya ancaman dari aktor…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harmony-sunset-network-one-ethereum-migrasi",
-   "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-07T07:40:31"
   },
   {
    "id": 2699,
