@@ -1,5 +1,5 @@
 {
- "total": 46,
+ "total": 44,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
    "img": "https://www.tbstat.com/wp/uploads/2023/08/20230731_Liquidity_News-1-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T21:14:36"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XVQV0DBV1Z4W8PX2TG1AZJ/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2-1.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T12:10:22"
@@ -130,18 +130,18 @@
    "published_at": "2026-09-07T08:55:13"
   },
   {
-   "id": 2661,
+   "id": 2812,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Anjlok Akibat Laporan Ketenagakerjaan AS Perkuat Peluang Kenaikan Suku Bunga The Fed",
-   "x": "Bitcoin mengalami penurunan setelah data ketenagakerjaan AS yang lebih kuat dari perkiraan meningkatkan kemungkinan The Fed menaikkan suku bunga acuan. Investor kini mencermati sinyal kebijakan moneter AS.",
+   "t": "Peretas 'diduga peretas topi putih' tarik $320 juta Bitcoin dari Liquid",
+   "x": "Peretas yang mengaku sebagai 'topi putih' berhasil menarik dana Bitcoin senilai $320 juta dari bursa Liquid. Blockstream dan peretas berkomunikasi melalui pesan terenkripsi dalam transaksi Bitcoin.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-04T15:13:28"
+   "published_at": "2026-09-07T09:55:42"
   },
   {
    "id": 2798,
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
    "img": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_4-1200x675.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T07:30:32"
@@ -214,18 +214,18 @@
    "published_at": "2026-09-04T18:50:33"
   },
   {
-   "id": 2812,
+   "id": 2819,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Peretas 'diduga peretas topi putih' tarik $320 juta Bitcoin dari Liquid",
-   "x": "Peretas yang mengaku sebagai 'topi putih' berhasil menarik dana Bitcoin senilai $320 juta dari bursa Liquid. Blockstream dan peretas berkomunikasi melalui pesan terenkripsi dalam transaksi Bitcoin.",
+   "t": "Peretas Coldcard Pindahkan Bitcoin Senilai $7,7 Juta",
+   "x": "Peretas yang mencuri Bitcoin dari Coldcard memindahkan hampir separuh hasil curiannya senilai $7,7 juta. Sebanyak 293 brankas terpisah dibuat untuk menampung aset digital tersebut sebelum dikuras.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "5 jam lalu",
+   "url": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T09:55:42"
+   "published_at": "2026-09-07T11:09:27"
   },
   {
    "id": 2815,
@@ -236,7 +236,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673",
    "img": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T10:20:16"
@@ -278,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/reli-gula-bitcoin-emas-agustus",
    "img": "https://assets.beincrypto.com/img/N-ns-mafFrkl2smiWXCTnHkP-ao=/smart/e3692924b5e9447f9a35d14e832d1de8",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T08:30:37"
@@ -298,20 +298,6 @@
    "published_at": "2026-09-04T23:15:02"
   },
   {
-   "id": 2819,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas Coldcard Pindahkan Bitcoin Senilai $7,7 Juta",
-   "x": "Peretas yang mencuri Bitcoin dari Coldcard memindahkan hampir separuh hasil curiannya senilai $7,7 juta. Sebanyak 293 brankas terpisah dibuat untuk menampung aset digital tersebut sebelum dikuras.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T11:09:27"
-  },
-  {
    "id": 2781,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -320,7 +306,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-1200x675.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T02:15:55"
@@ -488,7 +474,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sinyal-bottom-bitcoin-berkumpul-79355",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T13:21:08"
@@ -502,7 +488,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XGRZ6TAY9ZXV32M12BDT6R/hi-the-hidden-force-behind-bitcoin-and-ethereum-price-swings.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T09:36:19"
@@ -516,7 +502,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/penasaran-harga-bitcoin-mau-naik-atau-turun-coba-fitur-ini-di-cryptoiz",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T12:26:06"
@@ -586,7 +572,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-perdagangan-debasement-utang-as",
    "img": "https://assets.beincrypto.com/img/E-55T_rQUC571wW88KcrIxYKFlY=/smart/f449c59e8af94389b8d1d4a67ef7db58",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-05T15:19:47"
@@ -628,24 +614,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/privacy-coins-hanya-sektor-di-atas-high",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "36 menit lalu",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T14:29:49"
-  },
-  {
-   "id": 2664,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Apakah Craig Wright Satoshi? Film US$70 Juta dan Hakim Pengadilan Tinggi Tidak Sepakat",
-   "x": "Film Bitcoin menggambarkan Craig Wright sebagai Satoshi. Mantan CEO Mt. Gox mengarahkan para penggemar kembali ke catatan pengadilan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-film-craig-wright-satoshi",
-   "img": "https://assets.beincrypto.com/img/BfUrJoxXoJxsBeJDgAFxjru1k6U=/smart/a54e5db85b5b4ad1a65af88eca8bda96",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-04T14:50:02"
   }
  ]
 }

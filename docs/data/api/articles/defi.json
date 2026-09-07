@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cozy-finance-exploit-optimism-peretasan-kedua",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T09:11:09"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-lending-proposal-would-grant-emergency-powers-without-requiring-public-reports-on-their-use",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-emergency-powers.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T15:33:08"
@@ -86,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-05T17:00:09"
+  },
+  {
+   "id": 2836,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Model pinjaman XRP bebani deposan 90% rugi pinjaman macet meski cadangan dua kali lipat",
+   "x": "Model pinjaman XRP baru menunjukkan deposan menanggung 90% kerugian dari pinjaman yang gagal, bahkan ketika cadangan aset digitalnya dua kali lipat dari nilai pinjaman tersebut. Hal ini menimbulkan pertanyaan mengenai keamanan dana nasabah dalam skema pinjaman aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-depositor-eye-risk.jpg",
+   "a": "8 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T15:30:40"
   },
   {
    "id": 2774,
