@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cozy-finance-exploit-optimism-peretasan-kedua",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "13 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T09:11:09"
@@ -96,10 +96,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-depositor-eye-risk.jpg",
-   "a": "7 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T15:30:40"
+  },
+  {
+   "id": 2868,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Blockchain berusia 7 tahun tinggalkan jaringannya demi Ethereum",
+   "x": "Sebuah blockchain berusia tujuh tahun akan migrasi permanen ke jaringan Ethereum setelah mengalami eksploitasi dan rollback. Langkah ini mendorong pengguna untuk keluar dari smart contract sebelum 10 September.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-seven-year-old-blockchain-is-permanently-abandoning-its-own-network-to-seek-refuge-on-ethereum",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/harmony-token-ethereum-exit.jpg",
+   "a": "24 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T23:10:48"
   },
   {
    "id": 2774,
