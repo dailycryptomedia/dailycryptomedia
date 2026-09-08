@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T10:34:47"
@@ -102,18 +102,18 @@
    "published_at": "2026-09-08T03:53:54"
   },
   {
-   "id": 2746,
+   "id": 2888,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Orionx yang didukung Tether tutup setelah audit temukan selisih kustodi $7 juta",
-   "x": "Bursa kripto Orionx akan ditutup permanen menyusul temuan audit yang menunjukkan lebih dari $7 juta aset nasabah hilang dari kustodi mereka. Insiden ini menyoroti pentingnya keamanan aset dan transparansi operasional di platform aset digital.",
+   "t": "Uji coba sandbox stablecoin Swiss dimulai, tambah dua mitra baru",
+   "x": "Operator pasar keuangan SIX dan aplikasi pembayaran TWINT bergabung dalam sandbox untuk mengembangkan stablecoin berbasis franc Swiss. Inisiatif ini penting untuk melihat bagaimana negara Eropa mengembangkan aset digital yang stabil.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZX2FFP141K4E1MB6ZD752S/switzerlandcryptovalley.jpg",
+   "a": "21 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T09:07:08"
+   "published_at": "2026-09-08T07:18:32"
   },
   {
    "id": 2769,
@@ -138,10 +138,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/volume-aset-tokenisasi-turun-agustus",
    "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T05:20:46"
+  },
+  {
+   "id": 2746,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Orionx yang didukung Tether tutup setelah audit temukan selisih kustodi $7 juta",
+   "x": "Bursa kripto Orionx akan ditutup permanen menyusul temuan audit yang menunjukkan lebih dari $7 juta aset nasabah hilang dari kustodi mereka. Insiden ini menyoroti pentingnya keamanan aset dan transparansi operasional di platform aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-06T09:07:08"
   },
   {
    "id": 2732,
@@ -208,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tether-backed-crypto-exchange-freezes-withdrawals-after-7-million-leaves-custody",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/orionx-withdrawals-frozen.jpg",
-   "a": "6 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T00:20:52"

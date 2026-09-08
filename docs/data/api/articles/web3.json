@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/arthur-hayes-uni-beli-dua-hari",
    "img": "https://assets.beincrypto.com/img/IqIpj4gYBt8RbmFBJpSph95J8Lw=/smart/2af82e9462314a59bf8ba6bc75e25212",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T10:18:24"
@@ -68,10 +68,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-may-have-a-simpler-way-to-ease-the-computing-burden-of-its-growing-rollup-ecosystem",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-recovery-funnel-system.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T13:30:00"
+  },
+  {
+   "id": 2890,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Akankah IPO Berpindah ke Chain? CZ Bilang Ya, dan Infrastruktur Bilang Sudah",
+   "x": "CZ mengatakan IPO akan berpindah ke chain. Ini yang berubah bagi investor, dan aturan mana yang tetap sama persis.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cz-ipo-on-chain-investor",
+   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
+   "a": "40 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-08T06:58:54"
   }
  ]
 }
