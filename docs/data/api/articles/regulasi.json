@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-09-07T20:31:03"
   },
   {
-   "id": 2718,
+   "id": 2832,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Perdagangan pajak \"beli, pinjam, mati\" diam-diam menambah risiko kredit tersembunyi di pool DeFi",
-   "x": "Strategi perdagangan pajak di DeFi memungkinkan pengguna mencairkan aset tanpa menjualnya, namun berpotensi menimbulkan risiko kredit tersembunyi. Ini bisa memengaruhi stabilitas protokol DeFi yang semakin populer di kalangan investor aset digital.",
+   "t": "Sistem AI Solana 1 juta pembayaran per detik berpotensi membuat penjual tak dibayar",
+   "x": "Sistem AI Solana yang diklaim mampu memproses jutaan transaksi per detik ternyata berpotensi gagal membayar penjual meski barang sudah dikirim. Kegagalan ini menimbulkan pertanyaan tentang siapa yang bertanggung jawab atas pemulihan dana pelanggan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-the-buy-borrow-die-tax-trade-is-quietly-loading-defi-pools-with-hidden-credit-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-liquidation-seesaw.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/solanas-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-ai-refund-flow.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-05T12:00:05"
+   "published_at": "2026-09-07T14:20:31"
   },
   {
    "id": 2795,
@@ -88,20 +88,6 @@
    "published_at": "2026-09-07T18:16:04"
   },
   {
-   "id": 2832,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Sistem AI Solana 1 juta pembayaran per detik berpotensi membuat penjual tak dibayar",
-   "x": "Sistem AI Solana yang diklaim mampu memproses jutaan transaksi per detik ternyata berpotensi gagal membayar penjual meski barang sudah dikirim. Kegagalan ini menimbulkan pertanyaan tentang siapa yang bertanggung jawab atas pemulihan dana pelanggan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-ai-refund-flow.jpg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T14:20:31"
-  },
-  {
    "id": 2904,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -110,7 +96,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T09:54:59"
