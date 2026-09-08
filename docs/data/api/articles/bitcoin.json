@@ -1,5 +1,5 @@
 {
- "total": 50,
+ "total": 51,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/rp48-triliun-btc-balik-ke-liquid-usai-diretas-sosok-terduga-satoshi-kembali-disorot",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T08:00:22"
@@ -40,10 +40,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/strong-jobs-just-triggered-a-hawkish-ubs-reversal-that-could-pressure-bitcoin-through-december",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-squeeze.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T22:05:44"
+  },
+  {
+   "id": 2955,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Bertahan, Wall Street Stagnan Saat Guncangan Minyak Hidupkan Taruhan Kenaikan Suku Bunga The Fed",
+   "x": "Bitcoin bertahan di zona support krusial sementara pasar saham AS tertahan. Keduanya menunggu data inflasi yang dirilis Jumat ini sebelum keputusan suku bunga The Fed.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png",
+   "a": "6 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T18:59:35"
   },
   {
    "id": 2927,
@@ -74,20 +88,6 @@
    "published_at": "2026-09-06T21:14:36"
   },
   {
-   "id": 2840,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Stagnan, Chainlink Meroket, Ini Alasannya",
-   "x": "Chainlink mencapai rekor tertinggi delapan bulan setelah penyedia layanan SWIFT terbesar ketiga, Bottomline, menggunakannya untuk menghubungkan lebih dari 600 bank ke penyelesaian blockchain. Kemitraan ini menunjukkan adopsi teknologi blockchain dalam sistem keuangan tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T15:42:34"
-  },
-  {
    "id": 2854,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jepang-yen-shock-bitcoin-carry-trade",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T19:04:54"
@@ -130,6 +130,20 @@
    "published_at": "2026-09-07T13:05:17"
   },
   {
+   "id": 2840,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Stagnan, Chainlink Meroket, Ini Alasannya",
+   "x": "Chainlink mencapai rekor tertinggi delapan bulan setelah penyedia layanan SWIFT terbesar ketiga, Bottomline, menggunakannya untuk menghubungkan lebih dari 600 bank ke penyelesaian blockchain. Kemitraan ini menunjukkan adopsi teknologi blockchain dalam sistem keuangan tradisional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T15:42:34"
+  },
+  {
    "id": 2924,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -138,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-how-it-all-started-1.jpg",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T12:49:00"
@@ -156,20 +170,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T12:08:55"
-  },
-  {
-   "id": 2932,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pembelian Bitcoin oleh perusahaan strategi hanya bertahan seminggu",
-   "x": "Perusahaan kas Bitcoin menghentikan pembelian asetnya sendiri setelah seminggu, mengalokasikan dana $176,3 juta. Otorisasi program pembelian kembali sahamnya juga dilipatgandakan menjadi $2 miliar.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-08T13:57:16"
   },
   {
    "id": 2805,
@@ -208,10 +208,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-threshold-fortress.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T19:00:42"
+  },
+  {
+   "id": 2932,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pembelian Bitcoin oleh perusahaan strategi hanya bertahan seminggu",
+   "x": "Perusahaan kas Bitcoin menghentikan pembelian asetnya sendiri setelah seminggu, mengalokasikan dana $176,3 juta. Otorisasi program pembelian kembali sahamnya juga dilipatgandakan menjadi $2 miliar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T13:57:16"
   },
   {
    "id": 2844,
@@ -240,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T07:30:32"
-  },
-  {
-   "id": 2812,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas 'diduga peretas topi putih' tarik $320 juta Bitcoin dari Liquid",
-   "x": "Peretas yang mengaku sebagai 'topi putih' berhasil menarik dana Bitcoin senilai $320 juta dari bursa Liquid. Blockstream dan peretas berkomunikasi melalui pesan terenkripsi dalam transaksi Bitcoin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T09:55:42"
   },
   {
    "id": 2762,
@@ -298,6 +298,20 @@
    "published_at": "2026-09-08T13:30:09"
   },
   {
+   "id": 2812,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas 'diduga peretas topi putih' tarik $320 juta Bitcoin dari Liquid",
+   "x": "Peretas yang mengaku sebagai 'topi putih' berhasil menarik dana Bitcoin senilai $320 juta dari bursa Liquid. Blockstream dan peretas berkomunikasi melalui pesan terenkripsi dalam transaksi Bitcoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T09:55:42"
+  },
+  {
    "id": 2941,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -326,20 +340,6 @@
    "published_at": "2026-09-07T10:20:16"
   },
   {
-   "id": 2950,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strive beli Bitcoin senilai $109 juta, saham preferen dekati $1 miliar",
-   "x": "Manajer aset yang didirikan Vivek Ramaswamy menambah kepemilikan 1.375 BTC dalam sepekan terakhir. Pembelian ini merupakan pertumbuhan mingguan kelima berturut-turut bagi perusahaan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png",
-   "a": "55 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-08T17:46:05"
-  },
-  {
    "id": 2891,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -348,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/afd-bitcoin-agenda-kemenangan-pemilu-jerman",
    "img": "https://assets.beincrypto.com/img/Za78ATXu0uww4sgyIdtJ0SA5c5s=/smart/99623ec0786f4c11b4e9551705bb09dd",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T06:57:29"
@@ -382,6 +382,20 @@
    "published_at": "2026-09-07T08:55:13"
   },
   {
+   "id": 2950,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Strive beli Bitcoin senilai $109 juta, saham preferen dekati $1 miliar",
+   "x": "Manajer aset yang didirikan Vivek Ramaswamy menambah kepemilikan 1.375 BTC dalam sepekan terakhir. Pembelian ini merupakan pertumbuhan mingguan kelima berturut-turut bagi perusahaan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-03-gID_7.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T17:46:05"
+  },
+  {
    "id": 2925,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -408,20 +422,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T02:15:55"
-  },
-  {
-   "id": 2855,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas Liquid Kembalikan $270 Juta Bitcoin Setelah Mencuri $320 Juta",
-   "x": "Peretas mengembalikan sebagian besar aset digital yang dicuri dari jembatan Liquid, menyisakan sekitar 600 BTC yang belum kembali. Insiden ini menyoroti risiko keamanan pada protokol DeFi dan jembatan lintas rantai.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T19:13:56"
   },
   {
    "id": 2831,
@@ -452,6 +452,20 @@
    "published_at": "2026-09-08T11:10:30"
   },
   {
+   "id": 2855,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas Liquid Kembalikan $270 Juta Bitcoin Setelah Mencuri $320 Juta",
+   "x": "Peretas mengembalikan sebagian besar aset digital yang dicuri dari jembatan Liquid, menyisakan sekitar 600 BTC yang belum kembali. Insiden ini menyoroti risiko keamanan pada protokol DeFi dan jembatan lintas rantai.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T19:13:56"
+  },
+  {
    "id": 2822,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -480,20 +494,6 @@
    "published_at": "2026-09-08T12:20:03"
   },
   {
-   "id": 2849,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Malone Lam hadapi sidang pembelaan kasus pencurian Bitcoin $245 juta",
-   "x": "Malone Lam akan menjalani sidang pembelaan terkait kasus pencurian Bitcoin senilai $245 juta. Kasus ini menjadi pengingat akan risiko keamanan aset digital dan pentingnya perlindungan investor.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T17:41:55"
-  },
-  {
    "id": 2818,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -506,6 +506,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T10:51:28"
+  },
+  {
+   "id": 2849,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Malone Lam hadapi sidang pembelaan kasus pencurian Bitcoin $245 juta",
+   "x": "Malone Lam akan menjalani sidang pembelaan terkait kasus pencurian Bitcoin senilai $245 juta. Kasus ini menjadi pengingat akan risiko keamanan aset digital dan pentingnya perlindungan investor.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T17:41:55"
   },
   {
    "id": 2755,
@@ -536,20 +550,6 @@
    "published_at": "2026-09-07T08:42:02"
   },
   {
-   "id": 2819,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas Coldcard Pindahkan Bitcoin Senilai $7,7 Juta",
-   "x": "Peretas yang mencuri Bitcoin dari Coldcard memindahkan hampir separuh hasil curiannya senilai $7,7 juta. Sebanyak 293 brankas terpisah dibuat untuk menampung aset digital tersebut sebelum dikuras.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T11:09:27"
-  },
-  {
    "id": 2763,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -562,6 +562,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-06T16:40:04"
+  },
+  {
+   "id": 2819,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas Coldcard Pindahkan Bitcoin Senilai $7,7 Juta",
+   "x": "Peretas yang mencuri Bitcoin dari Coldcard memindahkan hampir separuh hasil curiannya senilai $7,7 juta. Sebanyak 293 brankas terpisah dibuat untuk menampung aset digital tersebut sebelum dikuras.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T11:09:27"
   },
   {
    "id": 2777,
@@ -642,7 +656,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZHYDRMBN9CQ2AV6CCP6WB8/hacky-hack.png",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T03:46:17"
