@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -128,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T23:10:48"
+  },
+  {
+   "id": 2910,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Batas waktu kuantum Ethereum 2029 mulai bentuk ulang pembangunan",
+   "x": "Ethereum sedang mempersiapkan diri menghadapi ancaman komputasi kuantum pada 2029. Prioritas pengembangan kini bergeser ke efisiensi node dan slot waktu yang lebih pendek untuk ketahanan jangka panjang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-quantum-countdown.jpg",
+   "a": "26 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T10:40:21"
   },
   {
    "id": 2774,
