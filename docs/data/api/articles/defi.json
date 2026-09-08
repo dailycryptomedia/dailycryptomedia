@@ -1,21 +1,21 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 2811,
+   "id": 2914,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Cozy Finance Kembali Kena Exploit, DeFi Insurer Rugi US$170.000",
-   "x": "Eksploitasi Cozy Finance menguras $170.000 di Optimism. Perusahaan asuransi decentralized finance itu sebelumnya sudah kehilangan $427.000 akibat serangan pada 2025.",
+   "t": "Ethereum Foundation Tetapkan Batas Waktu Desember 2029 untuk Kalahkan Jam Quantum",
+   "x": "Ethereum Foundation berkomitmen membuat Ethereum (ETH) kebal terhadap serangan komputer kuantum sebelum Desember 2029, dan mereka memperlakukan tanggal tersebut sebagai batas waktu tetap, bukan sekadar target riset…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cozy-finance-exploit-optimism-peretasan-kedua",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/ethereum-foundation-quantum-resistance-batas-waktu-2029",
+   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "51 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-07T09:11:09"
+   "published_at": "2026-09-08T10:47:25"
   },
   {
    "id": 2760,
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
-   "a": "2 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T08:10:44"
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T18:03:26"
+  },
+  {
+   "id": 2811,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Cozy Finance Kembali Kena Exploit, DeFi Insurer Rugi US$170.000",
+   "x": "Eksploitasi Cozy Finance menguras $170.000 di Optimism. Perusahaan asuransi decentralized finance itu sebelumnya sudah kehilangan $427.000 akibat serangan pada 2025.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cozy-finance-exploit-optimism-peretasan-kedua",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-07T09:11:09"
   },
   {
    "id": 2731,
@@ -110,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-depositor-eye-risk.jpg",
-   "a": "19 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T15:30:40"
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-seven-year-old-blockchain-is-permanently-abandoning-its-own-network-to-seek-refuge-on-ethereum",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/harmony-token-ethereum-exit.jpg",
-   "a": "11 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T23:10:48"
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-quantum-countdown.jpg",
-   "a": "26 menit lalu",
+   "a": "58 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T10:40:21"
