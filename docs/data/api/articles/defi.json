@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
-   "a": "3 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T08:10:44"
@@ -116,6 +116,20 @@
    "published_at": "2026-09-07T05:00:49"
   },
   {
+   "id": 2923,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Perdebatan suplai Ethereum paksa pilih imbal hasil staking tinggi atau nilai ETH",
+   "x": "Sebuah protokol ingin perdebatan suplai Ethereum diperluas, sementara imbal hasil yang ada menjaga pendapatan validator dan dilusi bagi pemegang unstaked. Hal ini berdampak pada investor yang harus memilih antara potensi keuntungan staking atau nilai aset ETH mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/the-fight-over-ethereums-supply-is-forcing-a-choice-between-high-staking-yields-and-the-value-of-your-eth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-monetary-policy-gavel.jpg",
+   "a": "7 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T12:35:47"
+  },
+  {
    "id": 2836,
    "k": "defi",
    "cat": "DeFi",
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-depositor-eye-risk.jpg",
-   "a": "20 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T15:30:40"
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-seven-year-old-blockchain-is-permanently-abandoning-its-own-network-to-seek-refuge-on-ethereum",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/harmony-token-ethereum-exit.jpg",
-   "a": "12 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T23:10:48"
@@ -152,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-quantum-countdown.jpg",
-   "a": "1 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T10:40:21"
