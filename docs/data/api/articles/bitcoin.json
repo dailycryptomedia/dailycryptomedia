@@ -1,5 +1,5 @@
 {
- "total": 46,
+ "total": 48,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/rp48-triliun-btc-balik-ke-liquid-usai-diretas-sosok-terduga-satoshi-kembali-disorot",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T08:00:22"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/strong-jobs-just-triggered-a-hawkish-ubs-reversal-that-could-pressure-bitcoin-through-december",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-squeeze.jpg",
-   "a": "14 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T22:05:44"
@@ -60,6 +60,20 @@
    "published_at": "2026-09-05T17:01:04"
   },
   {
+   "id": 2924,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Strategy hentikan pembelian Bitcoin demi beli kembali saham preferen STRC senilai $176 juta",
+   "x": "Strategy menghentikan pembelian Bitcoin baru untuk membeli kembali saham preferen STRC senilai $176 juta. Program pembelian kembali sekuritas digitalnya juga digandakan menjadi $2 miliar, menunjukkan fokus perusahaan pada restrukturisasi neraca.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-how-it-all-started-1.jpg",
+   "a": "19 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T12:49:00"
+  },
+  {
    "id": 2773,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -74,20 +88,6 @@
    "published_at": "2026-09-06T21:14:36"
   },
   {
-   "id": 2844,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Capital B beli 376 Bitcoin senilai $29 juta, tingkatkan kepemilikan jadi 3.521 BTC",
-   "x": "Perusahaan Prancis Capital B kembali menambah aset Bitcoinnya dengan pembelian terbesar dalam setahun terakhir. Langkah ini menempatkannya di depan perusahaan publik lain dalam hal kepemilikan Bitcoin.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YATN0BBKTWZP5TX2YTRME4/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price.png",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T16:42:49"
-  },
-  {
    "id": 2854,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jepang-yen-shock-bitcoin-carry-trade",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T19:04:54"
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tokens-created-out-of-thin-air-may-explain-how-320-million-in-bitcoin-left-a-sidechain",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/liquid-network-bitcoin.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T13:05:17"
@@ -144,6 +144,20 @@
    "published_at": "2026-09-07T15:42:34"
   },
   {
+   "id": 2844,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Capital B beli 376 Bitcoin senilai $29 juta, tingkatkan kepemilikan jadi 3.521 BTC",
+   "x": "Perusahaan Prancis Capital B kembali menambah aset Bitcoinnya dengan pembelian terbesar dalam setahun terakhir. Langkah ini menempatkannya di depan perusahaan publik lain dalam hal kepemilikan Bitcoin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YATN0BBKTWZP5TX2YTRME4/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price.png",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T16:42:49"
+  },
+  {
    "id": 2917,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -152,24 +166,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-08-bitcoin-volatility-remains-subdued-as-supply-in-profit-nears-historical-bear-to-bull-transition-level-analysts-413754",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
-   "a": "34 menit lalu",
+   "a": "59 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T12:08:55"
-  },
-  {
-   "id": 2822,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Data inflasi AS dan yen pengaruhi Bitcoin minggu ini",
-   "x": "Data inflasi AS dan keputusan suku bunga The Fed minggu ini akan menentukan apakah Bitcoin dapat mempertahankan level support $80.000. Pergerakan ini penting bagi investor aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XVQV0DBV1Z4W8PX2TG1AZJ/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T12:10:22"
   },
   {
    "id": 2805,
@@ -208,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-threshold-fortress.jpg",
-   "a": "17 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T19:00:42"
@@ -228,6 +228,20 @@
    "published_at": "2026-09-07T09:55:42"
   },
   {
+   "id": 2925,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pembunuhan empat orang di Meksiko terkait dugaan perampokan Bitcoin",
+   "x": "Dua tersangka menghadapi sidang terkait empat pembunuhan yang diduga terkait dengan upaya perampokan dompet kripto berisi Bitcoin jutaan dolar. Kasus ini menyoroti risiko keamanan yang terkait dengan kepemilikan aset digital bernilai tinggi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20CE9T36VRN8990HWRW8AJS/hi-ledger-is-in-deep-trouble-that-may-only-just-be-starting.jpg",
+   "a": "27 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T12:41:14"
+  },
+  {
    "id": 2798,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -240,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T07:30:32"
-  },
-  {
-   "id": 2755,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin era Satoshi bangun setelah 16 tahun, 600 BTC bergerak",
-   "x": "Sebanyak 600 BTC dari era penambangan Bitcoin pertama bergerak setelah 16 tahun tidak aktif. Pergerakan dana ini menarik perhatian karena berasal dari masa awal penciptaan Bitcoin.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T13:01:48"
   },
   {
    "id": 2762,
@@ -312,6 +312,20 @@
    "published_at": "2026-09-07T19:13:56"
   },
   {
+   "id": 2822,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Data inflasi AS dan yen pengaruhi Bitcoin minggu ini",
+   "x": "Data inflasi AS dan keputusan suku bunga The Fed minggu ini akan menentukan apakah Bitcoin dapat mempertahankan level support $80.000. Pergerakan ini penting bagi investor aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XVQV0DBV1Z4W8PX2TG1AZJ/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T12:10:22"
+  },
+  {
    "id": 2815,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -326,20 +340,6 @@
    "published_at": "2026-09-07T10:20:16"
   },
   {
-   "id": 2777,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas ambil 4.000 BTC dari Liquid, ETF catat aliran dana masuk terbaik 2026",
-   "x": "Peretas yang diduga 'white hat' berhasil mengambil 4.000 Bitcoin dari sidechain Liquid dalam insiden pelanggaran keamanan besar. Sementara itu, ETF Bitcoin mencatat tiga minggu terbaik dalam hal aliran dana masuk di tahun 2026.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1WEJ8K82HDZFDZDMKSQ89V0/cover-collage.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T00:05:02"
-  },
-  {
    "id": 2891,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -348,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/afd-bitcoin-agenda-kemenangan-pemilu-jerman",
    "img": "https://assets.beincrypto.com/img/Za78ATXu0uww4sgyIdtJ0SA5c5s=/smart/99623ec0786f4c11b4e9551705bb09dd",
-   "a": "5 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T06:57:29"
@@ -396,6 +396,20 @@
    "published_at": "2026-09-07T17:41:55"
   },
   {
+   "id": 2755,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin era Satoshi bangun setelah 16 tahun, 600 BTC bergerak",
+   "x": "Sebanyak 600 BTC dari era penambangan Bitcoin pertama bergerak setelah 16 tahun tidak aktif. Pergerakan dana ini menarik perhatian karena berasal dari masa awal penciptaan Bitcoin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-06T13:01:48"
+  },
+  {
    "id": 2781,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -408,20 +422,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T02:15:55"
-  },
-  {
-   "id": 2839,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Tertekan, Target $80 Ribu Tertahan",
-   "x": "Harga Bitcoin turun 2% dalam kondisi likuiditas rendah karena libur Hari Buruh di AS. Target harga $80 ribu kembali lepas dari jangkauan investor.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T15:57:47"
   },
   {
    "id": 2831,
@@ -452,6 +452,20 @@
    "published_at": "2026-09-07T11:09:27"
   },
   {
+   "id": 2777,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas ambil 4.000 BTC dari Liquid, ETF catat aliran dana masuk terbaik 2026",
+   "x": "Peretas yang diduga 'white hat' berhasil mengambil 4.000 Bitcoin dari sidechain Liquid dalam insiden pelanggaran keamanan besar. Sementara itu, ETF Bitcoin mencatat tiga minggu terbaik dalam hal aliran dana masuk di tahun 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1WEJ8K82HDZFDZDMKSQ89V0/cover-collage.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T00:05:02"
+  },
+  {
    "id": 2922,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -460,24 +474,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-08-strategy-bitcoin-strc-repurchase-program-413678",
    "img": "https://www.tbstat.com/wp/uploads/2025/03/20250304_Strategy_News-1200x675.jpg",
-   "a": "23 menit lalu",
+   "a": "48 menit lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T12:20:03"
-  },
-  {
-   "id": 2877,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas kembalikan 85% Bitcoin yang dicuri dari Liquid",
-   "x": "Pelaku peretasan telah mengembalikan sebagian besar Bitcoin yang diambil dari dompet federasi Liquid menyusul insiden keamanan. Pengembalian dana ini terjadi saat jaringan Liquid bersiap untuk memulai kembali operasinya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZHYDRMBN9CQ2AV6CCP6WB8/hacky-hack.png",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-08T03:46:17"
   },
   {
    "id": 2818,
@@ -494,6 +494,20 @@
    "published_at": "2026-09-07T10:51:28"
   },
   {
+   "id": 2839,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Tertekan, Target $80 Ribu Tertahan",
+   "x": "Harga Bitcoin turun 2% dalam kondisi likuiditas rendah karena libur Hari Buruh di AS. Target harga $80 ribu kembali lepas dari jangkauan investor.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T15:57:47"
+  },
+  {
    "id": 2806,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -506,20 +520,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T08:42:02"
-  },
-  {
-   "id": 2903,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Investor kakap Bitcoin raih untung $9 miliar, picu risiko jual",
-   "x": "Keuntungan belum terealisasi investor kakap Bitcoin mencapai rekor tertinggi sejak 2016. Hal ini memicu kekhawatiran akan adanya aksi jual besar-besaran.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2062K6V4M4F1DR5TM0F23TH/hi-daos-dexs-and-whales-how-web3-organizations-became-the-new-crypto-beasts1.jpg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-08T09:40:26"
   },
   {
    "id": 2733,
@@ -536,6 +536,20 @@
    "published_at": "2026-09-05T17:46:10"
   },
   {
+   "id": 2877,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas kembalikan 85% Bitcoin yang dicuri dari Liquid",
+   "x": "Pelaku peretasan telah mengembalikan sebagian besar Bitcoin yang diambil dari dompet federasi Liquid menyusul insiden keamanan. Pengembalian dana ini terjadi saat jaringan Liquid bersiap untuk memulai kembali operasinya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZHYDRMBN9CQ2AV6CCP6WB8/hacky-hack.png",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T03:46:17"
+  },
+  {
    "id": 2830,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -548,20 +562,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T13:41:02"
-  },
-  {
-   "id": 2794,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Sidechain Liquid Bitcoin hentikan operasi setelah dugaan penarikan $320 juta BTC",
-   "x": "Jaringan Liquid menghentikan sementara operasinya setelah adanya dugaan penarikan dana besar-besaran. Aktor yang terlibat mengklaim akan mengembalikan sebagian besar dana setelah kerentanan diperbaiki.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X62TPQZQS0CSZKDBXWAKDQ/btc.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T05:40:05"
   },
   {
    "id": 2728,
@@ -578,18 +578,18 @@
    "published_at": "2026-09-05T15:19:47"
   },
   {
-   "id": 2810,
+   "id": 2903,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penyerang Coldcard pindahkan 45% Bitcoin curian",
-   "x": "Pelaku serangan terhadap perangkat keras Coldcard memindahkan 45% dari total Bitcoin yang dicuri. Sebagian besar dana curian masih berada di alamat dompet asli, sementara sebagian kecilnya diduga dicuci.",
+   "t": "Investor kakap Bitcoin raih untung $9 miliar, picu risiko jual",
+   "x": "Keuntungan belum terealisasi investor kakap Bitcoin mencapai rekor tertinggi sejak 2016. Hal ini memicu kekhawatiran akan adanya aksi jual besar-besaran.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XGRZ6TAY9ZXV32M12BDT6R/hi-the-hidden-force-behind-bitcoin-and-ethereum-price-swings.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2062K6V4M4F1DR5TM0F23TH/hi-daos-dexs-and-whales-how-web3-organizations-became-the-new-crypto-beasts1.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T09:36:19"
+   "published_at": "2026-09-08T09:40:26"
   },
   {
    "id": 2763,
@@ -606,6 +606,20 @@
    "published_at": "2026-09-06T16:40:04"
   },
   {
+   "id": 2794,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Sidechain Liquid Bitcoin hentikan operasi setelah dugaan penarikan $320 juta BTC",
+   "x": "Jaringan Liquid menghentikan sementara operasinya setelah adanya dugaan penarikan dana besar-besaran. Aktor yang terlibat mengklaim akan mengembalikan sebagian besar dana setelah kerentanan diperbaiki.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X62TPQZQS0CSZKDBXWAKDQ/btc.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T05:40:05"
+  },
+  {
    "id": 2783,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -618,6 +632,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T02:02:00"
+  },
+  {
+   "id": 2810,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penyerang Coldcard pindahkan 45% Bitcoin curian",
+   "x": "Pelaku serangan terhadap perangkat keras Coldcard memindahkan 45% dari total Bitcoin yang dicuri. Sebagian besar dana curian masih berada di alamat dompet asli, sementara sebagian kecilnya diduga dicuci.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XGRZ6TAY9ZXV32M12BDT6R/hi-the-hidden-force-behind-bitcoin-and-ethereum-price-swings.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T09:36:19"
   },
   {
    "id": 2835,
