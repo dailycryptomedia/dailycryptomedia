@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,10 +82,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cz-ipo-on-chain-investor",
    "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
-   "a": "8 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T06:58:54"
+  },
+  {
+   "id": 2943,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Paolo Ardoino usulkan agen AI pegang Tether, pengembang tanggung biaya lebih",
+   "x": "Tether merancang sistem agar agen AI dapat memegang stablecoin, namun pengembang harus memastikan batas pengeluaran tidak terlampaui. Desain ini memisahkan akses dompet dari persetujuan pembayaran.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-ai-wallet-control.jpg",
+   "a": "27 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T15:40:20"
   }
  ]
 }
