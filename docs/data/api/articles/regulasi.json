@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/australia-hapus-45-registrasi-remitansi-kripto",
    "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T09:20:16"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T05:27:12"
@@ -74,18 +74,32 @@
    "published_at": "2026-09-07T06:24:46"
   },
   {
-   "id": 2750,
+   "id": 2992,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Hukum Kripto Polandia Gagal untuk Ketiga Kalinya, Menyisakan Satu-Satunya Celah di Eropa",
-   "x": "Poland masih menjadi satu-satunya negara anggota Uni Eropa yang belum memiliki kerangka nasional untuk MiCA, setelah Sejm kembali gagal membatalkan veto Presiden Karol Nawrocki terhadap regulasi aset kripto. Dalam…",
+   "t": "Era Bebas Pajak Bitcoin di Jerman Bisa Berakhir: Tanggal Penting yang Harus Diketahui Setiap Investor Kripto",
+   "x": "Rancangan undang-undang Jerman akan mengakhiri Bitcoin bebas pajak mulai 2027. Holder jangka panjang dirugikan, sementara trader harian membayar lebih sedikit.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kegagalan-regulasi-kripto-polandia",
-   "img": "https://assets.beincrypto.com/img/vtr371PD4VFP1nSJCd2gG2S0RDI=/smart/b23396da40234234a5b4f4b88de0868b",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/jerman-bitcoin-pajak-2027-tanggal-batas",
+   "img": "https://assets.beincrypto.com/img/fM9ttTfuv4L1CEeH-S79SoN8S-U=/smart/4295cfd795d047ee81cbcdfe8e68f8ee",
+   "a": "32 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-06T11:04:39"
+   "published_at": "2026-09-09T11:39:19"
+  },
+  {
+   "id": 3002,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Nasib UU Kripto AS: Apa yang terjadi jika CLARITY Act gagal lolos 2026?",
+   "x": "Senat AS punya waktu terbatas untuk meloloskan UU struktur pasar kripto. Kegagalan bisa membuat RUU ini dirombak total atau dibatalkan oleh Demokrat pada 2027.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR00172VH/hi-in-a-labyrinth-clarity-act-us.jpg",
+   "a": "17 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T11:54:41"
   },
   {
    "id": 2851,
@@ -102,6 +116,20 @@
    "published_at": "2026-09-07T18:16:04"
   },
   {
+   "id": 3009,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "India minta 15 platform kripto diblokir karena tak patuh AML",
+   "x": "FIU India mengeluarkan pemberitahuan ketidakpatuhan kepada 15 platform kripto dan meminta pemblokiran aplikasi serta URL mereka.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
+   "img": "https://www.tbstat.com/wp/uploads/2021/03/20210302_India_Crypto_Future-1200x675.jpg",
+   "a": "59 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T11:12:43"
+  },
+  {
    "id": 2904,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -110,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T09:54:59"

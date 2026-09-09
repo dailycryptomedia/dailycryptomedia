@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/obligasi-as-dekade-terburuk-bitcoin",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T14:06:07"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T10:34:47"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
    "img": "https://www.tbstat.com/wp/uploads/2025/05/eth-ethereum-network-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T13:51:54"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T18:16:04"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-buka-jalan-tokenisasi-di-ri-emas-dan-properti-jadi-uji-coba-nyata",
    "img": null,
-   "a": "58 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T06:00:11"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M205GJS8Q5S11AJAQ7022PC1/robinhood2-1.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T09:54:40"
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/czs-kyrgyzstan-visit-highlights-why-state-backing-does-not-guarantee-a-stablecoin-exit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdkg-broken-exit-bridge.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T10:45:22"
@@ -158,6 +158,20 @@
    "published_at": "2026-09-07T13:00:40"
   },
   {
+   "id": 3012,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Block Jack Dorsey ajukan izin bank untuk kustodian Bitcoin",
+   "x": "Perusahaan Block milik Jack Dorsey mengajukan izin charter bank di Amerika Serikat untuk mengkonsolidasikan layanan kustodian Bitcoin. Langkah ini akan menyatukan operasional yang saat ini tersebar di berbagai lisensi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T08:26:08"
+  },
+  {
    "id": 2905,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -166,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/investasi-blockchain-ri-tumbuh-tokenisasi-mulai-dilirik-untuk-sektor-riil",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T09:00:50"
@@ -194,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20KSZECABXAPAY6J96Y7ZX7/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-4.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T13:51:04"
@@ -222,10 +236,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News-1200x675.jpg",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T18:33:27"
+  },
+  {
+   "id": 3018,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Visa dorong pembiayaan stablecoin lewat blockchain",
+   "x": "Visa memperluas penggunaan stablecoin untuk pembiayaan melalui blockchain, seiring lonjakan volume kartu dan penyelesaian transaksi. Langkah ini menunjukkan adopsi aset digital yang semakin meluas di industri pembayaran global.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/visa-makin-serius-di-stablecoin-kini-dorong-pembiayaan-lewat-blockchain",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T09:00:42"
   },
   {
    "id": 2883,
@@ -250,7 +278,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZX2FFP141K4E1MB6ZD752S/switzerlandcryptovalley.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T07:18:32"
@@ -264,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
    "img": "https://www.tbstat.com/wp/uploads/2019/07/visa-office-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T11:09:21"
@@ -278,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cadangan-emas-cina-pembelian-agustus-beruntun",
    "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T11:45:24"
@@ -292,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web3.jpg",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T16:11:53"
@@ -312,20 +340,6 @@
    "published_at": "2026-09-07T01:22:20"
   },
   {
-   "id": 2746,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Orionx yang didukung Tether tutup setelah audit temukan selisih kustodi $7 juta",
-   "x": "Bursa kripto Orionx akan ditutup permanen menyusul temuan audit yang menunjukkan lebih dari $7 juta aset nasabah hilang dari kustodi mereka. Insiden ini menyoroti pentingnya keamanan aset dan transparansi operasional di platform aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T09:07:08"
-  },
-  {
    "id": 2906,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -334,10 +348,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T10:07:10"
+  },
+  {
+   "id": 3007,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Block Jack Dorsey incar charter bank terpercaya AS untuk Bitcoin, stablecoin",
+   "x": "Block mengajukan izin charter bank terpercaya di AS untuk menyediakan layanan kustodian aset digital yang diawasi federal, termasuk Bitcoin dan stablecoin. Bank baru ini tidak akan menerima simpanan atau menerbitkan pinjaman.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T07:36:21"
   }
  ]
 }
