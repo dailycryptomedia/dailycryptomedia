@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
-   "a": "47 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T18:47:32"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:07:24"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
    "img": "https://www.tbstat.com/wp/uploads/2025/08/20250819_MetaMask_News-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T14:54:15"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hunter-biden-laptop-meme-coin-airdrop",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T06:01:14"
@@ -110,24 +110,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
    "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T02:18:25"
   },
   {
-   "id": 2803,
+   "id": 3067,
    "k": "web3",
    "cat": "Web3",
-   "t": "Harmony Akan Tutup Operasi. Holder ONE Akan Dapatkan Token Ethereum Secara Otomatis",
-   "x": "Harmony akan menutup blockchain yang mereka luncurkan pada 2019 dan akan memigrasikan native token mereka, Harmony (ONE), ke Ethereum (ETH) sebagai aset ERC-20 yang baru. Tim Harmony menyebut adanya ancaman dari aktor…",
+   "t": "Trezor Laporkan Insiden Keamanan Lagi: Apa yang Perlu Diketahui Pengguna",
+   "x": "Trezor mengonfirmasi terjadi pelanggaran pada penyedia email pihak ketiga yang mengirimkan peringatan keamanan STM32 palsu kepada pengguna wallet.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harmony-sunset-network-one-ethereum-migrasi",
-   "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/pembobolan-penyedia-email-trezor-phishing",
+   "img": "https://assets.beincrypto.com/img/SDpHUJNeY-2hzxyE3WOo_x-lY8c=/smart/e97b95b8ebaa452fa216f4b6c2d1e03b",
+   "a": "58 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-07T07:40:31"
+   "published_at": "2026-09-09T21:11:06"
   },
   {
    "id": 2943,
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T15:40:20"
+  },
+  {
+   "id": 2803,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Harmony Akan Tutup Operasi. Holder ONE Akan Dapatkan Token Ethereum Secara Otomatis",
+   "x": "Harmony akan menutup blockchain yang mereka luncurkan pada 2019 dan akan memigrasikan native token mereka, Harmony (ONE), ke Ethereum (ETH) sebagai aset ERC-20 yang baru. Tim Harmony menyebut adanya ancaman dari aktor…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harmony-sunset-network-one-ethereum-migrasi",
+   "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-07T07:40:31"
   },
   {
    "id": 2890,

@@ -1,5 +1,5 @@
 {
- "total": 129,
+ "total": 133,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/tv-listening-gID_1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T21:46:04"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/zoomex-airdrop-10-eth-reward-trading-futures",
    "img": "https://assets.beincrypto.com/img/gKuzOdGEWhL1tYngEVLotYUr5FY=/smart/79f869d167954ff381edc5f2b10872c7",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T11:59:08"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M21BC7WR8S6QJNY728RV1B71/handshake-agreement-union-partnership-cooperation-collaboration-join-deal-breaking-news.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T20:59:20"
@@ -166,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7-pID_2.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T21:38:34"
@@ -250,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
-   "a": "37 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T18:56:58"
@@ -292,7 +292,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YQN8JRRNR258R2ASED73KY/hi-prediction-market-uk.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T20:40:17"
@@ -326,18 +326,18 @@
    "published_at": "2026-09-08T10:38:15"
   },
   {
-   "id": 3058,
+   "id": 3070,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Apple Luncurkan Siri AI Baru dan Chip A20 Pro",
-   "x": "Apple memperkenalkan pembaruan Siri yang didukung AI Gemini dan chip 2 nanometer pertama mereka. Perusahaan juga meluncurkan iPhone lipat seharga $1.999 yang akan dikirim Oktober.",
+   "t": "AI pecahkan masalah matematika lebih cepat dari penggantinya, kata Terence Tao",
+   "x": "AI kini mampu menyelesaikan masalah matematika kompleks begitu seseorang mulai mengerjakannya. Hal ini menunjukkan perlombaan antara pengembang AI untuk memecahkan masalah yang ada.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
+   "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg",
    "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T17:50:14"
+   "published_at": "2026-09-09T20:31:29"
   },
   {
    "id": 2801,
@@ -410,18 +410,18 @@
    "published_at": "2026-09-08T15:05:03"
   },
   {
-   "id": 2926,
+   "id": 3058,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Tren pasar kripto alami minggu terkuat sejak era Trump",
-   "x": "Minggu ini menandai periode aktivitas pasar kripto terkuat sejak era Trump, memicu pertanyaan apakah ini sinyal puncak lokal atau awal dari lonjakan baru. Analisis data on-chain menjadi kunci untuk memahami momentum pasar.",
+   "t": "Apple Luncurkan Siri AI Baru dan Chip A20 Pro",
+   "x": "Apple memperkenalkan pembaruan Siri yang didukung AI Gemini dan chip 2 nanometer pertama mereka. Perusahaan juga meluncurkan iPhone lipat seharga $1.999 yang akan dikirim Oktober.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bull-bear-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T13:06:33"
+   "published_at": "2026-09-09T17:50:14"
   },
   {
    "id": 2804,
@@ -488,24 +488,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
    "img": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T21:58:33"
   },
   {
-   "id": 2834,
+   "id": 2926,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Proposal Ethereum Izinkan Bayar Gas Tanpa Pegang ETH",
-   "x": "Sebuah proposal baru untuk Ethereum memungkinkan pengguna membayar biaya transaksi tanpa harus memegang aset kripto Ether (ETH). Inisiatif ini juga disebut sebagai langkah antisipasi terhadap ancaman komputer kuantum.",
+   "t": "Tren pasar kripto alami minggu terkuat sejak era Trump",
+   "x": "Minggu ini menandai periode aktivitas pasar kripto terkuat sejak era Trump, memicu pertanyaan apakah ini sinyal puncak lokal atau awal dari lonjakan baru. Analisis data on-chain menjadi kunci untuk memahami momentum pasar.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bull-bear-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T15:03:44"
+   "published_at": "2026-09-08T13:06:33"
   },
   {
    "id": 2875,
@@ -544,7 +544,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ911VXTFNH1/hi-bidens-crypto-memecoin-laptop.png",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:58:39"
@@ -578,18 +578,18 @@
    "published_at": "2026-09-07T02:28:47"
   },
   {
-   "id": 2935,
+   "id": 2834,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bitmine milik Tom Lee tambah 70 juta dolar ETH, kepemilikan capai 5,93 juta ETH",
-   "x": "Perusahaan investasi kripto Bitmine menambah kepemilikan Ethereum senilai 70 juta dolar AS, menjadikan totalnya 5,93 juta ETH. Mayoritas aset ini di-staking untuk mendapatkan imbal hasil.",
+   "t": "Proposal Ethereum Izinkan Bayar Gas Tanpa Pegang ETH",
+   "x": "Sebuah proposal baru untuk Ethereum memungkinkan pengguna membayar biaya transaksi tanpa harus memegang aset kripto Ether (ETH). Inisiatif ini juga disebut sebagai langkah antisipasi terhadap ancaman komputer kuantum.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T15:04:44"
+   "published_at": "2026-09-07T15:03:44"
   },
   {
    "id": 2879,
@@ -628,7 +628,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22VM784R14VGQAGK2E33BPY/hi-metaplanet-vs-strategy-key-differences-in-their-approach-to-bitcoin-holdings-2.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T11:15:23"
@@ -648,32 +648,32 @@
    "published_at": "2026-09-08T08:50:16"
   },
   {
-   "id": 2772,
+   "id": 2896,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "STONK melonjak 250% capai $140 juta, peluncuran Solana StonkFun picu volume",
-   "x": "Token STONK melonjak 250% setelah terintegrasi dengan Raydium LaunchLab, mendorong kapitalisasi pasarnya hingga $140 juta. Kenaikan ini terjadi bersamaan dengan lonjakan harga token RAY sebesar 40%.",
+   "t": "Robinhood berpotensi naik 31% seiring pendapatan rantai barunya",
+   "x": "Pendapatan dari rantai baru Robinhood telah melampaui Solana dan BNB Chain dalam 15 hari, menghasilkan $33 juta. Analis Bernstein memproyeksikan potensi kenaikan harga saham Robinhood sebesar 31%.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
-   "img": "https://www.tbstat.com/wp/uploads/2026/09/exec-36cc6328-e734-4401-9c1a-d4a058f8b90d-1200x675.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T20:51:40"
-  },
-  {
-   "id": 2911,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Apa itu LAPTOP? Meme coin Hunter Biden incar pemegang TRUMP",
-   "x": "Token LAPTOP diluncurkan di jaringan Base dengan target menyasar pemegang token TRUMP. Sebagian pasokan token dialokasikan untuk pedagang yang merugi pada token TRUMP.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/laptop-meme-coin-learn-gID_4-pID_2.png",
+   "url": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T11:33:50"
+   "published_at": "2026-09-08T08:50:14"
+  },
+  {
+   "id": 2935,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitmine milik Tom Lee tambah 70 juta dolar ETH, kepemilikan capai 5,93 juta ETH",
+   "x": "Perusahaan investasi kripto Bitmine menambah kepemilikan Ethereum senilai 70 juta dolar AS, menjadikan totalnya 5,93 juta ETH. Mayoritas aset ini di-staking untuk mendapatkan imbal hasil.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T15:04:44"
   },
   {
    "id": 2793,
@@ -704,18 +704,18 @@
    "published_at": "2026-09-08T17:36:45"
   },
   {
-   "id": 3005,
+   "id": 3066,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mantan CEO Silvergate salahkan tekanan Biden atas penutupan bank 2023",
-   "x": "Alan Lane menyatakan \"serangan terkoordinasi\" oleh pemerintahan Biden membuat operasional Silvergate tidak berkelanjutan dan memicu likuidasi.",
+   "t": "DoubleZero tambahkan data pasar pemilu Kalshi jelang pemilu AS",
+   "x": "DoubleZero kini menyediakan akses data pasar politik Kalshi secara real-time bagi trader institusi dan otomatis. Ini terjadi seiring meningkatnya aktivitas taruhan pemilu di AS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22R46XM5HB5F0NP53KDRX9H/bank-run-attack.png",
-   "a": "9 jam lalu",
+   "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T10:05:00"
+   "published_at": "2026-09-09T20:08:09"
   },
   {
    "id": 2918,
@@ -732,32 +732,32 @@
    "published_at": "2026-09-08T11:50:28"
   },
   {
-   "id": 2896,
+   "id": 2959,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Robinhood berpotensi naik 31% seiring pendapatan rantai barunya",
-   "x": "Pendapatan dari rantai baru Robinhood telah melampaui Solana dan BNB Chain dalam 15 hari, menghasilkan $33 juta. Analis Bernstein memproyeksikan potensi kenaikan harga saham Robinhood sebesar 31%.",
+   "t": "Minat terbuka Hyperliquid naik ke $14,3 miliar saat HYPE capai rekor tertinggi",
+   "x": "",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News_2-1200x675.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T08:50:14"
+   "published_at": "2026-09-08T20:08:23"
   },
   {
-   "id": 2841,
+   "id": 2911,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Hunter Biden airdrop koin meme LAPTOP untuk pendukung TRUMP",
-   "x": "Hunter Biden akan meluncurkan koin meme bernama LAPTOP dan membagikannya kepada pedagang yang merugi pada aset kripto yang terafiliasi dengan TRUMP. Langkah ini menarik perhatian karena melibatkan tokoh politik dan tren koin meme.",
+   "t": "Apa itu LAPTOP? Meme coin Hunter Biden incar pemegang TRUMP",
+   "x": "Token LAPTOP diluncurkan di jaringan Base dengan target menyasar pemegang token TRUMP. Sebagian pasokan token dialokasikan untuk pedagang yang merugi pada token TRUMP.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2024/06/hunter-biden-gID_4.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/laptop-meme-coin-learn-gID_4-pID_2.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T16:26:00"
+   "published_at": "2026-09-08T11:33:50"
   },
   {
    "id": 2887,
@@ -788,18 +788,18 @@
    "published_at": "2026-09-08T01:33:40"
   },
   {
-   "id": 2848,
+   "id": 3005,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Jaksa Polandia tuntut tersangka kasus Zondacrypto, minta tahanan pra-sidang",
-   "x": "Jaksa Polandia menuntut seorang tersangka atas kejahatan terorganisir dan penggelapan dana pengguna Zondacrypto senilai $2,1 juta. Kasus ini menyoroti risiko penipuan dan penyalahgunaan dana di platform kripto.",
+   "t": "Mantan CEO Silvergate salahkan tekanan Biden atas penutupan bank 2023",
+   "x": "Alan Lane menyatakan \"serangan terkoordinasi\" oleh pemerintahan Biden membuat operasional Silvergate tidak berkelanjutan dan memicu likuidasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YE3WX83P6A9KHXBC6QXND1/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-2.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22R46XM5HB5F0NP53KDRX9H/bank-run-attack.png",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T17:58:00"
+   "published_at": "2026-09-09T10:05:00"
   },
   {
    "id": 2861,
@@ -810,38 +810,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-arbitrage-study-reveals-builders-receive-5-for-every-1-burned-by-the-network",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-builder-value-flow-.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T21:05:07"
   },
   {
-   "id": 2959,
+   "id": 3035,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Minat terbuka Hyperliquid naik ke $14,3 miliar saat HYPE capai rekor tertinggi",
-   "x": "",
+   "t": "Airdrop token LAPTOP Hunter Biden sempat bernilai $1 juta sebelum anjlok 99%",
+   "x": "Token NFT bernama LAPTOP yang terinspirasi dari laptop Hunter Biden sempat melonjak nilainya hingga lebih dari $1 juta per unit. Namun, nilainya anjlok drastis karena likuiditas yang tipis dan aksi jual besar-besaran.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News_2-1200x675.jpg",
-   "a": "23 jam lalu",
+   "url": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-1200x675.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T20:08:23"
+   "published_at": "2026-09-09T16:05:45"
   },
   {
-   "id": 2862,
+   "id": 2841,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kepala ilmuwan OpenAI minta laboratorium AI melambat",
-   "x": "Ilmuwan utama OpenAI menyerukan standar keselamatan wajib untuk model AI canggih. Hal ini penting mengingat semakin sulitnya memantau penalaran model AI yang semakin maju.",
+   "t": "Hunter Biden airdrop koin meme LAPTOP untuk pendukung TRUMP",
+   "x": "Hunter Biden akan meluncurkan koin meme bernama LAPTOP dan membagikannya kepada pedagang yang merugi pada aset kripto yang terafiliasi dengan TRUMP. Langkah ini menarik perhatian karena melibatkan tokoh politik dan tren koin meme.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2024/06/hunter-biden-gID_4.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T21:16:03"
+   "published_at": "2026-09-07T16:26:00"
   }
  ]
 }
