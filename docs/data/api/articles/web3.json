@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,32 @@
    "published_at": "2026-09-06T15:01:03"
   },
   {
-   "id": 2803,
+   "id": 2983,
    "k": "web3",
    "cat": "Web3",
-   "t": "Harmony Akan Tutup Operasi. Holder ONE Akan Dapatkan Token Ethereum Secara Otomatis",
-   "x": "Harmony akan menutup blockchain yang mereka luncurkan pada 2019 dan akan memigrasikan native token mereka, Harmony (ONE), ke Ethereum (ETH) sebagai aset ERC-20 yang baru. Tim Harmony menyebut adanya ancaman dari aktor…",
+   "t": "StoneX prediksi Robinhood naik 45% seiring peluncuran Layer 2 dan pasar prediksi",
+   "x": "StoneX melihat potensi kenaikan signifikan pada saham Robinhood, didorong oleh peluncuran Robinhood Chain dan bisnis pasar prediksinya. Inisiatif baru ini dipandang sebagai pendorong pertumbuhan utama bagi perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T02:18:25"
+  },
+  {
+   "id": 2974,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hunter Biden Paparkan Rencana Airdrop LAPTOP sebelum Debut di Base",
+   "x": "Hunter Biden mengonfirmasi peluncuran meme coin LAPTOP miliknya dan menjelaskan berapa banyak suplai yang diberikan ke wallet komunitas, termasuk untuk orang-orang yang mengalami kerugian di token Official Trump…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harmony-sunset-network-one-ethereum-migrasi",
-   "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/hunter-biden-laptop-meme-coin-airdrop",
+   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
+   "a": "57 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-07T07:40:31"
+   "published_at": "2026-09-09T06:01:14"
   },
   {
    "id": 2829,
@@ -74,18 +88,18 @@
    "published_at": "2026-09-07T13:30:00"
   },
   {
-   "id": 2890,
+   "id": 2803,
    "k": "web3",
    "cat": "Web3",
-   "t": "Akankah IPO Berpindah ke Chain? CZ Bilang Ya, dan Infrastruktur Bilang Sudah",
-   "x": "CZ mengatakan IPO akan berpindah ke chain. Ini yang berubah bagi investor, dan aturan mana yang tetap sama persis.",
+   "t": "Harmony Akan Tutup Operasi. Holder ONE Akan Dapatkan Token Ethereum Secara Otomatis",
+   "x": "Harmony akan menutup blockchain yang mereka luncurkan pada 2019 dan akan memigrasikan native token mereka, Harmony (ONE), ke Ethereum (ETH) sebagai aset ERC-20 yang baru. Tim Harmony menyebut adanya ancaman dari aktor…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cz-ipo-on-chain-investor",
-   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
-   "a": "18 jam lalu",
+   "url": "https://id.beincrypto.com/harmony-sunset-network-one-ethereum-migrasi",
+   "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-08T06:58:54"
+   "published_at": "2026-09-07T07:40:31"
   },
   {
    "id": 2943,
@@ -96,10 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-ai-wallet-control.jpg",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T15:40:20"
+  },
+  {
+   "id": 2890,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Akankah IPO Berpindah ke Chain? CZ Bilang Ya, dan Infrastruktur Bilang Sudah",
+   "x": "CZ mengatakan IPO akan berpindah ke chain. Ini yang berubah bagi investor, dan aturan mana yang tetap sama persis.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cz-ipo-on-chain-investor",
+   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-08T06:58:54"
   }
  ]
 }
