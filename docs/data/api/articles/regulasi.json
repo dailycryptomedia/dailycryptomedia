@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T05:27:12"
@@ -54,24 +54,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-ai-refund-flow.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T14:20:31"
   },
   {
-   "id": 2795,
+   "id": 3034,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Korea Selatan kembangkan platform sekuritas tokenisasi di Avalanche seiring pembentukan regulasi",
-   "x": "Hanwha Korea Selatan mengembangkan platform sekuritas tokenisasi di blockchain Avalanche. Langkah ini sejalan dengan pengesahan amandemen yang mengintegrasikan sekuritas tokenisasi ke sistem keuangan negara tersebut mulai Februari mendatang.",
+   "t": "Hyperliquid dukung CFTC lawan CME soal futures, minta kasus ditolak",
+   "x": "Hyperliquid Policy Center menuduh CME Group menghambat inovasi dan meminta pengadilan menolak gugatan bursa tersebut terhadap CFTC. Ini menunjukkan perselisihan antarlembaga terkait regulasi produk derivatif kripto.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
-   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News_2-1200x675.jpg",
+   "a": "30 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T06:24:46"
+   "published_at": "2026-09-09T16:17:59"
   },
   {
    "id": 2992,
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jerman-bitcoin-pajak-2027-tanggal-batas",
    "img": "https://assets.beincrypto.com/img/fM9ttTfuv4L1CEeH-S79SoN8S-U=/smart/4295cfd795d047ee81cbcdfe8e68f8ee",
-   "a": "32 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T11:39:19"
@@ -96,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR00172VH/hi-in-a-labyrinth-clarity-act-us.jpg",
-   "a": "17 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T11:54:41"
@@ -116,18 +116,32 @@
    "published_at": "2026-09-07T18:16:04"
   },
   {
-   "id": 3009,
+   "id": 2795,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "India minta 15 platform kripto diblokir karena tak patuh AML",
-   "x": "FIU India mengeluarkan pemberitahuan ketidakpatuhan kepada 15 platform kripto dan meminta pemblokiran aplikasi serta URL mereka.",
+   "t": "Korea Selatan kembangkan platform sekuritas tokenisasi di Avalanche seiring pembentukan regulasi",
+   "x": "Hanwha Korea Selatan mengembangkan platform sekuritas tokenisasi di blockchain Avalanche. Langkah ini sejalan dengan pengesahan amandemen yang mengintegrasikan sekuritas tokenisasi ke sistem keuangan negara tersebut mulai Februari mendatang.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
-   "img": "https://www.tbstat.com/wp/uploads/2021/03/20210302_India_Crypto_Future-1200x675.jpg",
-   "a": "59 menit lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
+   "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T11:12:43"
+   "published_at": "2026-09-07T06:24:46"
+  },
+  {
+   "id": 3024,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Grup dagang berupaya blokir pajak kripto Illinois sebelum berlaku",
+   "x": "Asosiasi perdagangan menggugat pajak kripto 0,2% di Illinois karena dianggap tidak konstitusional dan memberatkan kepatuhan. Upaya ini mencerminkan tantangan regulasi pajak aset digital di AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23CVCZMG85BQMYT0FDR7K9V/year-of-crypto-tax-legislation-960x640.webp",
+   "a": "51 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T15:57:07"
   },
   {
    "id": 2904,
@@ -142,6 +156,62 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T09:54:59"
+  },
+  {
+   "id": 3009,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "India minta 15 platform kripto diblokir karena tak patuh AML",
+   "x": "FIU India mengeluarkan pemberitahuan ketidakpatuhan kepada 15 platform kripto dan meminta pemblokiran aplikasi serta URL mereka.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
+   "img": "https://www.tbstat.com/wp/uploads/2021/03/20210302_India_Crypto_Future-1200x675.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T11:12:43"
+  },
+  {
+   "id": 3026,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Jerman usulkan pajak kripto 25% mulai 2028",
+   "x": "Kementerian Keuangan Jerman mengusulkan pengenaan pajak sebesar 25% untuk aset kripto mulai tahun 2028. Usulan ini berpotensi mengubah aturan saat ini yang membebaskan keuntungan kripto dari pajak setelah satu tahun kepemilikan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T13:49:55"
+  },
+  {
+   "id": 3045,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Jerman rancang pajak 25% untuk keuntungan kripto mulai 2027",
+   "x": "Pemerintah Jerman mengusulkan pajak 25% atas keuntungan aset kripto yang diperoleh setelah tahun 2027. Aturan ini tidak berlaku surut, sehingga aset yang dibeli sebelum 2027 tetap mendapat pengecualian pajak selama satu tahun.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T14:37:18"
+  },
+  {
+   "id": 3036,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Grup industri kripto lawan pajak kontroversial Illinois di pengadilan",
+   "x": "Sejumlah perusahaan aset digital menggugat pajak kripto baru di Illinois. Langkah ini menunjukkan perlawanan industri terhadap regulasi yang dianggap memberatkan investor.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+   "img": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T15:04:41"
   }
  ]
 }

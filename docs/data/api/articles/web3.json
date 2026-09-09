@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,32 +32,32 @@
    "published_at": "2026-09-07T10:00:29"
   },
   {
-   "id": 2758,
+   "id": 3044,
    "k": "web3",
    "cat": "Web3",
-   "t": "Stablecoin butuh bank untuk berkembang",
-   "x": "Perkembangan stablecoin terhambat oleh kurangnya infrastruktur teregulasi yang dipercaya institusi. Keterlibatan bank menjadi kunci agar stablecoin dapat diadopsi secara luas.",
+   "t": "Consensys terpecah dua, MetaMask berjalan sendiri",
+   "x": "Consensys Software Inc. akan menjadi MetaMask, sementara entitas baru Consensys akan mengelola protokol Ethereum dan infrastruktur blockchain institusional. Pemisahan ini bertujuan untuk fokus pada pengembangan masing-masing unit bisnis.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T15:01:03"
+   "published_at": "2026-09-09T15:07:24"
   },
   {
-   "id": 2983,
+   "id": 3037,
    "k": "web3",
    "cat": "Web3",
-   "t": "StoneX prediksi Robinhood naik 45% seiring peluncuran Layer 2 dan pasar prediksi",
-   "x": "StoneX melihat potensi kenaikan signifikan pada saham Robinhood, didorong oleh peluncuran Robinhood Chain dan bisnis pasar prediksinya. Inisiatif baru ini dipandang sebagai pendorong pertumbuhan utama bagi perusahaan.",
+   "t": "Consensys pisahkan MetaMask dari bisnis infrastruktur Ethereum",
+   "x": "MetaMask akan dipisah dari unit bisnis institusional dan infrastruktur Consensys pada akhir 2026. Pemisahan ini bertujuan untuk fokus pada pengembangan dompet kripto bagi pengguna ritel.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
-   "a": "9 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+   "img": "https://www.tbstat.com/wp/uploads/2025/08/20250819_MetaMask_News-1200x675.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T02:18:25"
+   "published_at": "2026-09-09T14:54:15"
   },
   {
    "id": 2974,
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hunter-biden-laptop-meme-coin-airdrop",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T06:01:14"
@@ -82,10 +82,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-may-have-a-simpler-way-to-ease-the-computing-burden-of-its-growing-rollup-ecosystem",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-recovery-funnel-system.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T13:30:00"
+  },
+  {
+   "id": 2983,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "StoneX prediksi Robinhood naik 45% seiring peluncuran Layer 2 dan pasar prediksi",
+   "x": "StoneX melihat potensi kenaikan signifikan pada saham Robinhood, didorong oleh peluncuran Robinhood Chain dan bisnis pasar prediksinya. Inisiatif baru ini dipandang sebagai pendorong pertumbuhan utama bagi perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T02:18:25"
   },
   {
    "id": 2803,
@@ -110,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-ai-wallet-control.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T15:40:20"

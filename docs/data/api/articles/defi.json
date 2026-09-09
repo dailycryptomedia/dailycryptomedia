@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-08T10:47:25"
   },
   {
-   "id": 2760,
+   "id": 2923,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Proposal pinjaman kripto Aave izinkan alat darurat bekukan pasar",
-   "x": "Proposal Aave memungkinkan peran darurat untuk membekukan pasar kripto jika terjadi kondisi ekstrem. Namun, alat ini tidak dapat digunakan untuk membuka kembali pasar, menimbulkan pertanyaan tentang potensi penyalahgunaan.",
+   "t": "Perdebatan suplai Ethereum paksa pilih imbal hasil staking tinggi atau nilai ETH",
+   "x": "Sebuah protokol ingin perdebatan suplai Ethereum diperluas, sementara imbal hasil yang ada menjaga pendapatan validator dan dilusi bagi pemegang unstaked. Hal ini berdampak pada investor yang harus memilih antara potensi keuntungan staking atau nilai aset ETH mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aave-lending-proposal-would-grant-emergency-powers-without-requiring-public-reports-on-their-use",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-emergency-powers.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/the-fight-over-ethereums-supply-is-forcing-a-choice-between-high-staking-yields-and-the-value-of-your-eth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-monetary-policy-gavel.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-06T15:33:08"
+   "published_at": "2026-09-08T12:35:47"
   },
   {
    "id": 2894,
@@ -74,6 +74,20 @@
    "published_at": "2026-09-06T18:03:26"
   },
   {
+   "id": 3042,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Meme coin LAPTOP Hunter Biden anjlok 99% saat debut",
+   "x": "Token meme LAPTOP yang terinspirasi dari laptop Hunter Biden mengalami penurunan nilai 99% tak lama setelah diluncurkan. Likuiditas yang tipis menjadi penyebab utama anjloknya harga aset digital ini.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-01-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T15:47:09"
+  },
+  {
    "id": 2811,
    "k": "defi",
    "cat": "DeFi",
@@ -88,18 +102,18 @@
    "published_at": "2026-09-07T09:11:09"
   },
   {
-   "id": 2923,
+   "id": 2836,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Perdebatan suplai Ethereum paksa pilih imbal hasil staking tinggi atau nilai ETH",
-   "x": "Sebuah protokol ingin perdebatan suplai Ethereum diperluas, sementara imbal hasil yang ada menjaga pendapatan validator dan dilusi bagi pemegang unstaked. Hal ini berdampak pada investor yang harus memilih antara potensi keuntungan staking atau nilai aset ETH mereka.",
+   "t": "Model pinjaman XRP bebani deposan 90% rugi pinjaman macet meski cadangan dua kali lipat",
+   "x": "Model pinjaman XRP baru menunjukkan deposan menanggung 90% kerugian dari pinjaman yang gagal, bahkan ketika cadangan aset digitalnya dua kali lipat dari nilai pinjaman tersebut. Hal ini menimbulkan pertanyaan mengenai keamanan dana nasabah dalam skema pinjaman aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-fight-over-ethereums-supply-is-forcing-a-choice-between-high-staking-yields-and-the-value-of-your-eth",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-monetary-policy-gavel.jpg",
-   "a": "23 jam lalu",
+   "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-depositor-eye-risk.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T12:35:47"
+   "published_at": "2026-09-07T15:30:40"
   },
   {
    "id": 2791,
@@ -124,24 +138,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
    "img": "https://www.tbstat.com/wp/uploads/2025/06/onchain-blockchain-news-protocol-crosschain-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T22:26:02"
-  },
-  {
-   "id": 2836,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Model pinjaman XRP bebani deposan 90% rugi pinjaman macet meski cadangan dua kali lipat",
-   "x": "Model pinjaman XRP baru menunjukkan deposan menanggung 90% kerugian dari pinjaman yang gagal, bahkan ketika cadangan aset digitalnya dua kali lipat dari nilai pinjaman tersebut. Hal ini menimbulkan pertanyaan mengenai keamanan dana nasabah dalam skema pinjaman aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-depositor-eye-risk.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T15:30:40"
   },
   {
    "id": 2868,
@@ -158,6 +158,20 @@
    "published_at": "2026-09-07T23:10:48"
   },
   {
+   "id": 3027,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "10 misteri aset kripto terbesar yang belum terpecahkan",
+   "x": "Artikel ini mengulas sepuluh misteri terbesar dalam dunia aset kripto yang masih belum terpecahkan. Kasus-kasus ini mencakup hilangnya tokoh penting hingga kematian misterius yang melibatkan pengembang DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T13:30:00"
+  },
+  {
    "id": 2910,
    "k": "defi",
    "cat": "DeFi",
@@ -172,6 +186,20 @@
    "published_at": "2026-09-08T10:40:21"
   },
   {
+   "id": 3025,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tether dan Fasanara luncurkan dana kredit swasta $400 juta",
+   "x": "Tether bekerja sama dengan Fasanara meluncurkan dana kredit swasta senilai $400 juta yang ditargetkan untuk mencapai $3 miliar. Dana ini akan mendukung pinjaman berbasis aset melalui platform fintech di lebih dari 60 negara.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK6XN00P8QY2D9WJ8JAAW/hi-crypto-negotiation-2.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T15:21:44"
+  },
+  {
    "id": 2774,
    "k": "defi",
    "cat": "DeFi",
@@ -184,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-06T21:05:28"
+  },
+  {
+   "id": 3047,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Staking institusional Ethereum tumbuh, porsi Lido menyusut",
+   "x": "Pertumbuhan staking institusional Ethereum terus meningkat, namun pangsa pasar Lido menurun. Hal ini mengindikasikan pergeseran dalam ekosistem staking aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereums-institutional-staking-boom-is-growing-but-lidos-share-is-shrinking",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/lido-buyback-bridge-gap.jpg",
+   "a": "42 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T16:05:54"
   }
  ]
 }

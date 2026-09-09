@@ -1,5 +1,5 @@
 {
- "total": 26,
+ "total": 29,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/obligasi-as-dekade-terburuk-bitcoin",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T14:06:07"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
    "img": "https://www.tbstat.com/wp/uploads/2025/05/eth-ethereum-network-1200x675.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T13:51:54"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T18:16:04"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-buka-jalan-tokenisasi-di-ri-emas-dan-properti-jadi-uji-coba-nyata",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T06:00:11"
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689",
    "img": "https://www.tbstat.com/wp/uploads/2025/08/dbs-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T13:00:40"
@@ -166,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T08:26:08"
@@ -208,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20KSZECABXAPAY6J96Y7ZX7/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-4.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T13:51:04"
@@ -236,7 +236,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News-1200x675.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T18:33:27"
@@ -250,7 +250,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/visa-makin-serius-di-stablecoin-kini-dorong-pembiayaan-lewat-blockchain",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T09:00:42"
@@ -320,10 +320,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web3.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T16:11:53"
+  },
+  {
+   "id": 3039,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tether dan Fasanara luncurkan dana US$400 juta untuk kredit swasta berbasis stablecoin",
+   "x": "Tether dan Fasanara membentuk dana senilai US$400 juta untuk mendukung kredit swasta yang menggunakan stablecoin. Dana ini akan disalurkan melalui jaringan fintech Fasanara untuk investor institusi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News-1200x675.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T13:53:28"
   },
   {
    "id": 2778,
@@ -338,6 +352,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T01:22:20"
+  },
+  {
+   "id": 3021,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "U.S. Bank uji coba stablecoin untuk transaksi lintas batas Stellar",
+   "x": "Sebuah bank Amerika Serikat menguji coba stablecoin miliknya untuk transaksi lintas batas menggunakan blockchain Stellar. Inisiatif ini menunjukkan potensi penggunaan aset digital untuk memfasilitasi transfer dana antarnegara secara lebih efisien.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
+   "a": "11 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T16:37:08"
+  },
+  {
+   "id": 3033,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank AS Memindahkan US$ Nyata di Chain Publik, tapi dengan Kill Switch",
+   "x": "Stablecoin USBDC dari U.S. Bank memindahkan dolar nyata di Stellar, dan bank tetap memegang kekuatan untuk membekukan serta membalikkan transaksi tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bank-as-usbdc-stablecoin-stellar-pilot",
+   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-09T12:54:36"
   },
   {
    "id": 2906,
@@ -362,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T07:36:21"
