@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 33,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,20 +46,6 @@
    "published_at": "2026-09-07T10:34:47"
   },
   {
-   "id": 2769,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin hadapi realitas makro baru saat The Fed kurangi likuiditas",
-   "x": "Departemen Keuangan AS akan melipatgandakan operasi pembelian kembali obligasi pemerintah. Kebijakan ini berpotensi membanjiri pasar dengan likuiditas, yang bisa memengaruhi aset berisiko seperti Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-uncertain-the-fed-and-treasury-are-pulling-the-bond-market-in-opposite-directions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-tap-treasury-floodgates.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-06T19:00:20"
-  },
-  {
    "id": 2931,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -74,6 +60,20 @@
    "published_at": "2026-09-08T13:51:54"
   },
   {
+   "id": 2817,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Kunjungan CZ ke Kyrgyzstan tunjukkan dukungan negara tak jamin stablecoin",
+   "x": "Pendiri Binance, CZ, memuji proyek stablecoin KGST di Kyrgyzstan. Namun, proyek ini memiliki batasan penebusan langsung untuk institusi dan penerbitnya menghadapi sanksi Inggris, menyoroti risiko di balik dukungan negara.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/czs-kyrgyzstan-visit-highlights-why-state-backing-does-not-guarantee-a-stablecoin-exit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdkg-broken-exit-bridge.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T10:45:22"
+  },
+  {
    "id": 2953,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T18:16:04"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-buka-jalan-tokenisasi-di-ri-emas-dan-properti-jadi-uji-coba-nyata",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T06:00:11"
@@ -130,20 +130,6 @@
    "published_at": "2026-09-08T09:54:40"
   },
   {
-   "id": 2817,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Kunjungan CZ ke Kyrgyzstan tunjukkan dukungan negara tak jamin stablecoin",
-   "x": "Pendiri Binance, CZ, memuji proyek stablecoin KGST di Kyrgyzstan. Namun, proyek ini memiliki batasan penebusan langsung untuk institusi dan penerbitnya menghadapi sanksi Inggris, menyoroti risiko di balik dukungan negara.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/czs-kyrgyzstan-visit-highlights-why-state-backing-does-not-guarantee-a-stablecoin-exit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdkg-broken-exit-bridge.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T10:45:22"
-  },
-  {
    "id": 2824,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -158,18 +144,32 @@
    "published_at": "2026-09-07T13:00:40"
   },
   {
-   "id": 3012,
+   "id": 2870,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Block Jack Dorsey ajukan izin bank untuk kustodian Bitcoin",
-   "x": "Perusahaan Block milik Jack Dorsey mengajukan izin charter bank di Amerika Serikat untuk mengkonsolidasikan layanan kustodian Bitcoin. Langkah ini akan menyatukan operasional yang saat ini tersebar di berbagai lisensi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg",
-   "a": "8 jam lalu",
+   "t": "Bursa kripto terafiliasi Tether bekukan penarikan dana setelah $7 juta keluar dari kustodian",
+   "x": "Bursa kripto melaporkan lebih dari $7 juta dana dipindahkan dari kustodian ke dompet eksternal. Upaya pemulihan dana masih dalam tahap awal, menimbulkan kekhawatiran tentang keamanan aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tether-backed-crypto-exchange-freezes-withdrawals-after-7-million-leaves-custody",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/orionx-withdrawals-frozen.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T08:26:08"
+   "published_at": "2026-09-08T00:20:52"
+  },
+  {
+   "id": 3059,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Dinas Rahasia Bekukan $52,8 Juta Kripto Terkait Bazaar Telegram",
+   "x": "Dinas Rahasia AS membekukan aset kripto senilai $52,8 juta yang terkait dengan bazaar Telegram yang digunakan untuk penipuan global. Tindakan ini merupakan bagian dari upaya pemberantasan kejahatan keuangan digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T17:16:08"
   },
   {
    "id": 2905,
@@ -214,32 +214,46 @@
    "published_at": "2026-09-08T13:51:04"
   },
   {
-   "id": 2870,
+   "id": 3055,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bursa kripto terafiliasi Tether bekukan penarikan dana setelah $7 juta keluar dari kustodian",
-   "x": "Bursa kripto melaporkan lebih dari $7 juta dana dipindahkan dari kustodian ke dompet eksternal. Upaya pemulihan dana masih dalam tahap awal, menimbulkan kekhawatiran tentang keamanan aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/tether-backed-crypto-exchange-freezes-withdrawals-after-7-million-leaves-custody",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/orionx-withdrawals-frozen.jpg",
-   "a": "kemarin",
+   "t": "SkyAI Hadapi Tantangan Dewan dari Forward Industries",
+   "x": "Perusahaan treasury Solana, SkyAI, menghadapi tantangan dari calon pengakuisisi Forward Industries dan kelompok pemegang saham. Rencana penerbitan saham baru SkyAI berpotensi menyebabkan dilusi kepemilikan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_3-1200x675.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T00:20:52"
+   "published_at": "2026-09-09T17:56:26"
   },
   {
-   "id": 2952,
+   "id": 3061,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Pengembangan DeFi tutup penawaran CHAD senilai $11 juta",
-   "x": "DeFi Development Corp berhasil menggalang dana $11 juta melalui penawaran saham preferen perpetual CHAD. Dana ini akan digunakan untuk memperbesar kas treasury Solana.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News-1200x675.jpg",
-   "a": "22 jam lalu",
+   "t": "Tether Paksa Kompon Scam Asia Tenggara ke Stablecoin Terdesentralisasi",
+   "x": "Tindakan keras Tether senilai $45 juta mendorong pelaku penipuan di Asia Tenggara beralih ke stablecoin terdesentralisasi yang sulit dibekukan. Hal ini menunjukkan tantangan dalam memberantas aktivitas ilegal di ekosistem kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/how-tethers-45-million-crackdown-drove-southeast-asian-scam-compounds-into-an-unfreezable-decentralized-stablecoin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xinbi-usdt-freeze-reroute.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T18:33:27"
+   "published_at": "2026-09-09T17:20:12"
+  },
+  {
+   "id": 3012,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Block Jack Dorsey ajukan izin bank untuk kustodian Bitcoin",
+   "x": "Perusahaan Block milik Jack Dorsey mengajukan izin charter bank di Amerika Serikat untuk mengkonsolidasikan layanan kustodian Bitcoin. Langkah ini akan menyatukan operasional yang saat ini tersebar di berbagai lisensi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T08:26:08"
   },
   {
    "id": 3018,
@@ -250,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/visa-makin-serius-di-stablecoin-kini-dorong-pembiayaan-lewat-blockchain",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T09:00:42"
@@ -284,18 +298,18 @@
    "published_at": "2026-09-08T07:18:32"
   },
   {
-   "id": 2912,
+   "id": 2952,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Penyelesaian stablecoin Visa capai rekor tahunan $20 miliar",
-   "x": "Volume penyelesaian stablecoin Visa melampaui tingkat tahunan $20 miliar, meningkat lebih dari 15 kali lipat dari tahun sebelumnya. Pertumbuhan ini sejalan dengan peningkatan volume pembayaran yang hampir 200%.",
+   "t": "Pengembangan DeFi tutup penawaran CHAD senilai $11 juta",
+   "x": "DeFi Development Corp berhasil menggalang dana $11 juta melalui penawaran saham preferen perpetual CHAD. Dana ini akan digunakan untuk memperbesar kas treasury Solana.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
-   "img": "https://www.tbstat.com/wp/uploads/2019/07/visa-office-1200x675.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News-1200x675.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T11:09:21"
+   "published_at": "2026-09-08T18:33:27"
   },
   {
    "id": 2921,
@@ -326,18 +340,18 @@
    "published_at": "2026-09-08T16:11:53"
   },
   {
-   "id": 3039,
+   "id": 2912,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Tether dan Fasanara luncurkan dana US$400 juta untuk kredit swasta berbasis stablecoin",
-   "x": "Tether dan Fasanara membentuk dana senilai US$400 juta untuk mendukung kredit swasta yang menggunakan stablecoin. Dana ini akan disalurkan melalui jaringan fintech Fasanara untuk investor institusi.",
+   "t": "Penyelesaian stablecoin Visa capai rekor tahunan $20 miliar",
+   "x": "Volume penyelesaian stablecoin Visa melampaui tingkat tahunan $20 miliar, meningkat lebih dari 15 kali lipat dari tahun sebelumnya. Pertumbuhan ini sejalan dengan peningkatan volume pembayaran yang hampir 200%.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News-1200x675.jpg",
-   "a": "2 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
+   "img": "https://www.tbstat.com/wp/uploads/2019/07/visa-office-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T13:53:28"
+   "published_at": "2026-09-08T11:09:21"
   },
   {
    "id": 2778,
@@ -362,24 +376,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
-   "a": "11 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T16:37:08"
   },
   {
-   "id": 3033,
+   "id": 3039,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bank AS Memindahkan US$ Nyata di Chain Publik, tapi dengan Kill Switch",
-   "x": "Stablecoin USBDC dari U.S. Bank memindahkan dolar nyata di Stellar, dan bank tetap memegang kekuatan untuk membekukan serta membalikkan transaksi tersebut.",
+   "t": "Tether dan Fasanara luncurkan dana US$400 juta untuk kredit swasta berbasis stablecoin",
+   "x": "Tether dan Fasanara membentuk dana senilai US$400 juta untuk mendukung kredit swasta yang menggunakan stablecoin. Dana ini akan disalurkan melalui jaringan fintech Fasanara untuk investor institusi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News-1200x675.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T13:53:28"
+  },
+  {
+   "id": 3063,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "US Treasury Buyback Obligasi US$6 Miliar: Kenapa Pasar Tidak Tertarik Hype-Nya",
+   "x": "Departemen Keuangan melipatgandakan buyback obligasinya menjadi USD6 miliar. Hasil obligasi tetap naik, dan emas serta Bitcoin melakukan sell the news.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bank-as-usbdc-stablecoin-stellar-pilot",
-   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
-   "a": "3 jam lalu",
+   "url": "https://id.beincrypto.com/pembelian-kembali-obligasi-treasury-6-miliar-pasar",
+   "img": "https://assets.beincrypto.com/img/QTI0FkC4B3WVrOgbuTGt7QOPZUs=/smart/197b2d76561b48a39329ef374e49da9e",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-09T12:54:36"
+   "published_at": "2026-09-09T17:12:00"
   },
   {
    "id": 2906,
@@ -396,6 +424,20 @@
    "published_at": "2026-09-08T10:07:10"
   },
   {
+   "id": 3033,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank AS Memindahkan US$ Nyata di Chain Publik, tapi dengan Kill Switch",
+   "x": "Stablecoin USBDC dari U.S. Bank memindahkan dolar nyata di Stellar, dan bank tetap memegang kekuatan untuk membekukan serta membalikkan transaksi tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bank-as-usbdc-stablecoin-stellar-pilot",
+   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-09T12:54:36"
+  },
+  {
    "id": 3007,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -404,10 +446,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T07:36:21"
+  },
+  {
+   "id": 3065,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Brazil Mendorong Tokenisasi Dengan Rencana Kredit US$2 Miliar",
+   "x": "Pada bulan Juli, Komisi Sekuritas dan Bursa Brasil (CVM) membentuk Kelompok Kerja Tokenisasi yang khusus untuk mempelajari pendaftaran, kustodian, perdagangan, dan penyelesaian sekuritas menggunakan distributed ledger…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/brazil-2-miliar-tokenized-credit-rwa-push",
+   "img": "https://assets.beincrypto.com/img/nAukiBsnPu_kQTOprz6Kn2zqcg4=/smart/c8a49c72f2fb44a18c498d00195a460e",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-09T15:24:52"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-08T11:22:07"
   },
   {
-   "id": 2802,
+   "id": 3053,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Fomo lampaui Pump.fun dalam pendapatan harian di Solana",
-   "x": "Fomo mencatat pendapatan harian lebih tinggi dari Pump.fun di jaringan Solana. Peristiwa ini menarik perhatian karena menyoroti persaingan di antara platform peluncuran memecoin.",
+   "t": "TRM Labs Naikkan Valuasi Jadi $2 Miliar",
+   "x": "Perusahaan intelijen blockchain TRM Labs menggandakan valuasi menjadi $2 miliar setelah putaran pendanaan Seri C. Pendapatan berulang tahunan mereka meningkat empat kali lipat seiring ekspansi bisnis investigasi berbasis AI.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-investment.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T07:45:39"
+   "published_at": "2026-09-09T17:30:06"
   },
   {
    "id": 3019,
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ipo-masuk-blockchain-cz-binance-sebut-transformasinya-sudah-dimulai",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T08:00:33"
@@ -60,6 +60,20 @@
    "published_at": "2026-09-07T05:51:07"
   },
   {
+   "id": 2802,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Fomo lampaui Pump.fun dalam pendapatan harian di Solana",
+   "x": "Fomo mencatat pendapatan harian lebih tinggi dari Pump.fun di jaringan Solana. Peristiwa ini menarik perhatian karena menyoroti persaingan di antara platform peluncuran memecoin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-07T07:45:39"
+  },
+  {
    "id": 3030,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/metamask-consensys-pemisahan-ipo-token",
    "img": "https://assets.beincrypto.com/img/NolNrSbSjrX83UW2zeC664XckQk=/smart/2465a0f2e5de42028637e2a702354e98",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T15:29:04"
