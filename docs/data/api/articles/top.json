@@ -1,31 +1,31 @@
 [
  {
-  "id": 2994,
-  "k": "nft",
-  "cat": "NFT & Gaming",
-  "t": "Kontak Gaming Berubah Jadi Sindikat Pencurian Kripto Senilai US$245 Juta, Pemimpin Akui Bersalah",
-  "x": "Malone Lam mengaku bersalah pada Selasa atas konspirasi pemerasan yang menyebabkan hilangnya lebih dari US$245 juta dalam bentuk aset kripto. Warga negara Singapura berusia 22 tahun ini memimpin sebuah kelompok yang…",
+  "id": 3062,
+  "k": "pasar",
+  "cat": "Pasar",
+  "t": "MicroStrategy Bilang Punya Satu Hal yang Tidak Dimiliki JPMorgan",
+  "x": "MicroStrategy mengatakan 91% neraca keuangannya adalah modal permanen, tidak seperti JPMorgan. Dokumen pengajuan menyampaikan lebih banyak lagi.",
   "w": "BeInCrypto Indonesia",
-  "url": "https://id.beincrypto.com/malone-lam-mengaku-bersalah-kripto-racketeering",
-  "img": "https://assets.beincrypto.com/img/cFuleg3oU2yTcVnfHy-tdY4hRys=/smart/c1e10b07b8b64f638676c51ab38b1a90",
-  "a": "22 jam lalu",
+  "url": "https://id.beincrypto.com/microstrategy-jpmorgan-permanent-capital-balance-sheet",
+  "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+  "a": "19 jam lalu",
   "r": "2 menit",
   "translated": false,
-  "published_at": "2026-09-09T10:35:31"
+  "published_at": "2026-09-09T18:58:09"
  },
  {
-  "id": 3002,
-  "k": "regulasi",
-  "cat": "Regulasi",
-  "t": "Nasib UU Kripto AS: Apa yang terjadi jika CLARITY Act gagal lolos 2026?",
-  "x": "Senat AS punya waktu terbatas untuk meloloskan UU struktur pasar kripto. Kegagalan bisa membuat RUU ini dirombak total atau dibatalkan oleh Demokrat pada 2027.",
+  "id": 3022,
+  "k": "bitcoin",
+  "cat": "Bitcoin",
+  "t": "Bitcoin gagal rebut kembali $80 ribu seiring yen menguat",
+  "x": "Bitcoin dan saham AS melemah akibat eskalasi di Timur Tengah. Pelemahan ini juga dipicu kekhawatiran unwind yen carry-trade yang dapat memengaruhi pasar.",
   "w": "Cointelegraph",
-  "url": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress",
-  "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR00172VH/hi-in-a-labyrinth-clarity-act-us.jpg",
+  "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar",
+  "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23FHFBTAY2SPS1GVVCH1XNK/hi-a-beginners-guide-on-central-bank-digital-currencies.jpg",
   "a": "21 jam lalu",
   "r": "2 menit",
   "translated": true,
-  "published_at": "2026-09-09T11:54:41"
+  "published_at": "2026-09-09T16:28:19"
  },
  {
   "id": 3034,
@@ -36,24 +36,10 @@
   "w": "The Block",
   "url": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News_2-1200x675.jpg",
-  "a": "17 jam lalu",
-  "r": "2 menit",
-  "translated": true,
-  "published_at": "2026-09-09T16:17:59"
- },
- {
-  "id": 3013,
-  "k": "bitcoin",
-  "cat": "Bitcoin",
-  "t": "Bitcoin bertahan dekat $78.500 saat yen Jepang menguat ancam aset berisiko global",
-  "x": "Aliran dana masuk ETF memberi dukungan jelang rapat BOJ 17-18 September. Penguatan berbasis futures membuat Bitcoin rentan jika permintaan melemah.",
-  "w": "CryptoSlate",
-  "url": "https://cryptoslate.com/bitcoin-holds-near-78500-as-a-surging-japanese-yen-threatens-global-risk-assets",
-  "img": "https://cryptoslate.com/wp-content/uploads/2026/09/yen-magnet-bitcoin-bridge.jpg",
   "a": "21 jam lalu",
   "r": "2 menit",
   "translated": true,
-  "published_at": "2026-09-09T11:40:41"
+  "published_at": "2026-09-09T16:17:59"
  },
  {
   "id": 3041,
@@ -64,9 +50,23 @@
   "w": "Decrypt",
   "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-  "a": "17 jam lalu",
+  "a": "21 jam lalu",
   "r": "2 menit",
   "translated": true,
   "published_at": "2026-09-09T16:16:04"
+ },
+ {
+  "id": 3100,
+  "k": "bitcoin",
+  "cat": "Bitcoin",
+  "t": "Osmosis bekukan 22,65 BTC akibat bug Nomic rusak cadangan Bitcoin",
+  "x": "Platform Osmosis membekukan aset Bitcoin senilai puluhan BTC menyusul adanya bug yang mengkompromikan cadangan. Insiden ini menyoroti risiko keamanan dalam interoperabilitas antar-blockchain.",
+  "w": "CryptoSlate",
+  "url": "https://cryptoslate.com/osmosis-freezes-22-65-btc-after-nomic-forwarding-bug-compromises-bitcoin-reserves",
+  "img": "https://cryptoslate.com/wp-content/uploads/2026/09/allbtc-nomic-double-spend-governance-collage.jpg",
+  "a": "5 jam lalu",
+  "r": "2 menit",
+  "translated": true,
+  "published_at": "2026-09-10T08:50:29"
  }
 ]
