@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,24 +40,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T18:47:32"
   },
   {
-   "id": 3044,
+   "id": 3158,
    "k": "web3",
    "cat": "Web3",
-   "t": "Consensys terpecah dua, MetaMask berjalan sendiri",
-   "x": "Consensys Software Inc. akan menjadi MetaMask, sementara entitas baru Consensys akan mengelola protokol Ethereum dan infrastruktur blockchain institusional. Pemisahan ini bertujuan untuk fokus pada pengembangan masing-masing unit bisnis.",
+   "t": "Coinbase Wallet berganti nama, kejar perdagangan 'apa saja, di mana saja' seiring Robinhood Chain memanas",
+   "x": "Perubahan nama kembali ke Coinbase Wallet mencerminkan strategi perdagangan yang lebih luas, dengan aplikasi penyimpanan mandiri menjadi ajang uji coba aset dan pengalaman baru. Ini menandakan ambisi Coinbase untuk memperluas jangkauan layanannya.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T15:07:24"
+   "published_at": "2026-09-10T18:51:04"
   },
   {
    "id": 3037,
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembobolan-penyedia-email-trezor-phishing",
    "img": "https://assets.beincrypto.com/img/SDpHUJNeY-2hzxyE3WOo_x-lY8c=/smart/e97b95b8ebaa452fa216f4b6c2d1e03b",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T21:11:06"
@@ -96,24 +96,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T05:34:21"
   },
   {
-   "id": 2983,
+   "id": 3044,
    "k": "web3",
    "cat": "Web3",
-   "t": "StoneX prediksi Robinhood naik 45% seiring peluncuran Layer 2 dan pasar prediksi",
-   "x": "StoneX melihat potensi kenaikan signifikan pada saham Robinhood, didorong oleh peluncuran Robinhood Chain dan bisnis pasar prediksinya. Inisiatif baru ini dipandang sebagai pendorong pertumbuhan utama bagi perusahaan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
+   "t": "Consensys terpecah dua, MetaMask berjalan sendiri",
+   "x": "Consensys Software Inc. akan menjadi MetaMask, sementara entitas baru Consensys akan mengelola protokol Ethereum dan infrastruktur blockchain institusional. Pemisahan ini bertujuan untuk fokus pada pengembangan masing-masing unit bisnis.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T02:18:25"
+   "published_at": "2026-09-09T15:07:24"
+  },
+  {
+   "id": 3157,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Coinbase ganti nama Base App kembali jadi Coinbase Wallet setelah setahun eksperimen sosial gagal",
+   "x": "Coinbase mengembalikan nama aplikasi dompet digitalnya menjadi Coinbase Wallet setelah upaya rebranding sebagai 'Base' kurang berhasil. Perubahan ini mengindikasikan penyesuaian strategi produk Coinbase di pasar aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+   "img": "https://www.tbstat.com/wp/uploads/2026/09/coinbase-wallet-1200x675.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T18:00:00"
   },
   {
    "id": 2890,
@@ -130,6 +144,20 @@
    "published_at": "2026-09-08T06:58:54"
   },
   {
+   "id": 2983,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "StoneX prediksi Robinhood naik 45% seiring peluncuran Layer 2 dan pasar prediksi",
+   "x": "StoneX melihat potensi kenaikan signifikan pada saham Robinhood, didorong oleh peluncuran Robinhood Chain dan bisnis pasar prediksinya. Inisiatif baru ini dipandang sebagai pendorong pertumbuhan utama bagi perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T02:18:25"
+  },
+  {
    "id": 3095,
    "k": "web3",
    "cat": "Web3",
@@ -138,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/xinbi-jaminan-telegram-penyitaan-kripto-beku",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T06:24:52"
