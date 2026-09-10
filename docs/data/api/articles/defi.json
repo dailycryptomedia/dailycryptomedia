@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dow-sp500-nasdaq-turun-yield-minyak",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T23:46:00"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T08:10:44"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-melacak-wallet-trader-crypto-yang-sering-cuan-di-dex",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-07T09:00:24"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-01-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:47:09"
@@ -116,18 +116,46 @@
    "published_at": "2026-09-07T15:30:40"
   },
   {
-   "id": 2791,
+   "id": 3027,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Harmony usulkan penghentian layer 1, migrasi ONE ke Ethereum",
-   "x": "Harmony mengusulkan penghentian blockchain layer 1-nya dan migrasi token ONE ke Ethereum. Langkah ini diambil setelah insiden peretasan yang menyebabkan pembatalan 109.000 transaksi.",
+   "t": "10 misteri aset kripto terbesar yang belum terpecahkan",
+   "x": "Artikel ini mengulas sepuluh misteri terbesar dalam dunia aset kripto yang masih belum terpecahkan. Kasus-kasus ini mencakup hilangnya tokoh penting hingga kematian misterius yang melibatkan pengembang DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X3TQW8VBS6ZBQQFGKK9XGD/hi-bancor-excludes-users-2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-07T05:00:49"
+   "published_at": "2026-09-09T13:30:00"
+  },
+  {
+   "id": 3103,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Trader Kripto Rugi Rp29 Miliar Akibat Kesalahan Swap di Solana",
+   "x": "Seorang trader mengalami kerugian besar akibat kesalahan saat melakukan swap aset kripto di jaringan Solana. Insiden ini menunjukkan tingginya risiko volatilitas dan potensi slippage pada pasar aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/apes-salah-swap-trader-crypto-ini-rugi-rp29-miliar-dalam-semenit",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T08:00:56"
+  },
+  {
+   "id": 3099,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tim meme coin Hunter Biden salahkan sniper bot, likuiditas tipis atas anjloknya harga",
+   "x": "Proyek meme coin yang terkait dengan Hunter Biden mengaitkan anjloknya harga 99% pada hari peluncuran dengan adanya sniper bot dan likuiditas yang tipis. Tim berencana menambah insentif dan melakukan pembakaran token untuk menstabilkan harga.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News_3-1200x675.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T05:28:17"
   },
   {
    "id": 2811,
@@ -138,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cozy-finance-exploit-optimism-peretasan-kedua",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-07T09:11:09"
@@ -158,18 +186,32 @@
    "published_at": "2026-09-07T23:10:48"
   },
   {
-   "id": 3027,
+   "id": 3025,
    "k": "defi",
    "cat": "DeFi",
-   "t": "10 misteri aset kripto terbesar yang belum terpecahkan",
-   "x": "Artikel ini mengulas sepuluh misteri terbesar dalam dunia aset kripto yang masih belum terpecahkan. Kasus-kasus ini mencakup hilangnya tokoh penting hingga kematian misterius yang melibatkan pengembang DeFi.",
+   "t": "Tether dan Fasanara luncurkan dana kredit swasta $400 juta",
+   "x": "Tether bekerja sama dengan Fasanara meluncurkan dana kredit swasta senilai $400 juta yang ditargetkan untuk mencapai $3 miliar. Dana ini akan mendukung pinjaman berbasis aset melalui platform fintech di lebih dari 60 negara.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
-   "a": "15 jam lalu",
+   "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK6XN00P8QY2D9WJ8JAAW/hi-crypto-negotiation-2.png",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T13:30:00"
+   "published_at": "2026-09-09T15:21:44"
+  },
+  {
+   "id": 3097,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Hunter Biden Bantah Klaim Penipuan Laptop setelah Meme Coin Crash 99%",
+   "x": "Hunter Biden menyalahkan sniper bot dan likuiditas tipis atas kejatuhan LAPTOP, serta membantah adanya insider yang membeli sebelum peluncuran.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/hunter-biden-laptop-crash-scam-denial",
+   "img": "https://assets.beincrypto.com/img/E4OYJwMTG0337j_MKbnQ7X6r15k=/smart/0c8536503dfa46909e2ab89ad0ff2291",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-10T05:38:43"
   },
   {
    "id": 2910,
@@ -186,20 +228,6 @@
    "published_at": "2026-09-08T10:40:21"
   },
   {
-   "id": 3025,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tether dan Fasanara luncurkan dana kredit swasta $400 juta",
-   "x": "Tether bekerja sama dengan Fasanara meluncurkan dana kredit swasta senilai $400 juta yang ditargetkan untuk mencapai $3 miliar. Dana ini akan mendukung pinjaman berbasis aset melalui platform fintech di lebih dari 60 negara.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK6XN00P8QY2D9WJ8JAAW/hi-crypto-negotiation-2.png",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T15:21:44"
-  },
-  {
    "id": 3047,
    "k": "defi",
    "cat": "DeFi",
@@ -208,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-institutional-staking-boom-is-growing-but-lidos-share-is-shrinking",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/lido-buyback-bridge-gap.jpg",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T16:05:54"
