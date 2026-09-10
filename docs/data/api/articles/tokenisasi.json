@@ -1,5 +1,5 @@
 {
- "total": 33,
+ "total": 40,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/obligasi-as-dekade-terburuk-bitcoin",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T14:06:07"
@@ -138,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
    "img": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_3-1200x675.jpg",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T17:56:26"
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/how-tethers-45-million-crackdown-drove-southeast-asian-scam-compounds-into-an-unfreezable-decentralized-stablecoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xinbi-usdt-freeze-reroute.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T17:20:12"
@@ -166,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T17:16:08"
@@ -236,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/treasurys-6-billion-bond-intervention-creates-a-stealth-test-for-bitcoins-next-move",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/treasury-bitcoin-market-pressure.jpg",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T05:30:29"
@@ -278,7 +278,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T16:11:53"
@@ -306,7 +306,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/paolo-ardoino-says-650-million-people-decentralized-us-debt-but-tether-still-controls-the-t-bills",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-treasury-vault.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T09:45:27"
@@ -326,32 +326,32 @@
    "published_at": "2026-09-08T11:45:24"
   },
   {
-   "id": 3021,
+   "id": 3138,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "U.S. Bank uji coba stablecoin untuk transaksi lintas batas Stellar",
-   "x": "Sebuah bank Amerika Serikat menguji coba stablecoin miliknya untuk transaksi lintas batas menggunakan blockchain Stellar. Inisiatif ini menunjukkan potensi penggunaan aset digital untuk memfasilitasi transfer dana antarnegara secara lebih efisien.",
+   "t": "Grup Keuangan Uni Eropa Desak Hapus Batas Tokenisasi Sekuritas",
+   "x": "Kelompok industri keuangan Eropa mendesak agar batasan aset yang dapat dimasukkan ke dalam infrastruktur DLT dihapus. Alternatifnya, mereka mengusulkan penetapan batas dasar 1,5 triliun euro.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
-   "a": "21 jam lalu",
+   "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YE6DKF8ZSF4J32E1GZPK8/regulations-eu-europe-bitcoin.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T16:37:08"
+   "published_at": "2026-09-10T15:49:22"
   },
   {
-   "id": 3039,
+   "id": 3146,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Tether dan Fasanara luncurkan dana US$400 juta untuk kredit swasta berbasis stablecoin",
-   "x": "Tether dan Fasanara membentuk dana senilai US$400 juta untuk mendukung kredit swasta yang menggunakan stablecoin. Dana ini akan disalurkan melalui jaringan fintech Fasanara untuk investor institusi.",
+   "t": "Coinbase dan Moov Integrasikan Infrastruktur Pembayaran Stablecoin ke Bank",
+   "x": "Coinbase dan Moov akan mengintegrasikan infrastruktur pembayaran stablecoin ke bank komunitas dan serikat kredit. Integrasi ini akan memanfaatkan API Pembayaran dan dompet kustodian Coinbase.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153",
+   "img": "https://www.tbstat.com/wp/uploads/2025/08/coinbase-1200x675.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T13:53:28"
+   "published_at": "2026-09-10T15:11:41"
   },
   {
    "id": 3063,
@@ -362,10 +362,52 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembelian-kembali-obligasi-treasury-6-miliar-pasar",
    "img": "https://assets.beincrypto.com/img/QTI0FkC4B3WVrOgbuTGt7QOPZUs=/smart/197b2d76561b48a39329ef374e49da9e",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T17:12:00"
+  },
+  {
+   "id": 3021,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "U.S. Bank uji coba stablecoin untuk transaksi lintas batas Stellar",
+   "x": "Sebuah bank Amerika Serikat menguji coba stablecoin miliknya untuk transaksi lintas batas menggunakan blockchain Stellar. Inisiatif ini menunjukkan potensi penggunaan aset digital untuk memfasilitasi transfer dana antarnegara secara lebih efisien.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T16:37:08"
+  },
+  {
+   "id": 3147,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Uniswap Luncurkan 'StablePair Hook' untuk Tingkatkan Nilai Perdagangan Stablecoin",
+   "x": "Uniswap Labs memperkenalkan StablePair Hook, sebuah alat di Uniswap v4. Fitur ini dirancang untuk membantu penyedia likuiditas menangkap lebih banyak nilai dari pasangan perdagangan stablecoin melalui biaya dinamis.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160",
+   "img": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Uniswap_V3-1200x675.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T15:00:00"
+  },
+  {
+   "id": 3142,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Emas dan Aset Kripto Turun setelah Inflasi AS yang Tinggi Mengguncang Pasar",
+   "x": "Laporan inflasi AS yang panas kembali muncul pada hari Kamis, 10 September, dan semua pasar keuangan pun terpukul, termasuk Emas, Bitcoin, dan S&P 500. Nampaknya bahkan aset safe-haven tradisional seperti emas juga…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/emas-bitcoin-turun-inflasi-as-panas",
+   "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-10T14:41:21"
   },
   {
    "id": 2906,
@@ -380,6 +422,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-08T10:07:10"
+  },
+  {
+   "id": 3039,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tether dan Fasanara luncurkan dana US$400 juta untuk kredit swasta berbasis stablecoin",
+   "x": "Tether dan Fasanara membentuk dana senilai US$400 juta untuk mendukung kredit swasta yang menggunakan stablecoin. Dana ini akan disalurkan melalui jaringan fintech Fasanara untuk investor institusi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T13:53:28"
   },
   {
    "id": 3033,
@@ -404,10 +460,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25AAYAYJTA7FVQK9H44A4NC/hi-who-is-scott-bessent-clarity-act.jpg",
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T10:20:00"
+  },
+  {
+   "id": 3148,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "MoneyGram luncurkan kartu Visa pertama yang didukung stablecoin di Kolombia",
+   "x": "MoneyGram kini menawarkan kartu Visa di Kolombia yang didukung oleh stablecoin. Inisiatif ini menandai langkah baru dalam integrasi aset digital dengan layanan pembayaran tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
+   "img": "https://www.tbstat.com/wp/uploads/2023/08/visa-1200x675.jpeg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T14:30:00"
   },
   {
    "id": 3065,
@@ -418,24 +488,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/brazil-2-miliar-tokenized-credit-rwa-push",
    "img": "https://assets.beincrypto.com/img/nAukiBsnPu_kQTOprz6Kn2zqcg4=/smart/c8a49c72f2fb44a18c498d00195a460e",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T15:24:52"
   },
   {
-   "id": 3116,
+   "id": 3137,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Nasdaq invest $100M di induk Kraken di valuasi $21B",
-   "x": "Nasdaq menginvestasikan $100 juta di Payward, perusahaan induk Kraken. Investasi ini merupakan bagian dari upaya Nasdaq untuk mengembangkan produk saham ter-tokenisasi yang diperdagangkan sepanjang waktu.",
+   "t": "MoneyGram Luncurkan Kartu Stablecoin Visa Seiring Ekspansi Pesaing",
+   "x": "MoneyGram mengikuti jejak pesaingnya dengan meluncurkan kartu debit Visa berbasis stablecoin. Langkah ini merupakan bagian dari ekspansi layanan pembayaran berbasis blockchain.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25GY9FFQYCM09EZBK4ZWEWH/hi-kraken-review-2025-your-new-go-to-crypto-exchange.jpg",
-   "a": "2 jam lalu",
+   "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YXEVJ4DH3H58PM7AA0KCM/hi-paystand-launches-stablecoin-for-enterprise-payments33331-960x640.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T11:41:00"
+   "published_at": "2026-09-10T15:59:37"
   },
   {
    "id": 3076,
@@ -446,10 +516,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/robinhood-tenev-bela-stock-token-amc",
    "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T22:32:14"
+  },
+  {
+   "id": 3116,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Nasdaq invest $100M di induk Kraken di valuasi $21B",
+   "x": "Nasdaq menginvestasikan $100 juta di Payward, perusahaan induk Kraken. Investasi ini merupakan bagian dari upaya Nasdaq untuk mengembangkan produk saham ter-tokenisasi yang diperdagangkan sepanjang waktu.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25GY9FFQYCM09EZBK4ZWEWH/hi-kraken-review-2025-your-new-go-to-crypto-exchange.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T11:41:00"
+  },
+  {
+   "id": 3139,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin turun saat data PPI AS meleset, imbal hasil obligasi 30 tahun capai rekor baru 19 tahun",
+   "x": "Bitcoin dan saham AS melemah akibat inflasi tinggi dan lonjakan harga minyak yang bersamaan dengan kenaikan imbal hasil obligasi AS. Kenaikan imbal hasil obligasi ini mengindikasikan kekhawatiran pasar terhadap inflasi yang terus berlanjut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T14:52:15"
   },
   {
    "id": 3007,

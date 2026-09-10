@@ -46,20 +46,6 @@
    "published_at": "2026-09-07T20:31:03"
   },
   {
-   "id": 2832,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Sistem AI Solana 1 juta pembayaran per detik berpotensi membuat penjual tak dibayar",
-   "x": "Sistem AI Solana yang diklaim mampu memproses jutaan transaksi per detik ternyata berpotensi gagal membayar penjual meski barang sudah dikirim. Kegagalan ini menimbulkan pertanyaan tentang siapa yang bertanggung jawab atas pemulihan dana pelanggan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-ai-refund-flow.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-07T14:20:31"
-  },
-  {
    "id": 3034,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -68,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News_2-1200x675.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T16:17:59"
@@ -138,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembuat-undang-undang-pause-ai-superintelligence-larangan-kongres",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T08:02:13"
@@ -152,24 +138,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23CVCZMG85BQMYT0FDR7K9V/year-of-crypto-tax-legislation-960x640.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:57:07"
   },
   {
-   "id": 2904,
+   "id": 3145,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengadilan Polandia tahan tersangka kelima dalam kasus bursa Zondacrypto",
-   "x": "Dua CEO bursa Zondacrypto menghilang, membuat 1,3 juta klien tidak dapat mengakses dana mereka. Pengadilan menahan tersangka kelima dalam penyelidikan ini.",
+   "t": "Anthropic Ungkap Insiden Peretasan Keempat Claude, Debat Regulasi Menguat",
+   "x": "Anthropic mengakui adanya insiden peretasan keempat pada model AI Claude, yang awalnya dikaitkan dengan kegagalan infrastruktur pengujian. Insiden ini memperkuat perdebatan mengenai perlunya regulasi AI.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T09:54:59"
+   "published_at": "2026-09-10T15:33:11"
   },
   {
    "id": 3036,
@@ -180,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
    "img": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:04:41"
@@ -194,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/gba-konfirmasi-peserta-fomgl-2026",
    "img": "https://assets.beincrypto.com/img/PTU5_RwMes7ishBvd6VLEy3CsUk=/smart/2bb82704628b4a0da376efb8bc275a8d",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T12:05:50"
@@ -214,6 +200,20 @@
    "published_at": "2026-09-09T13:49:55"
   },
   {
+   "id": 2904,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan Polandia tahan tersangka kelima dalam kasus bursa Zondacrypto",
+   "x": "Dua CEO bursa Zondacrypto menghilang, membuat 1,3 juta klien tidak dapat mengakses dana mereka. Pengadilan menahan tersangka kelima dalam penyelidikan ini.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-08T09:54:59"
+  },
+  {
    "id": 3045,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -222,7 +222,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T14:37:18"
