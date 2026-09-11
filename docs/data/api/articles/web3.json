@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T18:51:04"
@@ -88,18 +88,18 @@
    "published_at": "2026-09-09T21:11:06"
   },
   {
-   "id": 3173,
+   "id": 3175,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pemisahan MetaMask dan Consensys ungkap kesenjangan adopsi Ethereum",
-   "x": "Pemisahan bisnis dompet dan infrastruktur MetaMask serta Consensys menyoroti kompleksitas ekosistem Ethereum. Ini dapat memengaruhi persepsi investor terhadap adopsi dan permintaan ETH.",
+   "t": "Proyek XRP ini tutup setelah celah dompet bobol 4.000 akun dan curi $450.000",
+   "x": "Sebuah proyek XRP menghentikan operasionalnya karena kerentanan dompet yang menyebabkan kerugian $450.000 dari 4.000 akun. Insiden ini menyoroti pentingnya keamanan dalam ekosistem aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/metamask-and-consensys-split-exposes-the-gap-between-ethereum-adoption-and-eth-demand",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-wallet-infrastructure-split.jpg",
-   "a": "1 jam lalu",
+   "url": "https://cryptoslate.com/this-xrp-project-is-shutting-down-after-wallet-flaw-exposed-4000-accounts-and-drained-450000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrph-weak-key-exploit.jpg",
+   "a": "45 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T21:00:04"
+   "published_at": "2026-09-11T00:00:10"
   },
   {
    "id": 3092,
@@ -110,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T05:34:21"
@@ -138,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
    "img": "https://www.tbstat.com/wp/uploads/2026/09/coinbase-wallet-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T18:00:00"
@@ -156,6 +156,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-08T06:58:54"
+  },
+  {
+   "id": 3173,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pemisahan MetaMask dan Consensys ungkap kesenjangan adopsi Ethereum",
+   "x": "Pemisahan bisnis dompet dan infrastruktur MetaMask serta Consensys menyoroti kompleksitas ekosistem Ethereum. Ini dapat memengaruhi persepsi investor terhadap adopsi dan permintaan ETH.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/metamask-and-consensys-split-exposes-the-gap-between-ethereum-adoption-and-eth-demand",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-wallet-infrastructure-split.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T21:00:04"
   },
   {
    "id": 2983,
@@ -180,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/xinbi-jaminan-telegram-penyitaan-kripto-beku",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T06:24:52"
