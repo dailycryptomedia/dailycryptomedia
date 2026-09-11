@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T05:27:12"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T15:33:11"
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
    "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T19:42:06"
@@ -124,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembuat-undang-undang-pause-ai-superintelligence-larangan-kongres",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T08:02:13"
@@ -180,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/gba-konfirmasi-peserta-fomgl-2026",
    "img": "https://assets.beincrypto.com/img/PTU5_RwMes7ishBvd6VLEy3CsUk=/smart/2bb82704628b4a0da376efb8bc275a8d",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T12:05:50"
@@ -194,24 +194,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T20:10:29"
   },
   {
-   "id": 3036,
+   "id": 3186,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Grup industri kripto lawan pajak kontroversial Illinois di pengadilan",
-   "x": "Sejumlah perusahaan aset digital menggugat pajak kripto baru di Illinois. Langkah ini menunjukkan perlawanan industri terhadap regulasi yang dianggap memberatkan investor.",
+   "t": "Sam Bankman-Fried minta Mahkamah Agung batalkan vonis penipuan",
+   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan banding ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Ia mengklaim tidak diizinkan menyajikan bukti yang memberatkan tuduhan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
-   "img": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
+   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T15:04:41"
+   "published_at": "2026-09-11T04:20:15"
   },
   {
    "id": 3026,
@@ -226,6 +226,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T13:49:55"
+  },
+  {
+   "id": 3036,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Grup industri kripto lawan pajak kontroversial Illinois di pengadilan",
+   "x": "Sejumlah perusahaan aset digital menggugat pajak kripto baru di Illinois. Langkah ini menunjukkan perlawanan industri terhadap regulasi yang dianggap memberatkan investor.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+   "img": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T15:04:41"
   }
  ]
 }
