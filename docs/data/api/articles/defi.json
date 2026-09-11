@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T08:10:54"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2336QVGKKJ171MCKQFKPC2W/magazine-vlad-robinhood.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T13:30:00"
@@ -138,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
    "img": "https://www.tbstat.com/wp/uploads/2019/11/shutterstock_1286806993-1013x675.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T16:48:11"
@@ -158,18 +158,18 @@
    "published_at": "2026-09-10T12:07:56"
   },
   {
-   "id": 3213,
+   "id": 3269,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Bunga pinjaman Aave naik, ancam imbal hasil Ethena USDe jadi negatif",
-   "x": "Kenaikan suku bunga pinjaman di platform Aave berpotensi membuat skema imbal hasil Ethena USDe menjadi merugi. Perubahan kurva yang diusulkan dapat menambah biaya pinjaman secara signifikan.",
+   "t": "Aturan pemulihan bursa kripto bagi pemegang NES terbagi",
+   "x": "Binance Alpha menggunakan dua snapshot kelayakan untuk swap dan refund, sementara Kraken hanya mendukung NES berbasis Ethereum. Hal ini menciptakan perbedaan nasib bagi pemegang token setelah eksploitasi senilai $286 juta.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
-   "a": "11 jam lalu",
+   "url": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/nes-private-wallet-recovery.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T06:40:27"
+   "published_at": "2026-09-11T18:15:55"
   },
   {
    "id": 3027,
@@ -198,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T05:28:17"
+  },
+  {
+   "id": 3213,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bunga pinjaman Aave naik, ancam imbal hasil Ethena USDe jadi negatif",
+   "x": "Kenaikan suku bunga pinjaman di platform Aave berpotensi membuat skema imbal hasil Ethena USDe menjadi merugi. Perubahan kurva yang diusulkan dapat menambah biaya pinjaman secara signifikan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T06:40:27"
   },
   {
    "id": 3025,
@@ -236,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T06:08:26"

@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-acts-biggest-senate-vote-could-happen-before-the-bill-is-actually-finished",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-senate-debate-door.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T09:20:53"
@@ -110,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
    "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T19:42:06"
@@ -180,24 +180,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T12:06:24"
   },
   {
-   "id": 3164,
+   "id": 3263,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "ESMA peringatkan potensi risiko keuangan tradisional akibat kripto",
-   "x": "Regulator Uni Eropa mengidentifikasi tokenisasi aset, eksploitasi DeFi, dan pasar prediksi sebagai area risiko. Keterkaitan kripto yang meningkat dapat memperbesar ancaman bagi sistem keuangan secara luas.",
+   "t": "Regulasi jadi risiko terbesar Hyperliquid, kata Ran Neuner",
+   "x": "Pendiri Crypto Banter menilai efek jaringan Hyperliquid memberinya keunggulan kompetitif. Namun, ketidakpastian regulasi tetap menjadi ancaman terbesarnya.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
-   "a": "21 jam lalu",
+   "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28T3HE65MV02Y41NGX63EDN/wall-warning-hyperliquid.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T20:10:29"
+   "published_at": "2026-09-11T18:45:15"
   },
   {
    "id": 3186,
@@ -208,24 +208,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
    "img": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T04:20:15"
   },
   {
-   "id": 3200,
+   "id": 3164,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SBF minta Mahkamah Agung AS batalkan vonis dan penyitaan US$11 miliar",
-   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan permohonan ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Pengacaranya berargumen bahwa penyitaan tersebut berlebihan.",
+   "t": "ESMA peringatkan potensi risiko keuangan tradisional akibat kripto",
+   "x": "Regulator Uni Eropa mengidentifikasi tokenisasi aset, eksploitasi DeFi, dan pasar prediksi sebagai area risiko. Keterkaitan kripto yang meningkat dapat memperbesar ancaman bagi sistem keuangan secara luas.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
-   "a": "10 jam lalu",
+   "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T07:43:19"
+   "published_at": "2026-09-10T20:10:29"
   },
   {
    "id": 3036,
@@ -240,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:04:41"
+  },
+  {
+   "id": 3200,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SBF minta Mahkamah Agung AS batalkan vonis dan penyitaan US$11 miliar",
+   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan permohonan ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Pengacaranya berargumen bahwa penyitaan tersebut berlebihan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T07:43:19"
   },
   {
    "id": 3026,
