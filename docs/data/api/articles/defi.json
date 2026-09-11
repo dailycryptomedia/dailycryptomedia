@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,20 +60,6 @@
    "published_at": "2026-09-10T08:00:56"
   },
   {
-   "id": 2968,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pons dorong biaya Robinhood Chain ke rekor $6 juta harian seiring volume DEX berlipat ganda",
-   "x": "Token PONS mencapai valuasi rekor lebih dari $970 juta, melonjak lebih dari 200% dalam sepekan. Kenaikan ini terjadi bersamaan dengan lonjakan biaya transaksi di Robinhood Chain dan volume DEX.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
-   "img": "https://www.tbstat.com/wp/uploads/2025/06/onchain-blockchain-news-protocol-crosschain-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-08T22:26:02"
-  },
-  {
    "id": 3042,
    "k": "defi",
    "cat": "DeFi",
@@ -86,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-09T15:47:09"
+  },
+  {
+   "id": 3257,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Standard Chartered lihat token SKY naik lima kali lipat pada akhir 2028",
+   "x": "Standard Chartered memulai cakupan terhadap token SKY, menyebutnya sebagai 'bank federal DeFi', dan memproyeksikan kenaikan nilai hingga $0,325 pada akhir 2028. Ini menunjukkan pandangan positif terhadap potensi proyek DeFi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
+   "img": "https://www.tbstat.com/wp/uploads/2019/11/shutterstock_1286806993-1013x675.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T16:48:11"
   },
   {
    "id": 3097,
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T08:10:54"
@@ -124,24 +124,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2336QVGKKJ171MCKQFKPC2W/magazine-vlad-robinhood.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T13:30:00"
   },
   {
-   "id": 3257,
+   "id": 3099,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Standard Chartered lihat token SKY naik lima kali lipat pada akhir 2028",
-   "x": "Standard Chartered memulai cakupan terhadap token SKY, menyebutnya sebagai 'bank federal DeFi', dan memproyeksikan kenaikan nilai hingga $0,325 pada akhir 2028. Ini menunjukkan pandangan positif terhadap potensi proyek DeFi.",
+   "t": "Tim meme coin Hunter Biden salahkan sniper bot, likuiditas tipis atas anjloknya harga",
+   "x": "Proyek meme coin yang terkait dengan Hunter Biden mengaitkan anjloknya harga 99% pada hari peluncuran dengan adanya sniper bot dan likuiditas yang tipis. Tim berencana menambah insentif dan melakukan pembakaran token untuk menstabilkan harga.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
-   "img": "https://www.tbstat.com/wp/uploads/2019/11/shutterstock_1286806993-1013x675.jpg",
-   "a": "4 jam lalu",
+   "url": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News_3-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T16:48:11"
+   "published_at": "2026-09-10T05:28:17"
   },
   {
    "id": 3107,
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/nes-private-wallet-recovery.jpg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T18:15:55"
@@ -186,20 +186,6 @@
    "published_at": "2026-09-09T13:30:00"
   },
   {
-   "id": 3099,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tim meme coin Hunter Biden salahkan sniper bot, likuiditas tipis atas anjloknya harga",
-   "x": "Proyek meme coin yang terkait dengan Hunter Biden mengaitkan anjloknya harga 99% pada hari peluncuran dengan adanya sniper bot dan likuiditas yang tipis. Tim berencana menambah insentif dan melakukan pembakaran token untuk menstabilkan harga.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News_3-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T05:28:17"
-  },
-  {
    "id": 3213,
    "k": "defi",
    "cat": "DeFi",
@@ -208,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T06:40:27"
@@ -250,7 +236,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T06:08:26"
