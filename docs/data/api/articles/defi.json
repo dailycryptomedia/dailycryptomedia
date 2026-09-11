@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-09-08T12:35:47"
   },
   {
-   "id": 2894,
+   "id": 3136,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Cronos konfirmasi $9,2 juta hilang sebelum rollback eksploitasi Tectonic",
-   "x": "Cronos melaporkan lebih dari $9 juta aset kripto hilang sebelum eksploitasi Tectonic berhasil dihentikan. Insiden ini menyoroti risiko keamanan dalam protokol DeFi.",
+   "t": "Liquid Network Lanjutkan Produksi Blok Pasca Eksploitasi Senilai $320 Juta",
+   "x": "Jaringan Liquid telah melanjutkan produksi blok setelah menerapkan pembaruan darurat. Namun, transaksi dan operasi peg masih ditangguhkan sementara upaya pemulihan terus dilakukan pasca eksploitasi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-08T08:10:44"
+   "published_at": "2026-09-10T16:38:16"
   },
   {
    "id": 3103,
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/apes-salah-swap-trader-crypto-ini-rugi-rp29-miliar-dalam-semenit",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T08:00:56"
@@ -116,18 +116,18 @@
    "published_at": "2026-09-08T10:40:21"
   },
   {
-   "id": 3136,
+   "id": 3027,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Liquid Network Lanjutkan Produksi Blok Pasca Eksploitasi Senilai $320 Juta",
-   "x": "Jaringan Liquid telah melanjutkan produksi blok setelah menerapkan pembaruan darurat. Namun, transaksi dan operasi peg masih ditangguhkan sementara upaya pemulihan terus dilakukan pasca eksploitasi.",
+   "t": "10 misteri aset kripto terbesar yang belum terpecahkan",
+   "x": "Artikel ini mengulas sepuluh misteri terbesar dalam dunia aset kripto yang masih belum terpecahkan. Kasus-kasus ini mencakup hilangnya tokoh penting hingga kematian misterius yang melibatkan pengembang DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
-   "a": "12 jam lalu",
+   "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T16:38:16"
+   "published_at": "2026-09-09T13:30:00"
   },
   {
    "id": 3099,
@@ -152,7 +152,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hunter-biden-laptop-crash-scam-denial",
    "img": "https://assets.beincrypto.com/img/E4OYJwMTG0337j_MKbnQ7X6r15k=/smart/0c8536503dfa46909e2ab89ad0ff2291",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T05:38:43"
@@ -172,34 +172,6 @@
    "published_at": "2026-09-09T16:05:54"
   },
   {
-   "id": 3027,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "10 misteri aset kripto terbesar yang belum terpecahkan",
-   "x": "Artikel ini mengulas sepuluh misteri terbesar dalam dunia aset kripto yang masih belum terpecahkan. Kasus-kasus ini mencakup hilangnya tokoh penting hingga kematian misterius yang melibatkan pengembang DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T13:30:00"
-  },
-  {
-   "id": 3107,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Lima Bulan setelah Kelp Hack, Aave Masih Turun US$8 Miliar",
-   "x": "Aave berada $8 miliar di bawah setoran sebelum peretasan lima bulan setelah peretasan Kelp. Para peminjam bertanya-tanya apa yang gagal.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/aave-hilang-8-miliar-kelp-hack",
-   "img": "https://assets.beincrypto.com/img/MAkyCJBvoAQlNNgqmFnQ3D6T2pc=/smart/0e8ab9c1a24541fb958acda58a956a92",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-10T12:07:56"
-  },
-  {
    "id": 3025,
    "k": "defi",
    "cat": "DeFi",
@@ -214,6 +186,34 @@
    "published_at": "2026-09-09T15:21:44"
   },
   {
+   "id": 3107,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Lima Bulan setelah Kelp Hack, Aave Masih Turun US$8 Miliar",
+   "x": "Aave berada $8 miliar di bawah setoran sebelum peretasan lima bulan setelah peretasan Kelp. Para peminjam bertanya-tanya apa yang gagal.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/aave-hilang-8-miliar-kelp-hack",
+   "img": "https://assets.beincrypto.com/img/MAkyCJBvoAQlNNgqmFnQ3D6T2pc=/smart/0e8ab9c1a24541fb958acda58a956a92",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-10T12:07:56"
+  },
+  {
+   "id": 3212,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas manfaatkan peringatan kerentanan STM32 palsu untuk targetkan pemegang Trezor",
+   "x": "Peretas menyasar pengguna dompet kripto Trezor dan BitBox dengan menyebarkan email palsu tentang kerentanan keamanan. Pihak Trezor menyatakan dompet mereka aman, sementara BitBox masih menyelidiki.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T08:10:54"
+  },
+  {
    "id": 3118,
    "k": "defi",
    "cat": "DeFi",
@@ -222,10 +222,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BJ9JWGMFTGFS40DY5BEP8/bungee-jumping-laptop.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T10:08:46"
+  },
+  {
+   "id": 3213,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bunga pinjaman Aave naik, ancam imbal hasil Ethena USDe jadi negatif",
+   "x": "Kenaikan suku bunga pinjaman di platform Aave berpotensi membuat skema imbal hasil Ethena USDe menjadi merugi. Perubahan kurva yang diusulkan dapat menambah biaya pinjaman secara signifikan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T06:40:27"
+  },
+  {
+   "id": 3201,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Revisi UU CLARITY Targetkan Operator DeFi Non-Desentralisasi",
+   "x": "Rancangan Undang-Undang CLARITY yang direvisi kini menargetkan operator DeFi yang dianggap tidak terdesentralisasi. Perubahan ini mengindikasikan upaya regulator untuk meningkatkan pengawasan terhadap sektor keuangan terdesentralisasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T06:08:26"
   }
  ]
 }
