@@ -1,5 +1,5 @@
 {
- "total": 48,
+ "total": 51,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-09-10T19:48:20"
   },
   {
+   "id": 3314,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Kerentanan terbesar dompet Bitcoin Anda mungkin label pengiriman",
+   "x": "Pembelian dompet perangkat keras dapat membahayakan privasi identitas Anda karena data pribadi seperti nama dan alamat diperlukan untuk pengiriman. Ini menjadi perhatian bagi investor yang ingin mengamankan aset digital mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/wallet-shipping-paper-trail.jpg?ver=1789227102",
+   "a": "1 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-12T19:30:23"
+  },
+  {
    "id": 3309,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -26,24 +40,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg",
-   "a": "19 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T17:01:04"
-  },
-  {
-   "id": 3298,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Perangkap dilusi: kepemilikan Bitcoin naik, nilai pemegang saham stagnan",
-   "x": "Perusahaan yang menyimpan Bitcoin sebagai asetnya menghadapi tantangan dalam menjaga nilai saham. Keputusan manajemen terkait pembelian, penjualan, dan pembayaran utang memengaruhi valuasi saham, terlepas dari pergerakan harga Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-company-trunk.jpg_.jpg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-12T13:40:26"
   },
   {
    "id": 3217,
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
    "img": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T17:40:54"
@@ -96,10 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/profitabilitas-mining-bitcoin-zcash-grayscale",
    "img": "https://assets.beincrypto.com/img/9UIbz08vyTEuFWG0477vbz6ZCo4=/smart/4da7a809b4e14f518ebff2f32942b323",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T00:42:40"
+  },
+  {
+   "id": 3298,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Perangkap dilusi: kepemilikan Bitcoin naik, nilai pemegang saham stagnan",
+   "x": "Perusahaan yang menyimpan Bitcoin sebagai asetnya menghadapi tantangan dalam menjaga nilai saham. Keputusan manajemen terkait pembelian, penjualan, dan pembayaran utang memengaruhi valuasi saham, terlepas dari pergerakan harga Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-company-trunk.jpg_.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-12T13:40:26"
   },
   {
    "id": 3159,
@@ -110,24 +124,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T18:46:04"
-  },
-  {
-   "id": 3100,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Osmosis bekukan 22,65 BTC akibat bug Nomic rusak cadangan Bitcoin",
-   "x": "Platform Osmosis membekukan aset Bitcoin senilai puluhan BTC menyusul adanya bug yang mengkompromikan cadangan. Insiden ini menyoroti risiko keamanan dalam interoperabilitas antar-blockchain.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/osmosis-freezes-22-65-btc-after-nomic-forwarding-bug-compromises-bitcoin-reserves",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/allbtc-nomic-double-spend-governance-collage.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T08:50:29"
+   "published_at": "2026-09-10T18:46:04"
   },
   {
    "id": 3262,
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC45/hi-layoffs-might-be-a-sign-of-the-market-maturing.png",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T19:46:24"
@@ -152,24 +152,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/saat-bitcoin-etf-lain-berdarah-morgan-stanley-malah-terus-tambah-btc",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T01:30:15"
   },
   {
-   "id": 3237,
+   "id": 3313,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "'Kembalikan bitcoin': Blockstream tolak tuntutan tebusan eksploitasi Liquid",
-   "x": "Blockstream menolak tuntutan tebusan untuk mengembalikan 600 BTC yang dicuri dari eksploitasi Liquid. Perusahaan terus berupaya memulihkan dana yang hilang.",
+   "t": "Revolut: data KYC dan transaksi Bitcoin pelanggan bocor setelah permintaan palsu",
+   "x": "Revolut mengonfirmasi kebocoran data KYC dan transaksi Bitcoin akibat permintaan palsu dari domain pemerintah. Insiden ini diduga menargetkan pengguna bernilai tinggi, menimbulkan kekhawatiran keamanan bagi investor kripto.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247",
-   "img": "https://www.tbstat.com/wp/uploads/2019/05/Blockstream-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
+   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
+   "a": "35 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T11:21:17"
+   "published_at": "2026-09-12T18:57:08"
   },
   {
    "id": 3166,
@@ -186,6 +186,20 @@
    "published_at": "2026-09-10T20:50:39"
   },
   {
+   "id": 3100,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Osmosis bekukan 22,65 BTC akibat bug Nomic rusak cadangan Bitcoin",
+   "x": "Platform Osmosis membekukan aset Bitcoin senilai puluhan BTC menyusul adanya bug yang mengkompromikan cadangan. Insiden ini menyoroti risiko keamanan dalam interoperabilitas antar-blockchain.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/osmosis-freezes-22-65-btc-after-nomic-forwarding-bug-compromises-bitcoin-reserves",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/allbtc-nomic-double-spend-governance-collage.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T08:50:29"
+  },
+  {
    "id": 3264,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -194,24 +208,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T20:53:39"
-  },
-  {
-   "id": 3241,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kripto tak pernah tutup, tapi Bitcoin, Ethereum, XRP, Solana kini bergerak sesuai waktu Wall Street",
-   "x": "Perubahan waktu musim panas dan libur bursa AS kini mengaitkan pergerakan aset kripto utama dengan sesi perdagangan saham AS. Hal ini dapat memengaruhi volatilitas dan pola perdagangan aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T13:50:46"
   },
   {
    "id": 3198,
@@ -228,18 +228,18 @@
    "published_at": "2026-09-11T08:43:19"
   },
   {
-   "id": 3125,
+   "id": 3237,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "CEO Coinbase: Bitcoin sudah mencapai titik terendah siklus ini",
-   "x": "CEO Coinbase Brian Armstrong memprediksi Bitcoin akan menguat dalam dua tahun ke depan. Ia menilai siklus harga Bitcoin saat ini kemungkinan telah mencapai titik terendah.",
+   "t": "'Kembalikan bitcoin': Blockstream tolak tuntutan tebusan eksploitasi Liquid",
+   "x": "Blockstream menolak tuntutan tebusan untuk mengembalikan 600 BTC yang dicuri dari eksploitasi Liquid. Perusahaan terus berupaya memulihkan dana yang hilang.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
-   "img": "https://www.tbstat.com/wp/uploads/2023/04/20230414_Brianarmstrong_Generic-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247",
+   "img": "https://www.tbstat.com/wp/uploads/2019/05/Blockstream-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T10:31:54"
+   "published_at": "2026-09-11T11:21:17"
   },
   {
    "id": 3064,
@@ -256,6 +256,20 @@
    "published_at": "2026-09-09T17:02:44"
   },
   {
+   "id": 3241,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Kripto tak pernah tutup, tapi Bitcoin, Ethereum, XRP, Solana kini bergerak sesuai waktu Wall Street",
+   "x": "Perubahan waktu musim panas dan libur bursa AS kini mengaitkan pergerakan aset kripto utama dengan sesi perdagangan saham AS. Hal ini dapat memengaruhi volatilitas dan pola perdagangan aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T13:50:46"
+  },
+  {
    "id": 3233,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -268,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T14:17:38"
-  },
-  {
-   "id": 3267,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Fed: Trader Bitcoin ikuti sinyal whale lebih cepat dari pengguna Ethereum",
-   "x": "Studi Philadelphia Fed menemukan aktivitas serupa pada dompet BTC non-whale, sementara respons ETH terkonsentrasi pada penjual besar. Temuan ini menunjukkan perbedaan perilaku pasar antara kedua aset kripto tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T20:10:09"
   },
   {
    "id": 3222,
@@ -298,6 +298,20 @@
    "published_at": "2026-09-11T10:53:55"
   },
   {
+   "id": 3125,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Coinbase: Bitcoin sudah mencapai titik terendah siklus ini",
+   "x": "CEO Coinbase Brian Armstrong memprediksi Bitcoin akan menguat dalam dua tahun ke depan. Ia menilai siklus harga Bitcoin saat ini kemungkinan telah mencapai titik terendah.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
+   "img": "https://www.tbstat.com/wp/uploads/2023/04/20230414_Brianarmstrong_Generic-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T10:31:54"
+  },
+  {
    "id": 3183,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -312,6 +326,20 @@
    "published_at": "2026-09-11T01:41:46"
   },
   {
+   "id": 3267,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Fed: Trader Bitcoin ikuti sinyal whale lebih cepat dari pengguna Ethereum",
+   "x": "Studi Philadelphia Fed menemukan aktivitas serupa pada dompet BTC non-whale, sementara respons ETH terkonsentrasi pada penjual besar. Temuan ini menunjukkan perbedaan perilaku pasar antara kedua aset kripto tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T20:10:09"
+  },
+  {
    "id": 3208,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -324,20 +352,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T10:10:41"
-  },
-  {
-   "id": 3060,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "4.100 Bitcoin Curian dan Gaya Hidup Mewah",
-   "x": "Jaksa mengungkap bagaimana kelompok mencuri dan mencuci lebih dari $245 juta aset kripto. Dana hasil kejahatan ini digunakan untuk pesta, jet pribadi, dan mobil mewah.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/malone-lam-luxury-loot.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T18:30:07"
   },
   {
    "id": 3219,
@@ -368,6 +382,20 @@
    "published_at": "2026-09-11T06:28:11"
   },
   {
+   "id": 3060,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "4.100 Bitcoin Curian dan Gaya Hidup Mewah",
+   "x": "Jaksa mengungkap bagaimana kelompok mencuri dan mencuci lebih dari $245 juta aset kripto. Dana hasil kejahatan ini digunakan untuk pesta, jet pribadi, dan mobil mewah.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/malone-lam-luxury-loot.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T18:30:07"
+  },
+  {
    "id": 3255,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -380,20 +408,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T15:32:08"
-  },
-  {
-   "id": 3084,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Tekanan jual Bitcoin capai level terendah dalam sebulan",
-   "x": "Investor jangka panjang melambat dalam mengambil untung, mengurangi tekanan jual Bitcoin. Indikator Glassnode menunjukkan penurunan signifikan dalam metrik penjualan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-sell-pressure-reaches-one-month-low-as-long-term-holders-slow-down-profit-taking",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-potential-supply-exit.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T03:50:11"
   },
   {
    "id": 3120,
@@ -418,10 +432,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/revolut-pelanggaran-data-permintaan-pemerintah-palsu",
    "img": "https://assets.beincrypto.com/img/c4_-MkDCSD-5A6mZG7s1uZwnmcM=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T09:20:43"
+  },
+  {
+   "id": 3084,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Tekanan jual Bitcoin capai level terendah dalam sebulan",
+   "x": "Investor jangka panjang melambat dalam mengambil untung, mengurangi tekanan jual Bitcoin. Indikator Glassnode menunjukkan penurunan signifikan dalam metrik penjualan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-sell-pressure-reaches-one-month-low-as-long-term-holders-slow-down-profit-taking",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-potential-supply-exit.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T03:50:11"
   },
   {
    "id": 3077,
@@ -438,20 +466,6 @@
    "published_at": "2026-09-09T23:02:23"
   },
   {
-   "id": 3242,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kedaluwarsa opsi Bitcoin $2,24 miliar Jumat sempat beri sinyal pembalikan lalu turun lagi ke $76k",
-   "x": "Harga Bitcoin sempat naik setelah penyelesaian opsi Deribit, namun kembali turun di bawah level awal. Peristiwa ini menyoroti volatilitas pasar yang dipengaruhi oleh kedaluwarsa opsi bernilai miliaran dolar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-pendulum.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T13:15:57"
-  },
-  {
    "id": 3075,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -464,6 +478,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T22:40:32"
+  },
+  {
+   "id": 3315,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tahan penguatan awal saat pedagang perkirakan kenaikan suku bunga September",
+   "x": "Inflasi inti bulanan yang lebih cepat dari perkiraan memicu kekhawatiran tentang kenaikan suku bunga The Fed. Bitcoin menunjukkan ketahanan meskipun ada sentimen hawkish dari pasar keuangan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-fed-pressure.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-12T18:20:06"
   },
   {
    "id": 3171,
@@ -480,20 +508,6 @@
    "published_at": "2026-09-10T20:34:50"
   },
   {
-   "id": 3188,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Mining Bitcoin sumbang 90% pendapatan harian HIVE meski ekspansi AI",
-   "x": "Meskipun HIVE berekspansi ke bidang kecerdasan buatan, mayoritas pendapatannya masih berasal dari aktivitas penambangan Bitcoin. Hal ini menunjukkan dominasi penambangan aset kripto dalam model bisnis perusahaan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-mining-supplies-90-of-hives-1-million-daily-revenue-despite-ongoing-ai-expansion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hive-bitcoin-ai-engine.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T03:50:27"
-  },
-  {
    "id": 3111,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -506,6 +520,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T09:57:46"
+  },
+  {
+   "id": 3242,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Kedaluwarsa opsi Bitcoin $2,24 miliar Jumat sempat beri sinyal pembalikan lalu turun lagi ke $76k",
+   "x": "Harga Bitcoin sempat naik setelah penyelesaian opsi Deribit, namun kembali turun di bawah level awal. Peristiwa ini menyoroti volatilitas pasar yang dipengaruhi oleh kedaluwarsa opsi bernilai miliaran dolar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-pendulum.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T13:15:57"
   },
   {
    "id": 3234,
@@ -522,20 +550,6 @@
    "published_at": "2026-09-11T12:10:23"
   },
   {
-   "id": 3307,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Revolut tertipu serahkan paspor dan riwayat Bitcoin nasabah ke peretas",
-   "x": "Revolut membocorkan data pribadi dan riwayat transaksi Bitcoin nasabah setelah menganggap permintaan informasi palsu dari pemerintah sebagai permintaan yang sah. Kebocoran ini mencakup salinan paspor, foto verifikasi, dan detail pribadi lainnya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bitcoin-data-breach-1.jpg",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-12T15:30:34"
-  },
-  {
    "id": 3231,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -550,18 +564,18 @@
    "published_at": "2026-09-11T10:21:53"
   },
   {
-   "id": 3273,
+   "id": 3188,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "CEO Coinbase prediksi Bitcoin capai $400.000 setelah tembus $81.000",
-   "x": "CEO Coinbase memproyeksikan kenaikan harga Bitcoin signifikan menjelang halving berikutnya. Prediksi ini menyoroti potensi apresiasi aset kripto utama di tengah antisipasi pasar.",
+   "t": "Mining Bitcoin sumbang 90% pendapatan harian HIVE meski ekspansi AI",
+   "x": "Meskipun HIVE berekspansi ke bidang kecerdasan buatan, mayoritas pendapatannya masih berasal dari aktivitas penambangan Bitcoin. Hal ini menunjukkan dominasi penambangan aset kripto dalam model bisnis perusahaan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-81k-breakout-climb.jpg",
-   "a": "20 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-mining-supplies-90-of-hives-1-million-daily-revenue-despite-ongoing-ai-expansion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hive-bitcoin-ai-engine.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T21:20:06"
+   "published_at": "2026-09-11T03:50:27"
   },
   {
    "id": 3229,
@@ -578,18 +592,18 @@
    "published_at": "2026-09-11T12:09:13"
   },
   {
-   "id": 3260,
+   "id": 3307,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Inflasi naik, tekan harapan uang murah dan beri dilema pedagang Bitcoin",
-   "x": "Kenaikan harga konsumen AS pada Agustus memperkuat kekhawatiran The Fed untuk menurunkan suku bunga. Hal ini menciptakan tantangan bagi investor Bitcoin karena biaya pinjaman yang mahal berpotensi berlanjut.",
+   "t": "Revolut tertipu serahkan paspor dan riwayat Bitcoin nasabah ke peretas",
+   "x": "Revolut membocorkan data pribadi dan riwayat transaksi Bitcoin nasabah setelah menganggap permintaan informasi palsu dari pemerintah sebagai permintaan yang sah. Kebocoran ini mencakup salinan paspor, foto verifikasi, dan detail pribadi lainnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cpi-and-ppi-just-sent-bitcoin-investors-a-warning-about-rates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-guillotine-rate-pressure.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bitcoin-data-breach-1.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T16:00:02"
+   "published_at": "2026-09-12T15:30:34"
   },
   {
    "id": 3207,
@@ -606,18 +620,18 @@
    "published_at": "2026-09-11T04:57:18"
   },
   {
-   "id": 3189,
+   "id": 3273,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin uji support krusial US$76.000 di tengah guncangan energi makro",
-   "x": "Harga Bitcoin turun di bawah US$77.000 seiring kenaikan harga minyak dan pelemahan pasar obligasi global. Investor mengamati level support kunci di tengah kekhawatiran kenaikan suku bunga The Fed.",
+   "t": "CEO Coinbase prediksi Bitcoin capai $400.000 setelah tembus $81.000",
+   "x": "CEO Coinbase memproyeksikan kenaikan harga Bitcoin signifikan menjelang halving berikutnya. Prediksi ini menyoroti potensi apresiasi aset kripto utama di tengah antisipasi pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-tests-critical-76000-support-cluster-during-macro-energy-shock",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidation-collapse.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-81k-breakout-climb.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T02:40:34"
+   "published_at": "2026-09-11T21:20:06"
   },
   {
    "id": 3184,
@@ -632,6 +646,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-11T01:25:46"
+  },
+  {
+   "id": 3260,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Inflasi naik, tekan harapan uang murah dan beri dilema pedagang Bitcoin",
+   "x": "Kenaikan harga konsumen AS pada Agustus memperkuat kekhawatiran The Fed untuk menurunkan suku bunga. Hal ini menciptakan tantangan bagi investor Bitcoin karena biaya pinjaman yang mahal berpotensi berlanjut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cpi-and-ppi-just-sent-bitcoin-investors-a-warning-about-rates",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-guillotine-rate-pressure.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T16:00:02"
+  },
+  {
+   "id": 3189,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin uji support krusial US$76.000 di tengah guncangan energi makro",
+   "x": "Harga Bitcoin turun di bawah US$77.000 seiring kenaikan harga minyak dan pelemahan pasar obligasi global. Investor mengamati level support kunci di tengah kekhawatiran kenaikan suku bunga The Fed.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-tests-critical-76000-support-cluster-during-macro-energy-shock",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidation-collapse.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T02:40:34"
   },
   {
    "id": 3244,
@@ -656,7 +698,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T07:20:37"
