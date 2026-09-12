@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembobolan-penyedia-email-trezor-phishing",
    "img": "https://assets.beincrypto.com/img/SDpHUJNeY-2hzxyE3WOo_x-lY8c=/smart/e97b95b8ebaa452fa216f4b6c2d1e03b",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T21:11:06"
@@ -32,20 +32,6 @@
    "published_at": "2026-09-11T00:00:10"
   },
   {
-   "id": 3052,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Consensys Pecah Jadi MetaMask dan Perusahaan Blockchain Institusional",
-   "x": "Consensys melakukan restrukturisasi untuk memisahkan bisnis konsumen MetaMask dari protokol Ethereum dan infrastruktur institusional. Langkah ini menandai evolusi strategi perusahaan di ruang aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T18:47:32"
-  },
-  {
    "id": 3158,
    "k": "web3",
    "cat": "Web3",
@@ -58,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T18:51:04"
+  },
+  {
+   "id": 3092,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Trezor dan BitBox peringatkan pengguna soal notifikasi palsu dompet keras",
+   "x": "Produsen dompet keras kripto, Trezor dan BitBox, mengeluarkan peringatan kepada pengguna mengenai adanya notifikasi keamanan palsu. Pelanggaran keamanan pada penyedia layanan email ini dapat membahayakan aset digital pengguna.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-10T05:34:21"
   },
   {
    "id": 3196,
@@ -110,24 +110,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/metamask-and-consensys-split-exposes-the-gap-between-ethereum-adoption-and-eth-demand",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-wallet-infrastructure-split.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T21:00:04"
-  },
-  {
-   "id": 3092,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Trezor dan BitBox peringatkan pengguna soal notifikasi palsu dompet keras",
-   "x": "Produsen dompet keras kripto, Trezor dan BitBox, mengeluarkan peringatan kepada pengguna mengenai adanya notifikasi keamanan palsu. Pelanggaran keamanan pada penyedia layanan email ini dapat membahayakan aset digital pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T05:34:21"
+   "published_at": "2026-09-10T21:00:04"
   },
   {
    "id": 3179,
