@@ -1,22 +1,8 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 3067,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Trezor Laporkan Insiden Keamanan Lagi: Apa yang Perlu Diketahui Pengguna",
-   "x": "Trezor mengonfirmasi terjadi pelanggaran pada penyedia email pihak ketiga yang mengirimkan peringatan keamanan STM32 palsu kepada pengguna wallet.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pembobolan-penyedia-email-trezor-phishing",
-   "img": "https://assets.beincrypto.com/img/SDpHUJNeY-2hzxyE3WOo_x-lY8c=/smart/e97b95b8ebaa452fa216f4b6c2d1e03b",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-09T21:11:06"
-  },
   {
    "id": 3175,
    "k": "web3",
@@ -44,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T18:51:04"
+  },
+  {
+   "id": 3095,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "DOJ Sita US$52 Juta Aset Kripto yang Terkait dengan Marketplace Penipuan Xinbi di Cina",
+   "x": "Pemerintah AS menahan sekitar US$52 juta aset kripto yang terkait penipuan dalam satu hari dan menyita channel Telegram Xinbi Guarantee, sebuah marketplace ilegal berbahasa Mandarin. Elliptic menyebut pelacakan wallet…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/xinbi-jaminan-telegram-penyitaan-kripto-beku",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-10T06:24:52"
   },
   {
    "id": 3092,
@@ -86,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T18:00:00"
-  },
-  {
-   "id": 3095,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "DOJ Sita US$52 Juta Aset Kripto yang Terkait dengan Marketplace Penipuan Xinbi di Cina",
-   "x": "Pemerintah AS menahan sekitar US$52 juta aset kripto yang terkait penipuan dalam satu hari dan menyita channel Telegram Xinbi Guarantee, sebuah marketplace ilegal berbahasa Mandarin. Elliptic menyebut pelacakan wallet…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/xinbi-jaminan-telegram-penyitaan-kripto-beku",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-10T06:24:52"
   },
   {
    "id": 3173,
