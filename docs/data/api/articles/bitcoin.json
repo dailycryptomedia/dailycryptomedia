@@ -1,5 +1,5 @@
 {
- "total": 52,
+ "total": 48,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,32 +18,18 @@
    "published_at": "2026-09-10T19:48:20"
   },
   {
-   "id": 3022,
+   "id": 3309,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin gagal rebut kembali $80 ribu seiring yen menguat",
-   "x": "Bitcoin dan saham AS melemah akibat eskalasi di Timur Tengah. Pelemahan ini juga dipicu kekhawatiran unwind yen carry-trade yang dapat memengaruhi pasar.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23FHFBTAY2SPS1GVVCH1XNK/hi-a-beginners-guide-on-central-bank-digital-currencies.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T16:28:19"
-  },
-  {
-   "id": 3041,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Musisi Meksiko dan keluarga tewas diduga karena dompet dingin Bitcoin",
-   "x": "Jaksa Meksiko menduga tersangka menargetkan musisi dan keluarganya untuk mencari dompet dingin Bitcoin yang diperkirakan berisi jutaan dolar. Kasus ini menyoroti risiko keamanan aset kripto di dunia nyata.",
+   "t": "Revolut bocorkan paspor dan riwayat transaksi Bitcoin ke permintaan palsu pemerintah",
+   "x": "Perusahaan fintech ini menyerahkan data pengguna, termasuk paspor dan riwayat transaksi kripto, setelah merespons permintaan informasi palsu yang dikirim dari domain email pemerintah. Insiden ini menyoroti risiko kebocoran data pribadi dan finansial pengguna.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg",
+   "a": "19 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T16:16:04"
+   "published_at": "2026-09-12T17:01:04"
   },
   {
    "id": 3298,
@@ -54,10 +40,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-company-trunk.jpg_.jpg",
-   "a": "36 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T13:40:26"
+  },
+  {
+   "id": 3217,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Metaplanet kurangi 41% stok saham Seri 10, rencanakan anak usaha Hong Kong",
+   "x": "Metaplanet akan mengurangi jumlah saham yang beredar dan mendirikan anak usaha di Hong Kong untuk berdagang Bitcoin dan produk keuangan lainnya. Langkah ini merupakan bagian dari strategi perusahaan untuk ekspansi bisnis.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T13:44:27"
   },
   {
    "id": 3086,
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
    "img": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T17:40:54"
@@ -96,24 +96,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/profitabilitas-mining-bitcoin-zcash-grayscale",
    "img": "https://assets.beincrypto.com/img/9UIbz08vyTEuFWG0477vbz6ZCo4=/smart/4da7a809b4e14f518ebff2f32942b323",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T00:42:40"
-  },
-  {
-   "id": 3217,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Metaplanet kurangi 41% stok saham Seri 10, rencanakan anak usaha Hong Kong",
-   "x": "Metaplanet akan mengurangi jumlah saham yang beredar dan mendirikan anak usaha di Hong Kong untuk berdagang Bitcoin dan produk keuangan lainnya. Langkah ini merupakan bagian dari strategi perusahaan untuk ekspansi bisnis.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T13:44:27"
   },
   {
    "id": 3159,
@@ -144,6 +130,20 @@
    "published_at": "2026-09-10T08:50:29"
   },
   {
+   "id": 3262,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Suisse pindahkan separuh pekerjaan Swiss ke luar negeri",
+   "x": "Perusahaan layanan keuangan kripto Swiss ini berencana memindahkan fungsi back-office ke pusat internasional berbiaya lebih rendah. Langkah ini seiring ekspansi bisnis manajemen aset dan kekayaan global mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC45/hi-layoffs-might-be-a-sign-of-the-market-maturing.png",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T19:46:24"
+  },
+  {
    "id": 3285,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/saat-bitcoin-etf-lain-berdarah-morgan-stanley-malah-terus-tambah-btc",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T01:30:15"
@@ -186,32 +186,18 @@
    "published_at": "2026-09-10T20:50:39"
   },
   {
-   "id": 3262,
+   "id": 3264,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Suisse pindahkan separuh pekerjaan Swiss ke luar negeri",
-   "x": "Perusahaan layanan keuangan kripto Swiss ini berencana memindahkan fungsi back-office ke pusat internasional berbiaya lebih rendah. Langkah ini seiring ekspansi bisnis manajemen aset dan kekayaan global mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC45/hi-layoffs-might-be-a-sign-of-the-market-maturing.png",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T19:46:24"
-  },
-  {
-   "id": 3040,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Saat pengembang Bitcoin berdebat, IonQ luncurkan komputer kuantum",
-   "x": "Perusahaan IonQ meluncurkan komputer kuantum Superion 256 yang diklaim lebih canggih. Perkembangan ini terjadi di tengah perdebatan pengembang Bitcoin mengenai arah pengembangan selanjutnya.",
+   "t": "Golden Cross Bitcoin batal karena taruhan kenaikan suku bunga menguat",
+   "x": "Perubahan cepat di pasar suku bunga memengaruhi prospek jangka pendek grafik Bitcoin. Hal ini terjadi karena ekspektasi kenaikan suku bunga oleh bank sentral.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T16:46:05"
+   "published_at": "2026-09-11T20:53:39"
   },
   {
    "id": 3241,
@@ -226,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T13:50:46"
+  },
+  {
+   "id": 3198,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Blockstream tolak tebusan, peretas Liquid tahan hampir 600 BTC",
+   "x": "Peretas Liquid dilaporkan menahan hampir 600 Bitcoin dan meminta tebusan. Blockstream menolak membayar dan akan bekerja sama dengan penegak hukum untuk pemulihan aset.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27QFNQHXK4AQ23CPKY39BZF/hi-can-bitcoin-be-hacked-3.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T08:43:19"
   },
   {
    "id": 3125,
@@ -250,38 +250,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-golden-cross-dampak-harga-september-2026",
    "img": "https://assets.beincrypto.com/img/xc3RSKsbq-FGuWUtb6aNIkchpCk=/smart/80e8088378f6456c8cbdcaae05cc1426",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-09T17:02:44"
   },
   {
-   "id": 3198,
+   "id": 3233,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Blockstream tolak tebusan, peretas Liquid tahan hampir 600 BTC",
-   "x": "Peretas Liquid dilaporkan menahan hampir 600 Bitcoin dan meminta tebusan. Blockstream menolak membayar dan akan bekerja sama dengan penegak hukum untuk pemulihan aset.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27QFNQHXK4AQ23CPKY39BZF/hi-can-bitcoin-be-hacked-3.jpg",
+   "t": "Blockstream tolak tebusan $47 juta Bitcoin dari peretasan Liquid: 'Itu pencurian'",
+   "x": "Blockstream menolak membayar tebusan untuk 598,5 Bitcoin yang dicuri dari peretasan Liquid, menyebut tindakan tersebut sebagai pencurian. Perusahaan akan menempuh jalur hukum jika dana tidak dikembalikan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T08:43:19"
-  },
-  {
-   "id": 3264,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Golden Cross Bitcoin batal karena taruhan kenaikan suku bunga menguat",
-   "x": "Perubahan cepat di pasar suku bunga memengaruhi prospek jangka pendek grafik Bitcoin. Hal ini terjadi karena ekspektasi kenaikan suku bunga oleh bank sentral.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T20:53:39"
+   "published_at": "2026-09-11T14:17:38"
   },
   {
    "id": 3267,
@@ -292,24 +278,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T20:10:09"
-  },
-  {
-   "id": 3183,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Analis Bitcoin Menunjuk Alasan Tidak Nyaman Minat Belum Kembali ke Aset Kripto",
-   "x": "Analis Benjamin Cowen mengatakan reputasi scam dan meme coin pada aset kripto, bukan siklusnya, yang mungkin menjelaskan minat sosial yang lemah.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/reputasi-scam-crypto-cowen-minat",
-   "img": "https://assets.beincrypto.com/img/LxnO2fiinjRnRpl3-OKZB9mG3Cg=/smart/624adfe4f31a49c8aa15195a0f1c4b16",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-11T01:41:46"
   },
   {
    "id": 3222,
@@ -326,60 +298,18 @@
    "published_at": "2026-09-11T10:53:55"
   },
   {
-   "id": 3233,
+   "id": 3183,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Blockstream tolak tebusan $47 juta Bitcoin dari peretasan Liquid: 'Itu pencurian'",
-   "x": "Blockstream menolak membayar tebusan untuk 598,5 Bitcoin yang dicuri dari peretasan Liquid, menyebut tindakan tersebut sebagai pencurian. Perusahaan akan menempuh jalur hukum jika dana tidak dikembalikan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T14:17:38"
-  },
-  {
-   "id": 3060,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "4.100 Bitcoin Curian dan Gaya Hidup Mewah",
-   "x": "Jaksa mengungkap bagaimana kelompok mencuri dan mencuci lebih dari $245 juta aset kripto. Dana hasil kejahatan ini digunakan untuk pesta, jet pribadi, dan mobil mewah.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/malone-lam-luxury-loot.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T18:30:07"
-  },
-  {
-   "id": 3204,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Investor ETF Bitcoin Keluar, Sementara Dana XRP Raih 3 Kemenangan",
-   "x": "Exchange-traded fund (ETF) Bitcoin (BTC) mencatat arus keluar sebesar US$282,6 juta pada 10 September, menandai sesi arus keluar ketiga berturut-turut. Dana XRP (XRP) justru menerima dana untuk hari ketiga…",
+   "t": "Analis Bitcoin Menunjuk Alasan Tidak Nyaman Minat Belum Kembali ke Aset Kripto",
+   "x": "Analis Benjamin Cowen mengatakan reputasi scam dan meme coin pada aset kripto, bukan siklusnya, yang mungkin menjelaskan minat sosial yang lemah.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-etf-outflows-xrp-inflow-streak",
-   "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
+   "url": "https://id.beincrypto.com/reputasi-scam-crypto-cowen-minat",
+   "img": "https://assets.beincrypto.com/img/LxnO2fiinjRnRpl3-OKZB9mG3Cg=/smart/624adfe4f31a49c8aa15195a0f1c4b16",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-11T06:28:11"
-  },
-  {
-   "id": 3219,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Arus keluar ETF Bitcoin meningkat, investor tarik $449 juta dalam tiga hari",
-   "x": "Investor menarik dana besar dari ETF Bitcoin dalam tiga hari terakhir. Penarikan ini terjadi bersamaan dengan dana Ether dan Solana yang juga mengalami arus keluar bersih.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T12:33:38"
+   "published_at": "2026-09-11T01:41:46"
   },
   {
    "id": 3208,
@@ -396,6 +326,62 @@
    "published_at": "2026-09-11T10:10:41"
   },
   {
+   "id": 3060,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "4.100 Bitcoin Curian dan Gaya Hidup Mewah",
+   "x": "Jaksa mengungkap bagaimana kelompok mencuri dan mencuci lebih dari $245 juta aset kripto. Dana hasil kejahatan ini digunakan untuk pesta, jet pribadi, dan mobil mewah.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/malone-lam-luxury-loot.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-09T18:30:07"
+  },
+  {
+   "id": 3219,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Arus keluar ETF Bitcoin meningkat, investor tarik $449 juta dalam tiga hari",
+   "x": "Investor menarik dana besar dari ETF Bitcoin dalam tiga hari terakhir. Penarikan ini terjadi bersamaan dengan dana Ether dan Solana yang juga mengalami arus keluar bersih.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T12:33:38"
+  },
+  {
+   "id": 3204,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Investor ETF Bitcoin Keluar, Sementara Dana XRP Raih 3 Kemenangan",
+   "x": "Exchange-traded fund (ETF) Bitcoin (BTC) mencatat arus keluar sebesar US$282,6 juta pada 10 September, menandai sesi arus keluar ketiga berturut-turut. Dana XRP (XRP) justru menerima dana untuk hari ketiga…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-etf-outflows-xrp-inflow-streak",
+   "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-11T06:28:11"
+  },
+  {
+   "id": 3255,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin menguat seiring pasar mencerna data inflasi jelang keputusan The Fed",
+   "x": "Inflasi AS tertahan di 3,4% dengan inflasi inti melunak, namun kenaikan bulanan yang tinggi menjaga probabilitas kenaikan suku bunga The Fed tetap tinggi. Pasar aset kripto secara umum menunjukkan penguatan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T15:32:08"
+  },
+  {
    "id": 3084,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -408,20 +394,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T03:50:11"
-  },
-  {
-   "id": 3287,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Revolut Konfirmasi Kirim Data Paspor dan Catatan Bitcoin ke Email Pemerintah Palsu",
-   "x": "Revolut mengonfirmasi bahwa email pemerintah palsu telah mengambil data pelanggan, termasuk paspor dan catatan Bitcoin.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/revolut-pelanggaran-data-permintaan-pemerintah-palsu",
-   "img": "https://assets.beincrypto.com/img/c4_-MkDCSD-5A6mZG7s1uZwnmcM=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-12T09:20:43"
   },
   {
    "id": 3120,
@@ -438,18 +410,32 @@
    "published_at": "2026-09-10T09:36:42"
   },
   {
-   "id": 3255,
+   "id": 3287,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin menguat seiring pasar mencerna data inflasi jelang keputusan The Fed",
-   "x": "Inflasi AS tertahan di 3,4% dengan inflasi inti melunak, namun kenaikan bulanan yang tinggi menjaga probabilitas kenaikan suku bunga The Fed tetap tinggi. Pasar aset kripto secara umum menunjukkan penguatan.",
+   "t": "Revolut Konfirmasi Kirim Data Paspor dan Catatan Bitcoin ke Email Pemerintah Palsu",
+   "x": "Revolut mengonfirmasi bahwa email pemerintah palsu telah mengambil data pelanggan, termasuk paspor dan catatan Bitcoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/revolut-pelanggaran-data-permintaan-pemerintah-palsu",
+   "img": "https://assets.beincrypto.com/img/c4_-MkDCSD-5A6mZG7s1uZwnmcM=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-12T09:20:43"
+  },
+  {
+   "id": 3077,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pembuat dompet Bitcoin Trezor alami peretasan email",
+   "x": "Penyedia email Trezor diretas, memungkinkan penyerang mengirim peringatan keamanan palsu. Peringatan tersebut mengklaim adanya cacat perangkat keras yang bisa membahayakan frasa pemulihan pengguna.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-   "a": "22 jam lalu",
+   "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T15:32:08"
+   "published_at": "2026-09-09T23:02:23"
   },
   {
    "id": 3242,
@@ -480,48 +466,6 @@
    "published_at": "2026-09-09T22:40:32"
   },
   {
-   "id": 3077,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pembuat dompet Bitcoin Trezor alami peretasan email",
-   "x": "Penyedia email Trezor diretas, memungkinkan penyerang mengirim peringatan keamanan palsu. Peringatan tersebut mengklaim adanya cacat perangkat keras yang bisa membahayakan frasa pemulihan pengguna.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T23:02:23"
-  },
-  {
-   "id": 3048,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Produsen penambang Bitcoin Canaan jual aset kripto untuk beli kembali saham",
-   "x": "Produsen penambang Bitcoin Canaan melaporkan kerugian $97 juta dan menjual aset kripto untuk mendanai pembelian kembali saham. Ini menunjukkan tekanan finansial yang dihadapi perusahaan di industri penambangan kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miner-manufacturer-canaan-sells-crypto-to-buy-back-shares-after-97-6-million-quarterly-loss",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/canaan-crypto-cashflow-strain.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T15:10:28"
-  },
-  {
-   "id": 3111,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Mengapa Bitcoin Tidak Bisa Bertahan di US$80.000 saat Penjual Sudah Menyerah?",
-   "x": "Bitcoin (BTC) diperdagangkan di kisaran US$78.257 setelah turun kembali di bawah US$80.000, sebuah level yang menurut analis harus ditembus sebelum likuiditas bisa kembali. Data on-chain menunjukkan tekanan jual sudah…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/rebound-bitcoin-permintaan-spot-tekanan-jual",
-   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-10T09:57:46"
-  },
-  {
    "id": 3171,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -550,18 +494,18 @@
    "published_at": "2026-09-11T03:50:27"
   },
   {
-   "id": 3231,
+   "id": 3111,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Eric Crown Berhenti dari Altcoin Sepenuhnya, Sebut 99,9% Tidak Bernilai Apa-Apa",
-   "x": "Eric Crown mengatakan hampir semua altcoin tidak bernilai apa-apa. Dia tidak memegang satu pun dan menyaring sisanya terhadap pasangan Bitcoin.",
+   "t": "Mengapa Bitcoin Tidak Bisa Bertahan di US$80.000 saat Penjual Sudah Menyerah?",
+   "x": "Bitcoin (BTC) diperdagangkan di kisaran US$78.257 setelah turun kembali di bawah US$80.000, sebuah level yang menurut analis harus ditembus sebelum likuiditas bisa kembali. Data on-chain menunjukkan tekanan jual sudah…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/eric-crown-berhenti-altcoin-bitcoin-saja",
-   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/rebound-bitcoin-permintaan-spot-tekanan-jual",
+   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-11T10:21:53"
+   "published_at": "2026-09-10T09:57:46"
   },
   {
    "id": 3234,
@@ -578,6 +522,34 @@
    "published_at": "2026-09-11T12:10:23"
   },
   {
+   "id": 3307,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Revolut tertipu serahkan paspor dan riwayat Bitcoin nasabah ke peretas",
+   "x": "Revolut membocorkan data pribadi dan riwayat transaksi Bitcoin nasabah setelah menganggap permintaan informasi palsu dari pemerintah sebagai permintaan yang sah. Kebocoran ini mencakup salinan paspor, foto verifikasi, dan detail pribadi lainnya.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bitcoin-data-breach-1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-12T15:30:34"
+  },
+  {
+   "id": 3231,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Eric Crown Berhenti dari Altcoin Sepenuhnya, Sebut 99,9% Tidak Bernilai Apa-Apa",
+   "x": "Eric Crown mengatakan hampir semua altcoin tidak bernilai apa-apa. Dia tidak memegang satu pun dan menyaring sisanya terhadap pasangan Bitcoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/eric-crown-berhenti-altcoin-bitcoin-saja",
+   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-11T10:21:53"
+  },
+  {
    "id": 3273,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -586,7 +558,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-81k-breakout-climb.jpg",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T21:20:06"
@@ -614,7 +586,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cpi-and-ppi-just-sent-bitcoin-investors-a-warning-about-rates",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-guillotine-rate-pressure.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T16:00:02"
@@ -634,18 +606,18 @@
    "published_at": "2026-09-11T04:57:18"
   },
   {
-   "id": 3050,
+   "id": 3189,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pinjam dana dengan jaminan Bitcoin tanpa menjualnya, tapi ada syaratnya",
-   "x": "Pemegang Bitcoin kini bisa meminjam dana dengan menjaminkan aset digital mereka tanpa perlu menjualnya. Namun, pinjaman ini mungkin berada di jaringan yang berbeda dari Bitcoin itu sendiri, menimbulkan kerumitan tambahan.",
+   "t": "Bitcoin uji support krusial US$76.000 di tengah guncangan energi makro",
+   "x": "Harga Bitcoin turun di bawah US$77.000 seiring kenaikan harga minyak dan pelemahan pasar obligasi global. Investor mengamati level support kunci di tengah kekhawatiran kenaikan suku bunga The Fed.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/you-can-borrow-against-bitcoin-without-selling-it-but-theres-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-collateral-market-access.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-tests-critical-76000-support-cluster-during-macro-energy-shock",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidation-collapse.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T14:05:25"
+   "published_at": "2026-09-11T02:40:34"
   },
   {
    "id": 3184,
@@ -660,20 +632,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-11T01:25:46"
-  },
-  {
-   "id": 3189,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin uji support krusial US$76.000 di tengah guncangan energi makro",
-   "x": "Harga Bitcoin turun di bawah US$77.000 seiring kenaikan harga minyak dan pelemahan pasar obligasi global. Investor mengamati level support kunci di tengah kekhawatiran kenaikan suku bunga The Fed.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-tests-critical-76000-support-cluster-during-macro-energy-shock",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidation-collapse.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T02:40:34"
   },
   {
    "id": 3244,
@@ -698,24 +656,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T07:20:37"
-  },
-  {
-   "id": 3051,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Hampir seperlima kekuatan mining Bitcoin mati, bisa picu jebakan margin",
-   "x": "Hampir seperlima total kekuatan penambangan Bitcoin saat ini tidak beroperasi karena berbagai alasan. Mengaktifkan kembali kapasitas yang idle ini dikhawatirkan dapat memicu jebakan margin yang signifikan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/nearly-a-fifth-of-all-bitcoin-mining-power-is-sitting-completely-dark-and-turning-it-back-on-could-trigger-a-brutal-margin-trap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reward-cable-split.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T12:50:57"
   },
   {
    "id": 3245,

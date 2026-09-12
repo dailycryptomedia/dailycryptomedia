@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,18 +74,18 @@
    "published_at": "2026-09-11T02:00:50"
   },
   {
-   "id": 3037,
+   "id": 3157,
    "k": "web3",
    "cat": "Web3",
-   "t": "Consensys pisahkan MetaMask dari bisnis infrastruktur Ethereum",
-   "x": "MetaMask akan dipisah dari unit bisnis institusional dan infrastruktur Consensys pada akhir 2026. Pemisahan ini bertujuan untuk fokus pada pengembangan dompet kripto bagi pengguna ritel.",
+   "t": "Coinbase ganti nama Base App kembali jadi Coinbase Wallet setelah setahun eksperimen sosial gagal",
+   "x": "Coinbase mengembalikan nama aplikasi dompet digitalnya menjadi Coinbase Wallet setelah upaya rebranding sebagai 'Base' kurang berhasil. Perubahan ini mengindikasikan penyesuaian strategi produk Coinbase di pasar aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
-   "img": "https://www.tbstat.com/wp/uploads/2025/08/20250819_MetaMask_News-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+   "img": "https://www.tbstat.com/wp/uploads/2026/09/coinbase-wallet-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-09T14:54:15"
+   "published_at": "2026-09-10T18:00:00"
   },
   {
    "id": 3095,
@@ -130,34 +130,6 @@
    "published_at": "2026-09-10T05:34:21"
   },
   {
-   "id": 3044,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Consensys terpecah dua, MetaMask berjalan sendiri",
-   "x": "Consensys Software Inc. akan menjadi MetaMask, sementara entitas baru Consensys akan mengelola protokol Ethereum dan infrastruktur blockchain institusional. Pemisahan ini bertujuan untuk fokus pada pengembangan masing-masing unit bisnis.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T15:07:24"
-  },
-  {
-   "id": 3157,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Coinbase ganti nama Base App kembali jadi Coinbase Wallet setelah setahun eksperimen sosial gagal",
-   "x": "Coinbase mengembalikan nama aplikasi dompet digitalnya menjadi Coinbase Wallet setelah upaya rebranding sebagai 'Base' kurang berhasil. Perubahan ini mengindikasikan penyesuaian strategi produk Coinbase di pasar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
-   "img": "https://www.tbstat.com/wp/uploads/2026/09/coinbase-wallet-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T18:00:00"
-  },
-  {
    "id": 3179,
    "k": "web3",
    "cat": "Web3",
@@ -180,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-circle-is-spending-400m-to-fix-the-last-mile-holding-stablecoins-back-from-real-world-payouts",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tazapay-local-payout-key.jpg",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T19:05:03"

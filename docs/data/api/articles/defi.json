@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-09-09T23:46:00"
   },
   {
-   "id": 3047,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Staking institusional Ethereum tumbuh, porsi Lido menyusut",
-   "x": "Pertumbuhan staking institusional Ethereum terus meningkat, namun pangsa pasar Lido menurun. Hal ini mengindikasikan pergeseran dalam ekosistem staking aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-institutional-staking-boom-is-growing-but-lidos-share-is-shrinking",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/lido-buyback-bridge-gap.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T16:05:54"
-  },
-  {
    "id": 3136,
    "k": "defi",
    "cat": "DeFi",
@@ -40,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T16:38:16"
+  },
+  {
+   "id": 3306,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Lonjakan XRP 30% bulanan hadapi uji likuiditas $4,6 juta di tengah lonjakan stablecoin XRPL $1,1 miliar",
+   "x": "Volume DEX bulanan di XRP Ledger melonjak dua kali lipat, namun rute XRP dan waktu penahanan market-maker masih belum terukur. Perkembangan ini terjadi di tengah pertumbuhan ekosistem stablecoin di XRPL.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrps-30-monthly-rebound-meets-a-4-6-million-liquidity-trial-inside-xrpls-1-1-billion-stablecoin-boom",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-liquidity-bridge-test.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-12T16:15:05"
   },
   {
    "id": 3103,
@@ -60,20 +60,6 @@
    "published_at": "2026-09-10T08:00:56"
   },
   {
-   "id": 3042,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Meme coin LAPTOP Hunter Biden anjlok 99% saat debut",
-   "x": "Token meme LAPTOP yang terinspirasi dari laptop Hunter Biden mengalami penurunan nilai 99% tak lama setelah diluncurkan. Likuiditas yang tipis menjadi penyebab utama anjloknya harga aset digital ini.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/hunter-biden-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T15:47:09"
-  },
-  {
    "id": 3257,
    "k": "defi",
    "cat": "DeFi",
@@ -82,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
    "img": "https://www.tbstat.com/wp/uploads/2019/11/shutterstock_1286806993-1013x675.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T16:48:11"
@@ -102,20 +88,6 @@
    "published_at": "2026-09-10T05:38:43"
   },
   {
-   "id": 3212,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas manfaatkan peringatan kerentanan STM32 palsu untuk targetkan pemegang Trezor",
-   "x": "Peretas menyasar pengguna dompet kripto Trezor dan BitBox dengan menyebarkan email palsu tentang kerentanan keamanan. Pihak Trezor menyatakan dompet mereka aman, sementara BitBox masih menyelidiki.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T08:10:54"
-  },
-  {
    "id": 3218,
    "k": "defi",
    "cat": "DeFi",
@@ -130,6 +102,20 @@
    "published_at": "2026-09-11T13:30:00"
   },
   {
+   "id": 3212,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas manfaatkan peringatan kerentanan STM32 palsu untuk targetkan pemegang Trezor",
+   "x": "Peretas menyasar pengguna dompet kripto Trezor dan BitBox dengan menyebarkan email palsu tentang kerentanan keamanan. Pihak Trezor menyatakan dompet mereka aman, sementara BitBox masih menyelidiki.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T08:10:54"
+  },
+  {
    "id": 3293,
    "k": "defi",
    "cat": "DeFi",
@@ -138,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pons-terancam-ambruk-80-persen-bisa-turun-ke-us01",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T07:45:12"
@@ -172,62 +158,6 @@
    "published_at": "2026-09-10T12:07:56"
   },
   {
-   "id": 3269,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aturan pemulihan bursa kripto bagi pemegang NES terbagi",
-   "x": "Binance Alpha menggunakan dua snapshot kelayakan untuk swap dan refund, sementara Kraken hanya mendukung NES berbasis Ethereum. Hal ini menciptakan perbedaan nasib bagi pemegang token setelah eksploitasi senilai $286 juta.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/nes-private-wallet-recovery.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T18:15:55"
-  },
-  {
-   "id": 3027,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "10 misteri aset kripto terbesar yang belum terpecahkan",
-   "x": "Artikel ini mengulas sepuluh misteri terbesar dalam dunia aset kripto yang masih belum terpecahkan. Kasus-kasus ini mencakup hilangnya tokoh penting hingga kematian misterius yang melibatkan pengembang DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T13:30:00"
-  },
-  {
-   "id": 3213,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bunga pinjaman Aave naik, ancam imbal hasil Ethena USDe jadi negatif",
-   "x": "Kenaikan suku bunga pinjaman di platform Aave berpotensi membuat skema imbal hasil Ethena USDe menjadi merugi. Perubahan kurva yang diusulkan dapat menambah biaya pinjaman secara signifikan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T06:40:27"
-  },
-  {
-   "id": 3025,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tether dan Fasanara luncurkan dana kredit swasta $400 juta",
-   "x": "Tether bekerja sama dengan Fasanara meluncurkan dana kredit swasta senilai $400 juta yang ditargetkan untuk mencapai $3 miliar. Dana ini akan mendukung pinjaman berbasis aset melalui platform fintech di lebih dari 60 negara.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK6XN00P8QY2D9WJ8JAAW/hi-crypto-negotiation-2.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T15:21:44"
-  },
-  {
    "id": 3118,
    "k": "defi",
    "cat": "DeFi",
@@ -242,6 +172,20 @@
    "published_at": "2026-09-10T10:08:46"
   },
   {
+   "id": 3308,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "XRP Ledger aktifkan fondasi penting untuk protokol pinjaman baru",
+   "x": "Pembaruan terbaru pada XRP Ledger memperbaiki berbagai jalur kode terkait AMM, vault, pinjaman, dan pseudo-account. Langkah ini mempersiapkan infrastruktur penting untuk peluncuran fitur protokol pinjaman yang akan datang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-ledger-just-quietly-activated-critical-foundation-for-its-upcoming-new-lending-protocol",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-stitched-ledger.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-12T14:40:43"
+  },
+  {
    "id": 3201,
    "k": "defi",
    "cat": "DeFi",
@@ -254,6 +198,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T06:08:26"
+  },
+  {
+   "id": 3269,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Aturan pemulihan bursa kripto bagi pemegang NES terbagi",
+   "x": "Binance Alpha menggunakan dua snapshot kelayakan untuk swap dan refund, sementara Kraken hanya mendukung NES berbasis Ethereum. Hal ini menciptakan perbedaan nasib bagi pemegang token setelah eksploitasi senilai $286 juta.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/nes-private-wallet-recovery.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T18:15:55"
+  },
+  {
+   "id": 3213,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bunga pinjaman Aave naik, ancam imbal hasil Ethena USDe jadi negatif",
+   "x": "Kenaikan suku bunga pinjaman di platform Aave berpotensi membuat skema imbal hasil Ethena USDe menjadi merugi. Perubahan kurva yang diusulkan dapat menambah biaya pinjaman secara signifikan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T06:40:27"
   }
  ]
 }
