@@ -1,5 +1,5 @@
 {
- "total": 48,
+ "total": 50,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/wallet-shipping-paper-trail.jpg?ver=1789227102",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T19:30:23"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T17:01:04"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T21:39:49"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uk-company-sells-entire-bitcoin-reserve-to-return-669-btc-to-shareholders-here-is-who-actually-gets-paid",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/satsuma-shareholder-path.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T12:50:18"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T18:46:04"
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
    "img": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T17:40:54"
@@ -222,7 +222,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
    "img": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T18:57:08"
@@ -236,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-engineer-otak-crypto-trader",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T20:00:00"
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/panduan-bitcoin-microstrategy-peringatan-crash",
    "img": "https://assets.beincrypto.com/img/EngM6eUBExUoSl78NAse9ofY3Ls=/smart/c426996c5a2047b9932e545bc9d62cab",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-13T10:15:01"
@@ -376,7 +376,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-lightning-patch.jpg",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T15:55:14"
@@ -410,18 +410,18 @@
    "published_at": "2026-09-11T06:28:11"
   },
   {
-   "id": 3315,
+   "id": 3353,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tahan penguatan awal saat pedagang perkirakan kenaikan suku bunga September",
-   "x": "Inflasi inti bulanan yang lebih cepat dari perkiraan memicu kekhawatiran tentang kenaikan suku bunga The Fed. Bitcoin menunjukkan ketahanan meskipun ada sentimen hawkish dari pasar keuangan.",
+   "t": "Bot jahat incar server pembayaran Bitcoin yang terekspos",
+   "x": "Bot berbahaya sedang memindai server pembayaran Bitcoin yang memiliki celah keamanan untuk mencuri kunci administratif. Risiko ini terbatas pada API yang terekspos secara manual dan telah diperbaiki pada versi terbaru.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-fed-pressure.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/btcpay-node-swarm.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-12T18:20:06"
+   "published_at": "2026-09-13T18:30:17"
   },
   {
    "id": 3171,
@@ -452,18 +452,18 @@
    "published_at": "2026-09-12T09:20:43"
   },
   {
-   "id": 3242,
+   "id": 3315,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kedaluwarsa opsi Bitcoin $2,24 miliar Jumat sempat beri sinyal pembalikan lalu turun lagi ke $76k",
-   "x": "Harga Bitcoin sempat naik setelah penyelesaian opsi Deribit, namun kembali turun di bawah level awal. Peristiwa ini menyoroti volatilitas pasar yang dipengaruhi oleh kedaluwarsa opsi bernilai miliaran dolar.",
+   "t": "Bitcoin tahan penguatan awal saat pedagang perkirakan kenaikan suku bunga September",
+   "x": "Inflasi inti bulanan yang lebih cepat dari perkiraan memicu kekhawatiran tentang kenaikan suku bunga The Fed. Bitcoin menunjukkan ketahanan meskipun ada sentimen hawkish dari pasar keuangan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-pendulum.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-fed-pressure.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T13:15:57"
+   "published_at": "2026-09-12T18:20:06"
   },
   {
    "id": 3234,
@@ -494,18 +494,18 @@
    "published_at": "2026-09-11T10:21:53"
   },
   {
-   "id": 3345,
+   "id": 3242,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin turun di bawah $77.000, uji teknis Senin menanti",
-   "x": "Penurunan Bitcoin berlanjut menjelang pertemuan The Fed dan kekhawatiran perlambatan AI. Investor mencermati level teknis penting di tengah ketidakpastian pasar global.",
+   "t": "Kedaluwarsa opsi Bitcoin $2,24 miliar Jumat sempat beri sinyal pembalikan lalu turun lagi ke $76k",
+   "x": "Harga Bitcoin sempat naik setelah penyelesaian opsi Deribit, namun kembali turun di bawah level awal. Peristiwa ini menyoroti volatilitas pasar yang dipengaruhi oleh kedaluwarsa opsi bernilai miliaran dolar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-slide-below-77000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bear-market-pressure.jpg",
-   "a": "1 jam lalu",
+   "url": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-pendulum.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T15:20:10"
+   "published_at": "2026-09-11T13:15:57"
   },
   {
    "id": 3229,
@@ -520,6 +520,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-11T12:09:13"
+  },
+  {
+   "id": 3345,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin turun di bawah $77.000, uji teknis Senin menanti",
+   "x": "Penurunan Bitcoin berlanjut menjelang pertemuan The Fed dan kekhawatiran perlambatan AI. Investor mencermati level teknis penting di tengah ketidakpastian pasar global.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-slide-below-77000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bear-market-pressure.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-13T15:20:10"
+  },
+  {
+   "id": 3350,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Analis Perkirakan Bitcoin Kurang dari US$5.000 Lagi Menuju Bull Market",
+   "x": "Bitcoin berada USD4.500 di bawah konfirmasi bull market saat whale menjual reli dan dana AS tetap di luar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-di-bawah-bull-market-whales",
+   "img": "https://assets.beincrypto.com/img/NrJlTKzsmmVOBRowsnxunxeQcCc=/smart/4c7b45607263457e952b2dbe7dd88060",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-13T17:05:11"
   },
   {
    "id": 3188,
@@ -614,7 +642,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-oil-risk-stretches-into-2027-as-iea-cuts-supply-outlook-again",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-oil-vortex.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T14:50:15"

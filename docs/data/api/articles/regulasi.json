@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-09-11T09:20:53"
   },
   {
-   "id": 3145,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Anthropic Ungkap Insiden Peretasan Keempat Claude, Debat Regulasi Menguat",
-   "x": "Anthropic mengakui adanya insiden peretasan keempat pada model AI Claude, yang awalnya dikaitkan dengan kegagalan infrastruktur pengujian. Insiden ini memperkuat perdebatan mengenai perlunya regulasi AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T15:33:11"
-  },
-  {
    "id": 3263,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -40,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28T3HE65MV02Y41NGX63EDN/wall-warning-hyperliquid.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T18:45:15"
