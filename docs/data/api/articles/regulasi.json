@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-09-11T18:45:15"
   },
   {
-   "id": 3156,
+   "id": 3304,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Senator Republik AS ajukan revisi UU kripto jelang voting Clarity Act",
-   "x": "Menjelang pemungutan suara penting minggu depan, Senator Republik merilis versi revisi dari rancangan undang-undang aset kripto. Ini merupakan langkah krusial dalam pembentukan regulasi kripto di Amerika Serikat.",
+   "t": "Miliarder kripto donasi £36 juta ke partai Reform UK",
+   "x": "Dua miliarder kripto, Ben Delo dan Christopher Harborne, masing-masing menyumbangkan £36 juta ke partai Reform UK. Donasi ini terjadi di tengah pembahasan RUU di House of Lords yang akan membatasi donasi kripto.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
-   "img": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
+   "img": "https://www.tbstat.com/wp/uploads/2022/02/20220210_UK_Generic_Funding-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T19:42:06"
+   "published_at": "2026-09-12T16:18:05"
   },
   {
    "id": 3235,
@@ -68,38 +68,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T20:10:29"
-  },
-  {
-   "id": 3304,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Miliarder kripto donasi £36 juta ke partai Reform UK",
-   "x": "Dua miliarder kripto, Ben Delo dan Christopher Harborne, masing-masing menyumbangkan £36 juta ke partai Reform UK. Donasi ini terjadi di tengah pembahasan RUU di House of Lords yang akan membatasi donasi kripto.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
-   "img": "https://www.tbstat.com/wp/uploads/2022/02/20220210_UK_Generic_Funding-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-12T16:18:05"
-  },
-  {
-   "id": 3200,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SBF minta Mahkamah Agung AS batalkan vonis dan penyitaan US$11 miliar",
-   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan permohonan ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Pengacaranya berargumen bahwa penyitaan tersebut berlebihan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T07:43:19"
   },
   {
    "id": 3186,
@@ -114,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T04:20:15"
+  },
+  {
+   "id": 3200,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SBF minta Mahkamah Agung AS batalkan vonis dan penyitaan US$11 miliar",
+   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan permohonan ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Pengacaranya berargumen bahwa penyitaan tersebut berlebihan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T07:43:19"
   }
  ]
 }
