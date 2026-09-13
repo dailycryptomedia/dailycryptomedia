@@ -1,5 +1,5 @@
 {
- "total": 51,
+ "total": 49,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/wallet-shipping-paper-trail.jpg?ver=1789227102",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T19:30:23"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T17:01:04"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
    "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T21:39:49"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/profitabilitas-mining-bitcoin-zcash-grayscale",
    "img": "https://assets.beincrypto.com/img/9UIbz08vyTEuFWG0477vbz6ZCo4=/smart/4da7a809b4e14f518ebff2f32942b323",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T00:42:40"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-company-trunk.jpg_.jpg",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T13:40:26"
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/saat-bitcoin-etf-lain-berdarah-morgan-stanley-malah-terus-tambah-btc",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T01:30:15"
@@ -236,7 +236,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
    "img": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T18:57:08"
@@ -250,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-engineer-otak-crypto-trader",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T20:00:00"
@@ -320,7 +320,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/reputasi-scam-crypto-cowen-minat",
    "img": "https://assets.beincrypto.com/img/LxnO2fiinjRnRpl3-OKZB9mG3Cg=/smart/624adfe4f31a49c8aa15195a0f1c4b16",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-11T01:41:46"
@@ -446,7 +446,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/revolut-pelanggaran-data-permintaan-pemerintah-palsu",
    "img": "https://assets.beincrypto.com/img/c4_-MkDCSD-5A6mZG7s1uZwnmcM=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T09:20:43"
@@ -460,52 +460,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-fed-pressure.jpg",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T18:20:06"
-  },
-  {
-   "id": 3077,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pembuat dompet Bitcoin Trezor alami peretasan email",
-   "x": "Penyedia email Trezor diretas, memungkinkan penyerang mengirim peringatan keamanan palsu. Peringatan tersebut mengklaim adanya cacat perangkat keras yang bisa membahayakan frasa pemulihan pengguna.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-09T23:02:23"
-  },
-  {
-   "id": 3075,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Reli Bitcoin Spot Sembunyikan Perangkap Leverage Altcoin yang Terakhir Terjadi pada 2025",
-   "x": "Reli Bitcoin tetap didorong oleh spot, namun leverage altcoin mengulangi pola yang terlihat sebelum crash Oktober 2025.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-rally-perangkap-leverage-altcoin",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-09T22:40:32"
-  },
-  {
-   "id": 3242,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kedaluwarsa opsi Bitcoin $2,24 miliar Jumat sempat beri sinyal pembalikan lalu turun lagi ke $76k",
-   "x": "Harga Bitcoin sempat naik setelah penyelesaian opsi Deribit, namun kembali turun di bawah level awal. Peristiwa ini menyoroti volatilitas pasar yang dipengaruhi oleh kedaluwarsa opsi bernilai miliaran dolar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-pendulum.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T13:15:57"
   },
   {
    "id": 3171,
@@ -536,18 +494,18 @@
    "published_at": "2026-09-10T09:57:46"
   },
   {
-   "id": 3188,
+   "id": 3242,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Mining Bitcoin sumbang 90% pendapatan harian HIVE meski ekspansi AI",
-   "x": "Meskipun HIVE berekspansi ke bidang kecerdasan buatan, mayoritas pendapatannya masih berasal dari aktivitas penambangan Bitcoin. Hal ini menunjukkan dominasi penambangan aset kripto dalam model bisnis perusahaan.",
+   "t": "Kedaluwarsa opsi Bitcoin $2,24 miliar Jumat sempat beri sinyal pembalikan lalu turun lagi ke $76k",
+   "x": "Harga Bitcoin sempat naik setelah penyelesaian opsi Deribit, namun kembali turun di bawah level awal. Peristiwa ini menyoroti volatilitas pasar yang dipengaruhi oleh kedaluwarsa opsi bernilai miliaran dolar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-mining-supplies-90-of-hives-1-million-daily-revenue-despite-ongoing-ai-expansion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hive-bitcoin-ai-engine.jpg",
+   "url": "https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-pendulum.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T03:50:27"
+   "published_at": "2026-09-11T13:15:57"
   },
   {
    "id": 3234,
@@ -578,18 +536,18 @@
    "published_at": "2026-09-11T10:21:53"
   },
   {
-   "id": 3307,
+   "id": 3188,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Revolut tertipu serahkan paspor dan riwayat Bitcoin nasabah ke peretas",
-   "x": "Revolut membocorkan data pribadi dan riwayat transaksi Bitcoin nasabah setelah menganggap permintaan informasi palsu dari pemerintah sebagai permintaan yang sah. Kebocoran ini mencakup salinan paspor, foto verifikasi, dan detail pribadi lainnya.",
+   "t": "Mining Bitcoin sumbang 90% pendapatan harian HIVE meski ekspansi AI",
+   "x": "Meskipun HIVE berekspansi ke bidang kecerdasan buatan, mayoritas pendapatannya masih berasal dari aktivitas penambangan Bitcoin. Hal ini menunjukkan dominasi penambangan aset kripto dalam model bisnis perusahaan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bitcoin-data-breach-1.jpg",
-   "a": "8 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-mining-supplies-90-of-hives-1-million-daily-revenue-despite-ongoing-ai-expansion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hive-bitcoin-ai-engine.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-12T15:30:34"
+   "published_at": "2026-09-11T03:50:27"
   },
   {
    "id": 3229,
@@ -606,18 +564,18 @@
    "published_at": "2026-09-11T12:09:13"
   },
   {
-   "id": 3273,
+   "id": 3307,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "CEO Coinbase prediksi Bitcoin capai $400.000 setelah tembus $81.000",
-   "x": "CEO Coinbase memproyeksikan kenaikan harga Bitcoin signifikan menjelang halving berikutnya. Prediksi ini menyoroti potensi apresiasi aset kripto utama di tengah antisipasi pasar.",
+   "t": "Revolut tertipu serahkan paspor dan riwayat Bitcoin nasabah ke peretas",
+   "x": "Revolut membocorkan data pribadi dan riwayat transaksi Bitcoin nasabah setelah menganggap permintaan informasi palsu dari pemerintah sebagai permintaan yang sah. Kebocoran ini mencakup salinan paspor, foto verifikasi, dan detail pribadi lainnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-81k-breakout-climb.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/revolut-bitcoin-data-breach-1.jpg",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T21:20:06"
+   "published_at": "2026-09-12T15:30:34"
   },
   {
    "id": 3207,
@@ -634,6 +592,34 @@
    "published_at": "2026-09-11T04:57:18"
   },
   {
+   "id": 3273,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO Coinbase prediksi Bitcoin capai $400.000 setelah tembus $81.000",
+   "x": "CEO Coinbase memproyeksikan kenaikan harga Bitcoin signifikan menjelang halving berikutnya. Prediksi ini menyoroti potensi apresiasi aset kripto utama di tengah antisipasi pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-81k-breakout-climb.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T21:20:06"
+  },
+  {
+   "id": 3184,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ben Cowen Peringatkan IPO Anthropic Dapat Alihkan Perhatian dari Reli Harga Bitcoin",
+   "x": "Ben Cowen memperingatkan bahwa IPO Anthropic bisa menarik perhatian dan modal dari reli harga Bitcoin yang sedang berlangsung.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ben-cowen-anthropic-ipo-bitcoin",
+   "img": "https://assets.beincrypto.com/img/LEKbSil-cMWa10W4NbVqYaFxyoY=/smart/660470ded85e479688791a6a263fbad8",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-11T01:25:46"
+  },
+  {
    "id": 3260,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -646,20 +632,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T16:00:02"
-  },
-  {
-   "id": 3184,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Ben Cowen Peringatkan IPO Anthropic Dapat Alihkan Perhatian dari Reli Harga Bitcoin",
-   "x": "Ben Cowen memperingatkan bahwa IPO Anthropic bisa menarik perhatian dan modal dari reli harga Bitcoin yang sedang berlangsung.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ben-cowen-anthropic-ipo-bitcoin",
-   "img": "https://assets.beincrypto.com/img/LEKbSil-cMWa10W4NbVqYaFxyoY=/smart/660470ded85e479688791a6a263fbad8",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-11T01:25:46"
   },
   {
    "id": 3189,
@@ -698,7 +670,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T07:20:37"
