@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,32 +32,18 @@
    "published_at": "2026-09-10T18:51:04"
   },
   {
-   "id": 3095,
+   "id": 3179,
    "k": "web3",
    "cat": "Web3",
-   "t": "DOJ Sita US$52 Juta Aset Kripto yang Terkait dengan Marketplace Penipuan Xinbi di Cina",
-   "x": "Pemerintah AS menahan sekitar US$52 juta aset kripto yang terkait penipuan dalam satu hari dan menyita channel Telegram Xinbi Guarantee, sebuah marketplace ilegal berbahasa Mandarin. Elliptic menyebut pelacakan wallet…",
+   "t": "Base App Kembali Jadi Coinbase Wallet: Apakah Trader Akan Menyadari?",
+   "x": "Coinbase mengembalikan nama Coinbase Wallet. Aplikasi tersebut kini mengarahkan trader ke leverage, prediction markets, dan saham ter-tokenisasi.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/xinbi-jaminan-telegram-penyitaan-kripto-beku",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/base-app-dompet-coinbase-lagi",
+   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-10T06:24:52"
-  },
-  {
-   "id": 3092,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Trezor dan BitBox peringatkan pengguna soal notifikasi palsu dompet keras",
-   "x": "Produsen dompet keras kripto, Trezor dan BitBox, mengeluarkan peringatan kepada pengguna mengenai adanya notifikasi keamanan palsu. Pelanggaran keamanan pada penyedia layanan email ini dapat membahayakan aset digital pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-10T05:34:21"
+   "published_at": "2026-09-11T02:17:46"
   },
   {
    "id": 3196,
@@ -88,6 +74,20 @@
    "published_at": "2026-09-10T18:00:00"
   },
   {
+   "id": 3338,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pembuat Dompet Kripto Punya 24 Jam untuk Lapor Regulator Jika Ada Celah",
+   "x": "Pembuat dompet kripto komersial kini wajib melaporkan insiden keamanan serius dalam waktu 24 jam kepada regulator. Aturan baru ini mengharuskan proses pelaporan tiga tahap.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-13T11:45:33"
+  },
+  {
    "id": 3173,
    "k": "web3",
    "cat": "Web3",
@@ -100,20 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T21:00:04"
-  },
-  {
-   "id": 3179,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Base App Kembali Jadi Coinbase Wallet: Apakah Trader Akan Menyadari?",
-   "x": "Coinbase mengembalikan nama Coinbase Wallet. Aplikasi tersebut kini mengarahkan trader ke leverage, prediction markets, dan saham ter-tokenisasi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/base-app-dompet-coinbase-lagi",
-   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-11T02:17:46"
   },
   {
    "id": 3268,

@@ -1,22 +1,8 @@
 {
- "total": 8,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 3093,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Valuasi The Boring Company Milik Elon Musk Tembus US$23 Miliar, 4 Kali Lipat dari 2022",
-   "x": "UEA memimpin putaran pendanaan sebesar $3 miliar yang meningkatkan valuasi Musk Boring Company menjadi $23 miliar, 4 kali lipat dari nilai tahun 2022.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/valuasi-musk-boring-company-23-miliar",
-   "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-10T08:40:06"
-  },
   {
    "id": 3174,
    "k": "bisnis",
@@ -30,20 +16,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-10T23:21:26"
-  },
-  {
-   "id": 3187,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Kontrak pra-IPO Binance dorong valuasi tersirat Anthropic jadi $2,1 triliun",
-   "x": "Binance menandatangani kontrak pra-IPO dengan Anthropic, yang menetapkan valuasi tersirat perusahaan AI tersebut mencapai $2,1 triliun. Ini menunjukkan minat besar pada teknologi AI di kalangan investor kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-pre-ipo-contract-pushes-anthropic-to-a-2-1-trillion-implied-valuation",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/anthropic-binance-valuation-signal.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T05:10:17"
   },
   {
    "id": 3275,
@@ -60,6 +32,20 @@
    "published_at": "2026-09-12T00:03:36"
   },
   {
+   "id": 3187,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Kontrak pra-IPO Binance dorong valuasi tersirat Anthropic jadi $2,1 triliun",
+   "x": "Binance menandatangani kontrak pra-IPO dengan Anthropic, yang menetapkan valuasi tersirat perusahaan AI tersebut mencapai $2,1 triliun. Ini menunjukkan minat besar pada teknologi AI di kalangan investor kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/binance-pre-ipo-contract-pushes-anthropic-to-a-2-1-trillion-implied-valuation",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/anthropic-binance-valuation-signal.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-11T05:10:17"
+  },
+  {
    "id": 3303,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,10 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B2TW953PW8GZE67G0P6MYC/nvidia-anthropic-ipo-artwork.png",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T15:12:40"
+  },
+  {
+   "id": 3296,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Nvidia Bisa Membuat IPO Anthropic Lebih Besar dari SpaceX dengan US$10 Miliar",
+   "x": "Nvidia mungkin akan mendukung IPO Anthropic sebesar $10 miliar, namun trader memperkirakan peluangnya sebesar 57% untuk terjadi sebelum November.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/nvidia-muscle-anthropic-ipo-kalahkan-spacex",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-12T12:02:59"
   },
   {
    "id": 3149,
@@ -88,20 +88,6 @@
    "published_at": "2026-09-10T16:40:32"
   },
   {
-   "id": 3296,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Nvidia Bisa Membuat IPO Anthropic Lebih Besar dari SpaceX dengan US$10 Miliar",
-   "x": "Nvidia mungkin akan mendukung IPO Anthropic sebesar $10 miliar, namun trader memperkirakan peluangnya sebesar 57% untuk terjadi sebelum November.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/nvidia-muscle-anthropic-ipo-kalahkan-spacex",
-   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-12T12:02:59"
-  },
-  {
    "id": 3110,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -110,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nasdaq-investasi-di-induk-kraken-payward-ipo",
    "img": "https://assets.beincrypto.com/img/tl4uDUvVc8dW_c9nIW3jTf7BMxg=/smart/9c37b4a1ac64454b9f7216470842ca26",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-10T10:58:27"
