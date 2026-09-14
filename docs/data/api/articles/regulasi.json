@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,18 +60,18 @@
    "published_at": "2026-09-11T12:06:24"
   },
   {
-   "id": 3164,
+   "id": 3200,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "ESMA peringatkan potensi risiko keuangan tradisional akibat kripto",
-   "x": "Regulator Uni Eropa mengidentifikasi tokenisasi aset, eksploitasi DeFi, dan pasar prediksi sebagai area risiko. Keterkaitan kripto yang meningkat dapat memperbesar ancaman bagi sistem keuangan secara luas.",
+   "t": "SBF minta Mahkamah Agung AS batalkan vonis dan penyitaan US$11 miliar",
+   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan permohonan ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Pengacaranya berargumen bahwa penyitaan tersebut berlebihan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-10T20:10:29"
+   "published_at": "2026-09-11T07:43:19"
   },
   {
    "id": 3186,
@@ -86,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-11T04:20:15"
-  },
-  {
-   "id": 3200,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SBF minta Mahkamah Agung AS batalkan vonis dan penyitaan US$11 miliar",
-   "x": "Pendiri FTX, Sam Bankman-Fried, mengajukan permohonan ke Mahkamah Agung AS untuk membatalkan vonis penipuan dan penyitaan aset senilai US$11 miliar. Pengacaranya berargumen bahwa penyitaan tersebut berlebihan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T07:43:19"
   }
  ]
 }
