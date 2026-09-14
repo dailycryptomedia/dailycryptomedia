@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T13:01:03"
@@ -68,24 +68,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pons-terancam-ambruk-80-persen-bisa-turun-ke-us01",
    "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-12T07:45:12"
-  },
-  {
-   "id": 3201,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Revisi UU CLARITY Targetkan Operator DeFi Non-Desentralisasi",
-   "x": "Rancangan Undang-Undang CLARITY yang direvisi kini menargetkan operator DeFi yang dianggap tidak terdesentralisasi. Perubahan ini mengindikasikan upaya regulator untuk meningkatkan pengawasan terhadap sektor keuangan terdesentralisasi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-11T06:08:26"
+   "published_at": "2026-09-12T07:45:12"
   },
   {
    "id": 3359,
@@ -96,24 +82,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-audit-blindspot.jpg",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T20:15:08"
-  },
-  {
-   "id": 3212,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas manfaatkan peringatan kerentanan STM32 palsu untuk targetkan pemegang Trezor",
-   "x": "Peretas menyasar pengguna dompet kripto Trezor dan BitBox dengan menyebarkan email palsu tentang kerentanan keamanan. Pihak Trezor menyatakan dompet mereka aman, sementara BitBox masih menyelidiki.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/attackers-exploit-fake-stm32-vulnerability-alert-to-target-trezor-and-bitbox-holders",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trezor-bitbox-phishing-alert.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T08:10:54"
   },
   {
    "id": 3308,
@@ -152,24 +124,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-90-of-your-defi-trades-are-quietly-being-routed-back-to-wall-street-market-makers",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/market-makers-defi-wave.jpg",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T13:45:40"
-  },
-  {
-   "id": 3213,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bunga pinjaman Aave naik, ancam imbal hasil Ethena USDe jadi negatif",
-   "x": "Kenaikan suku bunga pinjaman di platform Aave berpotensi membuat skema imbal hasil Ethena USDe menjadi merugi. Perubahan kurva yang diusulkan dapat menambah biaya pinjaman secara signifikan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-usde-rate-valve.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-11T06:40:27"
   }
  ]
 }
