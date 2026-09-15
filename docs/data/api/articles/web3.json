@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,10 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T14:01:04"
+  },
+  {
+   "id": 3544,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Kesalahan coding sederhana bobol dompet kripto senilai $7,8 juta",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T10:27:55"
   },
   {
    "id": 3483,
@@ -54,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_eDk8lj1bvf.jpg",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T03:20:48"
@@ -68,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg",
-   "a": "4 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T09:40:27"
