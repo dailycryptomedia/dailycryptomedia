@@ -1,22 +1,8 @@
 {
- "total": 30,
+ "total": 29,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 3320,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Proposal stablecoin Thailand blokir transfer antar dompet pribadi",
-   "x": "Thailand mengusulkan aturan baru untuk stablecoin yang mewajibkan perusahaan kripto hanya memproses deposit dan penarikan melalui akun yang terverifikasi milik nasabah sendiri. Aturan ini bertujuan meningkatkan keamanan dan mencegah penyalahgunaan aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/thailands-stablecoin-proposal-would-block-transfers-to-other-peoples-wallets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/thailand-wallet-transfer-block.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-12T21:25:29"
-  },
   {
    "id": 3360,
    "k": "tokenisasi",
@@ -26,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-the-fed-kenaikan-suku-bunga-peluang-rabu",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-13T23:00:00"
@@ -40,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png",
-   "a": "8 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T20:37:34"
+  },
+  {
+   "id": 3597,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tether, Binance, dan jaringan minyak Iran $1,5 miliar bertemu dalam kasus penyitaan AS",
+   "x": "Pemerintah AS menyita aset digital terkait jaringan minyak Iran senilai $1,5 miliar yang melibatkan Tether dan Binance. Kasus ini menyoroti potensi penggunaan aset kripto dalam aktivitas yang melanggar sanksi internasional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/iran-oil-crypto-network.webp",
+   "a": "21 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T23:00:36"
   },
   {
    "id": 3433,
@@ -82,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821",
    "img": "https://www.tbstat.com/wp/uploads/2023/03/20230315_Arbitrum_airdrop-1200x675.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T11:50:30"
-  },
-  {
-   "id": 3570,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Obligasi Jepang naik 3,8%, berpotensi jebak Bitcoin",
-   "x": "Lelang obligasi 20 tahun Jepang ditutup pada 3,856%, mengalihkan fokus ke bank sentral. Kenaikan imbal hasil obligasi global dapat menekan aset berisiko seperti Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-japan-yield-dam.jpeg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T17:30:39"
   },
   {
    "id": 3388,
@@ -130,6 +116,20 @@
    "published_at": "2026-09-14T04:55:28"
   },
   {
+   "id": 3570,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Obligasi Jepang naik 3,8%, berpotensi jebak Bitcoin",
+   "x": "Lelang obligasi 20 tahun Jepang ditutup pada 3,856%, mengalihkan fokus ke bank sentral. Kenaikan imbal hasil obligasi global dapat menekan aset berisiko seperti Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-japan-yield-dam.jpeg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T17:30:39"
+  },
+  {
    "id": 3515,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T11:01:04"
@@ -172,20 +172,6 @@
    "published_at": "2026-09-14T14:40:16"
   },
   {
-   "id": 3352,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Coinbase tawarkan jembatan stablecoin untuk bank komunitas",
-   "x": "Coinbase menyediakan infrastruktur untuk bank komunitas agar dapat menawarkan layanan stablecoin. Kemitraan ini memungkinkan bank mempertahankan antarmuka pelanggan sambil memanfaatkan teknologi Coinbase.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/main-street-money-pipeline.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-13T19:10:30"
-  },
-  {
    "id": 3409,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -214,6 +200,20 @@
    "published_at": "2026-09-14T16:17:52"
   },
   {
+   "id": 3352,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Coinbase tawarkan jembatan stablecoin untuk bank komunitas",
+   "x": "Coinbase menyediakan infrastruktur untuk bank komunitas agar dapat menawarkan layanan stablecoin. Kemitraan ini memungkinkan bank mempertahankan antarmuka pelanggan sambil memanfaatkan teknologi Coinbase.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/main-street-money-pipeline.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-13T19:10:30"
+  },
+  {
    "id": 3460,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -222,7 +222,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T21:46:04"
@@ -242,20 +242,6 @@
    "published_at": "2026-09-13T02:30:49"
   },
   {
-   "id": 3481,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Aturan stablecoin usulan tunda pencairan dana hingga seminggu",
-   "x": "Aturan baru dari OCC dapat menunda pencairan dana stablecoin hingga seminggu. Hal ini berpotensi membuat pembeli dan penyedia konversi harus menanggung biaya awal sebelum dana mereka kembali.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/proposed-stablecoin-rules-might-guarantee-your-dollar-while-making-you-wait-a-week-to-spend-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_ochN637brX.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T07:30:58"
-  },
-  {
    "id": 3414,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -268,6 +254,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T15:55:59"
+  },
+  {
+   "id": 3481,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Aturan stablecoin usulan tunda pencairan dana hingga seminggu",
+   "x": "Aturan baru dari OCC dapat menunda pencairan dana stablecoin hingga seminggu. Hal ini berpotensi membuat pembeli dan penyedia konversi harus menanggung biaya awal sebelum dana mereka kembali.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/proposed-stablecoin-rules-might-guarantee-your-dollar-while-making-you-wait-a-week-to-spend-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_ochN637brX.jpg",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T07:30:58"
   },
   {
    "id": 3436,
@@ -284,20 +284,6 @@
    "published_at": "2026-09-14T11:01:05"
   },
   {
-   "id": 3572,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Celah tata kelola DeFi izinkan satu dompet minta 98% kas Ampleforth",
-   "x": "Sebuah dompet mengusulkan permintaan dana kas Ampleforth setelah menerima delegasi suara. Tindakan ini tidak menghasilkan transfer dana karena tidak ada suara yang mendukung.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/def-dao-vote.jpeg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T16:30:02"
-  },
-  {
    "id": 3504,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -306,24 +292,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T13:37:31"
   },
   {
-   "id": 3321,
+   "id": 3572,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Target Bitcoin $80.000 rapuh setelah saham abaikan imbal hasil Treasury",
-   "x": "Bitcoin mendekati $77.743 dengan volatilitas opsi yang tinggi di akhir pekan, menanti keputusan The Fed. Kinerja saham yang mengabaikan kenaikan imbal hasil obligasi pemerintah AS menguji ketahanan level harga Bitcoin.",
+   "t": "Celah tata kelola DeFi izinkan satu dompet minta 98% kas Ampleforth",
+   "x": "Sebuah dompet mengusulkan permintaan dana kas Ampleforth setelah menerima delegasi suara. Tindakan ini tidak menghasilkan transfer dana karena tidak ada suara yang mendukung.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-key.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/def-dao-vote.jpeg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-12T20:20:10"
+   "published_at": "2026-09-15T16:30:02"
   },
   {
    "id": 3473,
@@ -334,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T05:32:12"
@@ -362,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T17:53:04"
@@ -376,7 +362,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/strategy-prioritizes-950-million-strc-buyback-over-expanding-its-bitcoin-treasury",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_kFIWA88ado.jpg",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T05:40:30"
