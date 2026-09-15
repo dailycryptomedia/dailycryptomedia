@@ -1,5 +1,5 @@
 {
- "total": 60,
+ "total": 59,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/grayscale-xrp-model-portfolio-advisors",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-14T19:00:00"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-tunggu-keputusan-the-fed-us83-000-jadi-gerbang-reli-berikutnya",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T07:00:25"
@@ -96,24 +96,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T13:43:50"
   },
   {
-   "id": 3314,
+   "id": 3337,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kerentanan terbesar dompet Bitcoin Anda mungkin label pengiriman",
-   "x": "Pembelian dompet perangkat keras dapat membahayakan privasi identitas Anda karena data pribadi seperti nama dan alamat diperlukan untuk pengiriman. Ini menjadi perhatian bagi investor yang ingin mengamankan aset digital mereka.",
+   "t": "Perusahaan Inggris Jual Cadangan Bitcoin untuk Kembalikan 669 BTC ke Pemegang Saham",
+   "x": "Sebuah perusahaan Inggris menjual seluruh cadangan Bitcoinnya yang berjumlah 669 BTC untuk dibagikan kepada para pemegang saham. Langkah ini diharapkan selesai pada 28 September.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/wallet-shipping-paper-trail.jpg?ver=1789227102",
+   "url": "https://cryptoslate.com/uk-company-sells-entire-bitcoin-reserve-to-return-669-btc-to-shareholders-here-is-who-actually-gets-paid",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/satsuma-shareholder-path.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-12T19:30:23"
+   "published_at": "2026-09-13T12:50:18"
   },
   {
    "id": 3560,
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg",
-   "a": "11 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T17:43:01"
@@ -138,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pemegang-bitcoin-jangka-panjang-berhenti-menjual",
    "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T16:03:37"
@@ -194,24 +194,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9169b3ce79395c7b56a98fd9781f13842780d443-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T10:41:35"
   },
   {
-   "id": 3337,
+   "id": 3358,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Perusahaan Inggris Jual Cadangan Bitcoin untuk Kembalikan 669 BTC ke Pemegang Saham",
-   "x": "Sebuah perusahaan Inggris menjual seluruh cadangan Bitcoinnya yang berjumlah 669 BTC untuk dibagikan kepada para pemegang saham. Langkah ini diharapkan selesai pada 28 September.",
+   "t": "Peretas cetak triliunan Bitcoin palsu, tapi pemulihan 15 BTC gagal bayar penyedia likuiditas",
+   "x": "Peretas berhasil mencetak Bitcoin palsu dalam jumlah besar, namun upaya pemulihan aset melalui jembatan kripto hanya mengembalikan sebagian kecil. Hal ini menyebabkan penyedia likuiditas tidak menerima pembayaran atas dana yang mereka sediakan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uk-company-sells-entire-bitcoin-reserve-to-return-669-btc-to-shareholders-here-is-who-actually-gets-paid",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/satsuma-shareholder-path.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/hackers-mint-trillions-in-fake-bitcoin-but-15-btc-bridge-recovery-leaves-liquidity-providers-unpaid",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/symbiosis-bridge-detour.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T12:50:18"
+   "published_at": "2026-09-13T21:20:10"
   },
   {
    "id": 3432,
@@ -236,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-engineer-otak-crypto-trader",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-12T20:00:00"
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRTG1Y6S9M2Y37M3XPJ1PC/hi-arbitrum-a-beginners-guide-to-the-next-generation-layer-2-for-ethereum-1.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T15:50:49"
@@ -270,18 +270,18 @@
    "published_at": "2026-09-14T03:00:04"
   },
   {
-   "id": 3313,
+   "id": 3419,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Revolut: data KYC dan transaksi Bitcoin pelanggan bocor setelah permintaan palsu",
-   "x": "Revolut mengonfirmasi kebocoran data KYC dan transaksi Bitcoin akibat permintaan palsu dari domain pemerintah. Insiden ini diduga menargetkan pengguna bernilai tinggi, menimbulkan kekhawatiran keamanan bagi investor kripto.",
+   "t": "Strive capai rekor 25.000 BTC dengan pembelian terbaru $36,6 juta",
+   "x": "Perusahaan investasi Strive kembali menambah kepemilikan Bitcoin mereka. Akuisisi terbaru ini menunjukkan perlambatan dibandingkan pembelian pekan sebelumnya yang jauh lebih besar.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
-   "img": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
+   "img": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-12T18:57:08"
+   "published_at": "2026-09-14T15:15:51"
   },
   {
    "id": 3545,
@@ -292,38 +292,38 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T10:06:40"
   },
   {
-   "id": 3358,
+   "id": 3571,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Peretas cetak triliunan Bitcoin palsu, tapi pemulihan 15 BTC gagal bayar penyedia likuiditas",
-   "x": "Peretas berhasil mencetak Bitcoin palsu dalam jumlah besar, namun upaya pemulihan aset melalui jembatan kripto hanya mengembalikan sebagian kecil. Hal ini menyebabkan penyedia likuiditas tidak menerima pembayaran atas dana yang mereka sediakan.",
+   "t": "Kemenangan Clarity Act bisa jebak Bitcoin di $76.000",
+   "x": "Kemajuan regulasi aset kripto dapat mendorong minat beli. Namun, harga minyak dan imbal hasil riil akan menentukan apakah pemulihan Bitcoin dapat bertahan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hackers-mint-trillions-in-fake-bitcoin-but-15-btc-bridge-recovery-leaves-liquidity-providers-unpaid",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/symbiosis-bridge-detour.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/why-a-clarity-victory-may-still-leave-bitcoin-trapped-at-76000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-crossroads-outlook.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T21:20:10"
+   "published_at": "2026-09-15T17:00:53"
   },
   {
-   "id": 3564,
+   "id": 3590,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin anjlok seiring ancaman RUU Klaritas Senat",
-   "x": "Harga Bitcoin mengalami penurunan signifikan menjelang pemungutan suara penting di Senat AS terkait RUU Klaritas. Peristiwa ini menunjukkan sensitivitas pasar kripto terhadap perkembangan regulasi di negara adidaya.",
+   "t": "Kripto Bereaksi: Bitcoin Anjlok Saat UU Clarity Gagal Lolos Voting Senat",
+   "x": "Senat AS gagal mencapai 60 suara yang dibutuhkan untuk meloloskan RUU utama industri kripto. Bitcoin mengalami penurunan nilai seiring dengan bertambahnya suara penolakan, namun tidak sampai menimbulkan kepanikan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-   "a": "2 jam lalu",
+   "url": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T14:58:57"
+   "published_at": "2026-09-15T19:18:29"
   },
   {
    "id": 3387,
@@ -368,18 +368,18 @@
    "published_at": "2026-09-14T02:30:04"
   },
   {
-   "id": 3419,
+   "id": 3568,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strive capai rekor 25.000 BTC dengan pembelian terbaru $36,6 juta",
-   "x": "Perusahaan investasi Strive kembali menambah kepemilikan Bitcoin mereka. Akuisisi terbaru ini menunjukkan perlambatan dibandingkan pembelian pekan sebelumnya yang jauh lebih besar.",
+   "t": "Pemulihan harga Bitcoin tak mungkin tarik penambang AI, kata CoinShares",
+   "x": "Biaya produksi Bitcoin oleh penambang publik pada kuartal kedua mencapai sekitar $75.500 per koin. CoinShares menilai pemulihan harga Bitcoin tidak cukup untuk menarik kembali penambang yang fokus pada kecerdasan buatan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
-   "img": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
+   "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T15:15:51"
+   "published_at": "2026-09-15T15:37:47"
   },
   {
    "id": 3547,
@@ -390,38 +390,38 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T06:37:24"
   },
   {
-   "id": 3571,
+   "id": 3586,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kemenangan Clarity Act bisa jebak Bitcoin di $76.000",
-   "x": "Kemajuan regulasi aset kripto dapat mendorong minat beli. Namun, harga minyak dan imbal hasil riil akan menentukan apakah pemulihan Bitcoin dapat bertahan.",
+   "t": "Pembaruan Bitcoin Core ubah protokol wallet default, berisiko ganggu aplikasi populer",
+   "x": "Pembaruan besar pada Bitcoin Core mengubah protokol wallet default yang dapat menyebabkan gangguan sementara pada aplikasi populer. Perubahan ini berfokus pada kompresi cek, estimasi biaya, dan siaran privat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-a-clarity-victory-may-still-leave-bitcoin-trapped-at-76000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-crossroads-outlook.webp",
-   "a": "53 menit lalu",
+   "url": "https://cryptoslate.com/a-major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across-popular-apps",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-core-compatibility-check.webp",
+   "a": "55 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T17:00:53"
+   "published_at": "2026-09-15T19:50:39"
   },
   {
-   "id": 3455,
+   "id": 3564,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin menguat seiring saham chip AI melorot",
-   "x": "Harga Bitcoin menguat di tengah kekhawatiran perlambatan pertumbuhan kecerdasan buatan yang menekan saham perusahaan teknologi seperti Nvidia dan Intel. Pergerakan ini menunjukkan potensi Bitcoin sebagai aset diversifikasi di tengah dinamika pasar teknologi.",
+   "t": "Bitcoin anjlok seiring ancaman RUU Klaritas Senat",
+   "x": "Harga Bitcoin mengalami penurunan signifikan menjelang pemungutan suara penting di Senat AS terkait RUU Klaritas. Peristiwa ini menunjukkan sensitivitas pasar kripto terhadap perkembangan regulasi di negara adidaya.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T17:40:04"
+   "published_at": "2026-09-15T14:58:57"
   },
   {
    "id": 3334,
@@ -446,7 +446,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T18:56:28"
@@ -466,18 +466,18 @@
    "published_at": "2026-09-14T07:00:46"
   },
   {
-   "id": 3568,
+   "id": 3446,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemulihan harga Bitcoin tak mungkin tarik penambang AI, kata CoinShares",
-   "x": "Biaya produksi Bitcoin oleh penambang publik pada kuartal kedua mencapai sekitar $75.500 per koin. CoinShares menilai pemulihan harga Bitcoin tidak cukup untuk menarik kembali penambang yang fokus pada kecerdasan buatan.",
+   "t": "Produksi Bitcoin BitFuFu Naik di Agustus, CleanSpark Naik Tipis, Canaan Turun",
+   "x": "BitFuFu melaporkan kenaikan produksi Bitcoin di Agustus, sementara CleanSpark mencatat peningkatan tipis. Canaan menjual seluruh posisi ETH dan sebagian BTC untuk membeli kembali sahamnya.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
-   "img": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
-   "a": "2 jam lalu",
+   "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+   "img": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T15:37:47"
+   "published_at": "2026-09-14T18:01:35"
   },
   {
    "id": 3344,
@@ -494,18 +494,18 @@
    "published_at": "2026-09-13T15:55:14"
   },
   {
-   "id": 3516,
+   "id": 3455,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Simpanan Bitcoin Strive capai 25.000 BTC setelah pembelian $36,6 juta",
-   "x": "Manajer investasi Strive menambah 25.000 BTC ke dalam simpanannya melalui pembelian senilai $36,6 juta. Pendanaan pembelian ini berasal dari saham preferen, mendorong nilai notional asetnya melampaui $1 miliar.",
+   "t": "Bitcoin menguat seiring saham chip AI melorot",
+   "x": "Harga Bitcoin menguat di tengah kekhawatiran perlambatan pertumbuhan kecerdasan buatan yang menekan saham perusahaan teknologi seperti Nvidia dan Intel. Pergerakan ini menunjukkan potensi Bitcoin sebagai aset diversifikasi di tengah dinamika pasar teknologi.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
-   "a": "8 jam lalu",
+   "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T09:01:05"
+   "published_at": "2026-09-14T17:40:04"
   },
   {
    "id": 3369,
@@ -530,24 +530,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J63GGEEN1J9P0Q9KPEPHYH/hodler-investment-bitcoin.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T09:30:31"
   },
   {
-   "id": 3446,
+   "id": 3512,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Produksi Bitcoin BitFuFu Naik di Agustus, CleanSpark Naik Tipis, Canaan Turun",
-   "x": "BitFuFu melaporkan kenaikan produksi Bitcoin di Agustus, sementara CleanSpark mencatat peningkatan tipis. Canaan menjual seluruh posisi ETH dan sebagian BTC untuk membeli kembali sahamnya.",
+   "t": "Tonkeeper berganti nama jadi Keeper, dukung 7 jaringan termasuk Bitcoin dan Ethereum",
+   "x": "Dompet Tonkeeper kini berganti nama menjadi Keeper dan mendukung tujuh jaringan blockchain. Dukungan ini mencakup jaringan besar seperti Bitcoin dan Ethereum, memperluas jangkauan pengguna.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
-   "img": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
-   "a": "23 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
+   "img": "https://www.tbstat.com/wp/uploads/2023/09/20230811_WalletsCryptoPayments_News2-1200x675.jpg",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T18:01:35"
+   "published_at": "2026-09-15T09:35:02"
   },
   {
    "id": 3353,
@@ -558,10 +558,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/btcpay-node-swarm.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T18:30:17"
+  },
+  {
+   "id": 3516,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Simpanan Bitcoin Strive capai 25.000 BTC setelah pembelian $36,6 juta",
+   "x": "Manajer investasi Strive menambah 25.000 BTC ke dalam simpanannya melalui pembelian senilai $36,6 juta. Pendanaan pembelian ini berasal dari saham preferen, mendorong nilai notional asetnya melampaui $1 miliar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T09:01:05"
   },
   {
    "id": 3410,
@@ -592,18 +606,18 @@
    "published_at": "2026-09-14T07:07:54"
   },
   {
-   "id": 3512,
+   "id": 3424,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Tonkeeper berganti nama jadi Keeper, dukung 7 jaringan termasuk Bitcoin dan Ethereum",
-   "x": "Dompet Tonkeeper kini berganti nama menjadi Keeper dan mendukung tujuh jaringan blockchain. Dukungan ini mencakup jaringan besar seperti Bitcoin dan Ethereum, memperluas jangkauan pengguna.",
+   "t": "Strategy beli kembali saham $139 juta, holdings bitcoin tak berubah",
+   "x": "Strategy melakukan pembelian kembali saham senilai $139 juta namun mempertahankan jumlah aset Bitcoin yang dimiliki. Kepemilikan Bitcoin perusahaan ini mewakili sekitar 4% dari total suplai yang terbatas.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
-   "img": "https://www.tbstat.com/wp/uploads/2023/09/20230811_WalletsCryptoPayments_News2-1200x675.jpg",
-   "a": "8 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T09:35:02"
+   "published_at": "2026-09-14T12:08:37"
   },
   {
    "id": 3398,
@@ -628,52 +642,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kevin-oleary-kartu-olahraga-bitcoin",
    "img": "https://assets.beincrypto.com/img/FTzKH7dvIMioxP2foMYPJ593DjM=/smart/7ded704dc603426caba7c281876d9300",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-13T20:00:00"
-  },
-  {
-   "id": 3424,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strategy beli kembali saham $139 juta, holdings bitcoin tak berubah",
-   "x": "Strategy melakukan pembelian kembali saham senilai $139 juta namun mempertahankan jumlah aset Bitcoin yang dimiliki. Kepemilikan Bitcoin perusahaan ini mewakili sekitar 4% dari total suplai yang terbatas.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-1200x675.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T12:08:37"
-  },
-  {
-   "id": 3315,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tahan penguatan awal saat pedagang perkirakan kenaikan suku bunga September",
-   "x": "Inflasi inti bulanan yang lebih cepat dari perkiraan memicu kekhawatiran tentang kenaikan suku bunga The Fed. Bitcoin menunjukkan ketahanan meskipun ada sentimen hawkish dari pasar keuangan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-fed-pressure.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-12T18:20:06"
-  },
-  {
-   "id": 3493,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Perusahaan Treasury Borong Ethereum, Solana, dan Bitcoin di Tengah Pasar September yang Bergejolak",
-   "x": "Tiga perusahaan treasury kripto yang terdaftar menambah jumlah token mereka minggu lalu, meskipun Bitcoin (BTC), Ethereum (ETH), dan Solana (SOL) bergerak lemah di bulan September. Pembelian tetap berlanjut meskipun…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/perusahaan-crypto-treasury-eth-sol-btc",
-   "img": "https://assets.beincrypto.com/img/tRdlg9rog92XT-6AAH7RAUCHf_A=/smart/99007089bc6e41f89cb85b2cb0166f7c",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-15T03:40:13"
   },
   {
    "id": 3345,
@@ -690,18 +662,18 @@
    "published_at": "2026-09-13T15:20:10"
   },
   {
-   "id": 3350,
+   "id": 3493,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Analis Perkirakan Bitcoin Kurang dari US$5.000 Lagi Menuju Bull Market",
-   "x": "Bitcoin berada USD4.500 di bawah konfirmasi bull market saat whale menjual reli dan dana AS tetap di luar.",
+   "t": "Perusahaan Treasury Borong Ethereum, Solana, dan Bitcoin di Tengah Pasar September yang Bergejolak",
+   "x": "Tiga perusahaan treasury kripto yang terdaftar menambah jumlah token mereka minggu lalu, meskipun Bitcoin (BTC), Ethereum (ETH), dan Solana (SOL) bergerak lemah di bulan September. Pembelian tetap berlanjut meskipun…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-di-bawah-bull-market-whales",
-   "img": "https://assets.beincrypto.com/img/NrJlTKzsmmVOBRowsnxunxeQcCc=/smart/4c7b45607263457e952b2dbe7dd88060",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/perusahaan-crypto-treasury-eth-sol-btc",
+   "img": "https://assets.beincrypto.com/img/tRdlg9rog92XT-6AAH7RAUCHf_A=/smart/99007089bc6e41f89cb85b2cb0166f7c",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-13T17:05:11"
+   "published_at": "2026-09-15T03:40:13"
   },
   {
    "id": 3346,
@@ -718,18 +690,18 @@
    "published_at": "2026-09-13T14:50:15"
   },
   {
-   "id": 3491,
+   "id": 3350,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Yield 10 Tahun Tembus 5%: Apa Artinya untuk Bitcoin dan Saham",
-   "x": "Kenaikan yield Treasury 10 tahun kembali ke 5% memperketat kondisi, menguji valuasi saham, dan reli Bitcoin.",
+   "t": "Analis Perkirakan Bitcoin Kurang dari US$5.000 Lagi Menuju Bull Market",
+   "x": "Bitcoin berada USD4.500 di bawah konfirmasi bull market saat whale menjual reli dan dana AS tetap di luar.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/imbal-hasil-treasury-5-persen-bitcoin-saham",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "13 jam lalu",
+   "url": "https://id.beincrypto.com/bitcoin-di-bawah-bull-market-whales",
+   "img": "https://assets.beincrypto.com/img/NrJlTKzsmmVOBRowsnxunxeQcCc=/smart/4c7b45607263457e952b2dbe7dd88060",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-15T04:30:00"
+   "published_at": "2026-09-13T17:05:11"
   },
   {
    "id": 3519,
@@ -740,10 +712,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-needs-to-reach-82900-to-outrun-a-looming-miner-margin-squeeze",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-power-cost-climb.webp",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T11:20:30"
+  },
+  {
+   "id": 3491,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Yield 10 Tahun Tembus 5%: Apa Artinya untuk Bitcoin dan Saham",
+   "x": "Kenaikan yield Treasury 10 tahun kembali ke 5% memperketat kondisi, menguji valuasi saham, dan reli Bitcoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/imbal-hasil-treasury-5-persen-bitcoin-saham",
+   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-15T04:30:00"
   },
   {
    "id": 3573,
@@ -754,7 +740,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-newest-mobile-privacy-feature-could-make-your-incoming-money-completely-invisible",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-indexer-scan-route.jpeg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T15:20:35"
@@ -768,7 +754,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/altcoins-gained-21-and-still-lost-ground-to-bitcoin-what-would-finally-turn-the-tables",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-clarity.webp",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T10:25:57"
@@ -810,7 +796,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-bridge.webp",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T09:40:26"
