@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:07:41"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2H8AP988B45330TXZG3C9KM/republicans-vs-democrats.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T00:46:15"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/clarity-acts-final-deal-is-already-breaking-down-before-tomorrows-senate-vote",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-60-vote-gate-standard-image.jpg",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T18:20:42"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GDBD5FKT1AWY6RJ5BB9EEC/regulation-semen-lot-of-papers-clarity-act-1.jpg",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T17:42:04"
@@ -96,10 +96,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/another-bitcoin-liquidity-test-arrives-with-tuesdays-us-tax-deadline",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidity-whirlpool.jpg",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T13:45:51"
+  },
+  {
+   "id": 3510,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Komite DPR rilis rancangan UU pajak kripto sebelum pemungutan suara Rabu",
+   "x": "Rancangan undang-undang perpajakan aset digital di AS mencakup pengecualian pajak untuk biaya transaksi tertentu. RUU ini juga mengatur perlakuan pajak untuk stablecoin, mining, dan staking.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824",
+   "img": "https://www.tbstat.com/wp/uploads/2023/08/20230712_USA_CryptoTax_News-1200x675.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T11:52:36"
+  },
+  {
+   "id": 3505,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Paket pajak kripto DPR AS abaikan penundaan pajak hadiah mining dan staking",
+   "x": "RUU perpajakan aset digital baru di AS akan mengubah perlakuan pajak untuk biaya transaksi, stablecoin, dan pinjaman. Namun, aturan mengenai waktu pengenaan pajak atas hadiah dari aktivitas mining dan staking tidak diubah.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T10:04:21"
+  },
+  {
+   "id": 3522,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Penyimpanan mandiri Bitcoin ciptakan celah buta biaya pokok pajak kripto 2026",
+   "x": "Aturan pajak AS 2026 tidak mewajibkan pelaporan biaya pokok untuk koin yang ditransfer jika biaya pembelian investor tidak berubah. Hal ini menciptakan celah buta pada formulir pajak kripto mendatang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-self-custody-creates-a-massive-cost-basis-blind-spot-on-your-2026-crypto-tax-forms",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_nK34KL0aD4.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T08:40:57"
   },
   {
    "id": 3384,
@@ -110,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581",
    "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T08:31:06"
@@ -124,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-leaf-on-tree-balance.png",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T04:19:16"

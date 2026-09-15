@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T11:45:33"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FR3T0NEB8ZH35X810AQSMA/european-union-eu-european-parliament-brussels-2.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T11:38:44"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T14:01:04"
@@ -54,10 +54,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_eDk8lj1bvf.jpg",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T03:20:48"
+  },
+  {
+   "id": 3506,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pembicaraan standar dompet Ethereum, Base gagal, kata peneliti Ethlabs",
+   "x": "Ethereum dan Base akan mengejar desain abstraksi akun yang berbeda setelah pembicaraan standar dompet mereka gagal. Perbedaan desain ini dapat memengaruhi interoperabilitas di masa depan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T09:40:27"
   }
  ]
 }
