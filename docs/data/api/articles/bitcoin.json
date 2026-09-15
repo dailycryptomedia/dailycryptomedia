@@ -1,22 +1,8 @@
 {
- "total": 47,
+ "total": 46,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 3274,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin vs Zcash: Grayscale Ungkap Mana yang Lebih Menguntungkan untuk Di- Mine",
-   "x": "Mining Zcash kini jauh lebih menguntungkan bagi individu dibandingkan dengan mining Bitcoin. Itulah hasil analisis terbaru dari Grayscale Research. Direktur riset, Zach Pandl, menemukan bahwa Bitcoin memang unggul dalam…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/profitabilitas-mining-bitcoin-zcash-grayscale",
-   "img": "https://assets.beincrypto.com/img/9UIbz08vyTEuFWG0477vbz6ZCo4=/smart/4da7a809b4e14f518ebff2f32942b323",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-12T00:42:40"
-  },
   {
    "id": 3396,
    "k": "bitcoin",
@@ -26,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/another-public-company-has-abandoned-its-bitcoin-treasury-after-selling-the-last-764-btc",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kulr-bitcoin-dump.webp",
-   "a": "12 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T10:50:32"
@@ -40,10 +26,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T09:01:03"
+  },
+  {
+   "id": 3442,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Grayscale Baru Jadikan XRP 26% dari Portofolio Terbarunya untuk Advisor",
+   "x": "Portofolio model baru Grayscale tanpa Bitcoin memberikan porsi 26,11% untuk XRP, kedua setelah ether, dan menghadirkan campuran siap pakai bagi para penasihat.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/grayscale-xrp-model-portfolio-advisors",
+   "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-14T19:00:00"
   },
   {
    "id": 3377,
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T10:00:17"
@@ -82,24 +82,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/crypto-mining-untuk-cuci-uang-tambang-rahasia-di-meksiko-bikin-heboh",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T09:00:01"
-  },
-  {
-   "id": 3442,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Grayscale Baru Jadikan XRP 26% dari Portofolio Terbarunya untuk Advisor",
-   "x": "Portofolio model baru Grayscale tanpa Bitcoin memberikan porsi 26,11% untuk XRP, kedua setelah ether, dan menghadirkan campuran siap pakai bagi para penasihat.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/grayscale-xrp-model-portfolio-advisors",
-   "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-14T19:00:00"
   },
   {
    "id": 3314,
@@ -130,6 +116,20 @@
    "published_at": "2026-09-12T17:01:04"
   },
   {
+   "id": 3318,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Coinbase Engineer Ubah Otak Lalat Virtual Menjadi Trader Kripto",
+   "x": "Seorang engineer Coinbase menghubungkan otak lalat buah simulasi ke akun trading Bitcoin. Ia memperingatkan bahwa hal ini tidak membuktikan apa-apa.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/coinbase-engineer-otak-crypto-trader",
+   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-12T20:00:00"
+  },
+  {
    "id": 3378,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T09:55:35"
@@ -166,24 +166,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-belum-selesai-berdarah-analis-bidik-us48-000-sebelum-meroket",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T03:00:04"
-  },
-  {
-   "id": 3318,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Coinbase Engineer Ubah Otak Lalat Virtual Menjadi Trader Kripto",
-   "x": "Seorang engineer Coinbase menghubungkan otak lalat buah simulasi ke akun trading Bitcoin. Ia memperingatkan bahwa hal ini tidak membuktikan apa-apa.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coinbase-engineer-otak-crypto-trader",
-   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-12T20:00:00"
   },
   {
    "id": 3337,
@@ -208,10 +194,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T15:41:46"
+  },
+  {
+   "id": 3387,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bank of Japan Siap Naikkan Suku Bunga ke 1,25%, Tertinggi sejak 1995. Bitcoin Belum Bergerak",
+   "x": "Kenaikan suku bunga Jepang pada hari Jumat akan mencatat level tertinggi dalam 31 tahun. Aset Jepang sedang turun, namun Bitcoin tidak.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/kenaikan-suku-bunga-jepang-perbedaan-bitcoin",
+   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-14T10:09:26"
   },
   {
    "id": 3439,
@@ -222,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GEQRXMNZKPZF714Z603E41/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.png",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T17:50:12"
@@ -250,24 +250,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/revolut-kecolongan-data-kyc-hingga-riwayat-bitcoin-pelanggan-ikut-bocor",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T02:30:04"
-  },
-  {
-   "id": 3387,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bank of Japan Siap Naikkan Suku Bunga ke 1,25%, Tertinggi sejak 1995. Bitcoin Belum Bergerak",
-   "x": "Kenaikan suku bunga Jepang pada hari Jumat akan mencatat level tertinggi dalam 31 tahun. Aset Jepang sedang turun, namun Bitcoin tidak.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kenaikan-suku-bunga-jepang-perbedaan-bitcoin",
-   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-14T10:09:26"
   },
   {
    "id": 3298,
@@ -292,52 +278,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T17:40:04"
-  },
-  {
-   "id": 3438,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Sentuh $79 Ribu, Minyak Jatuh Seiring Trump Sebut Perang Iran Bisa Berakhir",
-   "x": "Harga Bitcoin mendekati $80.000 setelah Presiden AS Donald Trump mengisyaratkan potensi akhir perang AS-Iran. Hal ini turut menekan harga minyak dunia.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T18:56:28"
-  },
-  {
-   "id": 3419,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strive capai rekor 25.000 BTC dengan pembelian terbaru $36,6 juta",
-   "x": "Perusahaan investasi Strive kembali menambah kepemilikan Bitcoin mereka. Akuisisi terbaru ini menunjukkan perlambatan dibandingkan pembelian pekan sebelumnya yang jauh lebih besar.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
-   "img": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-1200x675.jpg",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T15:15:51"
-  },
-  {
-   "id": 3402,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Unik! Perangkat Ini Bikin Seed Phrase Bitcoin dari Radiasi Nuklir!",
-   "x": "",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/unik-perangkat-ini-bikin-seed-phrase-bitcoin-dari-radiasi-nuklir",
-   "img": null,
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T07:00:46"
   },
   {
    "id": 3334,
@@ -354,6 +298,48 @@
    "published_at": "2026-09-13T10:15:01"
   },
   {
+   "id": 3438,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Sentuh $79 Ribu, Minyak Jatuh Seiring Trump Sebut Perang Iran Bisa Berakhir",
+   "x": "Harga Bitcoin mendekati $80.000 setelah Presiden AS Donald Trump mengisyaratkan potensi akhir perang AS-Iran. Hal ini turut menekan harga minyak dunia.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T18:56:28"
+  },
+  {
+   "id": 3419,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Strive capai rekor 25.000 BTC dengan pembelian terbaru $36,6 juta",
+   "x": "Perusahaan investasi Strive kembali menambah kepemilikan Bitcoin mereka. Akuisisi terbaru ini menunjukkan perlambatan dibandingkan pembelian pekan sebelumnya yang jauh lebih besar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
+   "img": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-1200x675.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T15:15:51"
+  },
+  {
+   "id": 3402,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Unik! Perangkat Ini Bikin Seed Phrase Bitcoin dari Radiasi Nuklir!",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/unik-perangkat-ini-bikin-seed-phrase-bitcoin-dari-radiasi-nuklir",
+   "img": null,
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T07:00:46"
+  },
+  {
    "id": 3358,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -368,6 +354,20 @@
    "published_at": "2026-09-13T21:20:10"
   },
   {
+   "id": 3369,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Minyak Meninggalkan Bitcoin dan Emas di Belakang Menjelang Keputusan The Fed pada Rabu",
+   "x": "Harga minyak mentah naik pada hari Senin, sementara aset kripto dan emas turun. Pasar global terpecah menjelang keputusan suku bunga Federal Reserve pada hari Rabu. Brent crude naik 2,75% ke US$107,48, dan West Texas…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/minyak-bitcoin-emas-the-fed-keputusan-pekan",
+   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-14T02:22:30"
+  },
+  {
    "id": 3380,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -376,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FBNSP9ZVJVG90ENN5CFBQ3/etf-weekly-update.png",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T07:07:54"
@@ -390,7 +390,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
    "img": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T18:01:35"
@@ -404,24 +404,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/saat-bitcoin-etf-lain-berdarah-morgan-stanley-malah-terus-tambah-btc",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-12T01:30:15"
-  },
-  {
-   "id": 3369,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Minyak Meninggalkan Bitcoin dan Emas di Belakang Menjelang Keputusan The Fed pada Rabu",
-   "x": "Harga minyak mentah naik pada hari Senin, sementara aset kripto dan emas turun. Pasar global terpecah menjelang keputusan suku bunga Federal Reserve pada hari Rabu. Brent crude naik 2,75% ke US$107,48, dan West Texas…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/minyak-bitcoin-emas-the-fed-keputusan-pekan",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-14T02:22:30"
   },
   {
    "id": 3344,
@@ -438,20 +424,6 @@
    "published_at": "2026-09-13T15:55:14"
   },
   {
-   "id": 3424,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strategy beli kembali saham $139 juta, holdings bitcoin tak berubah",
-   "x": "Strategy melakukan pembelian kembali saham senilai $139 juta namun mempertahankan jumlah aset Bitcoin yang dimiliki. Kepemilikan Bitcoin perusahaan ini mewakili sekitar 4% dari total suplai yang terbatas.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-1200x675.jpg",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T12:08:37"
-  },
-  {
    "id": 3410,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -460,10 +432,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-makro-risiko-the-fed-ecb-boj",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-14T12:52:21"
+  },
+  {
+   "id": 3424,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Strategy beli kembali saham $139 juta, holdings bitcoin tak berubah",
+   "x": "Strategy melakukan pembelian kembali saham senilai $139 juta namun mempertahankan jumlah aset Bitcoin yang dimiliki. Kepemilikan Bitcoin perusahaan ini mewakili sekitar 4% dari total suplai yang terbatas.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-1200x675.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T12:08:37"
   },
   {
    "id": 3353,
@@ -502,7 +488,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-etfs-just-lost-463-million-as-the-fed-puts-btcs-75000-breakout-at-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-breakout-balance.jpg",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T09:40:52"
@@ -600,7 +586,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fed-data-show-hedge-funds-added-400-billion-before-bitcoins-september-rate-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidity-bridge.jpg",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T13:05:50"
@@ -628,7 +614,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-quantum-plan-faces-a-1-6-million-btc-custody-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-custody-quantum-lock.jpg",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T16:50:59"
@@ -642,7 +628,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-braces-for-a-monday-meltdown-so-why-is-bitcoin-holding-near-78000",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ai-selloff.jpg",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T12:30:11"
@@ -656,7 +642,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/leveraged-funds-rebuilt-1669-btc-of-bitcoin-futures-shorts-before-fed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-futures-short-pressure.jpg",
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T11:45:32"
