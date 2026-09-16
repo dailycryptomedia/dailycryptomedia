@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
    "img": "https://www.tbstat.com/wp/uploads/2025/10/cropped-15-1200x675.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T17:08:29"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T11:00:00"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T11:10:27"
@@ -124,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
    "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:21:52"
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:54:10"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-reward-chasm.webp",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T15:45:51"
@@ -186,18 +186,18 @@
    "published_at": "2026-09-15T07:05:03"
   },
   {
-   "id": 3359,
+   "id": 3426,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Protokol DeFi yang diaudit rugi $885 juta akibat serangan di luar cakupan audit",
-   "x": "Sebanyak $885 juta hilang dari protokol DeFi yang telah diaudit, namun serangan terjadi di luar lingkup audit yang dilakukan. Hal ini menyoroti risiko yang masih ada meskipun ada proses audit keamanan.",
+   "t": "ETF Ethereum staking BlackRock bayar imbal hasil, investor tetap pilih dana $9 miliar",
+   "x": "Meskipun ETF Ethereum staking BlackRock menawarkan imbal hasil, investor lebih memilih dana ETHA yang sudah ada. Perbedaan minat ini menyoroti preferensi investor dalam produk aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-audit-blindspot.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-etf-balance-scale.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T20:15:08"
+   "published_at": "2026-09-14T14:50:53"
   },
   {
    "id": 3478,
@@ -214,20 +214,6 @@
    "published_at": "2026-09-15T05:29:13"
   },
   {
-   "id": 3426,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "ETF Ethereum staking BlackRock bayar imbal hasil, investor tetap pilih dana $9 miliar",
-   "x": "Meskipun ETF Ethereum staking BlackRock menawarkan imbal hasil, investor lebih memilih dana ETHA yang sudah ada. Perbedaan minat ini menyoroti preferensi investor dalam produk aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-etf-balance-scale.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T14:50:53"
-  },
-  {
    "id": 3463,
    "k": "defi",
    "cat": "DeFi",
@@ -236,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-holders-could-earn-new-yield-but-getting-out-may-take-up-to-60-days",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-firelight-exit-maze.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T21:45:51"
@@ -250,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aelf-service-recovery.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T20:45:47"
@@ -264,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-v4-proposal-would-put-dao-funds-first-in-line-to-absorb-lending-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-three-market-shield.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:50:30"
