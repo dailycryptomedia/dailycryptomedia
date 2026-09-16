@@ -1,5 +1,5 @@
 {
- "total": 34,
+ "total": 38,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/imbal-hasil-obligasi-global-rekor-tertinggi",
    "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-16T05:49:34"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T20:37:34"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/iran-oil-crypto-network.webp",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T23:00:36"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/dari-kripto-ke-obligasi-as-binance-buka-pintu-baru-lewat-11-etf",
    "img": null,
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T06:00:09"
@@ -82,10 +82,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821",
    "img": "https://www.tbstat.com/wp/uploads/2023/03/20230315_Arbitrum_airdrop-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T11:50:30"
+  },
+  {
+   "id": 3647,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Deutsche Bank segera tawarkan custody aset kripto institusi",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T10:46:28"
   },
   {
    "id": 3360,
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-japan-yield-dam.jpeg",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T17:30:39"
@@ -138,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T11:01:04"
@@ -152,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ringkasan-berita-kripto-minggu-ini-dari-demam-meme-coin-hingga-token-saham",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-13T09:40:57"
@@ -180,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/erebor-bank-stablecoin-celah-trader",
    "img": "https://assets.beincrypto.com/img/ry9ySC4riEOgaLJARTRXjfLW1n4=/smart/38a83f3af38f40108f77a9ce25f810e7",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-16T00:11:41"
@@ -242,6 +256,20 @@
    "published_at": "2026-09-14T06:00:07"
   },
   {
+   "id": 3667,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Deutsche Bank rencanakan kustodian bitcoin dan ether untuk klien institusi di Eropa",
+   "x": "Deutsche Bank berencana meluncurkan layanan kustodian aset digital di Eropa tahun ini, yang awalnya akan mendukung bitcoin, ether, dan stablecoin terpilih. Langkah ini menunjukkan minat bank tradisional terhadap aset kripto institusional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+   "img": "https://www.tbstat.com/wp/uploads/2020/11/2020113_Deutsche-Bank-1200x675.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T10:05:28"
+  },
+  {
    "id": 3388,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -250,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/fca-tokenized-gold-aturan-fund-uk",
    "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-14T09:20:20"
@@ -278,7 +306,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/brazils-b3-gets-digy11-a-new-etf-tracking-bitcoin-treasury-preferred-stock",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/digy11-preferred-share-exposure-standard-image.jpg",
-   "a": "34 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T06:30:30"
@@ -292,24 +320,52 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-india-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T11:01:05"
   },
   {
-   "id": 3328,
+   "id": 3663,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perang bank vs kripto memanas jelang voting CLARITY Act",
-   "x": "Menjelang voting CLARITY Act pada 15 September, terjadi perseteruan antara bank-bank AS dan industri kripto terkait regulasi stablecoin dan yield. Perdebatan ini krusial bagi arah regulasi aset digital di AS.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/perang-bank-vs-kripto-memanas-jelang-voting-clarity-act-15-september",
-   "img": null,
-   "a": "3 hari lalu",
+   "t": "Co-Founder Solana Rayakan Penjualan Tengkorak Dinosaurus Tertokenisasi Senilai US$660.000",
+   "x": "Co-founder Solana menggaungkan penjualan tengkorak dinosaurus ter-tokenisasi Deaton saat penggalangan dana sebesar $660.000 memasuki jam-jam terakhirnya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penjualan-tengkorak-dinosaurus-tertokenisasi-solana",
+   "img": "https://assets.beincrypto.com/img/oTqG3NRliRWbwpcSCvdk8f0XyKU=/smart/3d05a1b6b59f476a893b39cb9ddde28b",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-16T09:22:12"
+  },
+  {
+   "id": 3504,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Pembayaran USDT dalam kesepakatan minyak raksasa energi Polandia senilai $230 juta",
+   "x": "Stablecoin USDT milik Tether menjadi bagian dari kesepakatan minyak yang gagal. Transaksi ini dilaporkan merugikan sebuah raksasa energi Polandia hingga $230 juta pada akhir 2023.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T02:30:49"
+   "published_at": "2026-09-15T13:37:31"
+  },
+  {
+   "id": 3481,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Aturan stablecoin usulan tunda pencairan dana hingga seminggu",
+   "x": "Aturan baru dari OCC dapat menunda pencairan dana stablecoin hingga seminggu. Hal ini berpotensi membuat pembeli dan penyedia konversi harus menanggung biaya awal sebelum dana mereka kembali.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/proposed-stablecoin-rules-might-guarantee-your-dollar-while-making-you-wait-a-week-to-spend-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_ochN637brX.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T07:30:58"
   },
   {
    "id": 3409,
@@ -326,46 +382,46 @@
    "published_at": "2026-09-14T12:52:52"
   },
   {
-   "id": 3504,
+   "id": 3637,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Pembayaran USDT dalam kesepakatan minyak raksasa energi Polandia senilai $230 juta",
-   "x": "Stablecoin USDT milik Tether menjadi bagian dari kesepakatan minyak yang gagal. Transaksi ini dilaporkan merugikan sebuah raksasa energi Polandia hingga $230 juta pada akhir 2023.",
+   "t": "Deutsche Bank tunggu izin regulator untuk layanan kustodian kripto institusional",
+   "x": "Bank terbesar Jerman ini sedang menunggu persetujuan regulator untuk menawarkan layanan penyimpanan aset digital bagi investor institusi. Langkah ini menunjukkan minat bank tradisional pada aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T13:37:31"
-  },
-  {
-   "id": 3481,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Aturan stablecoin usulan tunda pencairan dana hingga seminggu",
-   "x": "Aturan baru dari OCC dapat menunda pencairan dana stablecoin hingga seminggu. Hal ini berpotensi membuat pembeli dan penyedia konversi harus menanggung biaya awal sebelum dana mereka kembali.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/proposed-stablecoin-rules-might-guarantee-your-dollar-while-making-you-wait-a-week-to-spend-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_ochN637brX.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T07:30:58"
-  },
-  {
-   "id": 3630,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Raoul Pal Sebut Bitcoin Kalahkan Emas sebagai Hedge Devaluasi yang Sebenarnya",
-   "x": "Raoul Pal mengatakan Bitcoin, bukan emas, adalah lindung nilai nyata terhadap depresiasi karena kurva adopsinya mendorong kenaikan harga.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/raoul-pal-bitcoin-emas-hedge-debasement",
-   "img": "https://assets.beincrypto.com/img/N-ns-mafFrkl2smiWXCTnHkP-ao=/smart/e3692924b5e9447f9a35d14e832d1de8",
+   "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MVFM6AWTS8K6F6MEKXPCY1/hi-world-bank-initiatives-deutsche-bundesbank-blockchain.jpg",
    "a": "2 jam lalu",
    "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T10:33:12"
+  },
+  {
+   "id": 3572,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Celah tata kelola DeFi izinkan satu dompet minta 98% kas Ampleforth",
+   "x": "Sebuah dompet mengusulkan permintaan dana kas Ampleforth setelah menerima delegasi suara. Tindakan ini tidak menghasilkan transfer dana karena tidak ada suara yang mendukung.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/def-dao-vote.jpeg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T16:30:02"
+  },
+  {
+   "id": 3661,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "JPMorgan Sebut Institusi Belum Ingin Stablecoin, CEO Tether Hanya Menertawakan",
+   "x": "CEO Tether mengejek klaim permintaan stablecoin JPMorgan setelah co-president Doug Petno menyebut minat institusional masih baru.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tether-ceo-jpmorgan-permintaan-stablecoin",
+   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
+   "a": "1 jam lalu",
+   "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-16T04:48:33"
+   "published_at": "2026-09-16T10:45:26"
   },
   {
    "id": 3473,
@@ -382,34 +438,6 @@
    "published_at": "2026-09-15T05:32:12"
   },
   {
-   "id": 3572,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Celah tata kelola DeFi izinkan satu dompet minta 98% kas Ampleforth",
-   "x": "Sebuah dompet mengusulkan permintaan dana kas Ampleforth setelah menerima delegasi suara. Tindakan ini tidak menghasilkan transfer dana karena tidak ada suara yang mendukung.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/def-dao-vote.jpeg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T16:30:02"
-  },
-  {
-   "id": 3578,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pertumbuhan Stablecoin Bisa Tingkatkan Dominasi Dolar, Permintaan Obligasi AS",
-   "x": "Pejabat Bank of England menyatakan dolar digital dapat memperluas akses ke mata uang AS. Penerbit stablecoin berpotensi menjadi pembeli besar obligasi pemerintah AS.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T17:53:04"
-  },
-  {
    "id": 3448,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -424,18 +452,32 @@
    "published_at": "2026-09-14T18:50:28"
   },
   {
-   "id": 3416,
+   "id": 3630,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Regulasi terfragmentasi batasi adopsi stablecoin di keuangan internasional: kepala WTO",
-   "x": "Kepala Organisasi Perdagangan Dunia (WTO) menyatakan regulasi stablecoin yang terpecah membatasi penggunaannya hanya 3% dari pembayaran global. Hal ini menghambat potensi stablecoin dalam mempermudah pembiayaan perdagangan internasional.",
+   "t": "Raoul Pal Sebut Bitcoin Kalahkan Emas sebagai Hedge Devaluasi yang Sebenarnya",
+   "x": "Raoul Pal mengatakan Bitcoin, bukan emas, adalah lindung nilai nyata terhadap depresiasi karena kurva adopsinya mendorong kenaikan harga.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/raoul-pal-bitcoin-emas-hedge-debasement",
+   "img": "https://assets.beincrypto.com/img/N-ns-mafFrkl2smiWXCTnHkP-ao=/smart/e3692924b5e9447f9a35d14e832d1de8",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-16T04:48:33"
+  },
+  {
+   "id": 3578,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Pertumbuhan Stablecoin Bisa Tingkatkan Dominasi Dolar, Permintaan Obligasi AS",
+   "x": "Pejabat Bank of England menyatakan dolar digital dapat memperluas akses ke mata uang AS. Penerbit stablecoin berpotensi menjadi pembeli besar obligasi pemerintah AS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2G0YC6M7V2K2DGBYCT9YS2P/cross-border-transaction-stablecoin-swift-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T13:30:00"
+   "published_at": "2026-09-15T17:53:04"
   },
   {
    "id": 3482,
@@ -452,18 +494,18 @@
    "published_at": "2026-09-15T05:40:30"
   },
   {
-   "id": 3379,
+   "id": 3416,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Otoritas Inggris cari masukan aturan dana untuk emas ter-tokenisasi",
-   "x": "Regulator Inggris ingin mengklarifikasi aturan dana terkait produk emas ter-tokenisasi. Ketidakpastian ini dikhawatirkan menghambat adopsi dan akses investor.",
+   "t": "Regulasi terfragmentasi batasi adopsi stablecoin di keuangan internasional: kepala WTO",
+   "x": "Kepala Organisasi Perdagangan Dunia (WTO) menyatakan regulasi stablecoin yang terpecah membatasi penggunaannya hanya 3% dari pembayaran global. Hal ini menghambat potensi stablecoin dalam mempermudah pembiayaan perdagangan internasional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg",
+   "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2G0YC6M7V2K2DGBYCT9YS2P/cross-border-transaction-stablecoin-swift-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T08:57:00"
+   "published_at": "2026-09-14T13:30:00"
   },
   {
    "id": 3450,
@@ -478,6 +520,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T17:45:51"
+  },
+  {
+   "id": 3379,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Otoritas Inggris cari masukan aturan dana untuk emas ter-tokenisasi",
+   "x": "Regulator Inggris ingin mengklarifikasi aturan dana terkait produk emas ter-tokenisasi. Ketidakpastian ini dikhawatirkan menghambat adopsi dan akses investor.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T08:57:00"
   }
  ]
 }

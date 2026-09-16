@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-lifeboat-deadline.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T12:30:43"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T15:21:26"
@@ -68,10 +68,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/banco-master-collapse-brazil-mahkamah-agung-pemilu",
    "img": "https://assets.beincrypto.com/img/NRl27lr7u6YuiATiEKqJ7wmUm70=/smart/a42db403e3d7486c85d5500b27d4d5cc",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T13:27:43"
+  },
+  {
+   "id": 3645,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Two Prime luncurkan produk yield bitcoin senilai $10 juta",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T11:00:00"
   },
   {
    "id": 3523,
@@ -82,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ozone-chain-siapkan-ekspansi-besar-dari-defi-hingga-bursa-tier-1",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T09:00:39"
@@ -102,18 +116,18 @@
    "published_at": "2026-09-14T16:02:25"
   },
   {
-   "id": 3359,
+   "id": 3670,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Protokol DeFi yang diaudit rugi $885 juta akibat serangan di luar cakupan audit",
-   "x": "Sebanyak $885 juta hilang dari protokol DeFi yang telah diaudit, namun serangan terjadi di luar lingkup audit yang dilakukan. Hal ini menyoroti risiko yang masih ada meskipun ada proses audit keamanan.",
+   "t": "Hook Uniswap v4 palsu jebak trader DeFi dengan kutipan swap bohong",
+   "x": "Peretas memanfaatkan fitur baru Uniswap v4 untuk menampilkan penawaran tukar aset digital yang menarik, namun mengubahnya saat transaksi diselesaikan. Ini membahayakan dana pengguna DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-audit-blindspot.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T20:15:08"
+   "published_at": "2026-09-16T11:10:27"
   },
   {
    "id": 3476,
@@ -124,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
    "img": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T07:05:03"
@@ -152,24 +166,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cryptoiz-siapkan-fitur-baru-bisa-cari-kripto-yang-bisa-bangkit-setelah-dump",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T10:25:24"
   },
   {
-   "id": 3426,
+   "id": 3359,
    "k": "defi",
    "cat": "DeFi",
-   "t": "ETF Ethereum staking BlackRock bayar imbal hasil, investor tetap pilih dana $9 miliar",
-   "x": "Meskipun ETF Ethereum staking BlackRock menawarkan imbal hasil, investor lebih memilih dana ETHA yang sudah ada. Perbedaan minat ini menyoroti preferensi investor dalam produk aset digital.",
+   "t": "Protokol DeFi yang diaudit rugi $885 juta akibat serangan di luar cakupan audit",
+   "x": "Sebanyak $885 juta hilang dari protokol DeFi yang telah diaudit, namun serangan terjadi di luar lingkup audit yang dilakukan. Hal ini menyoroti risiko yang masih ada meskipun ada proses audit keamanan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-etf-balance-scale.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-audit-blindspot.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T14:50:53"
+   "published_at": "2026-09-13T20:15:08"
   },
   {
    "id": 3478,
@@ -184,6 +198,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T05:29:13"
+  },
+  {
+   "id": 3426,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "ETF Ethereum staking BlackRock bayar imbal hasil, investor tetap pilih dana $9 miliar",
+   "x": "Meskipun ETF Ethereum staking BlackRock menawarkan imbal hasil, investor lebih memilih dana ETHA yang sudah ada. Perbedaan minat ini menyoroti preferensi investor dalam produk aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-etf-balance-scale.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T14:50:53"
   },
   {
    "id": 3463,
@@ -208,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aelf-service-recovery.webp",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T20:45:47"
