@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 24,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869",
    "img": "https://www.tbstat.com/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic-1200x675.jpg",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T17:49:30"
+  },
+  {
+   "id": 3697,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "CFTC dan SEC Perkuat Regulasi Kripto Pasca Kegagalan Clarity Act",
+   "x": "Regulator AS berjanji menggunakan kewenangan yang ada untuk memberi kepastian regulasi aset kripto. Kegagalan RUU Clarity Act di Senat AS memicu langkah ini, yang bisa berdampak pada kepastian hukum bagi pelaku industri kripto di sana.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
+   "a": "8 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T17:17:03"
   },
   {
    "id": 3579,
@@ -26,24 +40,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/clarity-act-gagal-voting-senat-circle",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T18:49:43"
-  },
-  {
-   "id": 3452,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump dukung kamera pengawas Flock",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T20:07:41"
   },
   {
    "id": 3587,
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-cloture-failed-standard-image.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T19:20:33"
@@ -74,6 +74,20 @@
    "published_at": "2026-09-15T00:46:15"
   },
   {
+   "id": 3683,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Komite Pajak DPR AS Ajukan RUU Pajak Kripto Pasca Kegagalan Clarity Act",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T16:21:44"
+  },
+  {
    "id": 3372,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -88,6 +102,20 @@
    "published_at": "2026-09-14T04:24:37"
   },
   {
+   "id": 3452,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump dukung kamera pengawas Flock",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T20:07:41"
+  },
+  {
    "id": 3580,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -96,24 +124,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bill-gates-peringatan-ai-goalkeepers-pledge",
    "img": "https://assets.beincrypto.com/img/wjyYsgES99MdYEYMz_RoBUZfMlI=/smart/07433c28b2d4436fb7c63b2ca2336973",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T17:47:48"
-  },
-  {
-   "id": 3562,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pajak 'De Minimis' Kripto yang Dinanti Akan Dibahas DPR AS Minggu Ini",
-   "x": "Proposal keringanan pajak untuk transaksi aset digital akan dibahas di DPR AS, sebuah langkah yang dinanti pelaku industri kripto. Jika disetujui, ini dapat mengubah perlakuan pajak aset digital di Amerika Serikat.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T16:34:35"
   },
   {
    "id": 3449,
@@ -144,6 +158,62 @@
    "published_at": "2026-09-14T17:42:04"
   },
   {
+   "id": 3691,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "JPMorgan: Clarity Act Belum Mati, Tapi Peluang Lolos Sangat Kecil",
+   "x": "JPMorgan menilai RUU Clarity Act untuk regulasi kripto di AS belum sepenuhnya gagal, namun peluang untuk disahkan tahun ini sangat sempit. Ketidakpastian regulasi ini terus membayangi pasar aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_2-1200x673.jpg",
+   "a": "24 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T17:01:22"
+  },
+  {
+   "id": 3562,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pajak 'De Minimis' Kripto yang Dinanti Akan Dibahas DPR AS Minggu Ini",
+   "x": "Proposal keringanan pajak untuk transaksi aset digital akan dibahas di DPR AS, sebuah langkah yang dinanti pelaku industri kripto. Jika disetujui, ini dapat mengubah perlakuan pajak aset digital di Amerika Serikat.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T16:34:35"
+  },
+  {
+   "id": 3427,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Uji likuiditas Bitcoin lain tiba dengan tenggat pajak AS",
+   "x": "Pembayaran pajak AS pada 15 September berpotensi menyerap cadangan bank sebelum keputusan The Fed. Peristiwa ini menjadi ujian likuiditas pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/another-bitcoin-liquidity-test-arrives-with-tuesdays-us-tax-deadline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidity-whirlpool.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T13:45:51"
+  },
+  {
+   "id": 3505,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Paket pajak kripto DPR AS abaikan penundaan pajak hadiah mining dan staking",
+   "x": "RUU perpajakan aset digital baru di AS akan mengubah perlakuan pajak untuk biaya transaksi, stablecoin, dan pinjaman. Namun, aturan mengenai waktu pengenaan pajak atas hadiah dari aktivitas mining dan staking tidak diubah.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T10:04:21"
+  },
+  {
    "id": 3510,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -166,38 +236,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T14:05:47"
   },
   {
-   "id": 3427,
+   "id": 3575,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Uji likuiditas Bitcoin lain tiba dengan tenggat pajak AS",
-   "x": "Pembayaran pajak AS pada 15 September berpotensi menyerap cadangan bank sebelum keputusan The Fed. Peristiwa ini menjadi ujian likuiditas pasar aset digital.",
+   "t": "Peluang RUU Klaritas tenggelam di bawah 20% seiring menyempitnya jalan Senat",
+   "x": "RUU Klaritas menghadapi voting krusial di Senat AS dengan peluang lolos yang semakin kecil. Penurunan ekspektasi ini menunjukkan tantangan dalam mengesahkan regulasi pasar kripto yang komprehensif di Amerika Serikat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/another-bitcoin-liquidity-test-arrives-with-tuesdays-us-tax-deadline",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidity-whirlpool.jpg",
+   "url": "https://cryptoslate.com/clarity-act-chances-sink-below-20-as-senates-path-to-60-votes-narrows",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-senate-vote-2.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T13:45:51"
+   "published_at": "2026-09-15T14:01:33"
   },
   {
-   "id": 3505,
+   "id": 3474,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Paket pajak kripto DPR AS abaikan penundaan pajak hadiah mining dan staking",
-   "x": "RUU perpajakan aset digital baru di AS akan mengubah perlakuan pajak untuk biaya transaksi, stablecoin, dan pinjaman. Namun, aturan mengenai waktu pengenaan pajak atas hadiah dari aktivitas mining dan staking tidak diubah.",
+   "t": "CoinEx hentikan operasi setelah 9 tahun, sebut ada kontraksi kripto signifikan",
+   "x": "Bursa kripto CoinEx akan menutup layanannya setelah beroperasi sembilan tahun akibat penurunan volume perdagangan dan likuiditas. Biaya operasional yang meningkat juga menjadi faktor penentu keputusan ini.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg",
+   "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-leaf-on-tree-balance.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T10:04:21"
+   "published_at": "2026-09-15T04:19:16"
   },
   {
    "id": 3384,
@@ -222,38 +292,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T18:54:10"
-  },
-  {
-   "id": 3575,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Peluang RUU Klaritas tenggelam di bawah 20% seiring menyempitnya jalan Senat",
-   "x": "RUU Klaritas menghadapi voting krusial di Senat AS dengan peluang lolos yang semakin kecil. Penurunan ekspektasi ini menunjukkan tantangan dalam mengesahkan regulasi pasar kripto yang komprehensif di Amerika Serikat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/clarity-act-chances-sink-below-20-as-senates-path-to-60-votes-narrows",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-senate-vote-2.webp",
    "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T14:01:33"
-  },
-  {
-   "id": 3474,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CoinEx hentikan operasi setelah 9 tahun, sebut ada kontraksi kripto signifikan",
-   "x": "Bursa kripto CoinEx akan menutup layanannya setelah beroperasi sembilan tahun akibat penurunan volume perdagangan dan likuiditas. Biaya operasional yang meningkat juga menjadi faktor penentu keputusan ini.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-leaf-on-tree-balance.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T04:19:16"
+   "published_at": "2026-09-15T18:54:10"
   },
   {
    "id": 3522,
@@ -268,6 +310,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T08:40:57"
+  },
+  {
+   "id": 3682,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bernstein Prediksi Aturan Ketat SEC, CFTC Pasca Gagalnya Clarity Act",
+   "x": "Bernstein memprediksi badan regulator AS akan segera menerbitkan regulasi baru untuk menggantikan waktu yang hilang dalam negosiasi Clarity Act. Kegagalan voting RUU tersebut mendorong percepatan pembuatan aturan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2N0MK84B62M60XV8Q5G8MYA/hi-trumps-strategic-reserve-and-clarity-act-1.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T12:36:20"
+  },
+  {
+   "id": 3692,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bernstein: Kegagalan Clarity Act beri jalan imbal hasil stablecoin, tunggu aturan SEC dan CFTC",
+   "x": "Kegagalan UU Clarity Act di Senat AS membuat imbal hasil stablecoin tetap bisa dinikmati. Regulator SEC dan CFTC diperkirakan akan segera merilis aturan baru terkait aset kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T12:47:59"
   }
  ]
 }

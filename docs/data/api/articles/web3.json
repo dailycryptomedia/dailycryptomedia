@@ -1,21 +1,35 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 3338,
+   "id": 3701,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pembuat Dompet Kripto Punya 24 Jam untuk Lapor Regulator Jika Ada Celah",
-   "x": "Pembuat dompet kripto komersial kini wajib melaporkan insiden keamanan serius dalam waktu 24 jam kepada regulator. Aturan baru ini mengharuskan proses pelaporan tiga tahap.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-cra-compliance-path.jpg",
-   "a": "3 hari lalu",
+   "t": "Circle Luncurkan Mainnet Arc dengan BlackRock, DTCC, Visa sebagai Validator",
+   "x": "Circle meluncurkan mainnet Arc yang bersifat permissioned, dengan BlackRock, DTCC, dan Visa sebagai validator. Token ARC senilai 10 miliar telah dicetak tanpa rencana peluncuran publik.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-13T11:45:33"
+   "published_at": "2026-09-16T14:56:02"
+  },
+  {
+   "id": 3708,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "B.AI Luncurkan Lapisan Penyelesaian Global untuk Ekonomi Agen AI",
+   "x": "B.AI memperkenalkan lapisan penyelesaian global yang mengintegrasikan perutean komputasi dan infrastruktur agen terdesentralisasi. Inisiatif ini bertujuan memposisikan B.AI sebagai pemimpin dalam infrastruktur kecerdasan buatan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-1-trillion-cover.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T13:44:14"
   },
   {
    "id": 3418,
@@ -32,20 +46,6 @@
    "published_at": "2026-09-14T11:38:44"
   },
   {
-   "id": 3435,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "MetaMask tambah perlindungan dompet baru terhadap penipuan kripto",
-   "x": "MetaMask memperkenalkan fitur keamanan baru untuk mendeteksi transfer mencurigakan dan menghentikan transaksi yang tidak sesuai. Langkah ini bertujuan melindungi pengguna dari potensi penipuan aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T14:01:04"
-  },
-  {
    "id": 3652,
    "k": "web3",
    "cat": "Web3",
@@ -54,10 +54,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/fac8e66ee0cef664e189ed56170a5a95737c7f37-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T08:07:59"
+  },
+  {
+   "id": 3435,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "MetaMask tambah perlindungan dompet baru terhadap penipuan kripto",
+   "x": "MetaMask memperkenalkan fitur keamanan baru untuk mendeteksi transfer mencurigakan dan menghentikan transaksi yang tidak sesuai. Langkah ini bertujuan melindungi pengguna dari potensi penipuan aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T14:01:04"
   },
   {
    "id": 3483,

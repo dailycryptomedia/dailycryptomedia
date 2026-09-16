@@ -4,20 +4,6 @@
  "offset": 0,
  "articles": [
   {
-   "id": 3336,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Agen AI Belanja Online? Riset Baru Sebut Tidak Begitu",
-   "x": "Riset TRM mengamati transaksi senilai $52,7 juta, menemukan bahwa sebagian besar tidak berasal dari agen AI. Temuan ini menyoroti kesalahpahaman tentang penggunaan dana oleh kecerdasan buatan di ranah daring.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-13T13:01:03"
-  },
-  {
    "id": 3518,
    "k": "defi",
    "cat": "DeFi",
@@ -32,18 +18,18 @@
    "published_at": "2026-09-15T12:30:43"
   },
   {
-   "id": 3444,
+   "id": 3690,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pertumbuhan Robinhood Chain didorong 4 faktor, kata analis",
-   "x": "Total nilai terkunci (TVL) Robinhood Chain melonjak hampir $1 miliar sejak diluncurkan Juli lalu, didukung oleh volume perdagangan DEX yang tinggi. Pertumbuhan pesat ini menunjukkan adopsi yang kuat terhadap ekosistem DeFi baru.",
+   "t": "Pendiri Aave Usulkan 'Jalan Uber' untuk DeFi Pasca Kegagalan Clarity Act",
+   "x": "Pendiri Aave melihat potensi jalur pengembangan DeFi yang mirip 'Uber' jika legislasi kripto AS terus tertunda. Hal ini mengisyaratkan adaptasi sektor DeFi terhadap ketidakpastian regulasi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-1200x675.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
+   "img": "https://www.tbstat.com/wp/uploads/2025/10/cropped-15-1200x675.jpg",
+   "a": "17 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T20:21:52"
+   "published_at": "2026-09-16T17:08:29"
   },
   {
    "id": 3527,
@@ -54,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T15:21:26"
@@ -68,10 +54,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/banco-master-collapse-brazil-mahkamah-agung-pemilu",
    "img": "https://assets.beincrypto.com/img/NRl27lr7u6YuiATiEKqJ7wmUm70=/smart/a42db403e3d7486c85d5500b27d4d5cc",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T13:27:43"
+  },
+  {
+   "id": 3431,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bitmine tambah $68 juta Ethereum, kepemilikan dekati 6 juta ETH",
+   "x": "Pembelian ini mendekatkan Bitmine pada target kepemilikan 5% pasokan Ethereum, dengan sebagian besar token menghasilkan imbal hasil staking. Ini menunjukkan ekspansi agresif perusahaan di ekosistem Ethereum.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-14T16:02:25"
   },
   {
    "id": 3645,
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T11:00:00"
@@ -102,20 +102,6 @@
    "published_at": "2026-09-15T09:00:39"
   },
   {
-   "id": 3431,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bitmine tambah $68 juta Ethereum, kepemilikan dekati 6 juta ETH",
-   "x": "Pembelian ini mendekatkan Bitmine pada target kepemilikan 5% pasokan Ethereum, dengan sebagian besar token menghasilkan imbal hasil staking. Ini menunjukkan ekspansi agresif perusahaan di ekosistem Ethereum.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T16:02:25"
-  },
-  {
    "id": 3670,
    "k": "defi",
    "cat": "DeFi",
@@ -124,24 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T11:10:27"
   },
   {
-   "id": 3476,
+   "id": 3444,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Zama perluas lini Morpho setelah vault capai US$40 juta, luncurkan private swap di Ethereum",
-   "x": "Zama meluncurkan fitur private swap di jaringan Ethereum setelah produk vault Morpho mencapai valuasi US$40 juta. Inovasi ini memungkinkan pengguna mengakses 12 vault yang sudah ada dengan privasi lebih terjamin.",
+   "t": "Pertumbuhan Robinhood Chain didorong 4 faktor, kata analis",
+   "x": "Total nilai terkunci (TVL) Robinhood Chain melonjak hampir $1 miliar sejak diluncurkan Juli lalu, didukung oleh volume perdagangan DEX yang tinggi. Pertumbuhan pesat ini menunjukkan adopsi yang kuat terhadap ekosistem DeFi baru.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
-   "img": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
+   "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
+   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-1200x675.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T07:05:03"
+   "published_at": "2026-09-14T20:21:52"
   },
   {
    "id": 3457,
@@ -170,6 +156,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T10:25:24"
+  },
+  {
+   "id": 3706,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Biaya Cardano Hanya Tutupi 0,7% Imbal Hasil Staking, Transaksi Turun 72%",
+   "x": "Pendapatan dari biaya transaksi di jaringan Cardano hanya menutupi sebagian kecil dari imbal hasil staking, seiring penurunan volume transaksi yang signifikan. Ini mengindikasikan tantangan dalam menjaga insentif bagi validator dan pengguna.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-reward-chasm.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T15:45:51"
+  },
+  {
+   "id": 3476,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Zama perluas lini Morpho setelah vault capai US$40 juta, luncurkan private swap di Ethereum",
+   "x": "Zama meluncurkan fitur private swap di jaringan Ethereum setelah produk vault Morpho mencapai valuasi US$40 juta. Inovasi ini memungkinkan pengguna mengakses 12 vault yang sudah ada dengan privasi lebih terjamin.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
+   "img": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T07:05:03"
   },
   {
    "id": 3359,
@@ -208,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-etf-balance-scale.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T14:50:53"
@@ -236,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aelf-service-recovery.webp",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T20:45:47"
@@ -254,20 +268,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:50:30"
-  },
-  {
-   "id": 3347,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "90% perdagangan DeFi Anda kembali ke market maker Wall Street",
-   "x": "Sebagian besar transaksi di platform DeFi ternyata hanya mengarahkan likuiditas ke market maker besar di Wall Street. Hal ini menimbulkan pertanyaan tentang desentralisasi sebenarnya di ekosistem DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-90-of-your-defi-trades-are-quietly-being-routed-back-to-wall-street-market-makers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/market-makers-defi-wave.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-13T13:45:40"
   }
  ]
 }
