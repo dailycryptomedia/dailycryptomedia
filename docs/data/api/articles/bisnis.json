@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/klaim-laba-anthropic-biaya-pelatihan",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T16:42:02"
@@ -68,24 +68,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T13:25:52"
   },
   {
-   "id": 3490,
+   "id": 3631,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Balancer Ajukan Penutupan setelah Rencana Pemulihan Gagal Dongkrak Pendapatan",
-   "x": "Balancer (BAL) akan menghentikan operasinya secara bertahap melalui proposal governance yang akan mengubah pool yang memenuhi syarat menjadi hanya bisa penarikan mulai bulan depan dan mengembalikan treasury DAO kepada…",
+   "t": "Tingkat Kemiskinan di AS Turun ke 10,2% pada 2025 sebelum Inflasi Meningkat",
+   "x": "Tingkat kemiskinan di AS turun menjadi 10,2% pada 2025. Pendapatan rumah tangga median riil mencapai rekor US$87.460, menurut data dari Census Bureau. Biro tersebut merilis data ini pada hari Selasa. Data ini hanya…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/balancer-winddown-usulan-distribusi-treasury",
-   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "20 jam lalu",
+   "url": "https://id.beincrypto.com/tingkat-kemiskinan-as-2025-sensus-pendapatan",
+   "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-15T04:58:59"
+   "published_at": "2026-09-16T04:33:21"
   },
   {
    "id": 3475,
@@ -96,10 +96,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HHXN4JX4VQKB9WX83V8K8J/single-leaf-on-tree-balancer.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T03:33:23"
+  },
+  {
+   "id": 3490,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Balancer Ajukan Penutupan setelah Rencana Pemulihan Gagal Dongkrak Pendapatan",
+   "x": "Balancer (BAL) akan menghentikan operasinya secara bertahap melalui proposal governance yang akan mengubah pool yang memenuhi syarat menjadi hanya bisa penarikan mulai bulan depan dan mengembalikan treasury DAO kepada…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/balancer-winddown-usulan-distribusi-treasury",
+   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-15T04:58:59"
   },
   {
    "id": 3407,
