@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stani-kulechovs-uber-plan-for-aave-could-turn-everyday-crypto-savers-into-washingtons-worst-political-nightmare",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-regulation-uber-path.webp",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T16:30:50"
@@ -102,18 +102,18 @@
    "published_at": "2026-09-15T12:30:43"
   },
   {
-   "id": 3444,
+   "id": 3476,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pertumbuhan Robinhood Chain didorong 4 faktor, kata analis",
-   "x": "Total nilai terkunci (TVL) Robinhood Chain melonjak hampir $1 miliar sejak diluncurkan Juli lalu, didukung oleh volume perdagangan DEX yang tinggi. Pertumbuhan pesat ini menunjukkan adopsi yang kuat terhadap ekosistem DeFi baru.",
+   "t": "Zama perluas lini Morpho setelah vault capai US$40 juta, luncurkan private swap di Ethereum",
+   "x": "Zama meluncurkan fitur private swap di jaringan Ethereum setelah produk vault Morpho mencapai valuasi US$40 juta. Inovasi ini memungkinkan pengguna mengakses 12 vault yang sudah ada dengan privasi lebih terjamin.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
-   "img": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-1200x675.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
+   "img": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T20:21:52"
+   "published_at": "2026-09-15T07:05:03"
   },
   {
    "id": 3457,
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:54:10"
@@ -144,34 +144,6 @@
    "published_at": "2026-09-16T11:10:27"
   },
   {
-   "id": 3476,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Zama perluas lini Morpho setelah vault capai US$40 juta, luncurkan private swap di Ethereum",
-   "x": "Zama meluncurkan fitur private swap di jaringan Ethereum setelah produk vault Morpho mencapai valuasi US$40 juta. Inovasi ini memungkinkan pengguna mengakses 12 vault yang sudah ada dengan privasi lebih terjamin.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
-   "img": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T07:05:03"
-  },
-  {
-   "id": 3826,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Perbaikan Splash Cardano Atasi Eksploitasi, Namun 2,4 Juta ADA Hilang",
-   "x": "Eksploitasi pada protokol Splash Cardano mengakibatkan hilangnya 2,42 juta ADA secara bersih. Pemegang aset kripto ini kini menghadapi ketidakpastian karena OADA belum menyediakan opsi penebusan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/locked-ada-exit.webp",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T15:45:48"
-  },
-  {
    "id": 3478,
    "k": "defi",
    "cat": "DeFi",
@@ -184,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T05:29:13"
+  },
+  {
+   "id": 3826,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Perbaikan Splash Cardano Atasi Eksploitasi, Namun 2,4 Juta ADA Hilang",
+   "x": "Eksploitasi pada protokol Splash Cardano mengakibatkan hilangnya 2,42 juta ADA secara bersih. Pemegang aset kripto ini kini menghadapi ketidakpastian karena OADA belum menyediakan opsi penebusan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/locked-ada-exit.webp",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T15:45:48"
   },
   {
    "id": 3706,
@@ -208,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-holders-could-earn-new-yield-but-getting-out-may-take-up-to-60-days",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-firelight-exit-maze.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T21:45:51"
@@ -222,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aelf-service-recovery.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T20:45:47"
@@ -236,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-v4-proposal-would-put-dao-funds-first-in-line-to-absorb-lending-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-three-market-shield.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:50:30"
@@ -250,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/chainflip-tron-usdt-recovery-standard-image.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T08:00:08"
