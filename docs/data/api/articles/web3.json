@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/avalanche-helicon-validator-loop-standard-image.jpg",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T05:40:12"
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-bridge-usdc-ke-blockchain-arc-buatan-circle",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T09:00:39"
@@ -40,24 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T14:56:02"
   },
   {
-   "id": 3418,
+   "id": 3506,
    "k": "web3",
    "cat": "Web3",
-   "t": "Aturan siber Uni Eropa wajibkan pelaporan 24 jam untuk pembuat dompet kripto",
-   "x": "Penyedia dompet kripto di Uni Eropa kini diwajibkan melaporkan kerentanan dalam 24 jam dan eksploitasi dalam 72 jam. Pelanggaran dapat dikenakan denda hingga $17,3 juta, meningkatkan kewajiban kepatuhan.",
+   "t": "Pembicaraan standar dompet Ethereum, Base gagal, kata peneliti Ethlabs",
+   "x": "Ethereum dan Base akan mengejar desain abstraksi akun yang berbeda setelah pembicaraan standar dompet mereka gagal. Perbedaan desain ini dapat memengaruhi interoperabilitas di masa depan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FR3T0NEB8ZH35X810AQSMA/european-union-eu-european-parliament-brussels-2.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T11:38:44"
+   "published_at": "2026-09-15T09:40:27"
   },
   {
    "id": 3652,
@@ -82,38 +82,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-1-trillion-cover.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T13:44:14"
-  },
-  {
-   "id": 3435,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "MetaMask tambah perlindungan dompet baru terhadap penipuan kripto",
-   "x": "MetaMask memperkenalkan fitur keamanan baru untuk mendeteksi transfer mencurigakan dan menghentikan transaksi yang tidak sesuai. Langkah ini bertujuan melindungi pengguna dari potensi penipuan aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T14:01:04"
-  },
-  {
-   "id": 3506,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pembicaraan standar dompet Ethereum, Base gagal, kata peneliti Ethlabs",
-   "x": "Ethereum dan Base akan mengejar desain abstraksi akun yang berbeda setelah pembicaraan standar dompet mereka gagal. Perbedaan desain ini dapat memengaruhi interoperabilitas di masa depan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T09:40:27"
   },
   {
    "id": 3544,

@@ -1,21 +1,21 @@
 {
- "total": 19,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 3518,
+   "id": 3825,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Raksasa DeFi yang pernah kelola $3 miliar usulkan pembubaran diri",
-   "x": "Sebuah protokol DeFi besar yang pernah mengelola aset hingga $3 miliar kini mengusulkan untuk menghentikan operasinya. Pemegang token akan memberikan suara pada rencana pembubaran ini dalam waktu dekat.",
+   "t": "Rencana Aave Stani Bisa Jadi Mimpi Buruk Regulator AS",
+   "x": "Setelah RUU CLARITY terganjal, pendiri Aave ingin DeFi memaksa Washington melalui adopsi. Namun, lapisan produk Aave masih membuka celah bagi regulator untuk bertindak.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-lifeboat-deadline.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/stani-kulechovs-uber-plan-for-aave-could-turn-everyday-crypto-savers-into-washingtons-worst-political-nightmare",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-regulation-uber-path.webp",
+   "a": "54 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-15T12:30:43"
+   "published_at": "2026-09-17T16:30:50"
   },
   {
    "id": 3690,
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
    "img": "https://www.tbstat.com/wp/uploads/2025/10/cropped-15-1200x675.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T17:08:29"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T15:21:26"
@@ -54,24 +54,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/banco-master-collapse-brazil-mahkamah-agung-pemilu",
    "img": "https://assets.beincrypto.com/img/NRl27lr7u6YuiATiEKqJ7wmUm70=/smart/a42db403e3d7486c85d5500b27d4d5cc",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T13:27:43"
-  },
-  {
-   "id": 3431,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bitmine tambah $68 juta Ethereum, kepemilikan dekati 6 juta ETH",
-   "x": "Pembelian ini mendekatkan Bitmine pada target kepemilikan 5% pasokan Ethereum, dengan sebagian besar token menghasilkan imbal hasil staking. Ini menunjukkan ekspansi agresif perusahaan di ekosistem Ethereum.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T16:02:25"
   },
   {
    "id": 3645,
@@ -102,18 +88,18 @@
    "published_at": "2026-09-15T09:00:39"
   },
   {
-   "id": 3670,
+   "id": 3518,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Hook Uniswap v4 palsu jebak trader DeFi dengan kutipan swap bohong",
-   "x": "Peretas memanfaatkan fitur baru Uniswap v4 untuk menampilkan penawaran tukar aset digital yang menarik, namun mengubahnya saat transaksi diselesaikan. Ini membahayakan dana pengguna DeFi.",
+   "t": "Raksasa DeFi yang pernah kelola $3 miliar usulkan pembubaran diri",
+   "x": "Sebuah protokol DeFi besar yang pernah mengelola aset hingga $3 miliar kini mengusulkan untuk menghentikan operasinya. Pemegang token akan memberikan suara pada rencana pembubaran ini dalam waktu dekat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-lifeboat-deadline.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T11:10:27"
+   "published_at": "2026-09-15T12:30:43"
   },
   {
    "id": 3444,
@@ -144,32 +130,18 @@
    "published_at": "2026-09-14T20:54:10"
   },
   {
-   "id": 3437,
+   "id": 3670,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Cryptoiz siapkan fitur baru, bisa cari kripto yang bisa bangkit setelah dump",
-   "x": "Platform Cryptoiz mengembangkan fitur baru untuk mengidentifikasi aset kripto yang berpotensi pulih setelah mengalami penurunan harga. Ini bertujuan membantu investor menemukan peluang pembalikan tren.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/cryptoiz-siapkan-fitur-baru-bisa-cari-kripto-yang-bisa-bangkit-setelah-dump",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-14T10:25:24"
-  },
-  {
-   "id": 3706,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Biaya Cardano Hanya Tutupi 0,7% Imbal Hasil Staking, Transaksi Turun 72%",
-   "x": "Pendapatan dari biaya transaksi di jaringan Cardano hanya menutupi sebagian kecil dari imbal hasil staking, seiring penurunan volume transaksi yang signifikan. Ini mengindikasikan tantangan dalam menjaga insentif bagi validator dan pengguna.",
+   "t": "Hook Uniswap v4 palsu jebak trader DeFi dengan kutipan swap bohong",
+   "x": "Peretas memanfaatkan fitur baru Uniswap v4 untuk menampilkan penawaran tukar aset digital yang menarik, namun mengubahnya saat transaksi diselesaikan. Ini membahayakan dana pengguna DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-reward-chasm.webp",
-   "a": "20 jam lalu",
+   "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T15:45:51"
+   "published_at": "2026-09-16T11:10:27"
   },
   {
    "id": 3476,
@@ -186,18 +158,18 @@
    "published_at": "2026-09-15T07:05:03"
   },
   {
-   "id": 3426,
+   "id": 3826,
    "k": "defi",
    "cat": "DeFi",
-   "t": "ETF Ethereum staking BlackRock bayar imbal hasil, investor tetap pilih dana $9 miliar",
-   "x": "Meskipun ETF Ethereum staking BlackRock menawarkan imbal hasil, investor lebih memilih dana ETHA yang sudah ada. Perbedaan minat ini menyoroti preferensi investor dalam produk aset digital.",
+   "t": "Perbaikan Splash Cardano Atasi Eksploitasi, Namun 2,4 Juta ADA Hilang",
+   "x": "Eksploitasi pada protokol Splash Cardano mengakibatkan hilangnya 2,42 juta ADA secara bersih. Pemegang aset kripto ini kini menghadapi ketidakpastian karena OADA belum menyediakan opsi penebusan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-etf-balance-scale.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/locked-ada-exit.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T14:50:53"
+   "published_at": "2026-09-17T15:45:48"
   },
   {
    "id": 3478,
@@ -212,6 +184,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T05:29:13"
+  },
+  {
+   "id": 3706,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Biaya Cardano Hanya Tutupi 0,7% Imbal Hasil Staking, Transaksi Turun 72%",
+   "x": "Pendapatan dari biaya transaksi di jaringan Cardano hanya menutupi sebagian kecil dari imbal hasil staking, seiring penurunan volume transaksi yang signifikan. Ini mengindikasikan tantangan dalam menjaga insentif bagi validator dan pengguna.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-reward-chasm.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T15:45:51"
   },
   {
    "id": 3463,
@@ -264,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/chainflip-tron-usdt-recovery-standard-image.jpg",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T08:00:08"
