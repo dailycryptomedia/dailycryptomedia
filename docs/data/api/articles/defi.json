@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-lifeboat-deadline.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T12:30:43"
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
    "img": "https://www.tbstat.com/wp/uploads/2025/10/cropped-15-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T17:08:29"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T11:00:00"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ozone-chain-siapkan-ekspansi-besar-dari-defi-hingga-bursa-tier-1",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T09:00:39"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T11:10:27"
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cryptoiz-siapkan-fitur-baru-bisa-cari-kripto-yang-bisa-bangkit-setelah-dump",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T10:25:24"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-reward-chasm.webp",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T15:45:51"
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
    "img": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T07:05:03"
@@ -254,6 +254,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:50:30"
+  },
+  {
+   "id": 3794,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Chainflip reset saldo penyedia TRON USDT jadi nol pasca eksploitasi $736.000",
+   "x": "Penyedia aset digital masih memiliki catatan on-chain atas hak mereka, namun Chainflip belum mengumumkan jadwal pembayaran kembali. Insiden ini menyoroti risiko keamanan dalam ekosistem aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/chainflip-tron-usdt-recovery-standard-image.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T08:00:08"
   }
  ]
 }
