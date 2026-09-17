@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-16T11:44:02"
+  },
+  {
+   "id": 3842,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Andrew Yang desak 'kill switch' AI di tengah kekhawatiran keamanan",
+   "x": "Mantan kandidat presiden AS, Andrew Yang, menyerukan anggota parlemen untuk memberlakukan aturan pertanggungjawaban dan masa tunggu bagi perusahaan AI terdepan. Kekhawatiran muncul terkait agen otonom yang menimbulkan risiko keamanan siber dan ketenagakerjaan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-andrew-yang-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T18:06:03"
   },
   {
    "id": 3472,
@@ -82,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/underwriter-ipo-anthropic-pengeluaran-ai",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-16T21:41:12"

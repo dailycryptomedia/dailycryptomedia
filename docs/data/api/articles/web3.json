@@ -1,21 +1,21 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 3757,
+   "id": 3846,
    "k": "web3",
    "cat": "Web3",
-   "t": "Upgrade Helicon Avalanche pangkas penguncian validator dari 14 hari jadi 48 jam",
-   "x": "Upgrade Helicon Avalanche akan mengurangi periode penguncian validator menjadi 48 jam dari sebelumnya 14 hari. Perubahan ini bertujuan menyederhanakan proses bagi validator.",
+   "t": "Optimism setujui pembaruan Superchain untuk interoperabilitas",
+   "x": "Optimism telah menyetujui pembaruan penting untuk Superchain-nya, yang diperlukan sebelum interoperabilitas dapat diaktifkan. Pengguna tidak perlu melakukan tindakan apa pun, namun operator harus memperbarui layanan fault-proof dan alat penarikan dana.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/avalanche-helicon-validator-loop-standard-image.jpg",
-   "a": "11 jam lalu",
+   "url": "https://cryptoslate.com/optimism-just-approved-the-upgrade-its-superchain-needs-before-interoperability-can-go-live",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-upgrade-testnets-1.webp",
+   "a": "47 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T05:40:12"
+   "published_at": "2026-09-17T19:40:13"
   },
   {
    "id": 3795,
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-bridge-usdc-ke-blockchain-arc-buatan-circle",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T09:00:39"
@@ -74,18 +74,18 @@
    "published_at": "2026-09-16T08:07:59"
   },
   {
-   "id": 3708,
+   "id": 3757,
    "k": "web3",
    "cat": "Web3",
-   "t": "B.AI Luncurkan Lapisan Penyelesaian Global untuk Ekonomi Agen AI",
-   "x": "B.AI memperkenalkan lapisan penyelesaian global yang mengintegrasikan perutean komputasi dan infrastruktur agen terdesentralisasi. Inisiatif ini bertujuan memposisikan B.AI sebagai pemimpin dalam infrastruktur kecerdasan buatan.",
+   "t": "Upgrade Helicon Avalanche pangkas penguncian validator dari 14 hari jadi 48 jam",
+   "x": "Upgrade Helicon Avalanche akan mengurangi periode penguncian validator menjadi 48 jam dari sebelumnya 14 hari. Perubahan ini bertujuan menyederhanakan proses bagi validator.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-1-trillion-cover.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/avalanche-helicon-validator-loop-standard-image.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T13:44:14"
+   "published_at": "2026-09-17T05:40:12"
   },
   {
    "id": 3544,
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T10:27:55"
+  },
+  {
+   "id": 3708,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "B.AI Luncurkan Lapisan Penyelesaian Global untuk Ekonomi Agen AI",
+   "x": "B.AI memperkenalkan lapisan penyelesaian global yang mengintegrasikan perutean komputasi dan infrastruktur agen terdesentralisasi. Inisiatif ini bertujuan memposisikan B.AI sebagai pemimpin dalam infrastruktur kecerdasan buatan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-1-trillion-cover.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T13:44:14"
   },
   {
    "id": 3483,
