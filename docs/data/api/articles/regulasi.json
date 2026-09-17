@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-09-15T17:49:30"
   },
   {
+   "id": 3748,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Apakah Strategic Bitcoin Reserve Semakin Dekat Jadi Undang-Undang? Panel DPR Baru Saja Voting 28-21",
+   "x": "Dua komite di DPR Amerika Serikat mengajukan legislasi terkait aset kripto pada Rabu, dengan menyetujui rancangan undang-undang untuk membentuk Strategic Bitcoin (BTC) Reserve dan aturan terpisah yang menetapkan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/komite-dpr-cadangan-bitcoin-rancangan-undang-undang-pajak-kripto",
+   "img": "https://assets.beincrypto.com/img/oflN5Co6h1dPcIK978qbbbJBNf0=/smart/dff224f2d5df4adeb6e4e346cdf6635e",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-17T05:34:51"
+  },
+  {
    "id": 3697,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -26,24 +40,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T17:17:03"
-  },
-  {
-   "id": 3579,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CLARITY Act Gagal di Pemungutan Suara Senat, Saham Circle Turun 11%",
-   "x": "CLARITY Act gagal mencapai 60 suara di Senat pada hari Selasa. Saham Circle turun 11% karena rancangan undang-undang aset kripto tersebut terhenti.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/clarity-act-gagal-voting-senat-circle",
-   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-15T18:49:43"
   },
   {
    "id": 3735,
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T00:23:44"
@@ -82,24 +82,38 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T16:21:44"
   },
   {
-   "id": 3372,
+   "id": 3691,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Senator Republik AS rilis draf akhir RUU Kripto, Trump setujui aturan etika",
-   "x": "Senator Republik merilis draf final RUU Clarity yang membatasi pejabat dan pasangan mereka dari urusan terkait aset kripto. Presiden Trump dilaporkan menyetujui sebagian besar ketentuan etika dalam rancangan undang-undang tersebut.",
+   "t": "JPMorgan: Clarity Act Belum Mati, Tapi Peluang Lolos Sangat Kecil",
+   "x": "JPMorgan menilai RUU Clarity Act untuk regulasi kripto di AS belum sepenuhnya gagal, namun peluang untuk disahkan tahun ini sangat sempit. Ketidakpastian regulasi ini terus membayangi pasar aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
-   "img": "https://www.tbstat.com/wp/uploads/2019/07/washington-dc-capitol-1-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280",
+   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_2-1200x673.jpg",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-14T04:24:37"
+   "published_at": "2026-09-16T17:01:22"
+  },
+  {
+   "id": 3579,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "CLARITY Act Gagal di Pemungutan Suara Senat, Saham Circle Turun 11%",
+   "x": "CLARITY Act gagal mencapai 60 suara di Senat pada hari Selasa. Saham Circle turun 11% karena rancangan undang-undang aset kripto tersebut terhenti.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/clarity-act-gagal-voting-senat-circle",
+   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-15T18:49:43"
   },
   {
    "id": 3452,
@@ -114,20 +128,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T20:07:41"
-  },
-  {
-   "id": 3580,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bill Gates Peringatkan AI Akan Dibuat untuk yang Terkaya tanpa Aturan",
-   "x": "Bill Gates memperingatkan bahwa AI akan dibangun untuk kalangan terkaya tanpa aturan pemerintah, dan berjanji menggelontorkan USD1 miliar untuk memperluas akses.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bill-gates-peringatan-ai-goalkeepers-pledge",
-   "img": "https://assets.beincrypto.com/img/wjyYsgES99MdYEYMz_RoBUZfMlI=/smart/07433c28b2d4436fb7c63b2ca2336973",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-15T17:47:48"
   },
   {
    "id": 3465,
@@ -158,18 +158,32 @@
    "published_at": "2026-09-14T18:20:42"
   },
   {
-   "id": 3691,
+   "id": 3755,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "JPMorgan: Clarity Act Belum Mati, Tapi Peluang Lolos Sangat Kecil",
-   "x": "JPMorgan menilai RUU Clarity Act untuk regulasi kripto di AS belum sepenuhnya gagal, namun peluang untuk disahkan tahun ini sangat sempit. Ketidakpastian regulasi ini terus membayangi pasar aset digital.",
+   "t": "Polisi Korea Selatan dakwa 26 pengguna Polymarket untuk judi ilegal",
+   "x": "Polisi Korea Selatan mendakwa 26 pengguna platform Polymarket atas tuduhan berjudi secara ilegal. Regulator negara tersebut sebelumnya telah memblokir akses ke Polymarket karena dianggap ilegal.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_2-1200x673.jpg",
-   "a": "8 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333",
+   "img": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News_2-1200x675.jpg",
+   "a": "48 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T17:01:22"
+   "published_at": "2026-09-17T06:12:50"
+  },
+  {
+   "id": 3580,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bill Gates Peringatkan AI Akan Dibuat untuk yang Terkaya tanpa Aturan",
+   "x": "Bill Gates memperingatkan bahwa AI akan dibangun untuk kalangan terkaya tanpa aturan pemerintah, dan berjanji menggelontorkan USD1 miliar untuk memperluas akses.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bill-gates-peringatan-ai-goalkeepers-pledge",
+   "img": "https://assets.beincrypto.com/img/wjyYsgES99MdYEYMz_RoBUZfMlI=/smart/07433c28b2d4436fb7c63b2ca2336973",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-15T17:47:48"
   },
   {
    "id": 3730,
@@ -180,7 +194,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T21:46:03"
@@ -194,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump-2.png",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T20:51:38"
@@ -250,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T18:01:55"
@@ -278,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
    "img": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T18:06:15"
@@ -368,18 +382,18 @@
    "published_at": "2026-09-15T10:04:21"
   },
   {
-   "id": 3718,
+   "id": 3756,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Panel DPR AS setujui kerangka kerja pajak kripto federal pertama",
-   "x": "Komite DPR AS menyetujui rancangan undang-undang pajak kripto. Ini terjadi sehari setelah undang-undang Clarity Act di Senat mengalami hambatan.",
+   "t": "Sen. Gillibrand: Demokrat masih berkomitmen loloskan Clarity Act",
+   "x": "Senator AS Kirsten Gillibrand menyatakan komitmen Demokrat untuk meloloskan Clarity Act, meskipun analis menilai kecil kemungkinan RUU tersebut disahkan tahun ini. Fokus kini beralih ke upaya regulasi SEC dan CFTC.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293",
-   "img": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
-   "a": "8 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326",
+   "img": "https://www.tbstat.com/wp/uploads/2019/07/washington-dc-capitol-1-1200x675.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T17:29:50"
+   "published_at": "2026-09-17T02:09:31"
   },
   {
    "id": 3474,
@@ -390,24 +404,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-leaf-on-tree-balance.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T04:19:16"
   },
   {
-   "id": 3692,
+   "id": 3718,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bernstein: Kegagalan Clarity Act beri jalan imbal hasil stablecoin, tunggu aturan SEC dan CFTC",
-   "x": "Kegagalan UU Clarity Act di Senat AS membuat imbal hasil stablecoin tetap bisa dinikmati. Regulator SEC dan CFTC diperkirakan akan segera merilis aturan baru terkait aset kripto.",
+   "t": "Panel DPR AS setujui kerangka kerja pajak kripto federal pertama",
+   "x": "Komite DPR AS menyetujui rancangan undang-undang pajak kripto. Ini terjadi sehari setelah undang-undang Clarity Act di Senat mengalami hambatan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
-   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
-   "a": "12 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293",
+   "img": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T12:47:59"
+   "published_at": "2026-09-16T17:29:50"
   },
   {
    "id": 3682,
@@ -418,10 +432,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2N0MK84B62M60XV8Q5G8MYA/hi-trumps-strategic-reserve-and-clarity-act-1.jpg",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T12:36:20"
+  },
+  {
+   "id": 3692,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bernstein: Kegagalan Clarity Act beri jalan imbal hasil stablecoin, tunggu aturan SEC dan CFTC",
+   "x": "Kegagalan UU Clarity Act di Senat AS membuat imbal hasil stablecoin tetap bisa dinikmati. Regulator SEC dan CFTC diperkirakan akan segera merilis aturan baru terkait aset kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
+   "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T12:47:59"
   }
  ]
 }

@@ -1,8 +1,22 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 3757,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Upgrade Helicon Avalanche pangkas penguncian validator dari 14 hari jadi 48 jam",
+   "x": "Upgrade Helicon Avalanche akan mengurangi periode penguncian validator menjadi 48 jam dari sebelumnya 14 hari. Perubahan ini bertujuan menyederhanakan proses bagi validator.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/avalanche-helicon-validator-loop-standard-image.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T05:40:12"
+  },
   {
    "id": 3701,
    "k": "web3",
@@ -12,24 +26,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T14:56:02"
-  },
-  {
-   "id": 3708,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "B.AI Luncurkan Lapisan Penyelesaian Global untuk Ekonomi Agen AI",
-   "x": "B.AI memperkenalkan lapisan penyelesaian global yang mengintegrasikan perutean komputasi dan infrastruktur agen terdesentralisasi. Inisiatif ini bertujuan memposisikan B.AI sebagai pemimpin dalam infrastruktur kecerdasan buatan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-1-trillion-cover.webp",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-16T13:44:14"
   },
   {
    "id": 3418,
@@ -54,10 +54,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/fac8e66ee0cef664e189ed56170a5a95737c7f37-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T08:07:59"
+  },
+  {
+   "id": 3708,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "B.AI Luncurkan Lapisan Penyelesaian Global untuk Ekonomi Agen AI",
+   "x": "B.AI memperkenalkan lapisan penyelesaian global yang mengintegrasikan perutean komputasi dan infrastruktur agen terdesentralisasi. Inisiatif ini bertujuan memposisikan B.AI sebagai pemimpin dalam infrastruktur kecerdasan buatan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/b-ai-1-trillion-cover.webp",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T13:44:14"
   },
   {
    "id": 3435,
@@ -72,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-14T14:01:04"
-  },
-  {
-   "id": 3483,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Base yang didukung Coinbase ungkap kebenaran tak nyaman soal L2 Ethereum",
-   "x": "Pengembangan standar dompet kripto generasi baru antara jaringan layer-2 Ethereum dan Base menemui jalan buntu. Kegagalan ini menunjukkan tantangan dalam menyelaraskan prioritas antar proyek di ekosistem Ethereum.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_eDk8lj1bvf.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T03:20:48"
   },
   {
    "id": 3506,
@@ -114,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-15T10:27:55"
+  },
+  {
+   "id": 3483,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Base yang didukung Coinbase ungkap kebenaran tak nyaman soal L2 Ethereum",
+   "x": "Pengembangan standar dompet kripto generasi baru antara jaringan layer-2 Ethereum dan Base menemui jalan buntu. Kegagalan ini menunjukkan tantangan dalam menyelaraskan prioritas antar proyek di ekosistem Ethereum.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_eDk8lj1bvf.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-15T03:20:48"
   }
  ]
 }
