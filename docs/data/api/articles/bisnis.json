@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-andrew-yang-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T18:06:03"
@@ -40,52 +40,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T07:37:32"
-  },
-  {
-   "id": 3529,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Anthropic Sudah Untung — Jika Kita Abaikan Biaya Pengembangan Claude",
-   "x": "Klaim profit Anthropic tidak memasukkan biaya pelatihan model AI baru, yakni pengeluaran yang menjadi pertaruhan para investor sebelum IPO perusahaan tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/klaim-laba-anthropic-biaya-pelatihan",
-   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-15T16:42:02"
-  },
-  {
-   "id": 3915,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "UE, Swedia tangkap tujuh pelaku pencucian uang kripto senilai $7,1 juta",
-   "x": "Penyelidikan terhadap jaringan pencucian uang kripto senilai $7,1 juta mengungkap keterkaitan dengan kejahatan terorganisir dan pembunuhan bayaran. Penangkapan dilakukan di Uni Emirat Arab dan Swedia.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T09:57:33"
-  },
-  {
-   "id": 3538,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Standard Chartered Prediksi ARB Arbitrum Naik 70 Kali Lipat",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-15T13:25:52"
   },
   {
    "id": 3727,
@@ -100,6 +58,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-16T21:41:12"
+  },
+  {
+   "id": 3915,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "UE, Swedia tangkap tujuh pelaku pencucian uang kripto senilai $7,1 juta",
+   "x": "Penyelidikan terhadap jaringan pencucian uang kripto senilai $7,1 juta mengungkap keterkaitan dengan kejahatan terorganisir dan pembunuhan bayaran. Penangkapan dilakukan di Uni Emirat Arab dan Swedia.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T09:57:33"
   },
   {
    "id": 3660,
