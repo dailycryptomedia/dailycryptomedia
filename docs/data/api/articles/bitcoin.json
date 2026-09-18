@@ -1,5 +1,5 @@
 {
- "total": 78,
+ "total": 83,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T16:22:23"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-tak-goyah-usai-fed-rate-naik-siap-balik-ke-us80-000",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T06:00:49"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-etf-tripel-emas-analis-bloomberg-klaim",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T19:23:52"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T17:01:03"
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-realized-cap-contracts-for-the-first-time-in-a-month-as-btc-price-faces-a-71300-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bear-pressure.webp",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T12:00:40"
@@ -180,24 +180,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
    "img": "https://www.tbstat.com/wp/uploads/2021/02/20210203_Department_of_Treasury-1200x675.png",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T20:05:28"
   },
   {
-   "id": 3642,
+   "id": 3877,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Core 32 masuk pengujian akhir dengan validasi lebih cepat, ubah biaya, dan perbaikan keamanan",
+   "t": "Kas perusahaan hanya beli 5.900 bitcoin dalam 3 bulan, sinyal permintaan lemah",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/945127549bc4106cc0730befcad887387473e052-3096x2072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "29 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T12:00:41"
+   "published_at": "2026-09-18T05:43:21"
   },
   {
    "id": 3530,
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/the-fed-kerek-suku-bunga-25-bps-begini-reaksi-bitcoin-dan-pasar-kripto",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T02:30:19"
@@ -284,18 +284,18 @@
    "published_at": "2026-09-17T00:56:10"
   },
   {
-   "id": 3612,
+   "id": 3642,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemegang Zcash Dukung Transaksi Lebih Cepat dan Halving Mirip Bitcoin",
+   "t": "Bitcoin Core 32 masuk pengujian akhir dengan validasi lebih cepat, ubah biaya, dan perbaikan keamanan",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T05:54:04"
+   "published_at": "2026-09-16T12:00:41"
   },
   {
    "id": 3593,
@@ -362,24 +362,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346",
    "img": "https://www.tbstat.com/wp/uploads/2026/09/bitcoin-1200x675.jpg",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T11:47:30"
   },
   {
-   "id": 3643,
+   "id": 3612,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin lepas dari korelasi Dollar Index, saham AS jelang pengumuman The Fed",
+   "t": "Pemegang Zcash Dukung Transaksi Lebih Cepat dan Halving Mirip Bitcoin",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T11:16:51"
+   "published_at": "2026-09-16T05:54:04"
   },
   {
    "id": 3662,
@@ -432,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q83QQQWRKSXT4SW5VX5T0H/man-hacker-breaking-blockchain-2.jpg",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T09:57:51"
@@ -452,18 +452,18 @@
    "published_at": "2026-09-15T15:37:47"
   },
   {
-   "id": 3644,
+   "id": 3879,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Trader bitcoin waspadai kenaikan suku bunga The Fed",
+   "t": "ETF Ether dan XRP catat aliran keluar dana, Bitcoin di atas $77.000",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/18c064c6413091acaad8ec6ad59dfc258ff93092-1340x748.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T11:00:00"
+   "published_at": "2026-09-18T04:49:17"
   },
   {
    "id": 3784,
@@ -474,7 +474,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rentang-harga-bitcoin-break-permintaan-onchain-menghilang",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T09:51:20"
@@ -488,7 +488,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T12:05:13"
@@ -536,18 +536,18 @@
    "published_at": "2026-09-15T09:35:02"
   },
   {
-   "id": 3646,
+   "id": 3643,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin lepas $450 juta seiring gagalnya Clarity Act",
+   "t": "Bitcoin lepas dari korelasi Dollar Index, saham AS jelang pengumuman The Fed",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5fd904349db1854350f6e1be97b52ee9471c9e23-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T10:48:44"
+   "published_at": "2026-09-16T11:16:51"
   },
   {
    "id": 3853,
@@ -558,7 +558,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perlombaan-kuantum-as-dampak-bitcoin",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T21:32:53"
@@ -586,7 +586,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-the-fed-balance-sheet-is-lying-to-you-about-the-next-bitcoin-rally",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rate-weight-runner.webp",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T10:25:50"
@@ -600,7 +600,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T04:05:39"
@@ -614,24 +614,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-15-analysts-downplay-clarity-act-415234",
    "img": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T02:48:42"
   },
   {
-   "id": 3773,
+   "id": 3644,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Naik Saat Minyak Turun Akibat Laporan Intervensi China di Iran",
+   "t": "Trader bitcoin waspadai kenaikan suku bunga The Fed",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-   "img": null,
-   "a": "14 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T10:41:15"
+   "published_at": "2026-09-16T11:00:00"
   },
   {
    "id": 3696,
@@ -690,18 +690,18 @@
    "published_at": "2026-09-16T11:46:39"
   },
   {
-   "id": 3648,
+   "id": 3646,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin bertahan dekat $76.000 jelang kenaikan suku bunga The Fed",
+   "t": "ETF Bitcoin lepas $450 juta seiring gagalnya Clarity Act",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-   "img": null,
+   "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5fd904349db1854350f6e1be97b52ee9471c9e23-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T10:37:46"
+   "published_at": "2026-09-16T10:48:44"
   },
   {
    "id": 3665,
@@ -746,32 +746,32 @@
    "published_at": "2026-09-15T15:20:35"
   },
   {
-   "id": 3769,
+   "id": 3864,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kas perusahaan tahanan Bitcoin beli 5.900 BTC dalam tiga bulan",
-   "x": "Perusahaan yang menahan Bitcoin dalam kasnya masih mengalami kerugian belum terealisasi karena harga aset digital ini turun di bawah $80.000. Aliran dana masuk baru juga dilaporkan menyusut.",
+   "t": "Zcash targetkan November untuk peningkatan mainnet NU7 dengan blok 25 detik",
+   "x": "Peningkatan NU7 pada Zcash akan memangkas waktu blok menjadi 25 detik dan mempertahankan jadwal halving. Aktivasi testnet direncanakan pada 6 Oktober.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q99A5R9QF96G9ZWXTTPJX0/article-covers-236026-bitcoin-treasuries-stall-q4-biggest-companies-buying-1280x853.png",
-   "a": "16 jam lalu",
+   "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T09:00:31"
+   "published_at": "2026-09-18T04:51:29"
   },
   {
-   "id": 3744,
+   "id": 3773,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Zcash melonjak 23% seiring kenaikan Bitcoin dan token utama",
-   "x": "Harga Zcash naik signifikan sebesar 23% di tengah penguatan Bitcoin dan token aset digital lainnya. Kenaikan ini terjadi meski The Fed baru saja menaikkan suku bunga.",
+   "t": "Bitcoin Naik Saat Minyak Turun Akibat Laporan Intervensi China di Iran",
+   "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3117cf3dd45002820f985ed15736a3333261d9c0-1508x842.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+   "img": null,
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T04:47:27"
+   "published_at": "2026-09-17T10:41:15"
   },
   {
    "id": 3493,
@@ -782,7 +782,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perusahaan-crypto-treasury-eth-sol-btc",
    "img": "https://assets.beincrypto.com/img/tRdlg9rog92XT-6AAH7RAUCHf_A=/smart/99007089bc6e41f89cb85b2cb0166f7c",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-15T03:40:13"
@@ -810,38 +810,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-holds-76000-after-fed-rate-hike-but-4-demand-signals-flash-warning",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-showdown.webp",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T09:30:53"
   },
   {
-   "id": 3803,
+   "id": 3769,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Perusahaan Treasury Bitcoin Bisa Lampaui BTC, Namun Risikonya Sebanding?",
-   "x": "Perusahaan yang mengelola aset treasury Bitcoin menjanjikan imbal hasil lebih tinggi dibanding investasi langsung pada BTC. Namun, investor perlu menimbang potensi keuntungan terhadap risiko penurunan nilai yang mungkin terjadi.",
+   "t": "Kas perusahaan tahanan Bitcoin beli 5.900 BTC dalam tiga bulan",
+   "x": "Perusahaan yang menahan Bitcoin dalam kasnya masih mengalami kerugian belum terealisasi karena harga aset digital ini turun di bawah $80.000. Aliran dana masuk baru juga dilaporkan menyusut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MQKH8M6FB9RA6PJPEFV90G/magazine-young-crypto-founder-1.png",
-   "a": "11 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q99A5R9QF96G9ZWXTTPJX0/article-covers-236026-bitcoin-treasuries-stall-q4-biggest-companies-buying-1280x853.png",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T13:30:00"
+   "published_at": "2026-09-17T09:00:31"
   },
   {
-   "id": 3813,
+   "id": 3648,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kripto untuk penasihat: melampaui bitcoin dan ether",
+   "t": "Bitcoin bertahan dekat $76.000 jelang kenaikan suku bunga The Fed",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+   "img": null,
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T14:57:11"
+   "published_at": "2026-09-16T10:37:46"
   }
  ]
 }
