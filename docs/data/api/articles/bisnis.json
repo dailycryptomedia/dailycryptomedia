@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-09-16T21:41:12"
   },
   {
+   "id": 4016,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Potensi IPO Anthropic senilai $2 triliun memicu perdagangan kripto $80 juta",
+   "x": "Perdagangan derivatif kripto senilai hampir $80 juta telah muncul terkait potensi IPO raksasa Anthropic. Hal ini menunjukkan minat spekulatif investor kripto terhadap valuasi perusahaan teknologi besar sebelum mereka melantai di bursa saham.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/anthropic-crypto-ipo-trade.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T18:05:02"
+  },
+  {
    "id": 3842,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -26,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-andrew-yang-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T18:06:03"
