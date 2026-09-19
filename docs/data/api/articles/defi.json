@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrpl-tries-to-mathematically-prove-its-new-lending-market-cannot-be-drained",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-formal-proof-vault.webp",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:35:12"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/claude-openai-pelanggaran-hacktron-exploit",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T16:29:11"
@@ -88,20 +88,6 @@
    "published_at": "2026-09-18T02:02:00"
   },
   {
-   "id": 3645,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Two Prime luncurkan produk yield bitcoin senilai $10 juta",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-16T11:00:00"
-  },
-  {
    "id": 3937,
    "k": "defi",
    "cat": "DeFi",
@@ -110,24 +96,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hyperliquid-collateral-unlock.webp",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T14:40:05"
-  },
-  {
-   "id": 3670,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Hook Uniswap v4 palsu jebak trader DeFi dengan kutipan swap bohong",
-   "x": "Peretas memanfaatkan fitur baru Uniswap v4 untuk menampilkan penawaran tukar aset digital yang menarik, namun mengubahnya saat transaksi diselesaikan. Ini membahayakan dana pengguna DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-hook-bait.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-16T11:10:27"
   },
   {
    "id": 3826,
