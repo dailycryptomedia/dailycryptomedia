@@ -1,5 +1,5 @@
 {
- "total": 366,
+ "total": 369,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-09-16T17:17:26"
   },
   {
+   "id": 3976,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pi Network buka ulang KYC untuk pengguna Indonesia dengan KIA",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/pi-network-bawa-kabar-baru-buat-indonesia-pengguna-kia-bisa-ulang-kyc",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T02:30:05"
+  },
+  {
    "id": 3965,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-sbi-just-put-millions-behind-a-singapore-startups-stablecoin-push",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/dtcpay-global-payments.webp",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T19:50:45"
@@ -60,20 +74,6 @@
    "published_at": "2026-09-17T17:00:00"
   },
   {
-   "id": 3882,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bandung bangun ekosistem blockchain lewat angkot listrik",
-   "x": "Pemerintah Kota Bandung meluncurkan program angkot listrik berbayar Rp7.000 sebagai langkah awal membangun ekosistem blockchain. Inisiatif ini membuka pintu bagi ekonomi digital kota.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bandung-bangun-ekosistem-blockchain-angkot-jadi-pintu-masuknya",
-   "img": null,
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T06:00:28"
-  },
-  {
    "id": 3818,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/835ea4daddfdc629af7a5d1bf07c9510cb5baea1-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T11:15:00"
@@ -116,6 +116,20 @@
    "published_at": "2026-09-17T12:13:37"
   },
   {
+   "id": 3882,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bandung bangun ekosistem blockchain lewat angkot listrik",
+   "x": "Pemerintah Kota Bandung meluncurkan program angkot listrik berbayar Rp7.000 sebagai langkah awal membangun ekosistem blockchain. Inisiatif ini membuka pintu bagi ekonomi digital kota.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bandung-bangun-ekosistem-blockchain-angkot-jadi-pintu-masuknya",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T06:00:28"
+  },
+  {
    "id": 3955,
    "k": "pasar",
    "cat": "Pasar",
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fca-draws-the-uk-boundary-for-offshore-crypto-platforms-ahead-of-2027-rules",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/uk-crypto-entry-screening.webp",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T18:45:35"
@@ -158,20 +172,6 @@
    "published_at": "2026-09-16T06:38:48"
   },
   {
-   "id": 3760,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tak goyah usai The Fed naikkan suku bunga, siap ke US$80.000?",
-   "x": "Bitcoin menunjukkan ketahanan terhadap kenaikan suku bunga The Fed dan isu regulasi CLARITY Act. Investor kini menanti apakah aset kripto utama ini akan kembali menguji level US$80.000.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-tak-goyah-usai-fed-rate-naik-siap-balik-ke-us80-000",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T06:00:49"
-  },
-  {
    "id": 3929,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/03/20220329_Crypto_Liquidity_And_Sanctions.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:27:41"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:16:37"
@@ -214,6 +214,20 @@
    "published_at": "2026-09-17T12:12:24"
   },
   {
+   "id": 3760,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tak goyah usai The Fed naikkan suku bunga, siap ke US$80.000?",
+   "x": "Bitcoin menunjukkan ketahanan terhadap kenaikan suku bunga The Fed dan isu regulasi CLARITY Act. Investor kini menanti apakah aset kripto utama ini akan kembali menguji level US$80.000.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-tak-goyah-usai-fed-rate-naik-siap-balik-ke-us80-000",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T06:00:49"
+  },
+  {
    "id": 3936,
    "k": "defi",
    "cat": "DeFi",
@@ -222,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrpl-tries-to-mathematically-prove-its-new-lending-market-cannot-be-drained",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-formal-proof-vault.webp",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:35:12"
@@ -236,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2021/03/mr-wonderful-kevin-oleary-shark-tank-bitcoin-gID_4.jpg",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T18:35:54"
@@ -254,20 +268,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T12:00:00"
-  },
-  {
-   "id": 3616,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Binance Buka Akses ke 11 ETF AS, Dari Treasury Hingga Obligasi",
-   "x": "Binance kini menawarkan akses ke 11 ETF AS, mencakup instrumen dari obligasi pemerintah hingga surat utang. Langkah ini menimbulkan pertanyaan tentang semakin kaburnya batas antara aset kripto dan keuangan tradisional.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/dari-kripto-ke-obligasi-as-binance-buka-pintu-baru-lewat-11-etf",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-16T06:00:09"
   },
   {
    "id": 3716,
@@ -312,6 +312,20 @@
    "published_at": "2026-09-16T16:51:03"
   },
   {
+   "id": 3616,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Binance Buka Akses ke 11 ETF AS, Dari Treasury Hingga Obligasi",
+   "x": "Binance kini menawarkan akses ke 11 ETF AS, mencakup instrumen dari obligasi pemerintah hingga surat utang. Langkah ini menimbulkan pertanyaan tentang semakin kaburnya batas antara aset kripto dan keuangan tradisional.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/dari-kripto-ke-obligasi-as-binance-buka-pintu-baru-lewat-11-etf",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-16T06:00:09"
+  },
+  {
    "id": 3669,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -334,7 +348,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:22:49"
@@ -348,24 +362,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T17:55:57"
-  },
-  {
-   "id": 3795,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Cara Bridge USDC ke Blockchain Arc Buatan Circle untuk Pemula",
-   "x": "Panduan ini menjelaskan langkah-langkah untuk memindahkan USDC ke jaringan Arc yang baru diluncurkan oleh Circle. Pembaca akan dibimbing melalui proses bridge dan opsi yang tersedia.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/cara-bridge-usdc-ke-blockchain-arc-buatan-circle",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T09:00:39"
   },
   {
    "id": 3690,
@@ -390,7 +390,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/945127549bc4106cc0730befcad887387473e052-3096x2072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T05:43:21"
@@ -408,6 +408,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-16T22:29:27"
+  },
+  {
+   "id": 3795,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Cara Bridge USDC ke Blockchain Arc Buatan Circle untuk Pemula",
+   "x": "Panduan ini menjelaskan langkah-langkah untuk memindahkan USDC ke jaringan Arc yang baru diluncurkan oleh Circle. Pembaca akan dibimbing melalui proses bridge dan opsi yang tersedia.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cara-bridge-usdc-ke-blockchain-arc-buatan-circle",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T09:00:39"
   },
   {
    "id": 3622,
@@ -452,20 +466,6 @@
    "published_at": "2026-09-17T19:30:48"
   },
   {
-   "id": 3917,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Modal Rp960 Ribu, Trader Kripto Raih Profit Rp398 Juta dalam 14 Menit",
-   "x": "Seorang trader di jaringan Solana berhasil meraup keuntungan fantastis dalam waktu singkat. Kisah ini menyoroti potensi keuntungan besar di pasar kripto, namun juga risiko tinggi yang menyertainya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bermodalkan-rp960-ribu-trader-kripto-profit-rp398-juta-dalam-14-menit",
-   "img": null,
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T10:00:27"
-  },
-  {
    "id": 3844,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -488,7 +488,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:06:31"
@@ -506,6 +506,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T06:23:22"
+  },
+  {
+   "id": 3917,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Modal Rp960 Ribu, Trader Kripto Raih Profit Rp398 Juta dalam 14 Menit",
+   "x": "Seorang trader di jaringan Solana berhasil meraup keuntungan fantastis dalam waktu singkat. Kisah ini menyoroti potensi keuntungan besar di pasar kripto, namun juga risiko tinggi yang menyertainya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bermodalkan-rp960-ribu-trader-kripto-profit-rp398-juta-dalam-14-menit",
+   "img": null,
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T10:00:27"
   },
   {
    "id": 3790,
@@ -550,20 +564,6 @@
    "published_at": "2026-09-16T19:19:23"
   },
   {
-   "id": 3920,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin belum rontok, tapi US$65.000 mulai jadi skenario serius",
-   "x": "Meskipun menghadapi sentimen negatif, Bitcoin masih bertahan di atas US$76.000. Namun, analis mulai mempertimbangkan skenario penurunan ke US$65.000 jika tekanan jual meningkat.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-belum-rontok-tapi-us65-000-mulai-jadi-skenario-serius",
-   "img": null,
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T07:00:11"
-  },
-  {
    "id": 3691,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -606,6 +606,20 @@
    "published_at": "2026-09-16T06:24:13"
   },
   {
+   "id": 3920,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin belum rontok, tapi US$65.000 mulai jadi skenario serius",
+   "x": "Meskipun menghadapi sentimen negatif, Bitcoin masih bertahan di atas US$76.000. Namun, analis mulai mempertimbangkan skenario penurunan ke US$65.000 jika tekanan jual meningkat.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-belum-rontok-tapi-us65-000-mulai-jadi-skenario-serius",
+   "img": null,
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T07:00:11"
+  },
+  {
    "id": 3969,
    "k": "web3",
    "cat": "Web3",
@@ -614,7 +628,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp",
-   "a": "41 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T00:40:50"
@@ -648,20 +662,6 @@
    "published_at": "2026-09-17T16:22:23"
   },
   {
-   "id": 3918,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Update Kripto Terbaru: BTC Menghijau, ZEC, HYPE dan BNB Jadi Primadona",
-   "x": "Pasar aset kripto menunjukkan tren positif dengan Bitcoin yang bangkit dari tekanan jual. Beberapa altcoin seperti ZEC, HYPE, dan BNB juga mengalami kenaikan signifikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/update-kripto-terbaru-btc-menghijau-zec-hype-dan-bnb-jadi-primadona",
-   "img": null,
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T09:00:56"
-  },
-  {
    "id": 3930,
    "k": "pasar",
    "cat": "Pasar",
@@ -670,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251202_ZCash_News.jpg",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:09:09"
@@ -690,18 +690,32 @@
    "published_at": "2026-09-16T12:00:41"
   },
   {
-   "id": 3603,
+   "id": 3868,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mengapa CLARITY Act Gagal dan Apakah Harga Kripto Akan Turun Lebih Dalam?",
-   "x": "CLARITY Act gagal untuk maju di Senat AS pada hari Selasa, 15 September, yang menjadi pukulan besar bagi upaya regulasi terbesar industri aset kripto dalam beberapa tahun terakhir. Senator memberikan suara 49-50 dalam…",
+   "t": "Bank of Japan Ikuti The Fed dan ECB dengan Kenaikan Suku Bunga ke 1,25%",
+   "x": "Bank of Japan (BOJ) menaikkan suku bunga menjadi 1,25% pada hari Jumat, level tertinggi sejak 1995, karena biaya energi akibat perang di Iran memberikan tekanan pada ekonomi. Dewan direksi terpecah dalam keputusan ini…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/clarity-act-kegagalan-kejatuhan-harga-kripto",
-   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/kenaikan-suku-bunga-bank-jepang-yen",
+   "img": "https://assets.beincrypto.com/img/S5WThhn2e45fVPeM9zdubaUauaA=/smart/cc38e2bd279241049ce4c33ebab043b5",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-16T00:50:10"
+   "published_at": "2026-09-18T05:22:52"
+  },
+  {
+   "id": 3973,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin bergerak sesuai skenario, level ini penentu arah",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-bitcoin-mulai-bergerak-sesuai-skenario-level-ini-jadi-babak-penentunya",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T04:00:41"
   },
   {
    "id": 3911,
@@ -712,7 +726,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/blockchain-malware-activity-jumps-440-as-ai-lowers-the-barrier-for-hackers",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/onchain-hacker-routing.webp",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T10:50:46"
@@ -740,24 +754,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PXB2KEBNHRB3GT02WG649G/hi-what-happened-in-crypto-legal-news-breaking-news-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T05:55:18"
-  },
-  {
-   "id": 3621,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "RUU CLARITY Gagal di Senat AS, Namun Jalan Belum Tertutup",
-   "x": "Senat AS gagal meloloskan RUU CLARITY melalui pemungutan suara prosedural, namun RUU tersebut masih memiliki kemungkinan untuk dibahas kembali. Kegagalan ini terjadi di tengah perdebatan mengenai waktu yang tersisa di Kongres.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/clarity-act-tumbang-di-voting-senat-tapi-ceritanya-belum-selesai",
-   "img": null,
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T01:30:39"
+   "published_at": "2026-09-17T05:55:18"
   },
   {
    "id": 3819,
@@ -782,24 +782,38 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T05:23:29"
   },
   {
-   "id": 3868,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bank of Japan Ikuti The Fed dan ECB dengan Kenaikan Suku Bunga ke 1,25%",
-   "x": "Bank of Japan (BOJ) menaikkan suku bunga menjadi 1,25% pada hari Jumat, level tertinggi sejak 1995, karena biaya energi akibat perang di Iran memberikan tekanan pada ekonomi. Dewan direksi terpecah dalam keputusan ini…",
+   "id": 3902,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Menuju US$100.000 Tahun Depan? VanEck Ungkap Faktor yang Mendorongnya",
+   "x": "Kepala divisi riset aset digital VanEck, Matthew Sigel, memperkirakan harga Bitcoin (BTC) akan mencapai US$100.000 pada tahun depan. Ia berpendapat bahwa beban utang pemerintah sedang menopang aset ini. Sigel…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kenaikan-suku-bunga-bank-jepang-yen",
-   "img": "https://assets.beincrypto.com/img/S5WThhn2e45fVPeM9zdubaUauaA=/smart/cc38e2bd279241049ce4c33ebab043b5",
+   "url": "https://id.beincrypto.com/vaneck-sigel-bitcoin-100000-2027-forecast",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
    "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-18T05:22:52"
+   "published_at": "2026-09-18T10:40:32"
+  },
+  {
+   "id": 3918,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Update Kripto Terbaru: BTC Menghijau, ZEC, HYPE dan BNB Jadi Primadona",
+   "x": "Pasar aset kripto menunjukkan tren positif dengan Bitcoin yang bangkit dari tekanan jual. Beberapa altcoin seperti ZEC, HYPE, dan BNB juga mengalami kenaikan signifikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/update-kripto-terbaru-btc-menghijau-zec-hype-dan-bnb-jadi-primadona",
+   "img": null,
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T09:00:56"
   },
   {
    "id": 3846,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T21:46:03"
-  },
-  {
-   "id": 3735,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Anggota parlemen AS majukan RUU kunci cadangan Bitcoin Trump jadi hukum",
-   "x": "RUU ini akan mengkodifikasi kebijakan cadangan Bitcoin Trump, mengunci aset yang diperoleh dari penyitaan sipil dan pidana selama 20 tahun. Langkah ini berpotensi memengaruhi regulasi aset digital di AS.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T00:23:44"
   }
  ]
 }
