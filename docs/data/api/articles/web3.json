@@ -1,21 +1,21 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 3846,
+   "id": 3969,
    "k": "web3",
    "cat": "Web3",
-   "t": "Optimism setujui pembaruan Superchain untuk interoperabilitas",
-   "x": "Optimism telah menyetujui pembaruan penting untuk Superchain-nya, yang diperlukan sebelum interoperabilitas dapat diaktifkan. Pengguna tidak perlu melakukan tindakan apa pun, namun operator harus memperbarui layanan fault-proof dan alat penarikan dana.",
+   "t": "Claude Anthropic bantu peneliti bobol OpenAI dalam 72 jam",
+   "x": "Tiga peneliti keamanan berhasil membobol akun OpenAI dan mengakses repositori kode internal dalam waktu kurang dari 72 jam menggunakan bantuan Claude dari Anthropic. Peristiwa ini menyoroti kerentanan infrastruktur keamanan perusahaan teknologi besar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/optimism-just-approved-the-upgrade-its-superchain-needs-before-interoperability-can-go-live",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-upgrade-testnets-1.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp",
+   "a": "41 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T19:40:13"
+   "published_at": "2026-09-19T00:40:50"
   },
   {
    "id": 3795,
@@ -54,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/katie-price-crypto-wallet-lee-andrews",
    "img": "https://assets.beincrypto.com/img/8HCXy7aDXJ3vBHDzu5k_7APyQXI=/smart/fb2988199b3b4539b2969f45001172d6",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T12:37:23"
@@ -74,18 +74,18 @@
    "published_at": "2026-09-16T08:07:59"
   },
   {
-   "id": 3887,
+   "id": 3846,
    "k": "web3",
    "cat": "Web3",
-   "t": "Perangkat lunak AI palsu gantikan ekstensi dompet peramban",
-   "x": "Perangkat lunak berbahaya tersembunyi dalam software AI dan mengganti ekstensi dompet peramban tanpa terdeteksi. Serangan ini mengincar tujuh dompet peramban tanpa membobol platform besar seperti Coinbase atau MetaMask.",
+   "t": "Optimism setujui pembaruan Superchain untuk interoperabilitas",
+   "x": "Optimism telah menyetujui pembaruan penting untuk Superchain-nya, yang diperlukan sebelum interoperabilitas dapat diaktifkan. Pengguna tidak perlu melakukan tindakan apa pun, namun operator harus memperbarui layanan fault-proof dan alat penarikan dana.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hp-says-fake-ai-trading-bot-swapped-crypto-wallet-extensions-for-credential-stealing-copies",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/extension-swap-board.webp",
-   "a": "18 jam lalu",
+   "url": "https://cryptoslate.com/optimism-just-approved-the-upgrade-its-superchain-needs-before-interoperability-can-go-live",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-upgrade-testnets-1.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T05:10:30"
+   "published_at": "2026-09-17T19:40:13"
   },
   {
    "id": 3954,
@@ -96,10 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dompet-crypto-waterplum-korea-utara-hack",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T15:16:50"
+  },
+  {
+   "id": 3887,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Perangkat lunak AI palsu gantikan ekstensi dompet peramban",
+   "x": "Perangkat lunak berbahaya tersembunyi dalam software AI dan mengganti ekstensi dompet peramban tanpa terdeteksi. Serangan ini mengincar tujuh dompet peramban tanpa membobol platform besar seperti Coinbase atau MetaMask.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hp-says-fake-ai-trading-bot-swapped-crypto-wallet-extensions-for-credential-stealing-copies",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/extension-swap-board.webp",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T05:10:30"
   },
   {
    "id": 3757,
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/your-crypto-hardware-wallet-can-stay-secure-while-everything-around-it-fails",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hardware-wallet-head-vault.webp",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T11:50:25"
@@ -152,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-gains-direct-oversight-of-web3-security-as-sp-global-buys-openzeppelin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/sp-global-openzeppelin-standard-image.jpg",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T07:30:56"
