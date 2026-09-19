@@ -1,5 +1,5 @@
 {
- "total": 62,
+ "total": 59,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T18:01:09"
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-rallies-after-bojs-1-25-hike-but-the-real-yen-carry-test-starts-next-week",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/yen-path-bitcoin.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T20:30:28"
@@ -264,24 +264,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-mulai-bergerak-sesuai-skenario-level-ini-jadi-babak-penentunya",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T04:00:41"
   },
   {
-   "id": 3716,
+   "id": 3844,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin, ether bergejolak setelah The Fed naikkan suku bunga seperempat poin",
-   "x": "Bitcoin dan ether mengalami volatilitas setelah bank sentral AS menaikkan suku bunga acuannya untuk pertama kali dalam lebih dari tiga tahun. Kenaikan ini dilakukan untuk mengendalikan inflasi.",
+   "t": "AS sanksi bursa kripto Iran BitBank terkait transfer bitcoin ke IRGC",
+   "x": "Departemen Keuangan AS menjatuhkan sanksi pada bursa kripto Iran, BitBank, karena diduga memfasilitasi transfer bitcoin ke Garda Revolusi Iran (IRGC). Platform Hormuz Safe yang telah disanksi sebelumnya disebut menggunakan BitBank untuk transaksi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
+   "img": "https://www.tbstat.com/wp/uploads/2021/02/20210203_Department_of_Treasury-1200x675.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T20:02:16"
+   "published_at": "2026-09-17T20:05:28"
   },
   {
    "id": 3897,
@@ -320,7 +320,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T16:01:03"
@@ -334,7 +334,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-faces-an-october-18-test-as-trump-prepares-new-russia-tariffs",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/trump-oil-tariff-clock.webp",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T13:20:13"
@@ -362,24 +362,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/investor-kondang-di-shark-tank-bidik-siklus-baru-kripto-ini-yang-ia-pantau",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T09:00:45"
   },
   {
-   "id": 3844,
+   "id": 3739,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "AS sanksi bursa kripto Iran BitBank terkait transfer bitcoin ke IRGC",
-   "x": "Departemen Keuangan AS menjatuhkan sanksi pada bursa kripto Iran, BitBank, karena diduga memfasilitasi transfer bitcoin ke Garda Revolusi Iran (IRGC). Platform Hormuz Safe yang telah disanksi sebelumnya disebut menggunakan BitBank untuk transaksi.",
+   "t": "Komite DPR upayakan kodifikasi Cadangan Bitcoin Strategis Trump",
+   "x": "Sebuah komite DPR AS memajukan rancangan undang-undang untuk membentuk cadangan bitcoin strategis. Kebijakan ini akan mengabadikan rencana Trump untuk kepemilikan bitcoin permanen.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
-   "img": "https://www.tbstat.com/wp/uploads/2021/02/20210203_Department_of_Treasury-1200x675.png",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T20:05:28"
+   "published_at": "2026-09-17T00:56:10"
   },
   {
    "id": 3898,
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/zcash-ethereum-crypto-etf-arus-mingguan",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-19T07:39:52"
@@ -424,18 +424,18 @@
    "published_at": "2026-09-17T12:05:13"
   },
   {
-   "id": 3723,
+   "id": 4019,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pergerakan Bitcoin pasca-The Fed hadapi tembok opsi IBIT senilai $6,3 miliar",
-   "x": "Pergerakan Bitcoin setelah pengumuman The Fed berpotensi terbentur tembok opsi senilai $6,3 miliar. Analisis ini memetakan level-level penting pergerakan harga Bitcoin.",
+   "t": "Lonjakan Fidelity bawa masuk $310 juta BTC, selamatkan ETF Bitcoin",
+   "x": "Aliran dana masuk ke ETF Bitcoin mencapai $310 juta berkat lonjakan permintaan pada Jumat, menyelamatkan produk tersebut dari minggu yang buruk. Hal ini menunjukkan minat institusi yang terus berlanjut pada aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-fed-move-could-run-straight-into-a-6-3-billion-ibit-options-wall",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-expiry-waves.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-investor-gateway.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T18:40:02"
+   "published_at": "2026-09-19T20:10:27"
   },
   {
    "id": 3769,
@@ -466,18 +466,18 @@
    "published_at": "2026-09-18T09:00:56"
   },
   {
-   "id": 3739,
+   "id": 3788,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Komite DPR upayakan kodifikasi Cadangan Bitcoin Strategis Trump",
-   "x": "Sebuah komite DPR AS memajukan rancangan undang-undang untuk membentuk cadangan bitcoin strategis. Kebijakan ini akan mengabadikan rencana Trump untuk kepemilikan bitcoin permanen.",
+   "t": "Pandl Grayscale masih lihat $58 ribu sebagai dasar Bitcoin, beri 'lampu hijau' klien",
+   "x": "Manajer aset Grayscale mempertahankan pandangannya bahwa Bitcoin telah mencapai titik terendah di sekitar $58.000. Klien diberikan rekomendasi untuk mulai berinvestasi pada aset digital tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346",
+   "img": "https://www.tbstat.com/wp/uploads/2026/09/bitcoin-1200x675.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T00:56:10"
+   "published_at": "2026-09-17T11:47:30"
   },
   {
    "id": 3773,
@@ -502,24 +502,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perlombaan-kuantum-as-dampak-bitcoin",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T21:32:53"
   },
   {
-   "id": 3720,
+   "id": 3950,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pembaruan perangkat lunak Bitcoin Core targetkan perbaikan kecepatan dan keamanan",
-   "x": "Versi terbaru Bitcoin Core telah memasuki pengujian akhir, membawa peningkatan kecepatan pemeriksaan blok. Perubahan ini juga mencakup cara dompet menyiapkan pembayaran.",
+   "t": "XRP melonjak 6,9% saat Bitcoin buka peluang Golden Cross",
+   "x": "XRP mengalami kenaikan signifikan seiring Bitcoin yang kembali menembus level $800. Namun, analisis grafik masih memberikan sinyal yang beragam bagi para trader.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T18:53:48"
+   "published_at": "2026-09-18T16:42:32"
   },
   {
    "id": 3967,
@@ -530,7 +530,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-faces-an-eight-year-rates-test-as-the-boe-unwinds-368-billion",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidity-bridge.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T21:25:23"
@@ -558,24 +558,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/update-pasar-kripto-hari-ini-btc-menggila-sol-dan-uni-makin-moncer",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T07:00:33"
-  },
-  {
-   "id": 3788,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pandl Grayscale masih lihat $58 ribu sebagai dasar Bitcoin, beri 'lampu hijau' klien",
-   "x": "Manajer aset Grayscale mempertahankan pandangannya bahwa Bitcoin telah mencapai titik terendah di sekitar $58.000. Klien diberikan rekomendasi untuk mulai berinvestasi pada aset digital tersebut.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346",
-   "img": "https://www.tbstat.com/wp/uploads/2026/09/bitcoin-1200x675.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T11:47:30"
   },
   {
    "id": 3744,
@@ -600,24 +586,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kevin-oleary-bitcoin-1-juta-kuantum",
    "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-19T10:49:09"
-  },
-  {
-   "id": 3721,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "The Fed naikkan suku bunga, Bitcoin melonjak",
-   "x": "Bank sentral Amerika Serikat menaikkan suku bunga acuannya sesuai ekspektasi pasar. Kenaikan ini disambut positif oleh Bitcoin yang langsung melonjak.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-16T18:15:38"
   },
   {
    "id": 3957,
@@ -670,7 +642,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a63acd47852ba011bc655fb44db8d5af16180542-3024x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T12:13:57"
@@ -690,20 +662,6 @@
    "published_at": "2026-09-18T13:30:51"
   },
   {
-   "id": 3950,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "XRP melonjak 6,9% saat Bitcoin buka peluang Golden Cross",
-   "x": "XRP mengalami kenaikan signifikan seiring Bitcoin yang kembali menembus level $800. Namun, analisis grafik masih memberikan sinyal yang beragam bagi para trader.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T16:42:32"
-  },
-  {
    "id": 3984,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -712,7 +670,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-survived-the-fed-and-clarity-and-now-faces-the-next-major-test-at-82000-this-weekend",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-82k-market-barrier.webp",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T09:06:06"
@@ -842,6 +800,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T06:52:23"
+  },
+  {
+   "id": 3828,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "BIS: Angka Transfer Bitcoin Standar Bisa Melenceng Hingga Enam Kali Lipat",
+   "x": "Bank for International Settlements (BIS) menyatakan proliferasi kontrak dan penggunaan stablecoin lintas rantai membuat total aktivitas mentah menjadi ukuran ekonomi yang kurang akurat. Hal ini penting untuk memahami metrik on-chain yang sering digunakan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-standard-bitcoin-transfer-figures-are-off-by-up-to-six-times-according-to-the-bis",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-methods-shadow-variance.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T13:30:22"
+  },
+  {
+   "id": 3829,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Eksodus Pribadi Rp450 Triliun dari Obligasi AS Ancaman Reli Bitcoin Berikutnya",
+   "x": "Pergeseran dana swasta dari obligasi pemerintah AS senilai $29 miliar dapat memengaruhi reli Bitcoin selanjutnya. Perubahan aliran dana institusi ini menjadi faktor penting yang perlu dicermati investor aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-29b-private-exodus-from-us-bonds-is-threatening-bitcoins-next-big-rally",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/foreign-treasury-demand-flows.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T12:40:18"
   }
  ]
 }

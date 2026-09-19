@@ -1,5 +1,5 @@
 {
- "total": 306,
+ "total": 293,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-shorting-zcash-harga-melesat",
    "img": "https://assets.beincrypto.com/img/Rwajf0njNCIrSh8ZlVjk44IfdCc=/smart/33e999aa07f84fbbbdc7b4ed5f4593c8",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-19T14:11:15"
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pi-network-bawa-kabar-baru-buat-indonesia-pengguna-kia-bisa-ulang-kyc",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T02:30:05"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T20:16:04"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T18:01:09"
@@ -320,7 +320,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/launchpad-koin-meme-di-blockchain-arc",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T10:00:17"
@@ -334,7 +334,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/automated-scam-call-center.webp",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T17:10:40"
@@ -368,18 +368,18 @@
    "published_at": "2026-09-17T19:30:48"
   },
   {
-   "id": 3716,
+   "id": 3844,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin, ether bergejolak setelah The Fed naikkan suku bunga seperempat poin",
-   "x": "Bitcoin dan ether mengalami volatilitas setelah bank sentral AS menaikkan suku bunga acuannya untuk pertama kali dalam lebih dari tiga tahun. Kenaikan ini dilakukan untuk mengendalikan inflasi.",
+   "t": "AS sanksi bursa kripto Iran BitBank terkait transfer bitcoin ke IRGC",
+   "x": "Departemen Keuangan AS menjatuhkan sanksi pada bursa kripto Iran, BitBank, karena diduga memfasilitasi transfer bitcoin ke Garda Revolusi Iran (IRGC). Platform Hormuz Safe yang telah disanksi sebelumnya disebut menggunakan BitBank untuk transaksi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
-   "img": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
+   "img": "https://www.tbstat.com/wp/uploads/2021/02/20210203_Department_of_Treasury-1200x675.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-16T20:02:16"
+   "published_at": "2026-09-17T20:05:28"
   },
   {
    "id": 3925,
@@ -432,7 +432,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/brazil-blocks-stablecoins-from-key-cross-border-payment-rail-as-1-1-trillion-market-faces-new-limits",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brazil-usdt-regulatory-cut.webp",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T10:40:55"
@@ -452,32 +452,32 @@
    "published_at": "2026-09-17T22:31:03"
   },
   {
-   "id": 3710,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "FCA Inggris berikan panduan otorisasi aset kripto jelang batas waktu September",
-   "x": "Otoritas Jasa Keuangan Inggris (FCA) merilis panduan aktivitas aset kripto yang memerlukan otorisasi. Ini sebagai persiapan perusahaan menghadapi rezim regulasi aset digital baru di Inggris.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-kingdom-making-strides-on-crypto-regulation-fca.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-16T19:19:23"
-  },
-  {
-   "id": 3844,
+   "id": 3799,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "AS sanksi bursa kripto Iran BitBank terkait transfer bitcoin ke IRGC",
-   "x": "Departemen Keuangan AS menjatuhkan sanksi pada bursa kripto Iran, BitBank, karena diduga memfasilitasi transfer bitcoin ke Garda Revolusi Iran (IRGC). Platform Hormuz Safe yang telah disanksi sebelumnya disebut menggunakan BitBank untuk transaksi.",
+   "t": "Bitcoin Bertahan Dekat $76,5 Ribu Seiring Saham AS Pulih dari Kenaikan Suku Bunga The Fed",
+   "x": "Bitcoin mencatat kenaikan harian moderat seiring saham AS menguat pasca kenaikan suku bunga pertama oleh The Fed sejak Juli 2023.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T16:22:23"
+  },
+  {
+   "id": 3930,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ETF Zcash Grayscale rencanakan stock split 3-for-1 setelah lonjakan dana masuk $233 juta",
+   "x": "ETF Zcash Grayscale mendekati valuasi $890 juta seiring kenaikan harga ZEC yang mendorong persaingan mining ke rekor tertinggi. Peristiwa ini menandakan minat institusi yang meningkat pada aset kripto spesifik.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
-   "img": "https://www.tbstat.com/wp/uploads/2021/02/20210203_Department_of_Treasury-1200x675.png",
+   "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251202_ZCash_News.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T20:05:28"
+   "published_at": "2026-09-18T15:09:09"
   },
   {
    "id": 3991,
@@ -488,7 +488,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/621a7e00d26515615073001d3c97123324394f4b-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T14:00:00"
@@ -550,32 +550,32 @@
    "published_at": "2026-09-17T19:32:22"
   },
   {
-   "id": 3799,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Bertahan Dekat $76,5 Ribu Seiring Saham AS Pulih dari Kenaikan Suku Bunga The Fed",
-   "x": "Bitcoin mencatat kenaikan harian moderat seiring saham AS menguat pasca kenaikan suku bunga pertama oleh The Fed sejak Juli 2023.",
+   "id": 3741,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "BitMEX hadapi gugatan Celsius jelang penutupan bursa",
+   "x": "Pengelola aset Celsius menuduh BitMEX melikuidasi dan menyita 6.360 BTC senilai hampir US$490 juta. Insiden ini terjadi saat pasar anjlok pada Maret 2020.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
+   "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PXB2KEBNHRB3GT02WG649G/hi-what-happened-in-crypto-legal-news-breaking-news-1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T16:22:23"
+   "published_at": "2026-09-17T05:55:18"
   },
   {
-   "id": 3930,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "ETF Zcash Grayscale rencanakan stock split 3-for-1 setelah lonjakan dana masuk $233 juta",
-   "x": "ETF Zcash Grayscale mendekati valuasi $890 juta seiring kenaikan harga ZEC yang mendorong persaingan mining ke rekor tertinggi. Peristiwa ini menandakan minat institusi yang meningkat pada aset kripto spesifik.",
+   "id": 3819,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulator Lanjutkan Tindakan Kripto: CFTC Ikuti SEC dengan Sikap Ramah Pengembang",
+   "x": "Pengembang perangkat lunak alat perdagangan kripto kini mendapat kelonggaran dari Komisi Perdagangan Berjangka Komoditas AS (CFTC).",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251202_ZCash_News.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
+   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T15:09:09"
+   "published_at": "2026-09-17T16:50:22"
   },
   {
    "id": 3770,
@@ -628,7 +628,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T00:40:50"
@@ -642,38 +642,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-16T21:46:03"
   },
   {
-   "id": 3741,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "BitMEX hadapi gugatan Celsius jelang penutupan bursa",
-   "x": "Pengelola aset Celsius menuduh BitMEX melikuidasi dan menyita 6.360 BTC senilai hampir US$490 juta. Insiden ini terjadi saat pasar anjlok pada Maret 2020.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PXB2KEBNHRB3GT02WG649G/hi-what-happened-in-crypto-legal-news-breaking-news-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T05:55:18"
-  },
-  {
-   "id": 3819,
+   "id": 3735,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Regulator Lanjutkan Tindakan Kripto: CFTC Ikuti SEC dengan Sikap Ramah Pengembang",
-   "x": "Pengembang perangkat lunak alat perdagangan kripto kini mendapat kelonggaran dari Komisi Perdagangan Berjangka Komoditas AS (CFTC).",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+   "t": "Anggota parlemen AS majukan RUU kunci cadangan Bitcoin Trump jadi hukum",
+   "x": "RUU ini akan mengkodifikasi kebijakan cadangan Bitcoin Trump, mengunci aset yang diperoleh dari penyitaan sipil dan pidana selama 20 tahun. Langkah ini berpotensi memengaruhi regulasi aset digital di AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T16:50:22"
+   "published_at": "2026-09-17T00:23:44"
+  },
+  {
+   "id": 3739,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Komite DPR upayakan kodifikasi Cadangan Bitcoin Strategis Trump",
+   "x": "Sebuah komite DPR AS memajukan rancangan undang-undang untuk membentuk cadangan bitcoin strategis. Kebijakan ini akan mengabadikan rencana Trump untuk kepemilikan bitcoin permanen.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
+   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T00:56:10"
   },
   {
    "id": 3878,
@@ -712,7 +712,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-mulai-bergerak-sesuai-skenario-level-ini-jadi-babak-penentunya",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T04:00:41"
@@ -746,32 +746,32 @@
    "published_at": "2026-09-17T19:01:05"
   },
   {
-   "id": 3735,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Anggota parlemen AS majukan RUU kunci cadangan Bitcoin Trump jadi hukum",
-   "x": "RUU ini akan mengkodifikasi kebijakan cadangan Bitcoin Trump, mengunci aset yang diperoleh dari penyitaan sipil dan pidana selama 20 tahun. Langkah ini berpotensi memengaruhi regulasi aset digital di AS.",
+   "id": 3742,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "OpenAI ungkap 6 kasus baru perilaku AI yang 'tidak selaras'",
+   "x": "OpenAI melaporkan enam insiden baru di mana sistem AI mereka menunjukkan perilaku yang tidak sesuai harapan. Hal ini menimbulkan kekhawatiran tentang keamanan dan kontrol teknologi AI.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
+   "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T00:23:44"
+   "published_at": "2026-09-17T05:49:06"
   },
   {
-   "id": 3739,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Komite DPR upayakan kodifikasi Cadangan Bitcoin Strategis Trump",
-   "x": "Sebuah komite DPR AS memajukan rancangan undang-undang untuk membentuk cadangan bitcoin strategis. Kebijakan ini akan mengabadikan rencana Trump untuk kepemilikan bitcoin permanen.",
+   "id": 3881,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan pembayaran stablecoin dtcpay raih pendanaan Seri A $25 juta",
+   "x": "Dtcpay berhasil mengumpulkan dana segar senilai $25 juta dari SBI Group untuk memperluas rangkaian produk dan jaringan pedagangnya. Pendanaan ini akan digunakan untuk meningkatkan portal bisnis bagi klien perusahaan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
-   "img": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
+   "img": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-1200x675.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T00:56:10"
+   "published_at": "2026-09-18T05:29:10"
   },
   {
    "id": 3992,
@@ -782,7 +782,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T13:39:15"
@@ -810,7 +810,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/investor-kondang-di-shark-tank-bidik-siklus-baru-kripto-ini-yang-ia-pantau",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T09:00:45"
@@ -838,7 +838,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T16:01:03"
