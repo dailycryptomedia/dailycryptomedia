@@ -1,5 +1,5 @@
 {
- "total": 48,
+ "total": 42,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2021/03/mr-wonderful-kevin-oleary-shark-tank-bitcoin-gID_4.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T18:35:54"
@@ -46,20 +46,6 @@
    "published_at": "2026-09-18T20:30:28"
   },
   {
-   "id": 3799,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Bertahan Dekat $76,5 Ribu Seiring Saham AS Pulih dari Kenaikan Suku Bunga The Fed",
-   "x": "Bitcoin mencatat kenaikan harian moderat seiring saham AS menguat pasca kenaikan suku bunga pertama oleh The Fed sejak Juli 2023.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T16:22:23"
-  },
-  {
    "id": 4014,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -68,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T18:01:09"
@@ -82,10 +68,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/tak-semua-korporasi-terus-borong-bitcoin-tiga-emiten-pilih-jalan-berbeda",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T03:30:02"
+  },
+  {
+   "id": 3894,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Analis: Bitcoin mungkin sudah mencapai titik terendah di US$58.000",
+   "x": "Seorang analis on-chain menyatakan Bitcoin berpotensi telah mencapai dasar siklusnya di kisaran US$58.000. Ia mengingatkan investor untuk tidak terpaku pada perkiraan titik terendah di bulan Oktober.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-domination-token-altcoin.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T08:47:20"
   },
   {
    "id": 3877,
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-etf-tripel-emas-analis-bloomberg-klaim",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T19:23:52"
@@ -144,20 +144,6 @@
    "published_at": "2026-09-19T13:20:13"
   },
   {
-   "id": 3894,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Analis: Bitcoin mungkin sudah mencapai titik terendah di US$58.000",
-   "x": "Seorang analis on-chain menyatakan Bitcoin berpotensi telah mencapai dasar siklusnya di kisaran US$58.000. Ia mengingatkan investor untuk tidak terpaku pada perkiraan titik terendah di bulan Oktober.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-domination-token-altcoin.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T08:47:20"
-  },
-  {
    "id": 3929,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -184,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T07:00:11"
+  },
+  {
+   "id": 3864,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Zcash targetkan November untuk peningkatan mainnet NU7 dengan blok 25 detik",
+   "x": "Peningkatan NU7 pada Zcash akan memangkas waktu blok menjadi 25 detik dan mempertahankan jadwal halving. Aktivasi testnet direncanakan pada 6 Oktober.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T04:51:29"
   },
   {
    "id": 3879,
@@ -214,18 +214,18 @@
    "published_at": "2026-09-18T09:22:17"
   },
   {
-   "id": 3830,
+   "id": 4007,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Naik Seiring Pasar Bersiap Hadapi Langkah The Fed",
-   "x": "Kenaikan suku bunga The Fed yang pertama sejak 2023 tidak banyak memengaruhi harga aset kripto. Namun, langkah selanjutnya dari bank sentral AS ini dapat mengubah perhitungan pasar keuangan global.",
+   "t": "Reli Bitcoin 2 tahun terakhir didorong likuidasi posisi short",
+   "x": "Kenaikan harga Bitcoin sebesar 24,6% dalam lima hari pada Agustus sebagian besar didorong oleh likuidasi posisi short. Hal ini menunjukkan bahwa sentimen pasar yang bearish sebelumnya berkontribusi pada reli tersebut.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T17:01:03"
+   "published_at": "2026-09-19T16:01:03"
   },
   {
    "id": 4019,
@@ -236,24 +236,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-investor-gateway.webp",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T20:10:27"
-  },
-  {
-   "id": 3864,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Zcash targetkan November untuk peningkatan mainnet NU7 dengan blok 25 detik",
-   "x": "Peningkatan NU7 pada Zcash akan memangkas waktu blok menjadi 25 detik dan mempertahankan jadwal halving. Aktivasi testnet direncanakan pada 6 Oktober.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T04:51:29"
   },
   {
    "id": 3844,
@@ -284,6 +270,20 @@
    "published_at": "2026-09-19T04:00:41"
   },
   {
+   "id": 3867,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "AS kenakan sanksi ke BitBank Iran terkait pemrosesan Bitcoin",
+   "x": "Pemerintah AS menjatuhkan sanksi kepada bursa kripto Iran, BitBank, karena dituding memfasilitasi pembayaran Bitcoin untuk entitas yang terafiliasi dengan pemerintah Iran. Tindakan ini menyoroti upaya penegakan sanksi terhadap aktivitas keuangan digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T01:33:54"
+  },
+  {
    "id": 3897,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -312,18 +312,18 @@
    "published_at": "2026-09-19T07:39:52"
   },
   {
-   "id": 4007,
+   "id": 4049,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Reli Bitcoin 2 tahun terakhir didorong likuidasi posisi short",
-   "x": "Kenaikan harga Bitcoin sebesar 24,6% dalam lima hari pada Agustus sebagian besar didorong oleh likuidasi posisi short. Hal ini menunjukkan bahwa sentimen pasar yang bearish sebelumnya berkontribusi pada reli tersebut.",
+   "t": "Mengapa memegang selain Bitcoin merugi selama dua tahun",
+   "x": "Laporan terbaru menunjukkan bahwa altcoin telah mengalami kinerja yang buruk dibandingkan Bitcoin selama dua tahun terakhir. Fenomena ini menyoroti dominasi Bitcoin dalam pasar aset digital saat ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T16:01:03"
+   "published_at": "2026-09-20T14:01:03"
   },
   {
    "id": 3967,
@@ -340,20 +340,6 @@
    "published_at": "2026-09-18T21:25:23"
   },
   {
-   "id": 3803,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Perusahaan Treasury Bitcoin Bisa Lampaui BTC, Namun Risikonya Sebanding?",
-   "x": "Perusahaan yang mengelola aset treasury Bitcoin menjanjikan imbal hasil lebih tinggi dibanding investasi langsung pada BTC. Namun, investor perlu menimbang potensi keuntungan terhadap risiko penurunan nilai yang mungkin terjadi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MQKH8M6FB9RA6PJPEFV90G/magazine-young-crypto-founder-1.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T13:30:00"
-  },
-  {
    "id": 3986,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -366,6 +352,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T09:00:45"
+  },
+  {
+   "id": 3923,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "HYPE capai rekor di atas $90 seiring Hyperliquid luncurkan pinjaman manual",
+   "x": "Token HYPE mencetak rekor harga baru setelah platform Hyperliquid mengaktifkan fitur pinjaman manual. Fitur ini memungkinkan pengguna meminjam stablecoin dengan jaminan HYPE dan Bitcoin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T11:54:24"
   },
   {
    "id": 3898,
@@ -396,18 +396,18 @@
    "published_at": "2026-09-17T21:32:53"
   },
   {
-   "id": 4049,
+   "id": 3950,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Mengapa memegang selain Bitcoin merugi selama dua tahun",
-   "x": "Laporan terbaru menunjukkan bahwa altcoin telah mengalami kinerja yang buruk dibandingkan Bitcoin selama dua tahun terakhir. Fenomena ini menyoroti dominasi Bitcoin dalam pasar aset digital saat ini.",
+   "t": "XRP melonjak 6,9% saat Bitcoin buka peluang Golden Cross",
+   "x": "XRP mengalami kenaikan signifikan seiring Bitcoin yang kembali menembus level $800. Namun, analisis grafik masih memberikan sinyal yang beragam bagi para trader.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
-   "a": "3 jam lalu",
+   "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T14:01:03"
+   "published_at": "2026-09-18T16:42:32"
   },
   {
    "id": 3957,
@@ -422,20 +422,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T16:40:47"
-  },
-  {
-   "id": 3867,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "AS kenakan sanksi ke BitBank Iran terkait pemrosesan Bitcoin",
-   "x": "Pemerintah AS menjatuhkan sanksi kepada bursa kripto Iran, BitBank, karena dituding memfasilitasi pembayaran Bitcoin untuk entitas yang terafiliasi dengan pemerintah Iran. Tindakan ini menyoroti upaya penegakan sanksi terhadap aktivitas keuangan digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T01:33:54"
   },
   {
    "id": 3918,
@@ -460,7 +446,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T12:00:00"
@@ -480,20 +466,6 @@
    "published_at": "2026-09-19T10:49:09"
   },
   {
-   "id": 3950,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "XRP melonjak 6,9% saat Bitcoin buka peluang Golden Cross",
-   "x": "XRP mengalami kenaikan signifikan seiring Bitcoin yang kembali menembus level $800. Namun, analisis grafik masih memberikan sinyal yang beragam bagi para trader.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T16:42:32"
-  },
-  {
    "id": 3984,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -506,20 +478,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T09:06:06"
-  },
-  {
-   "id": 3923,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "HYPE capai rekor di atas $90 seiring Hyperliquid luncurkan pinjaman manual",
-   "x": "Token HYPE mencetak rekor harga baru setelah platform Hyperliquid mengaktifkan fitur pinjaman manual. Fitur ini memungkinkan pengguna meminjam stablecoin dengan jaminan HYPE dan Bitcoin.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T11:54:24"
   },
   {
    "id": 3988,
@@ -572,38 +530,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-bitcoins-rally-above-80000-isnt-backed-by-institutional-conviction",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-institutional-conviction.webp",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T11:05:32"
-  },
-  {
-   "id": 3813,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kripto untuk penasihat: melampaui bitcoin dan ether",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T14:57:11"
-  },
-  {
-   "id": 3958,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Mengapa Bitcoin tembus $80 ribu sebelum data AS dirilis",
-   "x": "Penguatan Bitcoin terjadi bersamaan dengan rebound saham teknologi dan pelemahan yen. Aliran dana masuk ETF sebelumnya juga memberikan sinyal permintaan yang positif.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-bitcoin-is-up-today-the-rally-began-before-weak-us-data",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-rebound.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T16:00:45"
   },
   {
    "id": 3880,
@@ -620,18 +550,18 @@
    "published_at": "2026-09-18T03:03:38"
   },
   {
-   "id": 4031,
+   "id": 3958,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Gelombang HODL Bitcoin 63% bukan sinyal bullish besar",
-   "x": "Peningkatan kepemilikan Bitcoin oleh pemegang jangka panjang (HODLer) selama setahun terakhir tidak serta-merta menjadi sinyal pasar bullish yang kuat. Analisis menunjukkan pergeseran kecil pada kelompok usia pemegang.",
+   "t": "Mengapa Bitcoin tembus $80 ribu sebelum data AS dirilis",
+   "x": "Penguatan Bitcoin terjadi bersamaan dengan rebound saham teknologi dan pelemahan yen. Aliran dana masuk ETF sebelumnya juga memberikan sinyal permintaan yang positif.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-aging-clock.webp",
-   "a": "10 jam lalu",
+   "url": "https://cryptoslate.com/why-bitcoin-is-up-today-the-rally-began-before-weak-us-data",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bull-rebound.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T06:30:40"
+   "published_at": "2026-09-18T16:00:45"
   },
   {
    "id": 3900,
@@ -648,32 +578,18 @@
    "published_at": "2026-09-18T06:52:23"
   },
   {
-   "id": 3828,
+   "id": 4031,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "BIS: Angka Transfer Bitcoin Standar Bisa Melenceng Hingga Enam Kali Lipat",
-   "x": "Bank for International Settlements (BIS) menyatakan proliferasi kontrak dan penggunaan stablecoin lintas rantai membuat total aktivitas mentah menjadi ukuran ekonomi yang kurang akurat. Hal ini penting untuk memahami metrik on-chain yang sering digunakan.",
+   "t": "Gelombang HODL Bitcoin 63% bukan sinyal bullish besar",
+   "x": "Peningkatan kepemilikan Bitcoin oleh pemegang jangka panjang (HODLer) selama setahun terakhir tidak serta-merta menjadi sinyal pasar bullish yang kuat. Analisis menunjukkan pergeseran kecil pada kelompok usia pemegang.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-standard-bitcoin-transfer-figures-are-off-by-up-to-six-times-according-to-the-bis",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-methods-shadow-variance.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-aging-clock.webp",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T13:30:22"
-  },
-  {
-   "id": 3829,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Eksodus Pribadi Rp450 Triliun dari Obligasi AS Ancaman Reli Bitcoin Berikutnya",
-   "x": "Pergeseran dana swasta dari obligasi pemerintah AS senilai $29 miliar dapat memengaruhi reli Bitcoin selanjutnya. Perubahan aliran dana institusi ini menjadi faktor penting yang perlu dicermati investor aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-29b-private-exodus-from-us-bonds-is-threatening-bitcoins-next-big-rally",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/foreign-treasury-demand-flows.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T12:40:18"
+   "published_at": "2026-09-20T06:30:40"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ekonom-nobel-california-prop-40-pajak-miliarder",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T12:57:33"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T17:55:57"
@@ -46,20 +46,6 @@
    "published_at": "2026-09-17T21:00:20"
   },
   {
-   "id": 3819,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator Lanjutkan Tindakan Kripto: CFTC Ikuti SEC dengan Sikap Ramah Pengembang",
-   "x": "Pengembang perangkat lunak alat perdagangan kripto kini mendapat kelonggaran dari Komisi Perdagangan Berjangka Komoditas AS (CFTC).",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
-   "img": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T16:50:22"
-  },
-  {
    "id": 4006,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -72,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T17:01:03"
+  },
+  {
+   "id": 4051,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "CEO Polymarket dorong pertumbuhan di atas kepatuhan, platform hadapi percobaan penipuan $10 juta",
+   "x": "Polymarket menghadapi percobaan penipuan senilai $10 juta karena CEO-nya memprioritaskan pertumbuhan dibandingkan kepatuhan terhadap regulasi. Peretasan akun pengguna juga terjadi akibat pencurian informasi pribadi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-20T16:07:19"
   },
   {
    "id": 3883,
@@ -144,20 +144,6 @@
    "published_at": "2026-09-18T09:20:55"
   },
   {
-   "id": 4051,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CEO Polymarket dorong pertumbuhan di atas kepatuhan, platform hadapi percobaan penipuan $10 juta",
-   "x": "Polymarket menghadapi percobaan penipuan senilai $10 juta karena CEO-nya memprioritaskan pertumbuhan dibandingkan kepatuhan terhadap regulasi. Peretasan akun pengguna juga terjadi akibat pencurian informasi pribadi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-20T16:07:19"
-  },
-  {
    "id": 3935,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -200,20 +186,6 @@
    "published_at": "2026-09-19T16:00:00"
   },
   {
-   "id": 3807,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC Dukung Token Saham Asli dibanding Sintetik: Siapa yang Rugi?",
-   "x": "SEC menyetujui trading onchain untuk saham yang ditokenisasi, melarang salinan sintetis, dan memberikan hak veto kepada perusahaan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sec-token-saham-sintetis-siapa-yang-rugi",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-17T15:40:09"
-  },
-  {
    "id": 3893,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -242,20 +214,6 @@
    "published_at": "2026-09-18T12:46:01"
   },
   {
-   "id": 3823,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC rilis kelonggaran inovasi untuk pasar modal digital AS",
-   "x": "Kelonggaran ini dirilis setelah legislasi kripto gagal di Senat AS. Langkah ini diharapkan dapat membawa pasar modal Amerika ke era digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324",
-   "img": "https://www.tbstat.com/wp/uploads/2025/01/20250109_Paul-Atkins_News-1200x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T13:00:00"
-  },
-  {
    "id": 3837,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -264,7 +222,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T18:40:38"
@@ -284,32 +242,18 @@
    "published_at": "2026-09-18T14:04:43"
   },
   {
-   "id": 3827,
+   "id": 3848,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Anggota Parlemen Loloskan RUU Pembekuan Aset Bitcoin Federal Selama 20 Tahun",
-   "x": "RUU ARMA akan membekukan Bitcoin cadangan federal yang memenuhi syarat selama 20 tahun dan mewajibkan pelaporan audit tahunan. Pembelian Bitcoin baru masih dalam tahap studi.",
+   "t": "Kemenangan pajak kripto pertama datang dengan syarat bagi staker",
+   "x": "RUU perpajakan kripto AS melaju dengan keringanan biaya dan stablecoin, namun disertai aturan anti-penyalahgunaan yang lebih luas. Ini berpotensi memengaruhi cara investor ritel dan pengguna melakukan transaksi sehari-hari.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-reserve-treasury-records.webp",
+   "url": "https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-tax-bill-rules.webp",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T14:30:16"
-  },
-  {
-   "id": 3824,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Crypto.com daftar ke SEC untuk futures saham tunggal AS",
-   "x": "Bursa kripto ini akan menawarkan produk derivatif saham tunggal di AS. Langkah ini menunjukkan ekspansi layanan keuangan terpusat di pasar Amerika.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355",
-   "img": "https://www.tbstat.com/wp/uploads/2026/09/cryptocom-1197x675.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T12:41:53"
+   "published_at": "2026-09-17T17:30:26"
   },
   {
    "id": 3838,
@@ -320,38 +264,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/fef85cd19f3a741084cddd91d0ba11ac78f122fd-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T18:38:10"
-  },
-  {
-   "id": 3802,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC beri kelonggaran sementara untuk perdagangan saham tokenisasi AS",
-   "x": "Regulator AS mengizinkan perdagangan saham tokenisasi terbatas di platform onchain dengan syarat transparansi dan batas nilai. Ini membuka jalan bagi aset dunia nyata untuk diperdagangkan di blockchain.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T13:34:17"
-  },
-  {
-   "id": 3848,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kemenangan pajak kripto pertama datang dengan syarat bagi staker",
-   "x": "RUU perpajakan kripto AS melaju dengan keringanan biaya dan stablecoin, namun disertai aturan anti-penyalahgunaan yang lebih luas. Ini berpotensi memengaruhi cara investor ritel dan pengguna melakukan transaksi sehari-hari.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-tax-bill-rules.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T17:30:26"
+   "published_at": "2026-09-17T18:38:10"
   },
   {
    "id": 4040,
@@ -362,24 +278,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/419fc7b18585acc0821aefb3c6973a9391cfaa86-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T12:00:00"
-  },
-  {
-   "id": 3812,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC AS siapkan perdagangan 24/7 yang jadi norma kripto",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T15:03:19"
   },
   {
    "id": 3927,
@@ -394,20 +296,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T12:57:06"
-  },
-  {
-   "id": 3816,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC luncurkan 'pengecualian inovasi' untuk venue sekuritas tokenisasi",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/72d2d0f41575a69ebb63c81c3ae0aa0e4b7b3e5c-3308x1862.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T13:00:00"
   }
  ]
 }

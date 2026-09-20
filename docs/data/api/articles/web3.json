@@ -1,8 +1,22 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4054,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Peningkatan kecepatan Solana 250ms berpotensi picu ketidakstabilan jaringan",
+   "x": "Solana berupaya meningkatkan kecepatan transaksi menjadi 250 milidetik. Namun, stabilitas jaringan di masa depan lebih bergantung pada faktor teknis lain daripada sekadar kecepatan mentah.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-speed-runway.webp",
+   "a": "15 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-20T19:20:38"
+  },
   {
    "id": 4046,
    "k": "web3",
@@ -12,24 +26,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/binance-wallet-pre-market-tokens-pancakeswap",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T15:10:28"
-  },
-  {
-   "id": 3969,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Claude Anthropic bantu peneliti bobol OpenAI dalam 72 jam",
-   "x": "Tiga peneliti keamanan berhasil membobol akun OpenAI dan mengakses repositori kode internal dalam waktu kurang dari 72 jam menggunakan bantuan Claude dari Anthropic. Peristiwa ini menyoroti kerentanan infrastruktur keamanan perusahaan teknologi besar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-19T00:40:50"
   },
   {
    "id": 4023,
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-etf-kian-gemuk-bitwise-tambah-jaringan-besar-di-balik-transaksinya",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T02:30:25"
@@ -60,6 +60,20 @@
    "published_at": "2026-09-19T14:00:00"
   },
   {
+   "id": 3969,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Claude Anthropic bantu peneliti bobol OpenAI dalam 72 jam",
+   "x": "Tiga peneliti keamanan berhasil membobol akun OpenAI dan mengakses repositori kode internal dalam waktu kurang dari 72 jam menggunakan bantuan Claude dari Anthropic. Peristiwa ini menyoroti kerentanan infrastruktur keamanan perusahaan teknologi besar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/anthropics-claude-helped-3-researchers-breach-openai-in-under-72-hours",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/claude-openai-breach.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T00:40:50"
+  },
+  {
    "id": 4029,
    "k": "web3",
    "cat": "Web3",
@@ -68,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/fetch-ai-nunet-eksploit-2-juta",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T06:13:32"

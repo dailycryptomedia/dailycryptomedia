@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-09-18T10:33:05"
   },
   {
-   "id": 3825,
+   "id": 3937,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Rencana Aave Stani Bisa Jadi Mimpi Buruk Regulator AS",
-   "x": "Setelah RUU CLARITY terganjal, pendiri Aave ingin DeFi memaksa Washington melalui adopsi. Namun, lapisan produk Aave masih membuka celah bagi regulator untuk bertindak.",
+   "t": "Hyperliquid buka pinjaman native, HYPE capai ATH di atas $90",
+   "x": "Hyperliquid meluncurkan fitur pinjaman native yang memungkinkan pengguna menjaminkan HYPE atau Bitcoin untuk meminjam stablecoin. Peluncuran ini memperluas infrastruktur DeFi di platform tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/stani-kulechovs-uber-plan-for-aave-could-turn-everyday-crypto-savers-into-washingtons-worst-political-nightmare",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-regulation-uber-path.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hyperliquid-collateral-unlock.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T16:30:50"
+   "published_at": "2026-09-18T14:40:05"
   },
   {
    "id": 3874,
@@ -74,34 +74,6 @@
    "published_at": "2026-09-18T02:02:00"
   },
   {
-   "id": 3937,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Hyperliquid buka pinjaman native, HYPE capai ATH di atas $90",
-   "x": "Hyperliquid meluncurkan fitur pinjaman native yang memungkinkan pengguna menjaminkan HYPE atau Bitcoin untuk meminjam stablecoin. Peluncuran ini memperluas infrastruktur DeFi di platform tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hyperliquid-collateral-unlock.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T14:40:05"
-  },
-  {
-   "id": 3826,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Perbaikan Splash Cardano Atasi Eksploitasi, Namun 2,4 Juta ADA Hilang",
-   "x": "Eksploitasi pada protokol Splash Cardano mengakibatkan hilangnya 2,42 juta ADA secara bersih. Pemegang aset kripto ini kini menghadapi ketidakpastian karena OADA belum menyediakan opsi penebusan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/locked-ada-exit.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T15:45:48"
-  },
-  {
    "id": 4020,
    "k": "defi",
    "cat": "DeFi",
@@ -110,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/gen-z-conservative-portfolio.webp",
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T22:05:40"
@@ -124,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/eu-staking-lockdown.webp",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T15:05:37"
