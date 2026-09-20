@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/836ed3bca786c37ab6d40c3c8e2936188ef5cc4c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T10:33:05"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/gen-z-conservative-portfolio.webp",
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T22:05:40"
@@ -142,20 +142,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T08:50:29"
-  },
-  {
-   "id": 3794,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Chainflip reset saldo penyedia TRON USDT jadi nol pasca eksploitasi $736.000",
-   "x": "Penyedia aset digital masih memiliki catatan on-chain atas hak mereka, namun Chainflip belum mengumumkan jadwal pembayaran kembali. Insiden ini menyoroti risiko keamanan dalam ekosistem aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/chainflip-to-reset-tron-usdt-provider-balances-to-zero-following-736000-exploit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/chainflip-tron-usdt-recovery-standard-image.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T08:00:08"
   }
  ]
 }
