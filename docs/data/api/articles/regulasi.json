@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ekonom-nobel-california-prop-40-pajak-miliarder",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T12:57:33"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_807IV9XBD1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T21:00:20"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T16:07:19"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/12fc8f9343218cf1308738931c45f470a97379bd-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T21:47:22"
@@ -214,18 +214,18 @@
    "published_at": "2026-09-18T12:46:01"
   },
   {
-   "id": 3837,
+   "id": 4040,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kevin O'Leary: Kongres akan tinjau ulang regulasi kripto awal tahun depan",
+   "t": "Coinbase, Robinhood, Circle berpotensi untung dari dorongan saham tokenisasi SEC",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/505704d1a47d7213aefc3317f6a074231b0ddaf8-7894x5263.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/419fc7b18585acc0821aefb3c6973a9391cfaa86-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T18:40:38"
+   "published_at": "2026-09-20T12:00:00"
   },
   {
    "id": 3921,
@@ -240,48 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T14:04:43"
-  },
-  {
-   "id": 3848,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kemenangan pajak kripto pertama datang dengan syarat bagi staker",
-   "x": "RUU perpajakan kripto AS melaju dengan keringanan biaya dan stablecoin, namun disertai aturan anti-penyalahgunaan yang lebih luas. Ini berpotensi memengaruhi cara investor ritel dan pengguna melakukan transaksi sehari-hari.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-tax-bill-rules.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T17:30:26"
-  },
-  {
-   "id": 3838,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC buka jalan untuk perdagangan saham AS yang ditokenisasi",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fef85cd19f3a741084cddd91d0ba11ac78f122fd-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T18:38:10"
-  },
-  {
-   "id": 4040,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Coinbase, Robinhood, Circle berpotensi untung dari dorongan saham tokenisasi SEC",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/419fc7b18585acc0821aefb3c6973a9391cfaa86-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-20T12:00:00"
   },
   {
    "id": 3927,

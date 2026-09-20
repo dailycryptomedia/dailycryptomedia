@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-19T18:05:02"
   },
   {
-   "id": 3842,
+   "id": 3915,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Andrew Yang desak 'kill switch' AI di tengah kekhawatiran keamanan",
-   "x": "Mantan kandidat presiden AS, Andrew Yang, menyerukan anggota parlemen untuk memberlakukan aturan pertanggungjawaban dan masa tunggu bagi perusahaan AI terdepan. Kekhawatiran muncul terkait agen otonom yang menimbulkan risiko keamanan siber dan ketenagakerjaan.",
+   "t": "UE, Swedia tangkap tujuh pelaku pencucian uang kripto senilai $7,1 juta",
+   "x": "Penyelidikan terhadap jaringan pencucian uang kripto senilai $7,1 juta mengungkap keterkaitan dengan kejahatan terorganisir dan pembunuhan bayaran. Penangkapan dilakukan di Uni Emirat Arab dan Swedia.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-andrew-yang-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T18:06:03"
+   "published_at": "2026-09-18T09:57:33"
   },
   {
    "id": 4026,
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2YW25DDE8NF21CYADDSPH7S/ai-machine-cyber-mind.png",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T07:51:24"
@@ -54,24 +54,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T14:54:48"
-  },
-  {
-   "id": 3915,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "UE, Swedia tangkap tujuh pelaku pencucian uang kripto senilai $7,1 juta",
-   "x": "Penyelidikan terhadap jaringan pencucian uang kripto senilai $7,1 juta mengungkap keterkaitan dengan kejahatan terorganisir dan pembunuhan bayaran. Penangkapan dilakukan di Uni Emirat Arab dan Swedia.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T09:57:33"
   },
   {
    "id": 3899,
