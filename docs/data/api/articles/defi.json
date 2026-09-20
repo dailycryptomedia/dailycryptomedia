@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrpl-tries-to-mathematically-prove-its-new-lending-market-cannot-be-drained",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-formal-proof-vault.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:35:12"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/claude-openai-pelanggaran-hacktron-exploit",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T16:29:11"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stani-kulechovs-uber-plan-for-aave-could-turn-everyday-crypto-savers-into-washingtons-worst-political-nightmare",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-regulation-uber-path.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T16:30:50"
@@ -82,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hyperliquid-collateral-unlock.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T14:40:05"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/locked-ada-exit.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T15:45:48"
@@ -110,10 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/gen-z-conservative-portfolio.webp",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T22:05:40"
+  },
+  {
+   "id": 4052,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tinjauan staking Uni Eropa ancam imbal hasil kripto dan keamanan jaringan",
+   "x": "Uni Eropa sedang meninjau perlakuan terhadap staking, yang dapat memengaruhi imbal hasil bagi validator dan keamanan jaringan aset kripto. Perubahan regulasi ini berpotensi berdampak pada layanan staking yang ditawarkan di kawasan tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/eu-staking-lockdown.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-20T15:05:37"
   },
   {
    "id": 3888,

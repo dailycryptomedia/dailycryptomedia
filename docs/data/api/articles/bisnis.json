@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/anthropic-crypto-ipo-trade.webp",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T18:05:02"
@@ -40,24 +40,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2YW25DDE8NF21CYADDSPH7S/ai-machine-cyber-mind.png",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T07:51:24"
   },
   {
-   "id": 3899,
+   "id": 4050,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "SBI Group dukung dtcpay dalam pendanaan $25 juta",
+   "t": "Saham platform kripto Gemini anjlok 80% sejak IPO, spekulasi akuisisi menguat",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T07:37:32"
+   "published_at": "2026-09-20T14:54:48"
   },
   {
    "id": 3915,
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T09:57:33"
+  },
+  {
+   "id": 3899,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "SBI Group dukung dtcpay dalam pendanaan $25 juta",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T07:37:32"
   }
  ]
 }

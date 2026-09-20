@@ -1,8 +1,22 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4046,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Kamu Bisa Segera Dapatkan Eksposur Pre-IPO di Binance Wallet, Tapi Ada Syaratnya",
+   "x": "Binance Wallet dan PancakeSwap telah meluncurkan kampanye Pre-Access yang menawarkan paparan berupa token terhadap perusahaan swasta sebelum mereka melakukan listing publik. Proyek pertama masih belum diumumkan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/binance-wallet-pre-market-tokens-pancakeswap",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-20T15:10:28"
+  },
   {
    "id": 3969,
    "k": "web3",
@@ -18,20 +32,6 @@
    "published_at": "2026-09-19T00:40:50"
   },
   {
-   "id": 4029,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Fetch.ai dan NuNet Dieksploitasi oleh Attacker yang Sama hingga US$2 Juta, NTX Catat All-Time Low",
-   "x": "Pihak penyerang yang sama terkait dengan serangan pada Fetch.ai (FET) dan NuNet (NTX), dengan aset sekitar US$2 juta yang terlibat. Perusahaan keamanan menelusuri kedua peristiwa itu ke wallet yang sama. Token NuNet…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/fetch-ai-nunet-eksploit-2-juta",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-20T06:13:32"
-  },
-  {
    "id": 4023,
    "k": "web3",
    "cat": "Web3",
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-etf-kian-gemuk-bitwise-tambah-jaringan-besar-di-balik-transaksinya",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T02:30:25"
@@ -54,10 +54,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/621a7e00d26515615073001d3c97123324394f4b-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T14:00:00"
+  },
+  {
+   "id": 4029,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Fetch.ai dan NuNet Dieksploitasi oleh Attacker yang Sama hingga US$2 Juta, NTX Catat All-Time Low",
+   "x": "Pihak penyerang yang sama terkait dengan serangan pada Fetch.ai (FET) dan NuNet (NTX), dengan aset sekitar US$2 juta yang terlibat. Perusahaan keamanan menelusuri kedua peristiwa itu ke wallet yang sama. Token NuNet…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/fetch-ai-nunet-eksploit-2-juta",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-20T06:13:32"
   },
   {
    "id": 3846,
@@ -110,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dompet-crypto-waterplum-korea-utara-hack",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T15:16:50"

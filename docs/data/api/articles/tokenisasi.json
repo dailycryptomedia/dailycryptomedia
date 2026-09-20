@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 31,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-09-18T19:50:45"
   },
   {
+   "id": 4048,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Visa tutup celah hadiah kartu kredit meme coin",
+   "x": "Visa mengambil langkah untuk menghentikan pembelian meme coin dikategorikan sebagai \"media digital\" biasa yang berhak mendapatkan hadiah kartu kredit. Perubahan ini terjadi setelah upaya pelobi bank untuk aturan stablecoin yang lebih ketat gagal.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-20T16:01:03"
+  },
+  {
    "id": 4003,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2X3YT6NGAV29VGER3AJRNFW/hi-metaplanet-seeks-bitcoin-1.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T16:15:27"
@@ -68,24 +82,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/binance-tokenisasi-rwa-beralih-ke-activation-era-ekuitas-jadi-kunci-berikutnya",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T08:00:50"
-  },
-  {
-   "id": 3833,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SEC Permudah Tokenisasi Saham Setelah RUU Clarity Terkendala",
-   "x": "Pengecualian inovasi memungkinkan platform tertentu memperdagangkan saham ter-tokenisasi di blockchain publik tanpa registrasi bursa. Namun, ini tidak berlaku untuk produk derivatif dan perusahaan bisa memblokir tokenisasi saham mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T14:52:03"
   },
   {
    "id": 3995,
@@ -124,10 +124,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-chelsea-stadium-fans.webp",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T19:00:16"
+  },
+  {
+   "id": 3833,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SEC Permudah Tokenisasi Saham Setelah RUU Clarity Terkendala",
+   "x": "Pengecualian inovasi memungkinkan platform tertentu memperdagangkan saham ter-tokenisasi di blockchain publik tanpa registrasi bursa. Namun, ini tidak berlaku untuk produk derivatif dan perusahaan bisa memblokir tokenisasi saham mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T14:52:03"
   },
   {
    "id": 3866,
@@ -166,24 +180,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/sp-global-akuisisi-openzeppelin-sinyal-serius-garap-tokenisasi",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T07:00:39"
-  },
-  {
-   "id": 3831,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "S&P Global Perluas Jangkauan Kripto Lewat Kesepakatan OpenZeppelin",
-   "x": "Perusahaan data finansial S&P Global kini merambah ke risiko teknologi di balik produk keuangan on-chain. Langkah ini menunjukkan minat institusi besar pada infrastruktur aset digital yang terus berkembang.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T16:33:12"
   },
   {
    "id": 3815,
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-global-openzeppelin-stablecoin-code-auditor",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-17T15:38:17"
@@ -228,6 +228,20 @@
    "published_at": "2026-09-17T18:40:46"
   },
   {
+   "id": 3831,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "S&P Global Perluas Jangkauan Kripto Lewat Kesepakatan OpenZeppelin",
+   "x": "Perusahaan data finansial S&P Global kini merambah ke risiko teknologi di balik produk keuangan on-chain. Langkah ini menunjukkan minat institusi besar pada infrastruktur aset digital yang terus berkembang.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-17T16:33:12"
+  },
+  {
    "id": 4012,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -236,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T19:14:38"
@@ -250,24 +264,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-09-17-not-enough-block-space-avalanche-treasury-ceo-says-ai-agents-crunch-blockchain-capacity-415397",
    "img": "https://www.tbstat.com/wp/uploads/2023/10/avalanche-1200x675.jpeg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T15:41:22"
-  },
-  {
-   "id": 3916,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Departemen Keuangan AS sanksi bursa kripto di balik pungutan Bitcoin Iran",
-   "x": "Departemen Keuangan AS menjatuhkan sanksi kepada bursa kripto BitBank yang diduga memfasilitasi aliran Bitcoin senilai ratusan juta dolar ke Garda Revolusi Iran. Tindakan ini menyoroti upaya AS memerangi pendanaan teroris melalui aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T09:01:55"
   },
   {
    "id": 3809,
@@ -292,10 +292,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-payroll-access.webp",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T12:05:36"
+  },
+  {
+   "id": 3916,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Departemen Keuangan AS sanksi bursa kripto di balik pungutan Bitcoin Iran",
+   "x": "Departemen Keuangan AS menjatuhkan sanksi kepada bursa kripto BitBank yang diduga memfasilitasi aliran Bitcoin senilai ratusan juta dolar ke Garda Revolusi Iran. Tindakan ini menyoroti upaya AS memerangi pendanaan teroris melalui aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T09:01:55"
   },
   {
    "id": 3990,
@@ -376,7 +390,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
    "img": "https://www.tbstat.com/wp/uploads/2024/02/20240220_Wordlcoin_News-1200x675.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-17T15:06:58"
@@ -418,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJDKWQFE5TAXZVRTNBSB4T/oil-bitcoin-coin-stablecoin-blockchain-sky-platform-production-iran.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T15:35:59"
