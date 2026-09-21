@@ -1,8 +1,22 @@
 {
- "total": 1,
+ "total": 2,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4160,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Satu wallet kaitkan pencurian $1,55 juta FetchAI dengan minting NTX besar",
+   "x": "Fetch.ai menyatakan kontraknya tidak terpengaruh, namun rute jembatan (bridge) yang dibagikan menimbulkan pertanyaan pasokan NTX yang belum terselesaikan. Insiden ini menyoroti risiko keamanan pada protokol lintas-rantai (cross-chain).",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/one-wallet-links-1-55-million-fetchai-theft-to-massive-408-5-million-ntx-mint",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-bridge-fracture.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T18:40:14"
+  },
   {
    "id": 4065,
    "k": "nft",
@@ -12,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30SCR3TXMTSM58MCQ6E0A8X/north-korea-it.jpg",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T01:42:53"
