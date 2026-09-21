@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ekonom-nobel-california-prop-40-pajak-miliarder",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T12:57:33"
@@ -32,18 +32,18 @@
    "published_at": "2026-09-18T17:55:57"
   },
   {
-   "id": 3912,
+   "id": 4145,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "RUU CLARITY butuh 3 senator lagi untuk lolos di 2026",
-   "x": "RUU struktur pasar kripto CLARITY gagal lolos di Senat AS karena kekurangan suara. Para pendukungnya berupaya menggalang dukungan tambahan untuk menghidupkan kembali RUU tersebut di masa mendatang.",
+   "t": "Mengapa DeFi terdesentralisasi sejati tak butuh pengecualian hukum menurut Komisioner SEC Hester Peirce",
+   "x": "Komisioner SEC Hester Peirce berpendapat bahwa DeFi yang benar-benar terdesentralisasi tidak memerlukan pengecualian hukum khusus. Tindakan regulator AS berfokus pada aspek kustodi, akses, dan kekuatan intervensi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/clarity-act-needs-3-more-senators-and-a-race-against-the-clock-for-a-2026-revival",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-partisan-gridlock.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/why-truly-decentralized-defi-needs-no-legal-exemption-according-to-sec-commissioner-hester-peirce",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/peirce-defi-divide.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T09:20:55"
+   "published_at": "2026-09-21T14:35:31"
   },
   {
    "id": 4006,
@@ -68,24 +68,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T16:07:19"
-  },
-  {
-   "id": 3919,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Penerimaan Pajak Kripto RI Naik Rp60 Miliar, PPh Jadi Motor Utama",
-   "x": "Penerimaan pajak aset kripto di Indonesia mencapai Rp2,15 triliun, dengan kenaikan Rp60 miliar dalam dua bulan terakhir. Pajak Penghasilan (PPh) menjadi kontributor terbesar meskipun volume transaksi melambat.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/penerimaan-pajak-kripto-ri-naik-rp60-miliar-pph-jadi-motor-utama",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T08:00:42"
   },
   {
    "id": 4005,
@@ -96,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-19T16:00:00"
@@ -110,52 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bankir-hong-kong-dipenjara-suap-kripto",
    "img": "https://assets.beincrypto.com/img/cFuleg3oU2yTcVnfHy-tdY4hRys=/smart/c1e10b07b8b64f638676c51ab38b1a90",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-19T13:08:52"
   },
   {
-   "id": 3947,
+   "id": 4107,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "CFTC ajukan rencana regulasi pasar kripto untuk ditinjau Gedung Putih",
-   "x": "Regulator komoditas AS mengajukan rencana regulasi pasar kripto baru untuk ditinjau Gedung Putih. Ini dilakukan beberapa hari setelah Senat gagal memajukan undang-undang CLARITY Act.",
+   "t": "Bisnis Kripto: Kegagalan CLARITY Act sorot Coinbase",
+   "x": "Coinbase mendapat sorotan setelah RUU CLARITY gagal disahkan, sementara SEC bergerak maju dengan tokenisasi saham dan perusahaan kripto merambah ke layanan pembayaran.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3282B8W2GAZW0BEZSGKGXWV/hi-where-are-the-bitcoin-traders-going-now-after-clarity-act-2.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T16:04:22"
-  },
-  {
-   "id": 3939,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC dan CFTC buka akses kripto tanpa Kongres setelah CLARITY gagal, dengan syarat",
-   "x": "Regulator AS SEC dan CFTC mengizinkan peluncuran saham tokenisasi dan derivatif terkait dompet tanpa persetujuan Kongres. Langkah ini membuka jalan bagi inovasi aset digital baru meski kerangka hukum masih belum pasti.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sec-and-cftc-bypass-congress-after-clarity-failed-to-open-crypto-access-with-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-access-bridge.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T12:46:01"
-  },
-  {
-   "id": 3935,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC setujui 'Pengecualian Inovasi' untuk saham tokenisasi",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) menyetujui pengecualian inovasi yang memungkinkan saham ditokenisasi. Ini merupakan langkah maju signifikan dalam integrasi aset dunia nyata ke dalam blockchain.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T12:34:50"
+   "published_at": "2026-09-21T15:08:17"
   },
   {
    "id": 4040,
@@ -166,52 +124,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/419fc7b18585acc0821aefb3c6973a9391cfaa86-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T12:00:00"
   },
   {
-   "id": 3893,
+   "id": 3947,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Binance tanggapi spekulasi MiCA Lagarde, tegaskan komitmen Eropa",
-   "x": "Binance menolak berkomentar soal dugaan intervensi ECB terkait pengajuan izin di Yunani. Bursa kripto ini tetap berkomitmen untuk mendapatkan otorisasi di Eropa di bawah regulasi MiCA.",
+   "t": "CFTC ajukan rencana regulasi pasar kripto untuk ditinjau Gedung Putih",
+   "x": "Regulator komoditas AS mengajukan rencana regulasi pasar kripto baru untuk ditinjau Gedung Putih. Ini dilakukan beberapa hari setelah Senat gagal memajukan undang-undang CLARITY Act.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1.jpg",
+   "url": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T08:50:38"
-  },
-  {
-   "id": 3927,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Presiden ECB intervensi blokir lisensi MiCA Binance: WSJ",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T12:57:06"
-  },
-  {
-   "id": 3921,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bank gandakan daftar penyedia kripto EU MiCA, capai 23%",
-   "x": "Jumlah bank yang terdaftar sebagai penyedia layanan aset kripto di bawah regulasi MiCA Uni Eropa meningkat pesat. Ini menunjukkan minat institusi keuangan tradisional untuk berpartisipasi dalam ekosistem kripto yang teregulasi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T9WY6ZEBREY64C7KQFFW2D/2222222.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T14:04:43"
+   "published_at": "2026-09-18T16:04:22"
   }
  ]
 }
