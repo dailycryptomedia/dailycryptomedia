@@ -1,5 +1,5 @@
 {
- "total": 102,
+ "total": 95,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,20 +46,6 @@
    "published_at": "2026-09-18T18:45:35"
   },
   {
-   "id": 3854,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Model OpenAI Tulis Instruksi 'Jailbreak' Sendiri",
-   "x": "Model AI OpenAI dilaporkan mampu membuat instruksi untuk melewati batasan keamanan mereka sendiri. Hal ini menimbulkan kekhawatiran baru mengenai kontrol dan perilaku AI di masa depan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T22:31:03"
-  },
-  {
    "id": 3959,
    "k": "pasar",
    "cat": "Pasar",
@@ -72,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T19:53:54"
+  },
+  {
+   "id": 3963,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Zcash berupaya tingkatkan kecepatan transaksi",
+   "x": "Pembaruan baru pada jaringan Zcash akan memangkas waktu blok dari 75 menjadi 25 detik. Inisiatif ini juga akan mengubah model pembayaran keamanan jaringan setelah tahun 2031.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T19:16:03"
   },
   {
    "id": 3930,
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nvidia-ceo-produksi-ai-meningkat",
    "img": "https://assets.beincrypto.com/img/lfO07JqFhBZzXUI_IcXRlZj1Igc=/smart/8e6c0553f3684f669339d4221d0f52c1",
-   "a": "34 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T21:31:46"
@@ -138,24 +138,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bank-of-russia-proposes-1-crypto-capital-cap-while-carving-out-some-client-custody",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/russia-client-crypto-access.webp",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T13:35:19"
-  },
-  {
-   "id": 3856,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Data Startup Mati Bisa Dibeli Elon Musk untuk AI",
-   "x": "Divisi AI SpaceX dikabarkan mempertimbangkan pembelian data pelanggan dari startup yang bangkrut. Langkah ini berpotensi menjadi sumber data murah untuk pengembangan AI mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T21:16:03"
   },
   {
    "id": 4036,
@@ -166,10 +152,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2ZAWJ1EP2F4S5Q51BS1BF79/make-ai-great1.jpg",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T12:00:52"
+  },
+  {
+   "id": 3962,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Coinbase ajukan izin listing futures saham tunggal Apple, Tesla, Nvidia",
+   "x": "Coinbase mengajukan persetujuan kepada regulator AS untuk kontrak futures saham tunggal. Produk ini akan memberikan eksposur leverage 24/5 kepada investor AS terhadap saham individu.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T21:01:30"
   },
   {
    "id": 3910,
@@ -222,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/waspada-tutorial-bot-trading-ai-salah-langkah-bisa-bikin-kripto-raib",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T09:00:37"
@@ -242,20 +242,6 @@
    "published_at": "2026-09-19T17:10:40"
   },
   {
-   "id": 3963,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Zcash berupaya tingkatkan kecepatan transaksi",
-   "x": "Pembaruan baru pada jaringan Zcash akan memangkas waktu blok dari 75 menjadi 25 detik. Inisiatif ini juga akan mengubah model pembayaran keamanan jaringan setelah tahun 2031.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T19:16:03"
-  },
-  {
    "id": 3865,
    "k": "pasar",
    "cat": "Pasar",
@@ -270,6 +256,20 @@
    "published_at": "2026-09-18T04:11:40"
   },
   {
+   "id": 3951,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CFTC mulai susun aturan kripto, lewati Kongres yang stagnan",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengajukan rancangan awal aturan aset kripto untuk ditinjau Gedung Putih. Langkah ini menunjukkan upaya regulator untuk membangun kerangka derivatif aset digital secara mandiri setelah legislasi spesifik terhenti.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T16:08:13"
+  },
+  {
    "id": 4059,
    "k": "pasar",
    "cat": "Pasar",
@@ -278,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/ChatGPT-Image-Sep-20-2026-04_06_27-PM.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T20:11:49"
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/penurunan-pasar-kripto-eskalasi-timur-tengah",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T08:59:31"
@@ -340,20 +340,6 @@
    "published_at": "2026-09-19T10:40:55"
   },
   {
-   "id": 3857,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Chipotle Gandeng Palantir untuk Keamanan Pangan",
-   "x": "Perusahaan makanan Chipotle menguji coba dasbor keamanan pangan yang dibangun Palantir, perusahaan yang didukung modal ventura CIA. Ini dilakukan menyusul insiden keracunan makanan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/chipotle-unsplash-gID_4.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T20:46:03"
-  },
-  {
    "id": 3890,
    "k": "pasar",
    "cat": "Pasar",
@@ -366,6 +352,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T11:22:24"
+  },
+  {
+   "id": 4008,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Grayscale buat ETF Zcash yang populer jadi lebih terjangkau",
+   "x": "ETF Zcash Grayscale melakukan pemecahan saham tiga banding satu setelah menarik lebih dari $233 juta dalam sebulan. Langkah ini dilakukan seiring meningkatnya minat investor institusi pada aset kripto privasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T15:01:03"
   },
   {
    "id": 3932,
@@ -396,18 +396,18 @@
    "published_at": "2026-09-18T05:23:29"
   },
   {
-   "id": 3851,
+   "id": 3869,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Polymarket Rekrut Arsitek Social-Coin Gagal dari Coinbase",
-   "x": "Polymarket merekrut pendiri Zora, Jacob Horne, untuk membangun ulang produk onchain mereka saat Kalshi memperkuat pasar prediksi AS milik Coinbase.",
+   "t": "Nostra Ikut Bergabung di September yang Sudah Rugikan Kripto Lebih dari US$326 Juta",
+   "x": "Protokol peminjaman Starknet, Nostra, menghentikan aktivitas money market pada hari Kamis setelah price oracle yang dimanipulasi memungkinkan satu akun meminjam sekitar US$3,5 juta dengan agunan NSTR. Kegiatan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/polymarket-rekrut-jacob-horne-onchain-product",
-   "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/nostra-starknet-oracle-exploit-pasar-dijeda",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-17T21:54:25"
+   "published_at": "2026-09-18T04:57:03"
   },
   {
    "id": 3917,
@@ -438,20 +438,6 @@
    "published_at": "2026-09-18T10:50:46"
   },
   {
-   "id": 3962,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Coinbase ajukan izin listing futures saham tunggal Apple, Tesla, Nvidia",
-   "x": "Coinbase mengajukan persetujuan kepada regulator AS untuk kontrak futures saham tunggal. Produk ini akan memberikan eksposur leverage 24/5 kepada investor AS terhadap saham individu.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T21:01:30"
-  },
-  {
    "id": 3960,
    "k": "pasar",
    "cat": "Pasar",
@@ -464,6 +450,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T19:06:30"
+  },
+  {
+   "id": 4000,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Jantung Solana berdetak lebih cepat: Waktu blok turun 17% dalam peningkatan kecepatan terbaru",
+   "x": "Jaringan Solana berhasil meningkatkan kecepatan pemrosesan blok sebesar 17%. Peningkatan ini fokus pada efisiensi waktu pembaruan data, bukan kapasitas transaksi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T13:01:04"
   },
   {
    "id": 4009,
@@ -494,18 +494,18 @@
    "published_at": "2026-09-19T13:39:15"
   },
   {
-   "id": 3869,
+   "id": 3903,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Nostra Ikut Bergabung di September yang Sudah Rugikan Kripto Lebih dari US$326 Juta",
-   "x": "Protokol peminjaman Starknet, Nostra, menghentikan aktivitas money market pada hari Kamis setelah price oracle yang dimanipulasi memungkinkan satu akun meminjam sekitar US$3,5 juta dengan agunan NSTR. Kegiatan…",
+   "t": "Penipuan AI Meningkat di Aset Kripto, KuCoin Bertaruh pada Standar Keamanan Baru",
+   "x": "Penipu aset kripto sekarang bisa mengotomatiskan percakapan untuk membujuk korban agar mengirimkan uang. Penggunaan AI oleh pelaku kejahatan naik 40% selama satu tahun terakhir, ungkap laporan TRM Labs pada bulan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/nostra-starknet-oracle-exploit-pasar-dijeda",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "url": "https://id.beincrypto.com/kucoin-ai-certification-kejahatan-kripto-keamanan",
+   "img": "https://assets.beincrypto.com/img/te2t60JT2C5dm7gSdO19eB1YNY0=/smart/927a555c55744f05ac1688e5ec211331",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-18T04:57:03"
+   "published_at": "2026-09-18T10:00:25"
   },
   {
    "id": 4022,
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-pepe-kembali-panas-48-ribu-transaksi-tercatat-dalam-sepekan",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T03:00:58"
@@ -536,20 +536,6 @@
    "published_at": "2026-09-18T17:50:45"
   },
   {
-   "id": 3951,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CFTC mulai susun aturan kripto, lewati Kongres yang stagnan",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengajukan rancangan awal aturan aset kripto untuk ditinjau Gedung Putih. Langkah ini menunjukkan upaya regulator untuk membangun kerangka derivatif aset digital secara mandiri setelah legislasi spesifik terhenti.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T16:08:13"
-  },
-  {
    "id": 4025,
    "k": "pasar",
    "cat": "Pasar",
@@ -558,38 +544,52 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Z0TBMW51CTC0HJ1PNB0RV6/hi-how-zcash-went-from-low-profile-token-to-the-most-searched-asset-in-november1.png",
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T09:14:27"
   },
   {
-   "id": 3859,
+   "id": 3934,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Krisis Ondo Finance Makin Rumit, Anak Gugat Ibu",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/80c70565576dca57e467a9c505945531db3c6631-1452x817.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
+   "t": "Staf Microsoft ditanya apakah AI scraping 'pencurian terbesar dalam sejarah'",
+   "x": "Memo internal Microsoft mengungkapkan kekhawatiran staf mengenai potensi pencurian besar-besaran data melalui AI. Hal ini menyoroti isu etika dan hukum seputar pengembangan teknologi kecerdasan buatan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/microsoft-decrypt-style-01-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-17T21:28:35"
+   "published_at": "2026-09-18T12:52:03"
   },
   {
-   "id": 3852,
+   "id": 3994,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "BitMEX Baru Saja Menghentikan Perdagangan yang Mengubah Aset Kripto Selamanya",
-   "x": "BitMEX menyelesaikan XBTUSD pada 16 September, mengakhiri kontrak Bitcoin yang kemudian dibangun ulang oleh setiap exchange aset kripto besar sebagai versi mereka sendiri.",
+   "t": "Biaya Robinhood Chain runtuh 97% meski transaksi dekat rekor tertinggi",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/1211fc9879a33b0b70483520c67b5a4029d8abf3-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T12:00:00"
+  },
+  {
+   "id": 3952,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "‘Aktris AI Pertama di Dunia' Error Saat Live di Piers Morgan, Beralih ke Bahasa Cina",
+   "x": "Tilly Norwood, yang dijuluki sebagai aktris AI pertama di dunia, tiba-tiba berbicara dalam bahasa Cina saat menjawab pertanyaan dalam wawancara bersama Piers Morgan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitmex-hapus-xbtusd-perpetual-swap",
-   "img": "https://assets.beincrypto.com/img/IqIpj4gYBt8RbmFBJpSph95J8Lw=/smart/2af82e9462314a59bf8ba6bc75e25212",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/aktris-ai-tilly-norwood-piers-morgan-glitch",
+   "img": "https://assets.beincrypto.com/img/mooIGk6ebzE0z_kXFTlZ3gWGspc=/smart/43ebcfe4dd734bb5b298bef2b973322b",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-17T21:39:00"
+   "published_at": "2026-09-18T16:50:08"
   },
   {
    "id": 3974,
@@ -620,20 +620,6 @@
    "published_at": "2026-09-19T21:02:29"
   },
   {
-   "id": 4008,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Grayscale buat ETF Zcash yang populer jadi lebih terjangkau",
-   "x": "ETF Zcash Grayscale melakukan pemecahan saham tiga banding satu setelah menarik lebih dari $233 juta dalam sebulan. Langkah ini dilakukan seiring meningkatnya minat investor institusi pada aset kripto privasi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-19T15:01:03"
-  },
-  {
    "id": 3891,
    "k": "pasar",
    "cat": "Pasar",
@@ -648,32 +634,32 @@
    "published_at": "2026-09-18T10:46:17"
   },
   {
-   "id": 3994,
+   "id": 3926,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Biaya Robinhood Chain runtuh 97% meski transaksi dekat rekor tertinggi",
+   "t": "Polisi prediktif DHS inkonstitusional, anti-Amerika, dan harus dihentikan",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/1211fc9879a33b0b70483520c67b5a4029d8abf3-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-19T12:00:00"
-  },
-  {
-   "id": 3903,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Penipuan AI Meningkat di Aset Kripto, KuCoin Bertaruh pada Standar Keamanan Baru",
-   "x": "Penipu aset kripto sekarang bisa mengotomatiskan percakapan untuk membujuk korban agar mengirimkan uang. Penggunaan AI oleh pelaku kejahatan naik 40% selama satu tahun terakhir, ungkap laporan TRM Labs pada bulan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kucoin-ai-certification-kejahatan-kripto-keamanan",
-   "img": "https://assets.beincrypto.com/img/te2t60JT2C5dm7gSdO19eB1YNY0=/smart/927a555c55744f05ac1688e5ec211331",
+   "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c5f29d956f8c68dcb1e876203b0d49558b374ae5-5083x3453.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-18T13:00:00"
+  },
+  {
+   "id": 3980,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Jalur Anthropic Menuju Public Market Baru Saja Dapat 2 Perkembangan Baru",
+   "x": "Anthropic Sedang Menimbang Dua Keputusan Penting saat Perusahaan Berniat Listing di Pasar Publik Tahun Ini Salah satunya menyangkut waktu listing, sedangkan yang lain terkait dengan produk apa yang akan diluncurkan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/anthropic-ipo-november-valuasi-2-triliun",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "kemarin",
+   "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-18T10:00:25"
+   "published_at": "2026-09-19T09:15:42"
   },
   {
    "id": 4024,
@@ -684,7 +670,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-20-september-2026-morpho-mantra-strk-inj-sky-tancap-gas-level-kunci-mulai-diuji",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T02:00:16"
@@ -704,20 +690,6 @@
    "published_at": "2026-09-19T04:30:33"
   },
   {
-   "id": 3855,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pakar AI Minta AS dan China Janji Tak Gunakan AI Kendalikan Nuklir",
-   "x": "Peneliti mendesak Amerika Serikat dan China untuk sepakat agar manusia tetap memegang kendali penuh atas senjata nuklir. Tujuannya adalah mencegah potensi risiko dari penggunaan AI dalam sistem persenjataan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/atom-bomb-decrypt-style-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-17T21:46:03"
-  },
-  {
    "id": 3922,
    "k": "pasar",
    "cat": "Pasar",
@@ -732,32 +704,32 @@
    "published_at": "2026-09-18T12:40:04"
   },
   {
-   "id": 3926,
+   "id": 3928,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Polisi prediktif DHS inkonstitusional, anti-Amerika, dan harus dihentikan",
+   "t": "Zcash targetkan peningkatan November percepat pembayaran privat 3x",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c5f29d956f8c68dcb1e876203b0d49558b374ae5-5083x3453.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/837700a2c31b20bd836c2e16853b6d25f4e30f7f-5400x3600.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T13:00:00"
+   "published_at": "2026-09-18T12:50:01"
   },
   {
-   "id": 3952,
+   "id": 3961,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "‘Aktris AI Pertama di Dunia' Error Saat Live di Piers Morgan, Beralih ke Bahasa Cina",
-   "x": "Tilly Norwood, yang dijuluki sebagai aktris AI pertama di dunia, tiba-tiba berbicara dalam bahasa Cina saat menjawab pertanyaan dalam wawancara bersama Piers Morgan.",
+   "t": "XRP Bangkit dari Kegagalan CLARITY Act dan Reli 7%: Akankah Bertahan?",
+   "x": "XRP berhasil bangkit dari tekanan regulasi tajam minggu ini, naik lebih dari 7% dalam 24 jam hingga diperdagangkan mendekati US$1,39 setelah sempat menyentuh level terendah di sekitar US$1,27. Pulihnya harga tersebut…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/aktris-ai-tilly-norwood-piers-morgan-glitch",
-   "img": "https://assets.beincrypto.com/img/mooIGk6ebzE0z_kXFTlZ3gWGspc=/smart/43ebcfe4dd734bb5b298bef2b973322b",
+   "url": "https://id.beincrypto.com/xrp-abaikan-kegagalan-clarity-act-melonjak",
+   "img": "https://assets.beincrypto.com/img/3ysatx1-FpxFTvAAe90XyfQcFy0=/smart/cdeba50106c44ef7874ffd30c011a8bb",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-18T16:50:08"
+   "published_at": "2026-09-18T19:16:42"
   },
   {
    "id": 3975,
@@ -788,20 +760,6 @@
    "published_at": "2026-09-18T13:50:03"
   },
   {
-   "id": 4000,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Jantung Solana berdetak lebih cepat: Waktu blok turun 17% dalam peningkatan kecepatan terbaru",
-   "x": "Jaringan Solana berhasil meningkatkan kecepatan pemrosesan blok sebesar 17%. Peningkatan ini fokus pada efisiensi waktu pembaruan data, bukan kapasitas transaksi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-19T13:01:04"
-  },
-  {
    "id": 4013,
    "k": "pasar",
    "cat": "Pasar",
@@ -816,32 +774,74 @@
    "published_at": "2026-09-19T18:35:16"
   },
   {
-   "id": 3928,
+   "id": 3901,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Zcash targetkan peningkatan November percepat pembayaran privat 3x",
+   "t": "Solana percepat blok 17%, kapasitas transaksi tetap",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/837700a2c31b20bd836c2e16853b6d25f4e30f7f-5400x3600.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-18T12:50:01"
+   "published_at": "2026-09-18T06:16:57"
   },
   {
-   "id": 3980,
+   "id": 4038,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Jalur Anthropic Menuju Public Market Baru Saja Dapat 2 Perkembangan Baru",
-   "x": "Anthropic Sedang Menimbang Dua Keputusan Penting saat Perusahaan Berniat Listing di Pasar Publik Tahun Ini Salah satunya menyangkut waktu listing, sedangkan yang lain terkait dengan produk apa yang akan diluncurkan…",
+   "t": "70% Altcoin Binance Pulih, Tapi Altcoin Season Index Ceritakan Hal Berbeda",
+   "x": "Altcoin telah naik kembali ke atas level kunci di Binance, dengan 70% sekarang berada di atas rata-rata 200 harinya. Namun, satu alat ukur kekuatan altcoin lainnya justru bergerak berlawanan arah. Altcoin Season Index…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/anthropic-ipo-november-valuasi-2-triliun",
-   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/altcoin-season-index-bitcoin-dominance-split",
+   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-19T09:15:42"
+   "published_at": "2026-09-20T11:31:39"
+  },
+  {
+   "id": 3987,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Dua crypto hidden gem ini punya potensi besar",
+   "x": "Proyek kripto ARGUS dan PAID mulai menarik perhatian karena narasi kuat dan potensi pertumbuhan yang signifikan. Kedua aset digital ini bisa menjadi pilihan menarik bagi investor yang mencari peluang baru.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/belum-banyak-dilirik-2-crypto-hidden-gem-ini-punya-potensi-besar",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T08:00:24"
+  },
+  {
+   "id": 4011,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Reli ZEC 100% di atas $1500 buat ETF Zcash Grayscale mendekati $1 miliar",
+   "x": "Kenaikan harga Zcash (ZEC) yang signifikan mendorong nilai aset ETF Zcash Grayscale mendekati angka $1 miliar. Peristiwa ini menunjukkan minat investor pada aset kripto privasi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/zcash-etf-split-conveyor.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T15:50:04"
+  },
+  {
+   "id": 3978,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan bankir Hong Kong dipenjara karena suap kripto senilai $1,6 miliar",
+   "x": "Seorang mantan pejabat perbankan di Hong Kong divonis penjara karena skema penipuan surat kredit dan menerima suap aset kripto. Kasus ini menyoroti risiko penyalahgunaan aset digital dalam kejahatan keuangan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T07:50:58"
   }
  ]
 }

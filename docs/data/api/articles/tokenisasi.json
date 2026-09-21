@@ -1,5 +1,5 @@
 {
- "total": 22,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-bank-menginginkan-stablecoin",
    "img": "https://assets.beincrypto.com/img/NX6FTy5oRvjAFmK0E_NN08F2N8g=/smart/e59c1458375440b6aa93e0d05c30b3cd",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T00:11:12"
@@ -32,6 +32,20 @@
    "published_at": "2026-09-18T19:50:45"
   },
   {
+   "id": 4062,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Arbitrum diprediksi naik 70 kali lipat, pasar kripto lewatkan CLARITY",
+   "x": "Saham tokenisasi dilegalkan dan Bitcoin Reserve maju, meski pasar kripto kehilangan CLARITY. Standard Chartered memprediksi harga Arbitrum bisa melonjak 70 kali lipat pada 2030.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30EAE44F9E8Z0P8M1SEBDSD/magazine-cover-collage-sept-21.png",
+   "a": "44 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-20T23:37:39"
+  },
+  {
    "id": 4048,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -40,24 +54,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T16:01:03"
-  },
-  {
-   "id": 4003,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "VanEck kritik Metaplanet atas dilusi eksekutif meski ada pemotongan kompensasi",
-   "x": "VanEck menyoroti kepemilikan ekuitas eksekutif Metaplanet yang masih tinggi dibandingkan pesaingnya, meskipun perusahaan telah memotong potensi sahamnya. Hal ini menimbulkan pertanyaan tentang tata kelola perusahaan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2X3YT6NGAV29VGER3AJRNFW/hi-metaplanet-seeks-bitcoin-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-19T16:15:27"
   },
   {
    "id": 4033,
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/binance-tokenisasi-rwa-beralih-ke-activation-era-ekuitas-jadi-kunci-berikutnya",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T08:00:50"
@@ -124,10 +124,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/charles-hoskinson-says-cardano-no-longer-comes-first-its-treasury-vote-explains-why",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-governance-crumbling-podium.webp",
-   "a": "35 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T21:30:57"
+  },
+  {
+   "id": 4003,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "VanEck kritik Metaplanet atas dilusi eksekutif meski ada pemotongan kompensasi",
+   "x": "VanEck menyoroti kepemilikan ekuitas eksekutif Metaplanet yang masih tinggi dibandingkan pesaingnya, meskipun perusahaan telah memotong potensi sahamnya. Hal ini menimbulkan pertanyaan tentang tata kelola perusahaan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2X3YT6NGAV29VGER3AJRNFW/hi-metaplanet-seeks-bitcoin-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T16:15:27"
   },
   {
    "id": 3916,
@@ -144,20 +158,6 @@
    "published_at": "2026-09-18T09:01:55"
   },
   {
-   "id": 3866,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "World luncurkan 'super app' World Money yang menyimpan aset secara mandiri",
-   "x": "World Money hadir di lebih dari 150 negara, menggabungkan pembayaran stablecoin, imbal hasil aset digital, dan perdagangan dalam satu aplikasi. Aplikasi ini memungkinkan pengguna mengontrol aset mereka sendiri.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S9HGXJ2F33PMBZSJ22CVNG/world-app.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-18T03:40:28"
-  },
-  {
    "id": 4034,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -166,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/sp-global-akuisisi-openzeppelin-sinyal-serius-garap-tokenisasi",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T07:00:39"
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-icc-sanksi-dolar-stablecoin",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T20:54:11"
@@ -214,18 +214,18 @@
    "published_at": "2026-09-19T19:00:16"
   },
   {
-   "id": 4012,
+   "id": 3866,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "REX luncurkan ETF leverage 2x terkait perusahaan treasury Bitcoin Strive",
-   "x": "REX memperkenalkan ETF baru yang menawarkan eksposur leverage 2x harian terhadap saham Strive, sebuah perusahaan yang berfokus pada treasury Bitcoin. Produk ini memungkinkan trader untuk berspekulasi dengan imbal hasil berlipat ganda pada kinerja perusahaan tersebut.",
+   "t": "World luncurkan 'super app' World Money yang menyimpan aset secara mandiri",
+   "x": "World Money hadir di lebih dari 150 negara, menggabungkan pembayaran stablecoin, imbal hasil aset digital, dan perdagangan dalam satu aplikasi. Aplikasi ini memungkinkan pengguna mengontrol aset mereka sendiri.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S9HGXJ2F33PMBZSJ22CVNG/world-app.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T19:14:38"
+   "published_at": "2026-09-18T03:40:28"
   },
   {
    "id": 3908,
@@ -250,24 +250,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-payroll-access.webp",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T12:05:36"
   },
   {
-   "id": 3990,
+   "id": 4012,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bastion dapat persetujuan bersyarat OCC untuk piagam bank kustodian nasional",
-   "x": "Bastion Platforms akan menawarkan kustodian stablecoin dan dompet dari satu entitas yang diatur federal. Ini menandai langkah penting dalam integrasi aset digital dengan sistem keuangan tradisional.",
+   "t": "REX luncurkan ETF leverage 2x terkait perusahaan treasury Bitcoin Strive",
+   "x": "REX memperkenalkan ETF baru yang menawarkan eksposur leverage 2x harian terhadap saham Strive, sebuah perusahaan yang berfokus pada treasury Bitcoin. Produk ini memungkinkan trader untuk berspekulasi dengan imbal hasil berlipat ganda pada kinerja perusahaan tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter1.png",
+   "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T11:47:29"
+   "published_at": "2026-09-19T19:14:38"
   },
   {
    "id": 3889,
@@ -282,6 +282,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T01:30:37"
+  },
+  {
+   "id": 3990,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bastion dapat persetujuan bersyarat OCC untuk piagam bank kustodian nasional",
+   "x": "Bastion Platforms akan menawarkan kustodian stablecoin dan dompet dari satu entitas yang diatur federal. Ini menandai langkah penting dalam integrasi aset digital dengan sistem keuangan tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter1.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-19T11:47:29"
   },
   {
    "id": 3892,
