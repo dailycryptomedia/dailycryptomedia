@@ -12,12 +12,17 @@
  {
   "k": "bitcoin",
   "label": "Bitcoin",
-  "jumlah": 41
+  "jumlah": 47
  },
  {
   "k": "defi",
   "label": "DeFi",
-  "jumlah": 9
+  "jumlah": 10
+ },
+ {
+  "k": "nft",
+  "label": "NFT & Gaming",
+  "jumlah": 1
  },
  {
   "k": "web3",
@@ -32,6 +37,6 @@
  {
   "k": "pasar",
   "label": "Pasar",
-  "jumlah": 95
+  "jumlah": 100
  }
 ]

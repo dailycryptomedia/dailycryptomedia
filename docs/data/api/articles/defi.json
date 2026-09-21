@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T16:29:11"
+  },
+  {
+   "id": 4070,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Staking AVAX lebih fleksibel, Avalanche ubah ekonomi token lewat Helicon",
+   "x": "Avalanche melakukan perombakan pada mekanisme staking token AVAX melalui Helicon. Perubahan ini mencakup periode validator yang lebih singkat dan opsi imbal hasil untuk tenor pendek.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/staking-avax-makin-fleksibel-avalanche-rombak-ekonomi-token-lewat-helicon",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T02:30:16"
   },
   {
    "id": 3896,
@@ -68,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/icapital-ramalan-yield-10-tahun-saham",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-18T02:02:00"
@@ -96,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/eu-staking-lockdown.webp",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T15:05:37"
@@ -110,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrpls-new-lending-tool-could-lock-up-your-xrp-from-minutes-to-decades",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrpl-xrp-vault-lock.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-18T03:40:57"
