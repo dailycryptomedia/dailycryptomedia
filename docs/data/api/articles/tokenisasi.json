@@ -1,5 +1,5 @@
 {
- "total": 32,
+ "total": 30,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cregis-lembaga-onchain-finance-summit-singapura",
    "img": "https://assets.beincrypto.com/img/CFsbW9vG6myEgcq5Vz6u_dbcLPw=/smart/e770da503b094d3e9e10e0fd79daa4a7",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T10:52:05"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T16:01:03"
@@ -74,6 +74,20 @@
    "published_at": "2026-09-20T08:00:50"
   },
   {
+   "id": 4249,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank Besar Kanada Luncurkan Inisiatif Simpanan Tokenisasi Antarbank",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/493408ee8595fd953e1510f008aeba370f107166-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "18 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T17:34:03"
+  },
+  {
    "id": 4230,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -82,24 +96,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/mastercard-card-2.jpg",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:00:00"
-  },
-  {
-   "id": 4113,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "ECB berencana beli obligasi tokenisasi dengan dana sendiri",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4712c2b2e981ca52999da3036ae398362c6b1700-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-21T15:00:47"
   },
   {
    "id": 4057,
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T16:16:03"
@@ -172,6 +172,20 @@
    "published_at": "2026-09-21T09:00:16"
   },
   {
+   "id": 4113,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "ECB berencana beli obligasi tokenisasi dengan dana sendiri",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4712c2b2e981ca52999da3036ae398362c6b1700-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T15:00:47"
+  },
+  {
    "id": 4131,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -180,24 +194,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_6.jpg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-21T15:07:39"
-  },
-  {
-   "id": 4094,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Hana Bank terbitkan obligasi digital pertama Korea Selatan pakai blockchain Euroclear",
-   "x": "Hana Bank menjadi pionir di Korea Selatan dengan menerbitkan obligasi digital menggunakan teknologi blockchain. Inisiatif ini menandai adopsi teknologi terdesentralisasi dalam instrumen keuangan tradisional.",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ca0c5227db16e3f89f1df6c7b19698cc547c9f6-3192x1772.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T08:49:59"
+   "published_at": "2026-09-21T15:07:39"
   },
   {
    "id": 4126,
@@ -228,18 +228,18 @@
    "published_at": "2026-09-20T12:05:36"
   },
   {
-   "id": 4003,
+   "id": 4150,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "VanEck kritik Metaplanet atas dilusi eksekutif meski ada pemotongan kompensasi",
-   "x": "VanEck menyoroti kepemilikan ekuitas eksekutif Metaplanet yang masih tinggi dibandingkan pesaingnya, meskipun perusahaan telah memotong potensi sahamnya. Hal ini menimbulkan pertanyaan tentang tata kelola perusahaan.",
+   "t": "Ondo izinkan institusi konversi saham jadi token",
+   "x": "Sistem konversi baru dari Ondo memungkinkan institusi terverifikasi untuk mencetak dan menebus saham serta ETF yang ditokenisasi menggunakan sekuritas yang mendasarinya, bukan hanya kas. Inovasi ini memfasilitasi tokenisasi aset dunia nyata.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2X3YT6NGAV29VGER3AJRNFW/hi-metaplanet-seeks-bitcoin-1.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T16:15:27"
+   "published_at": "2026-09-21T18:35:43"
   },
   {
    "id": 4164,
@@ -250,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/christine-lagarde-ecb-decrypt-style-gID_7.jpg",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T19:00:04"
@@ -270,18 +270,18 @@
    "published_at": "2026-09-20T07:00:39"
   },
   {
-   "id": 3995,
+   "id": 4094,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Mengapa raksasa Wall Street bangun tokenisasi uang untuk institusi, bukan konsumen",
-   "x": "",
+   "t": "Hana Bank terbitkan obligasi digital pertama Korea Selatan pakai blockchain Euroclear",
+   "x": "Hana Bank menjadi pionir di Korea Selatan dengan menerbitkan obligasi digital menggunakan teknologi blockchain. Inisiatif ini menandai adopsi teknologi terdesentralisasi dalam instrumen keuangan tradisional.",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b18ee53b50842f9ee6f7eb1059651463c7e51c9a-765x430.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ca0c5227db16e3f89f1df6c7b19698cc547c9f6-3192x1772.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T12:00:00"
+   "published_at": "2026-09-21T08:49:59"
   },
   {
    "id": 4175,
@@ -292,24 +292,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ecb-tokenized-bond-settlement.webp",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T21:00:23"
   },
   {
-   "id": 4150,
+   "id": 4184,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Ondo izinkan institusi konversi saham jadi token",
-   "x": "Sistem konversi baru dari Ondo memungkinkan institusi terverifikasi untuk mencetak dan menebus saham serta ETF yang ditokenisasi menggunakan sekuritas yang mendasarinya, bukan hanya kas. Inovasi ini memfasilitasi tokenisasi aset dunia nyata.",
+   "t": "Proyeksi ekonomi Australia 40 tahun akui 'revolusi AI', abaikan kripto",
+   "x": "Laporan ekonomi Australia menyoroti revolusi kecerdasan buatan (AI) sebagai pendorong utama perubahan, namun mengabaikan peran aset kripto. Coinbase berpendapat bahwa laporan tersebut melewatkan potensi infrastruktur keuangan digital yang mungkin dibutuhkan agen AI di masa depan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png",
-   "a": "18 jam lalu",
+   "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T18:35:43"
+   "published_at": "2026-09-22T05:29:31"
   },
   {
    "id": 4241,
@@ -320,7 +320,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bank-sentral-eropa-mulai-lirik-rwa-aset-tokenisasi-jadi-target-baru",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T08:00:31"
@@ -340,18 +340,18 @@
    "published_at": "2026-09-21T12:44:33"
   },
   {
-   "id": 4184,
+   "id": 4012,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Proyeksi ekonomi Australia 40 tahun akui 'revolusi AI', abaikan kripto",
-   "x": "Laporan ekonomi Australia menyoroti revolusi kecerdasan buatan (AI) sebagai pendorong utama perubahan, namun mengabaikan peran aset kripto. Coinbase berpendapat bahwa laporan tersebut melewatkan potensi infrastruktur keuangan digital yang mungkin dibutuhkan agen AI di masa depan.",
+   "t": "REX luncurkan ETF leverage 2x terkait perusahaan treasury Bitcoin Strive",
+   "x": "REX memperkenalkan ETF baru yang menawarkan eksposur leverage 2x harian terhadap saham Strive, sebuah perusahaan yang berfokus pada treasury Bitcoin. Produk ini memungkinkan trader untuk berspekulasi dengan imbal hasil berlipat ganda pada kinerja perusahaan tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
-   "a": "8 jam lalu",
+   "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T05:29:31"
+   "published_at": "2026-09-19T19:14:38"
   },
   {
    "id": 4117,
@@ -368,18 +368,18 @@
    "published_at": "2026-09-21T12:17:48"
   },
   {
-   "id": 4012,
+   "id": 4216,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "REX luncurkan ETF leverage 2x terkait perusahaan treasury Bitcoin Strive",
-   "x": "REX memperkenalkan ETF baru yang menawarkan eksposur leverage 2x harian terhadap saham Strive, sebuah perusahaan yang berfokus pada treasury Bitcoin. Produk ini memungkinkan trader untuk berspekulasi dengan imbal hasil berlipat ganda pada kinerja perusahaan tersebut.",
+   "t": "ECB akan gunakan dana sendiri untuk sekuritas tokenisasi",
+   "x": "Bank Sentral Eropa (ECB) akan membeli sekuritas sektor publik yang ditokenisasi dan menyelesaikannya melalui sistem Pontes. Langkah ini bertujuan untuk mendapatkan pengalaman langsung dalam pasar DLT.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34CG9DD6TZFV9RKTHF4AV1Q/hi-eu-coin.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T19:14:38"
+   "published_at": "2026-09-22T11:29:35"
   },
   {
    "id": 4121,
@@ -396,34 +396,6 @@
    "published_at": "2026-09-21T11:18:55"
   },
   {
-   "id": 3990,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bastion dapat persetujuan bersyarat OCC untuk piagam bank kustodian nasional",
-   "x": "Bastion Platforms akan menawarkan kustodian stablecoin dan dompet dari satu entitas yang diatur federal. Ini menandai langkah penting dalam integrasi aset digital dengan sistem keuangan tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter1.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-19T11:47:29"
-  },
-  {
-   "id": 4216,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "ECB akan gunakan dana sendiri untuk sekuritas tokenisasi",
-   "x": "Bank Sentral Eropa (ECB) akan membeli sekuritas sektor publik yang ditokenisasi dan menyelesaikannya melalui sistem Pontes. Langkah ini bertujuan untuk mendapatkan pengalaman langsung dalam pasar DLT.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34CG9DD6TZFV9RKTHF4AV1Q/hi-eu-coin.jpg",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T11:29:35"
-  },
-  {
    "id": 4186,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -432,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33H6YCTPMYT71NXRZW9M9KM/sk-mou.png",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T03:13:22"
