@@ -1,5 +1,5 @@
 {
- "total": 77,
+ "total": 78,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33BT0Q1BGHTTCMHG3PRS55W/magazine-satoshi-may-have-needed-an-alias.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T13:30:00"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_5.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T07:44:17"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33Y5TYZKZESE6DRNC3V960G/hi-a-stronger-foundation-for-bitcoin-etf-applications1-3.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T07:33:37"
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T19:31:03"
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-may-go-quantum-safe-while-lightning-privacy-stays-exposed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-quantum-bridge.webp",
-   "a": "30 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T20:15:00"
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231006_Coinbase_News3.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T14:13:20"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/3-meme-coin-untuk-dipantau-pekan-keempat-september",
    "img": "https://assets.beincrypto.com/img/1jfWDKt9CpxhhxFC4t6DP4P7qgQ=/smart/59ea20619bcd4f1c9ee12fb82b1eda0a",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T16:13:51"
@@ -236,7 +236,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T18:46:03"
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-hari-ini-makin-moncer-us90-000-siap-didobrak",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T06:00:53"
@@ -292,7 +292,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d894fb3614fdbe9012bafe01b7dcaa2df93bb995-2880x1620.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T07:40:41"
@@ -326,18 +326,18 @@
    "published_at": "2026-09-21T09:35:25"
   },
   {
-   "id": 4166,
+   "id": 4286,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Otak lalat buah bisa menambang Bitcoin? Perusahaan uji coba",
-   "x": "Eksperimen browser HashFly menggunakan model saraf digital untuk menambang Bitcoin. Perusahaan ini memproyeksikan efisiensi yang lebih tinggi dari versi biologis hipotetis, membuka potensi baru dalam komputasi terdesentralisasi.",
+   "t": "Bitcoin berusia 10 tahun senilai $161 juta bergerak dalam dua minggu",
+   "x": "Sebanyak 1.971 BTC dari dompet tua senilai $161 juta telah dipindahkan dalam dua minggu terakhir. Pergerakan dana besar dari aset lama ini dapat memicu volatilitas pasar dan menarik perhatian regulator.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T17:46:02"
+   "published_at": "2026-09-22T21:16:03"
   },
   {
    "id": 4255,
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/narrowing-price-cushions-leave-bitcoin-loans-vulnerable-to-4-7-price-dips-as-aave-weighs-higher-leverage",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidation-path-2.webp",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T17:00:59"
@@ -396,18 +396,18 @@
    "published_at": "2026-09-21T10:15:44"
   },
   {
-   "id": 4271,
+   "id": 4284,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "CEO MicroStrategy Katakan Jamie Dimon Adalah Bitcoiner di Balik Layar",
-   "x": "CEO Strategy Phong Le mengatakan Jamie Dimon dari JPMorgan secara pribadi mendukung Bitcoin, meskipun di depan umum menyebutnya sebagai batu peliharaan.",
+   "t": "Tom Lee dan CEO iTrustCapital Bilang Masa Sulit Sudah Lewat: Bisakah Bitcoin Bertahan di US$86.000?",
+   "x": "Tom Lee dan CEO iTrustCapital mengatakan masa terburuk sudah berlalu saat Bitcoin diperdagangkan mendekati $86.000. Apakah reli ini bisa bertahan?",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/strategi-ceo-jamie-dimon-bitcoiner",
-   "img": "https://assets.beincrypto.com/img/E4pdEYG2o-eKedkdx916CueZbQA=/smart/5c012bcec6544aa1a6ec825bd7b5a363",
+   "url": "https://id.beincrypto.com/tom-lee-itrustcapital-bitcoin-terburuk-sudah-lewat",
+   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
    "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-22T18:19:54"
+   "published_at": "2026-09-22T21:02:53"
   },
   {
    "id": 4243,
@@ -418,24 +418,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34XETNPFDGERCB74XHN6SRJ/hi-why-oil-rich-investors-are-pushing-bitcoins-next-liquidity-wave.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T16:01:55"
   },
   {
-   "id": 4137,
+   "id": 4166,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Harga Bitcoin kembali reli—Apa selanjutnya?",
-   "x": "Reli Bitcoin menembus batas delapan bulan didorong oleh short squeeze dan penurunan harga minyak. Tiga minggu ke depan akan menentukan apakah tren positif ini akan bertahan.",
+   "t": "Otak lalat buah bisa menambang Bitcoin? Perusahaan uji coba",
+   "x": "Eksperimen browser HashFly menggunakan model saraf digital untuk menambang Bitcoin. Perusahaan ini memproyeksikan efisiensi yang lebih tinggi dari versi biologis hipotetis, membuka potensi baru dalam komputasi terdesentralisasi.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg",
+   "url": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T15:45:35"
+   "published_at": "2026-09-21T17:46:02"
   },
   {
    "id": 4159,
@@ -460,24 +460,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/4e50c9195dba15e6ee82b37a243ee05c82ea6b97-6960x4640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:32:15"
   },
   {
-   "id": 4058,
+   "id": 4271,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Michael Saylor Isyaratkan MicroStrategy Akan Beli Lebih Banyak Bitcoin setelah Perdebatan “Dead Cat Bounce”",
-   "x": "Saylor memberi isyarat akan membeli lebih banyak Bitcoin setelah dokumen menunjukkan Strategy melewatkan dua minggu. Update hari Senin menegaskan hal tersebut.",
+   "t": "CEO MicroStrategy Katakan Jamie Dimon Adalah Bitcoiner di Balik Layar",
+   "x": "CEO Strategy Phong Le mengatakan Jamie Dimon dari JPMorgan secara pribadi mendukung Bitcoin, meskipun di depan umum menyebutnya sebagai batu peliharaan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saylor-sindir-pembelian-bitcoin-microstrategy-dead-cat",
-   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/strategi-ceo-jamie-dimon-bitcoiner",
+   "img": "https://assets.beincrypto.com/img/E4pdEYG2o-eKedkdx916CueZbQA=/smart/5c012bcec6544aa1a6ec825bd7b5a363",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-20T19:23:07"
+   "published_at": "2026-09-22T18:19:54"
   },
   {
    "id": 4087,
@@ -494,18 +494,18 @@
    "published_at": "2026-09-21T10:15:51"
   },
   {
-   "id": 4049,
+   "id": 4137,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Mengapa memegang selain Bitcoin merugi selama dua tahun",
-   "x": "Laporan terbaru menunjukkan bahwa altcoin telah mengalami kinerja yang buruk dibandingkan Bitcoin selama dua tahun terakhir. Fenomena ini menyoroti dominasi Bitcoin dalam pasar aset digital saat ini.",
+   "t": "Harga Bitcoin kembali reli—Apa selanjutnya?",
+   "x": "Reli Bitcoin menembus batas delapan bulan didorong oleh short squeeze dan penurunan harga minyak. Tiga minggu ke depan akan menentukan apakah tren positif ini akan bertahan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T14:01:03"
+   "published_at": "2026-09-21T15:45:35"
   },
   {
    "id": 4061,
@@ -536,18 +536,18 @@
    "published_at": "2026-09-21T04:03:43"
   },
   {
-   "id": 4080,
+   "id": 4058,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "BTC Mendekati US$82.000, Tapi Bisakah Arus Masuk ETF Bitcoin Tetap Sejalan?",
-   "x": "Aliran masuk ETF Bitcoin nyaris tetap positif saat BTC mendekati $82.000, sementara ETF Ether menghentikan tren aliran masuk selama empat minggu.",
+   "t": "Michael Saylor Isyaratkan MicroStrategy Akan Beli Lebih Banyak Bitcoin setelah Perdebatan “Dead Cat Bounce”",
+   "x": "Saylor memberi isyarat akan membeli lebih banyak Bitcoin setelah dokumen menunjukkan Strategy melewatkan dua minggu. Update hari Senin menegaskan hal tersebut.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/btc-mendekati-82000-inflow-etf-bitcoin",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/saylor-sindir-pembelian-bitcoin-microstrategy-dead-cat",
+   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-21T08:00:00"
+   "published_at": "2026-09-20T19:23:07"
   },
   {
    "id": 4152,
@@ -564,18 +564,18 @@
    "published_at": "2026-09-21T16:56:53"
   },
   {
-   "id": 4139,
+   "id": 4049,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pagi ini: Kevin O’Leary serukan Bitcoin $1 juta, dengan catatan",
-   "x": "Bitcoin mencapai rekor lokal baru di $85.000, memicu kenaikan signifikan pada altcoin dalam semalam. Kevin O'Leary menyuarakan pandangannya mengenai potensi Bitcoin di masa depan.",
+   "t": "Mengapa memegang selain Bitcoin merugi selama dua tahun",
+   "x": "Laporan terbaru menunjukkan bahwa altcoin telah mengalami kinerja yang buruk dibandingkan Bitcoin selama dua tahun terakhir. Fenomena ini menyoroti dominasi Bitcoin dalam pasar aset digital saat ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-moon-price-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T14:33:03"
+   "published_at": "2026-09-20T14:01:03"
   },
   {
    "id": 4104,
@@ -606,18 +606,18 @@
    "published_at": "2026-09-21T03:56:23"
   },
   {
-   "id": 4210,
+   "id": 4080,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Cetak Level Tertinggi 7 Bulan saat FOMO Memuncak, tapi 2 Sinyal Masih Isyaratkan Waspada",
-   "x": "Bitcoin (BTC) melonjak ke level tertinggi selama 7 bulan pada hari Senin, sehingga meningkatkan sentimen pasar dan kepercayaan institusi. Puncak tersebut terjadi setelah Bitcoin menunjukkan sinyal dasar yang penting…",
+   "t": "BTC Mendekati US$82.000, Tapi Bisakah Arus Masuk ETF Bitcoin Tetap Sejalan?",
+   "x": "Aliran masuk ETF Bitcoin nyaris tetap positif saat BTC mendekati $82.000, sementara ETF Ether menghentikan tren aliran masuk selama empat minggu.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-bitcoin-tertinggi-7-bulan-fomo-sinyal-kewaspadaan",
+   "url": "https://id.beincrypto.com/btc-mendekati-82000-inflow-etf-bitcoin",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "10 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-22T10:23:09"
+   "published_at": "2026-09-21T08:00:00"
   },
   {
    "id": 4217,
@@ -628,24 +628,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M348REMRPFT3JRDK7677JZW0/hi-btc-the-most-popular-crypto-for-purchases-but-bch-and-dash-for-selling-1.jpg",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T10:00:43"
   },
   {
-   "id": 4262,
+   "id": 4139,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin catat aliran dana masuk hampir $1 miliar dalam sehari",
-   "x": "Produk Exchange-Traded Fund (ETF) Bitcoin mencatat rekor aliran dana masuk harian tertinggi sejak peluncurannya. Hal ini terjadi bersamaan dengan kembalinya pemegang aset digital ke zona profit.",
+   "t": "Pagi ini: Kevin O’Leary serukan Bitcoin $1 juta, dengan catatan",
+   "x": "Bitcoin mencapai rekor lokal baru di $85.000, memicu kenaikan signifikan pada altcoin dalam semalam. Kevin O'Leary menyuarakan pandangannya mengenai potensi Bitcoin di masa depan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-   "a": "5 jam lalu",
+   "url": "https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-moon-price-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T14:59:37"
+   "published_at": "2026-09-21T14:33:03"
   },
   {
    "id": 4256,
@@ -656,7 +656,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-etfs-just-absorbed-11500-btc-in-their-biggest-buying-day-in-nearly-two-years",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-bull-stairway.webp",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T16:00:57"
@@ -670,24 +670,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/710c38462c0bed918edb4e7e7ddb4d4303007ce4-2720x2080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T06:27:28"
   },
   {
-   "id": 4169,
+   "id": 4210,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ketika Wall Street Mendadak Bullish, Pertanyaan Muncul Apakah Bitcoin Akan Mengikuti atau Gagal",
-   "x": "Strategis Wall Street melihat reli saham akan berlanjut, dan reli Bitcoin bisa menyusul, kata analis.",
+   "t": "Bitcoin Cetak Level Tertinggi 7 Bulan saat FOMO Memuncak, tapi 2 Sinyal Masih Isyaratkan Waspada",
+   "x": "Bitcoin (BTC) melonjak ke level tertinggi selama 7 bulan pada hari Senin, sehingga meningkatkan sentimen pasar dan kepercayaan institusi. Puncak tersebut terjadi setelah Bitcoin menunjukkan sinyal dasar yang penting…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-btc-rally-saham-pertanyakan",
-   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
-   "a": "22 jam lalu",
+   "url": "https://id.beincrypto.com/harga-bitcoin-tertinggi-7-bulan-fomo-sinyal-kewaspadaan",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-21T22:41:25"
+   "published_at": "2026-09-22T10:23:09"
   },
   {
    "id": 4109,
@@ -704,32 +704,32 @@
    "published_at": "2026-09-21T12:48:21"
   },
   {
-   "id": 4140,
+   "id": 4262,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Timbunan Bitcoin Strategy mendekati rekor Juni setelah pembelian $76 juta",
-   "x": "Perusahaan kas Bitcoin Strategy menambah kepemilikan mereka setelah jeda, mendekati rekor tertinggi yang dicapai pada Juni. Penambahan ini mengindikasikan strategi akumulasi berkelanjutan oleh investor institusi.",
+   "t": "ETF Bitcoin catat aliran dana masuk hampir $1 miliar dalam sehari",
+   "x": "Produk Exchange-Traded Fund (ETF) Bitcoin mencatat rekor aliran dana masuk harian tertinggi sejak peluncurannya. Hal ini terjadi bersamaan dengan kembalinya pemegang aset digital ke zona profit.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T12:56:46"
+   "published_at": "2026-09-22T14:59:37"
   },
   {
-   "id": 4019,
+   "id": 4234,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Lonjakan Fidelity bawa masuk $310 juta BTC, selamatkan ETF Bitcoin",
-   "x": "Aliran dana masuk ke ETF Bitcoin mencapai $310 juta berkat lonjakan permintaan pada Jumat, menyelamatkan produk tersebut dari minggu yang buruk. Hal ini menunjukkan minat institusi yang terus berlanjut pada aset digital.",
+   "t": "Bitcoin tembus $86.000, likuidasi shorts $1 miliar, target selanjutnya $90k",
+   "x": "Kenaikan Bitcoin di atas $86.000 melikuidasi posisi short senilai $1 miliar, menggeser fokus ke target $90.000. Aset kripto terbesar ini mencapai level tertinggi sejak Januari.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-investor-gateway.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-clears-big-86000-short-wall-as-1b-in-shorts-liquidated-again-battle-now-shifts-to-90k",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-short-trap.webp",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-19T20:10:27"
+   "published_at": "2026-09-22T11:00:13"
   },
   {
    "id": 4041,
@@ -746,6 +746,76 @@
    "published_at": "2026-09-20T12:00:00"
   },
   {
+   "id": 4169,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ketika Wall Street Mendadak Bullish, Pertanyaan Muncul Apakah Bitcoin Akan Mengikuti atau Gagal",
+   "x": "Strategis Wall Street melihat reli saham akan berlanjut, dan reli Bitcoin bisa menyusul, kata analis.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-btc-rally-saham-pertanyakan",
+   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-21T22:41:25"
+  },
+  {
+   "id": 4219,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas baik selamatkan 52 Bitcoin dari peretasan Coldcard",
+   "x": "Tim peretas baik berhasil mengamankan sebagian besar Bitcoin yang dicuri dalam insiden peretasan dompet kripto Coldcard. Dana tersebut kini dialihkan ke perwalian untuk korban.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M341PM2NEVWDHH81XGPNVJZ5/purse-key-keyboard-sponsor3-1.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T09:06:59"
+  },
+  {
+   "id": 4140,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Timbunan Bitcoin Strategy mendekati rekor Juni setelah pembelian $76 juta",
+   "x": "Perusahaan kas Bitcoin Strategy menambah kepemilikan mereka setelah jeda, mendekati rekor tertinggi yang dicapai pada Juni. Penambahan ini mengindikasikan strategi akumulasi berkelanjutan oleh investor institusi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T12:56:46"
+  },
+  {
+   "id": 4275,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Data Fed baru: reli Bitcoin berbahaya",
+   "x": "Data terbaru dari The Fed menunjukkan potensi risiko pendanaan yang dapat meningkat di balik permintaan pasar spot yang kuat. Hal ini mengindikasikan adanya kerentanan dalam reli Bitcoin saat ini.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-bitcoins-rally-is-dangerous-according-to-new-fed-data",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-risk-tower.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T18:05:59"
+  },
+  {
+   "id": 4223,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Opsi 'bitcoin butterfly' senilai $3,2 juta bertaruh pada $95.000",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f6494245169a9d500020af970873e671f316e11a-1257x707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T11:35:43"
+  },
+  {
    "id": 4085,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -760,20 +830,6 @@
    "published_at": "2026-09-21T06:07:53"
   },
   {
-   "id": 4219,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas baik selamatkan 52 Bitcoin dari peretasan Coldcard",
-   "x": "Tim peretas baik berhasil mengamankan sebagian besar Bitcoin yang dicuri dalam insiden peretasan dompet kripto Coldcard. Dana tersebut kini dialihkan ke perwalian untuk korban.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M341PM2NEVWDHH81XGPNVJZ5/purse-key-keyboard-sponsor3-1.jpg",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T09:06:59"
-  },
-  {
    "id": 4141,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -786,62 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T12:22:00"
-  },
-  {
-   "id": 4234,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tembus $86.000, likuidasi shorts $1 miliar, target selanjutnya $90k",
-   "x": "Kenaikan Bitcoin di atas $86.000 melikuidasi posisi short senilai $1 miliar, menggeser fokus ke target $90.000. Aset kripto terbesar ini mencapai level tertinggi sejak Januari.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-clears-big-86000-short-wall-as-1b-in-shorts-liquidated-again-battle-now-shifts-to-90k",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-short-trap.webp",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T11:00:13"
-  },
-  {
-   "id": 4223,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Opsi 'bitcoin butterfly' senilai $3,2 juta bertaruh pada $95.000",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f6494245169a9d500020af970873e671f316e11a-1257x707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T11:35:43"
-  },
-  {
-   "id": 4125,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Sota Watanabe Sebut Oktober Akan Luar Biasa: Bull Bitcoin Tumpuk Taruhan US$100.000",
-   "x": "Sota Watanabe mempromosikan bulan Oktober saat para trader opsi Bitcoin menumpuk taruhan senilai $100.000 menjelang jatuh tempo hari Jumat.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/opsi-bitcoin-taruhan-100k-watanabe-oktober",
-   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-21T13:11:18"
-  },
-  {
-   "id": 4275,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Data Fed baru: reli Bitcoin berbahaya",
-   "x": "Data terbaru dari The Fed menunjukkan potensi risiko pendanaan yang dapat meningkat di balik permintaan pasar spot yang kuat. Hal ini mengindikasikan adanya kerentanan dalam reli Bitcoin saat ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-bitcoins-rally-is-dangerous-according-to-new-fed-data",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-risk-tower.webp",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T18:05:59"
   }
  ]
 }

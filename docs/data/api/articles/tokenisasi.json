@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cregis-lembaga-onchain-finance-summit-singapura",
    "img": "https://assets.beincrypto.com/img/CFsbW9vG6myEgcq5Vz6u_dbcLPw=/smart/e770da503b094d3e9e10e0fd79daa4a7",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T10:52:05"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/charles-hoskinson-says-cardano-no-longer-comes-first-its-treasury-vote-explains-why",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-governance-crumbling-podium.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T21:30:57"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
-   "a": "44 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T20:01:03"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/493408ee8595fd953e1510f008aeba370f107166-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T17:34:03"
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/mastercard-card-2.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:00:00"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-icc-sanksi-dolar-stablecoin",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-20T20:54:11"
@@ -222,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ecb-tokenized-bond-settlement.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T21:00:23"
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M357GAH1CKA4TWB0W8FEC9YF/hi-how-central-banks-are-testing-blockchain-based-monetary-policy-bank-of-america.png",
-   "a": "48 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T19:56:48"
@@ -282,6 +282,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T08:49:59"
+  },
+  {
+   "id": 4282,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Ketua CFTC: pasar harus siap hadapi 'tokenisasi massal'",
+   "x": "Ketua CFTC menyatakan pasar keuangan AS perlu bersiap menghadapi gelombang tokenisasi aset dunia nyata. Perubahan ini diprediksi akan mengubah lanskap keuangan tradisional secara signifikan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T21:08:20"
   },
   {
    "id": 4164,
@@ -320,7 +334,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bank-sentral-eropa-mulai-lirik-rwa-aset-tokenisasi-jadi-target-baru",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T08:00:31"
@@ -340,18 +354,18 @@
    "published_at": "2026-09-21T12:44:33"
   },
   {
-   "id": 4184,
+   "id": 4277,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Proyeksi ekonomi Australia 40 tahun akui 'revolusi AI', abaikan kripto",
-   "x": "Laporan ekonomi Australia menyoroti revolusi kecerdasan buatan (AI) sebagai pendorong utama perubahan, namun mengabaikan peran aset kripto. Coinbase berpendapat bahwa laporan tersebut melewatkan potensi infrastruktur keuangan digital yang mungkin dibutuhkan agen AI di masa depan.",
+   "t": "Arch Lending incar saham tokenisasi sebagai pasar agunan baru",
+   "x": "Lender aset digital berencana menggunakan saham yang ditokenisasi sebagai agunan. Langkah ini sejalan dengan tren tokenisasi aset dunia nyata yang semakin berkembang di pasar keuangan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
-   "a": "15 jam lalu",
+   "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35CMATBHXN9K9THK2DTNQBJ/hi-euro-pegged-stablecoin-the-ultimate-growth-driver-for-crypto-lending-1.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T05:29:31"
+   "published_at": "2026-09-22T21:06:52"
   },
   {
    "id": 4117,
@@ -368,18 +382,18 @@
    "published_at": "2026-09-21T12:17:48"
   },
   {
-   "id": 4216,
+   "id": 4184,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "ECB akan gunakan dana sendiri untuk sekuritas tokenisasi",
-   "x": "Bank Sentral Eropa (ECB) akan membeli sekuritas sektor publik yang ditokenisasi dan menyelesaikannya melalui sistem Pontes. Langkah ini bertujuan untuk mendapatkan pengalaman langsung dalam pasar DLT.",
+   "t": "Proyeksi ekonomi Australia 40 tahun akui 'revolusi AI', abaikan kripto",
+   "x": "Laporan ekonomi Australia menyoroti revolusi kecerdasan buatan (AI) sebagai pendorong utama perubahan, namun mengabaikan peran aset kripto. Coinbase berpendapat bahwa laporan tersebut melewatkan potensi infrastruktur keuangan digital yang mungkin dibutuhkan agen AI di masa depan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34CG9DD6TZFV9RKTHF4AV1Q/hi-eu-coin.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T11:29:35"
+   "published_at": "2026-09-22T05:29:31"
   },
   {
    "id": 4121,
@@ -396,6 +410,20 @@
    "published_at": "2026-09-21T11:18:55"
   },
   {
+   "id": 4216,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "ECB akan gunakan dana sendiri untuk sekuritas tokenisasi",
+   "x": "Bank Sentral Eropa (ECB) akan membeli sekuritas sektor publik yang ditokenisasi dan menyelesaikannya melalui sistem Pontes. Langkah ini bertujuan untuk mendapatkan pengalaman langsung dalam pasar DLT.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34CG9DD6TZFV9RKTHF4AV1Q/hi-eu-coin.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T11:29:35"
+  },
+  {
    "id": 4186,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -404,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33H6YCTPMYT71NXRZW9M9KM/sk-mou.png",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T03:13:22"
