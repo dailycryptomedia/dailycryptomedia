@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-09-20T12:57:33"
   },
   {
-   "id": 4107,
+   "id": 4176,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bisnis Kripto: Kegagalan CLARITY Act sorot Coinbase",
-   "x": "Coinbase mendapat sorotan setelah RUU CLARITY gagal disahkan, sementara SEC bergerak maju dengan tokenisasi saham dan perusahaan kripto merambah ke layanan pembayaran.",
+   "t": "Jaksa Manhattan selidiki kepatuhan Binance terhadap sanksi Iran",
+   "x": "Pihak berwenang AS menyelidiki apakah Binance melanggar sanksi terhadap Iran melalui aktivitas perdagangan. Hal ini dapat berdampak pada operasional bursa kripto global dan kepatuhan terhadap regulasi internasional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3282B8W2GAZW0BEZSGKGXWV/hi-where-are-the-bitcoin-traders-going-now-after-clarity-act-2.jpg",
-   "a": "8 jam lalu",
+   "url": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg",
+   "a": "28 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T15:08:17"
+   "published_at": "2026-09-22T02:22:59"
   },
   {
    "id": 4145,
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-truly-decentralized-defi-needs-no-legal-exemption-according-to-sec-commissioner-hester-peirce",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/peirce-defi-divide.webp",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T14:35:31"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ae66c07fe3a2ee0c2b80924fc58d5fde4340dc5-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T19:08:40"
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-19T13:08:52"
+  },
+  {
+   "id": 4107,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bisnis Kripto: Kegagalan CLARITY Act sorot Coinbase",
+   "x": "Coinbase mendapat sorotan setelah RUU CLARITY gagal disahkan, sementara SEC bergerak maju dengan tokenisasi saham dan perusahaan kripto merambah ke layanan pembayaran.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3282B8W2GAZW0BEZSGKGXWV/hi-where-are-the-bitcoin-traders-going-now-after-clarity-act-2.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T15:08:17"
   },
   {
    "id": 4005,
@@ -124,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/prediksi-usd-jpy-penguatan-yen-fokus-pada-support-152-seiring-pengetatan-boj-mendekat",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-21T16:59:53"

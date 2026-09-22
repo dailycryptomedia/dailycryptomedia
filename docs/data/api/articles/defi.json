@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-demand-divide.webp",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T22:40:20"
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/staking-avax-makin-fleksibel-avalanche-rombak-ekonomi-token-lewat-helicon",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T02:30:16"
@@ -40,10 +40,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-balancers-1-4m-hack-recovery-wont-pay-lps-anytime-soon",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-recovery-waterways.webp",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T15:35:58"
+  },
+  {
+   "id": 4179,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pragma tandai 6 feed harga sebagai risiko kritis pasca-eksploit Starknet",
+   "x": "Pragma mengidentifikasi enam feed harga sebagai risiko tinggi setelah eksploitasi pinjaman Starknet senilai US$3,5 juta. Hal ini menunjukkan kerentanan dalam penilaian aset digital yang digunakan dalam protokol DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/oracle-price-exit-liquidity-standard-image.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T01:10:56"
   },
   {
    "id": 4020,

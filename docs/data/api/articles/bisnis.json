@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-09-19T18:05:02"
   },
   {
+   "id": 4177,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Animoca Brands tunda merger yang akan membawanya melantai di bursa",
+   "x": "Animoca Brands menunda kesepakatan merger yang rencananya akan membuat perusahaan melantai di bursa. Keputusan ini mengutamakan kelincahan perusahaan dalam menghadapi dinamika pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/06/22020616_Animoca_Brands1.jpg",
+   "a": "5 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T02:46:02"
+  },
+  {
    "id": 4084,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -26,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/merger-tesla-spacex-dan-ives-odds",
    "img": "https://assets.beincrypto.com/img/7TK9YCx6XCz6VzwrIea2R3WFWw8=/smart/93155c04be914629a2448a7285bd7150",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-21T06:27:52"
@@ -40,24 +54,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T19:26:49"
-  },
-  {
-   "id": 4097,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "X tuntut dua warga Inggris atas dugaan penipuan pembayaran akun kripto $277.000",
-   "x": "Platform X menuduh dua pengguna di Inggris memanipulasi akun kripto untuk mendapatkan dana. Kasus ini menyoroti potensi penipuan dalam program bagi hasil kreator.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/20220414_Elon.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-21T09:24:27"
   },
   {
    "id": 4026,
@@ -88,6 +88,20 @@
    "published_at": "2026-09-20T14:54:48"
   },
   {
+   "id": 4097,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "X tuntut dua warga Inggris atas dugaan penipuan pembayaran akun kripto $277.000",
+   "x": "Platform X menuduh dua pengguna di Inggris memanipulasi akun kripto untuk mendapatkan dana. Kasus ini menyoroti potensi penipuan dalam program bagi hasil kreator.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/20220414_Elon.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T09:24:27"
+  },
+  {
    "id": 4128,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -96,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rekor-megadeals-ma-global-2026",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-21T12:12:27"
@@ -110,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/Coinbase_Still_19_1-scaled.jpg",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T14:47:12"
