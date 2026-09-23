@@ -1,5 +1,5 @@
 {
- "total": 32,
+ "total": 38,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cregis-lembaga-onchain-finance-summit-singapura",
    "img": "https://assets.beincrypto.com/img/CFsbW9vG6myEgcq5Vz6u_dbcLPw=/smart/e770da503b094d3e9e10e0fd79daa4a7",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T10:52:05"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T20:01:03"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/493408ee8595fd953e1510f008aeba370f107166-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T17:34:03"
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/mastercard-card-2.jpg",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:00:00"
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M310AVAYEMVP188717499P0H/sk-hana.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T04:27:32"
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M357GAH1CKA4TWB0W8FEC9YF/hi-how-central-banks-are-testing-blockchain-based-monetary-policy-bank-of-america.png",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T19:56:48"
@@ -264,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/sp-global-akuisisi-openzeppelin-sinyal-serius-garap-tokenisasi",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T07:00:39"
@@ -284,18 +284,46 @@
    "published_at": "2026-09-21T08:49:59"
   },
   {
-   "id": 4282,
+   "id": 4311,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Ketua CFTC: pasar harus siap hadapi 'tokenisasi massal'",
-   "x": "Ketua CFTC menyatakan pasar keuangan AS perlu bersiap menghadapi gelombang tokenisasi aset dunia nyata. Perubahan ini diprediksi akan mengubah lanskap keuangan tradisional secara signifikan.",
+   "t": "Bank besar Kanada jajaki sistem deposit ter-tokenisasi",
+   "x": "Enam bank besar di Kanada sedang menjajaki sistem deposit ter-tokenisasi untuk memodernisasi sistem pembayaran. Fase awal proyek ini berfokus pada efisiensi transfer deposit ter-tokenisasi antar lembaga keuangan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+   "url": "https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/canada-1.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T04:57:07"
+  },
+  {
+   "id": 4307,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Para Legislator Bergegas Gantikan Clarity Act: Apa yang Akan Mereka Korbankan untuk Meloloskannya?",
+   "x": "Menghidupkan kembali Clarity Act berarti Partai Republik di Senat harus mengalah terkait aturan etika, keterkaitan kripto presiden, dan imbal hasil stablecoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/clarity-act-etika-konsesi-senat",
+   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-23T02:25:00"
+  },
+  {
+   "id": 4314,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Circle bayar jutaan dolar untuk distribusi Binance seiring margin anjlok",
+   "x": "Circle perpanjang kerja sama lima tahun dengan Binance, yang mencakup investasi ekuitas $100 juta. Perjanjian ini memperkuat hubungan kedua perusahaan setelah saldo pelanggan stablecoin USDC di bursa tersebut meningkat pesat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/circle-pays-millions-for-binance-distribution-while-its-margins-collapse",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/circle-binance-margin-machine.webp",
    "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T21:08:20"
+   "published_at": "2026-09-23T02:10:37"
   },
   {
    "id": 4164,
@@ -312,18 +340,18 @@
    "published_at": "2026-09-21T19:00:04"
   },
   {
-   "id": 4150,
+   "id": 4297,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Ondo izinkan institusi konversi saham jadi token",
-   "x": "Sistem konversi baru dari Ondo memungkinkan institusi terverifikasi untuk mencetak dan menebus saham serta ETF yang ditokenisasi menggunakan sekuritas yang mendasarinya, bukan hanya kas. Inovasi ini memfasilitasi tokenisasi aset dunia nyata.",
+   "t": "Menkeu AS jadi kandidat utama penasihat AI Trump",
+   "x": "Menteri Keuangan AS dilaporkan menjadi kandidat utama untuk posisi penasihat kecerdasan buatan (AI) di bawah pemerintahan Trump. Posisi ini sebelumnya diisi oleh David Sacks yang telah mengundurkan diri.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36AE384GN77A4QEPA6NWS0X/bessent.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T18:35:43"
+   "published_at": "2026-09-23T05:34:49"
   },
   {
    "id": 4241,
@@ -334,7 +362,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bank-sentral-eropa-mulai-lirik-rwa-aset-tokenisasi-jadi-target-baru",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T08:00:31"
@@ -354,18 +382,46 @@
    "published_at": "2026-09-21T12:44:33"
   },
   {
-   "id": 4277,
+   "id": 4282,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Arch Lending incar saham tokenisasi sebagai pasar agunan baru",
-   "x": "Lender aset digital berencana menggunakan saham yang ditokenisasi sebagai agunan. Langkah ini sejalan dengan tren tokenisasi aset dunia nyata yang semakin berkembang di pasar keuangan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35CMATBHXN9K9THK2DTNQBJ/hi-euro-pegged-stablecoin-the-ultimate-growth-driver-for-crypto-lending-1.png",
-   "a": "4 jam lalu",
+   "t": "Ketua CFTC: pasar harus siap hadapi 'tokenisasi massal'",
+   "x": "Ketua CFTC menyatakan pasar keuangan AS perlu bersiap menghadapi gelombang tokenisasi aset dunia nyata. Perubahan ini diprediksi akan mengubah lanskap keuangan tradisional secara signifikan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T21:06:52"
+   "published_at": "2026-09-22T21:08:20"
+  },
+  {
+   "id": 4308,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bessent Bisa Tambah Gelar AI Czar untuk Treasury Chief: Konflik di Depan?",
+   "x": "Bessent bisa menambah tugas sebagai AI czar ke perannya di Departemen Keuangan saat Trump mempertimbangkan pengawasan baru untuk AI di tengah naiknya imbal hasil obligasi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bessent-ai-czar-kepala-treasury",
+   "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-23T01:52:45"
+  },
+  {
+   "id": 4150,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Ondo izinkan institusi konversi saham jadi token",
+   "x": "Sistem konversi baru dari Ondo memungkinkan institusi terverifikasi untuk mencetak dan menebus saham serta ETF yang ditokenisasi menggunakan sekuritas yang mendasarinya, bukan hanya kas. Inovasi ini memfasilitasi tokenisasi aset dunia nyata.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T18:35:43"
   },
   {
    "id": 4117,
@@ -382,18 +438,18 @@
    "published_at": "2026-09-21T12:17:48"
   },
   {
-   "id": 4184,
+   "id": 4277,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Proyeksi ekonomi Australia 40 tahun akui 'revolusi AI', abaikan kripto",
-   "x": "Laporan ekonomi Australia menyoroti revolusi kecerdasan buatan (AI) sebagai pendorong utama perubahan, namun mengabaikan peran aset kripto. Coinbase berpendapat bahwa laporan tersebut melewatkan potensi infrastruktur keuangan digital yang mungkin dibutuhkan agen AI di masa depan.",
+   "t": "Arch Lending incar saham tokenisasi sebagai pasar agunan baru",
+   "x": "Lender aset digital berencana menggunakan saham yang ditokenisasi sebagai agunan. Langkah ini sejalan dengan tren tokenisasi aset dunia nyata yang semakin berkembang di pasar keuangan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
-   "a": "20 jam lalu",
+   "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35CMATBHXN9K9THK2DTNQBJ/hi-euro-pegged-stablecoin-the-ultimate-growth-driver-for-crypto-lending-1.png",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T05:29:31"
+   "published_at": "2026-09-22T21:06:52"
   },
   {
    "id": 4121,
@@ -410,6 +466,34 @@
    "published_at": "2026-09-21T11:18:55"
   },
   {
+   "id": 4299,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Potensi AI dorong permintaan kripto 'terabaikan': BlackRock",
+   "x": "BlackRock menilai potensi kecerdasan buatan (AI) dalam mendorong permintaan aset digital, khususnya stablecoin, masih terabaikan. Agen AI dapat menciptakan peluang baru bagi aset digital melalui tokenisasi kapasitas komputasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M368H3Z8D0XWGWSGQZKMAXQJ/ai-crypto.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T04:33:18"
+  },
+  {
+   "id": 4184,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Proyeksi ekonomi Australia 40 tahun akui 'revolusi AI', abaikan kripto",
+   "x": "Laporan ekonomi Australia menyoroti revolusi kecerdasan buatan (AI) sebagai pendorong utama perubahan, namun mengabaikan peran aset kripto. Coinbase berpendapat bahwa laporan tersebut melewatkan potensi infrastruktur keuangan digital yang mungkin dibutuhkan agen AI di masa depan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33SCZ0RYEJVNQ2M2GV8FFPH/crypto-ignore.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T05:29:31"
+  },
+  {
    "id": 4216,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -418,7 +502,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34CG9DD6TZFV9RKTHF4AV1Q/hi-eu-coin.jpg",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T11:29:35"
@@ -432,7 +516,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33H6YCTPMYT71NXRZW9M9KM/sk-mou.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T03:13:22"

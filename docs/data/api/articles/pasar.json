@@ -1,5 +1,5 @@
 {
- "total": 116,
+ "total": 123,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-09-20T21:31:46"
   },
   {
+   "id": 4316,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Indodax sebut sentimen pasar kripto kian optimistis",
+   "x": "Harga Bitcoin sempat menembus US$87.200, menunjukkan optimisme pasar kripto yang terus meningkat. Kenaikan ini terjadi di tengah sentimen pasar yang positif, mendorong aset digital ini mendekati rekor tertinggi.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/indodax-sebut-sentimen-pasar-kripto-kian-optimistis",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T05:56:45"
+  },
+  {
    "id": 4260,
    "k": "pasar",
    "cat": "Pasar",
@@ -26,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T17:49:07"
@@ -46,20 +60,6 @@
    "published_at": "2026-09-21T16:40:40"
   },
   {
-   "id": 4180,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Polymarket alami upaya penipuan senilai US$10 juta",
-   "x": "Upaya penipuan senilai US$10 juta terhadap Polymarket menimbulkan pertanyaan mengenai keamanan platform dan kontrol risiko. Insiden ini menyoroti pentingnya pengamanan aset digital bagi pengguna.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/polymarket-diterpa-upaya-fraud-us10-juta-sistem-keamanan-jadi-sorotan",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T02:30:38"
-  },
-  {
    "id": 4290,
    "k": "pasar",
    "cat": "Pasar",
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35T0VHY6MY04AR4RVTTKJ71/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto.jpg",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T00:18:44"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/426b894a17f81899340d08d82116a4746ad1ce0f-4920x2768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T20:31:02"
@@ -110,10 +110,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cme-group-memilih-uni-bch-futures",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T12:49:59"
+  },
+  {
+   "id": 4180,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Polymarket alami upaya penipuan senilai US$10 juta",
+   "x": "Upaya penipuan senilai US$10 juta terhadap Polymarket menimbulkan pertanyaan mengenai keamanan platform dan kontrol risiko. Insiden ini menyoroti pentingnya pengamanan aset digital bagi pengguna.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/polymarket-diterpa-upaya-fraud-us10-juta-sistem-keamanan-jadi-sorotan",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T02:30:38"
   },
   {
    "id": 4171,
@@ -144,20 +158,6 @@
    "published_at": "2026-09-20T13:35:19"
   },
   {
-   "id": 4296,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga XRP terkunci 7 bulan, kini sinyal ledakan besar mulai terlihat",
-   "x": "Harga XRP yang stagnan selama tujuh bulan kini menunjukkan potensi pergerakan besar seiring lonjakan volume perdagangan. Investor perlu memantau perkembangan ini sebagai indikator potensi volatilitas di masa depan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-xrp-terkunci-7-bulan-kini-sinyal-ledakan-besar-mulai-terlihat",
-   "img": null,
-   "a": "37 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T01:00:03"
-  },
-  {
    "id": 4242,
    "k": "pasar",
    "cat": "Pasar",
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T16:21:44"
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211207_Hashed.jpg",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T22:30:00"
@@ -208,10 +208,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perlambatan-ai-openai-anthropic-model-baru",
    "img": "https://assets.beincrypto.com/img/rl_Y7UpoqHGlg0zsguNZUkJXaZ4=/smart/808ab1026c7d4ca9b0f3947072f4e5dc",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T19:54:59"
+  },
+  {
+   "id": 4296,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Harga XRP terkunci 7 bulan, kini sinyal ledakan besar mulai terlihat",
+   "x": "Harga XRP yang stagnan selama tujuh bulan kini menunjukkan potensi pergerakan besar seiring lonjakan volume perdagangan. Investor perlu memantau perkembangan ini sebagai indikator potensi volatilitas di masa depan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-xrp-terkunci-7-bulan-kini-sinyal-ledakan-besar-mulai-terlihat",
+   "img": null,
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T01:00:03"
   },
   {
    "id": 4285,
@@ -222,7 +236,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2020/09/Webp.net-resizeimage-60-gID_4.jpg",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T22:16:03"
@@ -236,38 +250,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/keychain-shredder-theft.webp",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T22:50:41"
   },
   {
-   "id": 4181,
+   "id": 4298,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "TAO, SUI, SEI, RENDER, RUNE tembus tren turun, potensi bullish",
-   "x": "Sejumlah aset kripto seperti TAO, SUI, SEI, RENDER, dan RUNE menunjukkan pergerakan positif dengan menembus tren turun. Investor perlu mencermati potensi perubahan sentimen pasar aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-hari-ini-22-september-2026-tao-sui-sei-render-rune-kompak-dobrak-tren-turun-pesta-bullish-dimulai",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T02:00:12"
-  },
-  {
-   "id": 4036,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trump janji bentuk 'AI Force' AS dan tunjuk czar AI",
-   "x": "Mantan Presiden AS Donald Trump mengumumkan rencana pembentukan 'AI Force' untuk mengelola sektor kecerdasan buatan. Ia berjanji tidak akan menerapkan regulasi yang menghambat inovasi.",
+   "t": "Aplikasi iOS jahat FomoPeek terkait pencurian kripto US$580 ribu",
+   "x": "Aplikasi FomoPeek yang didistribusikan melalui App Store terdeteksi mencuri aset kripto senilai US$580 ribu. Perangkat lunak berbahaya ini memanfaatkan celah keamanan iOS untuk mengakses data sensitif pengguna.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2ZAWJ1EP2F4S5Q51BS1BF79/make-ai-great1.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M369MS3S9YPWJYY37QN69SJ6/apple-ios-hacker.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T12:00:52"
+   "published_at": "2026-09-23T05:22:21"
   },
   {
    "id": 4252,
@@ -278,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T16:15:02"
@@ -292,7 +292,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7c7479f93348940c1e771095a453239b6b0e99ae-4898x3265.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:05:55"
@@ -306,10 +306,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitwise-near-etp-100-juta-rally",
    "img": "https://assets.beincrypto.com/img/obQMXKpmO-KXbGnhHhVb9TWRuK8=/smart/7b3d6d36cda5466ba111b1bd10808b01",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T17:00:00"
+  },
+  {
+   "id": 4181,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "TAO, SUI, SEI, RENDER, RUNE tembus tren turun, potensi bullish",
+   "x": "Sejumlah aset kripto seperti TAO, SUI, SEI, RENDER, dan RUNE menunjukkan pergerakan positif dengan menembus tren turun. Investor perlu mencermati potensi perubahan sentimen pasar aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kripto-hari-ini-22-september-2026-tao-sui-sei-render-rune-kompak-dobrak-tren-turun-pesta-bullish-dimulai",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T02:00:12"
   },
   {
    "id": 4138,
@@ -334,38 +348,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-volume-explodes-to-7-4b-and-a-massive-cme-short-squeeze-is-blamed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-futures-venue-split-standard-image.jpg",
-   "a": "56 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T00:40:58"
   },
   {
-   "id": 4032,
+   "id": 4036,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Waspada tutorial bot trading AI palsu, 274 ETH raib",
-   "x": "Penipuan baru memanfaatkan tutorial bot trading AI palsu untuk menguras aset kripto. Sebanyak 224 dompet digital berhasil dibobol melalui smart contract berbahaya, merugikan korban ratusan ETH.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/waspada-tutorial-bot-trading-ai-salah-langkah-bisa-bikin-kripto-raib",
-   "img": null,
+   "t": "Trump janji bentuk 'AI Force' AS dan tunjuk czar AI",
+   "x": "Mantan Presiden AS Donald Trump mengumumkan rencana pembentukan 'AI Force' untuk mengelola sektor kecerdasan buatan. Ia berjanji tidak akan menerapkan regulasi yang menghambat inovasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2ZAWJ1EP2F4S5Q51BS1BF79/make-ai-great1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T09:00:37"
-  },
-  {
-   "id": 4244,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kegagalan Voting CLARITY Bisa Picu Pengeluaran PAC Kripto Lebih Besar",
-   "x": "Hasil pemungutan suara terkait regulasi kripto di AS dapat memicu peningkatan dana kampanye dari industri kripto. Hal ini menggarisbawahi pentingnya lobi dan pengaruh politik bagi masa depan regulasi aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32AXNQNHRMA169K2RJHWFNB/hi-crumpling-report-clarity-act.png",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T15:55:37"
+   "published_at": "2026-09-20T12:00:52"
   },
   {
    "id": 4281,
@@ -376,7 +376,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260120_Prediction-Markets_News_2.jpg",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T21:42:19"
@@ -410,6 +410,20 @@
    "published_at": "2026-09-20T08:59:31"
   },
   {
+   "id": 4032,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Waspada tutorial bot trading AI palsu, 274 ETH raib",
+   "x": "Penipuan baru memanfaatkan tutorial bot trading AI palsu untuk menguras aset kripto. Sebanyak 224 dompet digital berhasil dibobol melalui smart contract berbahaya, merugikan korban ratusan ETH.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/waspada-tutorial-bot-trading-ai-salah-langkah-bisa-bikin-kripto-raib",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-20T09:00:37"
+  },
+  {
    "id": 4266,
    "k": "pasar",
    "cat": "Pasar",
@@ -418,7 +432,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T19:00:38"
@@ -432,38 +446,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/moscow-exchange-launches-5-crypto-perpetual-futures-as-demand-tops-600-billion-rubles",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/moscow-exchange-1.png",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:30:07"
   },
   {
-   "id": 4203,
+   "id": 4244,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto MBG di Robinhood Chain melonjak 66.841% dalam sehari",
-   "x": "Sebuah aset kripto bernama MBG di jaringan Robinhood Chain dilaporkan mengalami lonjakan harga fantastis hingga 66.841%. Fenomena ini menarik perhatian karena terjadi di luar program pemerintah atau inisiatif resmi lainnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/unik-ada-kripto-mbg-harganya-sempat-terbang-60-000-persen",
-   "img": null,
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T07:00:38"
-  },
-  {
-   "id": 4106,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga Bitcoin capai $86 ribu seiring analisis lihat kripto di 'pasar bullish baru'",
-   "x": "Bitcoin menembus $86.000 untuk pertama kalinya sejak akhir Januari. Penurunan harga minyak dan kekhawatiran pasokan turut mendorong saham AS naik.",
+   "t": "Kegagalan Voting CLARITY Bisa Picu Pengeluaran PAC Kripto Lebih Besar",
+   "x": "Hasil pemungutan suara terkait regulasi kripto di AS dapat memicu peningkatan dana kampanye dari industri kripto. Hal ini menggarisbawahi pentingnya lobi dan pengaruh politik bagi masa depan regulasi aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32CF788SWBBCQ9G0KVD8FQK/article-covers-253627-bitcoin-bull-trap-bear-market-phase-middle-willy-woo-analyst-960x640.webp",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32AXNQNHRMA169K2RJHWFNB/hi-crumpling-report-clarity-act.png",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T16:39:40"
+   "published_at": "2026-09-22T15:55:37"
   },
   {
    "id": 4059,
@@ -508,6 +508,20 @@
    "published_at": "2026-09-21T22:36:09"
   },
   {
+   "id": 4203,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kripto MBG di Robinhood Chain melonjak 66.841% dalam sehari",
+   "x": "Sebuah aset kripto bernama MBG di jaringan Robinhood Chain dilaporkan mengalami lonjakan harga fantastis hingga 66.841%. Fenomena ini menarik perhatian karena terjadi di luar program pemerintah atau inisiatif resmi lainnya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/unik-ada-kripto-mbg-harganya-sempat-terbang-60-000-persen",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T07:00:38"
+  },
+  {
    "id": 4165,
    "k": "pasar",
    "cat": "Pasar",
@@ -530,38 +544,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/animoca-currenc-merger-chess.webp",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T19:20:31"
   },
   {
-   "id": 4022,
+   "id": 4106,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Token PEPE kembali ramai, 48 ribu transaksi sepekan",
-   "x": "Token PEPE mencatat lonjakan aktivitas dengan 48 ribu transaksi dalam sepekan terakhir. Peningkatan ini juga diikuti oleh volume perdagangan yang signifikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/token-pepe-kembali-panas-48-ribu-transaksi-tercatat-dalam-sepekan",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-20T03:00:58"
-  },
-  {
-   "id": 4149,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Arab Saudi keluar dari proyek mBridge CBDC yang didukung China",
-   "x": "Arab Saudi dilaporkan meninggalkan mBridge, sebuah platform mata uang digital bank sentral (CBDC) lintas batas yang mendapat perhatian dari para pembuat kebijakan AS. Keputusan ini dapat memengaruhi arah pengembangan dan adopsi CBDC global.",
+   "t": "Harga Bitcoin capai $86 ribu seiring analisis lihat kripto di 'pasar bullish baru'",
+   "x": "Bitcoin menembus $86.000 untuk pertama kalinya sejak akhir Januari. Penurunan harga minyak dan kekhawatiran pasokan turut mendorong saham AS naik.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32QR8FM0NWT9YWDG9WEJZ7M/bank-building-hall-entrance-revolving-doorsthreetether-2.png",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32CF788SWBBCQ9G0KVD8FQK/article-covers-253627-bitcoin-bull-trap-bear-market-phase-middle-willy-woo-analyst-960x640.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T20:37:15"
+   "published_at": "2026-09-21T16:39:40"
   },
   {
    "id": 4269,
@@ -572,24 +572,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T18:44:53"
   },
   {
-   "id": 4279,
+   "id": 4301,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Lummis: Demokrat pilih kebencian visceral terhadap Trump ketimbang UU Kripto",
+   "t": "Solana uji peningkatan yang bisa kurangi finalitas dari 12,8 detik ke 150 milidetik",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a5ed32d56b355b8865fcec3c95e02b137bfb35c2-4000x1868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ebb5a0f62882b8a5af36fcacd210933b3a4950a7-3770x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T21:29:05"
+   "published_at": "2026-09-23T05:16:22"
   },
   {
    "id": 4187,
@@ -600,10 +600,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/fairshake-brown-ohio-pengeluaran-polymarket-odds",
    "img": "https://assets.beincrypto.com/img/XxRg37aFOItX6k8BJdZlNAy9M-c=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T06:46:37"
+  },
+  {
+   "id": 4099,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kalimasada Sebut TAO Bisa Jadi “The Next Zcash”, Apa Alasannya?",
+   "x": "Analis aset digital Kalimasada memprediksi token TAO berpotensi mengikuti jejak Zcash. Narasi seputar kecerdasan buatan, privasi, dan tren penguatan pasar menjadi faktor utama prediksi tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kalimasada-sebut-tao-bisa-jadi-the-next-zcash-apa-alasannya",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T08:00:19"
   },
   {
    "id": 4268,
@@ -614,7 +628,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T18:16:03"
@@ -634,32 +648,18 @@
    "published_at": "2026-09-20T08:00:39"
   },
   {
-   "id": 4099,
+   "id": 4149,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kalimasada Sebut TAO Bisa Jadi “The Next Zcash”, Apa Alasannya?",
-   "x": "Analis aset digital Kalimasada memprediksi token TAO berpotensi mengikuti jejak Zcash. Narasi seputar kecerdasan buatan, privasi, dan tren penguatan pasar menjadi faktor utama prediksi tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kalimasada-sebut-tao-bisa-jadi-the-next-zcash-apa-alasannya",
-   "img": null,
+   "t": "Arab Saudi keluar dari proyek mBridge CBDC yang didukung China",
+   "x": "Arab Saudi dilaporkan meninggalkan mBridge, sebuah platform mata uang digital bank sentral (CBDC) lintas batas yang mendapat perhatian dari para pembuat kebijakan AS. Keputusan ini dapat memengaruhi arah pengembangan dan adopsi CBDC global.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32QR8FM0NWT9YWDG9WEJZ7M/bank-building-hall-entrance-revolving-doorsthreetether-2.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T08:00:19"
-  },
-  {
-   "id": 4278,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Senator AS minta penyelidikan anak presiden terkait usaha kripto",
-   "x": "Seorang senator dari Partai Republik meminta penyelidikan terhadap anak-anak presiden AS terkait dugaan keterlibatan dalam usaha aset kripto. Isu ini menambah kompleksitas politik seputar regulasi industri kripto di Amerika Serikat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35B0SEAKX3T0HQA25KHP9DJ/interrogation-lamp.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T20:57:51"
+   "published_at": "2026-09-21T20:37:15"
   },
   {
    "id": 4200,
@@ -670,24 +670,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/Prediction-Image.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T06:01:24"
   },
   {
-   "id": 4224,
+   "id": 4279,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Binance beli 100 juta dolar saham Circle dalam promosi USDC lima tahun",
+   "t": "Lummis: Demokrat pilih kebencian visceral terhadap Trump ketimbang UU Kripto",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a5ed32d56b355b8865fcec3c95e02b137bfb35c2-4000x1868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T11:07:23"
+   "published_at": "2026-09-22T21:29:05"
   },
   {
    "id": 4283,
@@ -698,10 +698,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-goldman-sachs-bubble-sp500-deutsche-bank",
    "img": "https://assets.beincrypto.com/img/nDHdVqJtiOTkU3l_tikwhKdC3SY=/smart/68ca7b6782944dc2b3bf3c4d2ff4423b",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T22:00:00"
+  },
+  {
+   "id": 4071,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kripto Hari Ini 21 September 2026: HBAR dan ZKP incar ledakan besar, ENA, JTO, ALGO ikut panas",
+   "x": "Analisis pergerakan aset kripto hari ini menyoroti potensi reli besar pada HBAR dan ZKP. Sementara itu, ENA, JTO, dan ALGO juga menunjukkan tren positif yang menarik perhatian.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kripto-hari-ini-21-september-2026-hbar-dan-zkp-incar-ledakan-besar-ena-jto-algo-ikut-panas",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T02:00:33"
   },
   {
    "id": 4287,
@@ -712,7 +726,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-cme-group-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T20:46:03"
@@ -726,38 +740,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stand-with-cryptos-4-million-registered-advocates-couldnt-get-the-clarity-act-through-the-senate",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stand-with-crypto-conversion-gap-standard-image.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T06:10:02"
   },
   {
-   "id": 4024,
+   "id": 4278,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto hari ini: MORPHO, MANTRA, STRK, INJ, SKY uji level kunci",
-   "x": "Analisis pergerakan aset digital hari ini menyoroti kenaikan signifikan pada MORPHO, MANTRA, STRK, INJ, dan SKY. Aset-aset ini kini sedang menguji level harga penting yang dapat menentukan tren selanjutnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-hari-ini-20-september-2026-morpho-mantra-strk-inj-sky-tancap-gas-level-kunci-mulai-diuji",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-20T02:00:16"
-  },
-  {
-   "id": 4151,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "PAC Kripto akan habiskan $30 juta lawan Sherrod Brown di Ohio",
-   "x": "Sebuah Political Action Committee (PAC) yang berpihak pada aset digital akan menggelontorkan $30 juta untuk menentang Senator Sherrod Brown dalam pemilihan di Ohio. Upaya ini merupakan bagian dari pengeluaran besar untuk memengaruhi hasil pemilu AS.",
+   "t": "Senator AS minta penyelidikan anak presiden terkait usaha kripto",
+   "x": "Seorang senator dari Partai Republik meminta penyelidikan terhadap anak-anak presiden AS terkait dugaan keterlibatan dalam usaha aset kripto. Isu ini menambah kompleksitas politik seputar regulasi industri kripto di Amerika Serikat.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32DNKD3CR6WM1GWCHG5FQE8/hi-can-somebody-predict-the-next-us-elections-crypto-3.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35B0SEAKX3T0HQA25KHP9DJ/interrogation-lamp.jpg",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T18:15:22"
+   "published_at": "2026-09-22T20:57:51"
   },
   {
    "id": 4133,
@@ -774,32 +774,46 @@
    "published_at": "2026-09-21T13:14:39"
   },
   {
-   "id": 4227,
+   "id": 4224,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Binance diselidiki jaksa federal AS atas pelanggaran sanksi",
+   "t": "Binance beli 100 juta dolar saham Circle dalam promosi USDC lima tahun",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/8524e860085e53902a998b3545d3aa7e9f9192c9-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T10:07:52"
+   "published_at": "2026-09-22T11:07:23"
   },
   {
-   "id": 4122,
+   "id": 4304,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Holder XRP Ramai-ramai Transfer Token ke Binance Naik 663%, Hampir Tidak Ada yang Terjual",
-   "x": "XRP naik mendekati US$1,50 pada 21 September, pulih tajam dari level terendah di dekat US$1,27 di awal bulan ini. Kenaikan harga ini terjadi bersamaan dengan lonjakan aktivitas di exchange yang sangat mencolok…",
+   "t": "Mengapa NVIDIA Semakin Murah Sementara Apple Raih All-Time High Terbaru",
+   "x": "Saham Apple mencapai rekor tertinggi baru pada 21 September 2026. Harga saham sempat menyentuh hampir US$345 dalam perdagangan intraday sebelum ditutup di sekitar US$339. NVIDIA, di sisi lain, diperdagangkan mendekati…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/inflow-xrp-binance-melesat-663-persen",
-   "img": "https://assets.beincrypto.com/img/zzwvqRilhcgMHK_tNd_5CcdPKHg=/smart/f46be42cfd6142849430edfc2a07241b",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/saham-apple-all-time-high-nilai-nvidia",
+   "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-21T14:50:02"
+   "published_at": "2026-09-23T05:35:24"
+  },
+  {
+   "id": 4100,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ENA Lagi Ngebut, Arthur Hayes Ramal Harganya Bisa Tembus US$0,5",
+   "x": "ENA menunjukkan kenaikan signifikan dengan prediksi harga mencapai US$0,5 dari Arthur Hayes. Faktor akumulasi dan pertumbuhan USDe mendukung narasi positif aset ini.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ena-lagi-ngebut-arthur-hayes-ramal-harganya-bisa-tembus-us05",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-21T07:00:35"
   },
   {
    "id": 4261,
@@ -810,7 +824,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/dogecoin-decrypt-style-04-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T17:09:30"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-20T17:15:37"
-  },
-  {
-   "id": 4071,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kripto Hari Ini 21 September 2026: HBAR dan ZKP incar ledakan besar, ENA, JTO, ALGO ikut panas",
-   "x": "Analisis pergerakan aset kripto hari ini menyoroti potensi reli besar pada HBAR dan ZKP. Sementara itu, ENA, JTO, dan ALGO juga menunjukkan tren positif yang menarik perhatian.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-hari-ini-21-september-2026-hbar-dan-zkp-incar-ledakan-besar-ena-jto-algo-ikut-panas",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-21T02:00:33"
   }
  ]
 }
