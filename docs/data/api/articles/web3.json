@@ -1,8 +1,22 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4417,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "US$20 Juta XRP Dicuri dari Ribuan Hardware Wallet",
+   "x": "Pelaku kejahatan menguras sekitar 11,7 juta XRP dari ribuan pengguna D’CENT App Wallet. Pencurian yang nilainya mendekati US$20 juta ini terjadi antara 15 hingga 20 September. XRPL.to merilis kronologi forensik on-chain…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/xrp-dcent-wallet-drain-20-juta",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "40 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-23T22:46:02"
+  },
   {
    "id": 4382,
    "k": "web3",
@@ -12,10 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coin-metrics-corrected-19-months-of-bitcoin-etf-wallet-data-without-saying-how-much-changed-publicly",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-data-uncertainty.webp",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T15:40:29"
+  },
+  {
+   "id": 4408,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hut 8 Akuisisi Pusat Data Poolin di Texas Senilai $140 Juta",
+   "x": "Hut 8 akan mengakuisisi dua pusat data milik Poolin di Texas, memperluas portofolio infrastruktur AI-nya. Akuisisi ini menunjukkan tren konsolidasi di sektor penambangan aset kripto dan infrastruktur terkait.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Hut8_News.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T18:01:58"
   },
   {
    "id": 4156,
@@ -32,20 +60,6 @@
    "published_at": "2026-09-21T14:45:04"
   },
   {
-   "id": 4408,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Hut 8 Akuisisi Pusat Data Poolin di Texas Senilai $140 Juta",
-   "x": "Hut 8 akan mengakuisisi dua pusat data milik Poolin di Texas, memperluas portofolio infrastruktur AI-nya. Akuisisi ini menunjukkan tren konsolidasi di sektor penambangan aset kripto dan infrastruktur terkait.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Hut8_News.jpg",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T18:01:58"
-  },
-  {
    "id": 4406,
    "k": "web3",
    "cat": "Web3",
@@ -54,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/nearly-20-million-in-xrp-drained-from-6678-wallets-across-six-attack-waves",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-wallet-hacker-drain.webp",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T18:50:05"

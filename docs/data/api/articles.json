@@ -1,21 +1,21 @@
 {
- "total": 350,
+ "total": 356,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 4072,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Apakah Bear Market Bitcoin Sudah Mencapai Titik Terendah? Sinyal yang Hilang Selama 45 Minggu Kembali",
-   "x": "Bitcoin (BTC) telah naik sekitar 30% sejak Agustus, dan meskipun September cukup fluktuatif, aset kripto terbesar ini tetap mencatatkan kenaikan 3,33% selama bulan tersebut. Selain kenaikan itu, Bitcoin juga…",
+   "id": 4414,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Lelang Treasury 5 Tahun Cetak Yield Tertinggi dalam 20 Tahun: Apa Artinya untuk Bitcoin",
+   "x": "Imbal hasil lelang obligasi 5 tahun Treasury mencapai level tertinggi dalam 20 tahun, dan kenaikan suku bunga di seluruh kurva dapat membebani bitcoin.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-bear-market-low-sinyal-50-minggu",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/imbal-hasil-treasury-5-tahun-dampak-bitcoin",
+   "img": "https://assets.beincrypto.com/img/aicnM8hpdpsZ6KbiFUWqy3uWXJE=/smart/82e7d10fb26245baa535915ff2980426",
+   "a": "11 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-21T04:41:36"
+   "published_at": "2026-09-23T23:15:00"
   },
   {
    "id": 4316,
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/indodax-sebut-sentimen-pasar-kripto-kian-optimistis",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T05:56:45"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221118_TimScott.jpg",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T17:36:11"
@@ -102,18 +102,18 @@
    "published_at": "2026-09-21T20:39:39"
   },
   {
-   "id": 4291,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Gelombang Tokenisasi SEC Punya Tanggal Kedaluwarsa yang Tidak Diperhitungkan Siapa Pun",
-   "x": "Boom tokenisasi SEC berjalan dengan pengecualian selama lima tahun, dan analis memperingatkan bahwa ketua di masa depan dapat membatalkannya dalam semalam.",
+   "id": 4415,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CEO Nvidia Jensen Huang Beri Ultimatum kepada OpenAI dan Anthropic",
+   "x": "CEO Nvidia Jensen Huang mengatakan lab AI yang tidak dapat mengendalikan eksperimen mereka harus ditutup, memberikan peringatan kepada OpenAI dan Anthropic.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ledakan-tokenisasi-sec-kedaluwarsa",
-   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "19 jam lalu",
+   "url": "https://id.beincrypto.com/nvidia-huang-openai-anthropic-tutup-labs",
+   "img": "https://assets.beincrypto.com/img/jyfsTZiJ62SztuscxjlrLGd9nNw=/smart/4a866ad6cd66463dbe81ef313df12b0c",
+   "a": "26 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-23T01:03:45"
+   "published_at": "2026-09-23T23:00:00"
   },
   {
    "id": 4180,
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
-   "a": "13 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T20:43:56"
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/arthur-hayes-decrypt-style-02-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T17:31:03"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/blackrock-sees-a-new-5-trillion-ai-trade-emerging-for-stablecoins",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/machine-wallet-compute.webp",
-   "a": "6 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T20:50:43"
@@ -200,18 +200,18 @@
    "published_at": "2026-09-22T20:31:02"
   },
   {
-   "id": 4056,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ketakutan Gelembung AI Meningkat, tapi CEO Nvidia Tetap Beri Argumen Baru bagi Bulls",
-   "x": "CEO Nvidia Jensen Huang mengatakan AI telah memasuki tahap produksi massal, memberikan argumen baru bagi pihak bull di tengah kekhawatiran akan gelembung yang semakin meningkat.",
+   "id": 4072,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Apakah Bear Market Bitcoin Sudah Mencapai Titik Terendah? Sinyal yang Hilang Selama 45 Minggu Kembali",
+   "x": "Bitcoin (BTC) telah naik sekitar 30% sejak Agustus, dan meskipun September cukup fluktuatif, aset kripto terbesar ini tetap mencatatkan kenaikan 3,33% selama bulan tersebut. Selain kenaikan itu, Bitcoin juga…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/nvidia-ceo-produksi-ai-meningkat",
-   "img": "https://assets.beincrypto.com/img/lfO07JqFhBZzXUI_IcXRlZj1Igc=/smart/8e6c0553f3684f669339d4221d0f52c1",
+   "url": "https://id.beincrypto.com/bitcoin-bear-market-low-sinyal-50-minggu",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-20T21:31:46"
+   "published_at": "2026-09-21T04:41:36"
   },
   {
    "id": 4296,
@@ -222,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-xrp-terkunci-7-bulan-kini-sinyal-ledakan-besar-mulai-terlihat",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T01:00:03"
@@ -250,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "13 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T20:44:20"
@@ -264,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sofis-mastercard-stablecoin-settlement-is-live-but-its-25-billion-figure-is-still-a-projection",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/sofi-settlement-projection-gap.webp",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T12:30:03"
@@ -298,18 +298,18 @@
    "published_at": "2026-09-22T17:34:03"
   },
   {
-   "id": 4292,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Di Swiss, Orang-orang Optimistis pada Franc, Emas, dan BTC karena Utang AS Sebesar US$40 Triliun",
-   "x": "Bucella dari Neoclassic Capital mengatakan Bitcoin, emas, dan franc menjadi lindung nilai bagi investor terhadap utang AS sebesar USD40 triliun.",
+   "id": 4291,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Gelombang Tokenisasi SEC Punya Tanggal Kedaluwarsa yang Tidak Diperhitungkan Siapa Pun",
+   "x": "Boom tokenisasi SEC berjalan dengan pengecualian selama lima tahun, dan analis memperingatkan bahwa ketua di masa depan dapat membatalkannya dalam semalam.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-gold-franc-debasement-trade",
-   "img": "https://assets.beincrypto.com/img/1kTPs6Fxh6oV9sGG6Pl9VtNxD6U=/smart/d572a5dc71794996bffc6f940fd3f6e5",
-   "a": "19 jam lalu",
+   "url": "https://id.beincrypto.com/ledakan-tokenisasi-sec-kedaluwarsa",
+   "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-23T00:59:51"
+   "published_at": "2026-09-23T01:03:45"
   },
   {
    "id": 4181,
@@ -396,18 +396,18 @@
    "published_at": "2026-09-21T10:30:00"
   },
   {
-   "id": 4206,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "2 Altcoin Baru Saja Dapatkan Persetujuan Wall Street: Apa yang Terjadi Selanjutnya?",
-   "x": "CME Group akan menambah futures Bitcoin Cash (BCH) dan Uniswap (UNI) ke dalam deretan derivatif aset kripto mereka pada 19 Oktober, menunggu tinjauan regulator. UNI melonjak sekitar 5% dalam hitungan menit setelah…",
+   "id": 4292,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Di Swiss, Orang-orang Optimistis pada Franc, Emas, dan BTC karena Utang AS Sebesar US$40 Triliun",
+   "x": "Bucella dari Neoclassic Capital mengatakan Bitcoin, emas, dan franc menjadi lindung nilai bagi investor terhadap utang AS sebesar USD40 triliun.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cme-group-memilih-uni-bch-futures",
-   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/bitcoin-gold-franc-debasement-trade",
+   "img": "https://assets.beincrypto.com/img/1kTPs6Fxh6oV9sGG6Pl9VtNxD6U=/smart/d572a5dc71794996bffc6f940fd3f6e5",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-22T12:49:59"
+   "published_at": "2026-09-23T00:59:51"
   },
   {
    "id": 4203,
@@ -432,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M372VBA1BZFDY5BENY1DJR4V/hi-cryptocurrency-vs-quantum-computing-2.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T12:22:56"
@@ -446,7 +446,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T17:01:03"
@@ -494,18 +494,18 @@
    "published_at": "2026-09-22T07:40:41"
   },
   {
-   "id": 4327,
+   "id": 4416,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Akun Trump Membeli Saham MicroStrategy sebelum Reli 83%",
-   "x": "Akun Trump menjual saham MicroStrategy pada bulan Juni, lalu membelinya kembali pada bulan Juli. Sejak itu, harga saham telah reli sekitar 83%.",
+   "t": "OpenAI Agent Retas Situs Web Pemerintah dan Kembali Memicu Kekhawatiran Keamanan AI",
+   "x": "Seorang agen OpenAI meretas portal Medicare pemerintah Australia, membangkitkan kembali kekhawatiran tentang risiko keselamatan AI yang tidak terkontrol.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-jual-microstrategy-beli-lagi-rally",
-   "img": "https://assets.beincrypto.com/img/dAkgod5VHOt-3ari-duR0vAxx-Y=/smart/d396b8a52d0b44fe920c186bde0733a1",
-   "a": "8 jam lalu",
+   "url": "https://id.beincrypto.com/openai-agent-hacks-australia-medicare",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "38 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-23T12:08:17"
+   "published_at": "2026-09-23T22:47:26"
   },
   {
    "id": 4315,
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-menuju-us90-000-2-sinyal-ini-bikin-bull-makin-pede",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T06:00:20"
@@ -530,7 +530,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S1XC5MZ8AHXAWMABJV243/hi-a-supreme-court-case-kalshi.png",
-   "a": "29 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T20:28:34"
@@ -558,7 +558,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/keychain-shredder-theft.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T22:50:41"
@@ -572,7 +572,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251229_Bitcoin_News_3.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T16:52:09"
@@ -592,18 +592,18 @@
    "published_at": "2026-09-21T10:15:44"
   },
   {
-   "id": 4270,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Apakah Perlambatan AI Sudah Berakhir? OpenAI dan Anthropic Baru Saja Luncurkan Model Baru",
-   "x": "Anthropic dan OpenAI meluncurkan model AI yang lebih murah hanya beberapa jam berselang, 10 hari setelah mendukung perlambatan AI. Inilah yang berubah.",
+   "id": 4417,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "US$20 Juta XRP Dicuri dari Ribuan Hardware Wallet",
+   "x": "Pelaku kejahatan menguras sekitar 11,7 juta XRP dari ribuan pengguna D’CENT App Wallet. Pencurian yang nilainya mendekati US$20 juta ini terjadi antara 15 hingga 20 September. XRPL.to merilis kronologi forensik on-chain…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/perlambatan-ai-openai-anthropic-model-baru",
-   "img": "https://assets.beincrypto.com/img/rl_Y7UpoqHGlg0zsguNZUkJXaZ4=/smart/808ab1026c7d4ca9b0f3947072f4e5dc",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/xrp-dcent-wallet-drain-20-juta",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "40 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-22T19:54:59"
+   "published_at": "2026-09-23T22:46:02"
   },
   {
    "id": 4354,
@@ -614,7 +614,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-cari-meme-coin-yang-dipasangkan-dengan-token-saham-sebelum-meledak",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T09:00:11"
@@ -634,32 +634,32 @@
    "published_at": "2026-09-22T07:33:37"
   },
   {
-   "id": 4171,
+   "id": 4411,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Google akui AI Gemini retas tiga perusahaan, bungkam 7 minggu",
-   "x": "Google mengakui bahwa kecerdasan buatan Gemini secara tidak sengaja meretas tiga perusahaan selama uji keamanan. Keterlambatan pengumuman ini menimbulkan pertanyaan tentang transparansi perusahaan teknologi besar.",
+   "t": "Agen AI Retas Situs Web Pemerintah Australia",
+   "x": "Sebuah agen kecerdasan buatan berhasil meretas portal statistik Medicare Australia, mengakses data publik dan non-publik. Perdana Menteri Australia mengkritik keterlambatan OpenAI dalam melaporkan insiden ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png",
+   "a": "54 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T22:46:03"
+   "published_at": "2026-09-23T22:31:45"
   },
   {
-   "id": 4060,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Charles Hoskinson: Cardano tak lagi jadi prioritas utama",
-   "x": "Pendiri Cardano menyatakan produk masa depan tidak akan lagi memprioritaskan blockchain tersebut. Keputusan ini diambil setelah pemungutan suara perbendaharaan yang menolak proposal penting.",
+   "id": 4143,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Strategy dan Strive beli Bitcoin senilai $183 juta saat reli $85.000 hidupkan kembali perdagangan kas",
+   "x": "Perusahaan kas Bitcoin Strategy dan Strive memborong sekitar $183 juta BTC minggu lalu. Kenaikan harga aset digital ini membantu neraca perusahaan pulih dari kerugian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/charles-hoskinson-says-cardano-no-longer-comes-first-its-treasury-vote-explains-why",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cardano-governance-crumbling-podium.webp",
+   "url": "https://cryptoslate.com/strategy-and-strive-buy-183-million-in-bitcoin-as-85000-rally-revives-treasury-trade",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-treasury-vaults.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T21:30:57"
+   "published_at": "2026-09-21T16:00:09"
   },
   {
    "id": 4340,
@@ -670,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-23-galaxy-adds-100-million-in-skys-susds-to-treasury-buys-sky-token-as-firms-deepen-lending-ties-416137",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240725_Galaxy_News.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T12:00:02"
@@ -690,18 +690,18 @@
    "published_at": "2026-09-21T16:01:36"
   },
   {
-   "id": 4368,
+   "id": 4206,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "BTCC Exchange dan Markets.com Umumkan Kolaborasi Promosi Menjelang TOKEN2049 Singapore",
-   "x": "BTCC, exchange aset kripto tertua di dunia, hari ini mengumumkan kolaborasi promosi dengan Markets.com, platform trading CFD global. Kolaborasi ini akan membuat BTCC menampilkan dan mempromosikan brand Markets.com…",
+   "t": "2 Altcoin Baru Saja Dapatkan Persetujuan Wall Street: Apa yang Terjadi Selanjutnya?",
+   "x": "CME Group akan menambah futures Bitcoin Cash (BCH) dan Uniswap (UNI) ke dalam deretan derivatif aset kripto mereka pada 19 Oktober, menunggu tinjauan regulator. UNI melonjak sekitar 5% dalam hitungan menit setelah…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/btcc-exchange-markets-com-kolaborasi-token2049",
-   "img": "https://assets.beincrypto.com/img/yXRWbkYISpRmFw5WxTAIUGGA8fM=/smart/3d14bbb1cb94459dbf888a71227a7bdb",
-   "a": "5 jam lalu",
+   "url": "https://id.beincrypto.com/cme-group-memilih-uni-bch-futures",
+   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-23T15:00:00"
+   "published_at": "2026-09-22T12:49:59"
   },
   {
    "id": 4068,
@@ -732,32 +732,32 @@
    "published_at": "2026-09-21T04:29:59"
   },
   {
-   "id": 4377,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "NYSE Gandeng Blockchain.com untuk Jangkau Investor Kripto",
-   "x": "NYSE dan Blockchain.com sepakat memberi akses saham tokenisasi AS kepada pengguna bursa kripto. Kemitraan ini masih menunggu persetujuan regulator.",
+   "id": 4171,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Google akui AI Gemini retas tiga perusahaan, bungkam 7 minggu",
+   "x": "Google mengakui bahwa kecerdasan buatan Gemini secara tidak sengaja meretas tiga perusahaan selama uji keamanan. Keterlambatan pengumuman ini menimbulkan pertanyaan tentang transparansi perusahaan teknologi besar.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T16:36:03"
-  },
-  {
-   "id": 4143,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strategy dan Strive beli Bitcoin senilai $183 juta saat reli $85.000 hidupkan kembali perdagangan kas",
-   "x": "Perusahaan kas Bitcoin Strategy dan Strive memborong sekitar $183 juta BTC minggu lalu. Kenaikan harga aset digital ini membantu neraca perusahaan pulih dari kerugian.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategy-and-strive-buy-183-million-in-bitcoin-as-85000-rally-revives-treasury-trade",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-treasury-vaults.webp",
+   "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T16:00:09"
+   "published_at": "2026-09-21T22:46:03"
+  },
+  {
+   "id": 4255,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bantalan Harga Bitcoin Menyempit, Pinjaman Aave Rentan Terhadap Penurunan 4,7%",
+   "x": "Aave berencana mengurangi bantalan harga untuk pinjaman Bitcoin, membuatnya lebih rentan terhadap penurunan harga. Perubahan ini dapat meningkatkan risiko likuidasi bagi peminjam jika pasar bergejolak.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/narrowing-price-cushions-leave-bitcoin-loans-vulnerable-to-4-7-price-dips-as-aave-weighs-higher-leverage",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-liquidation-path-2.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T17:00:59"
   },
   {
    "id": 4280,
@@ -768,7 +768,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211207_Hashed.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T22:30:00"
@@ -788,18 +788,18 @@
    "published_at": "2026-09-22T12:32:15"
   },
   {
-   "id": 4245,
+   "id": 4327,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bitwise NEAR ETP Tembus US$100 Juta: Permintaan Institusi atau Reli Harga?",
-   "x": "Dana NEAR milik Bitwise telah melampaui $100 juta. Angka internalnya menunjukkan token tersebut reli, bukan karena investor baru yang masuk.",
+   "t": "Akun Trump Membeli Saham MicroStrategy sebelum Reli 83%",
+   "x": "Akun Trump menjual saham MicroStrategy pada bulan Juni, lalu membelinya kembali pada bulan Juli. Sejak itu, harga saham telah reli sekitar 83%.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitwise-near-etp-100-juta-rally",
-   "img": "https://assets.beincrypto.com/img/obQMXKpmO-KXbGnhHhVb9TWRuK8=/smart/7b3d6d36cda5466ba111b1bd10808b01",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/trump-jual-microstrategy-beli-lagi-rally",
+   "img": "https://assets.beincrypto.com/img/dAkgod5VHOt-3ari-duR0vAxx-Y=/smart/d396b8a52d0b44fe920c186bde0733a1",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-22T17:00:00"
+   "published_at": "2026-09-23T12:08:17"
   },
   {
    "id": 4098,
@@ -830,18 +830,18 @@
    "published_at": "2026-09-20T23:37:39"
   },
   {
-   "id": 4285,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Dewan Keamanan PBB dengar risiko AI dari raksasa teknologi",
-   "x": "Perusahaan teknologi akan memberikan masukan kepada Dewan Keamanan PBB mengenai risiko kecerdasan buatan. Hal ini menunjukkan meningkatnya perhatian global terhadap dampak AI dan perlunya regulasi.",
+   "id": 4377,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "NYSE Gandeng Blockchain.com untuk Jangkau Investor Kripto",
+   "x": "NYSE dan Blockchain.com sepakat memberi akses saham tokenisasi AS kepada pengguna bursa kripto. Kemitraan ini masih menunggu persetujuan regulator.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/09/Webp.net-resizeimage-60-gID_4.jpg",
-   "a": "22 jam lalu",
+   "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T22:16:03"
+   "published_at": "2026-09-23T16:36:03"
   }
  ]
 }

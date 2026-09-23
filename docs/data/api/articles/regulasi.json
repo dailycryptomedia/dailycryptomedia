@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledakan-tokenisasi-sec-kedaluwarsa",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T01:03:45"
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T13:15:57"
+  },
+  {
+   "id": 4413,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Tiongkok Selidiki DeepSeek dan Moonshot Terkait Kebocoran Data ke Claude",
+   "x": "Regulator internet Tiongkok tengah menyelidiki DeepSeek dan Moonshot AI. Keduanya dituduh secara diam-diam mengalirkan data pengguna ke model AI Claude milik Anthropic untuk pelatihan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T21:31:03"
   },
   {
    "id": 4145,
@@ -60,20 +74,6 @@
    "published_at": "2026-09-21T19:08:40"
   },
   {
-   "id": 4240,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "AS selidiki apakah Binance sengaja fasilitasi perdagangan terkait Iran",
-   "x": "Jaksa AS menyelidiki apakah Binance secara sadar melanggar sanksi dengan memfasilitasi perdagangan yang terkait dengan Iran. Hal ini menimbulkan pertanyaan tentang efektivitas langkah kepatuhan bursa kripto tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T09:47:47"
-  },
-  {
    "id": 4272,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -102,6 +102,20 @@
    "published_at": "2026-09-22T02:22:59"
   },
   {
+   "id": 4240,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "AS selidiki apakah Binance sengaja fasilitasi perdagangan terkait Iran",
+   "x": "Jaksa AS menyelidiki apakah Binance secara sadar melanggar sanksi dengan memfasilitasi perdagangan yang terkait dengan Iran. Hal ini menimbulkan pertanyaan tentang efektivitas langkah kepatuhan bursa kripto tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T09:47:47"
+  },
+  {
    "id": 4235,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -124,7 +138,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T00:00:45"
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eu-central-banks-attack-mica-rules-and-stablecoin-runs-are-blamed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/mica-stablecoin-bank-risk.webp",
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T08:10:31"
@@ -200,18 +214,18 @@
    "published_at": "2026-09-22T11:58:48"
   },
   {
-   "id": 4393,
+   "id": 4409,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Trump ungkap pembelian saham Strategy hingga $100 ribu",
-   "x": "",
+   "t": "Mantan Pejabat SEC Akui Cabut Kasus Kripto Demi Kredibilitas",
+   "x": "Komisioner SEC Mark Uyeda menyatakan bahwa badan tersebut mencabut banyak kasus terhadap perusahaan kripto pada awal 2025. Langkah ini diambil untuk menghindari potensi masalah kredibilitas di pengadilan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S20R41W4NRY3RF09G3JDY/white-house-crypto2.png",
+   "url": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M380MX1W92VXBB79W6WPSWR1/hi-sec-vs-us-court-follow-up.jpg",
    "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-23T19:05:14"
+   "published_at": "2026-09-23T21:47:52"
   },
   {
    "id": 4367,
@@ -222,7 +236,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/4592fcabbae44f472e6b59673d99b0d90f6308f0-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T13:00:00"
@@ -236,24 +250,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/moonpay-dicari-broker-utah-berusia-27-tahun",
    "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T13:16:56"
   },
   {
-   "id": 4321,
+   "id": 4393,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Ketua CFTC dorong tokenisasi saat SEC buka pintu untuk saham on-chain",
-   "x": "Ketua CFTC mendorong tokenisasi sebagai cara untuk membentuk kembali pasar keuangan, seiring SEC membuka peluang bagi saham yang diperdagangkan secara on-chain. Inisiatif ini menunjukkan pergeseran menuju integrasi aset digital dan tradisional.",
+   "t": "Trump ungkap pembelian saham Strategy hingga $100 ribu",
+   "x": "",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg",
-   "a": "10 jam lalu",
+   "url": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S20R41W4NRY3RF09G3JDY/white-house-crypto2.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-23T10:06:55"
+   "published_at": "2026-09-23T19:05:14"
   },
   {
    "id": 4353,
@@ -264,7 +278,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/052f35c2c6aad46cbdd3ec5d8408c614bf907010-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T07:37:46"
@@ -284,6 +298,20 @@
    "published_at": "2026-09-22T03:12:19"
   },
   {
+   "id": 4321,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Ketua CFTC dorong tokenisasi saat SEC buka pintu untuk saham on-chain",
+   "x": "Ketua CFTC mendorong tokenisasi sebagai cara untuk membentuk kembali pasar keuangan, seiring SEC membuka peluang bagi saham yang diperdagangkan secara on-chain. Inisiatif ini menunjukkan pergeseran menuju integrasi aset digital dan tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T10:06:55"
+  },
+  {
    "id": 4361,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -292,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34K2P2TV319V36C0BE6PVPR/magazine-the-fundamentals-of-token-economics.jpg",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T13:30:00"
