@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,18 +74,18 @@
    "published_at": "2026-09-21T19:26:49"
   },
   {
-   "id": 4050,
+   "id": 4228,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Saham platform kripto Gemini anjlok 80% sejak IPO, spekulasi akuisisi menguat",
+   "t": "Animoca Brands tunda rencana IPO, hentikan pembicaraan merger dengan Currenc",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/95fad579f9a3f23d068f54f462e660960ccc4e94-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-20T14:54:48"
+   "published_at": "2026-09-22T09:47:15"
   },
   {
    "id": 4229,
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/12/20201218_Circle-2.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T12:53:52"
@@ -130,20 +130,6 @@
    "published_at": "2026-09-22T06:48:20"
   },
   {
-   "id": 4228,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Animoca Brands tunda rencana IPO, hentikan pembicaraan merger dengan Currenc",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/95fad579f9a3f23d068f54f462e660960ccc4e94-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T09:47:15"
-  },
-  {
    "id": 4097,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -166,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/Coinbase_Still_19_1-scaled.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T14:47:12"
