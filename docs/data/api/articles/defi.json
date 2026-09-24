@@ -1,22 +1,8 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 4174,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pertumbuhan L2 dan staking $120 miliar sembunyikan realitas pasokan Ethereum",
-   "x": "Pertumbuhan solusi Layer 2 dan nilai staking Ethereum yang besar menutupi dinamika pasokan aset digital ini. Investor perlu mencermati aliran dana ETF dan dampaknya pada pemegang ETH.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-demand-divide.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-21T22:40:20"
-  },
   {
    "id": 4369,
    "k": "defi",
@@ -30,34 +16,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T14:52:40"
-  },
-  {
-   "id": 4451,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Regulator perbankan Uni Eropa minta aturan pinjaman kripto di bawah MiCA",
-   "x": "Badan Perbankan Eropa (EBA) mengusulkan aturan baru untuk aktivitas pinjaman aset kripto dan penyedia akses ke protokol DeFi. Usulan ini merupakan bagian dari tinjauan regulasi MiCA Uni Eropa.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T10:30:00"
-  },
-  {
-   "id": 4456,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "RockawayX taruhkan $150 juta pada imbal hasil sebagai kasus penggunaan utama",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/266337e9aace0244a1ed106e63ef782530f929a4-2560x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T12:31:53"
   },
   {
    "id": 4312,
@@ -74,6 +32,34 @@
    "published_at": "2026-09-23T05:40:04"
   },
   {
+   "id": 4451,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Regulator perbankan Uni Eropa minta aturan pinjaman kripto di bawah MiCA",
+   "x": "Badan Perbankan Eropa (EBA) mengusulkan aturan baru untuk aktivitas pinjaman aset kripto dan penyedia akses ke protokol DeFi. Usulan ini merupakan bagian dari tinjauan regulasi MiCA Uni Eropa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T10:30:00"
+  },
+  {
+   "id": 4456,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "RockawayX taruhkan $150 juta pada imbal hasil sebagai kasus penggunaan utama",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/266337e9aace0244a1ed106e63ef782530f929a4-2560x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T12:31:53"
+  },
+  {
    "id": 4191,
    "k": "defi",
    "cat": "DeFi",
@@ -86,6 +72,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T02:44:43"
+  },
+  {
+   "id": 4179,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pragma tandai 6 feed harga sebagai risiko kritis pasca-eksploit Starknet",
+   "x": "Pragma mengidentifikasi enam feed harga sebagai risiko tinggi setelah eksploitasi pinjaman Starknet senilai US$3,5 juta. Hal ini menunjukkan kerentanan dalam penilaian aset digital yang digunakan dalam protokol DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/oracle-price-exit-liquidity-standard-image.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T01:10:56"
   },
   {
    "id": 4220,
@@ -116,20 +116,6 @@
    "published_at": "2026-09-22T14:32:59"
   },
   {
-   "id": 4179,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pragma tandai 6 feed harga sebagai risiko kritis pasca-eksploit Starknet",
-   "x": "Pragma mengidentifikasi enam feed harga sebagai risiko tinggi setelah eksploitasi pinjaman Starknet senilai US$3,5 juta. Hal ini menunjukkan kerentanan dalam penilaian aset digital yang digunakan dalam protokol DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/oracle-price-exit-liquidity-standard-image.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T01:10:56"
-  },
-  {
    "id": 4289,
    "k": "defi",
    "cat": "DeFi",
@@ -138,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/federal-trust-pillars.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T21:20:03"
