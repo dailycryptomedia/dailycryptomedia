@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/06/22020616_Animoca_Brands1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T02:46:02"
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/merger-tesla-spacex-dan-ives-odds",
    "img": "https://assets.beincrypto.com/img/7TK9YCx6XCz6VzwrIea2R3WFWw8=/smart/93155c04be914629a2448a7285bd7150",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-21T06:27:52"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33XRC7JHD8TZAH4J6TMBQ8Q/hi-crypto-goes-for-nasdaq-whos-next-and-why-only-mining-firms-go-public.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T06:48:20"
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-21T09:24:27"
+  },
+  {
+   "id": 4437,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "The Fed Baru Saja Naikkan Suku Bunga, tapi Cash Payoff Berkshire Belum Muncul",
+   "x": "Berkshire memegang USD359,2 miliar dalam bentuk kas, namun pendapatan investasinya turun meskipun The Fed baru saja menaikkan suku bunga.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/berkshire-cash-payoff-the-fed-rate-hike",
+   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-24T02:45:16"
   },
   {
    "id": 4132,
