@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,20 +46,6 @@
    "published_at": "2026-09-22T12:18:41"
   },
   {
-   "id": 4163,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Coinbase tawarkan saham IPO ke investor ritel AS",
-   "x": "Coinbase kini memungkinkan pelanggan ritel AS untuk memesan saham pada harga penawaran IPO. Ini membuka akses bagi investor individu untuk berpartisipasi dalam penawaran perdana.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-21T19:26:49"
-  },
-  {
    "id": 4437,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,10 +54,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/berkshire-cash-payoff-the-fed-rate-hike",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-24T02:45:16"
+  },
+  {
+   "id": 4503,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Decrypt Media dan Farokh Sarmad tampil di NEXTPredict NY",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/nextpredict-logo-gID_7.jpg",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T13:01:16"
   },
   {
    "id": 4228,
@@ -114,20 +114,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T06:48:20"
-  },
-  {
-   "id": 4503,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Decrypt Media dan Farokh Sarmad tampil di NEXTPredict NY",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/nextpredict-logo-gID_7.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T13:01:16"
   }
  ]
 }
