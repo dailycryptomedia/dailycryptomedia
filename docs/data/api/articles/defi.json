@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,38 +26,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-turun-di-bawah-84000-treasury-yields",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T14:52:40"
   },
   {
-   "id": 4220,
+   "id": 4451,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Siklus naik-turun kripto mereda, kata CEO Solstice",
-   "x": "CEO Solstice menyatakan bahwa likuiditas yang lebih dalam dan partisipasi institusi yang meningkat dapat membuat siklus kenaikan aset kripto di masa depan menjadi kurang volatil. Hal ini menandakan potensi stabilitas pasar yang lebih besar.",
+   "t": "Regulator perbankan Uni Eropa minta aturan pinjaman kripto di bawah MiCA",
+   "x": "Badan Perbankan Eropa (EBA) mengusulkan aturan baru untuk aktivitas pinjaman aset kripto dan penyedia akses ke protokol DeFi. Usulan ini merupakan bagian dari tinjauan regulasi MiCA Uni Eropa.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33ZZ6HX76QGK6MY66SG8KYD/hi-governments-enterprise-gaming-who-will-drive-the-next-crypto-bull-run.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T08:06:23"
+   "published_at": "2026-09-24T10:30:00"
   },
   {
-   "id": 4251,
+   "id": 4456,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Bank sentral Eropa dorong perluasan larangan imbal hasil stablecoin ke pinjaman dan staking kripto",
+   "t": "RockawayX taruhkan $150 juta pada imbal hasil sebagai kasus penggunaan utama",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/266337e9aace0244a1ed106e63ef782530f929a4-2560x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "17 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T14:32:59"
+   "published_at": "2026-09-24T12:31:53"
   },
   {
    "id": 4144,
@@ -86,6 +86,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-22T02:44:43"
+  },
+  {
+   "id": 4220,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Siklus naik-turun kripto mereda, kata CEO Solstice",
+   "x": "CEO Solstice menyatakan bahwa likuiditas yang lebih dalam dan partisipasi institusi yang meningkat dapat membuat siklus kenaikan aset kripto di masa depan menjadi kurang volatil. Hal ini menandakan potensi stabilitas pasar yang lebih besar.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33ZZ6HX76QGK6MY66SG8KYD/hi-governments-enterprise-gaming-who-will-drive-the-next-crypto-bull-run.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T08:06:23"
+  },
+  {
+   "id": 4251,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bank sentral Eropa dorong perluasan larangan imbal hasil stablecoin ke pinjaman dan staking kripto",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T14:32:59"
   },
   {
    "id": 4312,
