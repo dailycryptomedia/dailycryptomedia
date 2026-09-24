@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-turun-di-bawah-84000-treasury-yields",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T14:52:40"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T10:30:00"
@@ -54,24 +54,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/266337e9aace0244a1ed106e63ef782530f929a4-2560x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "17 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T12:31:53"
   },
   {
-   "id": 4144,
+   "id": 4312,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pemulihan peretasan Balancer senilai $1,4 juta tak akan bayar LP segera",
-   "x": "Rencana pemulihan dana peretasan Balancer senilai $1,4 juta masih terhambat. Dana tersebut belum dapat dibayarkan kepada penyedia likuiditas (LP) dalam waktu dekat karena proses yang rumit.",
+   "t": "Solana lampaui Ethereum dalam biaya, ETH pertahankan rekor pembakaran",
+   "x": "Solana kini memimpin Ethereum dalam perolehan biaya transaksi, namun Ethereum masih unggul dalam jumlah token yang dibakar. Perbedaan ini menyoroti metrik kinerja yang beragam dalam ekosistem aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-balancers-1-4m-hack-recovery-wont-pay-lps-anytime-soon",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/balancer-recovery-waterways.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-fees-ethereum-burns.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-21T15:35:58"
+   "published_at": "2026-09-23T05:40:04"
   },
   {
    "id": 4191,
@@ -110,24 +110,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T14:32:59"
-  },
-  {
-   "id": 4312,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Solana lampaui Ethereum dalam biaya, ETH pertahankan rekor pembakaran",
-   "x": "Solana kini memimpin Ethereum dalam perolehan biaya transaksi, namun Ethereum masih unggul dalam jumlah token yang dibakar. Perbedaan ini menyoroti metrik kinerja yang beragam dalam ekosistem aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-fees-ethereum-burns.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T05:40:04"
   },
   {
    "id": 4179,
