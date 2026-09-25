@@ -1,8 +1,22 @@
 {
- "total": 9,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4575,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Volume DEX Solana melonjak, tapi diperparah perdagangan sirkular dan bot",
+   "x": "Lonjakan volume perdagangan di bursa terdesentralisasi (DEX) Solana diduga akibat aktivitas bot dan perdagangan sirkular. Hal ini menimbulkan pertanyaan mengenai kedalaman likuiditas sebenarnya bagi investor independen.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solana-dex-volume-spike-hides-circular-trades-and-automated-bots-are-blamed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-liquidity-cliff.webp",
+   "a": "29 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T08:30:11"
+  },
   {
    "id": 4369,
    "k": "defi",
@@ -18,20 +32,6 @@
    "published_at": "2026-09-23T14:52:40"
   },
   {
-   "id": 4312,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Solana lampaui Ethereum dalam biaya, ETH pertahankan rekor pembakaran",
-   "x": "Solana kini memimpin Ethereum dalam perolehan biaya transaksi, namun Ethereum masih unggul dalam jumlah token yang dibakar. Perbedaan ini menyoroti metrik kinerja yang beragam dalam ekosistem aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-fees-ethereum-burns.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T05:40:04"
-  },
-  {
    "id": 4451,
    "k": "defi",
    "cat": "DeFi",
@@ -40,52 +40,52 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T10:30:00"
   },
   {
-   "id": 4456,
+   "id": 4572,
    "k": "defi",
    "cat": "DeFi",
-   "t": "RockawayX taruhkan $150 juta pada imbal hasil sebagai kasus penggunaan utama",
+   "t": "KelpDAO gugat LayerZero atas eksploitasi terbesar tahun 2026",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/266337e9aace0244a1ed106e63ef782530f929a4-2560x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7863e30b8c5511b68b91043a228ce3b5235c6c49-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T12:31:53"
+   "published_at": "2026-09-25T08:58:03"
   },
   {
-   "id": 4191,
+   "id": 4312,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Saat Yield Turun, HSBC Prediksi Treasury 10 Tahun di 4,65%, Bukan 6%, pada Akhir Tahun",
-   "x": "Imbal hasil Treasury 10-tahun turun dari level tertinggi dalam 19 tahun. HSBC memperkirakan nilainya akan berada di sekitar 4,65%, namun sejumlah peramal lain melihat angka 5,3% atau bahkan 6% ke depan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/imbal-hasil-treasury-10-tahun-hsbc-ramal-4-65",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-22T02:44:43"
-  },
-  {
-   "id": 4289,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Persetujuan federal tak selamatkan 3 bank kripto ini",
-   "x": "Tiga bank kripto yang baru saja mendapat persetujuan federal masih menghadapi tantangan akhir sebelum beroperasi penuh. Kelangsungan mereka bergantung pada distribusi dan likuiditas, menunjukkan ketidakpastian di sektor perbankan kripto.",
+   "t": "Solana lampaui Ethereum dalam biaya, ETH pertahankan rekor pembakaran",
+   "x": "Solana kini memimpin Ethereum dalam perolehan biaya transaksi, namun Ethereum masih unggul dalam jumlah token yang dibakar. Perbedaan ini menyoroti metrik kinerja yang beragam dalam ekosistem aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/federal-trust-pillars.webp",
+   "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-fees-ethereum-burns.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T21:20:03"
+   "published_at": "2026-09-23T05:40:04"
+  },
+  {
+   "id": 4591,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas Korea Utara “Sangat Mungkin” Menguras US$350 Juta dari Bitget, Kata CEO",
+   "x": "CEO Bitget, Gracy Chen mengatakan bahwa Korea Utara “sangat mungkin” berada di balik peretasan Bitget senilai US$350 juta. Para pelaku berhasil membobol sistem backend, tapi mereka tidak pernah mendapatkan private key…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitget-hack-korea-utara-gracy-chen",
+   "img": "https://assets.beincrypto.com/img/NtFIhDcYZ0dRci5J3riuuiQVKoU=/smart/5f2f1c7191414fef84d10a38c7edadb4",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-25T05:20:19"
   },
   {
    "id": 4220,
@@ -96,10 +96,52 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33ZZ6HX76QGK6MY66SG8KYD/hi-governments-enterprise-gaming-who-will-drive-the-next-crypto-bull-run.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T08:06:23"
+  },
+  {
+   "id": 4456,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "RockawayX taruhkan $150 juta pada imbal hasil sebagai kasus penggunaan utama",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/266337e9aace0244a1ed106e63ef782530f929a4-2560x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T12:31:53"
+  },
+  {
+   "id": 4576,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Eksploitasi bridge Payy bekukan kartu kripto, saldo tak aman",
+   "x": "Jembatan (bridge) Payy dilaporkan telah dieksploitasi, menyebabkan kartu kripto tidak dapat digunakan dan saldo terancam. Skala kerugian nasabah masih belum diungkapkan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/payy-bridge-exploit-freezes-crypto-cards-and-no-balances-remain-safe",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/payy-bridge-exploit-standard-image.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T07:10:06"
+  },
+  {
+   "id": 4562,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Saat Imbal Hasil Cetak Rekor, Tom Lee Melihat Peluang, tapi Hanya untuk yang Terkuat",
+   "x": "Tom Lee mengatakan kenaikan yield membantu perusahaan kuat dan mengharapkan inflasi akan turun tajam dalam enam bulan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tom-lee-imbal-hasil-lebih-tinggi-perusahaan-kuat",
+   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-24T23:47:01"
   },
   {
    "id": 4251,
@@ -116,18 +158,18 @@
    "published_at": "2026-09-22T14:32:59"
   },
   {
-   "id": 4562,
+   "id": 4289,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Saat Imbal Hasil Cetak Rekor, Tom Lee Melihat Peluang, tapi Hanya untuk yang Terkuat",
-   "x": "Tom Lee mengatakan kenaikan yield membantu perusahaan kuat dan mengharapkan inflasi akan turun tajam dalam enam bulan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tom-lee-imbal-hasil-lebih-tinggi-perusahaan-kuat",
-   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "3 jam lalu",
+   "t": "Persetujuan federal tak selamatkan 3 bank kripto ini",
+   "x": "Tiga bank kripto yang baru saja mendapat persetujuan federal masih menghadapi tantangan akhir sebelum beroperasi penuh. Kelangsungan mereka bergantung pada distribusi dan likuiditas, menunjukkan ketidakpastian di sektor perbankan kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/federal-trust-pillars.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-24T23:47:01"
+   "translated": true,
+   "published_at": "2026-09-22T21:20:03"
   }
  ]
 }
