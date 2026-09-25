@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solana-dex-volume-spike-hides-circular-trades-and-automated-bots-are-blamed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-liquidity-cliff.webp",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T08:30:11"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-turun-di-bawah-84000-treasury-yields",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T14:52:40"
@@ -54,10 +54,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/01/20230110_MagicEden_Generic3.jpg",
-   "a": "22 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T14:09:15"
+  },
+  {
+   "id": 4647,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Magic Eden Peringatkan Listing NFT Ethereum Lama Berisiko Akibat Eksploitasi",
+   "x": "Celah pada sistem pemrosesan pembayaran lama Magic Eden berisiko membahayakan listing NFT Ethereum. Sebuah aksi penyelamatan oleh whitehat berhasil mengamankan lebih dari 23.000 NFT.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T16:17:19"
   },
   {
    "id": 4572,
@@ -68,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7863e30b8c5511b68b91043a228ce3b5235c6c49-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T08:58:03"
@@ -82,24 +96,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/profil-ceo-bitget-gracy-chen-di-tengah-insiden-peretasan-us3516-juta",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T10:00:30"
-  },
-  {
-   "id": 4610,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pengembang KelpDAO gugat LayerZero terkait eksploitasi jembatan senilai US$292 juta",
-   "x": "Sebuah gugatan dilayangkan terhadap LayerZero oleh pengembang KelpDAO terkait insiden eksploitasi jembatan aset kripto senilai US$292 juta. Penggugat menuduh LayerZero memberikan persetujuan yang bertentangan dengan peringatan yang dikeluarkan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T11:09:52"
   },
   {
    "id": 4312,
@@ -124,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitget-hack-korea-utara-gracy-chen",
    "img": "https://assets.beincrypto.com/img/NtFIhDcYZ0dRci5J3riuuiQVKoU=/smart/5f2f1c7191414fef84d10a38c7edadb4",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T05:20:19"
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BTYE66WC2EVFA55YV4CN26/canadia.png",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T08:51:17"
@@ -152,10 +152,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230412_Legal_Generic_4.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T09:13:08"
+  },
+  {
+   "id": 4610,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pengembang KelpDAO gugat LayerZero terkait eksploitasi jembatan senilai US$292 juta",
+   "x": "Sebuah gugatan dilayangkan terhadap LayerZero oleh pengembang KelpDAO terkait insiden eksploitasi jembatan aset kripto senilai US$292 juta. Penggugat menuduh LayerZero memberikan persetujuan yang bertentangan dengan peringatan yang dikeluarkan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T11:09:52"
   },
   {
    "id": 4456,
@@ -180,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/payy-bridge-exploit-freezes-crypto-cards-and-no-balances-remain-safe",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/payy-bridge-exploit-standard-image.jpg",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:10:06"
@@ -194,24 +208,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tom-lee-imbal-hasil-lebih-tinggi-perusahaan-kuat",
    "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-24T23:47:01"
-  },
-  {
-   "id": 4251,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bank sentral Eropa dorong perluasan larangan imbal hasil stablecoin ke pinjaman dan staking kripto",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T14:32:59"
   },
   {
    "id": 4289,
@@ -236,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/multiversx-restarts-after-exploit-halt-but-kraken-still-bars-new-egld-trades",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/egld-access-lockout.webp",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T10:50:09"

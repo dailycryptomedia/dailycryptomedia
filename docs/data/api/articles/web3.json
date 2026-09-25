@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BM3DN348KFGP7858XFMCWJ/prison.png",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:28:18"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230911_Bitget_News.jpg",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T21:20:47"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T15:48:20"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coin-metrics-corrected-19-months-of-bitcoin-etf-wallet-data-without-saying-how-much-changed-publicly",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-etf-data-uncertainty.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T15:40:29"
@@ -124,10 +124,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Hut8_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T18:01:58"
+  },
+  {
+   "id": 4631,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Circle dan Tether Bekukan Dompet Peretas Pasca Peretasan Bitget",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T14:41:53"
   },
   {
    "id": 4406,
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/nearly-20-million-in-xrp-drained-from-6678-wallets-across-six-attack-waves",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-wallet-hacker-drain.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T18:50:05"

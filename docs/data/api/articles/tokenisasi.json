@@ -1,5 +1,5 @@
 {
- "total": 72,
+ "total": 75,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-09-23T20:50:43"
   },
   {
+   "id": 4644,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Circle dan Tether Bekukan Stablecoin Terkait Peretasan Bitget, Dana Hilang",
+   "x": "Penerbit stablecoin membekukan aset senilai $318.000 terkait peretasan Bitget. Namun, penyerang berhasil menukar sebagian besar dana ke ETH yang tidak dapat dibekukan sebelum tindakan dilakukan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg",
+   "a": "22 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T18:42:51"
+  },
+  {
    "id": 4485,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -40,24 +54,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A24Y0DVXQSBK1VSJST05MZ/bear-bang-reg-falling-crypto.jpg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T17:14:35"
-  },
-  {
-   "id": 4376,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Enam Bank Terbesar Kanada Uji Jaringan Dolar Digital Bersama",
-   "x": "Bank-bank besar Kanada berkolaborasi mengembangkan sistem tokenisasi deposito dolar Kanada. Inisiatif ini diawali dengan transfer antarbank.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-23T17:01:03"
+   "published_at": "2026-09-24T17:14:35"
   },
   {
    "id": 4354,
@@ -82,24 +82,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News_3.jpg",
-   "a": "32 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T14:00:00"
   },
   {
-   "id": 4249,
+   "id": 4438,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bank Besar Kanada Luncurkan Inisiatif Simpanan Tokenisasi Antarbank",
+   "t": "Pemerintahan Trump pertimbangkan rencana stablecoin global untuk dominasi dolar",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/493408ee8595fd953e1510f008aeba370f107166-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2f1c6e613b33b9c2e567db9c1a5b333bb2457de1-4032x5040.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T17:34:03"
+   "published_at": "2026-09-24T06:33:23"
   },
   {
    "id": 4423,
@@ -130,6 +130,20 @@
    "published_at": "2026-09-23T19:50:17"
   },
   {
+   "id": 4376,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Enam Bank Terbesar Kanada Uji Jaringan Dolar Digital Bersama",
+   "x": "Bank-bank besar Kanada berkolaborasi mengembangkan sistem tokenisasi deposito dolar Kanada. Inisiatif ini diawali dengan transfer antarbank.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T17:01:03"
+  },
+  {
    "id": 4527,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -138,24 +152,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T20:32:16"
-  },
-  {
-   "id": 4264,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Strategi Coinbase untuk kustodi Bitcoin pasca-kuantum senilai $250 miliar",
-   "x": "Bursa kripto Coinbase sedang mengembangkan solusi kustodi yang dapat beradaptasi dengan skema tanda tangan pasca-kuantum yang akan diadopsi Bitcoin. Ini penting untuk keamanan aset digital bernilai besar di masa depan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T20:01:03"
   },
   {
    "id": 4580,
@@ -166,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/17-bank-uji-deposit-tokenisasi-di-blockchain-swift-era-baru-dimulai",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:00:49"
@@ -180,24 +180,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/07/20220727_Federal_Reserve_Building.jpg",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T20:19:46"
   },
   {
-   "id": 4438,
+   "id": 4523,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Pemerintahan Trump pertimbangkan rencana stablecoin global untuk dominasi dolar",
+   "t": "Bullish, Alpaca, Apex Fintech bentuk koalisi dorong saham tokenisasi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2f1c6e613b33b9c2e567db9c1a5b333bb2457de1-4032x5040.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T06:33:23"
+   "published_at": "2026-09-24T20:05:00"
   },
   {
    "id": 4424,
@@ -228,6 +228,20 @@
    "published_at": "2026-09-23T11:30:31"
   },
   {
+   "id": 4264,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Strategi Coinbase untuk kustodi Bitcoin pasca-kuantum senilai $250 miliar",
+   "x": "Bursa kripto Coinbase sedang mengembangkan solusi kustodi yang dapat beradaptasi dengan skema tanda tangan pasca-kuantum yang akan diadopsi Bitcoin. Ini penting untuk keamanan aset digital bernilai besar di masa depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-22T20:01:03"
+  },
+  {
    "id": 4263,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -240,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-22T19:56:48"
-  },
-  {
-   "id": 4377,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "NYSE Gandeng Blockchain.com untuk Jangkau Investor Kripto",
-   "x": "NYSE dan Blockchain.com sepakat memberi akses saham tokenisasi AS kepada pengguna bursa kripto. Kemitraan ini masih menunggu persetujuan regulator.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T16:36:03"
   },
   {
    "id": 4443,
@@ -284,18 +284,18 @@
    "published_at": "2026-09-24T12:00:00"
   },
   {
-   "id": 4523,
+   "id": 4524,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bullish, Alpaca, Apex Fintech bentuk koalisi dorong saham tokenisasi",
+   "t": "Perusahaan komoditas AS bisa investasi aset tokenisasi, pakai catatan blockchain: CFTC",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "url": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T20:05:00"
+   "published_at": "2026-09-24T20:04:46"
   },
   {
    "id": 4559,
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/apakah-tembaga-adalah-emas-baru-2026",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T01:49:16"
@@ -326,6 +326,20 @@
    "published_at": "2026-09-23T22:00:28"
   },
   {
+   "id": 4377,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "NYSE Gandeng Blockchain.com untuk Jangkau Investor Kripto",
+   "x": "NYSE dan Blockchain.com sepakat memberi akses saham tokenisasi AS kepada pengguna bursa kripto. Kemitraan ini masih menunggu persetujuan regulator.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-23T16:36:03"
+  },
+  {
    "id": 4449,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -340,20 +354,6 @@
    "published_at": "2026-09-24T12:00:00"
   },
   {
-   "id": 4548,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "The Fed umumkan aturan stablecoin terkait cadangan dan modal",
-   "x": "Bank sentral Amerika Serikat (The Fed) mengajukan proposal aturan baru yang mengharuskan penerbit stablecoin didukung penuh oleh aset aman. Langkah ini merupakan bagian dari upaya regulasi untuk memperkuat keamanan dan kepercayaan pada stablecoin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T21:56:03"
-  },
-  {
    "id": 4585,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -362,7 +362,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-bakal-dipekerjakan-evernorth-siapkan-cadangan-aktif-jelang-nasdaq",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T03:00:08"
@@ -382,18 +382,18 @@
    "published_at": "2026-09-23T12:00:02"
   },
   {
-   "id": 4524,
+   "id": 4460,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Perusahaan komoditas AS bisa investasi aset tokenisasi, pakai catatan blockchain: CFTC",
+   "t": "Bitcoin jatuh ke $83.000 saat imbal hasil obligasi jadi sorotan",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "url": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
+   "img": null,
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T20:04:46"
+   "published_at": "2026-09-24T11:20:12"
   },
   {
    "id": 4590,
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-crypto-treasury-tertinggal-dari-token-dwf",
    "img": "https://assets.beincrypto.com/img/obQMXKpmO-KXbGnhHhVb9TWRuK8=/smart/7b3d6d36cda5466ba111b1bd10808b01",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T06:11:30"
@@ -424,6 +424,20 @@
    "published_at": "2026-09-23T23:40:38"
   },
   {
+   "id": 4548,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "The Fed umumkan aturan stablecoin terkait cadangan dan modal",
+   "x": "Bank sentral Amerika Serikat (The Fed) mengajukan proposal aturan baru yang mengharuskan penerbit stablecoin didukung penuh oleh aset aman. Langkah ini merupakan bagian dari upaya regulasi untuk memperkuat keamanan dan kepercayaan pada stablecoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T21:56:03"
+  },
+  {
    "id": 4297,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -436,20 +450,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T05:34:49"
-  },
-  {
-   "id": 4499,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "AS bidik stablecoin sebagai senjata dominasi Dolar",
-   "x": "Pemerintah AS berencana mendanai pengembangan stablecoin swasta di luar negeri. Tujuannya adalah untuk melindungi status Dolar AS sebagai mata uang cadangan global dan menjaga permintaan obligasi negara.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2022/08/dollar-trust-crypto-stablecoin-gID_4.jpeg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T16:55:43"
   },
   {
    "id": 4517,
@@ -474,24 +474,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News.jpg",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T19:17:47"
   },
   {
-   "id": 4460,
+   "id": 4573,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin jatuh ke $83.000 saat imbal hasil obligasi jadi sorotan",
+   "t": "Bitcoin stabil di $84.000 saat jual obligasi melambat",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
-   "img": null,
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b0f516e73ceebb41012a702ea6f689387b383dad-1504x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T11:20:12"
+   "published_at": "2026-09-25T07:09:11"
   },
   {
    "id": 4601,
@@ -502,7 +502,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/imbal-hasil-obligasi-30-tahun-jepang-rekor-bitcoin",
    "img": "https://assets.beincrypto.com/img/Vbr3qPpCFt3q_di6q0bLU2nJpho=/smart/b7a34c0c58934a8d8be74a588a2ded9d",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T13:00:00"
@@ -522,6 +522,20 @@
    "published_at": "2026-09-23T13:30:50"
   },
   {
+   "id": 4499,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "AS bidik stablecoin sebagai senjata dominasi Dolar",
+   "x": "Pemerintah AS berencana mendanai pengembangan stablecoin swasta di luar negeri. Tujuannya adalah untuk melindungi status Dolar AS sebagai mata uang cadangan global dan menjaga permintaan obligasi negara.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2022/08/dollar-trust-crypto-stablecoin-gID_4.jpeg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T16:55:43"
+  },
+  {
    "id": 4358,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -530,24 +544,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37EH0Z8ZWVTWRY7BAG5D2K4/new-york-stock-exchange-nyse.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T15:56:20"
-  },
-  {
-   "id": 4608,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "BlackRock perdalam tokenisasi aset dengan Ondo",
-   "x": "Institusi keuangan terbesar di dunia semakin aktif membawa produk mereka ke ranah on-chain. Hal ini menunjukkan percepatan adopsi teknologi blockchain dalam industri keuangan tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/larry-fink-blackrock-decrypt-style-03-gID_7.jpg",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T13:04:06"
   },
   {
    "id": 4388,
@@ -558,24 +558,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T15:36:10"
   },
   {
-   "id": 4573,
+   "id": 4461,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin stabil di $84.000 saat jual obligasi melambat",
+   "t": "Bitcoin merosot ke $83.300 saat imbal hasil obligasi capai level tertinggi sejak 2007",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b0f516e73ceebb41012a702ea6f689387b383dad-1504x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5ade86ac4fe10ad0fc72325b3f7ed097c7a1aaa2-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T07:09:11"
+   "published_at": "2026-09-24T10:30:28"
   },
   {
    "id": 4592,
@@ -586,7 +586,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/suku-bunga-kpr-yield-treasury-bitcoin-crypto",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T05:01:26"
@@ -606,6 +606,20 @@
    "published_at": "2026-09-23T02:10:37"
   },
   {
+   "id": 4608,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "BlackRock perdalam tokenisasi aset dengan Ondo",
+   "x": "Institusi keuangan terbesar di dunia semakin aktif membawa produk mereka ke ranah on-chain. Hal ini menunjukkan percepatan adopsi teknologi blockchain dalam industri keuangan tradisional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/larry-fink-blackrock-decrypt-style-03-gID_7.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T13:04:06"
+  },
+  {
    "id": 4487,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -614,7 +628,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3518SYSJ7A5FP4GPX8VM1S8/hi-what-is-the-significance-of-the-statement-that-cbdc-and-stablecoins-can-co-exist.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T15:57:00"
@@ -634,18 +648,18 @@
    "published_at": "2026-09-23T04:57:07"
   },
   {
-   "id": 4461,
+   "id": 4493,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin merosot ke $83.300 saat imbal hasil obligasi capai level tertinggi sejak 2007",
+   "t": "Bank terbesar Inggris selesaikan transaksi antarbank pertama pakai deposit tokenisasi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5ade86ac4fe10ad0fc72325b3f7ed097c7a1aaa2-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T10:30:28"
+   "published_at": "2026-09-24T15:07:18"
   },
   {
    "id": 4373,
@@ -670,7 +684,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T22:10:09"
@@ -690,18 +704,18 @@
    "published_at": "2026-09-22T21:08:20"
   },
   {
-   "id": 4493,
+   "id": 4613,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bank terbesar Inggris selesaikan transaksi antarbank pertama pakai deposit tokenisasi",
+   "t": "Volatilitas obligasi melonjak, bitcoin dan Wall Street tenang",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/77696cb11ed522d8f5a7bb512cc29ab103a42ee7-1542x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T15:07:18"
+   "published_at": "2026-09-25T11:54:28"
   },
   {
    "id": 4307,
@@ -726,7 +740,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T21:42:51"
@@ -746,18 +760,18 @@
    "published_at": "2026-09-24T10:00:00"
   },
   {
-   "id": 4613,
+   "id": 4440,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Volatilitas obligasi melonjak, bitcoin dan Wall Street tenang",
+   "t": "Dogecoin turun 8%, Bitcoin di bawah US$84.000 seiring imbal hasil obligasi negara capai level tertinggi sejak 2007",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/77696cb11ed522d8f5a7bb512cc29ab103a42ee7-1542x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T11:54:28"
+   "published_at": "2026-09-24T04:13:01"
   },
   {
    "id": 4334,
@@ -802,18 +816,18 @@
    "published_at": "2026-09-23T13:00:00"
   },
   {
-   "id": 4440,
+   "id": 4495,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Dogecoin turun 8%, Bitcoin di bawah US$84.000 seiring imbal hasil obligasi negara capai level tertinggi sejak 2007",
+   "t": "Penerbit stablecoin Eropa Qivalis lihat transformasi keuangan dagang global",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3d9afb44b63713bb3ec5799691370b164e6f4a26-991x557.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T04:13:01"
+   "published_at": "2026-09-24T14:41:05"
   },
   {
    "id": 4308,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T01:52:45"
-  },
-  {
-   "id": 4299,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Potensi AI dorong permintaan kripto 'terabaikan': BlackRock",
-   "x": "BlackRock menilai potensi kecerdasan buatan (AI) dalam mendorong permintaan aset digital, khususnya stablecoin, masih terabaikan. Agen AI dapat menciptakan peluang baru bagi aset digital melalui tokenisasi kapasitas komputasi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M368H3Z8D0XWGWSGQZKMAXQJ/ai-crypto.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T04:33:18"
   }
  ]
 }
