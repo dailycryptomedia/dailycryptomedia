@@ -1,49 +1,21 @@
 {
- "total": 6,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 4233,
+   "id": 4595,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Coinbase tawarkan akses IPO Oura senilai $2,2 miliar ke investor ritel",
-   "x": "Coinbase membuka akses bagi pengguna AS untuk membeli saham IPO Oura senilai $2,2 miliar. Namun, alokasi terbatas dan potensi pembatasan akses di masa depan jika investor keluar terlalu cepat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-pushes-beyond-crypto-with-retail-access-to-2-2-billion-oura-ipo",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/coinbase-ipo-supply-chasm-1.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T11:30:08"
-  },
-  {
-   "id": 4229,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Binance ambil saham Circle senilai $100 juta, sepakati kerja sama USDC lima tahun",
-   "x": "Binance berinvestasi $100 juta di Circle dan memperluas kemitraan untuk mempromosikan stablecoin USDC di platformnya selama lima tahun ke depan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/12/20201218_Circle-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T12:53:52"
-  },
-  {
-   "id": 4215,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Binance ambil saham Circle senilai $100 juta dalam kesepakatan USDC",
-   "x": "Circle menjual saham senilai $100 juta kepada Binance dan menyepakati insentif bulanan. Kemitraan lima tahun ini bertujuan mempromosikan stablecoin USDC.",
+   "t": "CoinMarketCap akuisisi CoinGlass untuk perluas data derivatif",
+   "x": "CoinMarketCap membeli CoinGlass untuk memperkuat data pasar derivatif aset kripto. Akuisisi ini diharapkan meningkatkan penawaran data bagi pengguna.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34EG4VHJABBH8BW3DK0M075/binance-circle.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3C95VNCWEKXAFT14D52K8ZQ/crypto-market-trading2.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-22T12:18:41"
+   "published_at": "2026-09-25T12:44:30"
   },
   {
    "id": 4437,
@@ -68,24 +40,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/nextpredict-logo-gID_7.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T13:01:16"
-  },
-  {
-   "id": 4228,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Animoca Brands tunda rencana IPO, hentikan pembicaraan merger dengan Currenc",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/95fad579f9a3f23d068f54f462e660960ccc4e94-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-22T09:47:15"
   }
  ]
 }
