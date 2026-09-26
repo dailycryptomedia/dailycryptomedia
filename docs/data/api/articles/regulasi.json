@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 30,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-pentagon-blacklist-putusan-pengadilan",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T00:08:02"
@@ -32,6 +32,20 @@
    "published_at": "2026-09-24T17:31:03"
   },
   {
+   "id": 4699,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kalshi kalah banding soal hukum taruhan olahraga Ohio dan Tennessee",
+   "x": "Pengadilan banding federal menolak argumen Kalshi bahwa kontrak acara olahraganya adalah swap di bawah Commodity Exchange Act. Keputusan ini memperjelas perbedaan regulasi antar yurisdiksi di AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-1.png",
+   "a": "15 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T15:17:34"
+  },
+  {
    "id": 4594,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M393217ZWENYSM5H2H2MBNDK/magazine-crypto-taxes.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T13:30:00"
@@ -68,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pasar-prediksi-makin-dipantau-regulator",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T05:30:01"
@@ -82,24 +96,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d1c75b8857f5c36e8d847c43e3dd545814aed4d1-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T22:17:38"
-  },
-  {
-   "id": 4505,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "New York tuntut Polymarket, tuduh operasi judi ilegal",
-   "x": "Otoritas New York menggugat Polymarket atas tuduhan menjalankan operasi judi ilegal. Langkah ini menyoroti pengawasan ketat terhadap platform aset digital yang beroperasi di wilayah hukum AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T16:25:05"
   },
   {
    "id": 4371,
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/moonpay-dicari-broker-utah-berusia-27-tahun",
    "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T13:16:56"
@@ -128,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T20:01:03"
+  },
+  {
+   "id": 4505,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "New York tuntut Polymarket, tuduh operasi judi ilegal",
+   "x": "Otoritas New York menggugat Polymarket atas tuduhan menjalankan operasi judi ilegal. Langkah ini menyoroti pengawasan ketat terhadap platform aset digital yang beroperasi di wilayah hukum AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T16:25:05"
   },
   {
    "id": 4409,
@@ -152,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/secs-hester-peirce-wants-to-end-cryptos-kyc-honeypots-before-stablecoin-rules-create-more-of-them",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/peirce-stablecoin-id.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T13:00:23"
@@ -166,24 +180,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/94e6ebdc0df01fa3450702f6a99a15fd9ae46153-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T12:26:43"
-  },
-  {
-   "id": 4658,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "FAQ SEC bahas buyback token, upgrade jaringan, janji untung",
-   "x": "Staf SEC menyatakan promosi penggunaan jaringan aset digital umumnya tidak menciptakan ekspektasi keuntungan. Klarifikasi ini penting bagi proyek kripto terkait komunikasi pemasaran mereka.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T20:32:40"
   },
   {
    "id": 4684,
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/staked-eth-keamanan-sec-staff-faqs",
    "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T06:25:16"
@@ -214,6 +214,20 @@
    "published_at": "2026-09-23T21:31:03"
   },
   {
+   "id": 4658,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "FAQ SEC bahas buyback token, upgrade jaringan, janji untung",
+   "x": "Staf SEC menyatakan promosi penggunaan jaringan aset digital umumnya tidak menciptakan ekspektasi keuntungan. Klarifikasi ini penting bagi proyek kripto terkait komunikasi pemasaran mereka.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T20:32:40"
+  },
+  {
    "id": 4393,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -228,18 +242,18 @@
    "published_at": "2026-09-23T19:05:14"
   },
   {
-   "id": 4515,
+   "id": 4702,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "BitMEX buka pemulihan dana untuk pelanggan yang sebelumnya diblokir",
-   "x": "Bursa kripto BitMEX kini mengizinkan pelanggan yang sebelumnya diblokir untuk memulihkan dana mereka. Perubahan kebijakan ini memberikan kesempatan bagi pengguna yang terdampak untuk mengakses aset mereka.",
+   "t": "Dana keluar LayerZero capai $15 miliar, gugatan $292 juta uji model keamanan",
+   "x": "Perusahaan di balik KelpDAO menggugat LayerZero Labs terkait peretasan senilai $292 juta, menyoroti kerentanan keamanan protokol. Gugatan ini terjadi di tengah aliran dana keluar yang signifikan dari LayerZero, menimbulkan kekhawatiran bagi pengguna.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitmex-opens-fund-recovery-to-customers-it-previously-barred-from-the-platform",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitmex-locked-exit.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/layerzero-asset-rescue.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T13:30:14"
+   "published_at": "2026-09-26T13:30:11"
   },
   {
    "id": 4656,
@@ -250,24 +264,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:17:30"
-  },
-  {
-   "id": 4476,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pria Brooklyn dihukum 4-12 tahun terkait skema rekayasa sosial Coinbase $16 juta",
-   "x": "Pengadilan menjatuhkan hukuman 4 hingga 12 tahun penjara kepada Ronald Spektor, 23 tahun, atas skema phishing senilai $15,9 juta yang menargetkan pengguna Coinbase. Pelaku menyamar sebagai staf pendukung untuk menguras dana dari akun korban.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/05/scales.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T08:21:32"
   },
   {
    "id": 4538,
@@ -284,6 +284,20 @@
    "published_at": "2026-09-24T17:51:31"
   },
   {
+   "id": 4476,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pria Brooklyn dihukum 4-12 tahun terkait skema rekayasa sosial Coinbase $16 juta",
+   "x": "Pengadilan menjatuhkan hukuman 4 hingga 12 tahun penjara kepada Ronald Spektor, 23 tahun, atas skema phishing senilai $15,9 juta yang menargetkan pengguna Coinbase. Pelaku menyamar sebagai staf pendukung untuk menguras dana dari akun korban.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/05/scales.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T08:21:32"
+  },
+  {
    "id": 4650,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -292,24 +306,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T20:26:40"
   },
   {
-   "id": 4345,
+   "id": 4703,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bank Sentral Eropa kritik aturan MiCA, salahkan stablecoin saat run",
-   "x": "Bank sentral Uni Eropa mengkritik rancangan regulasi MiCA, khususnya terkait uji likuiditas stablecoin. Perubahan aturan ini berpotensi menggeser risiko penarikan dana ke penerbit stablecoin.",
+   "t": "Kalshi harus blokir pengguna negara bagian usai kalah pengadilan",
+   "x": "Pengadilan banding Sixth Circuit memutuskan bahwa Ohio dan Tennessee dapat menerapkan hukum perjudian pada kontrak olahraga Kalshi. Kalshi harus mematuhi regulasi negara bagian, yang mungkin memerlukan pembatasan akses pengguna.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/eu-central-banks-attack-mica-rules-and-stablecoin-runs-are-blamed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/mica-stablecoin-bank-risk.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/kalshi-must-lock-out-state-users-after-major-court-loss",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-state-access-ruling.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-23T08:10:31"
+   "published_at": "2026-09-26T12:30:13"
   },
   {
    "id": 4367,
@@ -320,7 +334,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/4592fcabbae44f472e6b59673d99b0d90f6308f0-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T13:00:00"
@@ -334,10 +348,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:25:35"
+  },
+  {
+   "id": 4691,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kalshi kalah banding, potensi kasus ke Mahkamah Agung",
+   "x": "Pengadilan banding AS menolak argumen Kalshi terkait regulasi kontrak acara olahraga, memihak negara bagian Ohio dan Tennessee. Keputusan ini dapat berujung pada peninjauan oleh Mahkamah Agung AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T13:21:12"
+  },
+  {
+   "id": 4515,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "BitMEX buka pemulihan dana untuk pelanggan yang sebelumnya diblokir",
+   "x": "Bursa kripto BitMEX kini mengizinkan pelanggan yang sebelumnya diblokir untuk memulihkan dana mereka. Perubahan kebijakan ini memberikan kesempatan bagi pengguna yang terdampak untuk mengakses aset mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitmex-opens-fund-recovery-to-customers-it-previously-barred-from-the-platform",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitmex-locked-exit.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T13:30:14"
   },
   {
    "id": 4488,
@@ -348,38 +390,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T15:27:29"
-  },
-  {
-   "id": 4353,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "XRP Ledger coba lagi pembaruan yang pisahkan tugas pembayaran dan kepatuhan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/052f35c2c6aad46cbdd3ec5d8408c614bf907010-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T07:37:46"
-  },
-  {
-   "id": 4321,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Ketua CFTC dorong tokenisasi saat SEC buka pintu untuk saham on-chain",
-   "x": "Ketua CFTC mendorong tokenisasi sebagai cara untuk membentuk kembali pasar keuangan, seiring SEC membuka peluang bagi saham yang diperdagangkan secara on-chain. Inisiatif ini menunjukkan pergeseran menuju integrasi aset digital dan tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-23T10:06:55"
   },
   {
    "id": 4361,
@@ -390,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34K2P2TV319V36C0BE6PVPR/magazine-the-fundamentals-of-token-economics.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T13:30:00"
@@ -404,7 +418,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T09:02:22"
