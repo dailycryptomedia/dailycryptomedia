@@ -1,5 +1,5 @@
 {
- "total": 27,
+ "total": 28,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledakan-tokenisasi-sec-kedaluwarsa",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-23T01:03:45"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M393217ZWENYSM5H2H2MBNDK/magazine-crypto-taxes.jpg",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T13:30:00"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/new-york-sues-polymarket-seeks-triple-gains-and-100000-penalties-over-prediction-markets",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/polymarket-new-york-ban.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T22:50:47"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d1c75b8857f5c36e8d847c43e3dd545814aed4d1-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "17 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T22:17:38"
@@ -88,18 +88,18 @@
    "published_at": "2026-09-24T16:25:05"
   },
   {
-   "id": 4371,
+   "id": 4663,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Mengapa MoonPay Menginginkan Broker Berusia 27 Tahun dari Utah",
-   "x": "MoonPay mengakuisisi North Capital, sebuah broker di Utah yang diam-diam menangani transaksi saham privat sejak 1999. Yang menjadi incaran bukanlah teknologinya, melainkan lisensi sekuritas AS yang selama ini MoonPay…",
+   "t": "Pentagon Menangi Pertarungan Besar di Pengadilan Melawan Anthropic",
+   "x": "Sebuah pengadilan banding federal baru saja memberikan kemenangan besar kepada Pentagon dalam perang yang sedang berlangsung melawan salah satu perusahaan AI terkemuka. Putusan ini bisa mengubah siapa yang mengendalikan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/moonpay-dicari-broker-utah-berusia-27-tahun",
-   "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/anthropic-pentagon-blacklist-putusan-pengadilan",
+   "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
+   "a": "59 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-23T13:16:56"
+   "published_at": "2026-09-26T00:08:02"
   },
   {
    "id": 4535,
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/secs-hester-peirce-wants-to-end-cryptos-kyc-honeypots-before-stablecoin-rules-create-more-of-them",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/peirce-stablecoin-id.webp",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T13:00:23"
@@ -166,10 +166,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T20:32:40"
+  },
+  {
+   "id": 4371,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Mengapa MoonPay Menginginkan Broker Berusia 27 Tahun dari Utah",
+   "x": "MoonPay mengakuisisi North Capital, sebuah broker di Utah yang diam-diam menangani transaksi saham privat sejak 1999. Yang menjadi incaran bukanlah teknologinya, melainkan lisensi sekuritas AS yang selama ini MoonPay…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/moonpay-dicari-broker-utah-berusia-27-tahun",
+   "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-23T13:16:56"
   },
   {
    "id": 4413,
@@ -222,7 +236,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:17:30"
@@ -264,7 +278,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T20:26:40"
@@ -292,7 +306,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T00:00:45"
@@ -306,7 +320,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:25:35"
