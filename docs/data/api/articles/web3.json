@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BM3DN348KFGP7858XFMCWJ/prison.png",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:28:18"
@@ -74,18 +74,18 @@
    "published_at": "2026-09-24T21:20:47"
   },
   {
-   "id": 4491,
+   "id": 4667,
    "k": "web3",
    "cat": "Web3",
-   "t": "Kasino kripto Duelbits offline setelah peretasan hot wallet senilai $7 juta",
+   "t": "Upgrade Batch XRP Ledger Ditunda ke 9 Oktober Akibat Reset Dukungan Validator",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T15:48:20"
+   "published_at": "2026-09-26T04:30:00"
   },
   {
    "id": 4472,
@@ -130,18 +130,18 @@
    "published_at": "2026-09-23T18:01:58"
   },
   {
-   "id": 4631,
+   "id": 4491,
    "k": "web3",
    "cat": "Web3",
-   "t": "Circle dan Tether Bekukan Dompet Peretas Pasca Peretasan Bitget",
+   "t": "Kasino kripto Duelbits offline setelah peretasan hot wallet senilai $7 juta",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T14:41:53"
+   "published_at": "2026-09-24T15:48:20"
   },
   {
    "id": 4406,
@@ -156,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T18:50:05"
+  },
+  {
+   "id": 4631,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Circle dan Tether Bekukan Dompet Peretas Pasca Peretasan Bitget",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T14:41:53"
   }
  ]
 }
