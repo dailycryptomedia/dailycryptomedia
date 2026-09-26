@@ -1,5 +1,5 @@
 {
- "total": 27,
+ "total": 29,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-pentagon-blacklist-putusan-pengadilan",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T00:08:02"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M393217ZWENYSM5H2H2MBNDK/magazine-crypto-taxes.jpg",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T13:30:00"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pasar-prediksi-makin-dipantau-regulator",
    "img": null,
-   "a": "49 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T05:30:01"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d1c75b8857f5c36e8d847c43e3dd545814aed4d1-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T22:17:38"
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/secs-hester-peirce-wants-to-end-cryptos-kyc-honeypots-before-stablecoin-rules-create-more-of-them",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/peirce-stablecoin-id.webp",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T13:00:23"
@@ -180,10 +180,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T20:32:40"
+  },
+  {
+   "id": 4684,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC Klarifikasi Aturan Baru untuk Ethereum yang Di-stake",
+   "x": "Staf SEC menyatakan token liquid staking yang didukung ETH bukan sekuritas jika tetap berupa kuitansi murni. Berikut penjelasannya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/staked-eth-keamanan-sec-staff-faqs",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-26T06:25:16"
   },
   {
    "id": 4413,
@@ -236,7 +250,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:17:30"
@@ -250,7 +264,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/05/scales.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T08:21:32"
@@ -278,7 +292,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T20:26:40"
@@ -292,7 +306,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eu-central-banks-attack-mica-rules-and-stablecoin-runs-are-blamed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/mica-stablecoin-bank-risk.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T08:10:31"
@@ -320,7 +334,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:25:35"
@@ -348,7 +362,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/052f35c2c6aad46cbdd3ec5d8408c614bf907010-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T07:37:46"
@@ -362,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T10:06:55"
@@ -380,6 +394,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-23T13:30:00"
+  },
+  {
+   "id": 4680,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Komisioner SEC Hester Peirce akan tinggalkan jabatannya 2 Oktober",
+   "x": "Hester Peirce, yang dikenal sebagai \"Crypto Mom\", akan mengakhiri masa jabatannya di Komisi Sekuritas dan Bursa Amerika Serikat (SEC) pada 2 Oktober. Ia telah menjabat selama delapan tahun.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T09:02:22"
   }
  ]
 }
