@@ -1,22 +1,8 @@
 {
- "total": 9,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 4478,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Cosmos hentikan jaringan untuk sita $2,2 juta ATOM curian",
-   "x": "Jaringan Cosmos sempat dihentikan untuk mengamankan aset yang dicuri, namun sebagian token masih berhasil lolos. Penghentian ini berdampak pada pengguna lain yang tidak terkait dengan insiden tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cosmos-restarted-to-seize-2-2-million-in-stolen-atom-but-169000-tokens-still-escaped",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cosmos-hub-neutron-halt.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T11:20:49"
-  },
   {
    "id": 4569,
    "k": "web3",
@@ -40,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/french-police-gendarme-decrypt-style-1-scaled-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T13:01:03"
@@ -54,7 +40,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T14:00:00"
@@ -72,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T21:20:47"
-  },
-  {
-   "id": 4472,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Apakah Pengeluaran AI Terlalu Besar atau Ekonomi Bumi yang Terlalu Kecil? Elon Musk Memilih Satu Sisi",
-   "x": "Pengeluaran infrastruktur AI siap mencapai rekor tertinggi. Elon Musk mengatakan ekonomi Bumi sangat kecil dibandingkan dengan ekonomi K2.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengeluaran-infrastruktur-ai-musk-k2-ekonomi",
-   "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-24T07:41:21"
   },
   {
    "id": 4667,
@@ -124,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/fa4127f0e7d39e461c0b46e5ad103a58c4d7cf7f-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T14:41:53"

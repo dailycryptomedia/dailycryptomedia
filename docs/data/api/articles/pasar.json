@@ -1,5 +1,5 @@
 {
- "total": 121,
+ "total": 111,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,6 +60,20 @@
    "published_at": "2026-09-24T23:27:17"
   },
   {
+   "id": 4733,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Vitalik Buterin Petakan Jalan Ethereum Menuju 2030",
+   "x": "Vitalik Buterin memaparkan visi Ethereum yang berkembang melampaui sekadar blockchain. Perubahan ini akan membentuk ekosistem aset digital di masa depan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T14:35:53"
+  },
+  {
    "id": 4645,
    "k": "pasar",
    "cat": "Pasar",
@@ -74,20 +88,6 @@
    "published_at": "2026-09-25T17:46:05"
   },
   {
-   "id": 4619,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Strategy usulkan dividen harian untuk saham preferen",
-   "x": "Strategy meminta persetujuan pemegang saham untuk membayar dividen harian bagi empat saham preferennya yang terdaftar di AS. Langkah ini bertujuan menstabilkan harga saham.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Microstrategy_News.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T13:48:57"
-  },
-  {
    "id": 4612,
    "k": "pasar",
    "cat": "Pasar",
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/1e583cf684e800304cee9ffc173a9c5c677d2aa3-1206x748.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T14:22:07"
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/prediction-market-attention.webp",
-   "a": "10 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T11:00:50"
@@ -158,6 +158,20 @@
    "published_at": "2026-09-24T20:04:07"
   },
   {
+   "id": 4619,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Strategy usulkan dividen harian untuk saham preferen",
+   "x": "Strategy meminta persetujuan pemegang saham untuk membayar dividen harian bagi empat saham preferennya yang terdaftar di AS. Langkah ini bertujuan menstabilkan harga saham.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Microstrategy_News.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T13:48:57"
+  },
+  {
    "id": 4536,
    "k": "pasar",
    "cat": "Pasar",
@@ -170,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T19:16:03"
-  },
-  {
-   "id": 4639,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pria Didakwa dalam Penipuan Kripto 'Pig Butchering' Senilai $16 Juta",
-   "x": "Seorang pria didakwa terlibat dalam skema penipuan aset kripto berskala besar yang dikenal sebagai 'pig butchering'. Korban mengalami kerugian jutaan dolar akibat kecurangan ini.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/image.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T17:48:16"
   },
   {
    "id": 4522,
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-ai-pertemuan-ceo-teknologi-slowdown",
    "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T13:34:58"
@@ -256,6 +256,20 @@
    "published_at": "2026-09-25T17:17:45"
   },
   {
+   "id": 4639,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pria Didakwa dalam Penipuan Kripto 'Pig Butchering' Senilai $16 Juta",
+   "x": "Seorang pria didakwa terlibat dalam skema penipuan aset kripto berskala besar yang dikenal sebagai 'pig butchering'. Korban mengalami kerugian jutaan dolar akibat kecurangan ini.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/image.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T17:48:16"
+  },
+  {
    "id": 4646,
    "k": "pasar",
    "cat": "Pasar",
@@ -268,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T17:08:57"
-  },
-  {
-   "id": 4531,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "ARK Invest bawa dana ventura $1,3 miliar ke onchain lewat Securitize",
-   "x": "ARK Invest membawa dana ventura senilai $1,3 miliar yang berisi investasi pada OpenAI dan Anthropic ke blockchain Ethereum melalui platform Securitize. Langkah ini menandai integrasi aset investasi tradisional ke dalam ekosistem aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/cathie-wood-news.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T18:37:22"
   },
   {
    "id": 4525,
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perang-dingin-as-cina-hotline-ai",
    "img": "https://assets.beincrypto.com/img/X914p550kYU-1SP-iuG8goLQFUQ=/smart/12cef08b9e984ef79fa39eab542ec736",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T14:31:41"
@@ -354,6 +354,20 @@
    "published_at": "2026-09-25T20:37:21"
   },
   {
+   "id": 4531,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ARK Invest bawa dana ventura $1,3 miliar ke onchain lewat Securitize",
+   "x": "ARK Invest membawa dana ventura senilai $1,3 miliar yang berisi investasi pada OpenAI dan Anthropic ke blockchain Ethereum melalui platform Securitize. Langkah ini menandai integrasi aset investasi tradisional ke dalam ekosistem aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/cathie-wood-news.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T18:37:22"
+  },
+  {
    "id": 4537,
    "k": "pasar",
    "cat": "Pasar",
@@ -368,46 +382,32 @@
    "published_at": "2026-09-24T18:31:03"
   },
   {
-   "id": 4659,
+   "id": 4728,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CEO Blockchain Association Summer Mersinger mundur, Kristin Smith kembali jadi CEO sementara",
-   "x": "Summer Mersinger akan mengundurkan diri dari jabatannya sebagai CEO Blockchain Association bulan depan. Kristin Smith akan kembali menjabat sebagai CEO sementara menggantikannya.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T19:48:07"
-  },
-  {
-   "id": 4550,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "New York gugat Polymarket karena dituding jalankan operasi judi ilegal",
+   "t": "Vitalik Buterin Petakan Pergeseran Ethereum Melampaui Blockchain dalam Visi 2030",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2ec97b5f53822d5eb5b0edd48b47b8c5638b7d2b-3059x2115.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T22:41:44"
+   "published_at": "2026-09-27T14:29:13"
   },
   {
-   "id": 4466,
+   "id": 4545,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "5 Lapisan Finansial yang Bisa Mendukung Reli Pasar Bull Kripto Berikutnya",
-   "x": "Pada September 2026, total kapitalisasi pasar aset kripto naik hampir 7%. Beberapa aset utama mencetak harga tertinggi dalam beberapa bulan terakhir. Jadi, apakah kita benar-benar berada di bull market? Dan aset mana…",
+   "t": "Robert Kiyosaki Sebut 3 Frase Ini Bikin Orang Tetap Miskin",
+   "x": "Robert Kiyosaki berpikir bahwa salah satu perbedaan terbesar antara orang kaya dan orang miskin bisa terdengar lewat percakapan sehari-hari. Penulis Rich Dad Poor Dad ini mengatakan bahwa ungkapan seperti “Saya tidak…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bull-market-kripto-baru-lima-lapisan",
-   "img": "https://assets.beincrypto.com/img/79cYWCb9oGv8-5DrTFJ34eLQLBE=/smart/f5737af7bc7647528ce620eedfccb385",
+   "url": "https://id.beincrypto.com/kiyosaki-bahasa-uang-buffett-pajak",
+   "img": "https://assets.beincrypto.com/img/XZcNKA58fLFxw0HUJjzLahxnisE=/smart/6c1fbe6be91b48198ca81dc3f9c85a4d",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-24T11:37:29"
+   "published_at": "2026-09-24T22:36:36"
   },
   {
    "id": 4567,
@@ -452,6 +452,20 @@
    "published_at": "2026-09-24T21:47:17"
   },
   {
+   "id": 4659,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CEO Blockchain Association Summer Mersinger mundur, Kristin Smith kembali jadi CEO sementara",
+   "x": "Summer Mersinger akan mengundurkan diri dari jabatannya sebagai CEO Blockchain Association bulan depan. Kristin Smith akan kembali menjabat sebagai CEO sementara menggantikannya.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T19:48:07"
+  },
+  {
    "id": 4698,
    "k": "pasar",
    "cat": "Pasar",
@@ -460,52 +474,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T13:01:03"
   },
   {
-   "id": 4506,
+   "id": 4550,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ondo luncurkan token portofolio on-chain berbasis strategi BlackRock",
-   "x": "Ondo memperkenalkan token portofolio on-chain yang didasarkan pada strategi investasi BlackRock. Inisiatif ini menandai integrasi strategi keuangan tradisional ke dalam ekosistem aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/01/shutterstock_1324038479-e1781241568546.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T14:27:45"
-  },
-  {
-   "id": 4458,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pria Brooklyn dipenjara 12 tahun karena curi $16 juta dalam skema phishing Coinbase",
+   "t": "New York gugat Polymarket karena dituding jalankan operasi judi ilegal",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/85512523a090701aa858be98ebd5a5387138cf5f-1262x710.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2ec97b5f53822d5eb5b0edd48b47b8c5638b7d2b-3059x2115.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T11:33:57"
+   "published_at": "2026-09-24T22:41:44"
   },
   {
-   "id": 4545,
+   "id": 4588,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Robert Kiyosaki Sebut 3 Frase Ini Bikin Orang Tetap Miskin",
-   "x": "Robert Kiyosaki berpikir bahwa salah satu perbedaan terbesar antara orang kaya dan orang miskin bisa terdengar lewat percakapan sehari-hari. Penulis Rich Dad Poor Dad ini mengatakan bahwa ungkapan seperti “Saya tidak…",
+   "t": "Gedung Putih Ingin Anthropic dan OpenAI untuk Tidak Membagikan Model AI ke Inggris. Mengapa Ada Kerahasiaan?",
+   "x": "Gedung Putih ingin AS melakukan tinjauan terlebih dahulu sebelum OpenAI dan Anthropic membagikan model AI baru mereka kepada penguji di Inggris.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kiyosaki-bahasa-uang-buffett-pajak",
-   "img": "https://assets.beincrypto.com/img/XZcNKA58fLFxw0HUJjzLahxnisE=/smart/6c1fbe6be91b48198ca81dc3f9c85a4d",
+   "url": "https://id.beincrypto.com/akses-model-ai-white-house-inggris",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-24T22:36:36"
+   "published_at": "2026-09-25T07:39:50"
   },
   {
    "id": 4673,
@@ -550,6 +550,20 @@
    "published_at": "2026-09-25T18:56:53"
   },
   {
+   "id": 4506,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ondo luncurkan token portofolio on-chain berbasis strategi BlackRock",
+   "x": "Ondo memperkenalkan token portofolio on-chain yang didasarkan pada strategi investasi BlackRock. Inisiatif ini menandai integrasi strategi keuangan tradisional ke dalam ekosistem aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/01/shutterstock_1324038479-e1781241568546.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T14:27:45"
+  },
+  {
    "id": 4653,
    "k": "pasar",
    "cat": "Pasar",
@@ -562,20 +576,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T19:45:39"
-  },
-  {
-   "id": 4620,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ethena perluas strategi dukungan USDe ke bStocks dan perpetual di Binance",
-   "x": "Ethena menambahkan aset bStocks dan instrumen derivatif perpetual berbasis ekuitas di Binance ke dalam strategi pendukungannya. Langkah ini bertujuan untuk memperkuat basis aset yang menopang stablecoin USDe.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Ethena_News.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T11:00:00"
   },
   {
    "id": 4666,
@@ -592,18 +592,18 @@
    "published_at": "2026-09-26T05:00:00"
   },
   {
-   "id": 4588,
+   "id": 4560,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Gedung Putih Ingin Anthropic dan OpenAI untuk Tidak Membagikan Model AI ke Inggris. Mengapa Ada Kerahasiaan?",
-   "x": "Gedung Putih ingin AS melakukan tinjauan terlebih dahulu sebelum OpenAI dan Anthropic membagikan model AI baru mereka kepada penguji di Inggris.",
+   "t": "Bank Offshore Tether Baru Saja Membekukan Dana: Apakah Ada Risiko untuk USDT?",
+   "x": "Mitra perbankan lepas pantai Tether baru saja membekukan dananya setelah penyitaan oleh AS, sehingga menimbulkan pertanyaan baru tentang risiko terhadap USDT.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/akses-model-ai-white-house-inggris",
-   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "url": "https://id.beincrypto.com/bank-lepas-pantai-tether-bekukan-dana-usdt",
+   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-25T07:39:50"
+   "published_at": "2026-09-25T01:43:42"
   },
   {
    "id": 4715,
@@ -614,7 +614,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/aerodrome-finance-siap-ekspansi-ke-7-blockchain-aero-ikut-menguat",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T03:00:42"
@@ -648,102 +648,18 @@
    "published_at": "2026-09-25T05:06:22"
   },
   {
-   "id": 4482,
+   "id": 4620,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Regulator AS siap percepat aturan kripto CFTC",
-   "x": "Setelah RUU Clarity gagal, Komisi Perdagangan Berjangka Komoditas AS (CFTC) tampaknya bersiap untuk mempercepat penyusunan aturan terkait aset kripto. Hal ini menandakan potensi peningkatan pengawasan regulator.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T11:56:11"
-  },
-  {
-   "id": 4507,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Solana Foundation rekrut veteran Binance, Polygon untuk adopsi institusi",
-   "x": "Solana Foundation menunjuk Rachel Conlan sebagai chief strategy officer dan Jamal Raees dari Polygon Labs sebagai GM of payments. Keduanya direkrut untuk memperkuat adopsi institusional dan pembayaran.",
+   "t": "Ethena perluas strategi dukungan USDe ke bStocks dan perpetual di Binance",
+   "x": "Ethena menambahkan aset bStocks dan instrumen derivatif perpetual berbasis ekuitas di Binance ke dalam strategi pendukungannya. Langkah ini bertujuan untuk memperkuat basis aset yang menopang stablecoin USDe.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4.jpg",
+   "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Ethena_News.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T13:00:00"
-  },
-  {
-   "id": 4459,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Token Litecoin bersinar seiring aktivitas jaringan yang meroket",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bab0cd54de47b38992152938401863652b2f3e95-1280x852.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T11:26:18"
-  },
-  {
-   "id": 4560,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bank Offshore Tether Baru Saja Membekukan Dana: Apakah Ada Risiko untuk USDT?",
-   "x": "Mitra perbankan lepas pantai Tether baru saja membekukan dananya setelah penyitaan oleh AS, sehingga menimbulkan pertanyaan baru tentang risiko terhadap USDT.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bank-lepas-pantai-tether-bekukan-dana-usdt",
-   "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-25T01:43:42"
-  },
-  {
-   "id": 4674,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Baru listing, ini cara trading forex di Binance!",
-   "x": "Binance kini menyediakan akses untuk trading forex, memungkinkan pengguna bertransaksi aset valuta asing. Panduan ini menjelaskan cara melakukan trading forex di platform tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/cara-trading-forex-di-binance",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T03:45:33"
-  },
-  {
-   "id": 4709,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "AS punya alasan $114 miliar untuk pertahankan Tether",
-   "x": "Tether kini menjadi pembeli utama surat utang AS senilai $114 miliar, sebuah perubahan signifikan setelah sebelumnya didenda karena misrepresentasi cadangan. Posisi ini menunjukkan peran penting stablecoin dalam pasar keuangan global.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdt-dollar-distribution.webp",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T16:45:55"
-  },
-  {
-   "id": 4596,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "SlowMist belum konfirmasi pencurian kripto dari serangan iPhone Safari",
-   "x": "Analisis sampel Safari yang menargetkan iOS versi lama menunjukkan potensi kerentanan, namun efektivitasnya pada versi terbaru belum terverifikasi. Hal ini menimbulkan pertanyaan mengenai keamanan aset digital pengguna perangkat Apple.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BTS7FTRRJXR7DWT1DQ8993/hi-browser-for-ios1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T12:19:34"
+   "published_at": "2026-09-25T11:00:00"
   },
   {
    "id": 4654,
@@ -788,6 +704,104 @@
    "published_at": "2026-09-24T22:20:09"
   },
   {
+   "id": 4674,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Baru listing, ini cara trading forex di Binance!",
+   "x": "Binance kini menyediakan akses untuk trading forex, memungkinkan pengguna bertransaksi aset valuta asing. Panduan ini menjelaskan cara melakukan trading forex di platform tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cara-trading-forex-di-binance",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T03:45:33"
+  },
+  {
+   "id": 4709,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "AS punya alasan $114 miliar untuk pertahankan Tether",
+   "x": "Tether kini menjadi pembeli utama surat utang AS senilai $114 miliar, sebuah perubahan signifikan setelah sebelumnya didenda karena misrepresentasi cadangan. Posisi ini menunjukkan peran penting stablecoin dalam pasar keuangan global.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdt-dollar-distribution.webp",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T16:45:55"
+  },
+  {
+   "id": 4596,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "SlowMist belum konfirmasi pencurian kripto dari serangan iPhone Safari",
+   "x": "Analisis sampel Safari yang menargetkan iOS versi lama menunjukkan potensi kerentanan, namun efektivitasnya pada versi terbaru belum terverifikasi. Hal ini menimbulkan pertanyaan mengenai keamanan aset digital pengguna perangkat Apple.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BTS7FTRRJXR7DWT1DQ8993/hi-browser-for-ios1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T12:19:34"
+  },
+  {
+   "id": 4507,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana Foundation rekrut veteran Binance, Polygon untuk adopsi institusi",
+   "x": "Solana Foundation menunjuk Rachel Conlan sebagai chief strategy officer dan Jamal Raees dari Polygon Labs sebagai GM of payments. Keduanya direkrut untuk memperkuat adopsi institusional dan pembayaran.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T13:00:00"
+  },
+  {
+   "id": 4606,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Strategy ingin dividen saham preferen terakumulasi 365 hari",
+   "x": "Saham preferen Strategy akan mengakumulasi dividen setiap hari, termasuk akhir pekan dan hari libur. Kebijakan ini diklaim dapat mengurangi volatilitas harga.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-strategy-saylor-le-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T13:22:00"
+  },
+  {
+   "id": 4552,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitget: $352 juta terdampak peretasan, dana pengguna 'aman'",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T21:59:32"
+  },
+  {
+   "id": 4693,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitcoin ETF Tarik Dana Rekor US$2,39 Miliar: Adakah Permintaan Nyata di Baliknya?",
+   "x": "Aliran masuk ETF Bitcoin mencapai rekor USD2,39 miliar minggu ini. Data tentang pembeli, exchange, dan uji suplai menguji seberapa nyata permintaan tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-etf-catat-rekor-aliran-masuk-permintaan-nyata",
+   "img": "https://assets.beincrypto.com/img/obQMXKpmO-KXbGnhHhVb9TWRuK8=/smart/7b3d6d36cda5466ba111b1bd10808b01",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-26T13:39:28"
+  },
+  {
    "id": 4581,
    "k": "pasar",
    "cat": "Pasar",
@@ -810,7 +824,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tokenized-stock-trading-pause.webp",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T09:01:10"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T00:32:46"
-  },
-  {
-   "id": 4606,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Strategy ingin dividen saham preferen terakumulasi 365 hari",
-   "x": "Saham preferen Strategy akan mengakumulasi dividen setiap hari, termasuk akhir pekan dan hari libur. Kebijakan ini diklaim dapat mengurangi volatilitas harga.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-strategy-saylor-le-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T13:22:00"
   }
  ]
 }
