@@ -1,8 +1,22 @@
 {
- "total": 7,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4742,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pump Fun dilarang rekrut investor Kanada, AMF beri peringatan",
+   "x": "Regulator Kanada, AMF, memperingatkan bahwa platform Pump Fun tidak berwenang untuk merekrut investor di negara tersebut. Hal ini penting bagi investor ritel Indonesia untuk mewaspadai potensi risiko saat berinteraksi dengan platform kripto asing.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/pump-fun-is-not-authorized-to-solicit-some-canadian-investors-amf-warns",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/pumpfun-amf-restriction.webp",
+   "a": "21 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T19:05:26"
+  },
   {
    "id": 4569,
    "k": "web3",
@@ -16,20 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:28:18"
-  },
-  {
-   "id": 4504,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Elliptic gunakan AI untuk bantu polisi lacak dompet kripto dalam hitungan detik",
-   "x": "Elliptic meluncurkan alat berbasis AI untuk membantu penegak hukum melacak dompet kripto dengan cepat. Inovasi ini bertujuan mempermudah investigasi aset digital bagi kepolisian di luar unit spesialis.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/french-police-gendarme-decrypt-style-1-scaled-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T13:01:03"
   },
   {
    "id": 4694,
@@ -72,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T04:30:00"
-  },
-  {
-   "id": 4491,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kasino kripto Duelbits offline setelah peretasan hot wallet senilai $7 juta",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T15:48:20"
   },
   {
    "id": 4631,

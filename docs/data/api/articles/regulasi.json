@@ -1,5 +1,5 @@
 {
- "total": 26,
+ "total": 24,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-09-26T00:08:02"
   },
   {
-   "id": 4498,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Komisioner SEC serukan akhir 'Panopticon' KYC",
-   "x": "Menjelang akhir masa jabatannya, seorang komisioner SEC mengkritik regulasi KYC yang dinilai membahayakan data pengguna aset kripto. Kebocoran data KYC baru-baru ini terekspos, meningkatkan risiko serangan phishing dan fisik bagi pemegang aset kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/hester-peirce-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T17:31:03"
-  },
-  {
    "id": 4699,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -44,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T15:17:34"
+  },
+  {
+   "id": 4535,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Gugatan baru: manusia membaca percakapan ChatGPT Anda",
+   "x": "Sebuah gugatan class action menuduh OpenAI secara diam-diam meneruskan percakapan pengguna ke pihak ketiga. Hal ini dilakukan tanpa pemberitahuan kepada pengguna.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T20:01:03"
   },
   {
    "id": 4594,
@@ -102,46 +102,46 @@
    "published_at": "2026-09-25T22:17:38"
   },
   {
-   "id": 4684,
+   "id": 4739,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC Klarifikasi Aturan Baru untuk Ethereum yang Di-stake",
-   "x": "Staf SEC menyatakan token liquid staking yang didukung ETH bukan sekuritas jika tetap berupa kuitansi murni. Berikut penjelasannya.",
+   "t": "Trump Akan Makan Malam dengan CEO AI yang Diblacklist Pentagon: Apakah Perseteruan Sudah Berakhir?",
+   "x": "Trump menjamu CEO Anthropic, Dario Amodei, malam ini, dua hari setelah pengadilan menguatkan daftar hitam Pentagon terhadap perusahaannya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/staked-eth-keamanan-sec-staff-faqs",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/makan-malam-trump-ceo-anthropic-pentagon-blacklist",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-26T06:25:16"
+   "published_at": "2026-09-27T18:04:31"
   },
   {
-   "id": 4535,
+   "id": 4658,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Gugatan baru: manusia membaca percakapan ChatGPT Anda",
-   "x": "Sebuah gugatan class action menuduh OpenAI secara diam-diam meneruskan percakapan pengguna ke pihak ketiga. Hal ini dilakukan tanpa pemberitahuan kepada pengguna.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T20:01:03"
-  },
-  {
-   "id": 4505,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "New York tuntut Polymarket, tuduh operasi judi ilegal",
-   "x": "Otoritas New York menggugat Polymarket atas tuduhan menjalankan operasi judi ilegal. Langkah ini menyoroti pengawasan ketat terhadap platform aset digital yang beroperasi di wilayah hukum AS.",
+   "t": "FAQ SEC bahas buyback token, upgrade jaringan, janji untung",
+   "x": "Staf SEC menyatakan promosi penggunaan jaringan aset digital umumnya tidak menciptakan ekspektasi keuntungan. Klarifikasi ini penting bagi proyek kripto terkait komunikasi pemasaran mereka.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T16:25:05"
+   "published_at": "2026-09-25T20:32:40"
+  },
+  {
+   "id": 4735,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Staf SEC: Pembelian Kembali Token Tidak Menjadikan Kripto Sekuritas Jika Jaringan Berfungsi",
+   "x": "Panduan baru staf Komisi Sekuritas dan Bursa AS (SEC) menyatakan pembelian kembali token pada jaringan yang berfungsi tidak menjadikan token tersebut sekuritas. Hal ini dapat mempengaruhi klasifikasi aset digital dan kepatuhan regulasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T13:01:03"
   },
   {
    "id": 4650,
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/token-buyback-record.webp",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T20:20:52"
@@ -186,32 +186,32 @@
    "published_at": "2026-09-25T21:17:30"
   },
   {
-   "id": 4735,
+   "id": 4684,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Staf SEC: Pembelian Kembali Token Tidak Menjadikan Kripto Sekuritas Jika Jaringan Berfungsi",
-   "x": "Panduan baru staf Komisi Sekuritas dan Bursa AS (SEC) menyatakan pembelian kembali token pada jaringan yang berfungsi tidak menjadikan token tersebut sekuritas. Hal ini dapat mempengaruhi klasifikasi aset digital dan kepatuhan regulasi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
-   "a": "2 jam lalu",
+   "t": "SEC Klarifikasi Aturan Baru untuk Ethereum yang Di-stake",
+   "x": "Staf SEC menyatakan token liquid staking yang didukung ETH bukan sekuritas jika tetap berupa kuitansi murni. Berikut penjelasannya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/staked-eth-keamanan-sec-staff-faqs",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
+   "a": "kemarin",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T13:01:03"
+   "translated": false,
+   "published_at": "2026-09-26T06:25:16"
   },
   {
-   "id": 4658,
+   "id": 4705,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "FAQ SEC bahas buyback token, upgrade jaringan, janji untung",
-   "x": "Staf SEC menyatakan promosi penggunaan jaringan aset digital umumnya tidak menciptakan ekspektasi keuntungan. Klarifikasi ini penting bagi proyek kripto terkait komunikasi pemasaran mereka.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
+   "t": "Kripto tak lagi tunggu Kongres, kini dekati regulator",
+   "x": "Setelah RUU Kejelasan gagal di Senat AS, regulator seperti SEC, CFTC, dan The Fed mengambil inisiatif merancang aturan kripto sendiri. Langkah ini menunjukkan pergeseran strategi industri aset digital dalam menghadapi regulasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T20:32:40"
+   "published_at": "2026-09-26T16:06:03"
   },
   {
    "id": 4691,
@@ -242,32 +242,32 @@
    "published_at": "2026-09-25T13:00:23"
   },
   {
-   "id": 4705,
+   "id": 4538,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kripto tak lagi tunggu Kongres, kini dekati regulator",
-   "x": "Setelah RUU Kejelasan gagal di Senat AS, regulator seperti SEC, CFTC, dan The Fed mengambil inisiatif merancang aturan kripto sendiri. Langkah ini menunjukkan pergeseran strategi industri aset digital dalam menghadapi regulasi.",
+   "t": "New York ingin larang Polymarket, gugatan sebut 'operasi judi ilegal'",
+   "x": "Jaksa Agung New York menggugat Polymarket, menyebutnya sebagai operasi judi ilegal. Platform pasar prediksi ini dituduh beroperasi tanpa lisensi dan membahayakan warga.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T16:06:03"
-  },
-  {
-   "id": 4488,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "New York gugat Polymarket atas dugaan bisnis judi ilegal",
-   "x": "Pemerintah negara bagian New York mengajukan gugatan terhadap Polymarket terkait dugaan menjalankan bisnis judi ilegal. Tindakan ini menyusul gugatan serupa terhadap perusahaan pasar prediksi lain, menyoroti pengawasan terhadap platform semacam itu.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png",
+   "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T15:27:29"
+   "published_at": "2026-09-24T17:51:31"
+  },
+  {
+   "id": 4719,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Saylor jabarkan ‘piagam hak digital’ untuk bangun kemakmuran ekonomi masa depan",
+   "x": "Michael Saylor mengusulkan 'piagam hak digital' sebagai upaya membangun kemakmuran ekonomi masa depan. Ambisinya adalah memfasilitasi 10 juta perusahaan baru dalam menggalang modal.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T07:18:42"
   },
   {
    "id": 4702,
@@ -282,48 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T13:30:11"
-  },
-  {
-   "id": 4538,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "New York ingin larang Polymarket, gugatan sebut 'operasi judi ilegal'",
-   "x": "Jaksa Agung New York menggugat Polymarket, menyebutnya sebagai operasi judi ilegal. Platform pasar prediksi ini dituduh beroperasi tanpa lisensi dan membahayakan warga.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T17:51:31"
-  },
-  {
-   "id": 4719,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Saylor jabarkan ‘piagam hak digital’ untuk bangun kemakmuran ekonomi masa depan",
-   "x": "Michael Saylor mengusulkan 'piagam hak digital' sebagai upaya membangun kemakmuran ekonomi masa depan. Ambisinya adalah memfasilitasi 10 juta perusahaan baru dalam menggalang modal.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T07:18:42"
-  },
-  {
-   "id": 4703,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kalshi harus blokir pengguna negara bagian usai kalah pengadilan",
-   "x": "Pengadilan banding Sixth Circuit memutuskan bahwa Ohio dan Tennessee dapat menerapkan hukum perjudian pada kontrak olahraga Kalshi. Kalshi harus mematuhi regulasi negara bagian, yang mungkin memerlukan pembatasan akses pengguna.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kalshi-must-lock-out-state-users-after-major-court-loss",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-state-access-ruling.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T12:30:13"
   },
   {
    "id": 4652,
@@ -354,18 +312,32 @@
    "published_at": "2026-09-26T09:02:22"
   },
   {
-   "id": 4515,
+   "id": 4703,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "BitMEX buka pemulihan dana untuk pelanggan yang sebelumnya diblokir",
-   "x": "Bursa kripto BitMEX kini mengizinkan pelanggan yang sebelumnya diblokir untuk memulihkan dana mereka. Perubahan kebijakan ini memberikan kesempatan bagi pengguna yang terdampak untuk mengakses aset mereka.",
+   "t": "Kalshi harus blokir pengguna negara bagian usai kalah pengadilan",
+   "x": "Pengadilan banding Sixth Circuit memutuskan bahwa Ohio dan Tennessee dapat menerapkan hukum perjudian pada kontrak olahraga Kalshi. Kalshi harus mematuhi regulasi negara bagian, yang mungkin memerlukan pembatasan akses pengguna.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitmex-opens-fund-recovery-to-customers-it-previously-barred-from-the-platform",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitmex-locked-exit.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/kalshi-must-lock-out-state-users-after-major-court-loss",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-state-access-ruling.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-24T13:30:14"
+   "published_at": "2026-09-26T12:30:13"
+  },
+  {
+   "id": 4745,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Staking token ETH berisiko, staf SEC soroti risiko keluar",
+   "x": "Staf SEC menyoroti risiko yang melekat pada token staking ETH, termasuk kesulitan dalam menarik kembali aset. Hal ini relevan bagi investor Indonesia yang mempertimbangkan staking sebagai strategi imbal hasil aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/staking-token-risk-balance.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T16:00:54"
   }
  ]
 }
