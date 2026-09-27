@@ -1,5 +1,5 @@
 {
- "total": 47,
+ "total": 46,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saylor-bitcoin-bank-100-triliun",
    "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T21:23:28"
-  },
-  {
-   "id": 4426,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas pulihkan 52 Bitcoin dari eksploitasi Coldcard, portal baru cek kelayakan korban",
-   "x": "Peretas berhasil mengembalikan 52 Bitcoin yang dicuri dari eksploitasi dompet Coldcard. Korban kini dapat memeriksa kelayakan mereka untuk mendapatkan kembali aset melalui portal publik yang baru diluncurkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/coldcard-whitehat-rescue.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T01:10:28"
   },
   {
    "id": 4486,
@@ -46,6 +32,20 @@
    "published_at": "2026-09-24T17:13:38"
   },
   {
+   "id": 4477,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "AI identifikasi eksploitasi Liquid senilai $320 juta dalam satu jam",
+   "x": "Kecerdasan buatan berhasil mendeteksi kerentanan yang dieksploitasi pada bursa Liquid senilai $320 juta. Hal ini menimbulkan pertanyaan apakah pembatasan nilai transaksi dapat mencegah insiden serupa di masa depan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/alpen-says-ai-diagnosed-liquids-320-million-exploit-in-an-hour-could-a-payout-limit-have-stopped-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/reserve-access-card.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T12:20:10"
+  },
+  {
    "id": 4697,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T15:01:05"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T17:24:12"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/631d76c20667ca4a1c610d2007c676c073cc1346-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T05:24:56"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/whale-bitcoin-panen-cuan-us356-juta-cair-dalam-sehari",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T02:30:34"
@@ -116,20 +116,6 @@
    "published_at": "2026-09-24T22:55:09"
   },
   {
-   "id": 4477,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "AI identifikasi eksploitasi Liquid senilai $320 juta dalam satu jam",
-   "x": "Kecerdasan buatan berhasil mendeteksi kerentanan yang dieksploitasi pada bursa Liquid senilai $320 juta. Hal ini menimbulkan pertanyaan apakah pembatasan nilai transaksi dapat mencegah insiden serupa di masa depan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/alpen-says-ai-diagnosed-liquids-320-million-exploit-in-an-hour-could-a-payout-limit-have-stopped-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/reserve-access-card.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T12:20:10"
-  },
-  {
    "id": 4428,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -138,10 +124,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38W53G3D9PCVSK370XGZSNS/quantum-chip.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T04:52:40"
+  },
+  {
+   "id": 4622,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin hadapi uji inflasi baru seiring rekor harga solar",
+   "x": "Harga solar mencapai rekor nominal baru, menambah tekanan pada biaya pengiriman. Hal ini berpotensi memengaruhi inflasi dan menjadi tantangan bagi Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-faces-a-new-inflation-test-after-diesel-hits-a-nominal-6-53-record",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/diesel-freight-bitcoin-risk.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T14:00:08"
   },
   {
    "id": 4500,
@@ -194,7 +194,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/michael-saylor-comeback",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T03:35:12"
@@ -214,20 +214,6 @@
    "published_at": "2026-09-24T11:23:48"
   },
   {
-   "id": 4622,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin hadapi uji inflasi baru seiring rekor harga solar",
-   "x": "Harga solar mencapai rekor nominal baru, menambah tekanan pada biaya pengiriman. Hal ini berpotensi memengaruhi inflasi dan menjadi tantangan bagi Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-new-inflation-test-after-diesel-hits-a-nominal-6-53-record",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/diesel-freight-bitcoin-risk.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T14:00:08"
-  },
-  {
    "id": 4453,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -242,6 +228,20 @@
    "published_at": "2026-09-24T09:32:44"
   },
   {
+   "id": 4563,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peneliti Bitcoin targetkan koin privasi dengan transfer terenkripsi ala Zcash",
+   "x": "Peneliti mengusulkan sistem transfer privat langsung di jaringan Bitcoin tanpa perlu perubahan aturan konsensus. Inisiatif ini berpotensi meningkatkan privasi transaksi aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-researchers-target-privacy-coins-with-zcash-style-shielded-transfers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/shielded-bitcoin-standard-image-v3.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T02:10:32"
+  },
+  {
    "id": 4704,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -250,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-02-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T17:01:03"
@@ -278,7 +278,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kontrak-bitcoin-dan-eth-senilai-rp320-triliun-segera-kedaluwarsa",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T03:11:25"
@@ -292,24 +292,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-tolak-gencatan-senjata-iran-bombardir-pemilu-tengah",
    "img": "https://assets.beincrypto.com/img/n-xMCsIG5a0k8IGWr9URnx3gMF0=/smart/40c476ce8af94a22a05a208a7d111951",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T09:52:55"
-  },
-  {
-   "id": 4563,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peneliti Bitcoin targetkan koin privasi dengan transfer terenkripsi ala Zcash",
-   "x": "Peneliti mengusulkan sistem transfer privat langsung di jaringan Bitcoin tanpa perlu perubahan aturan konsensus. Inisiatif ini berpotensi meningkatkan privasi transaksi aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-researchers-target-privacy-coins-with-zcash-style-shielded-transfers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/shielded-bitcoin-standard-image-v3.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T02:10:32"
   },
   {
    "id": 4557,
@@ -320,10 +306,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agent-for-crypto-trading-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T02:00:54"
+  },
+  {
+   "id": 4641,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Proposal Dividen Harian Strategy Kembalikan Dana Bitcoin ke Investor",
+   "x": "Proposal baru dari Strategy memungkinkan investor menerima dividen harian dari saham pilihan, yang berpotensi meningkatkan likuiditas dana. Keberhasilan proposal ini bergantung pada respons pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/strategys-daily-dividend-proposal-puts-bitcoin-funding-back-in-investors-hands",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/strategy-preferred-share-funding.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T17:00:30"
   },
   {
    "id": 4609,
@@ -348,7 +348,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T04:02:13"
@@ -382,20 +382,6 @@
    "published_at": "2026-09-25T12:40:31"
   },
   {
-   "id": 4641,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Proposal Dividen Harian Strategy Kembalikan Dana Bitcoin ke Investor",
-   "x": "Proposal baru dari Strategy memungkinkan investor menerima dividen harian dari saham pilihan, yang berpotensi meningkatkan likuiditas dana. Keberhasilan proposal ini bergantung pada respons pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategys-daily-dividend-proposal-puts-bitcoin-funding-back-in-investors-hands",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/strategy-preferred-share-funding.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T17:00:30"
-  },
-  {
    "id": 4568,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -408,6 +394,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:41:36"
+  },
+  {
+   "id": 4513,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pinjaman Bitcoin bunga tetap Coinbase berisiko kolateral sehat pasca jatuh tempo",
+   "x": "Saldo pinjaman yang belum dibayar dapat menyebabkan posisi likuidasi meskipun harga Bitcoin tidak turun. Hal ini menyoroti risiko yang dihadapi peminjam aset kripto, bahkan ketika pasar sedang stabil.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coinbases-fixed-rate-bitcoin-loans-can-put-healthy-collateral-at-risk-after-maturity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fixed-rate-loan-liquidation.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-24T15:30:59"
   },
   {
    "id": 4648,
@@ -452,20 +452,6 @@
    "published_at": "2026-09-25T06:55:07"
   },
   {
-   "id": 4513,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pinjaman Bitcoin bunga tetap Coinbase berisiko kolateral sehat pasca jatuh tempo",
-   "x": "Saldo pinjaman yang belum dibayar dapat menyebabkan posisi likuidasi meskipun harga Bitcoin tidak turun. Hal ini menyoroti risiko yang dihadapi peminjam aset kripto, bahkan ketika pasar sedang stabil.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbases-fixed-rate-bitcoin-loans-can-put-healthy-collateral-at-risk-after-maturity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fixed-rate-loan-liquidation.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T15:30:59"
-  },
-  {
    "id": 4571,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -474,10 +460,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T04:41:06"
+  },
+  {
+   "id": 4665,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Whale Bitcoin tak aktif gerakkan $380 juta, pertanyaan penjualan belum terjawab",
+   "x": "Alamat Bitcoin yang tidak aktif sejak April 2022 memindahkan dana senilai $380 juta. Pergerakan dana ini menimbulkan spekulasi mengenai apakah whale tersebut akan menjual asetnya atau tidak.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-transfer-door.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T22:50:32"
   },
   {
    "id": 4611,
@@ -522,20 +522,6 @@
    "published_at": "2026-09-24T09:33:23"
   },
   {
-   "id": 4665,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Whale Bitcoin tak aktif gerakkan $380 juta, pertanyaan penjualan belum terjawab",
-   "x": "Alamat Bitcoin yang tidak aktif sejak April 2022 memindahkan dana senilai $380 juta. Pergerakan dana ini menimbulkan spekulasi mengenai apakah whale tersebut akan menjual asetnya atau tidak.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-transfer-door.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T22:50:32"
-  },
-  {
    "id": 4454,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -548,6 +534,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-24T09:18:16"
+  },
+  {
+   "id": 4686,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Postingan Bitcoin di X bisa menghasilkan uang meski Bitcoin tidak",
+   "x": "Platform X menuntut pengembalian dana sebesar £207.384 dari pengguna yang dianggap menyalahgunakan fitur postingan terkait Bitcoin. Hal ini menunjukkan potensi monetisasi konten kripto di media sosial.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-post-payouts.webp",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T09:05:19"
   },
   {
    "id": 4614,
@@ -578,18 +578,18 @@
    "published_at": "2026-09-25T10:29:48"
   },
   {
-   "id": 4686,
+   "id": 4564,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Postingan Bitcoin di X bisa menghasilkan uang meski Bitcoin tidak",
-   "x": "Platform X menuntut pengembalian dana sebesar £207.384 dari pengguna yang dianggap menyalahgunakan fitur postingan terkait Bitcoin. Hal ini menunjukkan potensi monetisasi konten kripto di media sosial.",
+   "t": "Lightning Labs ungkap bug kritis pada penagihan yang dibatalkan",
+   "x": "Lightning Labs mengumumkan adanya kerentanan pada perangkat lunak lama yang dapat menyebabkan pesanan dibatalkan tetap terbayar. Perbaikan telah dirilis untuk mengatasi masalah ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-post-payouts.webp",
-   "a": "15 jam lalu",
+   "url": "https://cryptoslate.com/lightning-labs-discloses-critical-bug-marking-canceled-invoices-paid-risking-free-product-delivery",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_4Wzl2NnAaB.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-26T09:05:19"
+   "published_at": "2026-09-25T00:40:46"
   },
   {
    "id": 4615,
@@ -606,18 +606,18 @@
    "published_at": "2026-09-25T09:59:45"
   },
   {
-   "id": 4564,
+   "id": 4480,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Lightning Labs ungkap bug kritis pada penagihan yang dibatalkan",
-   "x": "Lightning Labs mengumumkan adanya kerentanan pada perangkat lunak lama yang dapat menyebabkan pesanan dibatalkan tetap terbayar. Perbaikan telah dirilis untuk mengatasi masalah ini.",
+   "t": "Imbal hasil riil AS yang menanjak paksa Bitcoin di bawah $84.000",
+   "x": "Kenaikan imbal hasil obligasi negara AS menekan harga Bitcoin. Investor kembali menilai ulang suku bunga setelah data ekonomi AS yang lebih kuat dari perkiraan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lightning-labs-discloses-critical-bug-marking-canceled-invoices-paid-risking-free-product-delivery",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_4Wzl2NnAaB.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rates-ravine.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T00:40:46"
+   "published_at": "2026-09-24T08:59:51"
   },
   {
    "id": 4616,
@@ -632,20 +632,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T09:13:01"
-  },
-  {
-   "id": 4480,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Imbal hasil riil AS yang menanjak paksa Bitcoin di bawah $84.000",
-   "x": "Kenaikan imbal hasil obligasi negara AS menekan harga Bitcoin. Investor kembali menilai ulang suku bunga setelah data ekonomi AS yang lebih kuat dari perkiraan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-rates-ravine.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-24T08:59:51"
   },
   {
    "id": 4643,
