@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 27,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/quant-qnt-rally-deal-clearing-house",
    "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T06:02:06"
@@ -32,20 +32,6 @@
    "published_at": "2026-09-26T15:30:10"
   },
   {
-   "id": 4644,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Circle dan Tether Bekukan Stablecoin Terkait Peretasan Bitget, Dana Hilang",
-   "x": "Penerbit stablecoin membekukan aset senilai $318.000 terkait peretasan Bitget. Namun, penyerang berhasil menukar sebagian besar dana ke ETH yang tidak dapat dibekukan sebelum tindakan dilakukan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T18:42:51"
-  },
-  {
    "id": 4671,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -60,18 +46,46 @@
    "published_at": "2026-09-26T06:00:47"
   },
   {
-   "id": 4629,
+   "id": 4850,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Strategy Ajukan Persetujuan Pemegang Saham untuk Dividen Saham Pilihan Harian",
-   "x": "Strategy mengusulkan pembayaran dividen harian untuk saham pilihan mereka, mengikuti jejak perusahaan treasury Bitcoin Strive. Langkah ini bertujuan memberikan imbal hasil lebih sering kepada investor.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CNP9TAS87YZRJ48GX2N99M/hi-strategyb.png",
-   "a": "2 hari lalu",
+   "t": "Klien Citi Bisa Terima Pembayaran Stablecoin via Coinbase Tanpa Sentuh Kripto",
+   "x": "Coinbase dan Citi memperluas kerja sama agar klien institusi Citi dapat menerima pembayaran stablecoin. Ini mempermudah adopsi aset digital bagi korporasi besar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg",
+   "a": "54 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T16:34:16"
+   "published_at": "2026-09-28T20:36:03"
+  },
+  {
+   "id": 4835,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bybit terima dana tokenisasi Franklin Templeton sebagai agunan perdagangan",
+   "x": "Bursa kripto Bybit kini menerima dana tokenisasi dari Franklin Templeton sebagai agunan untuk mendapatkan pinjaman stablecoin. Ini memungkinkan institusi mengelola aset mereka di luar bursa sambil memanfaatkan dana tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MHTAW6FCEWPFXPKAW8DJG3/crypto-with-money.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T18:02:54"
+  },
+  {
+   "id": 4845,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Laporan Senat AS: USDT jadi pusat jaringan perbankan bayangan Iran",
+   "x": "Sebuah laporan investigasi Senat Amerika Serikat mengungkapkan bahwa stablecoin Tether (USDT) telah menjadi komponen vital dalam sistem perbankan bayangan Iran. Hal ini menimbulkan kekhawatiran mengenai potensi penyalahgunaan aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/04/20240429_Tether_News_3.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T19:10:42"
   },
   {
    "id": 4695,
@@ -96,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cathie-wood-ark-venture-fund-onchain",
    "img": "https://assets.beincrypto.com/img/mCW_928xoQWX2I4rScOVDr6O2KE=/smart/260febef48534e6589c9ebfe1b50e352",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T19:27:57"
@@ -130,32 +144,32 @@
    "published_at": "2026-09-27T02:30:16"
   },
   {
-   "id": 4630,
+   "id": 4846,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bisnis Kripto: Wall Street dan Kripto Berebut Wilayah Sama",
-   "x": "Stablecoin dan aset yang ditokenisasi mendorong bank, bursa, dan perusahaan kripto ke pasar yang sama, mulai dari pembayaran hingga saham dan ETF. Hal ini menandakan persaingan yang semakin ketat di sektor keuangan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CM3GXTXZWWRNTY7Y5MXRMC/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg",
-   "a": "2 hari lalu",
+   "t": "Citi perluas kemitraan Coinbase untuk pembayaran stablecoin bisnis",
+   "x": "Coinbase memperluas kerja sama dengan Citi untuk menyediakan infrastruktur pembayaran bagi bisnis. Kemitraan ini akan menghubungkan sistem pembayaran fiat tradisional dengan penggunaan stablecoin.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/05/20200501_Citigroup_Custody-Daily.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T15:49:34"
+   "published_at": "2026-09-28T17:22:06"
   },
   {
-   "id": 4632,
+   "id": 4842,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Tokenisasi Bergerak Lebih Cepat dari Washington",
+   "t": "Goldman Sachs bawa dana obligasi negara $100 miliar ke infrastruktur kripto institusi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/795133dffb990742b929b07d85a82856f0623e6f-7000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T14:37:32"
+   "published_at": "2026-09-28T18:00:00"
   },
   {
    "id": 4808,
@@ -166,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/citi-coinbase-stablecoin-checkout-pembayaran",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T13:23:35"
@@ -180,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-supermarket-run.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T17:55:58"
@@ -194,7 +208,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/citi-tokenisasi-bukan-lagi-eksperimen-adopsi-institusi-mulai-nyata",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T07:00:25"
@@ -208,7 +222,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ad2bfefb79599f5b40634c14c22a9a628a33a13f-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T11:00:00"
@@ -222,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/as-khawatir-yen-jepang-pasar-obligasi",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T11:39:04"
@@ -236,24 +250,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-yield-wave-2.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T21:10:07"
   },
   {
-   "id": 4797,
+   "id": 4843,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin kembali ke $83.000 saat imbal hasil obligasi melonjak",
+   "t": "Demam restaking berakhir, protokol teratas nyaris tak untung",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ce4744fdedbd09f37ca71dcf7ba3798cd88e1c99-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7eaf553e8abf889a62ef0301a3a12b6d6e1ddce6-4498x3000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-28T10:02:37"
+   "published_at": "2026-09-28T16:24:51"
   },
   {
    "id": 4769,
@@ -264,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blackrock-cio-obligasi-lebih-dari-saham-im-bal-hasil",
    "img": "https://assets.beincrypto.com/img/_a1F-mSslcIgtwvjRvekqXvl4UA=/smart/5aaf09f0a00a4a428dc44c73285d8d85",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T02:00:00"
@@ -278,10 +292,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cosmos-intercepts-1-23-million-stolen-atom-but-refunds-now-wait-on-governance-vote",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cosmos-atom-vote.webp",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T18:00:39"
+  },
+  {
+   "id": 4797,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin kembali ke $83.000 saat imbal hasil obligasi melonjak",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ce4744fdedbd09f37ca71dcf7ba3798cd88e1c99-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T10:02:37"
   },
   {
    "id": 4737,
@@ -312,6 +340,20 @@
    "published_at": "2026-09-26T13:35:46"
   },
   {
+   "id": 4859,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Brasil wajibkan pelaporan aset kripto senilai $10.000 untuk penyimpanan mandiri",
+   "x": "Bank sentral Brasil mewajibkan institusi melaporkan transfer aset kripto ke dompet pribadi yang melebihi ambang batas $10.000. Aturan ini berlaku untuk pasar aset digital Brasil yang bernilai $252 miliar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/brazils-252-billion-crypto-market-gets-10000-self-custody-reporting-rule",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brazil-crypto-reporting-rule.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T18:30:37"
+  },
+  {
    "id": 4687,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -334,7 +376,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-202-billion-u-s-treasury-settlement-hits-september-30-and-it-could-trigger-a-surprise-move-in-bitcoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-repo-liquidity-vortex.webp",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T01:15:14"
