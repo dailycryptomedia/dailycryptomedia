@@ -1,8 +1,22 @@
 {
- "total": 28,
+ "total": 30,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4761,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Mengapa Quant (QNT) Naik 322%? JPMorgan, Citi, dan Barclays Punya Jawabannya",
+   "x": "Quant (QNT) naik 322% selama sepekan terakhir hingga mencapai US$257,69. Selain itu, harganya meningkat 52% dalam 24 jam, sehingga masuk daftar altcoin top gainer harian. Kenaikan ini terjadi setelah dua pengumuman pada…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/quant-qnt-rally-deal-clearing-house",
+   "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-28T06:02:06"
+  },
   {
    "id": 4700,
    "k": "tokenisasi",
@@ -16,20 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T15:30:10"
-  },
-  {
-   "id": 4559,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Apakah Tembaga Menjadi Emas Baru? Rekor Tertinggi Membuatnya Melampaui Emas Batangan pada 2026",
-   "x": "Rekor tertinggi tembaga pada 2026 makin mendekati emas, seiring logam tersebut reli 20% sementara emas batangan diperdagangkan sideways tahun ini.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/apakah-tembaga-adalah-emas-baru-2026",
-   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-25T01:49:16"
   },
   {
    "id": 4644,
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/stablecoin-as-makin-mirip-bank-the-fed-siapkan-regulasi-baru",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T06:00:47"
@@ -96,24 +96,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b0f516e73ceebb41012a702ea6f689387b383dad-1504x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:09:11"
-  },
-  {
-   "id": 4664,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "IBM hubungkan 17 bank ke ledger SWIFT, risiko cloud tetap ada",
-   "x": "IBM mengintegrasikan 17 bank ke dalam ledger SWIFT menggunakan adapter ISO 20022 untuk instruksi tokenisasi deposit. Namun, risiko keamanan terkait penggunaan cloud masih menjadi perhatian utama.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tokenized-deposit-harbor.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T00:40:46"
   },
   {
    "id": 4711,
@@ -128,6 +114,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-26T19:27:57"
+  },
+  {
+   "id": 4664,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "IBM hubungkan 17 bank ke ledger SWIFT, risiko cloud tetap ada",
+   "x": "IBM mengintegrasikan 17 bank ke dalam ledger SWIFT menggunakan adapter ISO 20022 untuk instruksi tokenisasi deposit. Namun, risiko keamanan terkait penggunaan cloud masih menjadi perhatian utama.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tokenized-deposit-harbor.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-26T00:40:46"
   },
   {
    "id": 4608,
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/17-bank-uji-deposit-tokenisasi-di-blockchain-swift-era-baru-dimulai",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:00:49"
@@ -186,6 +186,20 @@
    "published_at": "2026-09-26T13:00:00"
   },
   {
+   "id": 4590,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Beli Koin atau Saham Treasury Aset Kripto? DWF Ventures Punya Jawaban",
+   "x": "Hanya 4 dari 20 saham treasury kripto teratas yang diperdagangkan di atas nilai kepemilikan mereka, temuan DWF Ventures. Perusahaan tersebut juga menemukan bahwa sebagian besar treasury teratas kinerjanya tertinggal…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/saham-crypto-treasury-tertinggal-dari-token-dwf",
+   "img": "https://assets.beincrypto.com/img/obQMXKpmO-KXbGnhHhVb9TWRuK8=/smart/7b3d6d36cda5466ba111b1bd10808b01",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-25T06:11:30"
+  },
+  {
    "id": 4708,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -200,20 +214,6 @@
    "published_at": "2026-09-26T17:55:58"
   },
   {
-   "id": 4590,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Beli Koin atau Saham Treasury Aset Kripto? DWF Ventures Punya Jawaban",
-   "x": "Hanya 4 dari 20 saham treasury kripto teratas yang diperdagangkan di atas nilai kepemilikan mereka, temuan DWF Ventures. Perusahaan tersebut juga menemukan bahwa sebagian besar treasury teratas kinerjanya tertinggal…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-crypto-treasury-tertinggal-dari-token-dwf",
-   "img": "https://assets.beincrypto.com/img/obQMXKpmO-KXbGnhHhVb9TWRuK8=/smart/7b3d6d36cda5466ba111b1bd10808b01",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-25T06:11:30"
-  },
-  {
    "id": 4716,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -222,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/stablecoin-masuk-infrastruktur-bantuan-pbb-wfp-siapkan-uji-coba-tiga-tahun",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T02:30:16"
@@ -256,20 +256,6 @@
    "published_at": "2026-09-25T11:54:28"
   },
   {
-   "id": 4661,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin bertahan dari lonjakan imbal hasil obligasi AS 5,2%",
-   "x": "Bitcoin bertahan di kisaran $84.000 meskipun imbal hasil obligasi AS melonjak ke level tertinggi dalam beberapa dekade. Kenaikan biaya pinjaman ini berpotensi memengaruhi likuiditas pasar aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-yield-wave-2.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T21:10:07"
-  },
-  {
    "id": 4601,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -284,6 +270,20 @@
    "published_at": "2026-09-25T13:00:00"
   },
   {
+   "id": 4661,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin bertahan dari lonjakan imbal hasil obligasi AS 5,2%",
+   "x": "Bitcoin bertahan di kisaran $84.000 meskipun imbal hasil obligasi AS melonjak ke level tertinggi dalam beberapa dekade. Kenaikan biaya pinjaman ini berpotensi memengaruhi likuiditas pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-yield-wave-2.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T21:10:07"
+  },
+  {
    "id": 4585,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -292,7 +292,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-bakal-dipekerjakan-evernorth-siapkan-cadangan-aktif-jelang-nasdaq",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T03:00:08"
@@ -312,20 +312,6 @@
    "published_at": "2026-09-25T14:37:32"
   },
   {
-   "id": 4743,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Cosmos amankan 1,23 juta ATOM curian, pengembalian dana tunggu voting tata kelola",
-   "x": "Cosmos berhasil mengamankan aset ATOM yang dicuri, namun pengembalian dana kepada pemilik sah kini bergantung pada persetujuan melalui mekanisme tata kelola. Ini menunjukkan pentingnya tata kelola terdesentralisasi dalam penyelesaian insiden keamanan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cosmos-intercepts-1-23-million-stolen-atom-but-refunds-now-wait-on-governance-vote",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cosmos-atom-vote.webp",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T18:00:39"
-  },
-  {
    "id": 4592,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -334,10 +320,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/suku-bunga-kpr-yield-treasury-bitcoin-crypto",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T05:01:26"
+  },
+  {
+   "id": 4743,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Cosmos amankan 1,23 juta ATOM curian, pengembalian dana tunggu voting tata kelola",
+   "x": "Cosmos berhasil mengamankan aset ATOM yang dicuri, namun pengembalian dana kepada pemilik sah kini bergantung pada persetujuan melalui mekanisme tata kelola. Ini menunjukkan pentingnya tata kelola terdesentralisasi dalam penyelesaian insiden keamanan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cosmos-intercepts-1-23-million-stolen-atom-but-refunds-now-wait-on-governance-vote",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/cosmos-atom-vote.webp",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T18:00:39"
+  },
+  {
+   "id": 4769,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "BlackRock CIO Dump Saham untuk Obligasi Grade Tinggi. Ini Alasannya",
+   "x": "Rick Rieder dari BlackRock memangkas saham untuk obligasi 7% karena imbal hasil Treasury 10 tahun melampaui 5%. Simak alasannya dan berapa biaya kenaikan suku bunga The Fed.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/blackrock-cio-obligasi-lebih-dari-saham-im-bal-hasil",
+   "img": "https://assets.beincrypto.com/img/_a1F-mSslcIgtwvjRvekqXvl4UA=/smart/5aaf09f0a00a4a428dc44c73285d8d85",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-28T02:00:00"
   },
   {
    "id": 4737,
@@ -348,7 +362,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/visas-stablecoin-reset-cuts-measured-value-while-transfer-counts-barely-move",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/visa-refined-filter-stream.webp",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T14:00:34"
@@ -362,7 +376,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/securitize-saham-melambung-tokenisasi-sec",
    "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T03:42:49"
@@ -394,6 +408,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T07:30:29"
+  },
+  {
+   "id": 4775,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Penyelesaian obligasi negara AS US$202 miliar bisa picu pergerakan Bitcoin",
+   "x": "Penyelesaian utang obligasi negara AS senilai US$202 miliar pada 30 September berpotensi memicu pergerakan tak terduga pada Bitcoin. Likuiditas pasar keuangan tradisional dapat memengaruhi aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-202-billion-u-s-treasury-settlement-hits-september-30-and-it-could-trigger-a-surprise-move-in-bitcoin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-repo-liquidity-vortex.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T01:15:14"
   }
  ]
 }

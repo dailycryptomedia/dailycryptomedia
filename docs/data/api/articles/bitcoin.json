@@ -1,5 +1,5 @@
 {
- "total": 34,
+ "total": 33,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -68,10 +68,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K9S7MJRE0V8KP0S1ZAM6/hi-eu-vote-on-bitcoin-mining-ai-1.png",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T09:57:19"
+  },
+  {
+   "id": 4777,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin tembus US$84 ribu, Glassnode lihat peluang ke US$96.700",
+   "x": "Harga Bitcoin melampaui US$84 ribu, dengan potensi kenaikan lebih lanjut jika level krusial terjaga. Analis Glassnode memproyeksikan target US$96.700.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-bitcoin-hari-ini-tembus-us84-ribu-glassnode-gerbang-us96-700-mulai-terbuka",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T03:00:48"
   },
   {
    "id": 4668,
@@ -82,24 +96,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T04:02:13"
-  },
-  {
-   "id": 4582,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Michael Saylor kembali? Transaksi Bitcoinnya jadi sorotan",
-   "x": "Transaksi Bitcoin Michael Saylor kembali menarik perhatian publik. Hal ini memicu spekulasi mengenai kemungkinan kembalinya sang pendukung Bitcoin ke pasar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/michael-saylor-comeback",
-   "img": null,
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T03:35:12"
+   "published_at": "2026-09-26T04:02:13"
   },
   {
    "id": 4730,
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/riot-bebaskan-bitcoin-coinbase-pinjaman-jual",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-27T14:57:47"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T15:01:03"
@@ -138,24 +138,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-bip138-draft-shows-why-a-seed-may-not-rescue-a-multisig-wallet",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bip138-multisig-backup.webp",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T15:00:37"
   },
   {
-   "id": 4557,
+   "id": 4568,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Block integrasikan pembayaran Lightning Bitcoin untuk agen AI",
-   "x": "Block kini mendukung standar pembayaran terbuka yang memungkinkan transaksi untuk agen AI. Langkah ini menyelaraskan Block dengan raksasa teknologi lain dalam ekosistem AI.",
+   "t": "Aliran dana ETF Bitcoin melambat ke $191 juta, rekor $2,8 miliar tercapai",
+   "x": "Aliran dana masuk ke ETF Bitcoin spot di AS melambat menjadi $191 juta pada hari Kamis, meskipun total aliran dana tahunan mencapai $787 juta. Perlambatan ini terjadi setelah rekor enam hari berturut-turut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agent-for-crypto-trading-1.jpg",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T02:00:54"
+   "published_at": "2026-09-25T07:41:36"
+  },
+  {
+   "id": 4582,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Michael Saylor kembali? Transaksi Bitcoinnya jadi sorotan",
+   "x": "Transaksi Bitcoin Michael Saylor kembali menarik perhatian publik. Hal ini memicu spekulasi mengenai kemungkinan kembalinya sang pendukung Bitcoin ke pasar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/michael-saylor-comeback",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T03:35:12"
   },
   {
    "id": 4614,
@@ -170,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T11:29:04"
-  },
-  {
-   "id": 4584,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kontrak Bitcoin dan ETH senilai Rp320 triliun kedaluwarsa",
-   "x": "Kontrak berjangka Bitcoin dan Ethereum senilai Rp320 triliun akan segera berakhir. Para ahli memprediksi potensi dampaknya terhadap pergerakan harga aset digital tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kontrak-bitcoin-dan-eth-senilai-rp320-triliun-segera-kedaluwarsa",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T03:11:25"
   },
   {
    "id": 4682,
@@ -214,46 +214,60 @@
    "published_at": "2026-09-26T17:01:03"
   },
   {
-   "id": 4563,
+   "id": 4756,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Peneliti Bitcoin targetkan koin privasi dengan transfer terenkripsi ala Zcash",
-   "x": "Peneliti mengusulkan sistem transfer privat langsung di jaringan Bitcoin tanpa perlu perubahan aturan konsensus. Inisiatif ini berpotensi meningkatkan privasi transaksi aset digital.",
+   "t": "Core Lightning perbaiki celah keamanan",
+   "x": "Core Lightning telah memperbaiki celah keamanan yang berpotensi memungkinkan status saluran yang dicabut lolos dari penalti. Pengguna diimbau untuk memperbarui perangkat lunak ke versi terbaru.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-researchers-target-privacy-coins-with-zcash-style-shielded-transfers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/shielded-bitcoin-standard-image-v3.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/core-lightning-revoked-channel-penalty-flaw",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/core-lightning-security-bridge.webp",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T02:10:32"
+   "published_at": "2026-09-27T23:15:38"
   },
   {
-   "id": 4568,
+   "id": 4571,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Aliran dana ETF Bitcoin melambat ke $191 juta, rekor $2,8 miliar tercapai",
-   "x": "Aliran dana masuk ke ETF Bitcoin spot di AS melambat menjadi $191 juta pada hari Kamis, meskipun total aliran dana tahunan mencapai $787 juta. Perlambatan ini terjadi setelah rekor enam hari berturut-turut.",
+   "t": "Peneliti usulkan transfer Bitcoin privat tanpa soft fork",
+   "x": "Peneliti mengusulkan cara agar detail transaksi Bitcoin bisa disembunyikan tanpa mengubah protokol inti. Namun, muncul pertanyaan mengenai tingkat anonimitas dan ketahanan terhadap serangan kuantum.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T07:41:36"
+   "published_at": "2026-09-25T04:41:06"
   },
   {
-   "id": 4615,
+   "id": 4584,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Altcoin menguat saat bitcoin konsolidasi di dekat $84.000",
+   "t": "Kontrak Bitcoin dan ETH senilai Rp320 triliun kedaluwarsa",
+   "x": "Kontrak berjangka Bitcoin dan Ethereum senilai Rp320 triliun akan segera berakhir. Para ahli memprediksi potensi dampaknya terhadap pergerakan harga aset digital tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kontrak-bitcoin-dan-eth-senilai-rp320-triliun-segera-kedaluwarsa",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T03:11:25"
+  },
+  {
+   "id": 4773,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin dan Nasdaq Futures Turun Akibat Ancaman Trump",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e4b4d678e8586eec1d7e84c78d901caaa4188cf7-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c76047d96bfdc52edf0fb1572c41862de3f9f133-2183x1153.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T09:59:45"
+   "published_at": "2026-09-28T03:58:52"
   },
   {
    "id": 4602,
@@ -284,46 +298,32 @@
    "published_at": "2026-09-25T12:01:15"
   },
   {
-   "id": 4756,
+   "id": 4641,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Core Lightning perbaiki celah keamanan",
-   "x": "Core Lightning telah memperbaiki celah keamanan yang berpotensi memungkinkan status saluran yang dicabut lolos dari penalti. Pengguna diimbau untuk memperbarui perangkat lunak ke versi terbaru.",
+   "t": "Proposal Dividen Harian Strategy Kembalikan Dana Bitcoin ke Investor",
+   "x": "Proposal baru dari Strategy memungkinkan investor menerima dividen harian dari saham pilihan, yang berpotensi meningkatkan likuiditas dana. Keberhasilan proposal ini bergantung pada respons pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/core-lightning-revoked-channel-penalty-flaw",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/core-lightning-security-bridge.webp",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T23:15:38"
-  },
-  {
-   "id": 4571,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peneliti usulkan transfer Bitcoin privat tanpa soft fork",
-   "x": "Peneliti mengusulkan cara agar detail transaksi Bitcoin bisa disembunyikan tanpa mengubah protokol inti. Namun, muncul pertanyaan mengenai tingkat anonimitas dan ketahanan terhadap serangan kuantum.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png",
+   "url": "https://cryptoslate.com/strategys-daily-dividend-proposal-puts-bitcoin-funding-back-in-investors-hands",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/strategy-preferred-share-funding.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T04:41:06"
+   "published_at": "2026-09-25T17:00:30"
   },
   {
-   "id": 4616,
+   "id": 4615,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Aliran masuk ETF bitcoin positif untuk 2026 setelah hapus defisit $5,8 miliar",
+   "t": "Altcoin menguat saat bitcoin konsolidasi di dekat $84.000",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/133ec4662458f7c7fc72023fa8f6ed9686c5ee4f-1600x1125.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e4b4d678e8586eec1d7e84c78d901caaa4188cf7-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T09:13:01"
+   "published_at": "2026-09-25T09:59:45"
   },
   {
    "id": 4589,
@@ -334,7 +334,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morgan-stanley-usdt-di-bitcoin-utexo",
    "img": "https://assets.beincrypto.com/img/ry9ySC4riEOgaLJARTRXjfLW1n4=/smart/38a83f3af38f40108f77a9ce25f810e7",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T06:55:07"
@@ -354,18 +354,32 @@
    "published_at": "2026-09-25T16:06:23"
   },
   {
-   "id": 4641,
+   "id": 4665,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Proposal Dividen Harian Strategy Kembalikan Dana Bitcoin ke Investor",
-   "x": "Proposal baru dari Strategy memungkinkan investor menerima dividen harian dari saham pilihan, yang berpotensi meningkatkan likuiditas dana. Keberhasilan proposal ini bergantung pada respons pasar.",
+   "t": "Whale Bitcoin tak aktif gerakkan $380 juta, pertanyaan penjualan belum terjawab",
+   "x": "Alamat Bitcoin yang tidak aktif sejak April 2022 memindahkan dana senilai $380 juta. Pergerakan dana ini menimbulkan spekulasi mengenai apakah whale tersebut akan menjual asetnya atau tidak.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strategys-daily-dividend-proposal-puts-bitcoin-funding-back-in-investors-hands",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/strategy-preferred-share-funding.webp",
+   "url": "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-transfer-door.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T17:00:30"
+   "published_at": "2026-09-25T22:50:32"
+  },
+  {
+   "id": 4616,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Aliran masuk ETF bitcoin positif untuk 2026 setelah hapus defisit $5,8 miliar",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/133ec4662458f7c7fc72023fa8f6ed9686c5ee4f-1600x1125.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-25T09:13:01"
   },
   {
    "id": 4748,
@@ -376,7 +390,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/strategi-sinyal-jingga-saylor-bitcoin-buy",
    "img": "https://assets.beincrypto.com/img/bK5q-xQwmP5OMkbRbTNo1NzDvwo=/smart/2588bef8535f43e2b0ecf4aa87501ecc",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-27T19:25:15"
@@ -396,18 +410,18 @@
    "published_at": "2026-09-25T09:50:01"
   },
   {
-   "id": 4665,
+   "id": 4686,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Whale Bitcoin tak aktif gerakkan $380 juta, pertanyaan penjualan belum terjawab",
-   "x": "Alamat Bitcoin yang tidak aktif sejak April 2022 memindahkan dana senilai $380 juta. Pergerakan dana ini menimbulkan spekulasi mengenai apakah whale tersebut akan menjual asetnya atau tidak.",
+   "t": "Postingan Bitcoin di X bisa menghasilkan uang meski Bitcoin tidak",
+   "x": "Platform X menuntut pengembalian dana sebesar £207.384 dari pengguna yang dianggap menyalahgunakan fitur postingan terkait Bitcoin. Hal ini menunjukkan potensi monetisasi konten kripto di media sosial.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-transfer-door.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-post-payouts.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-25T22:50:32"
+   "published_at": "2026-09-26T09:05:19"
   },
   {
    "id": 4605,
@@ -424,48 +438,6 @@
    "published_at": "2026-09-25T10:29:48"
   },
   {
-   "id": 4686,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Postingan Bitcoin di X bisa menghasilkan uang meski Bitcoin tidak",
-   "x": "Platform X menuntut pengembalian dana sebesar £207.384 dari pengguna yang dianggap menyalahgunakan fitur postingan terkait Bitcoin. Hal ini menunjukkan potensi monetisasi konten kripto di media sosial.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-post-payouts.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T09:05:19"
-  },
-  {
-   "id": 4732,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Sinyal Bitcoin US$100.000 dari Fidelity Baru Saja Muncul",
-   "x": "Bitcoin menembus pemicu USD80.000 milik Fidelity untuk target USD100.000 seiring trader futures memborong posisi reli secara rekor.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/fidelity-bitcoin-100000-sinyal-rally",
-   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-27T11:33:05"
-  },
-  {
-   "id": 4564,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Lightning Labs ungkap bug kritis pada penagihan yang dibatalkan",
-   "x": "Lightning Labs mengumumkan adanya kerentanan pada perangkat lunak lama yang dapat menyebabkan pesanan dibatalkan tetap terbayar. Perbaikan telah dirilis untuk mengatasi masalah ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lightning-labs-discloses-critical-bug-marking-canceled-invoices-paid-risking-free-product-delivery",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_4Wzl2NnAaB.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T00:40:46"
-  },
-  {
    "id": 4643,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -478,6 +450,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T15:00:30"
+  },
+  {
+   "id": 4732,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Sinyal Bitcoin US$100.000 dari Fidelity Baru Saja Muncul",
+   "x": "Bitcoin menembus pemicu USD80.000 milik Fidelity untuk target USD100.000 seiring trader futures memborong posisi reli secara rekor.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/fidelity-bitcoin-100000-sinyal-rally",
+   "img": "https://assets.beincrypto.com/img/zQYXRjur-8toQ5kXAdffrc8S8eI=/smart/eac173c45f4b4ca5a3b2ae62d92dac39",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-27T11:33:05"
   }
  ]
 }

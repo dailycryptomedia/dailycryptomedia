@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 22,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peringatan-ai-agents-rekening-bank",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-27T17:21:19"
+  },
+  {
+   "id": 4776,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "THORChain jadi jalur dana curian Bitget, kritik mulai berdatangan",
+   "x": "Dana hasil peretasan bursa kripto Bitget terdeteksi mengalir melalui THORChain. Kejadian ini memicu perdebatan mengenai desentralisasi dan tanggung jawab platform.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/thorchain-jadi-jalur-dana-curian-bitget-kritik-mulai-berdatangan",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T06:00:56"
   },
   {
    "id": 4617,
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T14:09:15"
-  },
-  {
-   "id": 4714,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Bitget: GoPlus Temukan Celah Sistem Signing",
-   "x": "GoPlus mengidentifikasi kerentanan pada sistem signing terkait insiden peretasan Bitget. Penemuan ini membuka babak baru dalam investigasi kasus tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kasus-peretasan-bitget-berkembang-goplus-ungkap-titik-lemah-sistem-signing",
-   "img": null,
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T03:30:21"
   },
   {
    "id": 4647,
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eu-faces-september-30-clock-to-decide-future-of-defi-loans",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/eba-defi-access-review-standard-image.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T05:10:00"
@@ -124,10 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitget-hack-thorchain-dana-curian-pause",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-27T12:23:33"
+  },
+  {
+   "id": 4714,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan Bitget: GoPlus Temukan Celah Sistem Signing",
+   "x": "GoPlus mengidentifikasi kerentanan pada sistem signing terkait insiden peretasan Bitget. Penemuan ini membuka babak baru dalam investigasi kasus tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kasus-peretasan-bitget-berkembang-goplus-ungkap-titik-lemah-sistem-signing",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T03:30:21"
   },
   {
    "id": 4621,
@@ -144,20 +158,6 @@
    "published_at": "2026-09-25T09:13:08"
   },
   {
-   "id": 4675,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Kerugian peretasan Bitget naik jadi US$387,5 juta, dana curian berpindah",
-   "x": "Peretasan Bitget dilaporkan menyebabkan kerugian hingga US$387,5 juta. Dana yang dicuri kini terdeteksi berpindah antar jaringan, menimbulkan kekhawatiran baru.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/babak-baru-peretasan-bitget-kerugian-naik-ke-us3875-juta-dana-curian-mulai-berpindah",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-26T03:30:00"
-  },
-  {
    "id": 4610,
    "k": "defi",
    "cat": "DeFi",
@@ -172,6 +172,20 @@
    "published_at": "2026-09-25T11:09:52"
   },
   {
+   "id": 4760,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Zano Rollback Blockchain Sebulan Pasca Eksploitasi Gateway Address",
+   "x": "Blockchain Zano dikembalikan ke kondisi sebelum pembaruan yang memperkenalkan Gateway Addresses. Langkah ini diambil untuk mengatasi eksploitasi keamanan yang terjadi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JREXHTP98GQ5DQZXPMZ889/zano-rollback.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T01:09:22"
+  },
+  {
    "id": 4576,
    "k": "defi",
    "cat": "DeFi",
@@ -180,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/payy-bridge-exploit-freezes-crypto-cards-and-no-balances-remain-safe",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/payy-bridge-exploit-standard-image.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-25T07:10:06"
@@ -194,24 +208,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitget-hack-korea-utara-gracy-chen",
    "img": "https://assets.beincrypto.com/img/NtFIhDcYZ0dRci5J3riuuiQVKoU=/smart/5f2f1c7191414fef84d10a38c7edadb4",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-25T05:20:19"
   },
   {
-   "id": 4724,
+   "id": 4675,
    "k": "defi",
    "cat": "DeFi",
-   "t": "10.000 Token Saham Siap Masuk Solana, Siap Digoreng Ala Meme Coin?",
-   "x": "Proyek Backpack berencana meluncurkan 10.000 token saham di blockchain Solana. Inisiatif ini berpotensi membuka peluang baru bagi ekosistem DeFi dan eksperimen token berbasis saham.",
+   "t": "Kerugian peretasan Bitget naik jadi US$387,5 juta, dana curian berpindah",
+   "x": "Peretasan Bitget dilaporkan menyebabkan kerugian hingga US$387,5 juta. Dana yang dicuri kini terdeteksi berpindah antar jaringan, menimbulkan kekhawatiran baru.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/10-000-token-saham-siap-masuk-solana-siap-digoreng-ala-meme-coin",
+   "url": "https://blockchainmedia.id/babak-baru-peretasan-bitget-kerugian-naik-ke-us3875-juta-dana-curian-mulai-berpindah",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-27T08:00:23"
+   "published_at": "2026-09-26T03:30:00"
   },
   {
    "id": 4624,
@@ -228,18 +242,18 @@
    "published_at": "2026-09-25T10:50:09"
   },
   {
-   "id": 4562,
+   "id": 4724,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Saat Imbal Hasil Cetak Rekor, Tom Lee Melihat Peluang, tapi Hanya untuk yang Terkuat",
-   "x": "Tom Lee mengatakan kenaikan yield membantu perusahaan kuat dan mengharapkan inflasi akan turun tajam dalam enam bulan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tom-lee-imbal-hasil-lebih-tinggi-perusahaan-kuat",
-   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "3 hari lalu",
+   "t": "10.000 Token Saham Siap Masuk Solana, Siap Digoreng Ala Meme Coin?",
+   "x": "Proyek Backpack berencana meluncurkan 10.000 token saham di blockchain Solana. Inisiatif ini berpotensi membuka peluang baru bagi ekosistem DeFi dan eksperimen token berbasis saham.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/10-000-token-saham-siap-masuk-solana-siap-digoreng-ala-meme-coin",
+   "img": null,
+   "a": "23 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-24T23:47:01"
+   "translated": true,
+   "published_at": "2026-09-27T08:00:23"
   },
   {
    "id": 4676,
@@ -250,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-lista-layak-dilirik-ini-faktor-yang-membuatnya-jadi-hidden-gem-crypto",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T03:00:30"
@@ -264,7 +278,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kenalan-dengan-lazarus-group-hacker-yang-diduga-retas-bitget",
    "img": null,
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T07:00:53"
@@ -292,7 +306,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitget-ungkap-perkembangan-terbaru-kasus-peretasan-senilai-rp6-triliun",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T07:00:44"
