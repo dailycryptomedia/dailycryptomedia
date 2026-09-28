@@ -1,22 +1,8 @@
 {
- "total": 3,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 4595,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "CoinMarketCap akuisisi CoinGlass untuk perluas data derivatif",
-   "x": "CoinMarketCap membeli CoinGlass untuk memperkuat data pasar derivatif aset kripto. Akuisisi ini diharapkan meningkatkan penawaran data bagi pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3C95VNCWEKXAFT14D52K8ZQ/crypto-market-trading2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-25T12:44:30"
-  },
   {
    "id": 4765,
    "k": "bisnis",
@@ -26,10 +12,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/oura-ipo-kelebihan-permintaan-hype-fundamental",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T03:47:23"
+  },
+  {
+   "id": 4783,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Altseason datang, namun investor kini lebih selektif",
+   "x": "Tanda-tanda awal 'altseason' mulai terlihat, namun investor kripto kini menunjukkan selektivitas yang lebih tinggi. Modal cenderung mengalir ke protokol yang menghasilkan pendapatan di berbagai narasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVFQGS7G1BH1D1YT6S4CE8/magazine-will-there-ever-be-another-altcoin-season.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T13:30:00"
+  },
+  {
+   "id": 4828,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Daya beli XRP Evernorth bisa menyusut jika pemegang saham SPAC melakukan redeem minggu ini",
+   "x": "Potensi pembelian XRP oleh Evernorth terancam berkurang akibat kemungkinan redeem saham oleh pemegang SPAC. Keputusan investor dalam instrumen terkait dapat memengaruhi likuiditas dan harga aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/evernorths-xrp-buying-power-could-shrink-if-spac-shareholders-redeem-this-week",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/evernorth-merger-cash.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T10:30:17"
   },
   {
    "id": 4690,
@@ -44,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-26T06:30:55"
+  },
+  {
+   "id": 4800,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "RedotPay selesaikan audit keuangan, teruskan rencana IPO AS",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b809e903b20dd26de1240800f8539bcb475389ca-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T07:50:00"
   }
  ]
 }
