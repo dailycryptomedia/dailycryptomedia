@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/pump-fun-is-not-authorized-to-solicit-some-canadian-investors-amf-warns",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/pumpfun-amf-restriction.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T19:05:26"
@@ -40,24 +40,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NN5Q5DBTGT6TEY43DJDPT2/coinbase.jpg",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:02:29"
   },
   {
-   "id": 4694,
+   "id": 4883,
    "k": "web3",
    "cat": "Web3",
-   "t": "Induk Kraken, Payward, taruhkan miliaran untuk infrastruktur finansial",
+   "t": "Anthropic rencanakan belanja infrastruktur AI $518 miliar",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-26T14:00:00"
+   "published_at": "2026-09-29T05:31:44"
+  },
+  {
+   "id": 4953,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Aztec luncurkan kembali dompet privasi zk.money di Ethereum Layer 2",
+   "x": "Aztec Labs meluncurkan kembali dompet privasi mandiri zk.money di jaringan Layer 2 mereka setelah produk sebelumnya dihentikan. Ini memberikan opsi tambahan bagi pengguna Ethereum yang mencari privasi transaksi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T16:00:00"
   },
   {
    "id": 4780,
@@ -74,20 +88,6 @@
    "published_at": "2026-09-28T01:45:04"
   },
   {
-   "id": 4885,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Coinbase Kantongi Persetujuan DCO dari CFTC, Lengkapi Derivatif",
-   "x": "Coinbase kini dapat mengelola seluruh infrastruktur derivatifnya secara internal setelah mendapat persetujuan dari Komisi Perdagangan Berjangka Komoditas AS (CFTC). Ini memungkinkan bursa kripto tersebut untuk mencatatkan, menjadi broker, dan melakukan kliring produk derivatif yang terjamin sepenuhnya.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T02:02:36"
-  },
-  {
    "id": 4829,
    "k": "web3",
    "cat": "Web3",
@@ -102,18 +102,32 @@
    "published_at": "2026-09-28T09:10:29"
   },
   {
-   "id": 4883,
+   "id": 4957,
    "k": "web3",
    "cat": "Web3",
-   "t": "Anthropic rencanakan belanja infrastruktur AI $518 miliar",
+   "t": "Pengguna Ethereum punya cara baru bayar privat seiring kembalinya zk.money",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-29T05:31:44"
+   "published_at": "2026-09-29T16:00:00"
+  },
+  {
+   "id": 4885,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Coinbase Kantongi Persetujuan DCO dari CFTC, Lengkapi Derivatif",
+   "x": "Coinbase kini dapat mengelola seluruh infrastruktur derivatifnya secara internal setelah mendapat persetujuan dari Komisi Perdagangan Berjangka Komoditas AS (CFTC). Ini memungkinkan bursa kripto tersebut untuk mencatatkan, menjadi broker, dan melakukan kliring produk derivatif yang terjamin sepenuhnya.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T02:02:36"
   }
  ]
 }

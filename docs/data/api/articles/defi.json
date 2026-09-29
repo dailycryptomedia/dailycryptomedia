@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peringatan-ai-agents-rekening-bank",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-27T17:21:19"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/lido-withdrawal-valve.webp",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T20:30:08"
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/alternatif-staking-ethereum",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:30:39"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T21:16:03"
@@ -68,24 +68,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NBRAAT0NCB2NNTGMK1CR22/block.jpg",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T01:17:49"
   },
   {
-   "id": 4805,
+   "id": 4955,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Bitget mulai pulihkan penarikan dana pasca eksploitasi $388 juta",
-   "x": "Bursa kripto Bitget mengumumkan pemulihan bertahap layanan penarikan dana setelah insiden peretasan senilai $388 juta. Kerugian akan ditanggung sepenuhnya oleh dana perlindungan pengguna.",
+   "t": "Bitwise luncurkan ETF spot NEAR pertama di AS dengan imbal hasil staking",
+   "x": "ETF NEAR pertama di AS dikenakan biaya 0,75% dan akan melakukan staking aset NEAR secara internal, dengan imbal hasil didistribusikan kepada pemegang saham. Ini menawarkan cara baru bagi investor untuk mendapatkan imbal hasil dari aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230911_Bitget_News.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220808_NEAR-Protocol-1.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-28T08:31:18"
+   "published_at": "2026-09-29T14:27:22"
   },
   {
    "id": 4925,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-kartu-pokemon-pack-digital-fisik",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T11:26:45"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/compound-dao-used-protocol-reserves-to-buy-52-million-worth-of-comp-and-delegates-call-it-a-mandate-breach",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/compound-proposal-582-standard.jpg",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T02:30:29"
@@ -124,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/apa-itu-thorchain-yang-dipakai-peretas-bitget-untuk-mencuci-uang",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T06:00:16"
@@ -156,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T01:09:22"
+  },
+  {
+   "id": 4805,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bitget mulai pulihkan penarikan dana pasca eksploitasi $388 juta",
+   "x": "Bursa kripto Bitget mengumumkan pemulihan bertahap layanan penarikan dana setelah insiden peretasan senilai $388 juta. Kerugian akan ditanggung sepenuhnya oleh dana perlindungan pengguna.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230911_Bitget_News.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T08:31:18"
   },
   {
    "id": 4809,
@@ -222,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/shiba-inu-mengikuti-woof-shib-pair",
    "img": "https://assets.beincrypto.com/img/Xm-bx6AsdutvJ_LTSHb8t6GTGCw=/smart/821ad60527b94bf2927749f36b6469ff",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T10:32:15"
@@ -264,7 +278,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/oknum-tiongkok-diduga-bantu-peretas-bitget-cuci-kripto-curian",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T09:00:21"
