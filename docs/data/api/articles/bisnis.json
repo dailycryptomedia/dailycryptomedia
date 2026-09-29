@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/fakta-mengejutkan-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T17:32:32"
@@ -26,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MTCJ1E1J8KDT907A531CF3/hi-ipo-stocks-bitpgo.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T20:28:13"
+  },
+  {
+   "id": 4980,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic rugi $42 miliar tahun lalu, target IPO $2 triliun",
+   "x": "Prospektus IPO Anthropic menunjukkan pendapatan melonjak dua belas kali lipat, dengan rencana belanja besar. Namun, perusahaan juga mengakui risiko eksistensial dari pengembangan AI-nya sendiri.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T20:06:03"
   },
   {
    "id": 4828,
@@ -46,20 +60,6 @@
    "published_at": "2026-09-28T10:30:17"
   },
   {
-   "id": 4939,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Raja Kripto Kanada akan bela diri di sidang penipuan",
-   "x": "Aiden Pleterski, yang dijuluki 'Raja Kripto' Kanada, akan mewakili dirinya sendiri dalam sidang kasus penipuan. Hakim akan membantu memblokir bukti yang tidak relevan agar tidak sampai ke juri.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T10:38:29"
-  },
-  {
    "id": 4916,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/8347497dc2b40aa2c0918f122e4d7a7ab226ecd4-1406x791.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T10:13:40"
@@ -102,6 +102,20 @@
    "published_at": "2026-09-28T13:30:00"
   },
   {
+   "id": 4939,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Raja Kripto Kanada akan bela diri di sidang penipuan",
+   "x": "Aiden Pleterski, yang dijuluki 'Raja Kripto' Kanada, akan mewakili dirinya sendiri dalam sidang kasus penipuan. Hakim akan membantu memblokir bukti yang tidak relevan agar tidak sampai ke juri.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T10:38:29"
+  },
+  {
    "id": 4800,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -124,10 +138,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bain-ai-celah-pendapatan-6-triliun",
    "img": "https://assets.beincrypto.com/img/Mtom53pKrYu0b9HsYd5aTashDT8=/smart/0f1571d9c8c84c709d3579f20d7f1441",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T09:19:32"
+  },
+  {
+   "id": 4969,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Valuasi OpenAI bisa capai $1,4 triliun dalam putaran pendanaan baru",
+   "x": "Pengembang ChatGPT, OpenAI, dilaporkan mencari pendanaan tambahan senilai $30 miliar dari investor. Perusahaan ini mendorong debut pasar publiknya yang telah lama ditunggu-tunggu hingga tahun 2027.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T19:55:49"
   },
   {
    "id": 4929,
@@ -138,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/prospektus-ipo-anthropic-risiko-eksistensial-ai",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T07:41:01"

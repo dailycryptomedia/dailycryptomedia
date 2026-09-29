@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T20:36:03"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbase-powers-citis-new-stablecoin-rails-and-corporate-banking-faces-a-major-shift",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/citi-coinbase-two-payment-paths-text-style.jpg",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T06:00:50"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d0addd3beebf7db0c5d99bb184575683d088e02b-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T18:21:07"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-mcdonalds-hasil-10-tahun-invers",
    "img": "https://assets.beincrypto.com/img/pon3dfo6AVm_sR5b6pPjQgH7ZKc=/smart/2107838830124092abb733c06131136b",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T05:30:00"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/bitcoin-oil-decrypt-style-1-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T14:07:44"
@@ -144,18 +144,18 @@
    "published_at": "2026-09-27T18:00:39"
   },
   {
-   "id": 4908,
+   "id": 4970,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin naik ke $84 ribu setelah imbal hasil obligasi AS 30 tahun capai rekor 24 tahun",
-   "x": "Harga Bitcoin menguat setelah sempat melemah di awal pekan, bertahan di zona support penting. Penguatan ini terjadi di tengah lonjakan imbal hasil obligasi pemerintah AS.",
+   "t": "Kakaopay jajaki tokenisasi saham Korea dengan Dinari dan Ondo",
+   "x": "Kakaopay Securities menjajaki tokenisasi saham Korea bersama Dinari dan Ondo Finance. Langkah ini bertujuan memperluas akses investor internasional ke saham-saham tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q9BFYJ1K3ZGM26SMYW5A0G/hi-south-korea-staking-lending-service.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-29T10:04:42"
+   "published_at": "2026-09-29T19:49:53"
   },
   {
    "id": 4892,
@@ -166,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/mastercard-dukung-stablecoin-nasabah-bank-ini-jadi-yang-pertama-bisa-coba",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:00:43"
@@ -180,7 +180,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T11:34:55"
@@ -200,18 +200,32 @@
    "published_at": "2026-09-28T17:22:06"
   },
   {
-   "id": 4711,
+   "id": 4808,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Cathie Wood Membawa Dana US$1,3 Miliar yang Memegang SpaceX dan OpenAI ke Onchain",
-   "x": "ARK milik Cathie Wood melakukan tokenisasi kepemilikan dana ventura mereka di SpaceX dan OpenAI di Ethereum. Berikut yang sebenarnya didapatkan investor.",
+   "t": "Citi Kini Sediakan Jalur Checkout Korporat untuk Stablecoin",
+   "x": "Citi menggandeng Coinbase agar perusahaan besar dapat menerima pembayaran stablecoin, beberapa minggu setelah perdebatan soal yield menghentikan Clarity Act.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cathie-wood-ark-venture-fund-onchain",
-   "img": "https://assets.beincrypto.com/img/mCW_928xoQWX2I4rScOVDr6O2KE=/smart/260febef48534e6589c9ebfe1b50e352",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/citi-coinbase-stablecoin-checkout-pembayaran",
+   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-26T19:27:57"
+   "published_at": "2026-09-28T13:23:35"
+  },
+  {
+   "id": 4978,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Cboe buka peluang opsi tokenisasi lewat kesepakatan S&P baru",
+   "x": "Perpanjangan kesepakatan Cboe dengan S&P akan mempertahankan hak eksklusif opsi indeks S&P 500 hingga 2051. Kesepakatan ini juga membuka jalan untuk mengintegrasikan tolok ukur utama tersebut dengan infrastruktur blockchain.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T21:16:04"
   },
   {
    "id": 4737,
@@ -226,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T14:00:34"
+  },
+  {
+   "id": 4908,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin naik ke $84 ribu setelah imbal hasil obligasi AS 30 tahun capai rekor 24 tahun",
+   "x": "Harga Bitcoin menguat setelah sempat melemah di awal pekan, bertahan di zona support penting. Penguatan ini terjadi di tengah lonjakan imbal hasil obligasi pemerintah AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T10:04:42"
   },
   {
    "id": 4831,
@@ -256,18 +284,18 @@
    "published_at": "2026-09-28T18:00:00"
   },
   {
-   "id": 4808,
+   "id": 4878,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Citi Kini Sediakan Jalur Checkout Korporat untuk Stablecoin",
-   "x": "Citi menggandeng Coinbase agar perusahaan besar dapat menerima pembayaran stablecoin, beberapa minggu setelah perdebatan soal yield menghentikan Clarity Act.",
+   "t": "Goldman Sachs Menjelaskan Kenapa Tidak Sebaiknya Beli Obligasi dengan Imbal Hasil di Atas 5% dan Lebih Baik Fokus ke AI",
+   "x": "Anshul Sehgal dari Goldman Sachs menjelaskan mengapa ia lebih memilih AI compute dibandingkan obligasi 5% saat The Fed memberi sinyal kenaikan suku bunga lagi.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/citi-coinbase-stablecoin-checkout-pembayaran",
-   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/obligasi-5-persen-goldman-sachs-ai",
+   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-28T13:23:35"
+   "published_at": "2026-09-29T04:00:00"
   },
   {
    "id": 4859,
@@ -292,24 +320,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9bc2fa5ce3b1b8ae3a33a66f3abe1158bea8b2d1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T10:28:51"
   },
   {
-   "id": 4878,
+   "id": 4812,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Goldman Sachs Menjelaskan Kenapa Tidak Sebaiknya Beli Obligasi dengan Imbal Hasil di Atas 5% dan Lebih Baik Fokus ke AI",
-   "x": "Anshul Sehgal dari Goldman Sachs menjelaskan mengapa ia lebih memilih AI compute dibandingkan obligasi 5% saat The Fed memberi sinyal kenaikan suku bunga lagi.",
+   "t": "Semua Alasan Mengapa AS Begitu Khawatir Tentang Yen Jepang dan Pasar Obligasi",
+   "x": "Yen dan pasar obligasi Jepang dapat mendorong biaya pinjaman AS menjadi lebih tinggi. Inilah alasan Trump dan Bessent khawatir, serta apa artinya bagi Bitcoin.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/obligasi-5-persen-goldman-sachs-ai",
-   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
-   "a": "15 jam lalu",
+   "url": "https://id.beincrypto.com/as-khawatir-yen-jepang-pasar-obligasi",
+   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-29T04:00:00"
+   "published_at": "2026-09-28T11:39:04"
   },
   {
    "id": 4887,
@@ -320,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/us-bank-group-taps-quant-for-tokenized-deposits-but-qnts-role-is-left-in-doubt",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/quant-clearing-house-deal.webp",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:10:16"
@@ -340,18 +368,46 @@
    "published_at": "2026-09-28T11:00:00"
   },
   {
-   "id": 4812,
+   "id": 4769,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Semua Alasan Mengapa AS Begitu Khawatir Tentang Yen Jepang dan Pasar Obligasi",
-   "x": "Yen dan pasar obligasi Jepang dapat mendorong biaya pinjaman AS menjadi lebih tinggi. Inilah alasan Trump dan Bessent khawatir, serta apa artinya bagi Bitcoin.",
+   "t": "BlackRock CIO Dump Saham untuk Obligasi Grade Tinggi. Ini Alasannya",
+   "x": "Rick Rieder dari BlackRock memangkas saham untuk obligasi 7% karena imbal hasil Treasury 10 tahun melampaui 5%. Simak alasannya dan berapa biaya kenaikan suku bunga The Fed.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/as-khawatir-yen-jepang-pasar-obligasi",
-   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
+   "url": "https://id.beincrypto.com/blackrock-cio-obligasi-lebih-dari-saham-im-bal-hasil",
+   "img": "https://assets.beincrypto.com/img/_a1F-mSslcIgtwvjRvekqXvl4UA=/smart/5aaf09f0a00a4a428dc44c73285d8d85",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-28T11:39:04"
+   "published_at": "2026-09-28T02:00:00"
+  },
+  {
+   "id": 4984,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "The Fed jamin pembayaran stablecoin 2 hari, tapi $76 miliar masih terblokir",
+   "x": "Snapshot menunjukkan bahwa penarikan dana nasabah bursa terpisah dari skema penebusan penerbit dua hari kerja yang diusulkan The Fed. Hal ini menimbulkan pertanyaan tentang likuiditas dan efisiensi sistem pembayaran stablecoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fed-guarantees-2-day-stablecoin-payouts-but-76b-remains-blocked",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-fed-redemption-2.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T19:50:36"
+  },
+  {
+   "id": 4918,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Analis lihat imbal hasil Treasury 10 tahun capai 6%. Bull Bitcoin tak perlu panik",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/856a0977f5be04928578ad232bbb18d29da95a30-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T09:06:11"
   },
   {
    "id": 4775,
@@ -366,34 +422,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T01:15:14"
-  },
-  {
-   "id": 4918,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Analis lihat imbal hasil Treasury 10 tahun capai 6%. Bull Bitcoin tak perlu panik",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/856a0977f5be04928578ad232bbb18d29da95a30-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T09:06:11"
-  },
-  {
-   "id": 4769,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "BlackRock CIO Dump Saham untuk Obligasi Grade Tinggi. Ini Alasannya",
-   "x": "Rick Rieder dari BlackRock memangkas saham untuk obligasi 7% karena imbal hasil Treasury 10 tahun melampaui 5%. Simak alasannya dan berapa biaya kenaikan suku bunga The Fed.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/blackrock-cio-obligasi-lebih-dari-saham-im-bal-hasil",
-   "img": "https://assets.beincrypto.com/img/_a1F-mSslcIgtwvjRvekqXvl4UA=/smart/5aaf09f0a00a4a428dc44c73285d8d85",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-28T02:00:00"
   },
   {
    "id": 4843,

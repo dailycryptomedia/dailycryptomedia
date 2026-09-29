@@ -1,8 +1,22 @@
 {
- "total": 20,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 4982,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Hut 8 amankan jalur kredit $1 miliar, tapi hadapi aturan likuiditas 40%",
+   "x": "Perusahaan penambangan Bitcoin Hut 8 mengamankan jalur kredit senilai $1 miliar untuk kebutuhan operasional. Namun, perusahaan juga harus mematuhi aturan likuiditas ketat yang dapat membatasi fleksibilitas finansialnya.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hut-8-locks-in-1b-credit-line-but-faces-40-liquidity-rules",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/hut-8-one-billion-credit-line-standard.jpg",
+   "a": "30 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T22:50:49"
+  },
   {
    "id": 4740,
    "k": "defi",
@@ -18,20 +32,6 @@
    "published_at": "2026-09-27T17:21:19"
   },
   {
-   "id": 4857,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Target Cadangan 1.500 ETH Lido Bisa Lambatkan Penarikan stETH",
-   "x": "Lido berencana mengubah prioritas setoran untuk modul staking baru, yang berpotensi memperlambat penarikan stETH jika terjadi kendala likuiditas. Ini penting bagi validator dan pengguna Lido.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/lido-withdrawal-valve.webp",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-28T20:30:08"
-  },
-  {
    "id": 4891,
    "k": "defi",
    "cat": "DeFi",
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/alternatif-staking-ethereum",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:30:39"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T21:16:03"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NBRAAT0NCB2NNTGMK1CR22/block.jpg",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T01:17:49"
@@ -82,10 +82,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220808_NEAR-Protocol-1.jpg",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T14:27:22"
+  },
+  {
+   "id": 4857,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Target Cadangan 1.500 ETH Lido Bisa Lambatkan Penarikan stETH",
+   "x": "Lido berencana mengubah prioritas setoran untuk modul staking baru, yang berpotensi memperlambat penarikan stETH jika terjadi kendala likuiditas. Ini penting bagi validator dan pengguna Lido.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/lido-withdrawal-valve.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T20:30:08"
   },
   {
    "id": 4925,
@@ -96,24 +110,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-kartu-pokemon-pack-digital-fisik",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T11:26:45"
-  },
-  {
-   "id": 4888,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Compound DAO gunakan cadangan protokol beli COMP senilai $52 juta",
-   "x": "Compound DAO menggunakan cadangan protokol untuk membeli token COMP senilai $52 juta, yang dinilai oleh beberapa delegasi sebagai pelanggaran mandat. Pihak yayasan menyatakan langkah tersebut sesuai dengan mandat DAO.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/compound-dao-used-protocol-reserves-to-buy-52-million-worth-of-comp-and-delegates-call-it-a-mandate-breach",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/compound-proposal-582-standard.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T02:30:29"
   },
   {
    "id": 4889,
@@ -124,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/apa-itu-thorchain-yang-dipakai-peretas-bitget-untuk-mencuci-uang",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T06:00:16"
@@ -170,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T08:31:18"
+  },
+  {
+   "id": 4888,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Compound DAO gunakan cadangan protokol beli COMP senilai $52 juta",
+   "x": "Compound DAO menggunakan cadangan protokol untuk membeli token COMP senilai $52 juta, yang dinilai oleh beberapa delegasi sebagai pelanggaran mandat. Pihak yayasan menyatakan langkah tersebut sesuai dengan mandat DAO.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/compound-dao-used-protocol-reserves-to-buy-52-million-worth-of-comp-and-delegates-call-it-a-mandate-breach",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/compound-proposal-582-standard.jpg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T02:30:29"
   },
   {
    "id": 4809,
@@ -236,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/shiba-inu-mengikuti-woof-shib-pair",
    "img": "https://assets.beincrypto.com/img/Xm-bx6AsdutvJ_LTSHb8t6GTGCw=/smart/821ad60527b94bf2927749f36b6469ff",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T10:32:15"
@@ -278,7 +292,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/oknum-tiongkok-diduga-bantu-peretas-bitget-cuci-kripto-curian",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T09:00:21"

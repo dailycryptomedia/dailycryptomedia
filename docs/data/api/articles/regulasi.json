@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sec-clears-tesla-sistem-voting-ritel",
    "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T17:58:35"
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-2.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T22:02:57"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-eqibank-reserve-access.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T21:15:14"
@@ -102,18 +102,60 @@
    "published_at": "2026-09-28T16:35:29"
   },
   {
-   "id": 4712,
+   "id": 4745,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC hapus hambatan regulasi saat pembelian kembali token kripto capai rekor $638 juta",
-   "x": "Pembelian kembali token kripto oleh proyek-proyek telah mencapai rekor $638 juta hingga akhir Agustus 2026. Angka ini melampaui total tahun sebelumnya, menunjukkan aktivitas signifikan dalam pengelolaan pasokan token.",
+   "t": "Staking token ETH berisiko, staf SEC soroti risiko keluar",
+   "x": "Staf SEC menyoroti risiko yang melekat pada token staking ETH, termasuk kesulitan dalam menarik kembali aset. Hal ini relevan bagi investor Indonesia yang mempertimbangkan staking sebagai strategi imbal hasil aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/token-buyback-record.webp",
+   "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/staking-token-risk-balance.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-26T20:20:52"
+   "published_at": "2026-09-27T16:00:54"
+  },
+  {
+   "id": 4981,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "PS5 berhasil di-jailbreak setelah Sony klaim pemain tak miliki gim",
+   "x": "Pendiri Linear Fox merilis jailbreak publik untuk PS5 bertepatan dengan argumen Sony di pengadilan bahwa pemain tidak memiliki gim digital mereka. Peristiwa ini memicu diskusi tentang kepemilikan aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T19:31:04"
+  },
+  {
+   "id": 4968,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulasi kripto di SEC, CFTC bergantung pada 3 komisioner pasca-pengunduran diri",
+   "x": "Tujuh kursi komisioner di SEC dan CFTC akan kosong setelah Jumat, menyisakan sedikit pemimpin di regulator keuangan untuk mengawasi industri kripto senilai $3 triliun.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T19:59:43"
+  },
+  {
+   "id": 4928,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Australia Dorong Suku Bunga ke Level Tertinggi dalam 15 Tahun dan Peringatkan Bisa Naik Lagi",
+   "x": "Reserve Bank of Australia (RBA) menaikkan suku bunga acuannya sebesar 25 basis poin menjadi 4,6%. Langkah ini membuat biaya pinjaman berada di level tertinggi sejak 2011. Dewan yang beranggotakan sembilan orang…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/rba-australia-kenaikan-suku-bunga-ke-level-tertinggi-15-tahun",
+   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-29T08:25:20"
   },
   {
    "id": 4821,
@@ -144,34 +186,6 @@
    "published_at": "2026-09-27T07:18:42"
   },
   {
-   "id": 4928,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Australia Dorong Suku Bunga ke Level Tertinggi dalam 15 Tahun dan Peringatkan Bisa Naik Lagi",
-   "x": "Reserve Bank of Australia (RBA) menaikkan suku bunga acuannya sebesar 25 basis poin menjadi 4,6%. Langkah ini membuat biaya pinjaman berada di level tertinggi sejak 2011. Dewan yang beranggotakan sembilan orang…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/rba-australia-kenaikan-suku-bunga-ke-level-tertinggi-15-tahun",
-   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-29T08:25:20"
-  },
-  {
-   "id": 4745,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Staking token ETH berisiko, staf SEC soroti risiko keluar",
-   "x": "Staf SEC menyoroti risiko yang melekat pada token staking ETH, termasuk kesulitan dalam menarik kembali aset. Hal ini relevan bagi investor Indonesia yang mempertimbangkan staking sebagai strategi imbal hasil aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/staking-token-risk-balance.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T16:00:54"
-  },
-  {
    "id": 4782,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -194,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T09:50:22"
