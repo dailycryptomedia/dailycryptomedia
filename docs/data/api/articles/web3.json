@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/vitalik-buterin-ethereum-hegota-fork-terakhir",
    "img": "https://assets.beincrypto.com/img/PAbDjXkr7ACueP5Vr6xecMJ6bQg=/smart/ba5599c2bc524df29c08c8e1442ff80c",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T05:05:57"
+  },
+  {
+   "id": 4868,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Coinbase dapat izin CFTC untuk kliring derivatif AS",
+   "x": "Coinbase memperoleh persetujuan dari Komisi Perdagangan Berjangka Komoditas AS (CFTC) untuk membangun fasilitas kliring derivatif domestik. Ini menempatkan Coinbase sejajar dengan Kraken dalam mengelola infrastruktur derivatif di AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NN5Q5DBTGT6TEY43DJDPT2/coinbase.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T04:02:29"
   },
   {
    "id": 4694,
@@ -54,10 +68,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-qnt-meledak-60-persen-quant-masuk-infrastruktur-perbankan-as",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T01:45:04"
+  },
+  {
+   "id": 4885,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Coinbase Kantongi Persetujuan DCO dari CFTC, Lengkapi Derivatif",
+   "x": "Coinbase kini dapat mengelola seluruh infrastruktur derivatifnya secara internal setelah mendapat persetujuan dari Komisi Perdagangan Berjangka Komoditas AS (CFTC). Ini memungkinkan bursa kripto tersebut untuk mencatatkan, menjadi broker, dan melakukan kliring produk derivatif yang terjamin sepenuhnya.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T02:02:36"
   },
   {
    "id": 4829,
@@ -68,24 +96,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-scammers-built-an-entire-fake-blockchain-to-steal-over-2-million",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fake-giwa-blockchain-scam.webp",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T09:10:29"
   },
   {
-   "id": 4667,
+   "id": 4883,
    "k": "web3",
    "cat": "Web3",
-   "t": "Upgrade Batch XRP Ledger Ditunda ke 9 Oktober Akibat Reset Dukungan Validator",
+   "t": "Anthropic rencanakan belanja infrastruktur AI $518 miliar",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-26T04:30:00"
+   "published_at": "2026-09-29T05:31:44"
   }
  ]
 }
