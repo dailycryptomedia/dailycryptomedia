@@ -1,22 +1,8 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 4742,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pump Fun dilarang rekrut investor Kanada, AMF beri peringatan",
-   "x": "Regulator Kanada, AMF, memperingatkan bahwa platform Pump Fun tidak berwenang untuk merekrut investor di negara tersebut. Hal ini penting bagi investor ritel Indonesia untuk mewaspadai potensi risiko saat berinteraksi dengan platform kripto asing.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/pump-fun-is-not-authorized-to-solicit-some-canadian-investors-amf-warns",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/pumpfun-amf-restriction.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T19:05:26"
-  },
   {
    "id": 4763,
    "k": "web3",
@@ -40,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T21:46:03"
@@ -58,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:02:29"
+  },
+  {
+   "id": 5091,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "DogeOS luncurkan testnet untuk bawa smart contract EVM ke Dogecoin",
+   "x": "Proyek DogeOS meluncurkan testnet publik yang memungkinkan penggunaan smart contract EVM pada blockchain Dogecoin. Inisiatif ini berpotensi memperluas fungsionalitas Dogecoin di luar sekadar aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T18:23:57"
   },
   {
    "id": 4883,
@@ -82,24 +82,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/glamsterdam-upgrade-ethereum",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T04:00:42"
-  },
-  {
-   "id": 4953,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Aztec luncurkan kembali dompet privasi zk.money di Ethereum Layer 2",
-   "x": "Aztec Labs meluncurkan kembali dompet privasi mandiri zk.money di jaringan Layer 2 mereka setelah produk sebelumnya dihentikan. Ini memberikan opsi tambahan bagi pengguna Ethereum yang mencari privasi transaksi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T16:00:00"
   },
   {
    "id": 4829,
@@ -116,6 +102,34 @@
    "published_at": "2026-09-28T09:10:29"
   },
   {
+   "id": 5089,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Brasil Jadi Medan Pertempuran Blockchain untuk Ripple dan Cardano",
+   "x": "Ripple dan Cardano sama-sama menjalin kemitraan besar di Brasil, mendorong infrastruktur blockchain semakin dalam di sektor keuangan dan energi yang sudah diatur di negara tersebut. Kerja sama ini menyoroti meningkatnya…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/kerja-sama-ripple-cardano-di-brazil-dijelaskan",
+   "img": "https://assets.beincrypto.com/img/KrrFzRy4PLNavLefnZ47PbGAIAg=/smart/974550fe260c4d1ebd7eef28b60d8152",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-30T16:04:07"
+  },
+  {
+   "id": 4953,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Aztec luncurkan kembali dompet privasi zk.money di Ethereum Layer 2",
+   "x": "Aztec Labs meluncurkan kembali dompet privasi mandiri zk.money di jaringan Layer 2 mereka setelah produk sebelumnya dihentikan. Ini memberikan opsi tambahan bagi pengguna Ethereum yang mencari privasi transaksi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T16:00:00"
+  },
+  {
    "id": 4957,
    "k": "web3",
    "cat": "Web3",
@@ -124,7 +138,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T16:00:00"
