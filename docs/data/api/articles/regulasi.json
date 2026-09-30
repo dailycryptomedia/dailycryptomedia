@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-ai-accord-raksasa-teknologi-keamanan",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T00:46:53"
@@ -32,18 +32,18 @@
    "published_at": "2026-09-27T22:02:57"
   },
   {
-   "id": 4751,
+   "id": 5071,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Penyitaan aset AS senilai $84 juta picu pertanyaan besar bagi Tether",
-   "x": "Penyitaan aset senilai $84 juta oleh otoritas AS menimbulkan pertanyaan mengenai cadangan Tether. Belum jelas apakah saldo bank yang disita merupakan bagian dari cadangan USDT.",
+   "t": "SEC ubah panduan pembelian kembali token seiring pengeluaran capai $638 juta",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) memperbarui panduan pembelian kembali token dengan syarat tambahan. Perubahan ini memengaruhi proyek kripto yang menghabiskan dana besar untuk buyback.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-eqibank-reserve-access.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/sec-changes-token-buyback-guidance-as-spending-hits-638m",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-governance-keyhole-1.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-27T21:15:14"
+   "published_at": "2026-09-30T14:20:59"
   },
   {
    "id": 4735,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-27T13:01:03"
@@ -74,6 +74,20 @@
    "published_at": "2026-09-28T18:39:09"
   },
   {
+   "id": 5064,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC modernisasi aturan agen transfer, Wall Street diminta belajar dari sejarah",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/75a8d0235f9094e9a1e34d054f39f2b76bb4db07-3127x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T11:00:00"
+  },
+  {
    "id": 4958,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -82,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sec-clears-tesla-sistem-voting-ritel",
    "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T17:58:35"
@@ -102,18 +116,18 @@
    "published_at": "2026-09-28T16:35:29"
   },
   {
-   "id": 4745,
+   "id": 4751,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Staking token ETH berisiko, staf SEC soroti risiko keluar",
-   "x": "Staf SEC menyoroti risiko yang melekat pada token staking ETH, termasuk kesulitan dalam menarik kembali aset. Hal ini relevan bagi investor Indonesia yang mempertimbangkan staking sebagai strategi imbal hasil aset digital.",
+   "t": "Penyitaan aset AS senilai $84 juta picu pertanyaan besar bagi Tether",
+   "x": "Penyitaan aset senilai $84 juta oleh otoritas AS menimbulkan pertanyaan mengenai cadangan Tether. Belum jelas apakah saldo bank yang disita merupakan bagian dari cadangan USDT.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/staking-token-risk-balance.webp",
+   "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-eqibank-reserve-access.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-27T16:00:54"
+   "published_at": "2026-09-27T21:15:14"
   },
   {
    "id": 4981,
@@ -124,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T19:31:04"
@@ -138,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T19:59:43"
@@ -158,6 +172,20 @@
    "published_at": "2026-09-27T18:04:31"
   },
   {
+   "id": 4745,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Staking token ETH berisiko, staf SEC soroti risiko keluar",
+   "x": "Staf SEC menyoroti risiko yang melekat pada token staking ETH, termasuk kesulitan dalam menarik kembali aset. Hal ini relevan bagi investor Indonesia yang mempertimbangkan staking sebagai strategi imbal hasil aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/staking-token-risk-balance.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-27T16:00:54"
+  },
+  {
    "id": 4821,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -166,24 +194,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T12:03:21"
   },
   {
-   "id": 4719,
+   "id": 4782,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Saylor jabarkan ‘piagam hak digital’ untuk bangun kemakmuran ekonomi masa depan",
-   "x": "Michael Saylor mengusulkan 'piagam hak digital' sebagai upaya membangun kemakmuran ekonomi masa depan. Ambisinya adalah memfasilitasi 10 juta perusahaan baru dalam menggalang modal.",
+   "t": "Fokus MiCA bergeser dari aturan ke pengawasan, kata ketua ESMA",
+   "x": "Ketua ESMA menyatakan fokus regulasi MiCA Uni Eropa kini beralih dari penyusunan aturan menjadi pengawasan. Pengawasan akan mencakup ketahanan penyedia layanan aset kripto dan pelaporan yang harmonis.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-27T07:18:42"
+   "published_at": "2026-09-28T14:02:45"
   },
   {
    "id": 4928,
@@ -200,20 +228,6 @@
    "published_at": "2026-09-29T08:25:20"
   },
   {
-   "id": 4782,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Fokus MiCA bergeser dari aturan ke pengawasan, kata ketua ESMA",
-   "x": "Ketua ESMA menyatakan fokus regulasi MiCA Uni Eropa kini beralih dari penyusunan aturan menjadi pengawasan. Pengawasan akan mencakup ketahanan penyedia layanan aset kripto dan pelaporan yang harmonis.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-28T14:02:45"
-  },
-  {
    "id": 4909,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -222,10 +236,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T09:50:22"
+  },
+  {
+   "id": 5033,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Tinjauan MiCA Uni Eropa: Lindungi pasar tanpa biaya berlebih",
+   "x": "Uni Eropa sedang meninjau regulasi MiCA untuk aset kripto. Tujuannya adalah melindungi pasar tanpa membebani inovasi, sebuah keseimbangan krusial bagi industri.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PGVN8T5865Q6391CM0SM9R/hi-digital-c-man-europe-mica-2.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T11:00:00"
   },
   {
    "id": 4787,
@@ -236,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KPPZ3K6FD8803AJAP84ZNZ/hk-flag.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T09:58:31"
