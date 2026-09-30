@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/vitalik-buterin-ethereum-hegota-fork-terakhir",
    "img": "https://assets.beincrypto.com/img/PAbDjXkr7ACueP5Vr6xecMJ6bQg=/smart/ba5599c2bc524df29c08c8e1442ff80c",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-28T05:05:57"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T21:46:03"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NN5Q5DBTGT6TEY43DJDPT2/coinbase.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:02:29"
@@ -68,10 +68,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T05:31:44"
+  },
+  {
+   "id": 5022,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "12 Pembaruan Glamsterdam Upgrade Ethereum yang Harus Kamu Tahu",
+   "x": "Glamsterdam upgrade Ethereum direncakan membawa sejumlah perubahan besar ke dalam jaringan. Simak ulasan lengkapnya berikut ini!",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/glamsterdam-upgrade-ethereum",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T04:00:42"
   },
   {
    "id": 4953,
@@ -82,24 +96,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T16:00:00"
-  },
-  {
-   "id": 4780,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Harga QNT Meroket 60% Usai Quant Dukung Inisiatif Perbankan AS",
-   "x": "Harga token QNT melonjak signifikan setelah Quant terpilih mendukung inisiatif perbankan AS. Kemitraan ini menunjukkan adopsi teknologi blockchain dalam sistem keuangan tradisional.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-qnt-meledak-60-persen-quant-masuk-infrastruktur-perbankan-as",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-28T01:45:04"
   },
   {
    "id": 4829,
@@ -124,10 +124,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T16:00:00"
+  },
+  {
+   "id": 4780,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Harga QNT Meroket 60% Usai Quant Dukung Inisiatif Perbankan AS",
+   "x": "Harga token QNT melonjak signifikan setelah Quant terpilih mendukung inisiatif perbankan AS. Kemitraan ini menunjukkan adopsi teknologi blockchain dalam sistem keuangan tradisional.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-qnt-meledak-60-persen-quant-masuk-infrastruktur-perbankan-as",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T01:45:04"
   },
   {
    "id": 4885,
