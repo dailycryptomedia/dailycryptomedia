@@ -1,35 +1,21 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 4989,
+   "id": 5111,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Trump Serahkan Keamanan AI ke Raksasa Teknologi: Di Balik Kesepakatan AI Baru",
-   "x": "Kesepakatan AI Trump meminta Google, Meta, dan OpenAI untuk mengawasi diri mereka sendiri. Lihat apa saja persyaratannya dan mengapa kebijakan ini mungkin kurang kuat.",
+   "t": "Meta Gunakan Gaji Zuckerberg untuk Pangkas Pajak hingga US$355 Juta: Apakah Musk Bisa Lakukan Juga?",
+   "x": "Meta memangkas pajaknya sebesar $355 juta dengan menggunakan gaji Zuckerberg. Lihat apakah pembayaran Tesla sebesar $116 miliar milik Elon Musk bisa memenuhi syarat.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-ai-accord-raksasa-teknologi-keamanan",
-   "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "19 jam lalu",
+   "url": "https://id.beincrypto.com/meta-zuckerberg-tax-break-elon-musk",
+   "img": "https://assets.beincrypto.com/img/smVnP7kfohwNi_Xluqp6hC7z8-o=/smart/8331f97941df4f1ea9e93d4ae404e045",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-30T00:46:53"
-  },
-  {
-   "id": 4746,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Analis on-chain kaitkan $18,4 juta dari memecoin Robinhood Chain ke satu operasi rug-pull",
-   "x": "Sebanyak 10 peluncuran token memecoin di jaringan Robinhood diduga merupakan operasi rug-pull tunggal. Sejumlah dompet dikecualikan dari pajak anti-sniping, memungkinkan mereka membeli sebagian besar pasokan token.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-2.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T22:02:57"
+   "published_at": "2026-09-30T23:01:13"
   },
   {
    "id": 5071,
@@ -40,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-changes-token-buyback-guidance-as-spending-hits-638m",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-governance-keyhole-1.webp",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T14:20:59"
@@ -74,6 +60,20 @@
    "published_at": "2026-09-29T19:31:04"
   },
   {
+   "id": 5119,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kegagalan Clarity Act Beri Kemenangan Regulasi Lebih Cepat untuk Kripto",
+   "x": "Kekalahan RUU Clarity Act justru dinilai memberikan industri kripto lebih banyak kebebasan dan mempercepat tindakan dari regulator AS. Hal ini membuka jalan bagi perkembangan aset digital yang lebih dinamis.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/Clarity-Act-Learn-scaled.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T21:53:05"
+  },
+  {
    "id": 5064,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -82,52 +82,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/75a8d0235f9094e9a1e34d054f39f2b76bb4db07-3127x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T11:00:00"
   },
   {
-   "id": 4958,
+   "id": 4989,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC Setujui Sistem Voting Ritel Baru Tesla. Apa yang Berubah untuk Investor?",
-   "x": "SEC telah menyetujui program voting ritel Tesla, memungkinkan investor kecil melakukan voting otomatis bersama dewan. Berikut cara kerjanya.",
+   "t": "Trump Serahkan Keamanan AI ke Raksasa Teknologi: Di Balik Kesepakatan AI Baru",
+   "x": "Kesepakatan AI Trump meminta Google, Meta, dan OpenAI untuk mengawasi diri mereka sendiri. Lihat apa saja persyaratannya dan mengapa kebijakan ini mungkin kurang kuat.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sec-clears-tesla-sistem-voting-ritel",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/trump-ai-accord-raksasa-teknologi-keamanan",
+   "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-29T17:58:35"
-  },
-  {
-   "id": 4847,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Komisioner SEC Hester Peirce refleksi masa tugasnya, target yang belum tercapai",
-   "x": "Hester Peirce mengakhiri masa baktinya di Komisi Sekuritas dan Bursa Amerika Serikat (SEC) setelah hampir satu dekade. Keputusannya untuk mundur menyoroti dinamika dalam badan regulator aset digital AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/06/20210628_Hester_Peirce.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-28T16:35:29"
-  },
-  {
-   "id": 4751,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Penyitaan aset AS senilai $84 juta picu pertanyaan besar bagi Tether",
-   "x": "Penyitaan aset senilai $84 juta oleh otoritas AS menimbulkan pertanyaan mengenai cadangan Tether. Belum jelas apakah saldo bank yang disita merupakan bagian dari cadangan USDT.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-eqibank-reserve-access.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-27T21:15:14"
+   "published_at": "2026-09-30T00:46:53"
   },
   {
    "id": 4968,
@@ -158,18 +130,32 @@
    "published_at": "2026-09-28T12:03:21"
   },
   {
-   "id": 4928,
+   "id": 5120,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Australia Dorong Suku Bunga ke Level Tertinggi dalam 15 Tahun dan Peringatkan Bisa Naik Lagi",
-   "x": "Reserve Bank of Australia (RBA) menaikkan suku bunga acuannya sebesar 25 basis poin menjadi 4,6%. Langkah ini membuat biaya pinjaman berada di level tertinggi sejak 2011. Dewan yang beranggotakan sembilan orang…",
+   "t": "CFTC Menangkan Gugatan Senilai $30 Juta Terhadap Terdakwa Kasus Penipuan Fundsz",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) berhasil memenangkan gugatan terhadap dua individu yang terlibat dalam skema penipuan aset kripto. Putusan pengadilan mewajibkan terdakwa membayar denda lebih dari $30 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T20:37:08"
+  },
+  {
+   "id": 4958,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC Setujui Sistem Voting Ritel Baru Tesla. Apa yang Berubah untuk Investor?",
+   "x": "SEC telah menyetujui program voting ritel Tesla, memungkinkan investor kecil melakukan voting otomatis bersama dewan. Berikut cara kerjanya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/rba-australia-kenaikan-suku-bunga-ke-level-tertinggi-15-tahun",
-   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
+   "url": "https://id.beincrypto.com/sec-clears-tesla-sistem-voting-ritel",
+   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-29T08:25:20"
+   "published_at": "2026-09-29T17:58:35"
   },
   {
    "id": 4782,
@@ -184,6 +170,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T14:02:45"
+  },
+  {
+   "id": 4847,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Komisioner SEC Hester Peirce refleksi masa tugasnya, target yang belum tercapai",
+   "x": "Hester Peirce mengakhiri masa baktinya di Komisi Sekuritas dan Bursa Amerika Serikat (SEC) setelah hampir satu dekade. Keputusannya untuk mundur menyoroti dinamika dalam badan regulator aset digital AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/06/20210628_Hester_Peirce.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-28T16:35:29"
+  },
+  {
+   "id": 4928,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Australia Dorong Suku Bunga ke Level Tertinggi dalam 15 Tahun dan Peringatkan Bisa Naik Lagi",
+   "x": "Reserve Bank of Australia (RBA) menaikkan suku bunga acuannya sebesar 25 basis poin menjadi 4,6%. Langkah ini membuat biaya pinjaman berada di level tertinggi sejak 2011. Dewan yang beranggotakan sembilan orang…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/rba-australia-kenaikan-suku-bunga-ke-level-tertinggi-15-tahun",
+   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-09-29T08:25:20"
   },
   {
    "id": 4909,
@@ -208,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PGVN8T5865Q6391CM0SM9R/hi-digital-c-man-europe-mica-2.jpg",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T11:00:00"
