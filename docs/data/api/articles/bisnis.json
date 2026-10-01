@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/evernorth-xrp-nasdaq-listing-8-oktober",
    "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T12:38:15"
-  },
-  {
-   "id": 4833,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Blockchain.com Bidik IPO $500 Juta Seiring Pulihnya Pasar Modal Kripto",
-   "x": "Perusahaan aset digital Blockchain.com berencana melakukan penawaran umum perdana dengan valuasi hingga $6 miliar. Upaya ini menandakan potensi pemulihan minat investor institusi terhadap aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MTCJ1E1J8KDT907A531CF3/hi-ipo-stocks-bitpgo.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-28T20:28:13"
   },
   {
    "id": 4991,
@@ -46,6 +32,20 @@
    "published_at": "2026-09-30T00:40:26"
   },
   {
+   "id": 4993,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Kalshi dalam tahap akhir penggalangan dana baru dengan valuasi $40 miliar",
+   "x": "Pasar prediksi Kalshi dikabarkan sedang dalam pembicaraan lanjutan untuk menggalang dana baru dengan valuasi $40 miliar. Valuasi ini meningkat pesat dari putaran pendanaan sebelumnya yang hanya empat bulan lalu.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RCTBM6ATW5K6885082AJQ4/kalshi.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T05:45:55"
+  },
+  {
    "id": 4980,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T20:06:03"
@@ -102,20 +102,6 @@
    "published_at": "2026-09-29T17:32:32"
   },
   {
-   "id": 4993,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Kalshi dalam tahap akhir penggalangan dana baru dengan valuasi $40 miliar",
-   "x": "Pasar prediksi Kalshi dikabarkan sedang dalam pembicaraan lanjutan untuk menggalang dana baru dengan valuasi $40 miliar. Valuasi ini meningkat pesat dari putaran pendanaan sebelumnya yang hanya empat bulan lalu.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RCTBM6ATW5K6885082AJQ4/kalshi.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T05:45:55"
-  },
-  {
    "id": 5072,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -128,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T13:20:43"
+  },
+  {
+   "id": 4969,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Valuasi OpenAI bisa capai $1,4 triliun dalam putaran pendanaan baru",
+   "x": "Pengembang ChatGPT, OpenAI, dilaporkan mencari pendanaan tambahan senilai $30 miliar dari investor. Perusahaan ini mendorong debut pasar publiknya yang telah lama ditunggu-tunggu hingga tahun 2027.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T19:55:49"
   },
   {
    "id": 4939,
@@ -166,24 +166,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/oura-ipo-delay-pasar-valuasi",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T03:10:00"
-  },
-  {
-   "id": 4969,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Valuasi OpenAI bisa capai $1,4 triliun dalam putaran pendanaan baru",
-   "x": "Pengembang ChatGPT, OpenAI, dilaporkan mencari pendanaan tambahan senilai $30 miliar dari investor. Perusahaan ini mendorong debut pasar publiknya yang telah lama ditunggu-tunggu hingga tahun 2027.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T19:55:49"
   },
   {
    "id": 5010,
@@ -222,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/micron-earnings-pendapatan-melonjak-379-persen",
    "img": "https://assets.beincrypto.com/img/ki_INUWoQf6woyemzwAxYGy93O8=/smart/355c77975e754a22931acc534b1504e4",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T20:38:43"
