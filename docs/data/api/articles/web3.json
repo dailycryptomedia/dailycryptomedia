@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ofac-sanksi-prometheus-atm-jackpotting",
    "img": null,
-   "a": "24 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T05:53:25"
@@ -32,6 +32,20 @@
    "published_at": "2026-09-29T21:46:03"
   },
   {
+   "id": 5175,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Robinhood integrasikan sistem Arcus RFQ untuk tukar token saham",
+   "x": "Robinhood Wallet menambahkan Arcus sebagai penyedia routing untuk penukaran token saham, memberikan akses ke lebih dari 190 token bagi pengguna yang memenuhi syarat.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/robinhood.png",
+   "a": "40 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T13:00:00"
+  },
+  {
    "id": 4868,
    "k": "web3",
    "cat": "Web3",
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T04:02:29"
-  },
-  {
-   "id": 5091,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "DogeOS luncurkan testnet untuk bawa smart contract EVM ke Dogecoin",
-   "x": "Proyek DogeOS meluncurkan testnet publik yang memungkinkan penggunaan smart contract EVM pada blockchain Dogecoin. Inisiatif ini berpotensi memperluas fungsionalitas Dogecoin di luar sekadar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T18:23:57"
   },
   {
    "id": 4883,
@@ -96,38 +96,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-scammers-built-an-entire-fake-blockchain-to-steal-over-2-million",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/fake-giwa-blockchain-scam.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T09:10:29"
   },
   {
-   "id": 4763,
+   "id": 5153,
    "k": "web3",
    "cat": "Web3",
-   "t": "Vitalik Buterin Sebut Hegota Tahun Depan Akan Jadi Fork ‘Normal’ Terakhir Ethereum",
-   "x": "Vitalik Buterin, co-founder Ethereum (ETH), memperkirakan upgrade Hegota tahun depan akan menjadi fork konvensional terakhir di jaringan Ethereum. Ia menyampaikan bahwa pekerjaan setelahnya akan melibatkan kriptografi…",
+   "t": "Jaringan Aplikasi Baru Dogecoin Sudah Live, tapi Harga DOGE Tidak Bereaksi",
+   "x": "Dogecoin tidak terpengaruh oleh testnet DogeOS karena DOGE kini mendukung smart contract. Lihat apa yang akan berubah untuk para holder selanjutnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/vitalik-buterin-ethereum-hegota-fork-terakhir",
-   "img": "https://assets.beincrypto.com/img/PAbDjXkr7ACueP5Vr6xecMJ6bQg=/smart/ba5599c2bc524df29c08c8e1442ff80c",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/dogeos-testnet-dogecoin-smart-contract-doge",
+   "img": "https://assets.beincrypto.com/img/Obb6R_Vx6DWSP4Y31-9yq2xoR7s=/smart/55e3c442950d4e5199ae47dc7282c068",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-09-28T05:05:57"
+   "published_at": "2026-10-01T11:27:43"
   },
   {
-   "id": 4953,
+   "id": 5173,
    "k": "web3",
    "cat": "Web3",
-   "t": "Aztec luncurkan kembali dompet privasi zk.money di Ethereum Layer 2",
-   "x": "Aztec Labs meluncurkan kembali dompet privasi mandiri zk.money di jaringan Layer 2 mereka setelah produk sebelumnya dihentikan. Ini memberikan opsi tambahan bagi pengguna Ethereum yang mencari privasi transaksi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-   "a": "kemarin",
+   "t": "MetaMask keluar dari validator Lido karena insiden keamanan",
+   "x": "Dompet kripto MetaMask menarik asetnya dari validator Lido akibat insiden keamanan infrastruktur. Penarikan ini dapat memakan waktu hingga 45 hari.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-29T16:00:00"
+   "published_at": "2026-10-01T09:38:06"
+  },
+  {
+   "id": 5091,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "DogeOS luncurkan testnet untuk bawa smart contract EVM ke Dogecoin",
+   "x": "Proyek DogeOS meluncurkan testnet publik yang memungkinkan penggunaan smart contract EVM pada blockchain Dogecoin. Inisiatif ini berpotensi memperluas fungsionalitas Dogecoin di luar sekadar aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T18:23:57"
   },
   {
    "id": 4957,
@@ -144,20 +158,6 @@
    "published_at": "2026-09-29T16:00:00"
   },
   {
-   "id": 4780,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Harga QNT Meroket 60% Usai Quant Dukung Inisiatif Perbankan AS",
-   "x": "Harga token QNT melonjak signifikan setelah Quant terpilih mendukung inisiatif perbankan AS. Kemitraan ini menunjukkan adopsi teknologi blockchain dalam sistem keuangan tradisional.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-qnt-meledak-60-persen-quant-masuk-infrastruktur-perbankan-as",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-28T01:45:04"
-  },
-  {
    "id": 5089,
    "k": "web3",
    "cat": "Web3",
@@ -166,10 +166,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerja-sama-ripple-cardano-di-brazil-dijelaskan",
    "img": "https://assets.beincrypto.com/img/KrrFzRy4PLNavLefnZ47PbGAIAg=/smart/974550fe260c4d1ebd7eef28b60d8152",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T16:04:07"
+  },
+  {
+   "id": 4953,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Aztec luncurkan kembali dompet privasi zk.money di Ethereum Layer 2",
+   "x": "Aztec Labs meluncurkan kembali dompet privasi mandiri zk.money di jaringan Layer 2 mereka setelah produk sebelumnya dihentikan. Ini memberikan opsi tambahan bagi pengguna Ethereum yang mencari privasi transaksi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T16:00:00"
+  },
+  {
+   "id": 5161,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apakah Wallet MetaMask Anda Aman setelah Insiden Keamanan?",
+   "x": "Sebuah insiden keamanan MetaMask menyerang sebagian infrastrukturnya. Cari tahu apa artinya untuk wallet dan ETH yang Anda staking.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/insiden-keamanan-metamask-wallet-validator",
+   "img": "https://assets.beincrypto.com/img/8HCXy7aDXJ3vBHDzu5k_7APyQXI=/smart/fb2988199b3b4539b2969f45001172d6",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-01T07:38:25"
   },
   {
    "id": 4885,

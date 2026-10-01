@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/meta-zuckerberg-tax-break-elon-musk",
    "img": "https://assets.beincrypto.com/img/smVnP7kfohwNi_Xluqp6hC7z8-o=/smart/8331f97941df4f1ea9e93d4ae404e045",
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T23:01:13"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-changes-token-buyback-guidance-as-spending-hits-638m",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-governance-keyhole-1.webp",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T14:20:59"
@@ -68,24 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/Clarity-Act-Learn-scaled.jpg",
-   "a": "8 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T21:53:05"
   },
   {
-   "id": 5064,
+   "id": 5164,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC modernisasi aturan agen transfer, Wall Street diminta belajar dari sejarah",
+   "t": "Illinois tunda pajak kripto enam bulan di tengah gugatan industri",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/75a8d0235f9094e9a1e34d054f39f2b76bb4db07-3127x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "19 jam lalu",
+   "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/edd10316fa7620a12d0bce0492520092d00802b5-4752x3168.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T11:00:00"
+   "published_at": "2026-10-01T11:58:00"
   },
   {
    "id": 4989,
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T00:46:53"
+  },
+  {
+   "id": 5178,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "RUU pajak Senat bebaskan pengeluaran stablecoin, Bitcoin tetap di formulir IRS",
+   "x": "Proposal yang beredar akan memberikan perlakuan tanpa untung/rugi untuk pembelian stablecoin dolar yang memenuhi syarat. Sementara itu, pengeluaran Bitcoin biasa tetap wajib dilaporkan ke otoritas pajak AS.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/senate-tax-bill-frees-stablecoin-spending-while-bitcoin-stays-on-irs-forms",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-bitcoin-checkout.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T12:20:50"
   },
   {
    "id": 4968,
@@ -124,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T12:03:21"
@@ -138,10 +152,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T20:37:08"
+  },
+  {
+   "id": 5064,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC modernisasi aturan agen transfer, Wall Street diminta belajar dari sejarah",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/75a8d0235f9094e9a1e34d054f39f2b76bb4db07-3127x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T11:00:00"
   },
   {
    "id": 4958,
@@ -158,6 +186,20 @@
    "published_at": "2026-09-29T17:58:35"
   },
   {
+   "id": 5183,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan AS blokir korban dari 127.000 Bitcoin sitaan",
+   "x": "Pengadilan Amerika Serikat menolak permohonan korban untuk mendapatkan kembali 127.000 Bitcoin yang disita karena tidak ditemukan kaitan langsung. Keputusan remisi oleh Departemen Kehakiman bergantung pada proses penyitaan dan keputusan diskresioner.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/us-court-blocks-victims-from-127000-seized-bitcoin-and-petition-rules-are-blamed",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-victim-remission.webp",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T06:30:21"
+  },
+  {
    "id": 4782,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -170,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T14:02:45"
+  },
+  {
+   "id": 5174,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "EU selidiki Binance soal pengecualian 'promosi terbalik' pengguna",
+   "x": "Regulator Uni Eropa sedang menyelidiki bagaimana bursa kripto Binance terus melayani pelanggan di wilayah tersebut dari Abu Dhabi. Hal ini terjadi beberapa bulan setelah Binance kehilangan registrasi MiCA.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T08:56:02"
   },
   {
    "id": 4847,
@@ -194,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rba-australia-kenaikan-suku-bunga-ke-level-tertinggi-15-tahun",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-29T08:25:20"
@@ -208,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T09:50:22"
@@ -222,7 +278,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PGVN8T5865Q6391CM0SM9R/hi-digital-c-man-europe-mica-2.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T11:00:00"
@@ -236,10 +292,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KPPZ3K6FD8803AJAP84ZNZ/hk-flag.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-28T09:58:31"
+  },
+  {
+   "id": 5148,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Layanan Binance di EU diawasi terkait pengecualian lisensi",
+   "x": "Regulator Uni Eropa mengawasi penggunaan pengecualian lisensi oleh Binance di wilayahnya. Hal ini menimbulkan pertanyaan mengenai kepatuhan bursa kripto terhadap regulasi aset digital di Eropa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V9TMRARDGQZKSXNKGYHXXW/hi-digitized-europe-the-shift-to-a-cashless-world2-2.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T10:07:18"
+  },
+  {
+   "id": 5149,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Chainalysis menangkan sebagian besar klaim Celsius, gugatan audit berlanjut",
+   "x": "Chainalysis berhasil menggugurkan sebagian besar tuntutan dari Celsius, namun gugatan terkait audit senilai US$3,3 miliar tetap berlanjut. Hakim menolak 15 tuntutan lainnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8HCJJXEVRWZE2XE1FHZ45/hi-the-cftcs-action-against-is-bad-news-for-bitcoin-etfs-1.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T09:09:46"
   }
  ]
 }
