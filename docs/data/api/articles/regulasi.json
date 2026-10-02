@@ -1,5 +1,5 @@
 {
- "total": 32,
+ "total": 33,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790881325706.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T19:10:36"
+  },
+  {
+   "id": 5330,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Circle Tolak Mandat Deposit Bank untuk Stablecoin dalam Regulasi MiCA",
+   "x": "Penerbit USDC menolak aturan MiCA yang mewajibkan stablecoin didukung deposit bank, menganggapnya membatasi inovasi. Circle meminta aturan yang lebih fleksibel agar stablecoin global bisa beroperasi di Eropa.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png",
+   "a": "16 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T19:46:03"
   },
   {
    "id": 5188,
@@ -40,24 +54,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W9759ASDBQAC0YM9309Y4A/hi-why-technology-assurances-are-a-must-for-crafting-eu-crypto-regulation-mica.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:45:09"
-  },
-  {
-   "id": 5208,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OpenAI Pecat Tiga Peneliti Keamanan Terkait Dugaan Kebocoran",
-   "x": "OpenAI memecat tiga peneliti karena melanggar aturan penanganan informasi sensitif. Insiden ini terjadi di tengah isu keamanan dan keluarnya sejumlah anggota tim riset.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T18:12:04"
   },
   {
    "id": 5071,
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/wall-street-makin-dekat-ke-kripto-sec-siapkan-aturan-custody-baru",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T09:00:10"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/proposal-penitipan-kripto-sec-bitcoin",
    "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T22:04:36"
@@ -124,10 +124,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/kerbrat_option_C_darkgreen.jpg",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T05:04:41"
+  },
+  {
+   "id": 5208,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OpenAI Pecat Tiga Peneliti Keamanan Terkait Dugaan Kebocoran",
+   "x": "OpenAI memecat tiga peneliti karena melanggar aturan penanganan informasi sensitif. Insiden ini terjadi di tengah isu keamanan dan keluarnya sejumlah anggota tim riset.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T18:12:04"
   },
   {
    "id": 5189,
@@ -138,24 +152,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W4DEMZ53S3Q9NK2GTJAT5R/hi-crypto-glossary-tax-2.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:01:49"
-  },
-  {
-   "id": 5224,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan aturan penyimpanan aset kripto bagi penasihat investasi",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memperjelas penyimpanan aset kripto oleh penasihat dan reksa dana. Aturan ini bertujuan memberikan kepastian regulasi dan memfasilitasi kepatuhan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T20:46:03"
   },
   {
    "id": 5178,
@@ -172,18 +172,18 @@
    "published_at": "2026-10-01T12:20:50"
   },
   {
-   "id": 5222,
+   "id": 5323,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC usulkan aturan baru penyimpanan kripto untuk penasihat investasi",
+   "t": "Calon 'czar AI' Trump, Jay Clayton, bantu rintis penindakan kripto SEC",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dee7ca3ec92ba77eecf6dabbabbc08eb9f261f9b-6345x4230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T20:20:04"
+   "published_at": "2026-10-02T17:12:48"
   },
   {
    "id": 4989,
@@ -214,6 +214,20 @@
    "published_at": "2026-09-30T21:53:05"
   },
   {
+   "id": 5224,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan aturan penyimpanan aset kripto bagi penasihat investasi",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memperjelas penyimpanan aset kripto oleh penasihat dan reksa dana. Aturan ini bertujuan memberikan kepastian regulasi dan memfasilitasi kepatuhan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T20:46:03"
+  },
+  {
    "id": 5233,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -222,24 +236,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T01:07:08"
-  },
-  {
-   "id": 5210,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Illinois tunda pajak kripto kontroversial akibat gugatan industri",
-   "x": "Pemerintah Illinois dan kelompok industri kripto sepakat menunda penerapan pajak aset digital sebesar 0,2% hingga Juli 2027. Penundaan ini terjadi saat gugatan hukum terhadap pajak tersebut masih berlangsung.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T16:16:03"
   },
   {
    "id": 5183,
@@ -256,74 +256,18 @@
    "published_at": "2026-10-01T06:30:21"
   },
   {
-   "id": 5064,
+   "id": 5222,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC modernisasi aturan agen transfer, Wall Street diminta belajar dari sejarah",
+   "t": "SEC usulkan aturan baru penyimpanan kripto untuk penasihat investasi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/75a8d0235f9094e9a1e34d054f39f2b76bb4db07-3127x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T11:00:00"
-  },
-  {
-   "id": 4958,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC Setujui Sistem Voting Ritel Baru Tesla. Apa yang Berubah untuk Investor?",
-   "x": "SEC telah menyetujui program voting ritel Tesla, memungkinkan investor kecil melakukan voting otomatis bersama dewan. Berikut cara kerjanya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sec-clears-tesla-sistem-voting-ritel",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-29T17:58:35"
-  },
-  {
-   "id": 5228,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan kerangka kerja penyimpanan mandiri aset kripto",
-   "x": "Regulator AS mengusulkan aturan baru yang memungkinkan penasihat investasi dan dana untuk menyimpan aset kripto mereka sendiri dalam kondisi tertentu. Ini bisa memengaruhi cara investor institusi mengelola aset digital mereka di masa depan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T21:00:53"
-  },
-  {
-   "id": 5273,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
-   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T12:25:56"
-  },
-  {
-   "id": 4981,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "PS5 berhasil di-jailbreak setelah Sony klaim pemain tak miliki gim",
-   "x": "Pendiri Linear Fox merilis jailbreak publik untuk PS5 bertepatan dengan argumen Sony di pengadilan bahwa pemain tidak memiliki gim digital mereka. Peristiwa ini memicu diskusi tentang kepemilikan aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T19:31:04"
+   "published_at": "2026-10-01T20:20:04"
   },
   {
    "id": 5196,
@@ -340,6 +284,76 @@
    "published_at": "2026-10-01T13:58:59"
   },
   {
+   "id": 5228,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan kerangka kerja penyimpanan mandiri aset kripto",
+   "x": "Regulator AS mengusulkan aturan baru yang memungkinkan penasihat investasi dan dana untuk menyimpan aset kripto mereka sendiri dalam kondisi tertentu. Ini bisa memengaruhi cara investor institusi mengelola aset digital mereka di masa depan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T21:00:53"
+  },
+  {
+   "id": 5210,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Illinois tunda pajak kripto kontroversial akibat gugatan industri",
+   "x": "Pemerintah Illinois dan kelompok industri kripto sepakat menunda penerapan pajak aset digital sebesar 0,2% hingga Juli 2027. Penundaan ini terjadi saat gugatan hukum terhadap pajak tersebut masih berlangsung.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T16:16:03"
+  },
+  {
+   "id": 5273,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
+   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T12:25:56"
+  },
+  {
+   "id": 5064,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC modernisasi aturan agen transfer, Wall Street diminta belajar dari sejarah",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/75a8d0235f9094e9a1e34d054f39f2b76bb4db07-3127x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T11:00:00"
+  },
+  {
+   "id": 5290,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Payroll Nonpertanian AS Rilis Hari Ini: Inilah yang Bisa Diharapkan",
+   "x": "Bureau of Labor Statistics (BLS) Amerika Serikat (AS) akan merilis data Nonfarm Payrolls (NFP) bulan September pada hari Jumat pukul 12:30 GMT. Karena investor masih bimbang soal potensi kenaikan suku bunga Federal…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/september-nfp-2026-apa-yang-diharapkan",
+   "img": "https://assets.beincrypto.com/img/hdRcvCKJXh5Z6IAF19RKClIKlsI=/smart/2e211217b4c84295a2a084926a19a126",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-02T09:04:53"
+  },
+  {
    "id": 5120,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -354,6 +368,20 @@
    "published_at": "2026-09-30T20:37:08"
   },
   {
+   "id": 4981,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "PS5 berhasil di-jailbreak setelah Sony klaim pemain tak miliki gim",
+   "x": "Pendiri Linear Fox merilis jailbreak publik untuk PS5 bertepatan dengan argumen Sony di pengadilan bahwa pemain tidak memiliki gim digital mereka. Peristiwa ini memicu diskusi tentang kepemilikan aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T19:31:04"
+  },
+  {
    "id": 5190,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -362,7 +390,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W216CF6VJCFGDPQR2ZF9XR/hi-top-5-crypto-states-in-us-b-man-alabama.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T16:12:23"
@@ -382,20 +410,6 @@
    "published_at": "2026-10-01T08:56:02"
   },
   {
-   "id": 5290,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Payroll Nonpertanian AS Rilis Hari Ini: Inilah yang Bisa Diharapkan",
-   "x": "Bureau of Labor Statistics (BLS) Amerika Serikat (AS) akan merilis data Nonfarm Payrolls (NFP) bulan September pada hari Jumat pukul 12:30 GMT. Karena investor masih bimbang soal potensi kenaikan suku bunga Federal…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/september-nfp-2026-apa-yang-diharapkan",
-   "img": "https://assets.beincrypto.com/img/hdRcvCKJXh5Z6IAF19RKClIKlsI=/smart/2e211217b4c84295a2a084926a19a126",
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-02T09:04:53"
-  },
-  {
    "id": 4968,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -404,7 +418,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T19:59:43"

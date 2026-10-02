@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 22,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T00:22:58"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T02:02:13"
@@ -102,18 +102,18 @@
    "published_at": "2026-10-01T14:18:14"
   },
   {
-   "id": 5308,
+   "id": 5326,
    "k": "defi",
    "cat": "DeFi",
-   "t": "DeFi Cardano menyusut, RealFi harap kredit bisa bangkitkan",
-   "x": "Sektor DeFi di Cardano menyusut lebih dari separuh nilainya. Harapannya kini tertuju pada model RealFi yang mengandalkan kredit untuk memulihkan ekosistem.",
+   "t": "Peretas Curi 114 ETH Lewat Alat Pihak Ketiga Aave",
+   "x": "Peretas berhasil mencuri 114 ETH senilai lebih dari $300.000 dengan mengeksploitasi alat pinjaman pihak ketiga di Aave. Protokol Aave sendiri tidak terdampak serangan ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
-   "a": "1 jam lalu",
+   "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
+   "a": "52 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T13:40:24"
+   "published_at": "2026-10-02T19:10:35"
   },
   {
    "id": 5213,
@@ -124,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T16:17:23"
@@ -172,32 +172,32 @@
    "published_at": "2026-10-01T07:06:30"
   },
   {
-   "id": 5230,
+   "id": 5308,
    "k": "defi",
    "cat": "DeFi",
-   "t": "NEAR alami peretasan aplikasi senilai $3,8 juta setelah peluncuran ETF",
-   "x": "Protokol NEAR menghadapi uji coba pertama setelah peluncuran ETF baru, ketika sebuah aplikasi ekosistemnya diretas senilai jutaan dolar. Insiden keamanan ini menyebabkan penurunan harga token NEAR.",
+   "t": "DeFi Cardano menyusut, RealFi harap kredit bisa bangkitkan",
+   "x": "Sektor DeFi di Cardano menyusut lebih dari separuh nilainya. Harapannya kini tertuju pada model RealFi yang mengandalkan kredit untuk memulihkan ekosistem.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
-   "a": "17 jam lalu",
+   "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T21:30:20"
+   "published_at": "2026-10-02T13:40:24"
   },
   {
-   "id": 5215,
+   "id": 5324,
    "k": "defi",
    "cat": "DeFi",
-   "t": "NEAR Intents hentikan layanan pasca eksploitasi $3,8 juta, janjikan kompensasi penuh",
-   "x": "NEAR Intents menghentikan layanan setelah peretasan senilai $3,8 juta, namun berjanji akan mengganti dana pengguna. Insiden ini menyoroti risiko keamanan yang terus ada di ekosistem aset digital.",
+   "t": "Drift buka klaim pemulihan eksploitasi dengan pembayaran awal hanya 1% dari kerugian pengguna",
+   "x": "Pemegang token DFX kini dapat mencairkan dana mereka atau menunggu pendanaan tambahan, tanpa kepastian kapan pembayaran penuh akan dilakukan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T14:18:12"
+   "published_at": "2026-10-02T17:10:40"
   },
   {
    "id": 5278,
@@ -208,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T09:30:49"
@@ -228,32 +228,32 @@
    "published_at": "2026-10-01T13:30:08"
   },
   {
-   "id": 5105,
+   "id": 5230,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Rencana pinjaman Aave $50 juta berisiko rugi meski tanpa gagal bayar",
-   "x": "Rencana pinjaman Bitcoin dan Ether baru dari Aave berpotensi merugi meskipun tidak ada gagal bayar. Hal ini disebabkan oleh struktur pinjaman yang menggabungkan agunan peminjam dengan aset DAO untuk sumber pendanaan terpisah.",
+   "t": "NEAR alami peretasan aplikasi senilai $3,8 juta setelah peluncuran ETF",
+   "x": "Protokol NEAR menghadapi uji coba pertama setelah peluncuran ETF baru, ketika sebuah aplikasi ekosistemnya diretas senilai jutaan dolar. Insiden keamanan ini menyebabkan penurunan harga token NEAR.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave_collateral_balance_risk.webp",
+   "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T21:30:20"
+  },
+  {
+   "id": 5215,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "NEAR Intents hentikan layanan pasca eksploitasi $3,8 juta, janjikan kompensasi penuh",
+   "x": "NEAR Intents menghentikan layanan setelah peretasan senilai $3,8 juta, namun berjanji akan mengganti dana pengguna. Insiden ini menyoroti risiko keamanan yang terus ada di ekosistem aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T18:20:26"
-  },
-  {
-   "id": 4955,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bitwise luncurkan ETF spot NEAR pertama di AS dengan imbal hasil staking",
-   "x": "ETF NEAR pertama di AS dikenakan biaya 0,75% dan akan melakukan staking aset NEAR secara internal, dengan imbal hasil didistribusikan kepada pemegang saham. Ini menawarkan cara baru bagi investor untuk mendapatkan imbal hasil dari aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220808_NEAR-Protocol-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T14:27:22"
+   "published_at": "2026-10-01T14:18:12"
   },
   {
    "id": 5192,
@@ -264,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T15:43:34"
@@ -284,6 +284,20 @@
    "published_at": "2026-09-30T08:31:49"
   },
   {
+   "id": 5105,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Rencana pinjaman Aave $50 juta berisiko rugi meski tanpa gagal bayar",
+   "x": "Rencana pinjaman Bitcoin dan Ether baru dari Aave berpotensi merugi meskipun tidak ada gagal bayar. Hal ini disebabkan oleh struktur pinjaman yang menggabungkan agunan peminjam dengan aset DAO untuk sumber pendanaan terpisah.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave_collateral_balance_risk.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T18:20:26"
+  },
+  {
    "id": 5107,
    "k": "defi",
    "cat": "DeFi",
@@ -292,7 +306,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uks-2027-crypto-rules-let-firms-remove-trust-protection-from-bitcoin-lent-for-yield",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/uk-bitcoin-collateral-rules.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T17:20:04"
