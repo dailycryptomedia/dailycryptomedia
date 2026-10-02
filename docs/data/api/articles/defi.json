@@ -1,5 +1,5 @@
 {
- "total": 26,
+ "total": 22,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,20 +16,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T22:50:49"
-  },
-  {
-   "id": 4891,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Yield staking Ethereum turun, cari alternatif passive income",
-   "x": "Imbal hasil staking Ethereum yang menurun membuat investor mencari opsi lain untuk pendapatan pasif. Artikel ini menyajikan beberapa alternatif yang bisa dipertimbangkan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/alternatif-staking-ethereum",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T04:30:39"
   },
   {
    "id": 4925,
@@ -54,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T00:22:58"
@@ -82,10 +68,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-   "a": "21 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T02:02:13"
+  },
+  {
+   "id": 4941,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Warga Tiongkok diduga bantu cuci aset kripto hasil peretasan Bitget",
+   "x": "Penyelidikan terhadap peretasan Bitget mengungkap dugaan keterlibatan warga Tiongkok dalam pencucian aset kripto curian. Analis melacak aliran dana ke berbagai alias dan platform.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/oknum-tiongkok-diduga-bantu-peretas-bitget-cuci-kripto-curian",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-29T09:00:21"
   },
   {
    "id": 5200,
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:18:14"
@@ -110,24 +110,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T21:30:20"
-  },
-  {
-   "id": 4889,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "THORChain dipakai peretas Bitget untuk cuci uang",
-   "x": "Protokol THORChain terseret dalam kasus peretasan Bitget karena digunakan pelaku untuk memindahkan dana hasil curian. Ini menyoroti peran platform DeFi dalam aktivitas ilegal.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/apa-itu-thorchain-yang-dipakai-peretas-bitget-untuk-mencuci-uang",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T06:00:16"
   },
   {
    "id": 5131,
@@ -138,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morgan-stanley-terobosan-biotek-peluang-investasi",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T04:05:00"
@@ -152,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T16:17:23"
@@ -172,6 +158,20 @@
    "published_at": "2026-09-30T10:05:39"
   },
   {
+   "id": 5024,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "10 Fakta Kasus Peretasan Bitget Terbaru yang Harus Kamu Tahu!",
+   "x": "Perkembangan kasus peretasan Bitget terus menemukan fakta-fakta baru. Simak ulasan lengkapnya di bawah ini!",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/fakta-kasus-peretasan-bitget",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T03:30:57"
+  },
+  {
    "id": 5169,
    "k": "defi",
    "cat": "DeFi",
@@ -180,7 +180,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T07:06:30"
@@ -200,20 +200,6 @@
    "published_at": "2026-09-30T18:20:26"
   },
   {
-   "id": 4941,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Warga Tiongkok diduga bantu cuci aset kripto hasil peretasan Bitget",
-   "x": "Penyelidikan terhadap peretasan Bitget mengungkap dugaan keterlibatan warga Tiongkok dalam pencucian aset kripto curian. Analis melacak aliran dana ke berbagai alias dan platform.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/oknum-tiongkok-diduga-bantu-peretas-bitget-cuci-kripto-curian",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T09:00:21"
-  },
-  {
    "id": 5160,
    "k": "defi",
    "cat": "DeFi",
@@ -222,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-crypto-hack-september-2026-bitget",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T08:39:04"
@@ -236,24 +222,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:18:12"
   },
   {
-   "id": 4870,
+   "id": 5192,
    "k": "defi",
    "cat": "DeFi",
-   "t": "NEAR Intents blokir dana $50 juta terkait peretas Bitget",
-   "x": "Protokol NEAR Intents berhasil memblokir dana senilai $50 juta yang terkait dengan peretas Bitget. Tindakan ini menunjukkan upaya pencegahan pencucian dana curian di ekosistem aset digital.",
+   "t": "NEAR Intents rugikan $3,8 juta akibat eksploitasi setelah bantu kasus Bitget",
+   "x": "Platform NEAR Intents mengalami kerugian sebesar $3,8 juta akibat eksploitasi yang berasal dari bug pada sistem deposit dan penarikan. Perusahaan berjanji akan mengganti rugi seluruh pengguna yang terdampak.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NBRAAT0NCB2NNTGMK1CR22/block.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-29T01:17:49"
+   "published_at": "2026-10-01T15:43:34"
   },
   {
    "id": 5107,
@@ -270,20 +256,6 @@
    "published_at": "2026-09-30T17:20:04"
   },
   {
-   "id": 5024,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "10 Fakta Kasus Peretasan Bitget Terbaru yang Harus Kamu Tahu!",
-   "x": "Perkembangan kasus peretasan Bitget terus menemukan fakta-fakta baru. Simak ulasan lengkapnya di bawah ini!",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/fakta-kasus-peretasan-bitget",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T03:30:57"
-  },
-  {
    "id": 5197,
    "k": "defi",
    "cat": "DeFi",
@@ -292,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/near-intents-diretas-hilang-38-juta",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T13:30:08"
@@ -310,34 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T14:27:22"
-  },
-  {
-   "id": 5192,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "NEAR Intents rugikan $3,8 juta akibat eksploitasi setelah bantu kasus Bitget",
-   "x": "Platform NEAR Intents mengalami kerugian sebesar $3,8 juta akibat eksploitasi yang berasal dari bug pada sistem deposit dan penarikan. Perusahaan berjanji akan mengganti rugi seluruh pengguna yang terdampak.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T15:43:34"
-  },
-  {
-   "id": 4888,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Compound DAO gunakan cadangan protokol beli COMP senilai $52 juta",
-   "x": "Compound DAO menggunakan cadangan protokol untuk membeli token COMP senilai $52 juta, yang dinilai oleh beberapa delegasi sebagai pelanggaran mandat. Pihak yayasan menyatakan langkah tersebut sesuai dengan mandat DAO.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/compound-dao-used-protocol-reserves-to-buy-52-million-worth-of-comp-and-delegates-call-it-a-mandate-breach",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/compound-proposal-582-standard.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T02:30:29"
   },
   {
    "id": 4926,
@@ -362,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cathie-wood-imbal-hasil-treasury-10-tahun",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T08:31:49"
