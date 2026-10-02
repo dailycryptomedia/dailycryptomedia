@@ -1,5 +1,5 @@
 {
- "total": 22,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-09-29T22:50:49"
   },
   {
-   "id": 4925,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Coinbase Baru Saja Menggoda Produk yang Tidak Ada Hubungannya dengan Aset Kripto — atau Mungkin Ada?",
-   "x": "Kartu Pokémon Coinbase akan segera hadir. Buka pack di ponsel Anda, lalu simpan di vault atau kirim kartu fisik di balik setiap kartu yang Anda dapatkan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coinbase-kartu-pokemon-pack-digital-fisik",
-   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-29T11:26:45"
-  },
-  {
    "id": 5237,
    "k": "defi",
    "cat": "DeFi",
@@ -40,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T00:22:58"
@@ -68,52 +54,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-   "a": "6 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T02:02:13"
-  },
-  {
-   "id": 4941,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Warga Tiongkok diduga bantu cuci aset kripto hasil peretasan Bitget",
-   "x": "Penyelidikan terhadap peretasan Bitget mengungkap dugaan keterlibatan warga Tiongkok dalam pencucian aset kripto curian. Analis melacak aliran dana ke berbagai alias dan platform.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/oknum-tiongkok-diduga-bantu-peretas-bitget-cuci-kripto-curian",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-29T09:00:21"
-  },
-  {
-   "id": 5200,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "NEAR Intents terdampak eksploitasi $3,8 juta, tahun peretasan kripto berlanjut",
-   "x": "NEAR Intents mengalami eksploitasi senilai $3,8 juta, menambah daftar panjang insiden keamanan di industri aset digital tahun ini. Peristiwa ini kembali mengingatkan pentingnya kewaspadaan terhadap risiko peretasan.",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T14:18:14"
-  },
-  {
-   "id": 5230,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "NEAR alami peretasan aplikasi senilai $3,8 juta setelah peluncuran ETF",
-   "x": "Protokol NEAR menghadapi uji coba pertama setelah peluncuran ETF baru, ketika sebuah aplikasi ekosistemnya diretas senilai jutaan dolar. Insiden keamanan ini menyebabkan penurunan harga token NEAR.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T21:30:20"
   },
   {
    "id": 5131,
@@ -130,34 +74,6 @@
    "published_at": "2026-10-01T04:05:00"
   },
   {
-   "id": 5213,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Proposal Pembakaran Imbal Hasil Staking Ethereum Ditarik",
-   "x": "Penulis proposal EIP-8363 menariknya dari pembaruan Hegota. Ia meyakini perubahan penerbitan aset digital lebih tepat dibahas dalam forum yang berbeda.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T16:17:23"
-  },
-  {
-   "id": 5036,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "SlowMist lacak aktivitas peretasan Bitget ke eksploitasi zero-day 31 Agustus",
-   "x": "Perusahaan keamanan siber SlowMist mengidentifikasi aktivitas peretasan Bitget terkait kerentanan zero-day. Penemuan ini menyoroti pentingnya kewaspadaan terhadap ancaman keamanan siber di industri aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RTGB6W8ZNJPV69XHVA5WD7/hi-crypto-mixers-and-crosschain-bridges-how-hackers-hide-stolen-assets.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T10:05:39"
-  },
-  {
    "id": 5024,
    "k": "defi",
    "cat": "DeFi",
@@ -172,32 +88,60 @@
    "published_at": "2026-09-30T03:30:57"
   },
   {
-   "id": 5169,
+   "id": 5200,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Insiden keamanan MetaMask paksa keluar staking Ethereum, dana aman",
-   "x": "",
+   "t": "NEAR Intents terdampak eksploitasi $3,8 juta, tahun peretasan kripto berlanjut",
+   "x": "NEAR Intents mengalami eksploitasi senilai $3,8 juta, menambah daftar panjang insiden keamanan di industri aset digital tahun ini. Peristiwa ini kembali mengingatkan pentingnya kewaspadaan terhadap risiko peretasan.",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T07:06:30"
+   "published_at": "2026-10-01T14:18:14"
   },
   {
-   "id": 5105,
+   "id": 5308,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Rencana pinjaman Aave $50 juta berisiko rugi meski tanpa gagal bayar",
-   "x": "Rencana pinjaman Bitcoin dan Ether baru dari Aave berpotensi merugi meskipun tidak ada gagal bayar. Hal ini disebabkan oleh struktur pinjaman yang menggabungkan agunan peminjam dengan aset DAO untuk sumber pendanaan terpisah.",
+   "t": "DeFi Cardano menyusut, RealFi harap kredit bisa bangkitkan",
+   "x": "Sektor DeFi di Cardano menyusut lebih dari separuh nilainya. Harapannya kini tertuju pada model RealFi yang mengandalkan kredit untuk memulihkan ekosistem.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave_collateral_balance_risk.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T18:20:26"
+   "published_at": "2026-10-02T13:40:24"
+  },
+  {
+   "id": 5213,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Proposal Pembakaran Imbal Hasil Staking Ethereum Ditarik",
+   "x": "Penulis proposal EIP-8363 menariknya dari pembaruan Hegota. Ia meyakini perubahan penerbitan aset digital lebih tepat dibahas dalam forum yang berbeda.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T16:17:23"
+  },
+  {
+   "id": 5036,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "SlowMist lacak aktivitas peretasan Bitget ke eksploitasi zero-day 31 Agustus",
+   "x": "Perusahaan keamanan siber SlowMist mengidentifikasi aktivitas peretasan Bitget terkait kerentanan zero-day. Penemuan ini menyoroti pentingnya kewaspadaan terhadap ancaman keamanan siber di industri aset kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RTGB6W8ZNJPV69XHVA5WD7/hi-crypto-mixers-and-crosschain-bridges-how-hackers-hide-stolen-assets.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T10:05:39"
   },
   {
    "id": 5160,
@@ -214,6 +158,34 @@
    "published_at": "2026-10-01T08:39:04"
   },
   {
+   "id": 5169,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Insiden keamanan MetaMask paksa keluar staking Ethereum, dana aman",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T07:06:30"
+  },
+  {
+   "id": 5230,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "NEAR alami peretasan aplikasi senilai $3,8 juta setelah peluncuran ETF",
+   "x": "Protokol NEAR menghadapi uji coba pertama setelah peluncuran ETF baru, ketika sebuah aplikasi ekosistemnya diretas senilai jutaan dolar. Insiden keamanan ini menyebabkan penurunan harga token NEAR.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T21:30:20"
+  },
+  {
    "id": 5215,
    "k": "defi",
    "cat": "DeFi",
@@ -222,38 +194,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:18:12"
   },
   {
-   "id": 5192,
+   "id": 5278,
    "k": "defi",
    "cat": "DeFi",
-   "t": "NEAR Intents rugikan $3,8 juta akibat eksploitasi setelah bantu kasus Bitget",
-   "x": "Platform NEAR Intents mengalami kerugian sebesar $3,8 juta akibat eksploitasi yang berasal dari bug pada sistem deposit dan penarikan. Perusahaan berjanji akan mengganti rugi seluruh pengguna yang terdampak.",
+   "t": "Pendiri Aave: V3 tidak terpengaruh peretasan adapter pihak ketiga",
+   "x": "Peretas mengeksploitasi adapter pihak ketiga untuk mencuri dana, namun protokol Aave V3 tetap aman. Insiden ini menunjukkan pentingnya keamanan pada komponen eksternal dalam ekosistem DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
-   "a": "17 jam lalu",
+   "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T15:43:34"
-  },
-  {
-   "id": 5107,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aturan Kripto Inggris 2027 izinkan perlindungan kepercayaan dicabut untuk Bitcoin yang dipinjamkan demi imbal hasil",
-   "x": "Inggris akan menerapkan aturan baru pada Oktober 2027 yang mengizinkan pencabutan perlindungan kepercayaan untuk Bitcoin yang dipinjamkan demi imbal hasil. Perubahan ini dapat memengaruhi keamanan aset digital yang digunakan dalam skema DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uks-2027-crypto-rules-let-firms-remove-trust-protection-from-bitcoin-lent-for-yield",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/uk-bitcoin-collateral-rules.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T17:20:04"
+   "published_at": "2026-10-02T09:30:49"
   },
   {
    "id": 5197,
@@ -264,10 +222,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/near-intents-diretas-hilang-38-juta",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T13:30:08"
+  },
+  {
+   "id": 5105,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Rencana pinjaman Aave $50 juta berisiko rugi meski tanpa gagal bayar",
+   "x": "Rencana pinjaman Bitcoin dan Ether baru dari Aave berpotensi merugi meskipun tidak ada gagal bayar. Hal ini disebabkan oleh struktur pinjaman yang menggabungkan agunan peminjam dengan aset DAO untuk sumber pendanaan terpisah.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave_collateral_balance_risk.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T18:20:26"
   },
   {
    "id": 4955,
@@ -278,24 +250,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220808_NEAR-Protocol-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-29T14:27:22"
   },
   {
-   "id": 4926,
+   "id": 5192,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Akun X Shiba Inu Mengikuti Sebuah Token dengan 700 Follower. Ini yang Terjadi Selanjutnya",
-   "x": "Akun X Shiba Inu mengikuti WOOF, sebuah meme coin baru yang dipasangkan dengan SHIB. Lihat mengapa likuiditas tipisnya penting bagi trader.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/shiba-inu-mengikuti-woof-shib-pair",
-   "img": "https://assets.beincrypto.com/img/Xm-bx6AsdutvJ_LTSHb8t6GTGCw=/smart/821ad60527b94bf2927749f36b6469ff",
-   "a": "2 hari lalu",
+   "t": "NEAR Intents rugikan $3,8 juta akibat eksploitasi setelah bantu kasus Bitget",
+   "x": "Platform NEAR Intents mengalami kerugian sebesar $3,8 juta akibat eksploitasi yang berasal dari bug pada sistem deposit dan penarikan. Perusahaan berjanji akan mengganti rugi seluruh pengguna yang terdampak.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
+   "a": "23 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-29T10:32:15"
+   "translated": true,
+   "published_at": "2026-10-01T15:43:34"
   },
   {
    "id": 5048,
@@ -310,6 +282,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-09-30T08:31:49"
+  },
+  {
+   "id": 5107,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Aturan Kripto Inggris 2027 izinkan perlindungan kepercayaan dicabut untuk Bitcoin yang dipinjamkan demi imbal hasil",
+   "x": "Inggris akan menerapkan aturan baru pada Oktober 2027 yang mengizinkan pencabutan perlindungan kepercayaan untuk Bitcoin yang dipinjamkan demi imbal hasil. Perubahan ini dapat memengaruhi keamanan aset digital yang digunakan dalam skema DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/uks-2027-crypto-rules-let-firms-remove-trust-protection-from-bitcoin-lent-for-yield",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/uk-bitcoin-collateral-rules.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T17:20:04"
   }
  ]
 }

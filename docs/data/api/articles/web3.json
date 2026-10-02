@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/robinhood.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T13:00:00"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metamask-validator-bridge.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T13:40:02"
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T04:00:42"
+  },
+  {
+   "id": 5279,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Proyek Web3 Porsche berakhir dalam empat tahun",
+   "x": "Porsche menghentikan proyek Web3 dan komunitasnya seiring penurunan tajam aktivitas perdagangan NFT. Hal ini menandakan tantangan dalam mempertahankan proyek Web3 jangka panjang.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T09:18:52"
   },
   {
    "id": 4957,
@@ -96,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dogeos-testnet-dogecoin-smart-contract-doge",
    "img": "https://assets.beincrypto.com/img/Obb6R_Vx6DWSP4Y31-9yq2xoR7s=/smart/55e3c442950d4e5199ae47dc7282c068",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T11:27:43"
@@ -110,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T09:38:06"
@@ -138,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/metamask-diterpa-insiden-keamanan-validator-ethereum-mulai-ditarik",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T03:00:25"
@@ -152,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-trader-ritel-polymarket-studi-galaxy",
    "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "3 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T04:52:27"
@@ -186,6 +200,20 @@
    "published_at": "2026-09-30T16:04:07"
   },
   {
+   "id": 5298,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "ECB paparkan tiga model uang bank sentral onchain",
+   "x": "Bank Sentral Eropa (ECB) menguraikan tiga model untuk membawa uang bank sentral ke dalam jaringan blockchain. Langkah ini seiring eksplorasi infrastruktur penyelesaian oleh institusi keuangan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ecb.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T10:17:39"
+  },
+  {
    "id": 5255,
    "k": "web3",
    "cat": "Web3",
@@ -194,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ai-agent-saham-infrastruktur-traffic-web",
    "img": "https://assets.beincrypto.com/img/CD8lBYQ1L6_FSy1bn7NVvGuw2IE=/smart/9f3c9c134755406484d4ad55da8dfa39",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T02:44:00"
