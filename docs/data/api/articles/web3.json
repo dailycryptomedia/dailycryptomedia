@@ -18,18 +18,32 @@
    "published_at": "2026-10-01T05:53:25"
   },
   {
-   "id": 4977,
+   "id": 5341,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ethereum dapat dorongan privasi baru dengan zk.money dari Aztec",
-   "x": "Aztec Labs meluncurkan kembali dompet zk.money yang bersifat self-custodial di jaringan Aztec. Fitur ini memungkinkan pengguna melakukan pembayaran stablecoin secara pribadi menggunakan tag yang dapat dibaca.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-   "a": "2 hari lalu",
+   "t": "Blast hentikan jaringan layer-2 senilai $20 juta, paksa tenggat keluar 26 Okt",
+   "x": "Jaringan layer-2 Blast menghentikan operasinya dan memberi tenggat waktu kepada pengguna untuk menarik aset mereka pada 26 Oktober. Pengguna menghadapi penangguhan sementara penarikan sebelum tanggal tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/blast-ethereum-exodus.webp",
+   "a": "44 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-29T21:46:03"
+   "published_at": "2026-10-02T23:10:14"
+  },
+  {
+   "id": 5332,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Blast, Jaringan Ethereum L2 Senilai $2,3 Miliar, Akan Ditutup",
+   "x": "Jaringan Ethereum layer-2 Blast mengumumkan penutupan operasinya karena biaya operasional melebihi pendapatan. Pengguna diminta menarik aset mereka sebelum 26 Oktober.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T17:47:06"
   },
   {
    "id": 5175,
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T13:00:00"
-  },
-  {
-   "id": 5206,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kekhawatiran keamanan MetaMask picu keluarnya validator Ethereum tertinggi dalam sembilan bulan",
-   "x": "Insiden keamanan yang melibatkan MetaMask mendorong validator Ethereum untuk keluar dalam jumlah besar, mencapai rekor tertinggi dalam sembilan bulan. Proses penarikan dana dan masuk kembali diperkirakan memakan waktu hingga 45 hari.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metamask-validator-bridge.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T13:40:02"
   },
   {
    "id": 5022,
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T09:18:52"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T17:34:40"
@@ -116,18 +116,32 @@
    "published_at": "2026-10-01T11:27:43"
   },
   {
-   "id": 5332,
+   "id": 5206,
    "k": "web3",
    "cat": "Web3",
-   "t": "Blast, Jaringan Ethereum L2 Senilai $2,3 Miliar, Akan Ditutup",
-   "x": "Jaringan Ethereum layer-2 Blast mengumumkan penutupan operasinya karena biaya operasional melebihi pendapatan. Pengguna diminta menarik aset mereka sebelum 26 Oktober.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-   "a": "2 jam lalu",
+   "t": "Kekhawatiran keamanan MetaMask picu keluarnya validator Ethereum tertinggi dalam sembilan bulan",
+   "x": "Insiden keamanan yang melibatkan MetaMask mendorong validator Ethereum untuk keluar dalam jumlah besar, mencapai rekor tertinggi dalam sembilan bulan. Proses penarikan dana dan masuk kembali diperkirakan memakan waktu hingga 45 hari.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metamask-validator-bridge.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T17:47:06"
+   "published_at": "2026-10-01T13:40:02"
+  },
+  {
+   "id": 5173,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "MetaMask keluar dari validator Lido karena insiden keamanan",
+   "x": "Dompet kripto MetaMask menarik asetnya dari validator Lido akibat insiden keamanan infrastruktur. Penarikan ini dapat memakan waktu hingga 45 hari.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T09:38:06"
   },
   {
    "id": 5091,
@@ -152,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/metamask-diterpa-insiden-keamanan-validator-ethereum-mulai-ditarik",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T03:00:25"
@@ -166,7 +180,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/030d61604f4bdf32cd4013015de2ad6a80a15e24-7200x4800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T17:15:35"
@@ -180,24 +194,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blast-tutup-ethereum-layer-2",
    "img": "https://assets.beincrypto.com/img/7EKdpUjtvWnPpOiAlVGOxe85wRY=/smart/85fad1eeec8c4090a06adcb73528ce2c",
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T16:31:52"
-  },
-  {
-   "id": 5173,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "MetaMask keluar dari validator Lido karena insiden keamanan",
-   "x": "Dompet kripto MetaMask menarik asetnya dari validator Lido akibat insiden keamanan infrastruktur. Penarikan ini dapat memakan waktu hingga 45 hari.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T09:38:06"
   },
   {
    "id": 5325,
@@ -208,7 +208,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240507_Blast_News_1.jpg",
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T16:54:29"
@@ -222,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-trader-ritel-polymarket-studi-galaxy",
    "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T04:52:27"
@@ -236,7 +236,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ecb.png",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T10:17:39"
@@ -264,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ai-agent-saham-infrastruktur-traffic-web",
    "img": "https://assets.beincrypto.com/img/CD8lBYQ1L6_FSy1bn7NVvGuw2IE=/smart/9f3c9c134755406484d4ad55da8dfa39",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T02:44:00"
