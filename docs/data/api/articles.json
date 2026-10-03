@@ -1,5 +1,5 @@
 {
- "total": 291,
+ "total": 263,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jika-indonesia-sisihkan-5-persen-rapbn-2027-untuk-bitcoin-jadi-berapa-btc",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T07:00:10"
@@ -40,24 +40,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790881325706.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T19:10:36"
-  },
-  {
-   "id": 5103,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Peretas Bitget beralih ke Zcash setelah rute pencucian uang $50 juta diblokir",
-   "x": "Peretas yang bertanggung jawab atas peretasan Bitget senilai $387,5 juta kini menggunakan fitur privasi Zcash untuk menyembunyikan dana curian. Langkah ini diambil setelah rute pelarian lain untuk dana tersebut diblokir oleh perusahaan aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitgets-hackers-turn-to-zcash-after-50-million-laundering-route-gets-blocked",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-privacy-route.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T20:20:28"
+   "published_at": "2026-10-01T19:10:36"
   },
   {
    "id": 5145,
@@ -74,6 +60,20 @@
    "published_at": "2026-10-01T13:30:00"
   },
   {
+   "id": 5201,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin Dekat Rekor Arus Dana Baru Setelah Penurunan 11 Bulan",
+   "x": "Penarikan dana besar pada 30 September menguji apakah arus dana keluar akan berlanjut. Investor ritel dan institusi memantau pergerakan ini untuk melihat tren pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-etfs-are-5-billion-from-a-new-flow-record-after-a-brutal-11-month-reset",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-domino-reversal.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T19:00:39"
+  },
+  {
    "id": 5330,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T19:46:03"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembeli-citadel-reload-saham-q4",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-03T03:00:00"
@@ -144,20 +144,6 @@
    "published_at": "2026-10-02T00:22:58"
   },
   {
-   "id": 5201,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin Dekat Rekor Arus Dana Baru Setelah Penurunan 11 Bulan",
-   "x": "Penarikan dana besar pada 30 September menguji apakah arus dana keluar akan berlanjut. Investor ritel dan institusi memantau pergerakan ini untuk melihat tren pasar aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-etfs-are-5-billion-from-a-new-flow-record-after-a-brutal-11-month-reset",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-domino-reversal.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T19:00:39"
-  },
-  {
    "id": 5144,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -172,6 +158,20 @@
    "published_at": "2026-10-01T13:30:00"
   },
   {
+   "id": 5238,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitget pulihkan dana $300 juta usai rug pull $388 juta",
+   "x": "Bursa kripto Bitget mengumumkan pemulihan dana cadangan senilai $300 juta setelah insiden peretasan yang merugikan aset digital senilai $388 juta. Langkah ini diambil untuk menjaga kepercayaan pengguna seiring dibukanya kembali penarikan dana secara bertahap.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitget-after-breach-standard.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T02:10:34"
+  },
+  {
    "id": 5207,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -180,7 +180,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:46:03"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d57c5a353c65e31a6e602ab3904699590ce499de-3081x1733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:45:29"
@@ -222,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bangga-mahasiswa-indonesia-sabet-medali-internasional-berkat-blockchain-dan-iot",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T06:00:15"
@@ -242,20 +242,6 @@
    "published_at": "2026-10-01T13:00:00"
   },
   {
-   "id": 5238,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitget pulihkan dana $300 juta usai rug pull $388 juta",
-   "x": "Bursa kripto Bitget mengumumkan pemulihan dana cadangan senilai $300 juta setelah insiden peretasan yang merugikan aset digital senilai $388 juta. Langkah ini diambil untuk menjaga kepercayaan pengguna seiring dibukanya kembali penarikan dana secara bertahap.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitget-after-breach-standard.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T02:10:34"
-  },
-  {
    "id": 5188,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -264,24 +250,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W9759ASDBQAC0YM9309Y4A/hi-why-technology-assurances-are-a-must-for-crafting-eu-crypto-regulation-mica.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:45:09"
   },
   {
-   "id": 5094,
+   "id": 5307,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penurunan cadangan bank $88 miliar tak buktikan krisis likuiditas Bitcoin",
+   "x": "Cadangan bank AS turun signifikan, namun rata-rata mingguan naik. Hal ini menunjukkan sinyal likuiditas Bitcoin yang hanya mengandalkan cadangan bank memiliki keterbatasan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/why-an-88-billion-bank-reserve-drop-doesnt-prove-a-bitcoin-liquidity-squeeze-yet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-liquidity-crossroads-v2.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T14:40:37"
+  },
+  {
+   "id": 5115,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peretas Bitget gunakan kolam privasi Zcash setelah ditolak tukar $50 juta",
-   "x": "Pelaku peretasan Bitget senilai $387,5 juta mulai menyembunyikan sekitar $3,8 juta dalam ZEC di kolam privasi Zcash. Ini terjadi setelah Near Intents menolak permintaan penukaran dana mereka.",
+   "t": "Gemini 4 Google Hadir, Ungguli Model AI Lain dalam Keamanan Siber",
+   "x": "Google merilis Gemini 4 yang diklaim unggul dalam 12 dari 18 tolok ukur dan mampu memproses satu juta token per respons. Model ini diprioritaskan untuk para pembela siber dengan pengamanan yang dilonggarkan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+   "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T19:46:04"
+   "published_at": "2026-09-30T23:20:59"
   },
   {
    "id": 5261,
@@ -320,7 +320,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/perbedaan-token-saham-vs-saham-konvesional",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T08:00:53"
@@ -340,20 +340,6 @@
    "published_at": "2026-10-02T12:28:54"
   },
   {
-   "id": 5307,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penurunan cadangan bank $88 miliar tak buktikan krisis likuiditas Bitcoin",
-   "x": "Cadangan bank AS turun signifikan, namun rata-rata mingguan naik. Hal ini menunjukkan sinyal likuiditas Bitcoin yang hanya mengandalkan cadangan bank memiliki keterbatasan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-an-88-billion-bank-reserve-drop-doesnt-prove-a-bitcoin-liquidity-squeeze-yet",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-liquidity-crossroads-v2.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T14:40:37"
-  },
-  {
    "id": 5271,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -368,18 +354,32 @@
    "published_at": "2026-10-02T14:12:48"
   },
   {
-   "id": 5115,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Gemini 4 Google Hadir, Ungguli Model AI Lain dalam Keamanan Siber",
-   "x": "Google merilis Gemini 4 yang diklaim unggul dalam 12 dari 18 tolok ukur dan mampu memproses satu juta token per respons. Model ini diprioritaskan untuk para pembela siber dengan pengamanan yang dilonggarkan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
-   "a": "2 hari lalu",
+   "id": 5229,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Biaya pabrik AS melonjak, ancam reli Bitcoin di atas $85.000",
+   "x": "Kenaikan biaya input pabrik AS menambah data inflasi menjelang laporan ketenagakerjaan. Hal ini dapat memengaruhi keputusan suku bunga The Fed, yang berpotensi menekan aset berisiko seperti Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/us-factory-costs-spike-threatening-bitcoins-rally-above-85000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-macro-gears.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T23:20:59"
+   "published_at": "2026-10-01T22:40:07"
+  },
+  {
+   "id": 5331,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "AI Tavus Griffin Bisa Menipu Pengguna dalam Panggilan Video",
+   "x": "Model AI Griffin dari Tavus diklaim mampu menipu 26 dari 54 partisipan dalam panggilan video satu menit, membuat mereka mengira itu adalah manusia. Teknologi ini belum dirilis untuk publik.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-02-153018-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T19:05:35"
   },
   {
    "id": 5368,
@@ -390,7 +390,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T13:00:00"
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-dolo-masuk-radar-hidden-gem-aktivitas-on-chain-mulai-bicara",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T03:00:10"
@@ -438,20 +438,6 @@
    "published_at": "2026-10-01T16:17:23"
   },
   {
-   "id": 5229,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Biaya pabrik AS melonjak, ancam reli Bitcoin di atas $85.000",
-   "x": "Kenaikan biaya input pabrik AS menambah data inflasi menjelang laporan ketenagakerjaan. Hal ini dapat memengaruhi keputusan suku bunga The Fed, yang berpotensi menekan aset berisiko seperti Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-factory-costs-spike-threatening-bitcoins-rally-above-85000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-macro-gears.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T22:40:07"
-  },
-  {
    "id": 5189,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -466,18 +452,32 @@
    "published_at": "2026-10-01T18:01:49"
   },
   {
-   "id": 5331,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "AI Tavus Griffin Bisa Menipu Pengguna dalam Panggilan Video",
-   "x": "Model AI Griffin dari Tavus diklaim mampu menipu 26 dari 54 partisipan dalam panggilan video satu menit, membuat mereka mengira itu adalah manusia. Teknologi ini belum dirilis untuk publik.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-02-153018-gID_7.png",
+   "id": 5341,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Blast hentikan jaringan layer-2 senilai $20 juta, paksa tenggat keluar 26 Okt",
+   "x": "Jaringan layer-2 Blast menghentikan operasinya dan memberi tenggat waktu kepada pengguna untuk menarik aset mereka pada 26 Oktober. Pengguna menghadapi penangguhan sementara penarikan sebelum tanggal tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/blast-ethereum-exodus.webp",
    "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T19:05:35"
+   "published_at": "2026-10-02T23:10:14"
+  },
+  {
+   "id": 5208,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OpenAI Pecat Tiga Peneliti Keamanan Terkait Dugaan Kebocoran",
+   "x": "OpenAI memecat tiga peneliti karena melanggar aturan penanganan informasi sensitif. Insiden ini terjadi di tengah isu keamanan dan keluarnya sejumlah anggota tim riset.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T18:12:04"
   },
   {
    "id": 5367,
@@ -488,7 +488,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9c67f41829d4e98f8dbf16e4e85e83dc931e2d2b-4162x4724.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T13:00:00"
@@ -502,7 +502,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/man-city-verdict-investasi-inggris-uea",
    "img": "https://assets.beincrypto.com/img/L0qNzg-Gn17O8rdDL1YWEKy16aQ=/smart/58f5047556134dc598491906cf06bc5c",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T19:17:48"
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/stablecoin-masuk-agenda-khusus-ojk-indonesia-sudah-punya-eksperimen-rupiah-digital-idrp",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T03:30:54"
@@ -536,20 +536,6 @@
    "published_at": "2026-10-01T12:17:06"
   },
   {
-   "id": 5341,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Blast hentikan jaringan layer-2 senilai $20 juta, paksa tenggat keluar 26 Okt",
-   "x": "Jaringan layer-2 Blast menghentikan operasinya dan memberi tenggat waktu kepada pengguna untuk menarik aset mereka pada 26 Oktober. Pengguna menghadapi penangguhan sementara penarikan sebelum tanggal tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/blast-ethereum-exodus.webp",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T23:10:14"
-  },
-  {
    "id": 5234,
    "k": "pasar",
    "cat": "Pasar",
@@ -564,18 +550,32 @@
    "published_at": "2026-10-01T23:17:47"
   },
   {
-   "id": 5208,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OpenAI Pecat Tiga Peneliti Keamanan Terkait Dugaan Kebocoran",
-   "x": "OpenAI memecat tiga peneliti karena melanggar aturan penanganan informasi sensitif. Insiden ini terjadi di tengah isu keamanan dan keluarnya sejumlah anggota tim riset.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg",
+   "id": 5326,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas Curi 114 ETH Lewat Alat Pihak Ketiga Aave",
+   "x": "Peretas berhasil mencuri 114 ETH senilai lebih dari $300.000 dengan mengeksploitasi alat pinjaman pihak ketiga di Aave. Protokol Aave sendiri tidak terdampak serangan ini.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T18:12:04"
+   "published_at": "2026-10-02T19:10:35"
+  },
+  {
+   "id": 5376,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Chainalysis pakai AI lacak peretasan Bitget $387 juta ke Korea Utara",
+   "x": "Perusahaan analisis blockchain menggunakan kecerdasan buatan untuk melacak dana hasil peretasan Bitget senilai $387 juta. Pelacakan ini mengaitkan dana tersebut dengan Korea Utara, yang diduga telah mengumpulkan lebih dari $1 miliar aset kripto sepanjang tahun ini.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-03T17:01:03"
   },
   {
    "id": 5163,
@@ -614,7 +614,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-harus-bertahan-di-atas-us80-000-untuk-terbang-ke-us100-000",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T02:45:19"
@@ -634,46 +634,46 @@
    "published_at": "2026-10-02T05:04:41"
   },
   {
-   "id": 5326,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas Curi 114 ETH Lewat Alat Pihak Ketiga Aave",
-   "x": "Peretas berhasil mencuri 114 ETH senilai lebih dari $300.000 dengan mengeksploitasi alat pinjaman pihak ketiga di Aave. Protokol Aave sendiri tidak terdampak serangan ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T19:10:35"
-  },
-  {
-   "id": 5079,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Grup advokasi kripto umumkan pilihan untuk Kongres AS jelang pemilu sela",
-   "x": "Sebuah organisasi advokasi aset kripto mengumumkan dukungan mereka untuk kandidat di Dewan Perwakilan Rakyat dan Senat AS. Pengumuman ini dilakukan menjelang pemilihan sela yang dapat menentukan arah kebijakan terkait aset digital di negara tersebut.",
+   "id": 5233,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC permudah penasihat investasi tawarkan aset kripto",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang berpotensi menghilangkan hambatan kustodi bagi penasihat investasi. Hal ini diharapkan dapat membuka akses lebih luas bagi investor untuk berinvestasi pada aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SP0XZZ2FXWPN060VSWSTWV/voteblokchain.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T19:11:23"
+   "published_at": "2026-10-02T01:07:08"
   },
   {
-   "id": 5376,
+   "id": 5369,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Chainalysis pakai AI lacak peretasan Bitget $387 juta ke Korea Utara",
-   "x": "Perusahaan analisis blockchain menggunakan kecerdasan buatan untuk melacak dana hasil peretasan Bitget senilai $387 juta. Pelacakan ini mengaitkan dana tersebut dengan Korea Utara, yang diduga telah mengumpulkan lebih dari $1 miliar aset kripto sepanjang tahun ini.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
-   "a": "1 jam lalu",
+   "t": "Enam bank AS gagal di 2026, tapi angkanya tak seperti 2023",
+   "x": "Enam bank di AS telah gagal di tahun 2026, dengan total aset gabungan sekitar $1,43 miliar. Angka ini jauh lebih kecil dibandingkan kegagalan bank di tahun 2023, menunjukkan perbedaan skala krisis perbankan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/us-bank-failure-count.webp",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-03T17:01:03"
+   "published_at": "2026-10-03T13:20:17"
+  },
+  {
+   "id": 5362,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Paus Punya Pendapat tentang Seni AI, dan Itu Tidak Menyenangkan",
+   "x": "Paus Fransiskus mengkritik seni yang dihasilkan algoritma karena dianggap kurang \"percikan kemanusiaan\". Vatikan berupaya memperkuat aliansi dengan seniman untuk melindungi keunikan karya manusia.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-03T13:01:04"
   },
   {
    "id": 5164,
@@ -712,66 +712,66 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/uptober-2026-dimulai-tanpa-fomo-bitcoin-meme-coin-justru-curi-perhatian",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T02:30:32"
   },
   {
-   "id": 5090,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Base luncurkan peningkatan Cobalt dengan transaksi bersyarat dan fungsi aset B20",
-   "x": "Jaringan layer 2 Base meluncurkan pembaruan Cobalt yang memperkenalkan transaksi bersyarat dan fungsi baru untuk aset yang diterbitkan di standar B20. Peningkatan ini bertujuan memperluas kapabilitas smart contract di ekosistem Base.",
+   "id": 5296,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin dekati rekor tertinggi Januari, data pekerjaan AS mengecewakan",
+   "x": "Bitcoin naik mendekati level $87.000 setelah penjual di level $85.000 terserap. Data pekerjaan AS yang lebih lemah dari perkiraan turut mendorong sentimen positif pasar.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/base4.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T19:00:00"
-  },
-  {
-   "id": 5369,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Enam bank AS gagal di 2026, tapi angkanya tak seperti 2023",
-   "x": "Enam bank di AS telah gagal di tahun 2026, dengan total aset gabungan sekitar $1,43 miliar. Angka ini jauh lebih kecil dibandingkan kegagalan bank di tahun 2023, menunjukkan perbedaan skala krisis perbankan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/us-bank-failure-count.webp",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-03T13:20:17"
-  },
-  {
-   "id": 5233,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC permudah penasihat investasi tawarkan aset kripto",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang berpotensi menghilangkan hambatan kustodi bagi penasihat investasi. Hal ini diharapkan dapat membuka akses lebih luas bagi investor untuk berinvestasi pada aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-green.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T01:07:08"
+   "published_at": "2026-10-02T13:34:40"
   },
   {
-   "id": 5095,
-   "k": "nft",
-   "cat": "NFT & Gaming",
-   "t": "Chatbot AI baru pemerintah AS punya rahasia Minecraft yang aneh",
-   "x": "Chatbot AI baru pemerintah Amerika Serikat ternyata menyimpan 'easter egg' yang berkaitan dengan gim Minecraft. Pengguna yang bertanya tentang gim tersebut akan mendapatkan respons unik yang bukan merupakan kesalahan sistem.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Image-Sep-30-2026-02_31_20-PM-gID_7.png",
+   "id": 5314,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank Kripto Anchorage Digital PHK 17% Karyawan",
+   "x": "Anchorage Digital, bank aset digital dengan valuasi $4,2 miliar, dilaporkan melakukan pemutusan hubungan kerja terhadap 17% karyawannya. PHK ini terjadi di tengah ekspansi bisnis institusional perusahaan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T18:41:17"
+  },
+  {
+   "id": 5202,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Lonjakan Imbal Hasil Obligasi Beri Sinyal Kuat untuk Bitcoin",
+   "x": "Peringatan Bank of England dan persaingan layanan perangkat lunak memperkuat argumen adopsi Bitcoin. Investor memantau apakah aset digital ini akan menjadi pilihan utama.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-sovereign-ai-crossroads.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T19:16:02"
+   "published_at": "2026-10-01T18:00:21"
+  },
+  {
+   "id": 5223,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Zcash turun 21% dari rekor tertinggi, potensi reli belum berakhir",
+   "x": "Zcash (ZEC) mengalami penurunan tajam setelah keluar dana ETF dan dugaan peretasan yang melibatkan transaksi melalui jaringan anonimnya. Namun, analis menilai penurunan ini bisa jadi peluang beli bagi investor.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T21:31:03"
   },
   {
    "id": 5301,
@@ -810,38 +810,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-3-oktober-2026-s-near-pepe-ltc-dan-tia-unjuk-gigi-momentum-bullish-mulai-terbentuk",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T02:00:57"
   },
   {
-   "id": 5296,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin dekati rekor tertinggi Januari, data pekerjaan AS mengecewakan",
-   "x": "Bitcoin naik mendekati level $87.000 setelah penjual di level $85.000 terserap. Data pekerjaan AS yang lebih lemah dari perkiraan turut mendorong sentimen positif pasar.",
+   "id": 5119,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kegagalan Clarity Act Beri Kemenangan Regulasi Lebih Cepat untuk Kripto",
+   "x": "Kekalahan RUU Clarity Act justru dinilai memberikan industri kripto lebih banyak kebebasan dan mempercepat tindakan dari regulator AS. Hal ini membuka jalan bagi perkembangan aset digital yang lebih dinamis.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-green.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T13:34:40"
-  },
-  {
-   "id": 5104,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pertumbuhan Kalshi $40 miliar hadapi pertanyaan tentang volume perdagangan",
-   "x": "Kalshi mengakhiri program insentif volume pedagang lebih awal karena pengawasan aktivitas pasar kriptonya meningkat. Operator pasar prediksi ini memberitahu regulator AS bahwa program tersebut akan berakhir lebih cepat dari jadwal.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kalshis-40-billion-growth-story-now-comes-with-a-harder-question-about-its-trading-volume",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/kalshi-valuation-scrutiny-gateway.webp",
+   "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/Clarity-Act-Learn-scaled.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T19:20:27"
+   "published_at": "2026-09-30T21:53:05"
+  },
+  {
+   "id": 5315,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Blast Hentikan Operasi Ethereum L2 karena Biaya Lampaui Pendapatan",
+   "x": "Blast, yang pernah menjadi salah satu jaringan layer-2 Ethereum terbesar, akan menghentikan operasinya. Pengguna diminta memindahkan aset mereka ke mainnet sebelum penutupan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T18:24:05"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "total": 38,
+ "total": 33,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:46:03"
@@ -68,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-treasury-buyers-standard.jpg",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T21:50:39"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ebc74e2355bdaf89e5b68901d1642e7e17f7a651-5637x3824.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T13:00:00"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-stablecoin-compliance-split.webp",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T16:00:54"
@@ -236,24 +236,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T18:41:17"
-  },
-  {
-   "id": 5100,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin melonjak seiring data inflasi PCE yang mendingin, imbal hasil obligasi cap rekor 20 tahun",
-   "x": "Indikator inflasi pilihan The Fed lebih rendah dari perkiraan, menekan probabilitas kenaikan suku bunga. Investor kripto merespons positif data ini.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T15:50:25"
   },
   {
    "id": 5327,
@@ -298,46 +284,32 @@
    "published_at": "2026-10-01T02:27:30"
   },
   {
-   "id": 5080,
+   "id": 5216,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Base selesaikan peningkatan Cobalt, tambahkan alat baru untuk aset ter-tokenisasi",
-   "x": "Peningkatan Cobalt pada jaringan Base kini memungkinkan pedagang menetapkan kondisi transaksi. Selain itu, alat baru ini memberikan penerbit aset digital fitur untuk pemeriksaan kepatuhan dan transfer token.",
+   "t": "Evernorth lolos voting pemegang saham jelang debut Nasdaq dengan kas XRP",
+   "x": "Evernorth akan melantai di Nasdaq setelah merger SPAC, dengan cadangan kas senilai hampir $710 juta dalam bentuk XRP. Langkah ini menunjukkan potensi penggunaan aset kripto dalam struktur perusahaan publik.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RM1RHGZ8GVHFDEWSR01F8Q/base-coinbase.png",
+   "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WJGXZ9FFQTSYAEBHHG5A8X/hi-types-of-consensus-mechanisms-in-blockchain.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T19:00:00"
+   "published_at": "2026-10-01T21:07:45"
   },
   {
-   "id": 5106,
+   "id": 5381,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin gagal pertahankan rekor $85.000, lonjakan imbal hasil obligasi disalahkan",
-   "x": "Harga Bitcoin kembali turun di bawah $84.000 setelah sempat menembus $85.000, dipicu oleh data inflasi AS. Lonjakan imbal hasil obligasi negara dianggap sebagai penyebab utama pelemahan ini.",
+   "t": "Dana lindung nilai bangun perdagangan obligasi negara senilai $1,2 triliun",
+   "x": "Dana lindung nilai memanfaatkan pendanaan pinjaman untuk membeli obligasi negara dan menjual kontrak berjangka, demi meraup selisih harga kecil. Strategi ini menunjukkan bagaimana dana besar mengelola aset negara dengan modal pinjaman.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-fails-to-sustain-85000-breakout-and-bond-yield-spikes-are-blamed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-market-rollercoaster.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hedge-fund-treasury-basis-trade-standard.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T17:50:27"
-  },
-  {
-   "id": 5102,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Open USD tantang Tether, Circle dengan model stablecoin berbeda",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f7336d4165506c5b01366935d749feecfedcd5cd-1672x941.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T15:34:50"
+   "published_at": "2026-10-03T18:40:22"
   },
   {
    "id": 5162,
@@ -354,18 +326,18 @@
    "published_at": "2026-10-01T07:27:57"
   },
   {
-   "id": 5081,
+   "id": 5274,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bloomberg hadirkan data stablecoin on-chain di Terminalnya",
-   "x": "Bloomberg kini menyediakan data stablecoin secara real-time di platform Terminalnya. Pengguna dapat memantau pasokan, penerbitan, transfer, dan aktivitas stablecoin di berbagai jaringan blockchain.",
+   "t": "BNB Chain capai $1 miliar saham tokenisasi, pasar capai $3,7 miliar",
+   "x": "Nilai saham dan ETF yang ditokenisasi di BNB Chain menembus $1 miliar. Jaringan ini menguasai sekitar 30% dari total pasar saham tokenisasi yang mencapai $3,7 miliar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SSH74MAM24NXDA35RM1XB4/hi-how-to-improve-your-coding-skills-using-bloomberg.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T18:49:06"
+   "published_at": "2026-10-02T11:40:21"
   },
   {
    "id": 5180,
@@ -396,46 +368,18 @@
    "published_at": "2026-10-02T02:11:57"
   },
   {
-   "id": 5216,
+   "id": 5242,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Evernorth lolos voting pemegang saham jelang debut Nasdaq dengan kas XRP",
-   "x": "Evernorth akan melantai di Nasdaq setelah merger SPAC, dengan cadangan kas senilai hampir $710 juta dalam bentuk XRP. Langkah ini menunjukkan potensi penggunaan aset kripto dalam struktur perusahaan publik.",
+   "t": "Korea Selatan Siapkan Aturan Sekuritas Tokenisasi Jelang Peluncuran 2027",
+   "x": "Regulator Korea Selatan mengusulkan aturan rinci untuk sekuritas ter-tokenisasi, mencakup persyaratan modal dan lisensi perdagangan. Langkah ini menunjukkan kesiapan negara tersebut untuk mengintegrasikan aset dunia nyata ke dalam blockchain.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WJGXZ9FFQTSYAEBHHG5A8X/hi-types-of-consensus-mechanisms-in-blockchain.png",
+   "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T21:07:45"
-  },
-  {
-   "id": 5108,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Kartu stablecoin catat pertumbuhan pesat, pengeluaran bulanan capai rekor $1,17 miliar",
-   "x": "Penggunaan kartu pembayaran yang terhubung dengan stablecoin mengalami lonjakan signifikan, dengan volume pengeluaran bulanan mencapai rekor baru. Pertumbuhan ini mengindikasikan adopsi stablecoin yang makin meluas untuk transaksi sehari-hari.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/stablecoin-cards-enter-hyper-growth-mode-as-monthly-spending-hits-record-1-17-billion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/stablecoin-commerce-bridge.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T16:20:48"
-  },
-  {
-   "id": 5274,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "BNB Chain capai $1 miliar saham tokenisasi, pasar capai $3,7 miliar",
-   "x": "Nilai saham dan ETF yang ditokenisasi di BNB Chain menembus $1 miliar. Jaringan ini menguasai sekitar 30% dari total pasar saham tokenisasi yang mencapai $3,7 miliar.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T11:40:21"
+   "published_at": "2026-10-02T05:08:32"
   },
   {
    "id": 5205,
@@ -450,20 +394,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:40:06"
-  },
-  {
-   "id": 5242,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Korea Selatan Siapkan Aturan Sekuritas Tokenisasi Jelang Peluncuran 2027",
-   "x": "Regulator Korea Selatan mengusulkan aturan rinci untuk sekuritas ter-tokenisasi, mencakup persyaratan modal dan lisensi perdagangan. Langkah ini menunjukkan kesiapan negara tersebut untuk mengintegrasikan aset dunia nyata ke dalam blockchain.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T05:08:32"
   },
   {
    "id": 5316,

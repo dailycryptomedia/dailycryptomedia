@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T19:10:35"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-etf-risk-tightrope.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T21:30:20"
@@ -214,20 +214,6 @@
    "published_at": "2026-10-01T13:30:08"
   },
   {
-   "id": 5105,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Rencana pinjaman Aave $50 juta berisiko rugi meski tanpa gagal bayar",
-   "x": "Rencana pinjaman Bitcoin dan Ether baru dari Aave berpotensi merugi meskipun tidak ada gagal bayar. Hal ini disebabkan oleh struktur pinjaman yang menggabungkan agunan peminjam dengan aset DAO untuk sumber pendanaan terpisah.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave_collateral_balance_risk.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T18:20:26"
-  },
-  {
    "id": 5215,
    "k": "defi",
    "cat": "DeFi",
@@ -240,20 +226,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:18:12"
-  },
-  {
-   "id": 5107,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aturan Kripto Inggris 2027 izinkan perlindungan kepercayaan dicabut untuk Bitcoin yang dipinjamkan demi imbal hasil",
-   "x": "Inggris akan menerapkan aturan baru pada Oktober 2027 yang mengizinkan pencabutan perlindungan kepercayaan untuk Bitcoin yang dipinjamkan demi imbal hasil. Perubahan ini dapat memengaruhi keamanan aset digital yang digunakan dalam skema DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uks-2027-crypto-rules-let-firms-remove-trust-protection-from-bitcoin-lent-for-yield",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/uk-bitcoin-collateral-rules.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T17:20:04"
   }
  ]
 }
