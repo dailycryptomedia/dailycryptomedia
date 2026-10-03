@@ -1,5 +1,5 @@
 {
- "total": 61,
+ "total": 62,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,6 +46,20 @@
    "published_at": "2026-10-01T19:00:39"
   },
   {
+   "id": 5350,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Uptober 2026 tanpa euforia Bitcoin, meme coin curi perhatian",
+   "x": "Bulan Oktober 2026 dimulai tanpa lonjakan signifikan pada Bitcoin, namun justru meme coin yang menarik minat investor. Pergeseran fokus ini menandakan dinamika pasar kripto yang terus berubah.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/uptober-2026-dimulai-tanpa-fomo-bitcoin-meme-coin-justru-curi-perhatian",
+   "img": null,
+   "a": "49 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-03T02:30:32"
+  },
+  {
    "id": 5209,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -60,20 +74,6 @@
    "published_at": "2026-10-01T17:11:44"
   },
   {
-   "id": 5265,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Tutup September dengan Kenaikan, Momentum Uptober Dimulai",
-   "x": "Bitcoin mengakhiri September dengan catatan positif dan aliran dana masuk miliaran dolar ke ETF, memicu optimisme untuk kenaikan harga di bulan Oktober. Investor ritel dan institusi di Indonesia perlu mencermati tren ini sebagai indikator pasar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-tutup-september-hijau-uptober-mulai-menggoda",
-   "img": null,
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T07:00:09"
-  },
-  {
    "id": 5260,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/e07c69590f7f7f2e9e623b9982bee1c60be69440-1636x1122.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T08:28:19"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/core-lightning-penyerang-menargetkan-node-yang-belum-dipatch",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T07:48:44"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XRGDB871CK08HQ8XV7P478/hi-is-the-bitcoin-halving-likely-to-change-perception-around-crypto.jpg",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T08:20:08"
@@ -138,10 +138,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/why-an-88-billion-bank-reserve-drop-doesnt-prove-a-bitcoin-liquidity-squeeze-yet",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-liquidity-crossroads-v2.webp",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T14:40:37"
+  },
+  {
+   "id": 5265,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Tutup September dengan Kenaikan, Momentum Uptober Dimulai",
+   "x": "Bitcoin mengakhiri September dengan catatan positif dan aliran dana masuk miliaran dolar ke ETF, memicu optimisme untuk kenaikan harga di bulan Oktober. Investor ritel dan institusi di Indonesia perlu mencermati tren ini sebagai indikator pasar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-tutup-september-hijau-uptober-mulai-menggoda",
+   "img": null,
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T07:00:09"
   },
   {
    "id": 5049,
@@ -156,20 +170,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T15:17:45"
-  },
-  {
-   "id": 5019,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "100 BTC 'terjebak' ubah cara kerja Bitcoin",
-   "x": "Kasus 100 Bitcoin yang sempat 'terjebak' pada 2010 mendorong Satoshi Nakamoto untuk memodifikasi cara penanganan transaksi Bitcoin. Peristiwa ini menjadi tonggak penting dalam evolusi teknologi Bitcoin.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kisah-100-btc-yang-terjebak-dan-mengubah-cara-bitcoin-bekerja",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T06:00:23"
   },
   {
    "id": 4998,
@@ -194,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-green.png",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T13:34:40"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/koreksi-harga-bitcoin-serangan-tanker-hormuz",
    "img": "https://assets.beincrypto.com/img/qgjHxgGglf2u1ortBROAtLSqq8w=/smart/5966b7e594a64f8a9f355b5a355a68c6",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T22:34:09"
@@ -242,6 +242,20 @@
    "published_at": "2026-10-01T22:40:07"
   },
   {
+   "id": 5019,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "100 BTC 'terjebak' ubah cara kerja Bitcoin",
+   "x": "Kasus 100 Bitcoin yang sempat 'terjebak' pada 2010 mendorong Satoshi Nakamoto untuk memodifikasi cara penanganan transaksi Bitcoin. Peristiwa ini menjadi tonggak penting dalam evolusi teknologi Bitcoin.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kisah-100-btc-yang-terjebak-dan-mengubah-cara-bitcoin-bekerja",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T06:00:23"
+  },
+  {
    "id": 5172,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -256,20 +270,6 @@
    "published_at": "2026-10-01T12:23:15"
   },
   {
-   "id": 5269,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Prediksi Harga Bitcoin di Uptober: Citi Kini Bidik US$113.000",
-   "x": "Bank investasi Citi menaikkan target harga Bitcoin menjadi US$113.000 menjelang Oktober. Kenaikan prediksi ini didorong oleh analisis fundamental dan sentimen pasar yang positif.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/prediksi-harga-bitcoin-di-uptober-citi-kini-bidik-us113-000",
-   "img": null,
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T02:30:16"
-  },
-  {
    "id": 5261,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -278,7 +278,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/705735639a0b6346c5f13b5330dd574c2aaf87d2-1200x760.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T08:11:54"
@@ -320,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVAAGW8Q0D84XWS8J7794K/behind-bitcoins-1k-bounce-1-1280x853.webp",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T09:37:06"
@@ -340,6 +340,20 @@
    "published_at": "2026-09-30T07:40:38"
   },
   {
+   "id": 5269,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Prediksi Harga Bitcoin di Uptober: Citi Kini Bidik US$113.000",
+   "x": "Bank investasi Citi menaikkan target harga Bitcoin menjadi US$113.000 menjelang Oktober. Kenaikan prediksi ini didorong oleh analisis fundamental dan sentimen pasar yang positif.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/prediksi-harga-bitcoin-di-uptober-citi-kini-bidik-us113-000",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T02:30:16"
+  },
+  {
    "id": 5292,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -348,24 +362,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T12:58:25"
-  },
-  {
-   "id": 5027,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin jelang Uptober setelah September hijau, bagaimana sejarahnya?",
-   "x": "Bitcoin menunjukkan performa positif di September dan berpotensi melanjutkan tren menguat di Oktober. Analisis historis menjadi penting untuk memprediksi pergerakan selanjutnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-jelang-uptober-setelah-september-menghijau-sejarah-bilang-apa",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T02:30:11"
   },
   {
    "id": 5163,
@@ -390,7 +390,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T05:50:41"
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/citi-bitcoin-ethereum-target-harga-dinaikkan",
    "img": "https://assets.beincrypto.com/img/WHXVEiqBn4L1S1lK39Faq3nhLpI=/smart/8c0c7b3bc1d34801854f24d62ec48f6e",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T06:41:25"
@@ -436,6 +436,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T18:00:21"
+  },
+  {
+   "id": 5027,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin jelang Uptober setelah September hijau, bagaimana sejarahnya?",
+   "x": "Bitcoin menunjukkan performa positif di September dan berpotensi melanjutkan tren menguat di Oktober. Analisis historis menjadi penting untuk memprediksi pergerakan selanjutnya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-jelang-uptober-setelah-september-menghijau-sejarah-bilang-apa",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-09-30T02:30:11"
   },
   {
    "id": 5097,
@@ -474,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tingkat-tabungan-as-rendah-bitcoin-hedge",
    "img": "https://assets.beincrypto.com/img/-l6UqwUqyvkt9wNguHVdIRzE8fQ=/smart/7d065eca04484c3c98655664a44f914f",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T12:58:12"
@@ -488,7 +502,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2FGXJEE6QVA6ZCTS/saifedean-ammous.png",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T10:54:33"
@@ -516,7 +530,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T16:45:52"
@@ -558,7 +572,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T04:18:43"
@@ -572,7 +586,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-survived-5-yields-but-cryptos-cheap-money-era-did-not",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-yield-resilience-2.webp",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T12:20:47"
@@ -670,7 +684,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/electrum-patches-lightning-flaw-but-old-bitcoin-backups-break",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/electrum-backup-replacement-path.webp",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T05:30:01"
@@ -684,7 +698,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T11:22:40"
@@ -698,7 +712,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/usdt-returning-bitcoin-rgb-utexo",
    "img": "https://assets.beincrypto.com/img/3enjxDEkJYJ6R1bdSnoG04axQ2I=/smart/8c95ea8cb5a54a13b23c8cb9f93d0e95",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T13:25:59"
@@ -712,7 +726,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-green-signal.webp",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T20:30:33"
@@ -740,7 +754,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pantulan-bitcoin-pergerakan-bullish-yang-lebih-besar-cappelleri",
    "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T04:31:00"
@@ -754,7 +768,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/unpatched-eclair-bitcoin-lightning-nodes-could-crash-again-every-time-they-restart",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-lightning-crash-loop.webp",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T15:40:12"
@@ -796,7 +810,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-113000-case-strengthens-as-us-regulators-push-9-crypto-actions",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-sec-cftc-bridge.webp",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T08:50:28"
@@ -810,7 +824,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/1f7db8efec882b601432e8971478c5f4bf5e2436-1864x1022.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T10:31:16"
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T10:18:34"
-  },
-  {
-   "id": 5068,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin stagnan di $83.000, Lighter turun 17% di Robinhood",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ae4e304bb4eab8d4a06b693d69a720148c9f59cf-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-09-30T10:11:36"
   }
  ]
 }
