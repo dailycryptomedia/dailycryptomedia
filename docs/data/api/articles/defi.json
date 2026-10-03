@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T19:10:35"
@@ -110,24 +110,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T16:17:23"
   },
   {
-   "id": 5036,
+   "id": 5278,
    "k": "defi",
    "cat": "DeFi",
-   "t": "SlowMist lacak aktivitas peretasan Bitget ke eksploitasi zero-day 31 Agustus",
-   "x": "Perusahaan keamanan siber SlowMist mengidentifikasi aktivitas peretasan Bitget terkait kerentanan zero-day. Penemuan ini menyoroti pentingnya kewaspadaan terhadap ancaman keamanan siber di industri aset kripto.",
+   "t": "Pendiri Aave: V3 tidak terpengaruh peretasan adapter pihak ketiga",
+   "x": "Peretas mengeksploitasi adapter pihak ketiga untuk mencuri dana, namun protokol Aave V3 tetap aman. Insiden ini menunjukkan pentingnya keamanan pada komponen eksternal dalam ekosistem DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RTGB6W8ZNJPV69XHVA5WD7/hi-crypto-mixers-and-crosschain-bridges-how-hackers-hide-stolen-assets.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-09-30T10:05:39"
+   "published_at": "2026-10-02T09:30:49"
   },
   {
    "id": 5160,
@@ -180,24 +180,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T17:10:40"
   },
   {
-   "id": 5278,
+   "id": 5192,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pendiri Aave: V3 tidak terpengaruh peretasan adapter pihak ketiga",
-   "x": "Peretas mengeksploitasi adapter pihak ketiga untuk mencuri dana, namun protokol Aave V3 tetap aman. Insiden ini menunjukkan pentingnya keamanan pada komponen eksternal dalam ekosistem DeFi.",
+   "t": "NEAR Intents rugikan $3,8 juta akibat eksploitasi setelah bantu kasus Bitget",
+   "x": "Platform NEAR Intents mengalami kerugian sebesar $3,8 juta akibat eksploitasi yang berasal dari bug pada sistem deposit dan penarikan. Perusahaan berjanji akan mengganti rugi seluruh pengguna yang terdampak.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T09:30:49"
+   "published_at": "2026-10-01T15:43:34"
   },
   {
    "id": 5197,
@@ -242,34 +242,6 @@
    "published_at": "2026-10-01T14:18:12"
   },
   {
-   "id": 5192,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "NEAR Intents rugikan $3,8 juta akibat eksploitasi setelah bantu kasus Bitget",
-   "x": "Platform NEAR Intents mengalami kerugian sebesar $3,8 juta akibat eksploitasi yang berasal dari bug pada sistem deposit dan penarikan. Perusahaan berjanji akan mengganti rugi seluruh pengguna yang terdampak.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T15:43:34"
-  },
-  {
-   "id": 5048,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Apakah Imbal Hasil Treasury 5% Menjadi Ancaman untuk Saham? Cathie Wood Bilang Tidak",
-   "x": "Cathie Wood mengatakan yield Treasury 10 tahun di atas 5% menunjukkan pasar yang berfungsi, bukan ancaman bagi saham. Lihat argumen 230 tahunnya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cathie-wood-imbal-hasil-treasury-10-tahun",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-09-30T08:31:49"
-  },
-  {
    "id": 5107,
    "k": "defi",
    "cat": "DeFi",
@@ -278,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uks-2027-crypto-rules-let-firms-remove-trust-protection-from-bitcoin-lent-for-yield",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/uk-bitcoin-collateral-rules.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-09-30T17:20:04"
