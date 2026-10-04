@@ -1,5 +1,5 @@
 {
- "total": 98,
+ "total": 93,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -88,20 +88,6 @@
    "published_at": "2026-10-01T18:45:29"
   },
   {
-   "id": 5177,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Lloyds dan Visa uji coba penyelesaian $750.000 pakai USDC",
-   "x": "Lloyds dan Visa berhasil menyelesaikan transaksi lintas batas senilai $750.000 menggunakan stablecoin USDC dalam uji coba. Ini menunjukkan potensi stablecoin untuk memfasilitasi pembayaran global secara efisien.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/lloyds.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T11:13:46"
-  },
-  {
    "id": 5344,
    "k": "pasar",
    "cat": "Pasar",
@@ -138,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-will-hold-some-brazil-crypto-deposits-until-users-explain-where-the-money-came-from",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-brazil-compliance-vault.webp",
-   "a": "20 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T12:20:34"
@@ -152,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T17:01:03"
@@ -166,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8TZXTY569YW4G499PZ1BJ/magazine-bi-weekly-cybersecurity2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T13:30:00"
@@ -180,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9c67f41829d4e98f8dbf16e4e85e83dc931e2d2b-4162x4724.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T13:00:00"
@@ -194,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/reaksi-balik-data-center-menyebar-secara-global",
    "img": "https://assets.beincrypto.com/img/Mtom53pKrYu0b9HsYd5aTashDT8=/smart/0f1571d9c8c84c709d3579f20d7f1441",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T04:04:57"
@@ -222,24 +208,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/us-bank-failure-count.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T13:20:17"
   },
   {
-   "id": 5362,
+   "id": 5407,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Paus Punya Pendapat tentang Seni AI, dan Itu Tidak Menyenangkan",
-   "x": "Paus Fransiskus mengkritik seni yang dihasilkan algoritma karena dianggap kurang \"percikan kemanusiaan\". Vatikan berupaya memperkuat aliansi dengan seniman untuk melindungi keunikan karya manusia.",
+   "t": "Grup Perbankan Gugat untuk Blokir 'Pintu Samping' Aset Kripto ke Sistem Perbankan",
+   "x": "Asosiasi bank independen AS menggugat regulator karena dianggap memberikan akses mudah bagi perusahaan aset kripto ke sistem perbankan. Gugatan ini menyoroti kekhawatiran industri perbankan tradisional terhadap persaingan dan potensi risiko dari aset digital.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg",
-   "a": "23 jam lalu",
+   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-03T13:01:04"
+   "published_at": "2026-10-04T16:01:03"
   },
   {
    "id": 5217,
@@ -264,7 +250,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d74fff0a557caad0b099c56a8e403b375c1441b3-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T13:22:19"
@@ -278,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-tesla-melonjak-pengiriman-q3-lebih-baik",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T14:32:24"
@@ -312,18 +298,18 @@
    "published_at": "2026-10-02T07:20:39"
   },
   {
-   "id": 5223,
+   "id": 5362,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Zcash turun 21% dari rekor tertinggi, potensi reli belum berakhir",
-   "x": "Zcash (ZEC) mengalami penurunan tajam setelah keluar dana ETF dan dugaan peretasan yang melibatkan transaksi melalui jaringan anonimnya. Namun, analis menilai penurunan ini bisa jadi peluang beli bagi investor.",
+   "t": "Paus Punya Pendapat tentang Seni AI, dan Itu Tidak Menyenangkan",
+   "x": "Paus Fransiskus mengkritik seni yang dihasilkan algoritma karena dianggap kurang \"percikan kemanusiaan\". Vatikan berupaya memperkuat aliansi dengan seniman untuk melindungi keunikan karya manusia.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T21:31:03"
+   "published_at": "2026-10-03T13:01:04"
   },
   {
    "id": 5241,
@@ -348,7 +334,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T16:00:00"
@@ -396,18 +382,18 @@
    "published_at": "2026-10-03T07:30:22"
   },
   {
-   "id": 5170,
+   "id": 5223,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Minecraft, Candy Crush masuk daftar 11 game yang diawasi terkait mata uang virtual UE",
-   "x": "Panduan baru Uni Eropa mengecualikan aset kripto, sehingga token di luar rezim yang dibuat untuk mata uang dalam game tidak termasuk dalam pengawasan.",
+   "t": "Zcash turun 21% dari rekor tertinggi, potensi reli belum berakhir",
+   "x": "Zcash (ZEC) mengalami penurunan tajam setelah keluar dana ETF dan dugaan peretasan yang melibatkan transaksi melalui jaringan anonimnya. Namun, analis menilai penurunan ini bisa jadi peluang beli bagi investor.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/minecraft-decrypt-style-02-gID_7.jpg",
+   "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T13:22:58"
+   "published_at": "2026-10-01T21:31:03"
   },
   {
    "id": 5243,
@@ -432,7 +418,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/26685777b02289720baed417998ab31c5110fd17-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T16:00:00"
@@ -460,7 +446,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-4-oktober-2026-qnt-wld-ray-inj-dan-chz-pamer-sinyal-kuat-mana-yang-paling-menarik",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T02:00:44"
@@ -530,7 +516,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/goldman-sachs-lima-saham-earnings",
    "img": "https://assets.beincrypto.com/img/ki_INUWoQf6woyemzwAxYGy93O8=/smart/355c77975e754a22931acc534b1504e4",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T04:09:28"
@@ -544,7 +530,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cara-buy-saat-harga-sentuh-support-jangan-masuk-sebelum-volume-bicara",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T01:30:42"
@@ -558,7 +544,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fca-crypto-application-queue.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T17:00:37"
@@ -600,7 +586,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/cb41936ab0c9767ce6de085eb8b95a680f9dc9ac-6000x4161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T15:00:00"
@@ -614,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sanksi-as-hamas-jaringan-crypto-charity",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T10:21:01"
@@ -634,18 +620,18 @@
    "published_at": "2026-10-02T03:30:58"
   },
   {
-   "id": 5179,
+   "id": 5412,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ethereum siapkan dorongan 200 juta gas seiring percepatan strategi scaling Layer 1",
-   "x": "Pembaruan Prysm 7.2.0 mendukung fork yang dijadwalkan, namun validator yang menginginkan preferensi 200 juta gas harus mengonfigurasinya secara eksplisit.",
+   "t": "Tiga Dana Berjangka Bitcoin dan Ether Lolos Hambatan Pencatatan SEC",
+   "x": "Produk derivatif baru yang menawarkan eksposur berlipat ganda terhadap Bitcoin dan Ether telah melewati tahap awal persetujuan regulator AS. Investor perlu mencermati detail lebih lanjut mengenai pencatatan dan tanggal perdagangan produk ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/glamsterdam-validator-upgrade-prysm.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/3x-crypto-start-line.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T11:20:17"
+   "published_at": "2026-10-04T14:20:32"
   },
   {
    "id": 5225,
@@ -676,18 +662,18 @@
    "published_at": "2026-10-02T03:34:25"
   },
   {
-   "id": 5303,
+   "id": 5404,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Cboe ingin jadikan VIX perdagangan abadi",
+   "t": "Aset Kripto Habiskan Bertahun-tahun untuk Produk Baru, Tantangan Berikutnya Menjaga Pengguna",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/9ee7275965dc93a941f1a56376be262c2efce6af-4536x3027.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T11:30:00"
+   "published_at": "2026-10-04T14:00:00"
   },
   {
    "id": 5195,
@@ -698,24 +684,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blofin-token2049-singapura-next-whale-era",
    "img": "https://assets.beincrypto.com/img/hAiexEjIjCyS2U1PGqwropy7o3g=/smart/ecff781e7bc54e1081b019c0feba1234",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T14:37:36"
   },
   {
-   "id": 5185,
+   "id": 5398,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "7 token unlock Oktober 2026 yang perlu dipantau",
-   "x": "Sebanyak tujuh token akan dilepas pada Oktober 2026 dengan total nilai mencapai US$470,66 juta. Investor perlu mencermati proyek mana yang akan melepaskan token terbesarnya.",
+   "t": "STONK, kripto gabungkan meme coin dan saham",
+   "x": "Proyek kripto STONK hadir dengan konsep unik yang menggabungkan meme coin dan token saham. Fitur buyback-burn juga disematkan untuk menambah daya tarik aset digital ini.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/7-token-unlock-oktober-2026-yang-perlu-dipantau",
+   "url": "https://blockchainmedia.id/stonk-hidden-gem-kripto-yang-satukan-meme-coin-dan-saham",
    "img": null,
-   "a": "3 hari lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T08:00:01"
+   "published_at": "2026-10-04T06:00:45"
   },
   {
    "id": 5231,
@@ -740,7 +726,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-10-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T15:01:03"
@@ -754,52 +740,52 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T07:16:53"
   },
   {
-   "id": 5199,
+   "id": 5303,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto untuk Penasihat: UU CLARITY gagal, namun aturan tetap terbit",
+   "t": "Cboe ingin jadikan VIX perdagangan abadi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd2e230e2cb94447ac56eee45d7f45ea34771c7d-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T15:00:00"
+   "published_at": "2026-10-02T11:30:00"
   },
   {
-   "id": 5155,
+   "id": 5345,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "S&P 500 Nampak Baik Menuju Oktober, tapi Apakah Angka di Bawahnya Menjadi Peringatan?",
-   "x": "S&P 500 mengakhiri bulan terlemahnya sedikit lebih tinggi, namun 75% saham mengalami penurunan. Lihat apa yang ditunjukkan oleh musim Oktober dan breadth.",
+   "t": "Nvidia Catat Rekor Tertinggi, Wall Street Masih Lihat Potensi Kenaikan hingga 99%",
+   "x": "Saham Nvidia akhirnya berhasil breakout pada 2 Oktober. Sahamnya menyentuh level tertinggi sepanjang masa secara intraday di sekitar US$237,83, melampaui rekor sebelumnya pada bulan Mei. Pendorong utama datang dari…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sp500-saham-september-turun-oktober",
-   "img": "https://assets.beincrypto.com/img/PY1A99GJf_yEv8BujHNTT3DS_9o=/smart/a378c1f29da6435e817779fa5356af0e",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/saham-nvidia-rekor-tertinggi-wall-street-target-harga",
+   "img": "https://assets.beincrypto.com/img/bXUWoRlFsK4RXabwDT7b0zQfT6c=/smart/b94426114a9a4f03bed05d6ccef83f05",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-01T11:00:00"
+   "published_at": "2026-10-03T00:39:21"
   },
   {
-   "id": 5186,
+   "id": 5270,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CIO Bitwise beberkan dua tren besar yang bisa ubah pasar kripto",
-   "x": "Chief Investment Officer Bitwise, Matt Hougan, menyoroti dua tren utama yang diprediksi akan membentuk pasar aset kripto dalam dekade mendatang. Tren tersebut mencakup perkembangan Bitcoin, tokenisasi, stablecoin, dan ekosistem on-chain.",
+   "t": "Kripto Hari Ini 2 Oktober 2026: STX, AXS, LIT, ASTER dan WIF Masuk Fase Penentuan",
+   "x": "Analisis pergerakan harga aset kripto STX, AXS, LIT, ASTER, dan WIF pada 2 Oktober 2026 menunjukkan fase krusial. Perubahan peta harga di level-level penting menjadi sorotan.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/cio-bitwise-beberkan-dua-tren-besar-yang-bisa-mengubah-pasar-kripto",
+   "url": "https://blockchainmedia.id/kripto-hari-ini-2-oktober-2026-stx-axs-lit-aster-dan-wif-masuk-fase-penentuan-peta-harga-mulai-berubah",
    "img": null,
-   "a": "3 hari lalu",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T07:00:21"
+   "published_at": "2026-10-02T02:00:40"
   },
   {
    "id": 5204,
@@ -810,38 +796,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/open-usd-bets-stripes-1-9-trillion-network-can-break-usdt-and-usdcs-grip",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stripe-open-usd-businesses.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T16:00:14"
   },
   {
-   "id": 5171,
+   "id": 5226,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Menit Pagi: Kripto tinggalkan Kongres, bidik Senator",
-   "x": "Selain itu, insiden keamanan besar pada MetaMask membuat para pegiat kripto waspada seiring terungkapnya detail kejadian.",
+   "t": "OpenAI tuding kelompok terkait China coba tiru penalaran AI-nya",
+   "x": "OpenAI mengklaim telah menggagalkan upaya pencurian data oleh kelompok yang terafiliasi dengan startup AI Tiongkok. Insiden ini menyoroti persaingan ketat dan potensi spionase di industri kecerdasan buatan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T12:29:00"
-  },
-  {
-   "id": 5276,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Arthur Hayes bahas pencetakan uang, Wall Street bergerak onchain",
-   "x": "Arthur Hayes berpendapat pencetakan uang dapat mendorong harga aset kripto naik. Sementara itu, pembicara CONNECT Seoul menganalisis keunggulan Wall Street dalam adopsi teknologi onchain.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XMMJ91ZBREX0A7R5A5AHXT/connect-text-on-seoul-1.png",
+   "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T10:29:35"
+   "published_at": "2026-10-01T19:46:03"
+  },
+  {
+   "id": 5401,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trump Tunjuk Kepala Intelijen Jay Clayton Pimpin Pasukan Super Intelijen",
+   "x": "Presiden AS Donald Trump menunjuk kepala intelijen Jay Clayton untuk memimpin unit baru yang fokus pada kecerdasan buatan. Penunjukan ini mengindikasikan prioritas pemerintah AS dalam pengembangan teknologi AI.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T13:48:48"
+  },
+  {
+   "id": 5199,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kripto untuk Penasihat: UU CLARITY gagal, namun aturan tetap terbit",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd2e230e2cb94447ac56eee45d7f45ea34771c7d-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T15:00:00"
   }
  ]
 }

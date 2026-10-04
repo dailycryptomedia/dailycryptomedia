@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-10-02T02:02:13"
   },
   {
-   "id": 5160,
+   "id": 5197,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Kerugian Akibat Peretasan Kripto Naik 462% di September saat Bitget Jadi Kasus Pencurian Terbesar Tahun Ini",
-   "x": "Kerugian akibat peretasan kripto mencapai US$766,49 juta pada September, menjadikannya bulan terburuk di tahun 2026 sejauh ini. Total kerugian tersebut melonjak sekitar 462% dari US$136,3 juta pada Agustus, menurut…",
+   "t": "NEAR Intents Diretas untuk US$3,8 Juta: Apakah NEAR Protocol Aman?",
+   "x": "NEAR Intents kehilangan USD3,8 juta akibat eksploitasi dan NEAR turun 8,6%. Lihat apa saja yang terdampak dan jaringan mana yang masih dihentikan sementara.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kerugian-crypto-hack-september-2026-bitget",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "url": "https://id.beincrypto.com/near-intents-diretas-hilang-38-juta",
+   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-01T08:39:04"
+   "published_at": "2026-10-01T13:30:08"
   },
   {
    "id": 5386,
@@ -68,10 +68,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-jst-cari-puncak-baru-insentif-defi-us300-ribu-mulai-berlaku",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T03:00:59"
+  },
+  {
+   "id": 5409,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Near Intents Pulihkan $3,8 Juta Setelah Ultimatum 48 Jam",
+   "x": "Tim Near Intents berhasil memulihkan seluruh dana yang hilang akibat peretasan setelah memberikan tenggat waktu kepada pelaku. Keberhasilan ini menunjukkan adanya upaya pemulihan aset digital yang dicuri dalam ekosistem kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T13:01:03"
   },
   {
    "id": 5200,
@@ -82,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:18:14"
@@ -96,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T13:40:24"
@@ -110,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T16:17:23"
@@ -130,20 +144,6 @@
    "published_at": "2026-10-02T09:30:49"
   },
   {
-   "id": 5197,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "NEAR Intents Diretas untuk US$3,8 Juta: Apakah NEAR Protocol Aman?",
-   "x": "NEAR Intents kehilangan USD3,8 juta akibat eksploitasi dan NEAR turun 8,6%. Lihat apa saja yang terdampak dan jaringan mana yang masih dihentikan sementara.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/near-intents-diretas-hilang-38-juta",
-   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-01T13:30:08"
-  },
-  {
    "id": 5396,
    "k": "defi",
    "cat": "DeFi",
@@ -152,24 +152,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/begini-cara-ai-melacak-jejak-hacker-korut-di-balik-peretasan-bitget",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T08:00:48"
-  },
-  {
-   "id": 5169,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Insiden keamanan MetaMask paksa keluar staking Ethereum, dana aman",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T07:06:30"
   },
   {
    "id": 5230,
@@ -194,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T17:10:40"
@@ -208,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-4.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T15:43:34"
@@ -222,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T07:30:08"
@@ -236,7 +222,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20220126_Near_Protocol_News.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T14:18:12"
