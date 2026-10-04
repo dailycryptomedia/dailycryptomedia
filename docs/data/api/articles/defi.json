@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,18 +46,18 @@
    "published_at": "2026-10-02T02:02:13"
   },
   {
-   "id": 5131,
+   "id": 5160,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Morgan Stanley Sebut 3 Terobosan Bioteknologi yang Tawarkan Peluang Investasi",
-   "x": "Morgan Stanley menyoroti 3 terobosan bioteknologi dalam Alzheimer, gene editing, dan AI yang bisa membentuk imbal hasil investor.",
+   "t": "Kerugian Akibat Peretasan Kripto Naik 462% di September saat Bitget Jadi Kasus Pencurian Terbesar Tahun Ini",
+   "x": "Kerugian akibat peretasan kripto mencapai US$766,49 juta pada September, menjadikannya bulan terburuk di tahun 2026 sejauh ini. Total kerugian tersebut melonjak sekitar 462% dari US$136,3 juta pada Agustus, menurut…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/morgan-stanley-terobosan-biotek-peluang-investasi",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "url": "https://id.beincrypto.com/kerugian-crypto-hack-september-2026-bitget",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-01T04:05:00"
+   "published_at": "2026-10-01T08:39:04"
   },
   {
    "id": 5386,
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-jst-cari-puncak-baru-insentif-defi-us300-ribu-mulai-berlaku",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T03:00:59"
@@ -124,24 +124,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T09:30:49"
   },
   {
-   "id": 5160,
+   "id": 5197,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Kerugian Akibat Peretasan Kripto Naik 462% di September saat Bitget Jadi Kasus Pencurian Terbesar Tahun Ini",
-   "x": "Kerugian akibat peretasan kripto mencapai US$766,49 juta pada September, menjadikannya bulan terburuk di tahun 2026 sejauh ini. Total kerugian tersebut melonjak sekitar 462% dari US$136,3 juta pada Agustus, menurut…",
+   "t": "NEAR Intents Diretas untuk US$3,8 Juta: Apakah NEAR Protocol Aman?",
+   "x": "NEAR Intents kehilangan USD3,8 juta akibat eksploitasi dan NEAR turun 8,6%. Lihat apa saja yang terdampak dan jaringan mana yang masih dihentikan sementara.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kerugian-crypto-hack-september-2026-bitget",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "url": "https://id.beincrypto.com/near-intents-diretas-hilang-38-juta",
+   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-01T08:39:04"
+   "published_at": "2026-10-01T13:30:08"
+  },
+  {
+   "id": 5396,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "AI lacak hacker Korut di balik peretasan Bitget",
+   "x": "Teknologi AI berhasil mempercepat pelacakan hacker Korea Utara yang terlibat dalam peretasan Bitget. Proses yang biasanya memakan waktu lebih dari 20 jam kini dapat diselesaikan dalam waktu kurang dari 10 menit.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/begini-cara-ai-melacak-jejak-hacker-korut-di-balik-peretasan-bitget",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T08:00:48"
   },
   {
    "id": 5169,
@@ -152,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-01T07:06:30"
@@ -200,18 +214,18 @@
    "published_at": "2026-10-01T15:43:34"
   },
   {
-   "id": 5197,
+   "id": 5400,
    "k": "defi",
    "cat": "DeFi",
-   "t": "NEAR Intents Diretas untuk US$3,8 Juta: Apakah NEAR Protocol Aman?",
-   "x": "NEAR Intents kehilangan USD3,8 juta akibat eksploitasi dan NEAR turun 8,6%. Lihat apa saja yang terdampak dan jaringan mana yang masih dihentikan sementara.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/near-intents-diretas-hilang-38-juta",
-   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "2 hari lalu",
+   "t": "Stablecoin bisa bikin biaya pinjaman naik, bukan kuras dolar bank",
+   "x": "Meskipun stablecoin tidak menguras dana bank, penerbitannya dapat meningkatkan biaya pinjaman. Proses ini melibatkan konversi dolar menjadi stablecoin yang disimpan di rekening bank penerbit.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-01T13:30:08"
+   "translated": true,
+   "published_at": "2026-10-04T07:30:08"
   },
   {
    "id": 5215,
