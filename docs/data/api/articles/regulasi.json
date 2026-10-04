@@ -1,22 +1,8 @@
 {
- "total": 21,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 5218,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC Akui Regulasi Tertinggal dari Bitcoin, Ajukan Aturan Baru untuk Kustodian",
-   "x": "Ketua Securities and Exchange Commission (SEC), Paul Atkins, mengakui hari ini bahwa aturan sekuritas federal gagal mengikuti perkembangan pesat Bitcoin sejak peluncurannya pada tahun 2008. Lembaga tersebut merespons…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/proposal-penitipan-kripto-sec-bitcoin",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-01T22:04:36"
-  },
   {
    "id": 5406,
    "k": "regulasi",
@@ -26,10 +12,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T17:01:03"
+  },
+  {
+   "id": 5425,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Mantan bos SEC jadi Czar AI, Bitcoin bisa capai $600K siklus ini",
+   "x": "Mantan ketua SEC Jay Clayton ditunjuk sebagai Czar AI oleh Trump, memicu ketidakpuasan di kalangan pendukung XRP. Sementara itu, analis Peter Brandt memprediksi Bitcoin bisa mencapai $600.000 pada tahun 2029.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png",
+   "a": "52 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T22:31:12"
   },
   {
    "id": 5359,
@@ -46,18 +46,18 @@
    "published_at": "2026-10-03T03:30:54"
   },
   {
-   "id": 5233,
+   "id": 5372,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC permudah penasihat investasi tawarkan aset kripto",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang berpotensi menghilangkan hambatan kustodi bagi penasihat investasi. Hal ini diharapkan dapat membuka akses lebih luas bagi investor untuk berinvestasi pada aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "2 hari lalu",
+   "t": "Orang di Balik Gugatan XRP Bisa Segera Dapat Peran AI di Gedung Putih",
+   "x": "Presiden Trump sedang mempertimbangkan Jay Clayton, mantan ketua SEC yang menggugat Ripple, untuk menjadi AI czar di Gedung Putih. Kemungkinan ini membuat beberapa bagian dari komunitas aset kripto merasa gelisah…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/jay-clayton-ai-czar-gugatan-ripple",
+   "img": "https://assets.beincrypto.com/img/RbQsVCPr0scWUDyDWpmz1BJ7jiE=/smart/9adda15cf42c43f58533372b788a08c3",
+   "a": "kemarin",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T01:07:08"
+   "translated": false,
+   "published_at": "2026-10-03T15:20:27"
   },
   {
    "id": 5380,
@@ -96,24 +96,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/26bc7ac9cd7444c2c14bec14b2e397a0fb35c8aa-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T21:23:20"
-  },
-  {
-   "id": 5372,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Orang di Balik Gugatan XRP Bisa Segera Dapat Peran AI di Gedung Putih",
-   "x": "Presiden Trump sedang mempertimbangkan Jay Clayton, mantan ketua SEC yang menggugat Ripple, untuk menjadi AI czar di Gedung Putih. Kemungkinan ini membuat beberapa bagian dari komunitas aset kripto merasa gelisah…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jay-clayton-ai-czar-gugatan-ripple",
-   "img": "https://assets.beincrypto.com/img/RbQsVCPr0scWUDyDWpmz1BJ7jiE=/smart/9adda15cf42c43f58533372b788a08c3",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-03T15:20:27"
   },
   {
    "id": 5330,
@@ -130,6 +116,20 @@
    "published_at": "2026-10-02T19:46:03"
   },
   {
+   "id": 5233,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC permudah penasihat investasi tawarkan aset kripto",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang berpotensi menghilangkan hambatan kustodi bagi penasihat investasi. Hal ini diharapkan dapat membuka akses lebih luas bagi investor untuk berinvestasi pada aset kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T01:07:08"
+  },
+  {
    "id": 5299,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -144,18 +144,18 @@
    "published_at": "2026-10-02T09:00:10"
   },
   {
-   "id": 5273,
+   "id": 5383,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
-   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
-   "a": "2 hari lalu",
+   "t": "Community Banker Gugat OCC atas Pemberian National Trust Charter untuk Perusahaan Kripto",
+   "x": "Independent Community Bankers of America (ICBA) menggugat Office of the Comptroller of the Currency (OCC). Dalam gugatan pada 2 Oktober, mereka menuduh OCC tidak memiliki kewenangan untuk memberi izin perusahaan kripto…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/icba-gugat-occ-izin-trust-kripto",
+   "img": "https://assets.beincrypto.com/img/XxRg37aFOItX6k8BJdZlNAy9M-c=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
+   "a": "kemarin",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T12:25:56"
+   "translated": false,
+   "published_at": "2026-10-03T21:27:17"
   },
   {
    "id": 5347,
@@ -172,20 +172,6 @@
    "published_at": "2026-10-03T01:30:40"
   },
   {
-   "id": 5228,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan kerangka kerja penyimpanan mandiri aset kripto",
-   "x": "Regulator AS mengusulkan aturan baru yang memungkinkan penasihat investasi dan dana untuk menyimpan aset kripto mereka sendiri dalam kondisi tertentu. Ini bisa memengaruhi cara investor institusi mengelola aset digital mereka di masa depan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T21:00:53"
-  },
-  {
    "id": 5323,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -200,46 +186,32 @@
    "published_at": "2026-10-02T17:12:48"
   },
   {
-   "id": 5383,
+   "id": 5273,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Community Banker Gugat OCC atas Pemberian National Trust Charter untuk Perusahaan Kripto",
-   "x": "Independent Community Bankers of America (ICBA) menggugat Office of the Comptroller of the Currency (OCC). Dalam gugatan pada 2 Oktober, mereka menuduh OCC tidak memiliki kewenangan untuk memberi izin perusahaan kripto…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/icba-gugat-occ-izin-trust-kripto",
-   "img": "https://assets.beincrypto.com/img/XxRg37aFOItX6k8BJdZlNAy9M-c=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-03T21:27:17"
-  },
-  {
-   "id": 5224,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan aturan penyimpanan aset kripto bagi penasihat investasi",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memperjelas penyimpanan aset kripto oleh penasihat dan reksa dana. Aturan ini bertujuan memberikan kepastian regulasi dan memfasilitasi kepatuhan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
+   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
+   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T20:46:03"
+   "published_at": "2026-10-02T12:25:56"
   },
   {
-   "id": 5335,
+   "id": 5290,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengguna kripto Eropa lebih percaya pada perusahaan teregulasi di bawah MiCA",
-   "x": "Regulasi MiCA Uni Eropa meningkatkan kepercayaan pengguna terhadap platform aset kripto yang teregulasi. Ada seruan untuk penegakan hukum yang lebih ketat terhadap perusahaan yang tidak patuh.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
-   "a": "kemarin",
+   "t": "Payroll Nonpertanian AS Rilis Hari Ini: Inilah yang Bisa Diharapkan",
+   "x": "Bureau of Labor Statistics (BLS) Amerika Serikat (AS) akan merilis data Nonfarm Payrolls (NFP) bulan September pada hari Jumat pukul 12:30 GMT. Karena investor masih bimbang soal potensi kenaikan suku bunga Federal…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/september-nfp-2026-apa-yang-diharapkan",
+   "img": "https://assets.beincrypto.com/img/hdRcvCKJXh5Z6IAF19RKClIKlsI=/smart/2e211217b4c84295a2a084926a19a126",
+   "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T20:40:47"
+   "translated": false,
+   "published_at": "2026-10-02T09:04:53"
   },
   {
    "id": 5355,
@@ -256,32 +228,18 @@
    "published_at": "2026-10-03T03:40:54"
   },
   {
-   "id": 5222,
+   "id": 5335,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC usulkan aturan baru penyimpanan kripto untuk penasihat investasi",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "t": "Pengguna kripto Eropa lebih percaya pada perusahaan teregulasi di bawah MiCA",
+   "x": "Regulasi MiCA Uni Eropa meningkatkan kepercayaan pengguna terhadap platform aset kripto yang teregulasi. Ada seruan untuk penegakan hukum yang lebih ketat terhadap perusahaan yang tidak patuh.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T20:20:04"
-  },
-  {
-   "id": 5290,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Payroll Nonpertanian AS Rilis Hari Ini: Inilah yang Bisa Diharapkan",
-   "x": "Bureau of Labor Statistics (BLS) Amerika Serikat (AS) akan merilis data Nonfarm Payrolls (NFP) bulan September pada hari Jumat pukul 12:30 GMT. Karena investor masih bimbang soal potensi kenaikan suku bunga Federal…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/september-nfp-2026-apa-yang-diharapkan",
-   "img": "https://assets.beincrypto.com/img/hdRcvCKJXh5Z6IAF19RKClIKlsI=/smart/2e211217b4c84295a2a084926a19a126",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-02T09:04:53"
+   "published_at": "2026-10-02T20:40:47"
   },
   {
    "id": 5361,
