@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T00:22:58"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T02:02:13"
@@ -54,10 +54,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/morgan-stanley-terobosan-biotek-peluang-investasi",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-01T04:05:00"
+  },
+  {
+   "id": 5386,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Token JST cari puncak baru, insentif DeFi US$300 ribu berlaku",
+   "x": "Token JST menguat seiring reli aset kripto, sementara insentif DeFi senilai US$300 ribu diluncurkan di TRON Carnival Season 3. Peluncuran insentif ini berpotensi mendorong partisipasi dan likuiditas dalam ekosistem DeFi TRON.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/token-jst-cari-puncak-baru-insentif-defi-us300-ribu-mulai-berlaku",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T03:00:59"
   },
   {
    "id": 5200,
