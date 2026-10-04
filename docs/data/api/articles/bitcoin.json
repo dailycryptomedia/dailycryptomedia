@@ -1,5 +1,5 @@
 {
- "total": 42,
+ "total": 40,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,32 +32,32 @@
    "published_at": "2026-10-02T07:48:44"
   },
   {
-   "id": 5201,
+   "id": 5307,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin Dekat Rekor Arus Dana Baru Setelah Penurunan 11 Bulan",
-   "x": "Penarikan dana besar pada 30 September menguji apakah arus dana keluar akan berlanjut. Investor ritel dan institusi memantau pergerakan ini untuk melihat tren pasar aset digital.",
+   "t": "Penurunan cadangan bank $88 miliar tak buktikan krisis likuiditas Bitcoin",
+   "x": "Cadangan bank AS turun signifikan, namun rata-rata mingguan naik. Hal ini menunjukkan sinyal likuiditas Bitcoin yang hanya mengandalkan cadangan bank memiliki keterbatasan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-etfs-are-5-billion-from-a-new-flow-record-after-a-brutal-11-month-reset",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-domino-reversal.webp",
+   "url": "https://cryptoslate.com/why-an-88-billion-bank-reserve-drop-doesnt-prove-a-bitcoin-liquidity-squeeze-yet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-liquidity-crossroads-v2.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T19:00:39"
+   "published_at": "2026-10-02T14:40:37"
   },
   {
-   "id": 5209,
+   "id": 5408,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Awal Uptober, Akankah Bitcoin Memenuhinya?",
-   "x": "Bitcoin memasuki bulan yang secara historis menguat setelah September yang rekor. Namun, kenaikan suku bunga The Fed dan imbal hasil obligasi negara yang tinggi menguji sentimen bullish.",
+   "t": "Uptober Dimulai Positif, ETF Bitcoin Tarik Dana $134 Juta",
+   "x": "Produk ETF Bitcoin spot mencatat aliran dana masuk signifikan di awal Oktober, menandakan minat investor institusi yang kembali pulih. Kinerja ETF ini dapat memengaruhi sentimen pasar aset kripto secara keseluruhan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-02-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T17:11:44"
+   "published_at": "2026-10-04T15:01:03"
   },
   {
    "id": 5240,
@@ -130,32 +130,32 @@
    "published_at": "2026-10-02T22:34:09"
   },
   {
-   "id": 5307,
+   "id": 5418,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penurunan cadangan bank $88 miliar tak buktikan krisis likuiditas Bitcoin",
-   "x": "Cadangan bank AS turun signifikan, namun rata-rata mingguan naik. Hal ini menunjukkan sinyal likuiditas Bitcoin yang hanya mengandalkan cadangan bank memiliki keterbatasan.",
+   "t": "Perbaikan Bitcoin Core tutup celah potensi pengalihan dana tanpa pencurian kunci",
+   "x": "Perbaikan pada Bitcoin Core mengatasi kerentanan yang memungkinkan dana dialihkan tanpa perlu mencuri kunci privat. Ini penting untuk menjaga keamanan aset digital pengguna.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-an-88-billion-bank-reserve-drop-doesnt-prove-a-bitcoin-liquidity-squeeze-yet",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-liquidity-crossroads-v2.webp",
+   "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/psbt-output-check-v2.webp",
+   "a": "37 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T19:40:34"
+  },
+  {
+   "id": 5292,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin melonjak ke $86 ribu di awal Oktober",
+   "x": "Perlambatan inflasi dan pernyataan dovish dari The Fed meningkatkan peluang penahanan suku bunga. Data ekonomi AS yang akan dirilis menjadi fokus pasar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T14:40:37"
-  },
-  {
-   "id": 5408,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Uptober Dimulai Positif, ETF Bitcoin Tarik Dana $134 Juta",
-   "x": "Produk ETF Bitcoin spot mencatat aliran dana masuk signifikan di awal Oktober, menandakan minat investor institusi yang kembali pulih. Kinerja ETF ini dapat memengaruhi sentimen pasar aset kripto secara keseluruhan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-04T15:01:03"
+   "published_at": "2026-10-02T12:58:25"
   },
   {
    "id": 5390,
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T09:39:51"
@@ -242,18 +242,18 @@
    "published_at": "2026-10-01T22:40:07"
   },
   {
-   "id": 5292,
+   "id": 5334,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin melonjak ke $86 ribu di awal Oktober",
-   "x": "Perlambatan inflasi dan pernyataan dovish dari The Fed meningkatkan peluang penahanan suku bunga. Data ekonomi AS yang akan dirilis menjadi fokus pasar.",
+   "t": "Bitcoin Menguat Seiring Pergerakan Makro: Ke Mana Arah BTC Selanjutnya?",
+   "x": "Data pekerjaan AS yang meleset menghapus kemungkinan kenaikan suku bunga pada Oktober, mendorong Bitcoin mendekati level tertingginya tahun ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
+   "url": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T12:58:25"
+   "published_at": "2026-10-02T16:45:52"
   },
   {
    "id": 5277,
@@ -292,7 +292,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pasar-opsi-bitcoin-terlalu-tenang-untuk-uptober-ada-apa-di-us95-000",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T02:30:25"
@@ -312,32 +312,18 @@
    "published_at": "2026-10-01T21:54:09"
   },
   {
-   "id": 5202,
+   "id": 5370,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Lonjakan Imbal Hasil Obligasi Beri Sinyal Kuat untuk Bitcoin",
-   "x": "Peringatan Bank of England dan persaingan layanan perangkat lunak memperkuat argumen adopsi Bitcoin. Investor memantau apakah aset digital ini akan menjadi pilihan utama.",
+   "t": "Dana leverage kurangi short futures Bitcoin 5.300 BTC seiring long menyusut",
+   "x": "Dana dengan leverage mengurangi posisi short Bitcoin futures mereka sekitar 5.300 BTC. Penurunan ini juga disertai penyusutan posisi long dan open interest, mengindikasikan perubahan sentimen pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-sovereign-ai-crossroads.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/leveraged-funds-bitcoin-futures-shorts-fall-by-5300-btc-equivalent-as-longs-shrink",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-futures-road-ahead.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T18:00:21"
-  },
-  {
-   "id": 5334,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Menguat Seiring Pergerakan Makro: Ke Mana Arah BTC Selanjutnya?",
-   "x": "Data pekerjaan AS yang meleset menghapus kemungkinan kenaikan suku bunga pada Oktober, mendorong Bitcoin mendekati level tertingginya tahun ini.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T16:45:52"
+   "published_at": "2026-10-03T11:30:07"
   },
   {
    "id": 5275,
@@ -390,24 +376,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-bitcoin-oktober-risiko-2026",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T15:18:55"
   },
   {
-   "id": 5370,
+   "id": 5309,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Dana leverage kurangi short futures Bitcoin 5.300 BTC seiring long menyusut",
-   "x": "Dana dengan leverage mengurangi posisi short Bitcoin futures mereka sekitar 5.300 BTC. Penurunan ini juga disertai penyusutan posisi long dan open interest, mengindikasikan perubahan sentimen pasar.",
+   "t": "Bitcoin tahan imbal hasil 5%, era uang murah kripto berakhir",
+   "x": "Imbal hasil obligasi negara AS mencapai level tertinggi dalam dua dekade. Periode suku bunga rendah yang mendorong aset kripto kini telah berakhir.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/leveraged-funds-bitcoin-futures-shorts-fall-by-5300-btc-equivalent-as-longs-shrink",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-futures-road-ahead.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-survived-5-yields-but-cryptos-cheap-money-era-did-not",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-yield-resilience-2.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-03T11:30:07"
+   "published_at": "2026-10-02T12:20:47"
   },
   {
    "id": 5244,
@@ -452,18 +438,18 @@
    "published_at": "2026-10-02T06:41:25"
   },
   {
-   "id": 5309,
+   "id": 5263,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tahan imbal hasil 5%, era uang murah kripto berakhir",
-   "x": "Imbal hasil obligasi negara AS mencapai level tertinggi dalam dua dekade. Periode suku bunga rendah yang mendorong aset kripto kini telah berakhir.",
+   "t": "Electrum Perbaiki Celah Lightning, Cadangan Bitcoin Lama Bermasalah",
+   "x": "Perbaikan keamanan pada Electrum mengatasi kerentanan di jaringan Lightning, namun pengguna disarankan memperbarui cadangan lama. Hal ini penting bagi pengguna Bitcoin yang memanfaatkan teknologi Lightning Network.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-survived-5-yields-but-cryptos-cheap-money-era-did-not",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-yield-resilience-2.webp",
+   "url": "https://cryptoslate.com/electrum-patches-lightning-flaw-but-old-bitcoin-backups-break",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/electrum-backup-replacement-path.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T12:20:47"
+   "published_at": "2026-10-02T05:30:01"
   },
   {
    "id": 5283,
@@ -480,34 +466,6 @@
    "published_at": "2026-10-02T12:58:12"
   },
   {
-   "id": 5263,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Electrum Perbaiki Celah Lightning, Cadangan Bitcoin Lama Bermasalah",
-   "x": "Perbaikan keamanan pada Electrum mengatasi kerentanan di jaringan Lightning, namun pengguna disarankan memperbarui cadangan lama. Hal ini penting bagi pengguna Bitcoin yang memanfaatkan teknologi Lightning Network.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/electrum-patches-lightning-flaw-but-old-bitcoin-backups-break",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/electrum-backup-replacement-path.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T05:30:01"
-  },
-  {
-   "id": 5382,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Trump Mantapkan Janji US$5.000 untuk Pemilu Tengah. Akankah Bitcoin Bergerak?",
-   "x": "Presiden Trump kembali menegaskan bahwa setiap warga Amerika akan menerima US$5.000 sebagai “Dividen Trump” jika Partai Republik menang dalam pemilu paruh waktu November. Pembayaran bantuan bergaya stimulus sebelumnya…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-mengulangi-janji-5000-dolar-bitcoin",
-   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-03T21:54:50"
-  },
-  {
    "id": 5343,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -520,6 +478,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T20:30:33"
+  },
+  {
+   "id": 5382,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Trump Mantapkan Janji US$5.000 untuk Pemilu Tengah. Akankah Bitcoin Bergerak?",
+   "x": "Presiden Trump kembali menegaskan bahwa setiap warga Amerika akan menerima US$5.000 sebagai “Dividen Trump” jika Partai Republik menang dalam pemilu paruh waktu November. Pembayaran bantuan bergaya stimulus sebelumnya…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/trump-mengulangi-janji-5000-dolar-bitcoin",
+   "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-03T21:54:50"
+  },
+  {
+   "id": 5413,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Kenaikan Suku Bunga The Fed Bisa Untungkan Stablecoin dan Rugikan Peminjam Bitcoin",
+   "x": "Kenaikan suku bunga acuan The Fed dapat meningkatkan imbal hasil bagi pemegang stablecoin, namun memberatkan biaya bagi peminjam aset kripto. Perbedaan dampak ini menunjukkan bagaimana kebijakan moneter tradisional memengaruhi ekosistem aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-slot-machine-1.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T13:20:06"
   },
   {
    "id": 5281,
@@ -536,18 +522,18 @@
    "published_at": "2026-10-02T13:25:59"
   },
   {
-   "id": 5413,
+   "id": 5329,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kenaikan Suku Bunga The Fed Bisa Untungkan Stablecoin dan Rugikan Peminjam Bitcoin",
-   "x": "Kenaikan suku bunga acuan The Fed dapat meningkatkan imbal hasil bagi pemegang stablecoin, namun memberatkan biaya bagi peminjam aset kripto. Perbedaan dampak ini menunjukkan bagaimana kebijakan moneter tradisional memengaruhi ekosistem aset digital.",
+   "t": "Node Bitcoin Lightning Eclair yang belum ditambal bisa kembali crash saat restart",
+   "x": "Node Bitcoin Lightning Eclair yang belum ditambal berisiko mengalami crash lagi saat restart karena saluran yang belum didanai. Masalah ini muncul kembali meski perbaikan telah dirilis pada Juli.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-slot-machine-1.webp",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/unpatched-eclair-bitcoin-lightning-nodes-could-crash-again-every-time-they-restart",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-lightning-crash-loop.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T13:20:06"
+   "published_at": "2026-10-02T15:40:12"
   },
   {
    "id": 5252,
@@ -562,20 +548,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T04:31:00"
-  },
-  {
-   "id": 5329,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Node Bitcoin Lightning Eclair yang belum ditambal bisa kembali crash saat restart",
-   "x": "Node Bitcoin Lightning Eclair yang belum ditambal berisiko mengalami crash lagi saat restart karena saluran yang belum didanai. Masalah ini muncul kembali meski perbaikan telah dirilis pada Juli.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/unpatched-eclair-bitcoin-lightning-nodes-could-crash-again-every-time-they-restart",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-lightning-crash-loop.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T15:40:12"
   },
   {
    "id": 5313,

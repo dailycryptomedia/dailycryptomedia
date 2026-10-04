@@ -1,5 +1,5 @@
 {
- "total": 28,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-10-01T22:04:36"
   },
   {
-   "id": 5212,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Grup Kebijakan Hyperliquid Desak Uni Eropa Soal Cadangan Stablecoin",
-   "x": "Grup kebijakan Hyperliquid meminta derivatif diatur di bawah MiFID II, sementara Circle menyoroti aturan simpanan bank dalam MiCA. Keduanya mengajukan masukan kepada Komisi Eropa terkait tinjauan regulasi aset kripto.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790881325706.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T19:10:36"
-  },
-  {
    "id": 5406,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -40,24 +26,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg",
-   "a": "13 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T17:01:03"
-  },
-  {
-   "id": 5188,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "50.000 Warga Eropa Minta Pelonggaran Aturan Imbal Hasil Stablecoin",
-   "x": "Kampanye 50.000 surat mendesak Uni Eropa untuk meninjau ulang aturan imbal hasil stablecoin. Bank sentral Eropa juga menginginkan perubahan lebih luas pada regulasi MiCA.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W9759ASDBQAC0YM9309Y4A/hi-why-technology-assurances-are-a-must-for-crafting-eu-crypto-regulation-mica.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T18:45:09"
   },
   {
    "id": 5359,
@@ -74,6 +46,20 @@
    "published_at": "2026-10-03T03:30:54"
   },
   {
+   "id": 5233,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC permudah penasihat investasi tawarkan aset kripto",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang berpotensi menghilangkan hambatan kustodi bagi penasihat investasi. Hal ini diharapkan dapat membuka akses lebih luas bagi investor untuk berinvestasi pada aset kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T01:07:08"
+  },
+  {
    "id": 5380,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -82,10 +68,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T20:00:08"
+  },
+  {
+   "id": 5259,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengecualian Inovasi SEC Hambat Token Saham di AS, Kata Robinhood",
+   "x": "Robinhood menyatakan bahwa pengecualian inovasi terbaru dari SEC menjadi kendala dalam peluncuran token saham di Amerika Serikat. Hal ini mengindikasikan tantangan regulasi yang dihadapi tokenisasi aset tradisional di pasar AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/kerbrat_option_C_darkgreen.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T05:04:41"
   },
   {
    "id": 5336,
@@ -116,20 +116,6 @@
    "published_at": "2026-10-03T15:20:27"
   },
   {
-   "id": 5259,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pengecualian Inovasi SEC Hambat Token Saham di AS, Kata Robinhood",
-   "x": "Robinhood menyatakan bahwa pengecualian inovasi terbaru dari SEC menjadi kendala dalam peluncuran token saham di Amerika Serikat. Hal ini mengindikasikan tantangan regulasi yang dihadapi tokenisasi aset tradisional di pasar AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/kerbrat_option_C_darkgreen.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T05:04:41"
-  },
-  {
    "id": 5330,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -138,24 +124,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T19:46:03"
-  },
-  {
-   "id": 5189,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Illinois Tunda Pajak Kripto Pasca Gugatan",
-   "x": "Pemerintah negara bagian Illinois sepakat menunda pajak aset digital sebesar 0,2% selama enam bulan. Penundaan ini menyusul gugatan dan protes industri yang menilai aturan tersebut terburu-buru.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W4DEMZ53S3Q9NK2GTJAT5R/hi-crypto-glossary-tax-2.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T18:01:49"
+   "published_at": "2026-10-02T19:46:03"
   },
   {
    "id": 5299,
@@ -172,6 +144,20 @@
    "published_at": "2026-10-02T09:00:10"
   },
   {
+   "id": 5273,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
+   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T12:25:56"
+  },
+  {
    "id": 5347,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -184,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T01:30:40"
+  },
+  {
+   "id": 5228,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC usulkan kerangka kerja penyimpanan mandiri aset kripto",
+   "x": "Regulator AS mengusulkan aturan baru yang memungkinkan penasihat investasi dan dana untuk menyimpan aset kripto mereka sendiri dalam kondisi tertentu. Ini bisa memengaruhi cara investor institusi mengelola aset digital mereka di masa depan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T21:00:53"
   },
   {
    "id": 5323,
@@ -208,52 +208,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/icba-gugat-occ-izin-trust-kripto",
    "img": "https://assets.beincrypto.com/img/XxRg37aFOItX6k8BJdZlNAy9M-c=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-03T21:27:17"
   },
   {
-   "id": 5228,
+   "id": 5224,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC usulkan kerangka kerja penyimpanan mandiri aset kripto",
-   "x": "Regulator AS mengusulkan aturan baru yang memungkinkan penasihat investasi dan dana untuk menyimpan aset kripto mereka sendiri dalam kondisi tertentu. Ini bisa memengaruhi cara investor institusi mengelola aset digital mereka di masa depan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T21:00:53"
-  },
-  {
-   "id": 5208,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OpenAI Pecat Tiga Peneliti Keamanan Terkait Dugaan Kebocoran",
-   "x": "OpenAI memecat tiga peneliti karena melanggar aturan penanganan informasi sensitif. Insiden ini terjadi di tengah isu keamanan dan keluarnya sejumlah anggota tim riset.",
+   "t": "SEC usulkan aturan penyimpanan aset kripto bagi penasihat investasi",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memperjelas penyimpanan aset kripto oleh penasihat dan reksa dana. Aturan ini bertujuan memberikan kepastian regulasi dan memfasilitasi kepatuhan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg",
+   "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T18:12:04"
+   "published_at": "2026-10-01T20:46:03"
   },
   {
-   "id": 5233,
+   "id": 5335,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC permudah penasihat investasi tawarkan aset kripto",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru yang berpotensi menghilangkan hambatan kustodi bagi penasihat investasi. Hal ini diharapkan dapat membuka akses lebih luas bagi investor untuk berinvestasi pada aset kripto.",
+   "t": "Pengguna kripto Eropa lebih percaya pada perusahaan teregulasi di bawah MiCA",
+   "x": "Regulasi MiCA Uni Eropa meningkatkan kepercayaan pengguna terhadap platform aset kripto yang teregulasi. Ada seruan untuk penegakan hukum yang lebih ketat terhadap perusahaan yang tidak patuh.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T01:07:08"
+   "published_at": "2026-10-02T20:40:47"
   },
   {
    "id": 5355,
@@ -284,48 +270,6 @@
    "published_at": "2026-10-01T20:20:04"
   },
   {
-   "id": 5196,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Binance Gunakan Celah Hukum untuk Beroperasi di Eropa, Kata Regulator",
-   "x": "Binance mengatakan kepada BeInCrypto bahwa mereka mematuhi aturan Uni Eropa. Regulator kini sedang menguji bagaimana Binance masih melayani warga Eropa tanpa lisensi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/celah-mica-binance-operasional-uni-eropa",
-   "img": "https://assets.beincrypto.com/img/1pr8gwZyaKvb_jfSXgc0hOdgwus=/smart/3f1301f25b0c4ebfb6b6d03282f4233b",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-01T13:58:59"
-  },
-  {
-   "id": 5224,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC usulkan aturan penyimpanan aset kripto bagi penasihat investasi",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) mengusulkan aturan baru untuk memperjelas penyimpanan aset kripto oleh penasihat dan reksa dana. Aturan ini bertujuan memberikan kepastian regulasi dan memfasilitasi kepatuhan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T20:46:03"
-  },
-  {
-   "id": 5273,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
-   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T12:25:56"
-  },
-  {
    "id": 5290,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -338,48 +282,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-02T09:04:53"
-  },
-  {
-   "id": 5210,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Illinois tunda pajak kripto kontroversial akibat gugatan industri",
-   "x": "Pemerintah Illinois dan kelompok industri kripto sepakat menunda penerapan pajak aset digital sebesar 0,2% hingga Juli 2027. Penundaan ini terjadi saat gugatan hukum terhadap pajak tersebut masih berlangsung.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T16:16:03"
-  },
-  {
-   "id": 5190,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator New York dan Wyoming sepakati kerja sama pengawasan kripto",
-   "x": "Perjanjian ini memungkinkan regulator berbagi informasi pengawasan dan menyelaraskan proses perizinan serta penegakan hukum terhadap perusahaan aset digital. Langkah ini diharapkan menyederhanakan regulasi lintas negara bagian.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W216CF6VJCFGDPQR2ZF9XR/hi-top-5-crypto-states-in-us-b-man-alabama.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T16:12:23"
-  },
-  {
-   "id": 5335,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pengguna kripto Eropa lebih percaya pada perusahaan teregulasi di bawah MiCA",
-   "x": "Regulasi MiCA Uni Eropa meningkatkan kepercayaan pengguna terhadap platform aset kripto yang teregulasi. Ada seruan untuk penegakan hukum yang lebih ketat terhadap perusahaan yang tidak patuh.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T20:40:47"
   },
   {
    "id": 5361,

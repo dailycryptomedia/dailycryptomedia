@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 27,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,20 +32,6 @@
    "published_at": "2026-10-02T01:47:10"
   },
   {
-   "id": 5207,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan XRP Terbesar Akan Melantai di Bursa",
-   "x": "Pemegang saham menyetujui merger Evernorth dengan Armada Acquisition Corp. II, memungkinkan perusahaan yang didukung Ripple ini diperdagangkan di bursa dengan cadangan XRP sekitar 473 juta.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T18:46:03"
-  },
-  {
    "id": 5410,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -54,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/vitalik-ethereum-recovery.webp",
-   "a": "53 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T16:20:35"
@@ -102,34 +88,6 @@
    "published_at": "2026-10-03T13:00:00"
   },
   {
-   "id": 5395,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Berita Kripto Pekan Ini: Uptober, Tokenisasi, dan AI",
-   "x": "Pekan ini pasar kripto diramaikan oleh tren Uptober, perkembangan tokenisasi, dan penggunaan AI untuk melacak peretas. Berita ini mencakup berbagai perkembangan penting di ekosistem aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ringkasan-berita-kripto-minggu-ini-dari-uptober-hingga-tokenisasi",
-   "img": null,
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-04T10:15:25"
-  },
-  {
-   "id": 5392,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Top 5 Perusahaan yang Perlu Diperhatikan Investor di Kuartal 4 2026",
-   "x": "IPO terbesar dalam sejarah, saham memori yang naik 277% tahun ini, serta treasury Ethereum yang hampir mencapai 5% dari total suplai akan jadi sorotan kuartal ini. Lima perusahaan di sektor AI dan kripto ini memuat…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/perusahaan-teratas-pantau-q4-2026",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-04T11:26:02"
-  },
-  {
    "id": 5294,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -144,18 +102,46 @@
    "published_at": "2026-10-02T11:28:41"
   },
   {
-   "id": 5411,
+   "id": 5395,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Rute Staking Lido Usulkan Jaminan Masuk 13 Kali Lipat dari Standar",
-   "x": "Proposal baru untuk staking di Lido mensyaratkan jaminan yang jauh lebih tinggi, yang dapat memengaruhi partisipasi validator. Perubahan ini penting bagi investor yang terlibat dalam staking aset kripto untuk memahami implikasi modal yang dibutuhkan.",
+   "t": "Berita Kripto Pekan Ini: Uptober, Tokenisasi, dan AI",
+   "x": "Pekan ini pasar kripto diramaikan oleh tren Uptober, perkembangan tokenisasi, dan penggunaan AI untuk melacak peretas. Berita ini mencakup berbagai perkembangan penting di ekosistem aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ringkasan-berita-kripto-minggu-ini-dari-uptober-hingga-tokenisasi",
+   "img": null,
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T10:15:25"
+  },
+  {
+   "id": 5392,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Top 5 Perusahaan yang Perlu Diperhatikan Investor di Kuartal 4 2026",
+   "x": "IPO terbesar dalam sejarah, saham memori yang naik 277% tahun ini, serta treasury Ethereum yang hampir mencapai 5% dari total suplai akan jadi sorotan kuartal ini. Lima perusahaan di sektor AI dan kripto ini memuat…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/perusahaan-teratas-pantau-q4-2026",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-04T11:26:02"
+  },
+  {
+   "id": 5419,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Aturan baru Departemen Keuangan AS ubah cara penerbit stablecoin tarik dolar",
+   "x": "Pemerintah AS merevisi aturan pinjaman aset negara, yang akan memengaruhi cara penerbit stablecoin mendapatkan likuiditas dolar. Perubahan ini berpotensi berdampak pada stabilitas stablecoin yang beredar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-bond-burden.webp",
+   "url": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-clearing-stablecoins-1.webp",
    "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T15:20:58"
+   "published_at": "2026-10-04T18:40:36"
   },
   {
    "id": 5314,
@@ -166,24 +152,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T18:41:17"
-  },
-  {
-   "id": 5214,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pemegang saham Evernorth setujui kesepakatan treasury XRP senilai $1 miliar, buka jalan ke Nasdaq",
-   "x": "Pemegang saham Armada Acquisition Corp. II menyetujui merger dengan Evernorth, perusahaan treasury XRP. Kesepakatan ini membuka jalan bagi Evernorth untuk melantai di bursa Nasdaq dengan perkiraan kepemilikan 473 juta XRP.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_XRP_News.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T15:17:11"
   },
   {
    "id": 5397,
@@ -194,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/71-persen-institusi-inggris-yakin-tokenisasi-bakal-ubah-dunia-finansial",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T07:00:30"
@@ -208,10 +180,52 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cathie-wood-dolar-as-lebih-kuat-bitcoin-emas-dampak",
    "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T10:51:40"
+  },
+  {
+   "id": 5411,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Rute Staking Lido Usulkan Jaminan Masuk 13 Kali Lipat dari Standar",
+   "x": "Proposal baru untuk staking di Lido mensyaratkan jaminan yang jauh lebih tinggi, yang dapat memengaruhi partisipasi validator. Perubahan ini penting bagi investor yang terlibat dalam staking aset kripto untuk memahami implikasi modal yang dibutuhkan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-bond-burden.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T15:20:58"
+  },
+  {
+   "id": 5216,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Evernorth lolos voting pemegang saham jelang debut Nasdaq dengan kas XRP",
+   "x": "Evernorth akan melantai di Nasdaq setelah merger SPAC, dengan cadangan kas senilai hampir $710 juta dalam bentuk XRP. Langkah ini menunjukkan potensi penggunaan aset kripto dalam struktur perusahaan publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WJGXZ9FFQTSYAEBHHG5A8X/hi-types-of-consensus-mechanisms-in-blockchain.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-01T21:07:45"
+  },
+  {
+   "id": 5416,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Krisis Obligasi Prancis: Apakah Data Jepang 8 Oktober akan Berdampak ke Bitcoin?",
+   "x": "Sebuah dana di Tokyo melakukan dump obligasi Prancisnya. Data Jepang pada 8 Oktober menunjukkan apakah krisis obligasi Prancis menyebar, dan Bitcoin sedang mengamati.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/krisis-obligasi-prancis-data-jepang-bitcoin",
+   "img": "https://assets.beincrypto.com/img/S5WThhn2e45fVPeM9zdubaUauaA=/smart/cc38e2bd279241049ce4c33ebab043b5",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-04T17:59:34"
   },
   {
    "id": 5342,
@@ -228,18 +242,18 @@
    "published_at": "2026-10-02T21:50:39"
   },
   {
-   "id": 5216,
+   "id": 5274,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Evernorth lolos voting pemegang saham jelang debut Nasdaq dengan kas XRP",
-   "x": "Evernorth akan melantai di Nasdaq setelah merger SPAC, dengan cadangan kas senilai hampir $710 juta dalam bentuk XRP. Langkah ini menunjukkan potensi penggunaan aset kripto dalam struktur perusahaan publik.",
+   "t": "BNB Chain capai $1 miliar saham tokenisasi, pasar capai $3,7 miliar",
+   "x": "Nilai saham dan ETF yang ditokenisasi di BNB Chain menembus $1 miliar. Jaringan ini menguasai sekitar 30% dari total pasar saham tokenisasi yang mencapai $3,7 miliar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WJGXZ9FFQTSYAEBHHG5A8X/hi-types-of-consensus-mechanisms-in-blockchain.png",
+   "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T21:07:45"
+   "published_at": "2026-10-02T11:40:21"
   },
   {
    "id": 5284,
@@ -270,18 +284,18 @@
    "published_at": "2026-10-03T16:00:54"
   },
   {
-   "id": 5274,
+   "id": 5242,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "BNB Chain capai $1 miliar saham tokenisasi, pasar capai $3,7 miliar",
-   "x": "Nilai saham dan ETF yang ditokenisasi di BNB Chain menembus $1 miliar. Jaringan ini menguasai sekitar 30% dari total pasar saham tokenisasi yang mencapai $3,7 miliar.",
+   "t": "Korea Selatan Siapkan Aturan Sekuritas Tokenisasi Jelang Peluncuran 2027",
+   "x": "Regulator Korea Selatan mengusulkan aturan rinci untuk sekuritas ter-tokenisasi, mencakup persyaratan modal dan lisensi perdagangan. Langkah ini menunjukkan kesiapan negara tersebut untuk mengintegrasikan aset dunia nyata ke dalam blockchain.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
+   "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T11:40:21"
+   "published_at": "2026-10-02T05:08:32"
   },
   {
    "id": 5256,
@@ -306,38 +320,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/evernorths-nasdaq-xrp-treasury-is-approved-but-its-real-buying-power-isnt-the-300-million-expected",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/evernorth-xrp-funding-bridge.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T17:50:25"
-  },
-  {
-   "id": 5242,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Korea Selatan Siapkan Aturan Sekuritas Tokenisasi Jelang Peluncuran 2027",
-   "x": "Regulator Korea Selatan mengusulkan aturan rinci untuk sekuritas ter-tokenisasi, mencakup persyaratan modal dan lisensi perdagangan. Langkah ini menunjukkan kesiapan negara tersebut untuk mengintegrasikan aset dunia nyata ke dalam blockchain.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T05:08:32"
-  },
-  {
-   "id": 5381,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Dana lindung nilai bangun perdagangan obligasi negara senilai $1,2 triliun",
-   "x": "Dana lindung nilai memanfaatkan pendanaan pinjaman untuk membeli obligasi negara dan menjual kontrak berjangka, demi meraup selisih harga kecil. Strategi ini menunjukkan bagaimana dana besar mengelola aset negara dengan modal pinjaman.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hedge-fund-treasury-basis-trade-standard.jpg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-03T18:40:22"
+   "published_at": "2026-10-02T17:50:25"
   },
   {
    "id": 5316,
@@ -354,18 +340,18 @@
    "published_at": "2026-10-02T16:20:24"
   },
   {
-   "id": 5205,
+   "id": 5381,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Treasury izinkan negara bagian ajukan persetujuan stablecoin sebelum aturan final",
-   "x": "Pemerintah AS mengizinkan negara bagian mengajukan permohonan persetujuan stablecoin sebelum aturan final diterbitkan. Hal ini memungkinkan proses awal berjalan sambil menunggu penyelesaian regulasi.",
+   "t": "Dana lindung nilai bangun perdagangan obligasi negara senilai $1,2 triliun",
+   "x": "Dana lindung nilai memanfaatkan pendanaan pinjaman untuk membeli obligasi negara dan menjual kontrak berjangka, demi meraup selisih harga kecil. Strategi ini menunjukkan bagaimana dana besar mengelola aset negara dengan modal pinjaman.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/treasury-will-let-states-file-for-stablecoin-approval-before-finishing-their-rules",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-approval-bridge.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hedge-fund-treasury-basis-trade-standard.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-01T14:40:06"
+   "published_at": "2026-10-03T18:40:22"
   },
   {
    "id": 5317,
@@ -394,20 +380,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T15:27:31"
-  },
-  {
-   "id": 5191,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin berjuang pertahankan tren naik saat imbal hasil obligasi AS turun dari rekor",
-   "x": "Harga Bitcoin menunjukkan tanda-tanda pemulihan dan berupaya mempertahankan tren kenaikan saat imbal hasil obligasi pemerintah Amerika Serikat mengalami penurunan signifikan. Penurunan imbal hasil obligasi ini seringkali berkorelasi positif dengan aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W2DJGKT5VP6Z8THMSJRK57/crypto-bitcoin-btc-price-960x640.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-01T15:55:19"
   }
  ]
 }
