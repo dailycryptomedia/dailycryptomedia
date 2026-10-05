@@ -1,8 +1,22 @@
 {
- "total": 18,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 5432,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Illinois dukung penundaan aturan pajak kripto setelah dorongan industri",
+   "x": "Illinois mengajukan penundaan aturan pajak aset digital hingga Juli 2027. Langkah ini merupakan respons terhadap desakan industri kripto yang khawatir akan dampak regulasi tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-crypto-oversight.jpg",
+   "a": "12 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T02:00:45"
+  },
   {
    "id": 5406,
    "k": "regulasi",
@@ -12,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T17:01:03"
@@ -26,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png",
-   "a": "52 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T22:31:12"
@@ -60,20 +74,6 @@
    "published_at": "2026-10-03T15:20:27"
   },
   {
-   "id": 5380,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bankir gugat aturan trust bank OCC yang dipakai perusahaan kripto",
-   "x": "Asosiasi bankir menggugat regulator keuangan AS terkait aturan yang memungkinkan perusahaan non-bank beroperasi sebagai bank. Aturan ini sebelumnya dimanfaatkan oleh beberapa perusahaan aset digital untuk mendapatkan lisensi kustodian.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-03T20:00:08"
-  },
-  {
    "id": 5259,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -102,6 +102,20 @@
    "published_at": "2026-10-02T21:23:20"
   },
   {
+   "id": 5380,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bankir gugat aturan trust bank OCC yang dipakai perusahaan kripto",
+   "x": "Asosiasi bankir menggugat regulator keuangan AS terkait aturan yang memungkinkan perusahaan non-bank beroperasi sebagai bank. Aturan ini sebelumnya dimanfaatkan oleh beberapa perusahaan aset digital untuk mendapatkan lisensi kustodian.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-03T20:00:08"
+  },
+  {
    "id": 5330,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -124,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T01:07:08"
@@ -158,20 +172,6 @@
    "published_at": "2026-10-03T21:27:17"
   },
   {
-   "id": 5347,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Aturan baru SEC ancam penasihat kecil, perusahaan besar diuntungkan",
-   "x": "Regulasi baru dari Komisi Sekuritas dan Bursa Amerika Serikat (SEC) berpotensi membebani penasihat keuangan kecil karena biaya kepatuhan yang tinggi. Perusahaan besar dinilai lebih siap menghadapi aturan ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-crypto-custody-scale-cost-standard.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-03T01:30:40"
-  },
-  {
    "id": 5323,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -186,18 +186,32 @@
    "published_at": "2026-10-02T17:12:48"
   },
   {
-   "id": 5273,
+   "id": 5347,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
-   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
+   "t": "Aturan baru SEC ancam penasihat kecil, perusahaan besar diuntungkan",
+   "x": "Regulasi baru dari Komisi Sekuritas dan Bursa Amerika Serikat (SEC) berpotensi membebani penasihat keuangan kecil karena biaya kepatuhan yang tinggi. Perusahaan besar dinilai lebih siap menghadapi aturan ini.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-crypto-custody-scale-cost-standard.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T12:25:56"
+   "published_at": "2026-10-03T01:30:40"
+  },
+  {
+   "id": 5428,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Zcash rekrut pelobi di Washington untuk dorong kebijakan kripto",
+   "x": "Zcash mendaftarkan operasi pelobi di Washington untuk mengadvokasi kebijakan aset digital. Isu yang diangkat mencakup undang-undang terkait dan proposal pajak aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T00:35:34"
   },
   {
    "id": 5290,
@@ -226,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-03T03:40:54"
+  },
+  {
+   "id": 5273,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Circle minta UE revisi aturan cadangan stablecoin di MiCA",
+   "x": "Circle mendesak Uni Eropa untuk mengganti aturan minimum simpanan bank yang kaku. Perusahaan ingin aturan likuiditas yang lebih fleksibel untuk penerbitan stablecoin lintas batas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T12:25:56"
   },
   {
    "id": 5335,
