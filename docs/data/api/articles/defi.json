@@ -1,8 +1,22 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 5468,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "S&P Global nilai risiko sektor pinjaman kripto",
+   "x": "S&P Global meluncurkan kerangka penilaian risiko untuk penyedia pinjaman aset digital. Langkah ini penting seiring pertumbuhan sektor tersebut yang kini mencapai sekitar $10 miliar.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png",
+   "a": "43 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T17:58:58"
+  },
   {
    "id": 5326,
    "k": "defi",
@@ -18,18 +32,18 @@
    "published_at": "2026-10-02T19:10:35"
   },
   {
-   "id": 5446,
+   "id": 5481,
    "k": "defi",
    "cat": "DeFi",
-   "t": "8,5% Pertumbuhan vs. 3,4% Bunga: Matematika yang Menjaga Spiral Utang AS Tetap Terkendali",
-   "x": "Spiral utang AS belum akan terjadi sebab pertumbuhan 8,5% melampaui rata-rata suku bunga utang federal sebesar 3,4% meski yield mencapai 5%.",
+   "t": "S&P Global Bawa Nilai Risiko TradFi ke Crypto Lending Vault Senilai US$10 Miliar",
+   "x": "S&P Global Ratings meluncurkan kerangka kerja untuk menilai crypto lending vault, yang kini menampung USD10 miliar. Lihat bagaimana skor risiko enam faktornya bekerja.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/spiral-utang-as-imblal-hasil-treasury-pertumbuhan",
-   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
-   "a": "4 jam lalu",
+   "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
+   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-05T04:25:00"
+   "published_at": "2026-10-05T14:49:17"
   },
   {
    "id": 5386,
@@ -54,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T13:01:03"
@@ -68,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T17:10:40"
-  },
-  {
-   "id": 5437,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
-   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T03:47:19"
   },
   {
    "id": 5456,
@@ -96,24 +96,52 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T06:40:29"
   },
   {
-   "id": 5308,
+   "id": 5437,
    "k": "defi",
    "cat": "DeFi",
-   "t": "DeFi Cardano menyusut, RealFi harap kredit bisa bangkitkan",
-   "x": "Sektor DeFi di Cardano menyusut lebih dari separuh nilainya. Harapannya kini tertuju pada model RealFi yang mengandalkan kredit untuk memulihkan ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
-   "a": "2 hari lalu",
+   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
+   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T13:40:24"
+   "published_at": "2026-10-05T03:47:19"
+  },
+  {
+   "id": 5400,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Stablecoin bisa bikin biaya pinjaman naik, bukan kuras dolar bank",
+   "x": "Meskipun stablecoin tidak menguras dana bank, penerbitannya dapat meningkatkan biaya pinjaman. Proses ini melibatkan konversi dolar menjadi stablecoin yang disimpan di rekening bank penerbit.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T07:30:08"
+  },
+  {
+   "id": 5446,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "8,5% Pertumbuhan vs. 3,4% Bunga: Matematika yang Menjaga Spiral Utang AS Tetap Terkendali",
+   "x": "Spiral utang AS belum akan terjadi sebab pertumbuhan 8,5% melampaui rata-rata suku bunga utang federal sebesar 3,4% meski yield mencapai 5%.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/spiral-utang-as-imblal-hasil-treasury-pertumbuhan",
+   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-05T04:25:00"
   },
   {
    "id": 5396,
@@ -130,32 +158,18 @@
    "published_at": "2026-10-04T08:00:48"
   },
   {
-   "id": 5278,
+   "id": 5505,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pendiri Aave: V3 tidak terpengaruh peretasan adapter pihak ketiga",
-   "x": "Peretas mengeksploitasi adapter pihak ketiga untuk mencuri dana, namun protokol Aave V3 tetap aman. Insiden ini menunjukkan pentingnya keamanan pada komponen eksternal dalam ekosistem DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png",
-   "a": "2 hari lalu",
+   "t": "Pengembangan DeFi catat NAV per saham naik dua kali lipat, pegang 2,56 juta SOL",
+   "x": "Perusahaan pengembangan DeFi melaporkan perkiraan awal kuartal III menunjukkan Nilai Aset Bersih (NAV) per sahamnya naik lebih dari dua kali lipat. Peningkatan ini didorong oleh pertumbuhan aset digital yang dikelola.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T09:30:49"
-  },
-  {
-   "id": 5400,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Stablecoin bisa bikin biaya pinjaman naik, bukan kuras dolar bank",
-   "x": "Meskipun stablecoin tidak menguras dana bank, penerbitannya dapat meningkatkan biaya pinjaman. Proses ini melibatkan konversi dolar menjadi stablecoin yang disimpan di rekening bank penerbit.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-04T07:30:08"
+   "published_at": "2026-10-05T14:33:14"
   }
  ]
 }
