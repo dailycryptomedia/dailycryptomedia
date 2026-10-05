@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T09:18:52"
@@ -88,32 +88,18 @@
    "published_at": "2026-10-02T17:34:40"
   },
   {
-   "id": 5268,
+   "id": 5465,
    "k": "web3",
    "cat": "Web3",
-   "t": "MetaMask Diterpa Insiden Keamanan, Validator Ethereum Mulai Ditarik",
-   "x": "Insiden keamanan yang menimpa dompet kripto MetaMask memicu kekhawatiran di kalangan validator Ethereum. Sejumlah validator dilaporkan mulai menarik diri sebagai langkah antisipasi.",
+   "t": "Token STRK menguat 25 persen, Starknet siap aktifkan fitur proof baru",
+   "x": "Token STRK mengalami kenaikan harga signifikan menjelang pembaruan Starknet v0.14.4. Pembaruan ini akan memperkenalkan fitur proof baru pada jaringan utama, yang berpotensi meningkatkan efisiensi dan skalabilitas.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/metamask-diterpa-insiden-keamanan-validator-ethereum-mulai-ditarik",
+   "url": "https://blockchainmedia.id/token-strk-menguat-25-persen-starknet-bersiap-aktifkan-fitur-proof-baru",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T03:00:25"
-  },
-  {
-   "id": 5251,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "69% Trader Ritel Polymarket Berakhir Merugi, Galaxy Temukan",
-   "x": "Galaxy Research menemukan bahwa 69,2% akun Polymarket ritel berakhir di bawah titik impas dalam studi terhadap 2,9 juta wallet. Secara total, para trader ini mengalami kerugian sebesar US$338,9 juta. Analisis ini…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kerugian-trader-ritel-polymarket-studi-galaxy",
-   "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-02T04:52:27"
+   "published_at": "2026-10-05T02:30:50"
   },
   {
    "id": 5298,
@@ -142,20 +128,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-02T17:15:35"
-  },
-  {
-   "id": 5255,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "AI Agent dan Bot Kini Hasilkan Sebagian Besar Lalu Lintas Web saat Saham Infrastruktur Reli",
-   "x": "Agen AI dan bot mendorong sekitar 57% lalu lintas web, mengangkat saham Cloudflare, Akamai, dan Fastly. Lihat siapa yang paling diuntungkan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ai-agent-saham-infrastruktur-traffic-web",
-   "img": "https://assets.beincrypto.com/img/CD8lBYQ1L6_FSy1bn7NVvGuw2IE=/smart/9f3c9c134755406484d4ad55da8dfa39",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-02T02:44:00"
   }
  ]
 }

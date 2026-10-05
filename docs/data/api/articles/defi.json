@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,32 +18,18 @@
    "published_at": "2026-10-02T19:10:35"
   },
   {
-   "id": 5237,
+   "id": 5446,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ethereum Foundation luncurkan zkAPI untuk privasi pembayaran AI",
-   "x": "Ethereum Foundation memperkenalkan zkAPI yang memungkinkan pengguna membayar layanan kecerdasan buatan tanpa mengungkapkan identitas mereka. Teknologi zero-knowledge proof ini menjaga privasi pengguna dari penyedia layanan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-   "a": "3 hari lalu",
+   "t": "8,5% Pertumbuhan vs. 3,4% Bunga: Matematika yang Menjaga Spiral Utang AS Tetap Terkendali",
+   "x": "Spiral utang AS belum akan terjadi sebab pertumbuhan 8,5% melampaui rata-rata suku bunga utang federal sebesar 3,4% meski yield mencapai 5%.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/spiral-utang-as-imblal-hasil-treasury-pertumbuhan",
+   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
+   "a": "4 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T00:22:58"
-  },
-  {
-   "id": 5232,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "NEAR Intents identifikasi peretas, beri ultimatum 48 jam",
-   "x": "Protokol NEAR Intents mengklaim telah mengidentifikasi pelaku peretasan yang menyebabkan kerugian $3,8 juta. Pihak NEAR Intents memberikan tenggat waktu 48 jam kepada peretas untuk mengembalikan dana yang dicuri.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T02:02:13"
+   "translated": false,
+   "published_at": "2026-10-05T04:25:00"
   },
   {
    "id": 5386,
@@ -54,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-jst-cari-puncak-baru-insentif-defi-us300-ribu-mulai-berlaku",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T03:00:59"
@@ -68,24 +54,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T13:01:03"
-  },
-  {
-   "id": 5308,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "DeFi Cardano menyusut, RealFi harap kredit bisa bangkitkan",
-   "x": "Sektor DeFi di Cardano menyusut lebih dari separuh nilainya. Harapannya kini tertuju pada model RealFi yang mengandalkan kredit untuk memulihkan ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T13:40:24"
   },
   {
    "id": 5324,
@@ -102,6 +74,62 @@
    "published_at": "2026-10-02T17:10:40"
   },
   {
+   "id": 5437,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
+   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T03:47:19"
+  },
+  {
+   "id": 5456,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Investor Ethereum terjebak dalam antrean keluar staking dua minggu. Ini alasannya.",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T06:40:29"
+  },
+  {
+   "id": 5308,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "DeFi Cardano menyusut, RealFi harap kredit bisa bangkitkan",
+   "x": "Sektor DeFi di Cardano menyusut lebih dari separuh nilainya. Harapannya kini tertuju pada model RealFi yang mengandalkan kredit untuk memulihkan ekosistem.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/realfi-market-institution-split.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-02T13:40:24"
+  },
+  {
+   "id": 5396,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "AI lacak hacker Korut di balik peretasan Bitget",
+   "x": "Teknologi AI berhasil mempercepat pelacakan hacker Korea Utara yang terlibat dalam peretasan Bitget. Proses yang biasanya memakan waktu lebih dari 20 jam kini dapat diselesaikan dalam waktu kurang dari 10 menit.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/begini-cara-ai-melacak-jejak-hacker-korut-di-balik-peretasan-bitget",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T08:00:48"
+  },
+  {
    "id": 5278,
    "k": "defi",
    "cat": "DeFi",
@@ -116,20 +144,6 @@
    "published_at": "2026-10-02T09:30:49"
   },
   {
-   "id": 5396,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "AI lacak hacker Korut di balik peretasan Bitget",
-   "x": "Teknologi AI berhasil mempercepat pelacakan hacker Korea Utara yang terlibat dalam peretasan Bitget. Proses yang biasanya memakan waktu lebih dari 20 jam kini dapat diselesaikan dalam waktu kurang dari 10 menit.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/begini-cara-ai-melacak-jejak-hacker-korut-di-balik-peretasan-bitget",
-   "img": null,
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-04T08:00:48"
-  },
-  {
    "id": 5400,
    "k": "defi",
    "cat": "DeFi",
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T07:30:08"
