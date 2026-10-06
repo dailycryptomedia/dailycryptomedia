@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png",
-   "a": "43 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T17:58:58"
-  },
-  {
-   "id": 5326,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas Curi 114 ETH Lewat Alat Pihak Ketiga Aave",
-   "x": "Peretas berhasil mencuri 114 ETH senilai lebih dari $300.000 dengan mengeksploitasi alat pinjaman pihak ketiga di Aave. Protokol Aave sendiri tidak terdampak serangan ini.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-adapter-breach.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T19:10:35"
   },
   {
    "id": 5481,
@@ -40,10 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T14:49:17"
+  },
+  {
+   "id": 5539,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "DeFi Development Corp tambah $3 juta dalam Solana",
+   "x": "Perusahaan yang terdaftar di Nasdaq ini menambah kepemilikan Solana (SOL) senilai $3 juta. Kenaikan ini terjadi di tengah melambatnya pembelian SOL, menunjukkan diversifikasi portofolio aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T21:48:03"
   },
   {
    "id": 5386,
@@ -60,62 +60,6 @@
    "published_at": "2026-10-04T03:00:59"
   },
   {
-   "id": 5409,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Near Intents Pulihkan $3,8 Juta Setelah Ultimatum 48 Jam",
-   "x": "Tim Near Intents berhasil memulihkan seluruh dana yang hilang akibat peretasan setelah memberikan tenggat waktu kepada pelaku. Keberhasilan ini menunjukkan adanya upaya pemulihan aset digital yang dicuri dalam ekosistem kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-04T13:01:03"
-  },
-  {
-   "id": 5324,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Drift buka klaim pemulihan eksploitasi dengan pembayaran awal hanya 1% dari kerugian pengguna",
-   "x": "Pemegang token DFX kini dapat mencairkan dana mereka atau menunggu pendanaan tambahan, tanpa kepastian kapan pembayaran penuh akan dilakukan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240503_Hacks_News_2.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-02T17:10:40"
-  },
-  {
-   "id": 5456,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Investor Ethereum terjebak dalam antrean keluar staking dua minggu. Ini alasannya.",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T06:40:29"
-  },
-  {
-   "id": 5437,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
-   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T03:47:19"
-  },
-  {
    "id": 5400,
    "k": "defi",
    "cat": "DeFi",
@@ -130,6 +74,48 @@
    "published_at": "2026-10-04T07:30:08"
   },
   {
+   "id": 5456,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Investor Ethereum terjebak dalam antrean keluar staking dua minggu. Ini alasannya.",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T06:40:29"
+  },
+  {
+   "id": 5505,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pengembangan DeFi catat NAV per saham naik dua kali lipat, pegang 2,56 juta SOL",
+   "x": "Perusahaan pengembangan DeFi melaporkan perkiraan awal kuartal III menunjukkan Nilai Aset Bersih (NAV) per sahamnya naik lebih dari dua kali lipat. Peningkatan ini didorong oleh pertumbuhan aset digital yang dikelola.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T14:33:14"
+  },
+  {
+   "id": 5437,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
+   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T03:47:19"
+  },
+  {
    "id": 5446,
    "k": "defi",
    "cat": "DeFi",
@@ -138,10 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/spiral-utang-as-imblal-hasil-treasury-pertumbuhan",
    "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T04:25:00"
+  },
+  {
+   "id": 5409,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Near Intents Pulihkan $3,8 Juta Setelah Ultimatum 48 Jam",
+   "x": "Tim Near Intents berhasil memulihkan seluruh dana yang hilang akibat peretasan setelah memberikan tenggat waktu kepada pelaku. Keberhasilan ini menunjukkan adanya upaya pemulihan aset digital yang dicuri dalam ekosistem kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T13:01:03"
   },
   {
    "id": 5396,
@@ -156,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T08:00:48"
-  },
-  {
-   "id": 5505,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pengembangan DeFi catat NAV per saham naik dua kali lipat, pegang 2,56 juta SOL",
-   "x": "Perusahaan pengembangan DeFi melaporkan perkiraan awal kuartal III menunjukkan Nilai Aset Bersih (NAV) per sahamnya naik lebih dari dua kali lipat. Peningkatan ini didorong oleh pertumbuhan aset digital yang dikelola.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T14:33:14"
   }
  ]
 }

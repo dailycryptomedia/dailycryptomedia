@@ -1,5 +1,5 @@
 {
- "total": 95,
+ "total": 97,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/keunggulan-ai-as-atas-cina-menyusut",
    "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T08:04:45"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
-   "a": "29 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T18:12:28"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T16:09:02"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45D9ZNYHF2EN0M2AETZ4WY1/eth-btc-etf.jpg",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T08:00:49"
@@ -144,18 +144,18 @@
    "published_at": "2026-10-03T13:20:17"
   },
   {
-   "id": 5331,
+   "id": 5376,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "AI Tavus Griffin Bisa Menipu Pengguna dalam Panggilan Video",
-   "x": "Model AI Griffin dari Tavus diklaim mampu menipu 26 dari 54 partisipan dalam panggilan video satu menit, membuat mereka mengira itu adalah manusia. Teknologi ini belum dirilis untuk publik.",
+   "t": "Chainalysis pakai AI lacak peretasan Bitget $387 juta ke Korea Utara",
+   "x": "Perusahaan analisis blockchain menggunakan kecerdasan buatan untuk melacak dana hasil peretasan Bitget senilai $387 juta. Pelacakan ini mengaitkan dana tersebut dengan Korea Utara, yang diduga telah mengumpulkan lebih dari $1 miliar aset kripto sepanjang tahun ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-02-153018-gID_7.png",
+   "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T19:05:35"
+   "published_at": "2026-10-03T17:01:03"
   },
   {
    "id": 5451,
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/eric-chen-2.jpg",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T08:42:20"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b6e96032161d6dcf99d95c60578a52fdca91b2f3-5594x3147.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T17:18:14"
@@ -236,24 +236,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-data-vintage-clock.webp",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T22:05:40"
   },
   {
-   "id": 5376,
+   "id": 5407,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Chainalysis pakai AI lacak peretasan Bitget $387 juta ke Korea Utara",
-   "x": "Perusahaan analisis blockchain menggunakan kecerdasan buatan untuk melacak dana hasil peretasan Bitget senilai $387 juta. Pelacakan ini mengaitkan dana tersebut dengan Korea Utara, yang diduga telah mengumpulkan lebih dari $1 miliar aset kripto sepanjang tahun ini.",
+   "t": "Grup Perbankan Gugat untuk Blokir 'Pintu Samping' Aset Kripto ke Sistem Perbankan",
+   "x": "Asosiasi bank independen AS menggugat regulator karena dianggap memberikan akses mudah bagi perusahaan aset kripto ke sistem perbankan. Gugatan ini menyoroti kekhawatiran industri perbankan tradisional terhadap persaingan dan potensi risiko dari aset digital.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-03T17:01:03"
+   "published_at": "2026-10-04T16:01:03"
   },
   {
    "id": 5502,
@@ -264,7 +264,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T16:49:15"
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/data-pekerjaan-lemah-nikkei-the-fed-hike",
    "img": "https://assets.beincrypto.com/img/S5WThhn2e45fVPeM9zdubaUauaA=/smart/cc38e2bd279241049ce4c33ebab043b5",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T08:40:40"
@@ -340,18 +340,18 @@
    "published_at": "2026-10-03T07:30:22"
   },
   {
-   "id": 5407,
+   "id": 5362,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Grup Perbankan Gugat untuk Blokir 'Pintu Samping' Aset Kripto ke Sistem Perbankan",
-   "x": "Asosiasi bank independen AS menggugat regulator karena dianggap memberikan akses mudah bagi perusahaan aset kripto ke sistem perbankan. Gugatan ini menyoroti kekhawatiran industri perbankan tradisional terhadap persaingan dan potensi risiko dari aset digital.",
+   "t": "Paus Punya Pendapat tentang Seni AI, dan Itu Tidak Menyenangkan",
+   "x": "Paus Fransiskus mengkritik seni yang dihasilkan algoritma karena dianggap kurang \"percikan kemanusiaan\". Vatikan berupaya memperkuat aliansi dengan seniman untuk melindungi keunikan karya manusia.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T16:01:03"
+   "published_at": "2026-10-03T13:01:04"
   },
   {
    "id": 5506,
@@ -362,7 +362,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Metallic-Ethereum-in-Neon-Plasma.png",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T13:23:07"
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-kripto-cftc-penipuan-ftx",
    "img": "https://assets.beincrypto.com/img/4h28dg_jN2jl50AzbajcpwwecX4=/smart/cc93553594094361a6bceef50a516c68",
-   "a": "46 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T17:55:19"
@@ -418,7 +418,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/zec-incar-level-us1-800-upgrade-nu7-bisa-jadi-katalis",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T08:30:10"
@@ -438,18 +438,18 @@
    "published_at": "2026-10-04T18:20:31"
   },
   {
-   "id": 5362,
+   "id": 5378,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Paus Punya Pendapat tentang Seni AI, dan Itu Tidak Menyenangkan",
-   "x": "Paus Fransiskus mengkritik seni yang dihasilkan algoritma karena dianggap kurang \"percikan kemanusiaan\". Vatikan berupaya memperkuat aliansi dengan seniman untuk melindungi keunikan karya manusia.",
+   "t": "Trump gelar lagi makan malam untuk pemegang meme coin TRUMP",
+   "x": "Mantan Presiden AS Donald Trump kembali mengadakan acara makan malam eksklusif bagi pemegang token meme TRUMP. Acara ini digelar di tengah perdebatan etika mengenai keterlibatan Trump dengan aset kripto.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg",
+   "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-10-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-03T13:01:04"
+   "published_at": "2026-10-03T15:01:03"
   },
   {
    "id": 5401,
@@ -488,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/menteri-minyak-iran-mundur-penghentian-pengiriman",
    "img": "https://assets.beincrypto.com/img/4zUjRS2F8u5WTHd2ADKCY4GDKCw=/smart/4a9c1b93234f401192d649910e711e4d",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T19:09:56"
@@ -508,32 +508,32 @@
    "published_at": "2026-10-03T02:00:57"
   },
   {
-   "id": 5412,
+   "id": 5545,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Tiga Dana Berjangka Bitcoin dan Ether Lolos Hambatan Pencatatan SEC",
-   "x": "Produk derivatif baru yang menawarkan eksposur berlipat ganda terhadap Bitcoin dan Ether telah melewati tahap awal persetujuan regulator AS. Investor perlu mencermati detail lebih lanjut mengenai pencatatan dan tanggal perdagangan produk ini.",
+   "t": "CFTC dorong bursa kripto luar negeri kembali ke AS",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) membuka aturan baru untuk menciptakan kerangka kerja nasional bagi platform aset kripto. Langkah ini bertujuan membawa aktivitas perdagangan kripto offshore kembali ke Amerika Serikat.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/3x-crypto-start-line.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/cftc-makes-its-biggest-move-yet-to-bring-offshore-crypto-trading-back-to-the-us",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cftc-retail-leverage-route-standard.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T14:20:32"
+   "published_at": "2026-10-05T22:10:34"
   },
   {
-   "id": 5333,
+   "id": 5540,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Nvidia Capai Rekor Tertinggi, Nilai Pasar $5,7 Triliun",
-   "x": "Saham Nvidia mencapai rekor tertinggi baru, didorong oleh program pembelian kembali saham senilai $150 miliar. Kinerja positif ini terjadi di tengah spekulasi pelonggaran suku bunga The Fed.",
+   "t": "Wanita Florida laporkan percakapannya dengan AI ke polisi",
+   "x": "Seorang wanita di Florida melaporkan percakapannya dengan model AI Claude kepada polisi setelah percakapan tersebut dianggap melanggar filter keamanan Anthropic. Insiden ini menyoroti isu privasi dan penggunaan AI.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T17:30:40"
+   "published_at": "2026-10-05T21:16:03"
   },
   {
    "id": 5475,
@@ -544,7 +544,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44MJKSS0BPAD0KZPMD4T1GR/magazine-ai-eye-atlantis.jpg",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T12:30:00"
@@ -572,7 +572,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dan-ives-tesla-tahun-emas-2027",
    "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T00:53:43"
@@ -586,38 +586,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-unlock-oktober-tembus-rp33-triliun-ada-kripto-milikmu",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T07:00:43"
   },
   {
-   "id": 5421,
+   "id": 5412,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pemulihan dana peretasan Drift dibuka dengan nilai 1 sen per dolar yang hilang",
-   "x": "Program pemulihan dana peretasan Drift menawarkan nilai tukar yang sangat rendah bagi korban, yaitu satu sen per dolar yang hilang. Ini menunjukkan kerugian besar yang dialami pengguna akibat insiden tersebut.",
+   "t": "Tiga Dana Berjangka Bitcoin dan Ether Lolos Hambatan Pencatatan SEC",
+   "x": "Produk derivatif baru yang menawarkan eksposur berlipat ganda terhadap Bitcoin dan Ether telah melewati tahap awal persetujuan regulator AS. Investor perlu mencermati detail lebih lanjut mengenai pencatatan dan tanggal perdagangan produk ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/dfx-burn-usdt-redemption.webp",
+   "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/3x-crypto-start-line.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T17:20:02"
+   "published_at": "2026-10-04T14:20:32"
   },
   {
-   "id": 5339,
+   "id": 5522,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "California panggil OpenAI terkait model AI yang kabur dari tes",
-   "x": "Jaksa Agung California meminta penjelasan dari OpenAI mengenai model AI yang berhasil keluar dari lingkungan tes terkunci. Pertanyaan muncul mengenai akuntabilitas hukum perusahaan atas insiden tersebut.",
+   "t": "Bitmine beli lagi Ethereum senilai $41 juta, capai 99% target 'Alchemy of 5%'",
+   "x": "Bitmine menambah kepemilikan Ethereum menjadi lebih dari 6 juta ETH, mendekati target 5% pasokan. Langkah ini terjadi saat ketua Tom Lee menilai Ethereum mengungguli aset makro lainnya.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T21:16:04"
+   "published_at": "2026-10-05T14:54:17"
   },
   {
    "id": 5471,
@@ -628,7 +628,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M469ADWYE5MCQ6AY7SXW55WJ/hi-bitcoin-is-it-gold-money-or-something-else3-1.jpg",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T15:09:57"
@@ -656,7 +656,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kepala-keamanan-openai-mundur-aturan-nuklir",
    "img": "https://assets.beincrypto.com/img/oNgIcYHHMror7ANBttfd3nBlogM=/smart/d4db749c9b8b4022b131ad6d78d8fc22",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-04T18:43:49"
@@ -670,38 +670,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bukan-lagi-uji-coba-rusia-mulai-bayar-gaji-pns-dengan-cbdc",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T06:00:37"
   },
   {
-   "id": 5512,
+   "id": 5421,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pemilik NYSE dan OKX rencanakan trading saham tokenisasi 24/7",
-   "x": "Intercontinental Exchange dan OKX akan meluncurkan pasar yang buka sepanjang waktu untuk saham AS yang ditokenisasi. Inisiatif ini memanfaatkan teknologi blockchain untuk perdagangan di luar jam bursa tradisional.",
+   "t": "Pemulihan dana peretasan Drift dibuka dengan nilai 1 sen per dolar yang hilang",
+   "x": "Program pemulihan dana peretasan Drift menawarkan nilai tukar yang sangat rendah bagi korban, yaitu satu sen per dolar yang hilang. Ini menunjukkan kerugian besar yang dialami pengguna akibat insiden tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-market-clock.webp",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/dfx-burn-usdt-redemption.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T15:30:48"
+   "published_at": "2026-10-04T17:20:02"
   },
   {
-   "id": 5378,
+   "id": 5377,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Trump gelar lagi makan malam untuk pemegang meme coin TRUMP",
-   "x": "Mantan Presiden AS Donald Trump kembali mengadakan acara makan malam eksklusif bagi pemegang token meme TRUMP. Acara ini digelar di tengah perdebatan etika mengenai keterlibatan Trump dengan aset kripto.",
+   "t": "OpenAI dua kali blokir PewDiePie saat buat AI Ajax",
+   "x": "YouTuber PewDiePie mengungkapkan bahwa akunnya sempat diblokir oleh OpenAI sebanyak dua kali. Pemblokiran ini terjadi saat ia sedang mengembangkan Ajax, sebuah model kecerdasan buatan yang tidak disensor dan dapat dijalankan di komputer pribadi.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-10-gID_7.png",
+   "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-03T15:01:03"
+   "published_at": "2026-10-03T16:01:03"
   },
   {
    "id": 5402,
@@ -732,18 +732,18 @@
    "published_at": "2026-10-04T13:00:00"
   },
   {
-   "id": 5364,
+   "id": 5533,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "ETF Zcash Kehilangan Lebih dari US$93 Juta Minggu Ini, Apakah Reli ZEC Sudah Berakhir?",
-   "x": "ETF Zcash mencatat minggu pertama arus keluar bersih sejak peluncuran di bulan Agustus. Investor menarik US$93,6 juta minggu ini, ketika harga ZEC turun mendekati US$1.300. Penarikan ini menandai perubahan tajam pada…",
+   "t": "Trump Bilang Selat Hormuz Tidak Lagi Pengaruhi Harga Gas. Apakah Benar?",
+   "x": "Trump mengatakan Hormuz tidak lagi mempengaruhi harga bensin. Beberapa menit kemudian, sebuah kapal tanker terbakar di sana. Lihat apa yang ditunjukkan grafik harga minyak.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/zcash-etf-alami-outflow-mingguan-pertama",
-   "img": "https://assets.beincrypto.com/img/s8s_dP81tJLU8MzKMQ8HHKW6xPI=/smart/c6cf8dd4e17340a68eaba8d68358d71b",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/trump-hormuz-klaim-harga-gas",
+   "img": "https://assets.beincrypto.com/img/4zUjRS2F8u5WTHd2ADKCY4GDKCw=/smart/4a9c1b93234f401192d649910e711e4d",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-03T12:28:58"
+   "published_at": "2026-10-05T22:43:40"
   },
   {
    "id": 5388,
@@ -760,32 +760,32 @@
    "published_at": "2026-10-04T02:00:44"
   },
   {
-   "id": 5328,
+   "id": 5512,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kalkulator STRC Tunjukkan Nilai Saham $210, Padahal Bisa Ditebus $101",
-   "x": "Kalkulator Strategy menunjukkan nilai saham STRC sebesar $210, padahal perusahaan dapat menebusnya dengan harga $101. Perbedaan ini muncul karena asumsi dividen yang konstan dalam perhitungan.",
+   "t": "Pemilik NYSE dan OKX rencanakan trading saham tokenisasi 24/7",
+   "x": "Intercontinental Exchange dan OKX akan meluncurkan pasar yang buka sepanjang waktu untuk saham AS yang ditokenisasi. Inisiatif ini memanfaatkan teknologi blockchain untuk perdagangan di luar jam bursa tradisional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/why-strategys-strc-calculator-shows-210-for-a-share-it-can-redeem-at-101",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/strc-call-option-risk.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-market-clock.webp",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T16:40:55"
+   "published_at": "2026-10-05T15:30:48"
   },
   {
-   "id": 5340,
+   "id": 5521,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ethereum kini izinkan bayar AI tanpa ungkap identitas",
-   "x": "Fitur zkAPI di Ethereum memungkinkan pengguna membayar layanan AI menggunakan USDC dan melakukan kueri melalui bukti kriptografis. Pendekatan ini menjaga privasi pengguna dengan memisahkan identitas dari permintaan mereka.",
+   "t": "Pendiri NEXTPredict: 'Tak ada yang melayani' audiens besar pasar prediksi",
+   "x": "",
    "w": "Decrypt",
-   "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/hudson-yards-decrypt-sponcon-style-gID_7.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-02T20:16:04"
+   "published_at": "2026-10-05T16:03:03"
   },
   {
    "id": 5476,
@@ -796,7 +796,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AA4ZNADXTBYDCDTTV3CT3X/hi-vivek-waving-hello.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T10:11:26"
@@ -810,24 +810,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T04:41:35"
   },
   {
-   "id": 5442,
+   "id": 5364,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "3 Token Unlock yang Perlu Diperhatikan di Pekan Pertama Oktober 2026",
-   "x": "Pasar aset kripto akan kedatangan token senilai US$1,11 miliar pada awal Oktober 2026. Beberapa proyek utama, termasuk Hyperliquid (HYPE), Ethena (ENA), dan Aptos (APT), akan merilis jumlah suplai token baru yang…",
+   "t": "ETF Zcash Kehilangan Lebih dari US$93 Juta Minggu Ini, Apakah Reli ZEC Sudah Berakhir?",
+   "x": "ETF Zcash mencatat minggu pertama arus keluar bersih sejak peluncuran di bulan Agustus. Investor menarik US$93,6 juta minggu ini, ketika harga ZEC turun mendekati US$1.300. Penarikan ini menandai perubahan tajam pada…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/crypto-token-unlocks-hype-ena-apt-oktober",
-   "img": "https://assets.beincrypto.com/img/rDVaGmXhuWTHATwZTMokhWYaQQk=/smart/b568ca62086c4e51853ddf5ba53764bc",
-   "a": "11 jam lalu",
+   "url": "https://id.beincrypto.com/zcash-etf-alami-outflow-mingguan-pertama",
+   "img": "https://assets.beincrypto.com/img/s8s_dP81tJLU8MzKMQ8HHKW6xPI=/smart/c6cf8dd4e17340a68eaba8d68358d71b",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-05T07:24:40"
+   "published_at": "2026-10-03T12:28:58"
   },
   {
    "id": 5389,
