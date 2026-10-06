@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T17:58:58"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T14:49:17"
@@ -40,10 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T21:48:03"
+  },
+  {
+   "id": 5598,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Aave dan Pendle temukan cara tahan modal imbal hasil di DeFi",
+   "x": "Protokol DeFi Aave dan Pendle dikabarkan menemukan solusi untuk mempertahankan modal imbal hasil agar tetap berada dalam ekosistem DeFi. Ini dapat meningkatkan likuiditas dan stabilitas platform.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-rollover-cap.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-06T11:30:49"
   },
   {
    "id": 5386,
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T03:00:59"
-  },
-  {
-   "id": 5400,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Stablecoin bisa bikin biaya pinjaman naik, bukan kuras dolar bank",
-   "x": "Meskipun stablecoin tidak menguras dana bank, penerbitannya dapat meningkatkan biaya pinjaman. Proses ini melibatkan konversi dolar menjadi stablecoin yang disimpan di rekening bank penerbit.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-04T07:30:08"
   },
   {
    "id": 5456,
@@ -96,24 +96,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T14:33:14"
   },
   {
-   "id": 5437,
+   "id": 5578,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
-   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
+   "t": "Polymarket perbarui smart contract dengan peluncuran Protocol V2",
+   "x": "Polymarket meluncurkan Protocol V2 untuk pasar prediksi baru yang dijadwalkan November, sementara posisi yang ada tetap di sistem lama. Pembaruan ini akan meningkatkan fungsionalitas platform.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48GRG4NZENV80G0JSB2JRWX/news-city-town-billboard-1-polymarket-1.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T03:47:19"
+   "published_at": "2026-10-06T12:54:15"
   },
   {
    "id": 5446,
@@ -138,10 +138,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T13:01:03"
+  },
+  {
+   "id": 5599,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Cardano tambah kontrol token yang diinginkan Wall Street dan dibenci DeFi",
+   "x": "Proposal baru di Cardano memungkinkan pemisahan aset yang dibundel dengan otorisasi pemegang token. Fitur ini dapat menarik minat investor institusi namun berpotensi membatasi fleksibilitas dalam ekosistem DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-cip113-token-freeze.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-06T10:00:57"
   },
   {
    "id": 5396,
@@ -152,10 +166,52 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/begini-cara-ai-melacak-jejak-hacker-korut-di-balik-peretasan-bitget",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T08:00:48"
+  },
+  {
+   "id": 5591,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "OKX Money tawarkan tabungan, imbal hasil 10%, dan belanja stablecoin dolar dalam satu aplikasi",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/86b7d790e3f95b56f090e844916368abde0d47da-3300x2524.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-06T09:02:01"
+  },
+  {
+   "id": 5437,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Zcash aktifkan NU7 di testnet sebelum target mainnet November",
+   "x": "Pembaruan NU7 Zcash kini aktif di testnet, memberikan waktu bagi pengembang untuk menguji perubahan protokol sebelum aktivasi mainnet. Ini penting untuk memastikan stabilitas dan keamanan jaringan sebelum pembaruan diluncurkan secara publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T03:47:19"
+  },
+  {
+   "id": 5400,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Stablecoin bisa bikin biaya pinjaman naik, bukan kuras dolar bank",
+   "x": "Meskipun stablecoin tidak menguras dana bank, penerbitannya dapat meningkatkan biaya pinjaman. Proses ini melibatkan konversi dolar menjadi stablecoin yang disimpan di rekening bank penerbit.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-04T07:30:08"
   }
  ]
 }
