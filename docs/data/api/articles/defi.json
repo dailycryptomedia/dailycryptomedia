@@ -1,8 +1,22 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 5651,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "CEO Bitget Bicara Tentang Peretasan US$387 Juta, Apakah Exchange Ini Aman?",
+   "x": "Penyerang mencuri kurang lebih US$387,5 juta dari Bitget pada tanggal 24 September dengan cara memanipulasi proses penarikan internal exchange tersebut. Menurut Chainalysis, serangan itu dilakukan oleh hacker asal Korea…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/wawancara-ceo-bitget-hack-gracy-chen",
+   "img": "https://assets.beincrypto.com/img/KWNrLbpFhD1rMsZkmv04jXOXdU8=/smart/c5c0302a4e884658b8c6d151200f367f",
+   "a": "59 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-06T22:30:24"
+  },
   {
    "id": 5468,
    "k": "defi",
@@ -18,20 +32,6 @@
    "published_at": "2026-10-05T17:58:58"
   },
   {
-   "id": 5481,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "S&P Global Bawa Nilai Risiko TradFi ke Crypto Lending Vault Senilai US$10 Miliar",
-   "x": "S&P Global Ratings meluncurkan kerangka kerja untuk menilai crypto lending vault, yang kini menampung USD10 miliar. Lihat bagaimana skor risiko enam faktornya bekerja.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
-   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-05T14:49:17"
-  },
-  {
    "id": 5539,
    "k": "defi",
    "cat": "DeFi",
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T21:48:03"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-rollover-cap.webp",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T11:30:49"
@@ -102,6 +102,20 @@
    "published_at": "2026-10-05T14:33:14"
   },
   {
+   "id": 5481,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "S&P Global Bawa Nilai Risiko TradFi ke Crypto Lending Vault Senilai US$10 Miliar",
+   "x": "S&P Global Ratings meluncurkan kerangka kerja untuk menilai crypto lending vault, yang kini menampung USD10 miliar. Lihat bagaimana skor risiko enam faktornya bekerja.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
+   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-05T14:49:17"
+  },
+  {
    "id": 5578,
    "k": "defi",
    "cat": "DeFi",
@@ -110,24 +124,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48GRG4NZENV80G0JSB2JRWX/news-city-town-billboard-1-polymarket-1.jpg",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T12:54:15"
-  },
-  {
-   "id": 5446,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "8,5% Pertumbuhan vs. 3,4% Bunga: Matematika yang Menjaga Spiral Utang AS Tetap Terkendali",
-   "x": "Spiral utang AS belum akan terjadi sebab pertumbuhan 8,5% melampaui rata-rata suku bunga utang federal sebesar 3,4% meski yield mencapai 5%.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/spiral-utang-as-imblal-hasil-treasury-pertumbuhan",
-   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-05T04:25:00"
   },
   {
    "id": 5409,
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-cip113-token-freeze.webp",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T10:00:57"
@@ -180,10 +180,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/86b7d790e3f95b56f090e844916368abde0d47da-3300x2524.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T09:02:01"
+  },
+  {
+   "id": 5446,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "8,5% Pertumbuhan vs. 3,4% Bunga: Matematika yang Menjaga Spiral Utang AS Tetap Terkendali",
+   "x": "Spiral utang AS belum akan terjadi sebab pertumbuhan 8,5% melampaui rata-rata suku bunga utang federal sebesar 3,4% meski yield mencapai 5%.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/spiral-utang-as-imblal-hasil-treasury-pertumbuhan",
+   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-05T04:25:00"
   },
   {
    "id": 5437,
