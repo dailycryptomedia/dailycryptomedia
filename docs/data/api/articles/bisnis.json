@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 4,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,10 +40,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/deepseek-moonshot-valuation-openai-anthropic-multiples",
    "img": "https://assets.beincrypto.com/img/Gq8v9zHVXFpr6gzRoJZug__pb9s=/smart/1484395ccbe84575953038b9063b7423",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-06T12:28:07"
+  },
+  {
+   "id": 5714,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "WLFI Dukungan Trump Rencanakan Pembayaran USD1 untuk Bisnis Daring",
+   "x": "Perusahaan World Liberty Financial mengumumkan rencana integrasi pembayaran USD1 ke platform daring besar. Langkah ini sejalan dengan tren adopsi aset digital untuk transaksi komersial.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AX48ZNAS11326MBP7NQJ42/world-liberty-financial.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T10:26:55"
   }
  ]
 }

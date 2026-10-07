@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/wawancara-ceo-bitget-hack-gracy-chen",
    "img": "https://assets.beincrypto.com/img/KWNrLbpFhD1rMsZkmv04jXOXdU8=/smart/c5c0302a4e884658b8c6d151200f367f",
-   "a": "11 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-06T22:30:24"
@@ -54,24 +54,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-rollover-cap.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T11:30:49"
   },
   {
-   "id": 5396,
+   "id": 5743,
    "k": "defi",
    "cat": "DeFi",
-   "t": "AI lacak hacker Korut di balik peretasan Bitget",
-   "x": "Teknologi AI berhasil mempercepat pelacakan hacker Korea Utara yang terlibat dalam peretasan Bitget. Proses yang biasanya memakan waktu lebih dari 20 jam kini dapat diselesaikan dalam waktu kurang dari 10 menit.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/begini-cara-ai-melacak-jejak-hacker-korut-di-balik-peretasan-bitget",
-   "img": null,
-   "a": "3 hari lalu",
+   "t": "Moody's beri rating B3 untuk Sky Protocol seiring minat institusi pada USDS",
+   "x": "Lembaga pemeringkat Moody's memberikan rating pertama untuk protokol stablecoin Sky Protocol, menunjukkan peningkatan kepercayaan investor institusi. Ini menandakan potensi pertumbuhan adopsi stablecoin yang didukung oleh analisis lembaga keuangan tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221122_Moodys2.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T08:00:48"
+   "published_at": "2026-10-07T14:20:01"
   },
   {
    "id": 5456,
@@ -88,20 +88,6 @@
    "published_at": "2026-10-05T06:40:29"
   },
   {
-   "id": 5505,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pengembangan DeFi catat NAV per saham naik dua kali lipat, pegang 2,56 juta SOL",
-   "x": "Perusahaan pengembangan DeFi melaporkan perkiraan awal kuartal III menunjukkan Nilai Aset Bersih (NAV) per sahamnya naik lebih dari dua kali lipat. Peningkatan ini didorong oleh pertumbuhan aset digital yang dikelola.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T14:33:14"
-  },
-  {
    "id": 5481,
    "k": "defi",
    "cat": "DeFi",
@@ -110,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T14:49:17"
@@ -124,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48GRG4NZENV80G0JSB2JRWX/news-city-town-billboard-1-polymarket-1.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T12:54:15"
@@ -138,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T13:01:03"
@@ -152,10 +138,80 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-cip113-token-freeze.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T10:00:57"
+  },
+  {
+   "id": 5505,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pengembangan DeFi catat NAV per saham naik dua kali lipat, pegang 2,56 juta SOL",
+   "x": "Perusahaan pengembangan DeFi melaporkan perkiraan awal kuartal III menunjukkan Nilai Aset Bersih (NAV) per sahamnya naik lebih dari dua kali lipat. Peningkatan ini didorong oleh pertumbuhan aset digital yang dikelola.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T14:33:14"
+  },
+  {
+   "id": 5724,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bisnis brankas baru raksasa kripto GSR pertaruhkan $100 juta pada kredit on-chain",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T12:34:13"
+  },
+  {
+   "id": 5738,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Kripto Adalah Eksperimen, Kini Wall Street Mengambil Bagian Terbaiknya",
+   "x": "Satu dekade pertama aset kripto bisa kita lihat sebagai rangkaian bubble, peretasan, meme, hingga proyek yang hilang secepat kemunculannya. Saya melihatnya sebagai satu dekade eksperimen keuangan. Sebuah laboratorium…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ide-kripto-yang-mengubah-decentralized-finance-tradisional",
+   "img": "https://assets.beincrypto.com/img/71TjoihhZS4PteuQW-JLLXz0_YM=/smart/e2fa4318a7ec4b0bbe7cd0269f176e55",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-07T12:19:32"
+  },
+  {
+   "id": 5710,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Coinbase Integrasi Deribit untuk Likuiditas Derivatif Kripto Global di AS",
+   "x": "Coinbase kini menyediakan akses bagi investor institusi di AS ke produk derivatif kripto Deribit, termasuk opsi dan futures abadi. Integrasi ini diharapkan dapat meningkatkan likuiditas pasar derivatif kripto di Amerika Serikat.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T15:36:11"
+  },
+  {
+   "id": 5751,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "S&P awasi pasar vault kripto $10 miliar seiring insiden Base ungkap risiko",
+   "x": "S&P mulai mengevaluasi risiko pasar penyimpanan aset kripto senilai $10 miliar setelah insiden di Base mengungkap potensi kerugian. Pengawasan ini penting bagi investor institusi yang mencari keamanan dalam pengelolaan aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sp-digital-asset-ratings.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T11:40:51"
   },
   {
    "id": 5591,
@@ -200,18 +256,18 @@
    "published_at": "2026-10-05T03:47:19"
   },
   {
-   "id": 5400,
+   "id": 5752,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Stablecoin bisa bikin biaya pinjaman naik, bukan kuras dolar bank",
-   "x": "Meskipun stablecoin tidak menguras dana bank, penerbitannya dapat meningkatkan biaya pinjaman. Proses ini melibatkan konversi dolar menjadi stablecoin yang disimpan di rekening bank penerbit.",
+   "t": "Abstract Tutup Layer 2 Ethereum, Bukan Luncurkan Token",
+   "x": "Proyek Layer 2 Ethereum Abstract akan ditutup karena pertumbuhan stagnan dan likuiditas tipis, meskipun sempat menarik merek besar. Penutupan ini menyoroti tantangan keberlanjutan bagi solusi skalabilitas.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/abstract-migration-path.webp",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-04T07:30:08"
+   "published_at": "2026-10-07T10:20:52"
   }
  ]
 }
