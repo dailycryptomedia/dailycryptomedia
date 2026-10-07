@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,6 +46,20 @@
    "published_at": "2026-10-06T12:28:07"
   },
   {
+   "id": 5760,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle hadirkan pembayaran USDC, EURC untuk pelanggan SAP via Tereina",
+   "x": "Kemitraan Circle dengan Tereina, yang didukung SAP, memungkinkan bisnis melakukan transaksi stablecoin langsung dari perangkat lunak keuangan mereka. Ini mempermudah adopsi aset digital dalam transaksi bisnis.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T20:48:34"
+  },
+  {
    "id": 5714,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -54,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AX48ZNAS11326MBP7NQJ42/world-liberty-financial.jpg",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T10:26:55"
