@@ -1,8 +1,22 @@
 {
- "total": 25,
+ "total": 27,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 5701,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OJK siapkan aturan tokenisasi aset riil, dorong keuangan digital",
+   "x": "Otoritas Jasa Keuangan (OJK) sedang menyiapkan regulasi baru terkait tokenisasi aset riil. Langkah ini membuka peluang investasi baru dan mendorong perkembangan keuangan digital di Indonesia.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ojk-siapkan-rpojk-tokenisasi-aset-riil-bakal-masuk-blockchain",
+   "img": null,
+   "a": "38 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T09:00:50"
+  },
   {
    "id": 5665,
    "k": "regulasi",
@@ -12,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kripto-menang-washington-clarity-act-kegagalan",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "55 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T01:45:10"
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-locked-reserve.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T09:10:23"
@@ -58,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-04T22:31:12"
+  },
+  {
+   "id": 5694,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "CEO Hyperliquid: Bursa Wajib Gunakan Infrastruktur Blockchain Publik",
+   "x": "CEO Hyperliquid berpendapat bahwa bursa kripto harus mengadopsi infrastruktur blockchain publik untuk tetap kompetitif. Ia juga memprediksi pasar derivatif terdesentralisasi akan segera masuk dalam lingkup regulasi AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/jake_option_A_sepia.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T08:30:01"
   },
   {
    "id": 5490,
@@ -110,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/dj-khaled-usdc-gID_7.jpeg",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T22:16:03"
@@ -194,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47QJ5TB4Q35P193XFF67NQJ/better-markets-vs-cftc.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T05:43:50"
@@ -208,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/okx-saham-tersimbol-keunggulan-penggerak-pertama",
    "img": "https://assets.beincrypto.com/img/ptEKsegF_XM9qxNknH8IJBjVwp4=/smart/0687e3d171cc47569b4f9b598e086824",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T03:30:00"
@@ -222,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T12:11:50"
@@ -264,7 +292,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS9RG9R18484EC5/hi-token-etf-victory-2.png",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T20:53:19"
@@ -292,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T03:45:40"
@@ -306,7 +334,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T10:16:55"
@@ -320,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4978DXD1V002XFV3JZD97G6/hi-amid-crypto-winter-tether.jpg",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T21:00:44"
@@ -348,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T03:12:21"
