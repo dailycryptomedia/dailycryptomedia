@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T08:56:10"
+  },
+  {
+   "id": 5793,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic’s Claude Jadi 75% Lebih Murah, IPO US$2 Triliun Disebut “Ridiculous”",
+   "x": "Anthropic merilis Claude Haiku 5.5 pada 7 Oktober, dengan harga sekitar 75% lebih murah dibandingkan Haiku 4.5 secara rata-rata. Perusahaan ini terus meluncurkan model baru sebelum IPO yang sangat dinanti banyak pihak…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/claude-haiku-5-5-anthropic-ipo",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "50 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T08:25:54"
+  },
+  {
+   "id": 5760,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle hadirkan pembayaran USDC, EURC untuk pelanggan SAP via Tereina",
+   "x": "Kemitraan Circle dengan Tereina, yang didukung SAP, memungkinkan bisnis melakukan transaksi stablecoin langsung dari perangkat lunak keuangan mereka. Ini mempermudah adopsi aset digital dalam transaksi bisnis.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T20:48:34"
   },
   {
    "id": 5602,
@@ -46,20 +74,6 @@
    "published_at": "2026-10-06T12:28:07"
   },
   {
-   "id": 5760,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Circle hadirkan pembayaran USDC, EURC untuk pelanggan SAP via Tereina",
-   "x": "Kemitraan Circle dengan Tereina, yang didukung SAP, memungkinkan bisnis melakukan transaksi stablecoin langsung dari perangkat lunak keuangan mereka. Ini mempermudah adopsi aset digital dalam transaksi bisnis.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T20:48:34"
-  },
-  {
    "id": 5714,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,10 +82,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AX48ZNAS11326MBP7NQJ42/world-liberty-financial.jpg",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T10:26:55"
+  },
+  {
+   "id": 5800,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Michael Burry Sebut Valuasi Anthropic Sebagai Bubble Setara 78 Perusahaan S&P 500",
+   "x": "Michael Burry mengatakan valuasi Anthropic bisa membeli 78 perusahaan S&P 500, dan ia membandingkannya dengan puncak pra-IPO UPS pada 1990-an.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/burry-antropik-valuasi-bubble-78-perusahaan",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T04:02:00"
+  },
+  {
+   "id": 5798,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Timmer dari Fidelity Sebut Laba Q3 Bisa Naik 35%: Apakah Wall Street Kurang Menghargainya?",
+   "x": "Jurrien Timmer dari Fidelity mengatakan pertumbuhan pendapatan Q3 bisa mencapai 35% sementara P/E pasar turun 10%. Berikut alasannya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pertumbuhan-pendapatan-timmer-q3-35-persen",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T05:04:25"
   }
  ]
 }

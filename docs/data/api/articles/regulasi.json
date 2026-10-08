@@ -1,5 +1,5 @@
 {
- "total": 28,
+ "total": 30,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-siapkan-rpojk-tokenisasi-aset-riil-bakal-masuk-blockchain",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T09:00:50"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-locked-reserve.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T09:10:23"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/jake_option_A_sepia.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T08:30:01"
@@ -102,6 +102,20 @@
    "published_at": "2026-10-05T15:54:23"
   },
   {
+   "id": 5829,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OJK Ungkap 5 Insiden Kripto RI, Rekening Dibekukan dan Dana Diupayakan Pulih",
+   "x": "Otoritas Jasa Keuangan (OJK) melaporkan lima insiden terkait aset kripto di Indonesia. Tindakan pembekuan rekening dan upaya pemulihan dana bagi korban sedang dilakukan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ojk-ungkap-5-insiden-di-ekosistem-kripto-ri-rekening-dibekukan-dan-dana-diupayakan-pulih",
+   "img": null,
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T01:30:40"
+  },
+  {
    "id": 5534,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -116,18 +130,18 @@
    "published_at": "2026-10-05T22:18:03"
   },
   {
-   "id": 5432,
+   "id": 5515,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Illinois dukung penundaan aturan pajak kripto setelah dorongan industri",
-   "x": "Illinois mengajukan penundaan aturan pajak aset digital hingga Juli 2027. Langkah ini merupakan respons terhadap desakan industri kripto yang khawatir akan dampak regulasi tersebut.",
+   "t": "Circle bisa tunda penebusan USDC Eropa jika cadangan tidak bisa lintas batas",
+   "x": "Circle mengizinkan penundaan penebusan sementara untuk penerbit stablecoin USDC di Eropa jika cadangan tidak dapat diseimbangkan lintas batas. Aturan ini relevan dengan penerapan regulasi MiCA di Uni Eropa.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-crypto-oversight.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-broken-bridge.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T02:00:45"
+   "published_at": "2026-10-05T12:10:14"
   },
   {
    "id": 5709,
@@ -138,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png",
-   "a": "10 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T16:06:03"
@@ -152,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T20:16:04"
@@ -180,38 +194,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blackrock-survei-penasihat-perempuan-kaya",
    "img": "https://assets.beincrypto.com/img/jQQKzkMais2HXbkUCBl4CUONgqQ=/smart/485120ea10d745bb86c98b20f1ef3884",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T12:34:17"
   },
   {
-   "id": 5515,
+   "id": 5808,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Circle bisa tunda penebusan USDC Eropa jika cadangan tidak bisa lintas batas",
-   "x": "Circle mengizinkan penundaan penebusan sementara untuk penerbit stablecoin USDC di Eropa jika cadangan tidak dapat diseimbangkan lintas batas. Aturan ini relevan dengan penerapan regulasi MiCA di Uni Eropa.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-broken-bridge.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T12:10:14"
-  },
-  {
-   "id": 5549,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Better Markets: CFTC bukan badan yang tepat atur kripto ritel",
-   "x": "Lembaga advokasi Better Markets berpendapat bahwa kerangka regulasi yang diusulkan oleh Komisi Perdagangan Berjangka Komoditas AS (CFTC) untuk aset kripto ritel akan memberikan perlindungan yang lebih rendah bagi investor dibandingkan dengan regulasi SEC.",
+   "t": "Yunani Rencanakan Pajak Capital Gain 10% untuk Aset Kripto",
+   "x": "Pemerintah Yunani mengusulkan pajak 10% atas keuntungan modal dari aset kripto. Aturan ini memberikan pengecualian untuk keuntungan tahunan di bawah 500 euro dan pertukaran antar aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47QJ5TB4Q35P193XFF67NQJ/better-markets-vs-cftc.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D883MDW2RM3V0M3PC8JAH6/hi-breaking-the-peg-what-can-and-will-go-wrong-with-coins.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-06T05:43:50"
+   "published_at": "2026-10-08T08:03:47"
   },
   {
    "id": 5519,
@@ -242,18 +242,18 @@
    "published_at": "2026-10-05T13:33:31"
   },
   {
-   "id": 5428,
+   "id": 5549,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Zcash rekrut pelobi di Washington untuk dorong kebijakan kripto",
-   "x": "Zcash mendaftarkan operasi pelobi di Washington untuk mengadvokasi kebijakan aset digital. Isu yang diangkat mencakup undang-undang terkait dan proposal pajak aset digital.",
+   "t": "Better Markets: CFTC bukan badan yang tepat atur kripto ritel",
+   "x": "Lembaga advokasi Better Markets berpendapat bahwa kerangka regulasi yang diusulkan oleh Komisi Perdagangan Berjangka Komoditas AS (CFTC) untuk aset kripto ritel akan memberikan perlindungan yang lebih rendah bagi investor dibandingkan dengan regulasi SEC.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47QJ5TB4Q35P193XFF67NQJ/better-markets-vs-cftc.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T00:35:34"
+   "published_at": "2026-10-06T05:43:50"
   },
   {
    "id": 5595,
@@ -270,18 +270,18 @@
    "published_at": "2026-10-06T12:11:50"
   },
   {
-   "id": 5448,
+   "id": 5802,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "OKX Menyasar Saham AS yang Ditokenisasi: Apakah Status First-Mover Akan Menguntungkan?",
-   "x": "OKX mengajukan permohonan untuk memperdagangkan saham AS yang ditokenisasi, namun batas volume SEC dan opsi keluar penerbit dapat membatasi keuntungan sebagai pelopor.",
+   "t": "Peluang The Fed Naik Suku Bunga Turun ke 18%, Pemangkasan di 0%: Apa Arti Kebijakan Tahan Bunga untuk Bitcoin",
+   "x": "Peluang kenaikan The Fed turun menjadi 18% sementara peluang penurunan berada di 0%. Lihat apa arti penahanan suku bunga pada Oktober bagi harga Bitcoin.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/okx-saham-tersimbol-keunggulan-penggerak-pertama",
-   "img": "https://assets.beincrypto.com/img/ptEKsegF_XM9qxNknH8IJBjVwp4=/smart/0687e3d171cc47569b4f9b598e086824",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/the-fed-hike-odds-hold-dampak-bitcoin",
+   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-05T03:30:00"
+   "published_at": "2026-10-08T03:45:00"
   },
   {
    "id": 5648,
@@ -312,6 +312,20 @@
    "published_at": "2026-10-05T10:22:27"
   },
   {
+   "id": 5448,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OKX Menyasar Saham AS yang Ditokenisasi: Apakah Status First-Mover Akan Menguntungkan?",
+   "x": "OKX mengajukan permohonan untuk memperdagangkan saham AS yang ditokenisasi, namun batas volume SEC dan opsi keluar penerbit dapat membatasi keuntungan sebagai pelopor.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/okx-saham-tersimbol-keunggulan-penggerak-pertama",
+   "img": "https://assets.beincrypto.com/img/ptEKsegF_XM9qxNknH8IJBjVwp4=/smart/0687e3d171cc47569b4f9b598e086824",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-05T03:30:00"
+  },
+  {
    "id": 5528,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -334,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T03:45:40"
@@ -352,6 +366,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T10:16:55"
+  },
+  {
+   "id": 5811,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kripto harus perkuat adopsi untuk tahan pergeseran kebijakan AS: CEO Canton",
+   "x": "CEO Canton Yuval Rooz membandingkan adopsi blockchain dengan layanan seperti Uber dan Airbnb. Ia berpendapat bahwa adopsi yang meluas dapat melindungi industri dari potensi pembalikan kebijakan pemerintah.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CVE7EMKD65X1H85SA1XBYM/regulations-us-blockchain.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T04:28:27"
   },
   {
    "id": 5647,
@@ -390,7 +418,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T03:12:21"
