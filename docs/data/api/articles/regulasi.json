@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-10-07T01:45:10"
   },
   {
-   "id": 5453,
+   "id": 5870,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Circle dan Tether sepakat soal aturan cadangan bank MiCA",
-   "x": "Circle dan Tether menemukan kesamaan pandangan terkait aturan cadangan bank dalam regulasi MiCA Uni Eropa. Keduanya mengusulkan persyaratan yang lebih fleksibel bagi penerbit stablecoin.",
+   "t": "Penolakan MiCA paksa platform kripto Jerman rombak operasional",
+   "x": "Regulator Jerman menolak aplikasi bank kripto futurum AG, memaksa platform tersebut melakukan perombakan operasional. Hal ini menunjukkan tantangan kepatuhan regulasi baru di Eropa.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-locked-reserve.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-de-open-cage.webp",
+   "a": "23 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T09:10:23"
+   "published_at": "2026-10-08T16:20:21"
   },
   {
    "id": 5469,
@@ -88,18 +88,18 @@
    "published_at": "2026-10-06T22:16:03"
   },
   {
-   "id": 5490,
+   "id": 5853,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "CFTC AS gabung SEC usulkan regulasi kripto, celah pasar spot masih ada",
+   "t": "Regulator sekuritas UE beri platform kripto 3 bulan hapus stablecoin tak berizin",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6d6f178b9823ada860129fe771c32694011310c3-3524x1982.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/94e6ebdc0df01fa3450702f6a99a15fd9ae46153-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T15:54:23"
+   "published_at": "2026-10-08T15:23:26"
   },
   {
    "id": 5829,
@@ -110,7 +110,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-ungkap-5-insiden-di-ekosistem-kripto-ri-rekening-dibekukan-dan-dana-diupayakan-pulih",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T01:30:40"
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-broken-bridge.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T12:10:14"
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T16:06:03"
@@ -166,24 +166,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T20:16:04"
   },
   {
-   "id": 5493,
+   "id": 5490,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC setujui penyesuaian 3x untuk trader bitcoin dan ether yang melewatkan lonjakan liar",
+   "t": "CFTC AS gabung SEC usulkan regulasi kripto, celah pasar spot masih ada",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6d6f178b9823ada860129fe771c32694011310c3-3524x1982.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T11:14:35"
+   "published_at": "2026-10-05T15:54:23"
   },
   {
    "id": 5737,
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blackrock-survei-penasihat-perempuan-kaya",
    "img": "https://assets.beincrypto.com/img/jQQKzkMais2HXbkUCBl4CUONgqQ=/smart/485120ea10d745bb86c98b20f1ef3884",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T12:34:17"
@@ -208,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D883MDW2RM3V0M3PC8JAH6/hi-breaking-the-peg-what-can-and-will-go-wrong-with-coins.jpg",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T08:03:47"
@@ -228,6 +228,20 @@
    "published_at": "2026-10-05T16:46:03"
   },
   {
+   "id": 5866,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Yunani siapkan pajak keuntungan modal kripto 10%",
+   "x": "Pemerintah Yunani berencana mengenakan pajak 10% atas keuntungan modal dari aset kripto. Langkah ini menjadi perhatian investor karena potensi dampaknya terhadap aset digital.",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/42d4c9ccc3b896065fd01389069573b1eb1ed6cb-5229x3486.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T09:17:18"
+  },
+  {
    "id": 5484,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -236,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hoskinson-euro-digital-diskriminasi-aset",
    "img": "https://assets.beincrypto.com/img/naerMhQhPqBiJhXty9VYkxDwF4k=/smart/59abe657be66415da80a36d88123c916",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-05T13:33:31"
@@ -264,10 +278,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T12:11:50"
+  },
+  {
+   "id": 5493,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC setujui penyesuaian 3x untuk trader bitcoin dan ether yang melewatkan lonjakan liar",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7bb0699e8b9da16592a55f2b39f0777935133915-2344x1318.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T11:14:35"
   },
   {
    "id": 5802,
@@ -278,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/the-fed-hike-odds-hold-dampak-bitcoin",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T03:45:00"
@@ -298,32 +326,18 @@
    "published_at": "2026-10-06T20:53:19"
   },
   {
-   "id": 5527,
+   "id": 5885,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "OKX dan ICE berencana trading saham tokenisasi 24/7 di bawah pengecualian SEC",
-   "x": "OKX dan pemilik NYSE, ICE, akan meluncurkan perdagangan saham tokenisasi non-stop. Inisiatif ini memanfaatkan pengecualian baru dari SEC untuk menawarkan aset yang didukung stablecoin.",
+   "t": "Yunani rencanakan pajak keuntungan modal kripto 10%",
+   "x": "Pemerintah Yunani mengusulkan tarif pajak keuntungan modal aset kripto sebesar 10%, lebih rendah dari rencana sebelumnya. Langkah ini menjadi bagian dari upaya harmonisasi regulasi pajak kripto di Eropa.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/athens-greece-decrypt-style-gID_7.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T10:22:27"
-  },
-  {
-   "id": 5448,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OKX Menyasar Saham AS yang Ditokenisasi: Apakah Status First-Mover Akan Menguntungkan?",
-   "x": "OKX mengajukan permohonan untuk memperdagangkan saham AS yang ditokenisasi, namun batas volume SEC dan opsi keluar penerbit dapat membatasi keuntungan sebagai pelopor.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/okx-saham-tersimbol-keunggulan-penggerak-pertama",
-   "img": "https://assets.beincrypto.com/img/ptEKsegF_XM9qxNknH8IJBjVwp4=/smart/0687e3d171cc47569b4f9b598e086824",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-05T03:30:00"
+   "published_at": "2026-10-08T10:32:52"
   },
   {
    "id": 5528,
@@ -338,6 +352,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-05T21:42:30"
+  },
+  {
+   "id": 5527,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OKX dan ICE berencana trading saham tokenisasi 24/7 di bawah pengecualian SEC",
+   "x": "OKX dan pemilik NYSE, ICE, akan meluncurkan perdagangan saham tokenisasi non-stop. Inisiatif ini memanfaatkan pengecualian baru dari SEC untuk menawarkan aset yang didukung stablecoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-05T10:22:27"
   },
   {
    "id": 5550,
@@ -362,7 +390,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T10:16:55"
@@ -376,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CVE7EMKD65X1H85SA1XBYM/regulations-us-blockchain.png",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T04:28:27"
@@ -410,18 +438,18 @@
    "published_at": "2026-10-05T19:15:22"
   },
   {
-   "id": 5439,
+   "id": 5839,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Investor minta regulator Swiss campuri sengketa tata kelola Safe",
-   "x": "Greenfield Capital meminta regulator Swiss turun tangan dalam perselisihan tata kelola di Safe Ecosystem Foundation. Langkah ini diambil setelah upaya perubahan dewan direksi selama berbulan-bulan tidak membuahkan hasil.",
+   "t": "ESMA beri waktu 3 bulan bagi perusahaan kripto untuk keluar dari stablecoin tak patuh",
+   "x": "Regulator Uni Eropa meminta perusahaan kripto menghentikan layanan terkait stablecoin yang tidak sesuai regulasi MiCA. Pemberian waktu tiga bulan ini bertujuan agar perusahaan dapat menyesuaikan diri dengan aturan baru.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DDYJS1PK890DM0QY77B65J/hi-how-to-read-a-stablecoin-attestation-report-eu-mica-1.jpg",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T03:12:21"
+   "published_at": "2026-10-08T09:42:04"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-10-06T00:30:28"
   },
   {
-   "id": 5435,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Induk Kraken jalin kemitraan penyelesaian dolar 24/7 dengan Singapore Gulf Bank",
-   "x": "Kemitraan ini memungkinkan institusi terpilih di Asia dan Timur Tengah untuk menyelesaikan transaksi dolar AS secara instan. Ini mempermudah arus dana institusional di kawasan tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-05T08:56:10"
-  },
-  {
    "id": 5793,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -40,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/claude-haiku-5-5-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "50 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T08:25:54"
@@ -54,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T20:48:34"
@@ -68,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/deepseek-moonshot-valuation-openai-anthropic-multiples",
    "img": "https://assets.beincrypto.com/img/Gq8v9zHVXFpr6gzRoJZug__pb9s=/smart/1484395ccbe84575953038b9063b7423",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-06T12:28:07"
@@ -82,10 +68,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AX48ZNAS11326MBP7NQJ42/world-liberty-financial.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T10:26:55"
+  },
+  {
+   "id": 5848,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Pendapatan TSMC Kuartal 3 Melebihi Panduan Internal dan Perkiraan 19 Analis",
+   "x": "Taiwan Semiconductor Manufacturing Co. (TSMC) menyampaikan bahwa pendapatan bulan September naik 54,6% dibanding tahun sebelumnya menjadi NT$511,86 miliar (US$16,03 miliar). Hasil ini mendorong pendapatan kuartal ketiga…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/tsmc-rekor-pendapatan-september-kuartal",
+   "img": "https://assets.beincrypto.com/img/-DfqoOOFAQiujsU0jHyajfZ7ZFM=/smart/d8686024b5044713becb16c12b205347",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T11:37:33"
   },
   {
    "id": 5800,
@@ -96,10 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/burry-antropik-valuasi-bubble-78-perusahaan",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T04:02:00"
+  },
+  {
+   "id": 5849,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Elon Musk Puji Jeff Bezos setelah Blue Origin Ungkap US$28 Miliar",
+   "x": "Elon Musk memuji Jeff Bezos setelah pengungkapan Blue Origin senilai $28 miliar. Cari tahu apa arti pendanaan eksternal pertama sebesar $10 miliar bagi potensi IPO Blue Origin di masa depan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/musk-bezos-blue-origin-ipo-28-miliar",
+   "img": "https://assets.beincrypto.com/img/7TK9YCx6XCz6VzwrIea2R3WFWw8=/smart/93155c04be914629a2448a7285bd7150",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T11:25:02"
   },
   {
    "id": 5798,
@@ -110,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pertumbuhan-pendapatan-timmer-q3-35-persen",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T05:04:25"
