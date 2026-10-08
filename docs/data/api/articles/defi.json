@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-10-06T22:30:24"
   },
   {
-   "id": 5468,
+   "id": 5578,
    "k": "defi",
    "cat": "DeFi",
-   "t": "S&P Global nilai risiko sektor pinjaman kripto",
-   "x": "S&P Global meluncurkan kerangka penilaian risiko untuk penyedia pinjaman aset digital. Langkah ini penting seiring pertumbuhan sektor tersebut yang kini mencapai sekitar $10 miliar.",
+   "t": "Polymarket perbarui smart contract dengan peluncuran Protocol V2",
+   "x": "Polymarket meluncurkan Protocol V2 untuk pasar prediksi baru yang dijadwalkan November, sementara posisi yang ada tetap di sistem lama. Pembaruan ini akan meningkatkan fungsionalitas platform.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png",
+   "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48GRG4NZENV80G0JSB2JRWX/news-city-town-billboard-1-polymarket-1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T17:58:58"
+   "published_at": "2026-10-06T12:54:15"
   },
   {
    "id": 5872,
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-carousel-backlog.webp",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T15:00:46"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T18:59:32"
@@ -96,24 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perdebatan-pinjaman-xrp-schwartz-philion-flare",
    "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T12:54:08"
   },
   {
-   "id": 5578,
+   "id": 5710,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Polymarket perbarui smart contract dengan peluncuran Protocol V2",
-   "x": "Polymarket meluncurkan Protocol V2 untuk pasar prediksi baru yang dijadwalkan November, sementara posisi yang ada tetap di sistem lama. Pembaruan ini akan meningkatkan fungsionalitas platform.",
+   "t": "Coinbase Integrasi Deribit untuk Likuiditas Derivatif Kripto Global di AS",
+   "x": "Coinbase kini menyediakan akses bagi investor institusi di AS ke produk derivatif kripto Deribit, termasuk opsi dan futures abadi. Integrasi ini diharapkan dapat meningkatkan likuiditas pasar derivatif kripto di Amerika Serikat.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48GRG4NZENV80G0JSB2JRWX/news-city-town-billboard-1-polymarket-1.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-06T12:54:15"
+   "published_at": "2026-10-07T15:36:11"
   },
   {
    "id": 5598,
@@ -130,18 +130,18 @@
    "published_at": "2026-10-06T11:30:49"
   },
   {
-   "id": 5505,
+   "id": 5902,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pengembangan DeFi catat NAV per saham naik dua kali lipat, pegang 2,56 juta SOL",
-   "x": "Perusahaan pengembangan DeFi melaporkan perkiraan awal kuartal III menunjukkan Nilai Aset Bersih (NAV) per sahamnya naik lebih dari dua kali lipat. Peningkatan ini didorong oleh pertumbuhan aset digital yang dikelola.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "3 hari lalu",
+   "t": "Platform DeFi Solana Orca dan Loopscale Merger Jadi Formation",
+   "x": "Dua perusahaan DeFi di jaringan Solana, Orca dan Loopscale, bergabung membentuk entitas baru bernama Formation. Langkah ini bertujuan untuk mendanai aset digital di sektor AI, energi, robotika, dan pertahanan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/handshake-deal-decrypt-style-gID_7.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-05T14:33:14"
+   "published_at": "2026-10-08T18:16:05"
   },
   {
    "id": 5724,
@@ -158,32 +158,32 @@
    "published_at": "2026-10-07T12:34:13"
   },
   {
-   "id": 5481,
+   "id": 5738,
    "k": "defi",
    "cat": "DeFi",
-   "t": "S&P Global Bawa Nilai Risiko TradFi ke Crypto Lending Vault Senilai US$10 Miliar",
-   "x": "S&P Global Ratings meluncurkan kerangka kerja untuk menilai crypto lending vault, yang kini menampung USD10 miliar. Lihat bagaimana skor risiko enam faktornya bekerja.",
+   "t": "Kripto Adalah Eksperimen, Kini Wall Street Mengambil Bagian Terbaiknya",
+   "x": "Satu dekade pertama aset kripto bisa kita lihat sebagai rangkaian bubble, peretasan, meme, hingga proyek yang hilang secepat kemunculannya. Saya melihatnya sebagai satu dekade eksperimen keuangan. Sebuah laboratorium…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sp-global-crypto-lending-vaults-risk",
-   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-05T14:49:17"
-  },
-  {
-   "id": 5710,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Coinbase Integrasi Deribit untuk Likuiditas Derivatif Kripto Global di AS",
-   "x": "Coinbase kini menyediakan akses bagi investor institusi di AS ke produk derivatif kripto Deribit, termasuk opsi dan futures abadi. Integrasi ini diharapkan dapat meningkatkan likuiditas pasar derivatif kripto di Amerika Serikat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg",
+   "url": "https://id.beincrypto.com/ide-kripto-yang-mengubah-decentralized-finance-tradisional",
+   "img": "https://assets.beincrypto.com/img/71TjoihhZS4PteuQW-JLLXz0_YM=/smart/e2fa4318a7ec4b0bbe7cd0269f176e55",
    "a": "kemarin",
    "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-07T12:19:32"
+  },
+  {
+   "id": 5834,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pinjaman kripto naik lagi, tapi apakah risikonya teratasi?",
+   "x": "Pinjaman kripto melonjak 55% sejak Juli, namun kini menghadapi ancaman peretasan berbasis AI dan risiko berantai antar protokol. Investor perlu waspada terhadap potensi kerugian.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47ZC7BVFK1X6QFTDNSWBMXC/magazine-memecoins-betrayal-of-cryptos-ideal-or-its-true-purpose.png",
+   "a": "8 jam lalu",
+   "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T15:36:11"
+   "published_at": "2026-10-08T13:30:00"
   },
   {
    "id": 5599,
@@ -212,34 +212,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T09:02:01"
-  },
-  {
-   "id": 5738,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Kripto Adalah Eksperimen, Kini Wall Street Mengambil Bagian Terbaiknya",
-   "x": "Satu dekade pertama aset kripto bisa kita lihat sebagai rangkaian bubble, peretasan, meme, hingga proyek yang hilang secepat kemunculannya. Saya melihatnya sebagai satu dekade eksperimen keuangan. Sebuah laboratorium…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ide-kripto-yang-mengubah-decentralized-finance-tradisional",
-   "img": "https://assets.beincrypto.com/img/71TjoihhZS4PteuQW-JLLXz0_YM=/smart/e2fa4318a7ec4b0bbe7cd0269f176e55",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-07T12:19:32"
-  },
-  {
-   "id": 5834,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pinjaman kripto naik lagi, tapi apakah risikonya teratasi?",
-   "x": "Pinjaman kripto melonjak 55% sejak Juli, namun kini menghadapi ancaman peretasan berbasis AI dan risiko berantai antar protokol. Investor perlu waspada terhadap potensi kerugian.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47ZC7BVFK1X6QFTDNSWBMXC/magazine-memecoins-betrayal-of-cryptos-ideal-or-its-true-purpose.png",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T13:30:00"
   },
   {
    "id": 5751,

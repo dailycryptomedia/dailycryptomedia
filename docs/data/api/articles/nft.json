@@ -1,8 +1,36 @@
 {
- "total": 3,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 5912,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "SAP Pay dukung pembayaran USDC",
+   "x": "SAP Pay kini mendukung pembayaran menggunakan USDC melalui integrasi Circle. Ini membuka jalur penyelesaian transaksi baru dalam alur kerja SAP.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sap-usdc-payment-processing.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T20:40:19"
+  },
+  {
+   "id": 5887,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "NFL dukung otoritas New Jersey terkait Kalshi",
+   "x": "NFL berpendapat bahwa pasar prediksi seperti Kalshi mengancam integritas pertandingan karena rentan terhadap manipulasi. Hal ini menimbulkan kekhawatiran tentang potensi kecurangan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E1T9RDDQM4RHT8VGKG97F0/hi-nfl-players-choosing-crypto-over-cash2.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T19:17:18"
+  },
   {
    "id": 5776,
    "k": "nft",
@@ -12,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380326/google-build-video-game-typing-description",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T18:08:51"
@@ -40,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/Minecraft-CallofDuty-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T12:15:51"

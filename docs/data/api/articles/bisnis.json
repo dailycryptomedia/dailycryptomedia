@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/claude-haiku-5-5-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T08:25:54"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T20:48:34"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tsmc-rekor-pendapatan-september-kuartal",
    "img": "https://assets.beincrypto.com/img/-DfqoOOFAQiujsU0jHyajfZ7ZFM=/smart/d8686024b5044713becb16c12b205347",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T11:37:33"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/burry-antropik-valuasi-bubble-78-perusahaan",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T04:02:00"
@@ -110,10 +110,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/musk-bezos-blue-origin-ipo-28-miliar",
    "img": "https://assets.beincrypto.com/img/7TK9YCx6XCz6VzwrIea2R3WFWw8=/smart/93155c04be914629a2448a7285bd7150",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T11:25:02"
+  },
+  {
+   "id": 5897,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Nasdaq Turun Lebih dari 300 Poin setelah Pendapatan OpenAI Kurang US$20 Miliar",
+   "x": "Nasdaq 100 turun setelah FT melaporkan pendapatan tahunan OpenAI mendekati USD50 miliar, bukan USD70 miliar seperti yang diberitakan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/nasdaq-turun-300-poin-pendapatan-openai",
+   "img": "https://assets.beincrypto.com/img/Jrib52KIppu960NPw8JE0YuBeDc=/smart/f16a2f363c004faf9d0acf9f86693406",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T17:43:23"
   },
   {
    "id": 5798,
@@ -124,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pertumbuhan-pendapatan-timmer-q3-35-persen",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T05:04:25"
