@@ -1,5 +1,5 @@
 {
- "total": 25,
+ "total": 27,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-siapkan-aturan-stablecoin-januari-2027-bisa-dipakai-seperti-e-money",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T06:00:11"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-de-open-cage.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T16:20:21"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T16:06:03"
@@ -124,24 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-perdagangan-saham-agustus",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T20:04:19"
   },
   {
-   "id": 6000,
+   "id": 6028,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Agen AI bisa belanja, siapa yang bertanggung jawab jika terjadi masalah?",
-   "x": "Platform baru memungkinkan agen AI melakukan pembayaran menggunakan stablecoin, memicu pertanyaan tentang perlindungan konsumen. Munculnya dompet digital untuk agen AI mendahului kerangka hukum yang jelas bagi pedagang.",
+   "t": "Pemeriksaan keamanan Ethereum bisa loloskan perdagangan buruk",
+   "x": "Usulan pemeriksaan keamanan Ethereum dapat memperluas pengecekan hasil transaksi. Namun, batasan finansial yang berarti harus datang dari kebijakan yang tidak bisa dilemahkan oleh pembuat transaksi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/autonomous-commerce-disputes.webp",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-transaction-safety-checks.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T10:40:44"
+   "published_at": "2026-10-09T18:00:42"
   },
   {
    "id": 5808,
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220208_Crypto_Sports_Funding.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T17:30:58"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/459994f24f35f95aa2218e1300d30d2f1ea94875-4982x3323.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T18:06:41"
@@ -228,6 +228,20 @@
    "published_at": "2026-10-07T12:34:17"
   },
   {
+   "id": 6000,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Agen AI bisa belanja, siapa yang bertanggung jawab jika terjadi masalah?",
+   "x": "Platform baru memungkinkan agen AI melakukan pembayaran menggunakan stablecoin, memicu pertanyaan tentang perlindungan konsumen. Munculnya dompet digital untuk agen AI mendahului kerangka hukum yang jelas bagi pedagang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/autonomous-commerce-disputes.webp",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T10:40:44"
+  },
+  {
    "id": 5648,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -250,7 +264,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-nfl-football-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T19:31:03"
@@ -298,18 +312,18 @@
    "published_at": "2026-10-08T04:28:27"
   },
   {
-   "id": 5885,
+   "id": 6023,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Yunani rencanakan pajak keuntungan modal kripto 10%",
-   "x": "Pemerintah Yunani mengusulkan tarif pajak keuntungan modal aset kripto sebesar 10%, lebih rendah dari rencana sebelumnya. Langkah ini menjadi bagian dari upaya harmonisasi regulasi pajak kripto di Eropa.",
+   "t": "Anak Usaha DWF Labs Gugat BitGo Rp2,1 Triliun",
+   "x": "Perusahaan terafiliasi DWF Labs menuduh BitGo menjual token diskon sebelum masa penguncian berakhir, yang menyebabkan penurunan nilai aset mereka. Gugatan ini menyoroti potensi perselisihan dalam penjualan token awal.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/athens-greece-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T10:32:52"
+   "published_at": "2026-10-09T16:08:23"
   },
   {
    "id": 5647,
@@ -326,6 +340,20 @@
    "published_at": "2026-10-06T21:00:44"
   },
   {
+   "id": 5885,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Yunani rencanakan pajak keuntungan modal kripto 10%",
+   "x": "Pemerintah Yunani mengusulkan tarif pajak keuntungan modal aset kripto sebesar 10%, lebih rendah dari rencana sebelumnya. Langkah ini menjadi bagian dari upaya harmonisasi regulasi pajak kripto di Eropa.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/athens-greece-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T10:32:52"
+  },
+  {
    "id": 5961,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -334,7 +362,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T10:16:48"

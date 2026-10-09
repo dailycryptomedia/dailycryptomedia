@@ -1,8 +1,22 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 6018,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "OpenAI dan Anthropic latih skenario bencana AI",
+   "x": "Perusahaan AI berlatih menghadapi dampak politik serangan siber besar yang didorong AI. Mereka bersiap memberi keterangan kepada Kongres jika insiden tersebut terjadi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
+   "a": "26 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T19:47:01"
+  },
   {
    "id": 5912,
    "k": "nft",
@@ -12,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sap-usdc-payment-processing.webp",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T20:40:19"
@@ -26,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E1T9RDDQM4RHT8VGKG97F0/hi-nfl-players-choosing-crypto-over-cash2.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T19:17:18"
@@ -40,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380326/google-build-video-game-typing-description",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T18:08:51"

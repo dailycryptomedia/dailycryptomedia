@@ -1,5 +1,5 @@
 {
- "total": 158,
+ "total": 169,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-10-06T22:39:09"
   },
   {
+   "id": 6026,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP Ledger izinkan institusi berbagi tugas akun tanpa kunci",
+   "x": "XRP Ledger kini memungkinkan institusi mendelegasikan tugas akun tanpa membagikan kunci utama. Pembaruan ini memisahkan tanggung jawab, meniru praktik di keuangan tradisional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrpl-delegated-account-controls-no-key-sharing.webp",
+   "a": "12 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T20:00:29"
+  },
+  {
    "id": 5770,
    "k": "pasar",
    "cat": "Pasar",
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T21:46:03"
-  },
-  {
-   "id": 5746,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga Bitcoin Naik 84% Sejak Januari 2024 Seiring Imbal Hasil Treasury Naik",
-   "x": "Harga Bitcoin menunjukkan kenaikan signifikan sebesar 84,2% sejak awal 2024, bahkan ketika imbal hasil Treasury AS juga mengalami peningkatan. Kinerja ini menunjukkan ketahanan Bitcoin di tengah kondisi pasar keuangan tradisional yang bergejolak.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-5-3-treasury-hurdle-but-its-post-etf-record-complicates-the-threat",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-treasury-tug.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T16:35:21"
   },
   {
    "id": 5670,
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/0d4750d3f8f3c81400ccc4e2d27b12458bbf99db-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T21:22:58"
@@ -124,10 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-etf-kripto-thailand-larangan-asing",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T06:34:11"
+  },
+  {
+   "id": 5746,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Harga Bitcoin Naik 84% Sejak Januari 2024 Seiring Imbal Hasil Treasury Naik",
+   "x": "Harga Bitcoin menunjukkan kenaikan signifikan sebesar 84,2% sejak awal 2024, bahkan ketika imbal hasil Treasury AS juga mengalami peningkatan. Kinerja ini menunjukkan ketahanan Bitcoin di tengah kondisi pasar keuangan tradisional yang bergejolak.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-faces-a-5-3-treasury-hurdle-but-its-post-etf-record-complicates-the-threat",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-treasury-tug.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T16:35:21"
   },
   {
    "id": 5898,
@@ -138,24 +152,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T21:16:03"
-  },
-  {
-   "id": 5698,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kenaikan Harga Cardano Berpotensi Picu Squeeze atau Jebak Trader Leverage",
-   "x": "Harga Cardano (ADA) telah melonjak signifikan sejak pertengahan September, menarik perhatian pasar. Pergerakan ini dapat memicu volatilitas lebih lanjut bagi para trader yang menggunakan leverage.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cardanos-price-breakout-could-trigger-the-next-ada-squeeze-or-trap-leveraged-bulls",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-leverage-liquidity-gap.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T09:00:00"
   },
   {
    "id": 5918,
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T00:46:27"
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_Tokens_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T16:40:51"
@@ -222,10 +222,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hunter-biden-laptop-pelaku-pasar-crash",
    "img": "https://assets.beincrypto.com/img/k3s9YGW0ZsmJK96v0yQ--4s2rL4=/smart/c561e3ab33a94a32b381822a0fe081da",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T16:48:04"
+  },
+  {
+   "id": 5698,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kenaikan Harga Cardano Berpotensi Picu Squeeze atau Jebak Trader Leverage",
+   "x": "Harga Cardano (ADA) telah melonjak signifikan sejak pertengahan September, menarik perhatian pasar. Pergerakan ini dapat memicu volatilitas lebih lanjut bagi para trader yang menggunakan leverage.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardanos-price-breakout-could-trigger-the-next-ada-squeeze-or-trap-leveraged-bulls",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-leverage-liquidity-gap.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T09:00:00"
   },
   {
    "id": 5655,
@@ -240,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-06T22:46:03"
-  },
-  {
-   "id": 5945,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Regulator Uni Eropa beri tenggat 90 hari untuk stablecoin yang tidak patuh",
-   "x": "Regulator Uni Eropa memberikan tenggat waktu 90 hari kepada penerbit stablecoin agar mematuhi regulasi baru. Langkah ini bertujuan untuk meningkatkan kepatuhan dan mengelola risiko dalam ekosistem aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/mica-stablecoin-wind-down-standard.jpg",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-09T07:20:02"
   },
   {
    "id": 5806,
@@ -278,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/iran-3.jpg",
-   "a": "45 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:41:09"
@@ -292,7 +292,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6d54b6f8ef3c2e7601e8a8736bec9c49b0b11698-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "31 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:55:23"
@@ -320,10 +320,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/analisis-pembeli-xrp-price-etf",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "36 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T14:50:04"
+  },
+  {
+   "id": 5945,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Regulator Uni Eropa beri tenggat 90 hari untuk stablecoin yang tidak patuh",
+   "x": "Regulator Uni Eropa memberikan tenggat waktu 90 hari kepada penerbit stablecoin agar mematuhi regulasi baru. Langkah ini bertujuan untuk meningkatkan kepatuhan dan mengelola risiko dalam ekosistem aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/mica-stablecoin-wind-down-standard.jpg",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T07:20:02"
   },
   {
    "id": 5771,
@@ -338,20 +352,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T21:16:03"
-  },
-  {
-   "id": 5660,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Reli Bitcoin Berikan Rp64 Miliar Pajak untuk Strategy",
-   "x": "Reli Bitcoin menghasilkan keuntungan pajak signifikan bagi Strategy, mencapai $4,1 miliar. Perhitungan ini muncul dari estimasi biaya ETF dan penentuan Bitcoin yang keluar dari dana.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-cost-basis-rebound.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-06T22:10:18"
   },
   {
    "id": 5672,
@@ -376,7 +376,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/05/Screenshot-2023-05-03-at-11.49.08.png",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:16:15"
@@ -424,6 +424,20 @@
    "published_at": "2026-10-07T02:01:59"
   },
   {
+   "id": 6027,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Hoskinson: Peringatan AI Vitalik tunda pertahanan kuantum internet",
+   "x": "Pendiri Cardano menuduh Vitalik Buterin merusak kriptografi tahan kuantum dengan peringatan spekulatif tentang terobosan AI. Hoskinson berargumen penelitian keamanan sudah memperhitungkan kelemahan teknologi tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cardanos-hoskinson-hoskinson-slams-vitalik-buterins-ai-doomsday-warning-as-a-threat-to-cryptos-quantum-future",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/quantum-crypto-strategy-debate.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T19:00:27"
+  },
+  {
    "id": 5772,
    "k": "pasar",
    "cat": "Pasar",
@@ -438,20 +452,6 @@
    "published_at": "2026-10-07T20:46:03"
   },
   {
-   "id": 5998,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pemegang 8 juta USDT0 Polygon diawasi karena 58% pertumbuhan cocok pola penipuan",
-   "x": "Audit menemukan bahwa sebagian besar pertumbuhan pemegang token USDT0 di Polygon menunjukkan pola yang mirip dengan penipuan. Hal ini menimbulkan kekhawatiran tentang keamanan dan integritas ekosistem aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/polygon-fake-address-flood.webp",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-09T13:40:01"
-  },
-  {
    "id": 5957,
    "k": "pasar",
    "cat": "Pasar",
@@ -460,7 +460,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GCWY4XX0MD3NEZQFT038VE/hi-using-ai-in-crypto-do-it-at-your-own-risk.jpg",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T13:49:22"
@@ -474,7 +474,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250919_Greyscale_News_2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T18:37:17"
@@ -502,7 +502,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-pyth-melonjak-pyth-network-umumkan-aturan-buyback-baru",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T03:00:56"
@@ -522,32 +522,32 @@
    "published_at": "2026-10-07T07:10:15"
   },
   {
-   "id": 5899,
+   "id": 5660,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Jaringan uji Ethereum tingkatkan batas blok lebih dari 3x",
-   "x": "Jaringan uji Sepolia Ethereum meningkatkan batas gas bloknya menjadi hampir 200 juta, lebih dari tiga kali lipat kapasitas jaringan utamanya. Peningkatan ini berpotensi meningkatkan skalabilitas.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
-   "a": "19 jam lalu",
+   "t": "Reli Bitcoin Berikan Rp64 Miliar Pajak untuk Strategy",
+   "x": "Reli Bitcoin menghasilkan keuntungan pajak signifikan bagi Strategy, mencapai $4,1 miliar. Perhitungan ini muncul dari estimasi biaya ETF dan penentuan Bitcoin yang keluar dari dana.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-cost-basis-rebound.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T20:16:03"
+   "published_at": "2026-10-06T22:10:18"
   },
   {
-   "id": 5946,
+   "id": 6019,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Coinbase tawarkan leverage spot 10x, namun larang investor ritel AS",
-   "x": "Bursa kripto Coinbase meluncurkan fitur leverage spot 10x, tetapi membatasi aksesnya hanya untuk investor institusi di Amerika Serikat. Keputusan ini diambil untuk melindungi investor ritel dari risiko yang lebih tinggi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-leverage-machine-1.webp",
-   "a": "8 jam lalu",
+   "t": "Senator Demokrat tuntut Cantor Fitzgerald soal hubungan Tether",
+   "x": "Senator AS menuntut Cantor Fitzgerald membuka catatan terkait Tether dan keuntungan keluarga pejabat Commerce Secretary. Hal ini terkait kesepakatan bisnis mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T06:30:02"
+   "published_at": "2026-10-09T18:46:03"
   },
   {
    "id": 5958,
@@ -558,24 +558,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AWRRN51808RRM7J8KQMKT8/magazine-investigations-2.png",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T13:30:00"
   },
   {
-   "id": 5909,
+   "id": 6015,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Profil Negara GCCI 2026 The Block: Pasar Kripto Korea",
-   "x": "Indeks Daya Saing Kripto Global The Block menganalisis pasar kripto Korea Selatan. Analisis ini melampaui metrik volume perdagangan dan adopsi, dengan fokus pada lingkungan operasional perusahaan kripto dan aliran modal.",
+   "t": "Mantan COO FTX: Trailer 'Altruists' Netflix Bikin Mual",
+   "x": "Mantan COO FTX mengkritik serial Netflix 'The Altruists' karena dianggap salah menggambarkan keruntuhan FTX dan menjadikannya cerita cinta. Hal ini menyoroti sensitivitas narasi seputar kejatuhan bursa kripto tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/GCCI-2026-Korea-Country-Profile-Cover.png",
-   "a": "22 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231003_FTX_3_News.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T17:16:23"
+   "published_at": "2026-10-09T18:51:45"
   },
   {
    "id": 5784,
@@ -600,7 +600,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/indodax-delisting-27-kripto-pekan-depan-nasib-kripto-ini-jadi-sorotan",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T02:30:01"
@@ -614,38 +614,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/analisis-crypto-market-crash-oktober",
    "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T21:00:00"
   },
   {
-   "id": 5657,
+   "id": 5998,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "5,6 Miliar Video TikTok Diunduh dan Disediakan Gratis di Hugging Face",
-   "x": "Seorang pengembang mengunggah metadata 5,6 miliar video publik TikTok yang dikumpulkan melalui API privat, melanggar ketentuan TikTok. Kumpulan data gratis ini juga berfungsi sebagai etalase.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/tiktok-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "t": "Pemegang 8 juta USDT0 Polygon diawasi karena 58% pertumbuhan cocok pola penipuan",
+   "x": "Audit menemukan bahwa sebagian besar pertumbuhan pemegang token USDT0 di Polygon menunjukkan pola yang mirip dengan penipuan. Hal ini menimbulkan kekhawatiran tentang keamanan dan integritas ekosistem aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/polygon-fake-address-flood.webp",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-06T22:00:19"
+   "published_at": "2026-10-09T13:40:01"
   },
   {
-   "id": 5913,
+   "id": 5899,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "63 miliar token XRP beredar, tapi tak semua siap dijual",
-   "x": "Jumlah token XRP yang beredar mencapai 63 miliar, namun hanya sebagian yang tersedia untuk dijual. Pasokan yang dapat dieksekusi bergantung pada pesanan jual dan toleransi harga.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-has-63-billion-circulating-tokens-but-how-many-are-actually-for-sale",
-   "img": "https://cryptoslate.com/wp-content/uploads/2017/09/asset-cover-xrp.jpg",
-   "a": "19 jam lalu",
+   "t": "Jaringan uji Ethereum tingkatkan batas blok lebih dari 3x",
+   "x": "Jaringan uji Sepolia Ethereum meningkatkan batas gas bloknya menjadi hampir 200 juta, lebih dari tiga kali lipat kapasitas jaringan utamanya. Peningkatan ini berpotensi meningkatkan skalabilitas.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T19:40:44"
+   "published_at": "2026-10-08T20:16:03"
   },
   {
    "id": 5783,
@@ -662,18 +662,18 @@
    "published_at": "2026-10-08T00:04:32"
   },
   {
-   "id": 5979,
+   "id": 5909,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "OJK Thailand terbitkan aturan ETF bitcoin dan ether mulai 16 Oktober",
-   "x": "Otoritas Jasa Keuangan (OJK) Thailand merilis aturan baru untuk produk Exchange Traded Fund (ETF) berbasis Bitcoin dan Ether. Aturan ini mencakup aspek kustodian, eksposur, dan perdagangan yang akan berlaku efektif pertengahan Oktober.",
+   "t": "Profil Negara GCCI 2026 The Block: Pasar Kripto Korea",
+   "x": "Indeks Daya Saing Kripto Global The Block menganalisis pasar kripto Korea Selatan. Analisis ini melampaui metrik volume perdagangan dan adopsi, dengan fokus pada lingkungan operasional perusahaan kripto dan aliran modal.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/thai-sec-crypto-etfs.png",
-   "a": "4 jam lalu",
+   "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/GCCI-2026-Korea-Country-Profile-Cover.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T10:40:59"
+   "published_at": "2026-10-08T17:16:23"
   },
   {
    "id": 5719,
@@ -718,32 +718,32 @@
    "published_at": "2026-10-08T01:19:18"
   },
   {
-   "id": 5879,
+   "id": 5946,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Akun Decrypt Money di Solana dukung The Information Exchange",
-   "x": "Platform terdesentralisasi Decrypt Money akan mengintegrasikan layanan keuangan dan intelijen di blockchain Solana. Ini menunjukkan perkembangan ekosistem Web3 yang semakin matang.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/header-article-gID_7.png",
-   "a": "23 jam lalu",
+   "t": "Coinbase tawarkan leverage spot 10x, namun larang investor ritel AS",
+   "x": "Bursa kripto Coinbase meluncurkan fitur leverage spot 10x, tetapi membatasi aksesnya hanya untuk investor institusi di Amerika Serikat. Keputusan ini diambil untuk melindungi investor ritel dari risiko yang lebih tinggi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-leverage-machine-1.webp",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T15:42:16"
+   "published_at": "2026-10-09T06:30:02"
   },
   {
-   "id": 5999,
+   "id": 5657,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Dukung favorit Polymarket rugi 4%, audit baru temukan",
-   "x": "Audit terhadap platform prediksi Polymarket menunjukkan bahwa memilih favorit utama secara konsisten dapat mengakibatkan kerugian. Hal ini menggarisbawahi pentingnya analisis mendalam dalam keputusan investasi, bahkan pada platform yang tampak jelas.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/backing-polymarkets-primary-favorites-would-have-lost-4-new-audit-finds",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/polymarket-win-loss-mindset.webp",
-   "a": "3 jam lalu",
+   "t": "5,6 Miliar Video TikTok Diunduh dan Disediakan Gratis di Hugging Face",
+   "x": "Seorang pengembang mengunggah metadata 5,6 miliar video publik TikTok yang dikumpulkan melalui API privat, melanggar ketentuan TikTok. Kumpulan data gratis ini juga berfungsi sebagai etalase.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/tiktok-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T12:00:22"
+   "published_at": "2026-10-06T22:00:19"
   },
   {
    "id": 5927,
@@ -754,38 +754,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FG6B1R6A2XBTWZ9CFPZ8SJ/ai-and-quantum.png",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T05:25:27"
   },
   {
-   "id": 5906,
+   "id": 5979,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "JPMorgan Perkirakan Rp775 Triliun Mengalir ke Kripto Tahun Ini",
-   "x": "Analis JPMorgan memperkirakan sekitar $50 miliar atau setara Rp775 triliun telah mengalir ke aset digital tahun ini. Angka ini menunjukkan momentum yang membaik menjelang akhir tahun 2023.",
+   "t": "OJK Thailand terbitkan aturan ETF bitcoin dan ether mulai 16 Oktober",
+   "x": "Otoritas Jasa Keuangan (OJK) Thailand merilis aturan baru untuk produk Exchange Traded Fund (ETF) berbasis Bitcoin dan Ether. Aturan ini mencakup aspek kustodian, eksposur, dan perdagangan yang akan berlaku efektif pertengahan Oktober.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
-   "a": "20 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/thai-sec-crypto-etfs.png",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T18:46:59"
+   "published_at": "2026-10-09T10:40:59"
   },
   {
-   "id": 5855,
+   "id": 6017,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mode 'bunker' lebih menantang bagi institusi daripada pemegang kripto individu",
+   "t": "Robinhood Chain Pertimbangkan Teknologi Prioritas Trader Berbayar",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f849c0a9167b7c6ad26a634f02b3fd8630fb848f-3287x1944.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/89aa4fc6f8aa83f920b7053236bf63a3c1793418-6240x4160.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T14:39:48"
+   "published_at": "2026-10-09T18:11:00"
   },
   {
    "id": 5955,
@@ -796,7 +796,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-9-oktober-2026-algo-jup-crv-jto-pyth-mulai-membara-sinyal-reli-makin-kuat",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T02:00:20"
@@ -810,38 +810,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/serial-netflix-ftx-pendiri-solana-bereaksi",
    "img": "https://assets.beincrypto.com/img/4jiYkVAg5k3RdXE5l_GK_QIDLkw=/smart/58e43e6a121f4cf99537d3ad81892eee",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T07:28:29"
   },
   {
-   "id": 5775,
+   "id": 5913,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peretas pakai agen AI serang database gereja, 850.000 anggota terdampak",
-   "x": "Sebuah gereja besar di Seoul melaporkan potensi kebocoran data 850.000 anggota akibat serangan siber yang diduga dibantu oleh agen AI. Insiden ini menyoroti risiko keamanan yang semakin canggih.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+   "t": "63 miliar token XRP beredar, tapi tak semua siap dijual",
+   "x": "Jumlah token XRP yang beredar mencapai 63 miliar, namun hanya sebagian yang tersedia untuk dijual. Pasokan yang dapat dieksekusi bergantung pada pesanan jual dan toleransi harga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-has-63-billion-circulating-tokens-but-how-many-are-actually-for-sale",
+   "img": "https://cryptoslate.com/wp-content/uploads/2017/09/asset-cover-xrp.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T19:10:31"
+   "published_at": "2026-10-08T19:40:44"
   },
   {
-   "id": 5781,
+   "id": 6020,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ethereum turun 6%, $1,35 miliar posisi beli berisiko likuidasi",
-   "x": "Penurunan harga Ethereum ke kisaran $2.500 membuat sekitar $1,35 miliar posisi beli berleverase berisiko likuidasi. Data menunjukkan eksposur beli yang rentan likuidasi lebih besar daripada posisi jual.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-falls-6-leaving-1-35-billion-in-long-bets-at-risk-of-liquidation",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-liquidation-cliff.webp",
-   "a": "kemarin",
+   "t": "Blockchain.com minta izin pasar prediksi dan derivatif kripto AS",
+   "x": "Platform kripto mengajukan lisensi untuk mengelola pasar kontrak berjangka dan derivatif di AS. Langkah ini memungkinkan mereka beroperasi secara teregulasi tanpa bergantung pada mitra luar negeri.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T18:40:43"
+   "published_at": "2026-10-09T18:06:03"
   }
  ]
 }
