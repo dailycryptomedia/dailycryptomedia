@@ -1,22 +1,8 @@
 {
- "total": 15,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 5651,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "CEO Bitget Bicara Tentang Peretasan US$387 Juta, Apakah Exchange Ini Aman?",
-   "x": "Penyerang mencuri kurang lebih US$387,5 juta dari Bitget pada tanggal 24 September dengan cara memanipulasi proses penarikan internal exchange tersebut. Menurut Chainalysis, serangan itu dilakukan oleh hacker asal Korea…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/wawancara-ceo-bitget-hack-gracy-chen",
-   "img": "https://assets.beincrypto.com/img/KWNrLbpFhD1rMsZkmv04jXOXdU8=/smart/c5c0302a4e884658b8c6d151200f367f",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-06T22:30:24"
-  },
   {
    "id": 5997,
    "k": "defi",
@@ -26,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/pancakeswap-locked-liquidity-exploit.webp",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:40:46"
@@ -54,10 +40,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/putra-joe-biden-bongkar-penyebab-keruntuhan-meme-coin-laptop",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T07:00:00"
+  },
+  {
+   "id": 5844,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "David Schwartz vs. CEO Flare: Seberapa Besar Potensi Lending XRP Ledger?",
+   "x": "Perdebatan tentang peminjaman XRP terbuka antara CTO Emeritus Ripple, David Schwartz dan CEO Flare, Hugo Philion, yang memiliki pendapat berbeda soal seberapa besar peluang yang bisa dihadirkan XRP Ledger. Pertukaran…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/perdebatan-pinjaman-xrp-schwartz-philion-flare",
+   "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-08T12:54:08"
   },
   {
    "id": 5902,
@@ -102,20 +102,6 @@
    "published_at": "2026-10-07T18:59:32"
   },
   {
-   "id": 5844,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "David Schwartz vs. CEO Flare: Seberapa Besar Potensi Lending XRP Ledger?",
-   "x": "Perdebatan tentang peminjaman XRP terbuka antara CTO Emeritus Ripple, David Schwartz dan CEO Flare, Hugo Philion, yang memiliki pendapat berbeda soal seberapa besar peluang yang bisa dihadirkan XRP Ledger. Pertukaran…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/perdebatan-pinjaman-xrp-schwartz-philion-flare",
-   "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-08T12:54:08"
-  },
-  {
    "id": 5872,
    "k": "defi",
    "cat": "DeFi",
@@ -144,20 +130,6 @@
    "published_at": "2026-10-08T13:30:00"
   },
   {
-   "id": 5724,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bisnis brankas baru raksasa kripto GSR pertaruhkan $100 juta pada kredit on-chain",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T12:34:13"
-  },
-  {
    "id": 5738,
    "k": "defi",
    "cat": "DeFi",
@@ -170,6 +142,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T12:19:32"
+  },
+  {
+   "id": 5724,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bisnis brankas baru raksasa kripto GSR pertaruhkan $100 juta pada kredit on-chain",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T12:34:13"
   },
   {
    "id": 5751,
@@ -194,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-bunga-as-dolar-pajak-yield",
    "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T03:26:43"

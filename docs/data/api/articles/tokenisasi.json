@@ -1,5 +1,5 @@
 {
- "total": 38,
+ "total": 39,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrpls-1-34-billion-stablecoin-base-doesnt-tell-us-how-much-xrp-users-need",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-usage-pathways-2.webp",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T01:00:56"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/tokenisasi-kian-masif-imf-wanti-wanti-risiko-leverage-dan-efek-domino",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T08:00:19"
@@ -144,18 +144,18 @@
    "published_at": "2026-10-08T15:10:49"
   },
   {
-   "id": 5747,
+   "id": 6035,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "SPAC Treasury XRP Anjlok 50% Jelang Debut Evernorth di Nasdaq",
-   "x": "Saham Armada Acquisition Corp. II, perusahaan SPAC yang akan membawa perusahaan treasury XRP ke publik, anjlok 50,3% dalam sehari. Penurunan drastis ini terjadi menjelang debut Evernorth di Nasdaq, menimbulkan kekhawatiran tentang valuasi perusahaan.",
+   "t": "Ledger alami dugaan peretasan senilai $90 juta, Tether bekukan USDT curian",
+   "x": "Kerugian akibat dugaan peretasan dompet Ledger mendekati $90 juta. Tether membekukan USDT yang terkait dengan insiden tersebut untuk membantu investigasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrpn-rollercoaster-plunge.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-frozen-crypto-assets.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T15:30:44"
+   "published_at": "2026-10-09T21:10:39"
   },
   {
    "id": 5978,
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/jesse_pollak_base_1920x1080.jpg",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T13:12:57"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/strategi-saylor-saham-tokenisasi-spacex",
    "img": "https://assets.beincrypto.com/img/BmGucomi9JzNV54BoJxkpCs9JtM=/smart/cd9f8ff24bf34b3f89963f8513d385d9",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T07:08:59"
@@ -240,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T19:46:04"
+  },
+  {
+   "id": 5747,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SPAC Treasury XRP Anjlok 50% Jelang Debut Evernorth di Nasdaq",
+   "x": "Saham Armada Acquisition Corp. II, perusahaan SPAC yang akan membawa perusahaan treasury XRP ke publik, anjlok 50,3% dalam sehari. Penurunan drastis ini terjadi menjelang debut Evernorth di Nasdaq, menimbulkan kekhawatiran tentang valuasi perusahaan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrpn-rollercoaster-plunge.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T15:30:44"
   },
   {
    "id": 5868,
@@ -298,18 +312,18 @@
    "published_at": "2026-10-08T19:31:38"
   },
   {
-   "id": 5659,
+   "id": 5996,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Tether Digugat atas Pembekuan Stablecoin Senilai $2,76 Juta",
-   "x": "Sebuah firma menuduh Tether membekukan dompet kasnya secara sepihak terkait investigasi di Brasil. Firma tersebut mengklaim Tether telah memanfaatkan cadangan dana tersebut selama lebih dari setahun tanpa mengembalikannya.",
+   "t": "Penipu SIM-Swap yang habiskan kripto curian untuk emas dan liburan Dubai dipenjara",
+   "x": "Seorang pelaku kejahatan siber divonis penjara karena mencuri hampir $265.000 aset kripto melalui peretasan nomor telepon. Kasus ini menyoroti risiko keamanan bagi pengguna aset digital.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-06T19:46:04"
+   "published_at": "2026-10-09T08:59:31"
   },
   {
    "id": 5721,
@@ -348,24 +362,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS7BG4ZGWXJ6GRW1QETMHP/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-3.png",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T17:21:07"
-  },
-  {
-   "id": 5996,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Penipu SIM-Swap yang habiskan kripto curian untuk emas dan liburan Dubai dipenjara",
-   "x": "Seorang pelaku kejahatan siber divonis penjara karena mencuri hampir $265.000 aset kripto melalui peretasan nomor telepon. Kasus ini menyoroti risiko keamanan bagi pengguna aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-09T08:59:31"
   },
   {
    "id": 5942,
@@ -376,7 +376,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T04:21:36"
@@ -446,7 +446,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T22:35:00"
@@ -488,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ray-dalio-saham-imbal-hasil-obligasi-bantalan-menyusut",
    "img": "https://assets.beincrypto.com/img/Wy3FbzY2y631aXDkp0KigikACyE=/smart/a6c9049fbee54768a8285a04829dff0f",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T09:58:07"
@@ -502,7 +502,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T10:49:24"
@@ -534,6 +534,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T04:57:54"
+  },
+  {
+   "id": 6031,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "AS berencana sita $1 miliar aset kripto terkait Iran",
+   "x": "Pemerintah Amerika Serikat berencana menyita aset digital senilai $1 miliar yang diduga terkait dengan Iran. Tindakan ini merupakan bagian dari sanksi yang diterapkan AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T20:39:17"
   }
  ]
 }
