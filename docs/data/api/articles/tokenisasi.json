@@ -1,5 +1,5 @@
 {
- "total": 37,
+ "total": 29,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/imbl-jpmorgan-yield-obligasi-ancam-pasar-saham-tips",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T16:18:55"
@@ -32,20 +32,6 @@
    "published_at": "2026-10-08T08:08:03"
   },
   {
-   "id": 5755,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pembelian Ethereum Bitmine Akan Berakhir, Kata Tom Lee",
-   "x": "Ketua Fundstrat, Tom Lee, memprediksi Bitmine akan segera menghentikan pembelian Ethereum karena telah mendekati batas 5% dari total pasokan. Hal ini menandai akhir dari strategi akumulasi yang menjadikan Bitmine sebagai pemegang Ethereum terbesar di dunia.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T14:55:32"
-  },
-  {
    "id": 5921,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -58,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T01:00:56"
+  },
+  {
+   "id": 5880,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Securitize luncurkan saham tokenisasi Nvidia, Apple, Amazon di Solana",
+   "x": "Produk baru Securitize memungkinkan kepemilikan saham perusahaan teknologi besar melalui token di blockchain Solana. Ini membuka jalan baru bagi investor untuk mengakses aset tradisional secara digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T15:10:49"
   },
   {
    "id": 5812,
@@ -74,18 +74,18 @@
    "published_at": "2026-10-08T07:55:14"
   },
   {
-   "id": 5718,
+   "id": 6058,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Polygon manfaatkan pasokan stablecoin TRON $94 miliar untuk transfer lintas batas",
+   "t": "Komoditas ter-tokenisasi perluas pasar melampaui emas",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/668ddf0a6700461c079e904e028b81fb43904882-2044x1150.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/da869b6d20769064b581c36b54624fe52be0dfbb-1500x913.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T16:30:00"
+   "published_at": "2026-10-10T12:00:00"
   },
   {
    "id": 6004,
@@ -124,24 +124,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T16:25:06"
-  },
-  {
-   "id": 5880,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Securitize luncurkan saham tokenisasi Nvidia, Apple, Amazon di Solana",
-   "x": "Produk baru Securitize memungkinkan kepemilikan saham perusahaan teknologi besar melalui token di blockchain Solana. Ini membuka jalan baru bagi investor untuk mengakses aset tradisional secara digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T15:10:49"
   },
   {
    "id": 6035,
@@ -152,10 +138,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-frozen-crypto-assets.webp",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T21:10:39"
+  },
+  {
+   "id": 5774,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tether jajaki stablecoin dan aset tokenisasi dengan bank sentral Kazakhstan",
+   "x": "Tether, penerbit stablecoin USDT, akan bekerja sama dengan bank sentral Kazakhstan untuk mempelajari potensi token yang dipatok ke mata uang lokal dan tokenisasi aset dunia nyata. Langkah ini menunjukkan minat bank sentral pada teknologi blockchain.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-07T19:46:04"
   },
   {
    "id": 5978,
@@ -166,24 +166,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/jesse_pollak_base_1920x1080.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T13:12:57"
   },
   {
-   "id": 6058,
+   "id": 5854,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Komoditas ter-tokenisasi perluas pasar melampaui emas",
+   "t": "Kripto untuk Penasihat: Aset digital lampaui saham dan emas di Q3",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/da869b6d20769064b581c36b54624fe52be0dfbb-1500x913.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "49 menit lalu",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/cec422381be05e630231b39452614ed9fe8e30d9-1029x545.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-10T12:00:00"
+   "published_at": "2026-10-08T15:11:15"
   },
   {
    "id": 5827,
@@ -214,90 +214,6 @@
    "published_at": "2026-10-09T07:08:59"
   },
   {
-   "id": 5708,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Tether dan Bank Sentral Kazakhstan Jajaki Stablecoin Tenge dan Tokenisasi Aset",
-   "x": "Tether dan bank sentral Kazakhstan menjajaki kemungkinan penerbitan stablecoin yang didukung Tenge dan kerangka kerja untuk tokenisasi aset dunia nyata. Kolaborasi ini merupakan langkah Kazakhstan dalam mengembangkan industri aset digitalnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BG8ZH12EYMX71E9T5NGZRV/hi-tether-seen-as-a-thread-to-us-financial-system-as-more-fud-around-reserves-emerges-us.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T16:25:38"
-  },
-  {
-   "id": 5774,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Tether jajaki stablecoin dan aset tokenisasi dengan bank sentral Kazakhstan",
-   "x": "Tether, penerbit stablecoin USDT, akan bekerja sama dengan bank sentral Kazakhstan untuk mempelajari potensi token yang dipatok ke mata uang lokal dan tokenisasi aset dunia nyata. Langkah ini menunjukkan minat bank sentral pada teknologi blockchain.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T19:46:04"
-  },
-  {
-   "id": 5747,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SPAC Treasury XRP Anjlok 50% Jelang Debut Evernorth di Nasdaq",
-   "x": "Saham Armada Acquisition Corp. II, perusahaan SPAC yang akan membawa perusahaan treasury XRP ke publik, anjlok 50,3% dalam sehari. Penurunan drastis ini terjadi menjelang debut Evernorth di Nasdaq, menimbulkan kekhawatiran tentang valuasi perusahaan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrpn-rollercoaster-plunge.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T15:30:44"
-  },
-  {
-   "id": 5868,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Securitize luncurkan saham tokenisasi Apple, Nvidia, dan lainnya",
-   "x": "Securitize meluncurkan saham AS yang ditokenisasi di Solana, didukung 1:1 oleh saham nyata. Ini memungkinkan investor memegang aset tradisional dalam bentuk token digital dengan penyelesaian USDC.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News_2.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T14:04:39"
-  },
-  {
-   "id": 5854,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Kripto untuk Penasihat: Aset digital lampaui saham dan emas di Q3",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/cec422381be05e630231b39452614ed9fe8e30d9-1029x545.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T15:11:15"
-  },
-  {
-   "id": 5733,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Emas dan Perak Kehilangan US$400 Miliar dalam Hitungan Menit, Ini yang Sebenarnya Terjadi",
-   "x": "Emas dan perak kehilangan nilai kertas sebesar USD400 miliar saat imbal hasil Treasury mencapai level tertinggi sejak 2002. Lihat bagaimana angka tersebut dihitung.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/emas-perak-400-miliar-dolar-crash-dijelaskan",
-   "img": "https://assets.beincrypto.com/img/Mrq9VgPtnCPBj4Gf5ifEd_cD7Zk=/smart/bf5cb01cd3574350a95732de951d29be",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-07T15:21:56"
-  },
-  {
    "id": 5886,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -324,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T08:59:31"
+  },
+  {
+   "id": 5868,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Securitize luncurkan saham tokenisasi Apple, Nvidia, dan lainnya",
+   "x": "Securitize meluncurkan saham AS yang ditokenisasi di Solana, didukung 1:1 oleh saham nyata. Ini memungkinkan investor memegang aset tradisional dalam bentuk token digital dengan penyelesaian USDC.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News_2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T14:04:39"
   },
   {
    "id": 5890,
@@ -362,24 +292,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS7BG4ZGWXJ6GRW1QETMHP/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-3.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T17:21:07"
   },
   {
-   "id": 5721,
+   "id": 5942,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bank Sentral Kazakhstan Jelajahi Stablecoin dan Tokenisasi Bersama Tether",
+   "t": "XRP Ledger Tambah Kontrol untuk Bank, Stablecoin, dan Dana Tokenisasi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4c12c0da5096c612dda6d9ed83011bcd03b607f0-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T14:27:37"
+   "published_at": "2026-10-09T04:21:36"
   },
   {
    "id": 5846,
@@ -404,24 +334,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DTXW3K631JQCMDGZKV9MNS/hi-harmless-for-now-dangerous-in-the-future-heres-what-researches-think-of-cryptocurrencies-rwa-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T13:42:27"
   },
   {
-   "id": 5942,
+   "id": 5865,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "XRP Ledger Tambah Kontrol untuk Bank, Stablecoin, dan Dana Tokenisasi",
+   "t": "Standard Chartered perluas kustodi kripto institusional ke Singapura",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T04:21:36"
+   "published_at": "2026-10-08T09:32:13"
   },
   {
    "id": 5974,
@@ -452,48 +382,6 @@
    "published_at": "2026-10-08T22:35:00"
   },
   {
-   "id": 5865,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Standard Chartered perluas kustodi kripto institusional ke Singapura",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T09:32:13"
-  },
-  {
-   "id": 5740,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Sui dan Alibaba Ingin Agen AI Bertransaksi Tanpa Persetujuan Manusia",
-   "x": "Sui dan Alibaba Cloud memungkinkan agen AI membayar per panggilan dengan stablecoin dalam batas anggaran tertentu, namun tidak ada manusia yang menyetujui setiap pembelian secara individual.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sui-alibaba-cloud-ai-agent-pembayaran",
-   "img": "https://assets.beincrypto.com/img/Mtom53pKrYu0b9HsYd5aTashDT8=/smart/0f1571d9c8c84c709d3579f20d7f1441",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-07T10:08:19"
-  },
-  {
-   "id": 5711,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Harga Bitcoin turun ke level terendah Oktober $82,7 ribu seiring kenaikan imbal hasil obligasi",
-   "x": "Harga Bitcoin anjlok ke level terendah bulanan karena investor menjual aset berisiko akibat kekhawatiran geopolitik yang mendorong kenaikan imbal hasil obligasi. Penurunan ini menunjukkan korelasi aset kripto dengan pasar keuangan tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BEBEZ7QSY6YC27Z3G1WAYE/oil-bitcoin-petrol-iran-3.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T15:06:14"
-  },
-  {
    "id": 5959,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -516,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T20:39:17"
