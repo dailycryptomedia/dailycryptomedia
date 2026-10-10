@@ -1,5 +1,5 @@
 {
- "total": 85,
+ "total": 86,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,18 +74,18 @@
    "published_at": "2026-10-07T07:00:34"
   },
   {
-   "id": 5676,
+   "id": 6038,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Robinhood tambah bitcoin senilai $25 juta ke neraca",
+   "t": "Volatilitas Bitcoin turun, namun lonjakan harga ekstrem lebih sering terjadi dibanding 2018",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/cb0bf014fcfb96a3b856413652b97154bb22a97e-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd764207630edd2b441c0d7a7c060015ee0e6c90-1600x1060.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "26 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T08:53:27"
+   "published_at": "2026-10-10T05:43:00"
   },
   {
    "id": 5867,
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T07:34:44"
@@ -166,24 +166,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-berpeluang-terbang-ke-us160-000-ini-level-penentunya",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T03:00:38"
   },
   {
-   "id": 5852,
+   "id": 5676,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemerintah AS pindahkan $1 miliar bitcoin dari dompet hasil peretasan Bitfinex, tidak ada indikasi penjualan",
+   "t": "Robinhood tambah bitcoin senilai $25 juta ke neraca",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/cb0bf014fcfb96a3b856413652b97154bb22a97e-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T15:43:04"
+   "published_at": "2026-10-07T08:53:27"
   },
   {
    "id": 5908,
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pendiri-dark-web-menyerahkan-1230-bitcoin",
    "img": "https://assets.beincrypto.com/img/cFuleg3oU2yTcVnfHy-tdY4hRys=/smart/c1e10b07b8b64f638676c51ab38b1a90",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T12:50:19"
@@ -264,24 +264,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/dua-perusahaan-borong-2-010-bitcoin-senilai-hampir-us170-juta-akumulasi-korporat-memanas-lagi",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T03:00:21"
   },
   {
-   "id": 5939,
+   "id": 5852,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Update langsung: ETF XRP satu-satunya yang hijau saat dana BTC, ETH, ZEC alami aliran keluar",
+   "t": "Pemerintah AS pindahkan $1 miliar bitcoin dari dompet hasil peretasan Bitfinex, tidak ada indikasi penjualan",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/88b757b3c8c8512886787d35a92ef84c372b789c-1376x768.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "17 jam lalu",
+   "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d7547a7b55a45fba2e93597a31f6a8893d945b6a-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T06:51:32"
+   "published_at": "2026-10-08T15:43:04"
   },
   {
    "id": 5980,
@@ -292,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/meanwhile.png",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T10:33:46"
@@ -354,18 +354,18 @@
    "published_at": "2026-10-08T15:24:16"
   },
   {
-   "id": 5940,
+   "id": 5939,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Teknologi baru untuk pinjaman bitcoin siap debut dengan komitmen $500 juta",
+   "t": "Update langsung: ETF XRP satu-satunya yang hijau saat dana BTC, ETH, ZEC alami aliran keluar",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "17 jam lalu",
+   "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/88b757b3c8c8512886787d35a92ef84c372b789c-1376x768.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T06:40:54"
+   "published_at": "2026-10-09T06:51:32"
   },
   {
    "id": 5696,
@@ -376,7 +376,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-07T03:57:21"
@@ -438,18 +438,18 @@
    "published_at": "2026-10-08T07:30:42"
   },
   {
-   "id": 5677,
+   "id": 5940,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Meski turun, lintasan bullish Bitcoin tetap utuh",
+   "t": "Teknologi baru untuk pinjaman bitcoin siap debut dengan komitmen $500 juta",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0b4999b3425c23ed7837f68c0ef62de17ff278d0-1600x1017.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T07:52:22"
+   "published_at": "2026-10-09T06:40:54"
   },
   {
    "id": 5797,
@@ -460,7 +460,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-di-bawah-85000-permintaan-tipis-dukungan-81000",
    "img": "https://assets.beincrypto.com/img/ADHGiAxERHy_554lxlEkdG5jHNI=/smart/c9e0d1f4ef4f41f69bb700eaba265351",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T05:09:36"
@@ -502,24 +502,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PCC2V0XRTMJ/thailand.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T03:08:51"
   },
   {
-   "id": 5857,
+   "id": 5677,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Lebih dari 6 juta bitcoin tersimpan di balik kunci publik yang terekspos",
+   "t": "Meski turun, lintasan bullish Bitcoin tetap utuh",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4420c630cb05b3c60a6adc8bcef8a317d63d788a-3000x1676.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0b4999b3425c23ed7837f68c0ef62de17ff278d0-1600x1017.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T14:03:20"
+   "published_at": "2026-10-07T07:52:22"
   },
   {
    "id": 5801,
@@ -530,7 +530,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-halving-clock-bear-market",
    "img": "https://assets.beincrypto.com/img/BLIkKYeOCZ95sOJtlFws4rqntKE=/smart/e05c2c4f52b14aeb93fc7e3262009cd1",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T04:00:00"
@@ -544,7 +544,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T13:20:12"
@@ -578,18 +578,18 @@
    "published_at": "2026-10-08T11:03:36"
   },
   {
-   "id": 5987,
+   "id": 5857,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Thailand buka pintu ETF bitcoin dan ether terdaftar lokal",
+   "t": "Lebih dari 6 juta bitcoin tersimpan di balik kunci publik yang terekspos",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4420c630cb05b3c60a6adc8bcef8a317d63d788a-3000x1676.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T10:16:55"
+   "published_at": "2026-10-08T14:03:20"
   },
   {
    "id": 5689,
@@ -600,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/arthur-hayes-bailout-ai-bitcoin",
    "img": "https://assets.beincrypto.com/img/IqIpj4gYBt8RbmFBJpSph95J8Lw=/smart/2af82e9462314a59bf8ba6bc75e25212",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T03:53:12"
@@ -614,7 +614,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T17:36:26"
@@ -628,7 +628,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/core-lightning-26069-security-standard.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T05:20:19"
@@ -648,18 +648,18 @@
    "published_at": "2026-10-07T09:57:19"
   },
   {
-   "id": 5818,
+   "id": 5987,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pinjaman Bitcoin untuk biaya kuliah dan modal kerja, bukan hanya trading",
+   "t": "Thailand buka pintu ETF bitcoin dan ether terdaftar lokal",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T05:40:41"
+   "published_at": "2026-10-09T10:16:55"
   },
   {
    "id": 6007,
@@ -670,7 +670,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trader-kehilangan-80-bitcoin-ledger-wallet",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T16:29:56"
@@ -718,18 +718,18 @@
    "published_at": "2026-10-08T12:03:28"
   },
   {
-   "id": 5678,
+   "id": 5818,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemerintah AS pindahkan lebih dari $100 juta BTC dan BNB",
+   "t": "Pinjaman Bitcoin untuk biaya kuliah dan modal kerja, bukan hanya trading",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fe1918fb1883c9e13bc09a466b6176ca4c263d96-1544x830.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T05:58:25"
+   "published_at": "2026-10-08T05:40:41"
   },
   {
    "id": 5693,
@@ -740,7 +740,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-likuidasi-reset-atau-peringatan-longs",
    "img": "https://assets.beincrypto.com/img/g2RAZk9FxrGnTEg95pvPV_SLLW8=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-07T02:50:46"
@@ -782,24 +782,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GJTJRRZ47S1YP6DQSY53GK/hand-coin-laptop-hack-bitcoin-1280x853.webp",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T15:20:36"
   },
   {
-   "id": 5943,
+   "id": 5678,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Taruhan Ether lenyap enam kali lipat dari Bitcoin dalam likuidasi kripto $1 miliar",
+   "t": "Pemerintah AS pindahkan lebih dari $100 juta BTC dan BNB",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5dafa8731b57ed898b6252e0ca207ab2a5222126-1460x810.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fe1918fb1883c9e13bc09a466b6176ca4c263d96-1544x830.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T04:04:36"
+   "published_at": "2026-10-07T05:58:25"
   },
   {
    "id": 5739,
@@ -838,7 +838,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-miners-escape-months-of-financial-distress-as-daily-revenue-surges-by-78",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-rig-recovery.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T04:10:41"
