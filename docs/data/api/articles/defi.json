@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -44,20 +44,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T03:26:43"
-  },
-  {
-   "id": 5902,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Platform DeFi Solana Orca dan Loopscale Merger Jadi Formation",
-   "x": "Dua perusahaan DeFi di jaringan Solana, Orca dan Loopscale, bergabung membentuk entitas baru bernama Formation. Langkah ini bertujuan untuk mendanai aset digital di sektor AI, energi, robotika, dan pertahanan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/handshake-deal-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T18:16:05"
   }
  ]
 }
