@@ -1,5 +1,5 @@
 {
- "total": 70,
+ "total": 69,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-river-recovery.webp",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T17:00:12"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd764207630edd2b441c0d7a7c060015ee0e6c90-1600x1060.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T05:43:00"
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-tak-seperti-dulu-bos-indodax-ungkap-cara-baru-melihat-btc",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T09:00:21"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-09-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T16:01:04"
@@ -166,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/bd4136eea24ebe8a86327e7c5d5d312e7b538823-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T12:00:00"
@@ -186,18 +186,18 @@
    "published_at": "2026-10-08T17:18:24"
   },
   {
-   "id": 5826,
+   "id": 6091,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Harga Bitcoin berpeluang terbang ke US$160.000, ini level penentunya",
-   "x": "Harga Bitcoin mengincar rekor tertinggi baru melalui pola grafik bullish. Analis menyoroti level resistensi penting yang perlu ditembus untuk memicu potensi kenaikan harga lebih lanjut.",
+   "t": "Aliran dana whale Bitcoin ke Binance berkurang, sinyal jual mereda",
+   "x": "Aktivitas whale Bitcoin di Binance menunjukkan penurunan signifikan dalam aliran dana masuk, mengindikasikan potensi meredanya tekanan jual. Perubahan ini dapat memengaruhi dinamika pasar aset kripto dalam jangka pendek.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/harga-bitcoin-berpeluang-terbang-ke-us160-000-ini-level-penentunya",
+   "url": "https://blockchainmedia.id/jejak-whale-bitcoin-di-binance-berubah-drastis-sinyal-jual-mulai-redup",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T03:00:38"
+   "published_at": "2026-10-11T01:30:45"
   },
   {
    "id": 5797,
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-di-bawah-85000-permintaan-tipis-dukungan-81000",
    "img": "https://assets.beincrypto.com/img/ADHGiAxERHy_554lxlEkdG5jHNI=/smart/c9e0d1f4ef4f41f69bb700eaba265351",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T05:09:36"
@@ -284,6 +284,20 @@
    "published_at": "2026-10-09T10:33:46"
   },
   {
+   "id": 5826,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin berpeluang terbang ke US$160.000, ini level penentunya",
+   "x": "Harga Bitcoin mengincar rekor tertinggi baru melalui pola grafik bullish. Analis menyoroti level resistensi penting yang perlu ditembus untuk memicu potensi kenaikan harga lebih lanjut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/harga-bitcoin-berpeluang-terbang-ke-us160-000-ini-level-penentunya",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T03:00:38"
+  },
+  {
    "id": 5801,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -292,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-halving-clock-bear-market",
    "img": "https://assets.beincrypto.com/img/BLIkKYeOCZ95sOJtlFws4rqntKE=/smart/e05c2c4f52b14aeb93fc7e3262009cd1",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-08T04:00:00"
@@ -362,7 +376,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cina-jaringan-blockchain-nasional-bitcoin",
    "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T14:19:57"
@@ -382,18 +396,18 @@
    "published_at": "2026-10-09T13:20:12"
   },
   {
-   "id": 5791,
+   "id": 6075,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemerintah AS pindahkan kripto sitaan senilai $470 juta ke dompet Coinbase",
-   "x": "Pemerintah AS memindahkan aset kripto senilai $470 juta ke dompet Coinbase, memicu spekulasi penjualan Bitcoin. Langkah ini melibatkan Bitcoin, Wrapped Bitcoin, dan USDT.",
+   "t": "Imbal hasil Bitcoin Luxor 6-13% per tahun bergantung pada pengiriman mining",
+   "x": "Luxor menawarkan produk yang dapat mengunci penerimaan Bitcoin kotor, namun imbal hasil tahunan yang dilaporkan masih bergantung pada kinerja penambangan dan syarat pembiayaan. Ini menunjukkan risiko dalam produk pendapatan tetap berbasis aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/government-bitcoin-reserve-vault.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/bitcoins-reported-6-13-mining-yield-still-carries-miner-credit-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-risk-balance.webp",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T00:00:12"
+   "published_at": "2026-10-10T15:00:54"
   },
   {
    "id": 5928,
@@ -404,7 +418,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PCC2V0XRTMJ/thailand.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T03:08:51"
@@ -452,18 +466,18 @@
    "published_at": "2026-10-09T17:36:26"
   },
   {
-   "id": 6075,
+   "id": 5923,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Imbal hasil Bitcoin Luxor 6-13% per tahun bergantung pada pengiriman mining",
-   "x": "Luxor menawarkan produk yang dapat mengunci penerimaan Bitcoin kotor, namun imbal hasil tahunan yang dilaporkan masih bergantung pada kinerja penambangan dan syarat pembiayaan. Ini menunjukkan risiko dalam produk pendapatan tetap berbasis aset kripto.",
+   "t": "Perbaikan privasi Bitcoin Core capai v32, patch v31 masih terbuka",
+   "x": "Perbaikan privasi opsional untuk siaran pribadi di Bitcoin Core telah digabungkan ke versi 32.x. Sementara itu, perbaikan untuk cabang yang lebih lama (v31) masih dalam proses pengembangan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-reported-6-13-mining-yield-still-carries-miner-credit-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-risk-balance.webp",
-   "a": "9 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-core-branch-status.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-10T15:00:54"
+   "published_at": "2026-10-08T23:00:07"
   },
   {
    "id": 5837,
@@ -488,7 +502,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/564d4c8495b94d94a0db2e6e7301c2e2029243ca-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T11:00:00"
@@ -502,7 +516,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peringatan-10-tahun-crypto-trader-deleverage",
    "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T07:51:56"
@@ -522,18 +536,18 @@
    "published_at": "2026-10-08T16:44:20"
   },
   {
-   "id": 5923,
+   "id": 5873,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Perbaikan privasi Bitcoin Core capai v32, patch v31 masih terbuka",
-   "x": "Perbaikan privasi opsional untuk siaran pribadi di Bitcoin Core telah digabungkan ke versi 32.x. Sementara itu, perbaikan untuk cabang yang lebih lama (v31) masih dalam proses pengembangan.",
+   "t": "Citi prediksi Bitcoin kembali ke $113.000, data pembelian tunjukkan hal ini",
+   "x": "Proyeksi jangka panjang Citi untuk Bitcoin berada di bawah rekor sebelumnya, sementara data partisipasi pembelian investor masih belum pasti. Hal ini menimbulkan pertanyaan tentang momentum pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-core-branch-status.webp",
+   "url": "https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-adoption-ascent.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T23:00:07"
+   "published_at": "2026-10-08T14:00:36"
   },
   {
    "id": 5836,
@@ -564,18 +578,18 @@
    "published_at": "2026-10-08T14:03:20"
   },
   {
-   "id": 5873,
+   "id": 5947,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Citi prediksi Bitcoin kembali ke $113.000, data pembelian tunjukkan hal ini",
-   "x": "Proyeksi jangka panjang Citi untuk Bitcoin berada di bawah rekor sebelumnya, sementara data partisipasi pembelian investor masih belum pasti. Hal ini menimbulkan pertanyaan tentang momentum pasar.",
+   "t": "Core Lightning perbaiki celah keamanan kritis dan bug pembayaran Bitcoin",
+   "x": "Core Lightning merilis pembaruan untuk memperbaiki celah keamanan kritis dan bug pembayaran pada jaringan Bitcoin. Perbaikan ini penting untuk menjaga stabilitas dan keamanan transaksi di jaringan layer 2.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-adoption-ascent.webp",
+   "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/core-lightning-26069-security-standard.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T14:00:36"
+   "published_at": "2026-10-09T05:20:19"
   },
   {
    "id": 6014,
@@ -606,18 +620,18 @@
    "published_at": "2026-10-09T10:16:55"
   },
   {
-   "id": 5947,
+   "id": 5874,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Core Lightning perbaiki celah keamanan kritis dan bug pembayaran Bitcoin",
-   "x": "Core Lightning merilis pembaruan untuk memperbaiki celah keamanan kritis dan bug pembayaran pada jaringan Bitcoin. Perbaikan ini penting untuk menjaga stabilitas dan keamanan transaksi di jaringan layer 2.",
+   "t": "Bitcoin melemah saat Wall Street buka, diskon Coinbase melebar",
+   "x": "Bitcoin cenderung turun saat sesi perdagangan saham AS dimulai, dengan diskon di bursa Coinbase yang semakin dalam. Analisis aliran dana institusional belum membuktikan adanya penjualan berkelanjutan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/core-lightning-26069-security-standard.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-two-day-shock.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T05:20:19"
+   "published_at": "2026-10-08T13:00:24"
   },
   {
    "id": 5962,
@@ -642,24 +656,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T05:40:41"
   },
   {
-   "id": 5874,
+   "id": 5948,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin melemah saat Wall Street buka, diskon Coinbase melebar",
-   "x": "Bitcoin cenderung turun saat sesi perdagangan saham AS dimulai, dengan diskon di bursa Coinbase yang semakin dalam. Analisis aliran dana institusional belum membuktikan adanya penjualan berkelanjutan.",
+   "t": "Penambang Bitcoin lepas dari tekanan saat pendapatan harian melonjak 78%",
+   "x": "Pendapatan harian penambang Bitcoin melonjak 78% berkat kenaikan harga BTC, membantu mereka keluar dari tekanan finansial. Kenaikan ini menunjukkan pemulihan profitabilitas dalam industri penambangan aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-two-day-shock.webp",
+   "url": "https://cryptoslate.com/bitcoin-miners-escape-months-of-financial-distress-as-daily-revenue-surges-by-78",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-rig-recovery.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T13:00:24"
+   "published_at": "2026-10-09T04:10:41"
   },
   {
    "id": 6052,
@@ -670,7 +684,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JA710W3MTHS923BYD1G7PT/hi-the-increasingly-acute-need-for-crypto-native-insurance.png",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T07:10:43"
@@ -684,24 +698,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5dafa8731b57ed898b6252e0ca207ab2a5222126-1460x810.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T04:04:36"
   },
   {
-   "id": 5792,
+   "id": 6030,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kemajuan matematika OpenAI picu alarm 'mode bunker' dari peneliti Bitcoin",
-   "x": "Peneliti Ethereum Justin Drake memperingatkan ancaman AI terhadap keamanan dompet kripto menyusul terobosan matematika OpenAI. Ia menyarankan industri bersiap untuk 'mode bunker' dan migrasi aset.",
+   "t": "OpenAI, Google, Meta Bersaing Domain Internet AI, Kripto Bidik .bitcoin",
+   "x": "Perusahaan teknologi besar dan pemain kripto bersaing memperebutkan domain internet baru yang berpotensi strategis. Persaingan ini menunjukkan minat yang meningkat pada infrastruktur digital masa depan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/openai-news-cover.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/openai-google-and-meta-battle-for-ai-internet-domains-as-crypto-firms-target-bitcoin-and-wallet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/agent-domain-signpost.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-07T22:24:45"
+   "published_at": "2026-10-09T16:00:55"
   },
   {
    "id": 5838,
@@ -732,18 +746,18 @@
    "published_at": "2026-10-09T11:09:04"
   },
   {
-   "id": 5948,
+   "id": 5915,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penambang Bitcoin lepas dari tekanan saat pendapatan harian melonjak 78%",
-   "x": "Pendapatan harian penambang Bitcoin melonjak 78% berkat kenaikan harga BTC, membantu mereka keluar dari tekanan finansial. Kenaikan ini menunjukkan pemulihan profitabilitas dalam industri penambangan aset kripto.",
+   "t": "Bitcoin di Bawah $81.000, Sinyal The Fed Tak Bisa Selamatkan Pasar Kripto",
+   "x": "Penurunan Bitcoin di bawah $81.000 terjadi meski pasar memperkirakan The Fed menahan suku bunga. Risalah rapat FOMC September mengindikasikan kemungkinan kenaikan suku bunga lagi akhir tahun ini, bergantung pada data ekonomi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miners-escape-months-of-financial-distress-as-daily-revenue-surges-by-78",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-rig-recovery.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoins-slide-below-81000-exposes-why-a-fed-pause-may-not-save-the-crypto-market",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-vise-pressure.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T04:10:41"
+   "published_at": "2026-10-08T17:30:25"
   },
   {
    "id": 5986,
@@ -760,18 +774,18 @@
    "published_at": "2026-10-09T10:44:22"
   },
   {
-   "id": 6030,
+   "id": 6077,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "OpenAI, Google, Meta Bersaing Domain Internet AI, Kripto Bidik .bitcoin",
-   "x": "Perusahaan teknologi besar dan pemain kripto bersaing memperebutkan domain internet baru yang berpotensi strategis. Persaingan ini menunjukkan minat yang meningkat pada infrastruktur digital masa depan.",
+   "t": "Rebound Bitcoin hadapi uji $80.400 setelah ETF catat aliran keluar $730 juta",
+   "x": "Bitcoin diperdagangkan mendekati $82.900, dengan investor memantau apakah kenaikan akhir pekan akan menarik leverage baru atau justru memicu likuidasi posisi. Aliran dana keluar ETF Bitcoin senilai hampir $730 juta menjadi perhatian utama pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/openai-google-and-meta-battle-for-ai-internet-domains-as-crypto-firms-target-bitcoin-and-wallet",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/agent-domain-signpost.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/570893-featured-upload.jpg",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T16:00:55"
+   "published_at": "2026-10-10T13:00:34"
   },
   {
    "id": 5944,
@@ -782,24 +796,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/191ded87c87038e9bec4f5e1ea72c7a480d6abc9-2208x1087.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T03:27:38"
   },
   {
-   "id": 5915,
+   "id": 5916,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin di Bawah $81.000, Sinyal The Fed Tak Bisa Selamatkan Pasar Kripto",
-   "x": "Penurunan Bitcoin di bawah $81.000 terjadi meski pasar memperkirakan The Fed menahan suku bunga. Risalah rapat FOMC September mengindikasikan kemungkinan kenaikan suku bunga lagi akhir tahun ini, bergantung pada data ekonomi.",
+   "t": "Pemerintah AS Pindahkan $1 Miliar Bitcoin Saat BTC Anjlok $4.000",
+   "x": "Dompet digital yang terafiliasi dengan pemerintah AS memindahkan lebih dari $1 miliar Bitcoin pada 8 Oktober. Pergerakan dana ini terjadi saat harga Bitcoin jatuh dan sebagian koin dialihkan ke Coinbase Prime.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-slide-below-81000-exposes-why-a-fed-pause-may-not-save-the-crypto-market",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-vise-pressure.webp",
+   "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/government-bitcoin-transfer.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T17:30:25"
+   "published_at": "2026-10-08T16:50:59"
   },
   {
    "id": 5859,
@@ -816,32 +830,18 @@
    "published_at": "2026-10-08T11:47:16"
   },
   {
-   "id": 6077,
+   "id": 5949,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Rebound Bitcoin hadapi uji $80.400 setelah ETF catat aliran keluar $730 juta",
-   "x": "Bitcoin diperdagangkan mendekati $82.900, dengan investor memantau apakah kenaikan akhir pekan akan menarik leverage baru atau justru memicu likuidasi posisi. Aliran dana keluar ETF Bitcoin senilai hampir $730 juta menjadi perhatian utama pasar.",
+   "t": "AI Mungkin Pertahankan Inflasi Bitcoin Pasca Kenaikan Suku Bunga The Fed",
+   "x": "Minutes rapat The Fed mengindikasikan utang terkait AI sebagai penyebab imbal hasil obligasi yang tinggi. Hal ini dapat menjadi hambatan makroekonomi bagi Bitcoin meskipun suku bunga The Fed berhenti naik.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/570893-featured-upload.jpg",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-10T13:00:34"
-  },
-  {
-   "id": 5861,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin ditambang murah pada 2010 bergerak setelah 16 tahun",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a0a7940835c9275731c2adf69015343cc4a850ac-1024x683.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ai-capital-vortex-bitcoin.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-08T11:30:19"
+   "published_at": "2026-10-09T03:00:33"
   }
  ]
 }
