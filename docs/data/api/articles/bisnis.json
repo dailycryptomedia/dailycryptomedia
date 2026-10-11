@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-10-08T08:25:54"
   },
   {
-   "id": 5760,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Circle hadirkan pembayaran USDC, EURC untuk pelanggan SAP via Tereina",
-   "x": "Kemitraan Circle dengan Tereina, yang didukung SAP, memungkinkan bisnis melakukan transaksi stablecoin langsung dari perangkat lunak keuangan mereka. Ini mempermudah adopsi aset digital dalam transaksi bisnis.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4C0FKXZZQCVXBKP6KS4MJFP/hi-crypto-negotiation-1.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T20:48:34"
-  },
-  {
    "id": 6044,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -40,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-geod-berpotensi-jadi-hidden-gem-pendapatan-geodnet-melonjak-128-persen",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T03:30:32"
@@ -54,24 +40,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T21:46:03"
-  },
-  {
-   "id": 5917,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "3 Saham yang Sudah Menang dalam Persaingan OpenAI vs. Anthropic",
-   "x": "Vertiv, Quanta Services, dan GE Vernova melaporkan permintaan pusat data yang melonjak seiring OpenAI dan Anthropic menuju IPO.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-diuntungkan-balapan-ai-openai-anthropic",
-   "img": "https://assets.beincrypto.com/img/kXfi63YPF2jWRc4rLKmQUzVAbCU=/smart/f6565b5ab4dc4ec99f01903b9969e9da",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-09T00:55:08"
   },
   {
    "id": 6013,
@@ -86,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T15:51:53"
+  },
+  {
+   "id": 5917,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "3 Saham yang Sudah Menang dalam Persaingan OpenAI vs. Anthropic",
+   "x": "Vertiv, Quanta Services, dan GE Vernova melaporkan permintaan pusat data yang melonjak seiring OpenAI dan Anthropic menuju IPO.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/saham-diuntungkan-balapan-ai-openai-anthropic",
+   "img": "https://assets.beincrypto.com/img/kXfi63YPF2jWRc4rLKmQUzVAbCU=/smart/f6565b5ab4dc4ec99f01903b9969e9da",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-09T00:55:08"
   },
   {
    "id": 5848,

@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-unfreeze-thorchain-swaps.webp",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T23:30:53"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berkaca-pada-insiden-drainer-ledger-adakah-cara-lebih-aman-menyimpan-kripto",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T07:00:22"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledger-wallet-spy-chip-penjual-ulang",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T10:55:20"
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-geographic-leader-scheduling.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T00:00:53"
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/dompet-kripto-ledger-disusupi-alat-pengintai-eks-bos-mt-gox-ungkap-temuan",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T01:45:31"
@@ -186,48 +186,6 @@
    "published_at": "2026-10-09T17:02:47"
   },
   {
-   "id": 5766,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "4 Langkah untuk Lindungi Koin Anda dari Risiko Keamanan Berbasis AI, Kata Peneliti Ethereum",
-   "x": "Peneliti Ethereum Justin Drake membagikan cara melindungi koin Anda dari risiko AI dengan memindahkannya ke alamat wallet baru.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peneliti-ethereum-melindungi-koin-risiko-ai",
-   "img": "https://assets.beincrypto.com/img/lQTiOMKpykIlMuCRsE-q1otXwrM=/smart/775a6c80d10e4436b112c174cc48c3bd",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-07T20:00:00"
-  },
-  {
-   "id": 5780,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "ETF XRP kelola $1,7 miliar, namun hanya dapat dana masuk $4 juta pekan lalu",
-   "x": "Dana yang melacak XRP mencatat aliran dana keluar bersih pada pekan lalu, meskipun total aset kelolaan mencapai $1,7 miliar. Pergerakan ini menimbulkan pertanyaan tentang minat investor institusi terhadap aset tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-etfs-now-hold-1-7-billion-but-took-in-just-4m-last-week",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-etf-market-pressure.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-07T19:40:35"
-  },
-  {
-   "id": 5814,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Samsung luncurkan transfer USDC di Solana untuk pengguna Galaxy AS",
-   "x": "Samsung kini mengintegrasikan transfer stablecoin USDC ke dalam aplikasi Samsung Wallet di Amerika Serikat. Fitur ini memudahkan pengguna melakukan transaksi aset digital dengan mata uang fiat.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/samsung-news.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T02:50:01"
-  },
-  {
    "id": 5971,
    "k": "web3",
    "cat": "Web3",
@@ -254,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T18:40:23"
+  },
+  {
+   "id": 5814,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Samsung luncurkan transfer USDC di Solana untuk pengguna Galaxy AS",
+   "x": "Samsung kini mengintegrasikan transfer stablecoin USDC ke dalam aplikasi Samsung Wallet di Amerika Serikat. Fitur ini memudahkan pengguna melakukan transaksi aset digital dengan mata uang fiat.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/samsung-news.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-08T02:50:01"
   },
   {
    "id": 5851,
@@ -292,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bug-xrp-ledger-buat-xrp-berhasil-diperbaiki",
    "img": "https://assets.beincrypto.com/img/Z25ZyW9kgVgVU_YeP8qcJbiHnwU=/smart/220e70faa5834d7fbca0841be945b7c3",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T06:33:43"
