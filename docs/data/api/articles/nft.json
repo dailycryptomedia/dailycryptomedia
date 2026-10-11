@@ -1,5 +1,5 @@
 {
- "total": 4,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,10 +54,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/Minecraft-CallofDuty-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T12:15:51"
+  },
+  {
+   "id": 6102,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "AI temukan celah XRP Ledger, potensi cetak 18 triliun token",
+   "x": "Kecerdasan buatan menemukan kerentanan pada XRP Ledger yang berpotensi memungkinkan pencetakan 18 triliun token. Penemuan ini menimbulkan risiko terhadap kapitalisasi pasar XRP yang mencapai $94 miliar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-ledger-patch-security.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-11T10:30:30"
   }
  ]
 }
