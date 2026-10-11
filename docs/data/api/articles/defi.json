@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 4,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/pancakeswap-locked-liquidity-exploit.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:40:46"
@@ -32,32 +32,18 @@
    "published_at": "2026-10-09T07:00:00"
   },
   {
-   "id": 5844,
+   "id": 5933,
    "k": "defi",
    "cat": "DeFi",
-   "t": "David Schwartz vs. CEO Flare: Seberapa Besar Potensi Lending XRP Ledger?",
-   "x": "Perdebatan tentang peminjaman XRP terbuka antara CTO Emeritus Ripple, David Schwartz dan CEO Flare, Hugo Philion, yang memiliki pendapat berbeda soal seberapa besar peluang yang bisa dihadirkan XRP Ledger. Pertukaran…",
+   "t": "1 dari 5 Dolar Pajak AS Kini untuk Membayar Bunga dan Imbal Hasil Terus Naik",
+   "x": "Bunga utang AS kini mengambil lebih dari 1 dari 5 dolar pajak, dan lonjakan yield tertinggi dalam 24 tahun terakhir belum sepenuhnya mempengaruhi anggaran.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/perdebatan-pinjaman-xrp-schwartz-philion-flare",
-   "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-08T12:54:08"
-  },
-  {
-   "id": 5834,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pinjaman kripto naik lagi, tapi apakah risikonya teratasi?",
-   "x": "Pinjaman kripto melonjak 55% sejak Juli, namun kini menghadapi ancaman peretasan berbasis AI dan risiko berantai antar protokol. Investor perlu waspada terhadap potensi kerugian.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47ZC7BVFK1X6QFTDNSWBMXC/magazine-memecoins-betrayal-of-cryptos-ideal-or-its-true-purpose.png",
+   "url": "https://id.beincrypto.com/biaya-bunga-as-dolar-pajak-yield",
+   "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T13:30:00"
+   "translated": false,
+   "published_at": "2026-10-09T03:26:43"
   },
   {
    "id": 5902,
@@ -72,34 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T18:16:05"
-  },
-  {
-   "id": 5872,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Insiden $1.000 MetaMask bisa ubah antrean staking Ethereum jadi kemacetan $5 miliar",
-   "x": "Potensi penarikan dana besar dari staking Ethereum dapat menciptakan beban kerja signifikan bagi jaringan. Hal ini menyoroti pentingnya pengelolaan risiko dalam ekosistem DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-carousel-backlog.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-08T15:00:46"
-  },
-  {
-   "id": 5933,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "1 dari 5 Dolar Pajak AS Kini untuk Membayar Bunga dan Imbal Hasil Terus Naik",
-   "x": "Bunga utang AS kini mengambil lebih dari 1 dari 5 dolar pajak, dan lonjakan yield tertinggi dalam 24 tahun terakhir belum sepenuhnya mempengaruhi anggaran.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/biaya-bunga-as-dolar-pajak-yield",
-   "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-09T03:26:43"
   }
  ]
 }

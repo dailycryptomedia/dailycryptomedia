@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png",
-   "a": "13 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T13:00:03"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260120_Ledgers_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:52:55"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GQZR5EE6DC45BS4MEHM47N/hi-got-crypto-losses-wallet-shutdown-2.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T17:02:47"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5df7a99bcc921212ec004cc48e5fe4a959b18bcd-1420x916.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T14:47:27"
@@ -110,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/ledger-nano-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T15:30:36"
@@ -158,18 +158,18 @@
    "published_at": "2026-10-10T01:45:31"
   },
   {
-   "id": 5851,
+   "id": 6056,
    "k": "web3",
    "cat": "Web3",
-   "t": "Santiment Melihat Potensi Reli Jangka Panjang di Pertumbuhan Jaringan Solana Sebesar 124%",
-   "x": "Pertumbuhan jaringan Solana (SOL) melonjak 124% sejak awal September, menurut data Santiment. Firma analitik ini mengaitkan pertumbuhan tersebut dengan prospek bullish jangka panjang, di mana sekarang ada sekitar 1,71…",
+   "t": "Pasokan 100 Miliar XRP Hampir Tembus karena Bug 10 Tahun",
+   "x": "Sebuah bug di XRP Ledger bisa saja mencetak XRP dari nol. Ripple merilis perbaikan darurat yang melewati pemungutan suara validator.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pertumbuhan-jaringan-solana-etf-outflow",
-   "img": "https://assets.beincrypto.com/img/oTqG3NRliRWbwpcSCvdk8f0XyKU=/smart/3d05a1b6b59f476a893b39cb9ddde28b",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/bug-xrp-ledger-buat-xrp-berhasil-diperbaiki",
+   "img": "https://assets.beincrypto.com/img/Z25ZyW9kgVgVU_YeP8qcJbiHnwU=/smart/220e70faa5834d7fbca0841be945b7c3",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-08T10:24:29"
+   "published_at": "2026-10-10T06:33:43"
   },
   {
    "id": 5914,
@@ -184,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-08T18:40:23"
-  },
-  {
-   "id": 6056,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pasokan 100 Miliar XRP Hampir Tembus karena Bug 10 Tahun",
-   "x": "Sebuah bug di XRP Ledger bisa saja mencetak XRP dari nol. Ripple merilis perbaikan darurat yang melewati pemungutan suara validator.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bug-xrp-ledger-buat-xrp-berhasil-diperbaiki",
-   "img": "https://assets.beincrypto.com/img/Z25ZyW9kgVgVU_YeP8qcJbiHnwU=/smart/220e70faa5834d7fbca0841be945b7c3",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-10T06:33:43"
   },
   {
    "id": 5950,
