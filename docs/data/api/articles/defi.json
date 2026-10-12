@@ -1,63 +1,21 @@
 {
- "total": 5,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 5997,
+   "id": 6201,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Likuiditas terkunci tak hentikan pengurasan pool kripto $14 juta",
-   "x": "Sebuah pool kripto senilai $14 juta mengalami pengurasan dana meskipun likuiditasnya terkunci. Hal ini terjadi karena adanya izin token yang melewati bukti LP yang dibakar, menunjukkan celah keamanan yang perlu diwaspadai investor.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/pancakeswap-locked-liquidity-exploit.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-09T14:40:46"
-  },
-  {
-   "id": 5951,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Putra Joe Biden bongkar penyebab keruntuhan meme coin LAPTOP",
-   "x": "Hunter Biden mengungkapkan bahwa likuiditas tipis dan aksi ambil untung oleh market maker menjadi penyebab utama ambruknya meme coin LAPTOP. Keruntuhan ini menunjukkan volatilitas tinggi pada aset kripto jenis meme coin.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/putra-joe-biden-bongkar-penyebab-keruntuhan-meme-coin-laptop",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-09T07:00:00"
-  },
-  {
-   "id": 5933,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "1 dari 5 Dolar Pajak AS Kini untuk Membayar Bunga dan Imbal Hasil Terus Naik",
-   "x": "Bunga utang AS kini mengambil lebih dari 1 dari 5 dolar pajak, dan lonjakan yield tertinggi dalam 24 tahun terakhir belum sepenuhnya mempengaruhi anggaran.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/biaya-bunga-as-dolar-pajak-yield",
-   "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-09T03:26:43"
-  },
-  {
-   "id": 6154,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Sui Foundation investasikan $30 juta pada DATA Network saat protokol data AI migrasi ke Sui",
-   "x": "Sui Foundation mengucurkan dana signifikan untuk DATA Network yang akan beroperasi secara native di blockchain Sui. Migrasi ini diharapkan meningkatkan kapabilitas protokol data AI dan memperluas ekosistem Sui.",
+   "t": "Pengembangan DeFi tingkatkan kepemilikan SOL 12%, CHAD capai rekor",
+   "x": "Pengembangan DeFi berhasil meningkatkan kepemilikan token SOL secara signifikan. Kenaikan ini menunjukkan pertumbuhan ekosistem DeFi dan potensi aset digital terkait.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241118_Sui_News.jpg",
-   "a": "5 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T02:00:00"
+   "published_at": "2026-10-12T14:53:25"
   },
   {
    "id": 6157,
@@ -68,10 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-defi-lending.webp",
-   "a": "5 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T02:00:47"
+  },
+  {
+   "id": 6154,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Sui Foundation investasikan $30 juta pada DATA Network saat protokol data AI migrasi ke Sui",
+   "x": "Sui Foundation mengucurkan dana signifikan untuk DATA Network yang akan beroperasi secara native di blockchain Sui. Migrasi ini diharapkan meningkatkan kapabilitas protokol data AI dan memperluas ekosistem Sui.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241118_Sui_News.jpg",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T02:00:00"
   }
  ]
 }

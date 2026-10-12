@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 24,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-10-11T02:30:13"
   },
   {
-   "id": 5930,
+   "id": 6167,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Mengapa Saylor Menyebut Klaim SpaceX Tergila Musk “₿ullish”",
-   "x": "Michael Saylor menyebut visi SpaceX 100x dari Musk sebagai bullish karena Strategy memimpin semua perusahaan dalam nilai saham ter-tokenisasi dengan $491 juta on-chain.",
+   "t": "Apakah Investasi Berlian Layak Seperti Emas dan Perak?",
+   "x": "Emas naik dua kali lipat dan perak naik sejak 2011 sementara harga berlian turun 70%. Lihat alasan pabrik memecah berlian dan berapa harga cincin saat ini.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/strategi-saylor-saham-tokenisasi-spacex",
-   "img": "https://assets.beincrypto.com/img/BmGucomi9JzNV54BoJxkpCs9JtM=/smart/cd9f8ff24bf34b3f89963f8513d385d9",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/analisis-investasi-berlian-perbandingan-emas-perak",
+   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-09T07:08:59"
+   "published_at": "2026-10-12T15:00:25"
   },
   {
    "id": 6114,
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T17:11:03"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png",
-   "a": "1 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T06:30:21"
@@ -82,38 +82,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a1cc4ecb548aa7f3f0c05e51784af125e119c5bd-2048x1380.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T13:00:00"
   },
   {
-   "id": 5978,
+   "id": 6206,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Jesse Pollak: ekuitas dan stablecoin non-dolar pimpin siklus tokenisasi",
-   "x": "Jesse Pollak, pencipta Base, memprediksi ekuitas dan stablecoin non-dolar akan mendorong siklus tokenisasi berikutnya. Peluncuran saham tokenisasi di Base mencatat volume perdagangan harian yang signifikan.",
+   "t": "Standard Chartered luncurkan kustodi untuk RLUSD Ripple di XRP Ledger",
+   "x": "Standard Chartered kini menyediakan layanan kustodi untuk stablecoin RLUSD milik Ripple di XRP Ledger. Kemitraan ini memungkinkan institusi menggunakan RLUSD sebagai jaminan untuk produk LMAX.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/jesse_pollak_base_1920x1080.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T13:12:57"
-  },
-  {
-   "id": 6004,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Tokenisasi Kian Masif, IMF Wanti-wanti Risiko Leverage dan Efek Domino",
-   "x": "Dana Moneter Internasional (IMF) menyoroti potensi besar tokenisasi aset dunia nyata, namun juga memperingatkan risiko likuiditas dan leverage yang dapat memicu efek domino di pasar keuangan global.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/tokenisasi-kian-masif-imf-wanti-wanti-risiko-leverage-dan-efek-domino",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-09T08:00:19"
+   "published_at": "2026-10-12T09:35:21"
   },
   {
    "id": 6080,
@@ -130,18 +116,18 @@
    "published_at": "2026-10-10T18:37:35"
   },
   {
-   "id": 5996,
+   "id": 6219,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Penipu SIM-Swap yang habiskan kripto curian untuk emas dan liburan Dubai dipenjara",
-   "x": "Seorang pelaku kejahatan siber divonis penjara karena mencuri hampir $265.000 aset kripto melalui peretasan nomor telepon. Kasus ini menyoroti risiko keamanan bagi pengguna aset digital.",
+   "t": "Bitmine tambah Ethereum senilai $32 juta, Tom Lee sebut perusahaan hampir 'selesai menimbun'",
+   "x": "Perusahaan treasury Ethereum, Bitmine, menambah kepemilikan Ethereum hingga 6,03 juta koin, sekitar 4,9% dari total pasokan. Analis Tom Lee memprediksi ini sebagai persiapan untuk pasar bullish kripto terbesar.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T08:59:31"
+   "published_at": "2026-10-12T13:33:28"
   },
   {
    "id": 6128,
@@ -152,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-yield-collateral-markets-reveal-a-thin-cushion-before-liquidation",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-liquidation-balance.webp",
-   "a": "11 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T20:00:33"
@@ -180,10 +166,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/da869b6d20769064b581c36b54624fe52be0dfbb-1500x913.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T12:00:00"
+  },
+  {
+   "id": 6204,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Evernorth tunjuk mantan eksekutif Coinbase pimpin kas 473 juta XRP jelang debut Nasdaq",
+   "x": "Evernorth menunjuk mantan eksekutif Coinbase untuk mengelola cadangan XRP mereka yang besar, sebagai persiapan sebelum listing di Nasdaq. Perusahaan berencana memanfaatkan kepemilikan XRP untuk strategi pinjaman dan penyediaan likuiditas.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_XRP_News_2.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T12:01:02"
   },
   {
    "id": 6097,
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-bank-kerugian-obligasi-kekhawatiran-svb",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T09:22:47"
@@ -208,38 +208,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/secs-tokenized-stock-exemption-leaves-key-price-feed-choices-to-venues",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-tokenized-stock-price-feeds.webp",
-   "a": "16 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T15:00:49"
   },
   {
-   "id": 5959,
+   "id": 6192,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "ESMA cari bukti agunan tokenisasi bisa dicairkan saat krisis",
-   "x": "Otoritas pasar modal Eropa (ESMA) meminta masukan industri mengenai risiko likuiditas dan operasional agunan yang ditokenisasi. Tujuannya untuk menilai apakah diperlukan regulasi tambahan di Uni Eropa.",
+   "t": "Saham treasury XRP Evernorth naik 5% saat pembukaan Nasdaq",
+   "x": "Saham Evernorth, treasury aset digital XRP pertama, mengalami kenaikan saat debut di Nasdaq. Hal ini menandakan minat investor terhadap instrumen investasi baru yang terkait aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R2M78QA8KZ200MJ7SRZ0MQ/hi-how-xrps-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T10:49:24"
+   "published_at": "2026-10-12T14:18:49"
   },
   {
-   "id": 5942,
+   "id": 6180,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "XRP Ledger Tambah Kontrol untuk Bank, Stablecoin, dan Dana Tokenisasi",
+   "t": "Obligasi bencana ter-tokenisasi targetkan celah asuransi bencana",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
+   "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/37bb2f8eb17a1b00a05270229b4bac048a930f82-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T04:21:36"
+   "published_at": "2026-10-12T15:00:00"
+  },
+  {
+   "id": 6205,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Morgan Stanley Prediksi Dukung Saham Tokenisasi Kuartal I 2027",
+   "x": "Morgan Stanley sedang membangun infrastruktur untuk mendukung tokenisasi aset ekuitas di masa depan. Langkah ini menunjukkan kesiapan institusi keuangan tradisional untuk mengadopsi aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/amy_oldenburg_morgan_stanley_1920x1080.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T10:10:13"
   },
   {
    "id": 6113,
@@ -250,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kartu-pokemon-mengungguli-bitcoin-emas-sp500",
    "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T13:48:41"
@@ -270,18 +284,60 @@
    "published_at": "2026-10-09T20:39:17"
   },
   {
-   "id": 5974,
+   "id": 6181,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Ray Dalio Peringatkan Saham Mulai Kehilangan Penyangga, dan Yang Terburuk Mungkin Masih di Depan",
-   "x": "Investor miliarder Ray Dalio mengatakan bahwa penyangga yang melindungi saham dari kenaikan yield obligasi semakin menipis dengan cepat. Peringatannya muncul ketika yield Treasury 10 tahun AS melayang di dekat level…",
+   "t": "Standard Chartered Tawarkan Kustodian RLUSD di Dubai",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T12:09:09"
+  },
+  {
+   "id": 6173,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitwise CIO Urutkan 4 Aset Kripto untuk Pertumbuhan Jangka Panjang, Dimulai dengan Bitcoin",
+   "x": "Chief Investment Officer (CIO) Bitwise, Matt Hougan, mengatakan bahwa Bitcoin bisa mencapai ratusan ribu US$ jika portofolio tradisional mulai mengalihkan alokasi mereka ke Bitcoin dan emas. Pernyataan ini dilandaskan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ray-dalio-saham-imbal-hasil-obligasi-bantalan-menyusut",
-   "img": "https://assets.beincrypto.com/img/Wy3FbzY2y631aXDkp0KigikACyE=/smart/a6c9049fbee54768a8285a04829dff0f",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/bitwise-cio-empat-kripto-pertumbuhan-jangka-panjang",
+   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-09T09:58:07"
+   "published_at": "2026-10-12T10:44:00"
+  },
+  {
+   "id": 6198,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Standard Chartered tambah kustodi Ripple USD, incar kesepakatan jaminan LMAX",
+   "x": "Standard Chartered meluncurkan layanan kustodi untuk stablecoin RLUSD Ripple di XRP Ledger dan berencana memfasilitasi penggunaan token tersebut sebagai jaminan perdagangan bagi institusi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QN28R2EHW4F96B10PK4FS6/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know-1.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T09:30:57"
+  },
+  {
+   "id": 6184,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Pengawas keuangan global minta berbagi informasi lintas batas, siapkan krisis stablecoin",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/1a69f4a4dc7580b072baf69f08a84b53c0b7799e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T11:02:38"
   }
  ]
 }
