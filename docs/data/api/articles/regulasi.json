@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bill-gates-serangan-siber-ai-tahun-depan",
    "img": "https://assets.beincrypto.com/img/LIL_HVmaw9NYrrkqNyTFcF3GIYo=/smart/eab53cd32793438dbccbbcd10b89397c",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T07:15:09"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/frances-tax-proposal-would-make-bitcoin-to-usdc-swaps-taxable-before-cash-out",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-taxed-investor.webp",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T15:20:19"
@@ -54,24 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T20:14:02"
   },
   {
-   "id": 6023,
+   "id": 6072,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Anak Usaha DWF Labs Gugat BitGo Rp2,1 Triliun",
-   "x": "Perusahaan terafiliasi DWF Labs menuduh BitGo menjual token diskon sebelum masa penguncian berakhir, yang menyebabkan penurunan nilai aset mereka. Gugatan ini menyoroti potensi perselisihan dalam penjualan token awal.",
+   "t": "Komite Prancis dukung pajak swap stablecoin dan pajak keluar kripto",
+   "x": "Sebuah komite Majelis Nasional Prancis menyetujui amandemen yang mengenakan pajak atas pertukaran stablecoin dan aset kripto bagi pemegang besar. Namun, komite tersebut kemudian menolak bagian pendapatan dari anggaran 2027.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T16:08:23"
+   "published_at": "2026-10-10T13:01:03"
   },
   {
    "id": 6096,
@@ -102,18 +102,18 @@
    "published_at": "2026-10-10T15:15:51"
   },
   {
-   "id": 6028,
+   "id": 6076,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pemeriksaan keamanan Ethereum bisa loloskan perdagangan buruk",
-   "x": "Usulan pemeriksaan keamanan Ethereum dapat memperluas pengecekan hasil transaksi. Namun, batasan finansial yang berarti harus datang dari kebijakan yang tidak bisa dilemahkan oleh pembuat transaksi.",
+   "t": "Gugatan pemegang saham Coinbase terkait klaim era Delaware ditolak",
+   "x": "Pengadilan menolak gugatan pemegang saham terhadap Coinbase terkait klaim yang berasal dari era Delaware. Keputusan ini menekankan perlunya permintaan tertulis kepada dewan direksi sebelum mengajukan tuntutan hukum.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-transaction-safety-checks.webp",
+   "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-delaware-texas-transition.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T18:00:42"
+   "published_at": "2026-10-10T14:00:52"
   },
   {
    "id": 6094,
@@ -130,20 +130,6 @@
    "published_at": "2026-10-11T07:44:51"
   },
   {
-   "id": 6072,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Komite Prancis dukung pajak swap stablecoin dan pajak keluar kripto",
-   "x": "Sebuah komite Majelis Nasional Prancis menyetujui amandemen yang mengenakan pajak atas pertukaran stablecoin dan aset kripto bagi pemegang besar. Namun, komite tersebut kemudian menolak bagian pendapatan dari anggaran 2027.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-10T13:01:03"
-  },
-  {
    "id": 6112,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -158,18 +144,18 @@
    "published_at": "2026-10-11T14:13:51"
   },
   {
-   "id": 6076,
+   "id": 6210,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Gugatan pemegang saham Coinbase terkait klaim era Delaware ditolak",
-   "x": "Pengadilan menolak gugatan pemegang saham terhadap Coinbase terkait klaim yang berasal dari era Delaware. Keputusan ini menekankan perlunya permintaan tertulis kepada dewan direksi sebelum mengajukan tuntutan hukum.",
+   "t": "Uni Eropa targetkan celah MiCA yang izinkan bursa kripto layani 27 negara",
+   "x": "Uni Eropa berupaya menutup celah regulasi MiCA yang memungkinkan bursa kripto beroperasi di banyak negara dengan satu lisensi. Langkah ini penting untuk kepatuhan dan pengawasan pasar kripto di kawasan tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-delaware-texas-transition.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-crypto-passport.webp",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-10T14:00:52"
+   "published_at": "2026-10-12T13:20:55"
   },
   {
    "id": 6037,
@@ -184,20 +170,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T00:09:51"
-  },
-  {
-   "id": 6210,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Uni Eropa targetkan celah MiCA yang izinkan bursa kripto layani 27 negara",
-   "x": "Uni Eropa berupaya menutup celah regulasi MiCA yang memungkinkan bursa kripto beroperasi di banyak negara dengan satu lisensi. Langkah ini penting untuk kepatuhan dan pengawasan pasar kripto di kawasan tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-crypto-passport.webp",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T13:20:55"
   }
  ]
 }
