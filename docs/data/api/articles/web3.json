@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T13:00:03"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/apakah-ada-hardware-wallet-yang-aman-2026",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T23:50:00"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berkaca-pada-insiden-drainer-ledger-adakah-cara-lebih-aman-menyimpan-kripto",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T07:00:22"
@@ -130,18 +130,18 @@
    "published_at": "2026-10-10T10:55:20"
   },
   {
-   "id": 5922,
+   "id": 6156,
    "k": "web3",
    "cat": "Web3",
-   "t": "Rencana kecepatan geografis Solana andalkan lokasi validator yang tak terverifikasi",
-   "x": "Proposal Solana untuk meningkatkan kecepatan melalui lokasi validator geografis memiliki risiko. Rencana ini mengandalkan lokasi validator yang jaringannya tidak dapat diverifikasi secara independen.",
+   "t": "Implan tak sah di wallet Ledger picu celah keamanan",
+   "x": "Ledger mengonfirmasi adanya implan perangkat keras tidak sah pada salah satu dompet digital pelanggannya. Insiden ini terjadi di tengah perkiraan kerugian aset kripto mencapai US$93,2 juta akibat pencurian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-geographic-leader-scheduling.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/ledger-confirms-hidden-implant-in-crypto-wallet-as-93-million-theft-investigation-widens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cryptobilis-wallet-route-trace.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T00:00:53"
+   "published_at": "2026-10-12T06:00:34"
   },
   {
    "id": 6048,
@@ -152,10 +152,52 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/dompet-kripto-ledger-disusupi-alat-pengintai-eks-bos-mt-gox-ungkap-temuan",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T01:45:31"
+  },
+  {
+   "id": 6147,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "4.393 ETH dari Wallet Terkait Ethereum Foundation Masuk Kraken: Dump atau Transaksi Rutin?",
+   "x": "Dua wallet yang terhubung dengan Ethereum Foundation mengirim 4.393 ETH ke Kraken, memperpanjang tren selama satu dekade. Berikut yang kami ketahui.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/dompet-terkait-ethereum-foundation-4393-eth",
+   "img": "https://assets.beincrypto.com/img/NolNrSbSjrX83UW2zeC664XckQk=/smart/2465a0f2e5de42028637e2a702354e98",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-12T02:05:08"
+  },
+  {
+   "id": 5950,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Penutupan Abstract Ungkap Kendala Akses Aset Digital",
+   "x": "Penutupan Abstract pada 15 Desember menyoroti tantangan bagi pemegang aset digital untuk memindahkan dana mereka. Ini menekankan pentingnya aksesibilitas dan penyelesaian transaksi yang lancar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/abstract-migration-routes.webp",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-09T02:00:05"
+  },
+  {
+   "id": 6160,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pencuri kripto diincar bot penipu saat pindahkan dana",
+   "x": "Seorang pencuri aset kripto menjadi korban penipuan baru saat mencoba memindahkan hasil curiannya. Bot penipu menggunakan teknik 'address poisoning' untuk mengincar dompet digital pelaku.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kocak-pencuri-kripto-malah-diincar-bot-penipu-saat-pindahkan-dana",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T03:00:05"
   },
   {
    "id": 5971,
@@ -172,18 +214,18 @@
    "published_at": "2026-10-09T11:57:47"
   },
   {
-   "id": 5950,
+   "id": 6162,
    "k": "web3",
    "cat": "Web3",
-   "t": "Penutupan Abstract Ungkap Kendala Akses Aset Digital",
-   "x": "Penutupan Abstract pada 15 Desember menyoroti tantangan bagi pemegang aset digital untuk memindahkan dana mereka. Ini menekankan pentingnya aksesibilitas dan penyelesaian transaksi yang lancar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/abstract-migration-routes.webp",
-   "a": "2 hari lalu",
+   "t": "Kripto Hari Ini 12 Oktober 2026: ZK, TIA, INJ, ARB dan GALA Memanas, Siap Melejit?",
+   "x": "Analisis pasar aset kripto hari ini menyoroti potensi pergerakan naik untuk ZK, TIA, INJ, ARB, dan GALA. Investor perlu mencermati level kunci yang dapat memicu kenaikan harga signifikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kripto-hari-ini-12-oktober-2026-zk-tia-inj-arb-dan-gala-memanas-siap-melejit",
+   "img": null,
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T02:00:05"
+   "published_at": "2026-10-12T02:00:08"
   },
   {
    "id": 6056,
@@ -194,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bug-xrp-ledger-buat-xrp-berhasil-diperbaiki",
    "img": "https://assets.beincrypto.com/img/Z25ZyW9kgVgVU_YeP8qcJbiHnwU=/smart/220e70faa5834d7fbca0841be945b7c3",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T06:33:43"

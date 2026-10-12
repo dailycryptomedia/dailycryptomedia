@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/putra-joe-biden-bongkar-penyebab-keruntuhan-meme-coin-laptop",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-09T07:00:00"
@@ -40,10 +40,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-bunga-as-dolar-pajak-yield",
    "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-09T03:26:43"
+  },
+  {
+   "id": 6154,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Sui Foundation investasikan $30 juta pada DATA Network saat protokol data AI migrasi ke Sui",
+   "x": "Sui Foundation mengucurkan dana signifikan untuk DATA Network yang akan beroperasi secara native di blockchain Sui. Migrasi ini diharapkan meningkatkan kapabilitas protokol data AI dan memperluas ekosistem Sui.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241118_Sui_News.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T02:00:00"
+  },
+  {
+   "id": 6157,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Rencana rollover USDG Aave tawarkan imbal hasil di bawah suku bunga pinjaman",
+   "x": "Rencana Aave untuk mengganti USDG dengan token baru menawarkan imbal hasil yang lebih rendah dibandingkan suku bunga pinjaman yang ada. Hal ini menimbulkan pertanyaan mengenai daya tarik skema baru tersebut bagi pengguna.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-defi-lending.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T02:00:47"
   }
  ]
 }
