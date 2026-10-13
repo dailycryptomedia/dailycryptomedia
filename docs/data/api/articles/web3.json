@@ -26,24 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/apakah-ada-hardware-wallet-yang-aman-2026",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T23:50:00"
   },
   {
-   "id": 6033,
+   "id": 6156,
    "k": "web3",
    "cat": "Web3",
-   "t": "Tether bekukan $1,4 juta di brankas TRON dan THORChain terhenti",
-   "x": "Tether membekukan aset senilai $1,4 juta di TRON setelah beberapa brankasnya masuk daftar hitam. Insiden ini menyoroti kontrol penerbit stablecoin atas dana di infrastruktur terdesentralisasi.",
+   "t": "Implan tak sah di wallet Ledger picu celah keamanan",
+   "x": "Ledger mengonfirmasi adanya implan perangkat keras tidak sah pada salah satu dompet digital pelanggannya. Insiden ini terjadi di tengah perkiraan kerugian aset kripto mencapai US$93,2 juta akibat pencurian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-unfreeze-thorchain-swaps.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/ledger-confirms-hidden-implant-in-crypto-wallet-as-93-million-theft-investigation-widens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cryptobilis-wallet-route-trace.webp",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-09T23:30:53"
+   "published_at": "2026-10-12T06:00:34"
   },
   {
    "id": 6064,
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T16:32:17"
@@ -88,32 +88,32 @@
    "published_at": "2026-10-10T10:55:20"
   },
   {
-   "id": 6156,
+   "id": 6212,
    "k": "web3",
    "cat": "Web3",
-   "t": "Implan tak sah di wallet Ledger picu celah keamanan",
-   "x": "Ledger mengonfirmasi adanya implan perangkat keras tidak sah pada salah satu dompet digital pelanggannya. Insiden ini terjadi di tengah perkiraan kerugian aset kripto mencapai US$93,2 juta akibat pencurian.",
+   "t": "Dompet Solana uji alamat palsu dengan $10, lalu kirim $30.750",
+   "x": "Sebuah dompet Solana melakukan uji coba pengiriman dana kecil ke alamat yang salah, yang kemudian diikuti dengan pengiriman dana besar ke alamat yang sama. Insiden ini menyoroti pentingnya kehati-hatian dalam transaksi aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ledger-confirms-hidden-implant-in-crypto-wallet-as-93-million-theft-investigation-widens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cryptobilis-wallet-route-trace.webp",
-   "a": "17 jam lalu",
+   "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T06:00:34"
+   "published_at": "2026-10-12T10:55:03"
   },
   {
-   "id": 6048,
+   "id": 6265,
    "k": "web3",
    "cat": "Web3",
-   "t": "Dompet kripto Ledger disusupi alat pengintai? Eks bos Mt. Gox ungkap temuan",
-   "x": "Dompet kripto Ledger diduga dilengkapi modul LTE tersembunyi yang berpotensi membocorkan recovery phrase. Temuan ini menimbulkan kekhawatiran baru terkait keamanan penyimpanan aset digital.",
+   "t": "Kasus Ledger meluas, OneKey putus hubungan dengan CryptoBilis",
+   "x": "Menyusul kasus keamanan Ledger, dompet kripto OneKey menghentikan kerja sama dengan reseller CryptoBilis. OneKey juga menawarkan penggantian dompet gratis bagi pengguna yang terdampak.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/dompet-kripto-ledger-disusupi-alat-pengintai-eks-bos-mt-gox-ungkap-temuan",
+   "url": "https://blockchainmedia.id/kasus-ledger-makin-panas-onekey-putus-hubungan-dengan-cryptobilis-dan-ganti-dompet-gratis",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-10T01:45:31"
+   "published_at": "2026-10-13T01:30:51"
   },
   {
    "id": 6169,
@@ -124,38 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/proof-of-weight-hardware-wallet-yang-telah-dimanipulasi",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T13:41:12"
   },
   {
-   "id": 6212,
+   "id": 6048,
    "k": "web3",
    "cat": "Web3",
-   "t": "Dompet Solana uji alamat palsu dengan $10, lalu kirim $30.750",
-   "x": "Sebuah dompet Solana melakukan uji coba pengiriman dana kecil ke alamat yang salah, yang kemudian diikuti dengan pengiriman dana besar ke alamat yang sama. Insiden ini menyoroti pentingnya kehati-hatian dalam transaksi aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T10:55:03"
-  },
-  {
-   "id": 6160,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pencuri kripto diincar bot penipu saat pindahkan dana",
-   "x": "Seorang pencuri aset kripto menjadi korban penipuan baru saat mencoba memindahkan hasil curiannya. Bot penipu menggunakan teknik 'address poisoning' untuk mengincar dompet digital pelaku.",
+   "t": "Dompet kripto Ledger disusupi alat pengintai? Eks bos Mt. Gox ungkap temuan",
+   "x": "Dompet kripto Ledger diduga dilengkapi modul LTE tersembunyi yang berpotensi membocorkan recovery phrase. Temuan ini menimbulkan kekhawatiran baru terkait keamanan penyimpanan aset digital.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kocak-pencuri-kripto-malah-diincar-bot-penipu-saat-pindahkan-dana",
+   "url": "https://blockchainmedia.id/dompet-kripto-ledger-disusupi-alat-pengintai-eks-bos-mt-gox-ungkap-temuan",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T03:00:05"
+   "published_at": "2026-10-10T01:45:31"
   },
   {
    "id": 6147,
@@ -166,24 +152,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dompet-terkait-ethereum-foundation-4393-eth",
    "img": "https://assets.beincrypto.com/img/NolNrSbSjrX83UW2zeC664XckQk=/smart/2465a0f2e5de42028637e2a702354e98",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T02:05:08"
   },
   {
-   "id": 6162,
+   "id": 6160,
    "k": "web3",
    "cat": "Web3",
-   "t": "Kripto Hari Ini 12 Oktober 2026: ZK, TIA, INJ, ARB dan GALA Memanas, Siap Melejit?",
-   "x": "Analisis pasar aset kripto hari ini menyoroti potensi pergerakan naik untuk ZK, TIA, INJ, ARB, dan GALA. Investor perlu mencermati level kunci yang dapat memicu kenaikan harga signifikan.",
+   "t": "Pencuri kripto diincar bot penipu saat pindahkan dana",
+   "x": "Seorang pencuri aset kripto menjadi korban penipuan baru saat mencoba memindahkan hasil curiannya. Bot penipu menggunakan teknik 'address poisoning' untuk mengincar dompet digital pelaku.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-hari-ini-12-oktober-2026-zk-tia-inj-arb-dan-gala-memanas-siap-melejit",
+   "url": "https://blockchainmedia.id/kocak-pencuri-kripto-malah-diincar-bot-penipu-saat-pindahkan-dana",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T02:00:08"
+   "published_at": "2026-10-12T03:00:05"
   },
   {
    "id": 6056,
@@ -198,6 +184,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-10T06:33:43"
+  },
+  {
+   "id": 6162,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Kripto Hari Ini 12 Oktober 2026: ZK, TIA, INJ, ARB dan GALA Memanas, Siap Melejit?",
+   "x": "Analisis pasar aset kripto hari ini menyoroti potensi pergerakan naik untuk ZK, TIA, INJ, ARB, dan GALA. Investor perlu mencermati level kunci yang dapat memicu kenaikan harga signifikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kripto-hari-ini-12-oktober-2026-zk-tia-inj-arb-dan-gala-memanas-siap-melejit",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T02:00:08"
   }
  ]
 }

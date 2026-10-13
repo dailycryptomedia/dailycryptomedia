@@ -1,5 +1,5 @@
 {
- "total": 45,
+ "total": 48,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/seberapa-cepat-bitcoin-kembali-ke-harga-tertinggi-sepanjang-masa",
    "img": "https://assets.beincrypto.com/img/9OhP96JHTLdSn1dy6Mzz4ZeCovc=/smart/4c44710376bf4ad3adb6b44ac56c4977",
-   "a": "28 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T23:13:49"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RDF575PMBMW4PWHAG2HK59/cook-pan-mining-electricity-electric-consumption-energy-earth-globe-world.jpg",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T16:51:05"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-indonesia-soroti-daya-beli-data-bi-ungkap-fakta-menarik",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T02:30:31"
@@ -74,6 +74,20 @@
    "published_at": "2026-10-10T16:01:04"
   },
   {
+   "id": 6260,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin whale pindahkan US$378 juta setelah enam tahun tidak aktif",
+   "x": "Sebuah dompet Bitcoin yang tidak aktif selama enam tahun tiba-tiba memindahkan aset senilai US$378 juta. Pergerakan dana besar ini memicu spekulasi di pasar aset kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Whale_News_2.jpg",
+   "a": "41 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T04:18:30"
+  },
+  {
    "id": 6038,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -86,20 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T05:43:00"
-  },
-  {
-   "id": 6203,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Michael Saylor beli lagi 250 bitcoin senilai $21,5 juta, total jadi 848.250 BTC",
-   "x": "Perusahaan investasi Strategy kembali menambah kepemilikan Bitcoin mereka, kini mencapai 848.250 BTC atau sekitar 4% dari total pasokan. Pembelian ini menegaskan strategi akumulasi aset digital perusahaan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/strategy-1.png",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T12:13:45"
   },
   {
    "id": 6110,
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RB17YHE9XP8RNRDSEGNYJY/oil-bitcoin-petrol-2-960x640.webp",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T16:30:21"
@@ -172,18 +172,32 @@
    "published_at": "2026-10-11T16:01:03"
   },
   {
-   "id": 6057,
+   "id": 6261,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Satu tahun pasca-crash kilat, likuiditas bitcoin dan ether pulih",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bd4136eea24ebe8a86327e7c5d5d312e7b538823-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "t": "Bitcoin anjlok di bawah US$82.000 seiring likuidasi kripto tembus US$770 juta",
+   "x": "Harga Bitcoin turun di bawah US$82.000 akibat lonjakan likuidasi aset kripto yang mencapai US$770 juta. Sebagian besar likuidasi berasal dari posisi long.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-10T12:00:00"
+   "published_at": "2026-10-13T01:57:49"
+  },
+  {
+   "id": 6259,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin rebound di atas US$83.000, lepas dari saham Korea dan Nasdaq",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/4fc215c16d984306b203a2148546a2afc8f4ba6d-2168x1094.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "41 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T04:18:20"
   },
   {
    "id": 6095,
@@ -208,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-bitcoin-fee-defense.webp",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T16:20:36"
@@ -222,7 +236,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T14:07:00"
@@ -236,7 +250,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jejak-whale-bitcoin-di-binance-berubah-drastis-sinyal-jual-mulai-redup",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T01:30:45"
@@ -250,24 +264,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T12:39:35"
   },
   {
-   "id": 6059,
+   "id": 6203,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin $19 miliar: Pelajaran setahun pasca-crash kilat",
+   "t": "Michael Saylor beli lagi 250 bitcoin senilai $21,5 juta, total jadi 848.250 BTC",
+   "x": "Perusahaan investasi Strategy kembali menambah kepemilikan Bitcoin mereka, kini mencapai 848.250 BTC atau sekitar 4% dari total pasokan. Pembelian ini menegaskan strategi akumulasi aset digital perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/strategy-1.png",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T12:13:45"
+  },
+  {
+   "id": 6057,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Satu tahun pasca-crash kilat, likuiditas bitcoin dan ether pulih",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/564d4c8495b94d94a0db2e6e7301c2e2029243ca-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/bd4136eea24ebe8a86327e7c5d5d312e7b538823-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-10T11:00:00"
+   "published_at": "2026-10-10T12:00:00"
   },
   {
    "id": 6168,
@@ -278,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-pasokan-tetap-pertumbuhan-utang-gelembung",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T13:49:39"
@@ -320,24 +348,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T11:41:50"
   },
   {
-   "id": 6165,
+   "id": 6059,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tahan outflow ETF, tembus $84.000 saat minyak turun",
+   "t": "Bitcoin $19 miliar: Pelajaran setahun pasca-crash kilat",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/564d4c8495b94d94a0db2e6e7301c2e2029243ca-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T04:49:30"
+   "published_at": "2026-10-10T11:00:00"
   },
   {
    "id": 6231,
@@ -348,7 +376,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dolar-as-18-bulan-tertinggi-bitcoin-saham-risiko",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T19:08:42"
@@ -376,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T12:31:51"
@@ -390,24 +418,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T10:12:48"
   },
   {
-   "id": 6183,
+   "id": 6165,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Turun di Bawah $83 Ribu Akibat Penguatan Dolar",
-   "x": "Kekuatan dolar AS menekan harga Bitcoin yang jatuh di bawah $83.000. Penguatan mata uang fiat ini membuat pasar aset kripto cenderung waspada.",
+   "t": "Bitcoin tahan outflow ETF, tembus $84.000 saat minyak turun",
+   "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3ba4d66673c79623624c737b9613317271fc97dc-1202x748.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T11:21:11"
+   "published_at": "2026-10-12T04:49:30"
   },
   {
    "id": 6172,
@@ -418,7 +446,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/microstrategy-borong-250-bitcoin-melambat",
    "img": "https://assets.beincrypto.com/img/EngM6eUBExUoSl78NAse9ofY3Ls=/smart/c426996c5a2047b9932e545bc9d62cab",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T12:06:37"
@@ -432,7 +460,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ftxs-former-bitcoin-mining-bet-gets-new-life-as-parent-raises-e800-million-for-ai",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/infrastructure-relay-handoff.webp",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T20:50:19"
@@ -446,24 +474,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T21:11:26"
   },
   {
-   "id": 6185,
+   "id": 6183,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Korea Selatan catat pinjaman bank tradisional pertama pakai bitcoin",
-   "x": "",
+   "t": "Bitcoin Turun di Bawah $83 Ribu Akibat Penguatan Dolar",
+   "x": "Kekuatan dolar AS menekan harga Bitcoin yang jatuh di bawah $83.000. Penguatan mata uang fiat ini membuat pasar aset kripto cenderung waspada.",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3ba4d66673c79623624c737b9613317271fc97dc-1202x748.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T10:57:37"
+   "published_at": "2026-10-12T11:21:11"
   },
   {
    "id": 6066,
@@ -488,7 +516,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-climb-resistance-pressure.webp",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T14:20:51"
@@ -502,24 +530,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QKGRPPCEHYJ6JB01H5VKKA/south-korea-bank.png",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T08:45:58"
   },
   {
-   "id": 6186,
+   "id": 6185,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "SWI raih $894 juta untuk ubah penambang bitcoin FTX jadi AI",
+   "t": "Korea Selatan catat pinjaman bank tradisional pertama pakai bitcoin",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ca35baafe5c46bb4b2cfe659ffd824568e1c8cbf-3072x1534.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T10:27:00"
+   "published_at": "2026-10-12T10:57:37"
   },
   {
    "id": 6145,
@@ -530,7 +558,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aliran-masuk-bitcoin-etf-mandek-ledakan-september",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T04:09:36"
@@ -562,6 +590,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T07:10:43"
+  },
+  {
+   "id": 6186,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "SWI raih $894 juta untuk ubah penambang bitcoin FTX jadi AI",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ca35baafe5c46bb4b2cfe659ffd824568e1c8cbf-3072x1534.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T10:27:00"
   },
   {
    "id": 6055,
@@ -600,7 +642,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QV9QB149QM3MET8AFPRTTX/us-inflation-3-1280x854.webp",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T11:14:10"
@@ -614,7 +656,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/arthur-hayes-flop-testnet-minggu-lagi",
    "img": "https://assets.beincrypto.com/img/IqIpj4gYBt8RbmFBJpSph95J8Lw=/smart/2af82e9462314a59bf8ba6bc75e25212",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T08:58:30"
