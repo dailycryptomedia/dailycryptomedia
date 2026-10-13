@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg",
-   "a": "35 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T19:07:04"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kasus-ledger-makin-panas-onekey-putus-hubungan-dengan-cryptobilis-dan-ganti-dompet-gratis",
    "img": null,
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T01:30:51"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/59d00b4328300a6f59837c9f073fa59e235fe5a3-1500x729.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T09:27:47"
@@ -124,24 +124,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T9QMPRVPNEKJGN3JK1R0A0/ledger-wallet-illustration.png",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T10:09:01"
   },
   {
-   "id": 6212,
+   "id": 6354,
    "k": "web3",
    "cat": "Web3",
-   "t": "Dompet Solana uji alamat palsu dengan $10, lalu kirim $30.750",
-   "x": "Sebuah dompet Solana melakukan uji coba pengiriman dana kecil ke alamat yang salah, yang kemudian diikuti dengan pengiriman dana besar ke alamat yang sama. Insiden ini menyoroti pentingnya kehati-hatian dalam transaksi aset digital.",
+   "t": "Kekhawatiran implan wallet kripto Ledger picu tindakan keras reseller Trezor",
+   "x": "Trezor membatasi reseller resminya setelah serangan terhadap Ledger mengungkap kerentanan distribusi wallet kripto. Langkah ini menunjukkan peningkatan kewaspadaan terhadap keamanan perangkat keras aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T10:55:03"
+   "published_at": "2026-10-13T20:40:49"
   },
   {
    "id": 6160,
@@ -180,10 +180,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T0Q274K3WJ08CQMV76XA89/hi-bitcoin-wallets-btc-wallet-inaccessible-1.jpg",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T08:45:10"
+  },
+  {
+   "id": 6212,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Solana uji alamat palsu dengan $10, lalu kirim $30.750",
+   "x": "Sebuah dompet Solana melakukan uji coba pengiriman dana kecil ke alamat yang salah, yang kemudian diikuti dengan pengiriman dana besar ke alamat yang sama. Insiden ini menyoroti pentingnya kehati-hatian dalam transaksi aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T10:55:03"
   },
   {
    "id": 6162,
@@ -208,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aksi-rantai-pasokan-trezor-dompet-tampered",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T14:11:33"
