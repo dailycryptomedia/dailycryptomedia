@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/tokenisasi-sbn-buka-peluang-investasi-rp10-ribu-ini-yang-disiapkan-ojk",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T02:30:06"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bill-gates-serangan-siber-ai-tahun-depan",
    "img": "https://assets.beincrypto.com/img/LIL_HVmaw9NYrrkqNyTFcF3GIYo=/smart/eab53cd32793438dbccbbcd10b89397c",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T07:15:09"
@@ -40,10 +40,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/frances-tax-proposal-would-make-bitcoin-to-usdc-swaps-taxable-before-cash-out",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-taxed-investor.webp",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T15:20:19"
+  },
+  {
+   "id": 6303,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan Inggris Putuskan Hukum Tiongkok Berlaku untuk Klaim Bitcoin Senilai $5 Miliar",
+   "x": "Pengadilan Inggris memutuskan hukum Tiongkok mengatur klaim atas 61.000 Bitcoin yang disita, membuat kepemilikan aset digital tersebut belum pasti. Keputusan ini berpotensi memengaruhi investor yang memiliki aset di yurisdiksi yang berbeda.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-12.16.27.png",
+   "a": "55 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T11:38:19"
+  },
+  {
+   "id": 6271,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korban Penipuan Tiongkok Kalah dalam Pertarungan Hukum atas 61.000 Bitcoin",
+   "x": "Korban penipuan Tiongkok yang berupaya memulihkan 61.000 Bitcoin yang disita menghadapi kemunduran hukum. Pengadilan Inggris memutuskan hukum Tiongkok berlaku untuk klaim mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T4SNJSD60QPY0XS6G5VAS3/court-law-judge-flags-uk.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T09:03:06"
   },
   {
    "id": 6072,
@@ -60,18 +88,18 @@
    "published_at": "2026-10-10T13:01:03"
   },
   {
-   "id": 6094,
+   "id": 6294,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "CFTC usulkan pemisahan pasar prediksi dari judi kasino",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengajukan dua proposal untuk membedakan pasar prediksi dari aktivitas perjudian kasino. Langkah ini bertujuan untuk memperjelas yurisdiksi federal dan negara bagian atas pasar tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
-   "a": "kemarin",
+   "t": "Putusan pengadilan Inggris tingkatkan peluang pemerintah tahan 5 miliar dolar bitcoin sitaan",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/20b32fd8cd327bc8631f52da23df84063b120957-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-11T07:44:51"
+   "published_at": "2026-10-13T09:25:03"
   },
   {
    "id": 6065,
@@ -82,7 +110,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/indonesia-bisa-punya-lebih-banyak-bursa-kripto-ini-syarat-dari-ojk",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T06:00:54"
@@ -96,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pajak-exit-kripto-prancis-gain-belum-terjual",
    "img": "https://assets.beincrypto.com/img/DY-B4IhIUYb-wQSybE_TVFx5z5w=/smart/a4aa05dd59244070b56efb02d13d73ab",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T10:24:32"
@@ -114,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-10T14:00:52"
+  },
+  {
+   "id": 6094,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "CFTC usulkan pemisahan pasar prediksi dari judi kasino",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengajukan dua proposal untuk membedakan pasar prediksi dari aktivitas perjudian kasino. Langkah ini bertujuan untuk memperjelas yurisdiksi federal dan negara bagian atas pasar tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-11T07:44:51"
   },
   {
    "id": 6078,
@@ -152,24 +194,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eu-crypto-passport.webp",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T13:20:55"
-  },
-  {
-   "id": 6037,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "DOJ Akan Selidiki Binance Lagi. Apakah Denda Lagi Bisa Menyusul?",
-   "x": "Binance sepakat membayar US$4,3 miliar untuk menyelesaikan kasus pidana di AS pada 2023. Kurang dari tiga tahun kemudian, jaksa federal kini memeriksa apakah exchange aset kripto terbesar di dunia ini melanggar…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penyidikan-doj-binance-kepatuhan-penyelesaian",
-   "img": "https://assets.beincrypto.com/img/cHVZiqFGYMY_7WAcoFx7XFi7rns=/smart/ab95a665fd754693bb419e505095a131",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-10T00:09:51"
   }
  ]
 }
