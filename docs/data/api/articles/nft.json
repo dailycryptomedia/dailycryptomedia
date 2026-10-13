@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T15:56:35"
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/XRP-token-over-a-repaired-fissure_clean.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T18:07:41"
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blur-token-cetak-rekor-terendah-penutupan-website",
    "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T08:16:47"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/3e989822cfd8a499afcd2b36040126af5d39f7d2-3026x1874.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T04:43:18"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg",
-   "a": "6 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T05:38:37"
@@ -96,10 +96,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/blur-decrypt-style-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T09:12:45"
+  },
+  {
+   "id": 6324,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Fortnite Maker Epic Games Minta Pengembang Berhenti Menulis Kode Secara Manual",
+   "x": "Rencana AI Epic Games mengakhiri kode tulisan tangan pada game shooter Marvel dan Star Wars yang tertunda. Lihat apa yang diharapkan CEO Tim Sweeney dari perubahan ini.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/epic-games-ai-tulis-kode-tangan-disney",
+   "img": "https://assets.beincrypto.com/img/QNUNoUPR6HnjQIj0G0OFGDdMIT8=/smart/b707d08c207e49a88f8a76ea797fcf05",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-13T13:31:26"
   },
   {
    "id": 6240,
@@ -110,10 +124,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/gaming-decrypt-style-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T19:46:03"
+  },
+  {
+   "id": 6331,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Peretasan PlayStation bertenaga AI bisa mainkan GTA 6 di PC saat peluncuran",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T14:51:28"
   }
  ]
 }
