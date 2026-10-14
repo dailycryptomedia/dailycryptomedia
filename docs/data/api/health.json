@@ -1,9 +1,11 @@
 {
  "status": "ok",
- "artikel_total": 6441,
- "artikel_tayang": 5735,
+ "artikel_total": 6474,
+ "artikel_tayang": 5764,
  "menit_sejak_pengambilan_terakhir": 0,
- "sumber_bermasalah": [],
- "diekspor_pada": "2026-10-14T14:16:00.320242+00:00",
+ "sumber_bermasalah": [
+  "blockchainmedia"
+ ],
+ "diekspor_pada": "2026-10-14T18:46:52.006557+00:00",
  "mode": "statis"
 }

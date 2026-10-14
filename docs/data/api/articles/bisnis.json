@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X497VFYF2ZYRYC78M441M5/hi-what-is-a-decentralized-money-market-and-kraken-1.jpg",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T12:26:05"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-14-at-14.47.06.png",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:00:00"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T18:09:15"
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-blackrock-hedge-fund-stake-kripto",
    "img": "https://assets.beincrypto.com/img/_a1F-mSslcIgtwvjRvekqXvl4UA=/smart/5aaf09f0a00a4a428dc44c73285d8d85",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T11:58:43"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:30:10"
@@ -100,6 +100,34 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T22:50:19"
+  },
+  {
+   "id": 6449,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Netflix PHK 1.000 Karyawan saat Saham Turun 40%: Apakah Titik Terendah Sudah Dekat?",
+   "x": "Netflix melakukan PHK terhadap 1.000 karyawan sebelum laporan pendapatan. Lihat siapa saja yang terdampak dan apa yang terjadi pada sahamnya setelah pemangkasan tahun 2022.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/netflix-phk-1000-pekerjaan-saham-bottom",
+   "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-14T15:00:00"
+  },
+  {
+   "id": 6452,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Apa Arti dari Akuisisi Bumble Senilai US$1,3 Miliar tentang Posisi AI terhadap Koneksi Antarmanusia",
+   "x": "Akuisisi Bumble senilai USD1,3 miliar oleh Ithaca Holdings bertumpu pada satu taruhan: saat AI membuat kecerdasan menjadi murah, koneksi manusia yang nyata justru semakin bernilai.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/akuisisi-bumble-ithaca-taruhan-ai",
+   "img": "https://assets.beincrypto.com/img/WRc4bcLPA7mhmeDGnXug6t7J-54=/smart/a006a366b9c0428b85cb7b9c85f3c10b",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-14T14:12:35"
   },
   {
    "id": 6323,

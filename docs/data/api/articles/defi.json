@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:32:14"
@@ -54,7 +54,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:07:45"
@@ -68,10 +68,52 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T14:53:25"
+  },
+  {
+   "id": 6447,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Hacker Tarik US$86.000 dalam Token Terkunci dari Vault Kripto Bersama",
+   "x": "Seorang hacker menguras $86.000 dari shared vesting pool UNCX di Ethereum, menarik token yang telah dikunci oleh proyek lain.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/eksploit-uncx-menguras-pool-vesting-token",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-14T16:51:54"
+  },
+  {
+   "id": 6440,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Interactive Brokers masuk pasar staking Ethereum senilai $110 miliar",
+   "x": "Interactive Brokers mulai menawarkan layanan staking Ethereum, merespons permintaan investor institusi yang meningkat. Hal ini menunjukkan adopsi produk DeFi oleh pemain keuangan tradisional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T09:10:03"
+  },
+  {
+   "id": 6335,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Interactive Brokers Tambah Layanan Kripto dengan Staking Ethereum via Zerohash",
+   "x": "Interactive Brokers kini menawarkan staking Ethereum kepada klien terpilih melalui platformnya. Layanan ini disediakan oleh Zerohash, memperluas pilihan investasi aset digital bagi nasabah.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/eth-ethereum-restaking-eigen.jpeg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T15:24:14"
   },
   {
    "id": 6256,
@@ -86,34 +128,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T01:31:40"
-  },
-  {
-   "id": 6440,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Interactive Brokers masuk pasar staking Ethereum senilai $110 miliar",
-   "x": "Interactive Brokers mulai menawarkan layanan staking Ethereum, merespons permintaan investor institusi yang meningkat. Hal ini menunjukkan adopsi produk DeFi oleh pemain keuangan tradisional.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T09:10:03"
-  },
-  {
-   "id": 6335,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Interactive Brokers Tambah Layanan Kripto dengan Staking Ethereum via Zerohash",
-   "x": "Interactive Brokers kini menawarkan staking Ethereum kepada klien terpilih melalui platformnya. Layanan ini disediakan oleh Zerohash, memperluas pilihan investasi aset digital bagi nasabah.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/eth-ethereum-restaking-eigen.jpeg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T15:24:14"
   },
   {
    "id": 6157,
