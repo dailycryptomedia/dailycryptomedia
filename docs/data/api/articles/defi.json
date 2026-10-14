@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kulkas-supermarket-prancis-mencapai-50-derajat",
    "img": "https://assets.beincrypto.com/img/FTzKH7dvIMioxP2foMYPJ593DjM=/smart/7ded704dc603426caba7c281876d9300",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T11:19:37"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usde-redemption-bridge-risk.webp",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T12:00:32"
@@ -40,10 +40,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:32:14"
+  },
+  {
+   "id": 6405,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Induk Kraken, Payward, jadi perusahaan kripto pertama beli bank UE",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T13:07:45"
   },
   {
    "id": 6201,
@@ -74,6 +88,34 @@
    "published_at": "2026-10-13T01:31:40"
   },
   {
+   "id": 6440,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Interactive Brokers masuk pasar staking Ethereum senilai $110 miliar",
+   "x": "Interactive Brokers mulai menawarkan layanan staking Ethereum, merespons permintaan investor institusi yang meningkat. Hal ini menunjukkan adopsi produk DeFi oleh pemain keuangan tradisional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T09:10:03"
+  },
+  {
+   "id": 6335,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Interactive Brokers Tambah Layanan Kripto dengan Staking Ethereum via Zerohash",
+   "x": "Interactive Brokers kini menawarkan staking Ethereum kepada klien terpilih melalui platformnya. Layanan ini disediakan oleh Zerohash, memperluas pilihan investasi aset digital bagi nasabah.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/eth-ethereum-restaking-eigen.jpeg",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T15:24:14"
+  },
+  {
    "id": 6157,
    "k": "defi",
    "cat": "DeFi",
@@ -88,34 +130,6 @@
    "published_at": "2026-10-12T02:00:47"
   },
   {
-   "id": 6335,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Interactive Brokers Tambah Layanan Kripto dengan Staking Ethereum via Zerohash",
-   "x": "Interactive Brokers kini menawarkan staking Ethereum kepada klien terpilih melalui platformnya. Layanan ini disediakan oleh Zerohash, memperluas pilihan investasi aset digital bagi nasabah.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/eth-ethereum-restaking-eigen.jpeg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T15:24:14"
-  },
-  {
-   "id": 6344,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Keterbukaan Likuiditas Sky Senilai $4,4 Miliar Ungkap Kebutuhan Rute Bank Terpisah",
-   "x": "Pengungkapan likuiditas Sky menyoroti cara pencairan USDS yang memerlukan jalur bank terpisah. Hal ini penting untuk memahami aliran dana masuk dan keluar aset digital di pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/psm-liquidity-cash-flow.webp",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T13:00:58"
-  },
-  {
    "id": 6154,
    "k": "defi",
    "cat": "DeFi",
@@ -128,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T02:00:00"
+  },
+  {
+   "id": 6344,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Keterbukaan Likuiditas Sky Senilai $4,4 Miliar Ungkap Kebutuhan Rute Bank Terpisah",
+   "x": "Pengungkapan likuiditas Sky menyoroti cara pencairan USDS yang memerlukan jalur bank terpisah. Hal ini penting untuk memahami aliran dana masuk dan keluar aset digital di pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/psm-liquidity-cash-flow.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T13:00:58"
   }
  ]
 }

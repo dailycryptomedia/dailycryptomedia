@@ -1,35 +1,21 @@
 {
- "total": 18,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 6098,
+   "id": 6415,
    "k": "web3",
    "cat": "Web3",
-   "t": "Zcash rencanakan sembunyikan kunci dari serangan AI dan kuantum",
-   "x": "Pengembang Zcash berencana memperkenalkan tanda tangan berbasis hash untuk melindungi kunci pengguna dari ancaman komputasi kuantum. Inisiatif ini bertujuan meningkatkan privasi dan keamanan aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-11T13:00:03"
-  },
-  {
-   "id": 6135,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Apakah Ada Hardware Wallet yang Aman di 2026? Perangkat Ledger yang Telah Dimodifikasi Meluas ke Luar Asia",
-   "x": "Coldcard, Trezor, Tangem, BitBox, SafePal, dan Ledger semuanya mengalami masalah pada tahun 2026. Lihat serangan apa saja yang menjadi target masing-masing.",
+   "t": "3 Perkembangan Besar Sui yang Perlu Diperhatikan Menjelang 2027",
+   "x": "Sui memasuki bulan Oktober dengan reli token yang tajam. Kemudian, konferensi Basecamp mereka menghadirkan tiga pengumuman penting yang bisa menentukan apakah investor memang punya alasan kuat untuk percaya pada Sui…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/apakah-ada-hardware-wallet-yang-aman-2026",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/perkembangan-sui-proyeksi-2027",
+   "img": "https://assets.beincrypto.com/img/Rb9oluIf2XsOiPinw49qY3eT3FY=/smart/524c148b9b89420f9b70de2ec6c16b84",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-11T23:50:00"
+   "published_at": "2026-10-14T12:59:43"
   },
   {
    "id": 6312,
@@ -40,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T19:07:04"
@@ -58,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T06:00:34"
+  },
+  {
+   "id": 6216,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ledger sebut kasus drain $87 juta terkait reseller CryptoBilis",
+   "x": "Produsen dompet kripto Ledger menyatakan bahwa insiden kehilangan dana senilai $87 juta tidak memengaruhi sistem internal mereka. Masalah tersebut dikaitkan dengan reseller pihak ketiga yang kini telah menghentikan penjualan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T16:32:17"
   },
   {
    "id": 6265,
@@ -82,52 +82,38 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/59d00b4328300a6f59837c9f073fa59e235fe5a3-1500x729.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T09:27:47"
   },
   {
-   "id": 6216,
+   "id": 6135,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ledger sebut kasus drain $87 juta terkait reseller CryptoBilis",
-   "x": "Produsen dompet kripto Ledger menyatakan bahwa insiden kehilangan dana senilai $87 juta tidak memengaruhi sistem internal mereka. Masalah tersebut dikaitkan dengan reseller pihak ketiga yang kini telah menghentikan penjualan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T16:32:17"
-  },
-  {
-   "id": 6377,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ripple Hadirkan Pembayaran Agen AI Berbasis Wallet ke XRP Ledger",
-   "x": "Ripple telah bekerja sama dengan Privy, perusahaan milik Stripe, untuk menghadirkan pembayaran berbasis AI dan wallet tersemat ke dalam XRP Ledger sebagai langkah memperluas agentic commerce. Kerja sama ini mengarah…",
+   "t": "Apakah Ada Hardware Wallet yang Aman di 2026? Perangkat Ledger yang Telah Dimodifikasi Meluas ke Luar Asia",
+   "x": "Coldcard, Trezor, Tangem, BitBox, SafePal, dan Ledger semuanya mengalami masalah pada tahun 2026. Lihat serangan apa saja yang menjadi target masing-masing.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ripple-privy-ai-agent-pembayaran-xrp-ledger",
-   "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "3 jam lalu",
+   "url": "https://id.beincrypto.com/apakah-ada-hardware-wallet-yang-aman-2026",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-14T05:23:11"
+   "published_at": "2026-10-11T23:50:00"
   },
   {
-   "id": 6269,
+   "id": 6397,
    "k": "web3",
    "cat": "Web3",
-   "t": "MediaMarktSaturn tarik produk Ledger di tengah laporan perusakan",
-   "x": "Ritel Eropa MediaMarkt menarik produk dompet digital Ledger menyusul laporan adanya upaya perusakan. Hal ini menimbulkan kekhawatiran keamanan bagi pengguna perangkat keras Ledger.",
+   "t": "Bisakah pengguna kripto percaya rantai pasok dompet keras?",
+   "x": "Insiden pada dompet keras Ledger memicu kembali pertanyaan mengenai keamanan rantai pasok perangkat keras aset kripto. Hal ini penting bagi pengguna di Indonesia untuk memahami risiko keamanan yang mungkin timbul dari perangkat penyimpanan aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T9QMPRVPNEKJGN3JK1R0A0/ledger-wallet-illustration.png",
-   "a": "22 jam lalu",
+   "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X1FW4W2ZV0X6E3AVRE1XJT/hi-what-is-a-multisignature-wallet-and-how-does-it-work.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T10:09:01"
+   "published_at": "2026-10-14T11:59:42"
   },
   {
    "id": 6354,
@@ -138,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T20:40:49"
@@ -158,32 +144,32 @@
    "published_at": "2026-10-12T03:00:05"
   },
   {
-   "id": 6169,
+   "id": 6377,
    "k": "web3",
    "cat": "Web3",
-   "t": "Hardware Wallet Scare: Bisakah Timbangan Dapur Anda Deteksi Hardware Wallet yang Sudah Dimanipulasi?",
-   "x": "Proof of weight dapat menandai wallet hardware yang telah dimanipulasi setelah kasus implan Ledger CryptoBilis, namun pembacaan timbangan yang cocok membuktikan sedikit saja.",
+   "t": "Ripple Hadirkan Pembayaran Agen AI Berbasis Wallet ke XRP Ledger",
+   "x": "Ripple telah bekerja sama dengan Privy, perusahaan milik Stripe, untuk menghadirkan pembayaran berbasis AI dan wallet tersemat ke dalam XRP Ledger sebagai langkah memperluas agentic commerce. Kerja sama ini mengarah…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/proof-of-weight-hardware-wallet-yang-telah-dimanipulasi",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/ripple-privy-ai-agent-pembayaran-xrp-ledger",
+   "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-12T13:41:12"
+   "published_at": "2026-10-14T05:23:11"
   },
   {
-   "id": 6272,
+   "id": 6269,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ledger Ungkap Implan Mata-mata di Dompet Kripto yang Dijual CryptoBilis",
-   "x": "Ledger merinci bagaimana implan mata-mata mengekspos frasa pemulihan dompet kripto. CryptoBilis menghentikan penjualan dan Trezor serta OneKey memutus hubungan dengan reseller tersebut.",
+   "t": "MediaMarktSaturn tarik produk Ledger di tengah laporan perusakan",
+   "x": "Ritel Eropa MediaMarkt menarik produk dompet digital Ledger menyusul laporan adanya upaya perusakan. Hal ini menimbulkan kekhawatiran keamanan bagi pengguna perangkat keras Ledger.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T0Q274K3WJ08CQMV76XA89/hi-bitcoin-wallets-btc-wallet-inaccessible-1.jpg",
+   "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T9QMPRVPNEKJGN3JK1R0A0/ledger-wallet-illustration.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T08:45:10"
+   "published_at": "2026-10-13T10:09:01"
   },
   {
    "id": 6212,
@@ -194,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T10:55:03"
@@ -212,6 +198,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T02:00:08"
+  },
+  {
+   "id": 6169,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hardware Wallet Scare: Bisakah Timbangan Dapur Anda Deteksi Hardware Wallet yang Sudah Dimanipulasi?",
+   "x": "Proof of weight dapat menandai wallet hardware yang telah dimanipulasi setelah kasus implan Ledger CryptoBilis, namun pembacaan timbangan yang cocok membuktikan sedikit saja.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/proof-of-weight-hardware-wallet-yang-telah-dimanipulasi",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-12T13:41:12"
+  },
+  {
+   "id": 6272,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ledger Ungkap Implan Mata-mata di Dompet Kripto yang Dijual CryptoBilis",
+   "x": "Ledger merinci bagaimana implan mata-mata mengekspos frasa pemulihan dompet kripto. CryptoBilis menghentikan penjualan dan Trezor serta OneKey memutus hubungan dengan reseller tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T0Q274K3WJ08CQMV76XA89/hi-bitcoin-wallets-btc-wallet-inaccessible-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T08:45:10"
   },
   {
    "id": 6147,
@@ -236,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T23:28:19"
@@ -250,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aksi-rantai-pasokan-trezor-dompet-tampered",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T14:11:33"
