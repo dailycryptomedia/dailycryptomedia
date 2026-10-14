@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bill-gates-serangan-siber-ai-tahun-depan",
    "img": "https://assets.beincrypto.com/img/LIL_HVmaw9NYrrkqNyTFcF3GIYo=/smart/eab53cd32793438dbccbbcd10b89397c",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T07:15:09"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/skyai-tender-offer-standard.jpg",
-   "a": "46 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:20:08"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T21:16:04"
@@ -68,10 +68,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TVYVZ1FNMZJVJ3R95B1ES5/sec-meeting-edited.png",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T16:51:25"
+  },
+  {
+   "id": 6381,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pajak stablecoin Prancis bisa dorong trader kripto ke luar negeri",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "6 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T08:48:11"
   },
   {
    "id": 6303,
@@ -82,38 +96,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-12.16.27.png",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T11:38:19"
   },
   {
-   "id": 6294,
+   "id": 6376,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Putusan pengadilan Inggris tingkatkan peluang pemerintah tahan 5 miliar dolar bitcoin sitaan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/20b32fd8cd327bc8631f52da23df84063b120957-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T09:25:03"
-  },
-  {
-   "id": 6096,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Prancis Ingin Kenakan Pajak pada Holder Kripto Sebelum Mereka Menjual",
-   "x": "Usulan pajak keluar kripto Prancis akan mengenakan pajak atas keuntungan yang belum terjual di atas €800.000 ketika holder pergi. Para legislator akan membahasnya pada hari Selasa.",
+   "t": "Perekam yang Dibungkus Tisu Toilet Bawa Mantan Engineer OpenAI ke Pengadilan Federal",
+   "x": "Pekan ini, sebuah alat perekam yang dibungkus tisu toilet dan dicolokkan ke TV di ruang rapat eksekutif OpenAI membuat seorang engineer harus menghadapi sidang di pengadilan federal. Jaksa menuduh Abdulrahman Alfozan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pajak-exit-kripto-prancis-gain-belum-terjual",
-   "img": "https://assets.beincrypto.com/img/DY-B4IhIUYb-wQSybE_TVFx5z5w=/smart/a4aa05dd59244070b56efb02d13d73ab",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/openai-engineer-hidden-recorder-didakwa",
+   "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-11T10:24:32"
+   "published_at": "2026-10-14T06:15:43"
   },
   {
    "id": 6208,
@@ -138,24 +138,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T4SNJSD60QPY0XS6G5VAS3/court-law-judge-flags-uk.jpg",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T09:03:06"
   },
   {
-   "id": 6112,
+   "id": 6294,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Peringatan Saham Meta? Zuckerberg Jual US$21 Juta saat Orang Dalam Keluar",
-   "x": "Orang dalam Meta menjual saham senilai jutaan dolar selama enam bulan terakhir dan tidak membeli sama sekali. Berikut yang ditunjukkan oleh dokumen SEC di balik perhitungan tersebut.",
+   "t": "Putusan pengadilan Inggris tingkatkan peluang pemerintah tahan 5 miliar dolar bitcoin sitaan",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/20b32fd8cd327bc8631f52da23df84063b120957-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T09:25:03"
+  },
+  {
+   "id": 6096,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Prancis Ingin Kenakan Pajak pada Holder Kripto Sebelum Mereka Menjual",
+   "x": "Usulan pajak keluar kripto Prancis akan mengenakan pajak atas keuntungan yang belum terjual di atas €800.000 ketika holder pergi. Para legislator akan membahasnya pada hari Selasa.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peringatan-meta-stock-insider-jual",
-   "img": "https://assets.beincrypto.com/img/08dQH_bixW0P_5XTttIl9J9imps=/smart/35a7232b72714149b298e5e04b4bb81d",
+   "url": "https://id.beincrypto.com/pajak-exit-kripto-prancis-gain-belum-terjual",
+   "img": "https://assets.beincrypto.com/img/DY-B4IhIUYb-wQSybE_TVFx5z5w=/smart/a4aa05dd59244070b56efb02d13d73ab",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-11T14:13:51"
+   "published_at": "2026-10-11T10:24:32"
   },
   {
    "id": 6210,
@@ -180,10 +194,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T07:44:51"
+  },
+  {
+   "id": 6112,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Peringatan Saham Meta? Zuckerberg Jual US$21 Juta saat Orang Dalam Keluar",
+   "x": "Orang dalam Meta menjual saham senilai jutaan dolar selama enam bulan terakhir dan tidak membeli sama sekali. Berikut yang ditunjukkan oleh dokumen SEC di balik perhitungan tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/peringatan-meta-stock-insider-jual",
+   "img": "https://assets.beincrypto.com/img/08dQH_bixW0P_5XTttIl9J9imps=/smart/35a7232b72714149b298e5e04b4bb81d",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-11T14:13:51"
   },
   {
    "id": 6342,
@@ -194,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-5-billion-bitcoin-fortune-is-at-stake-but-uk-court-says-being-defrauded-isnt-enough-to-claim-it",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/applicant-bitcoin-jurisdiction.webp",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T15:40:44"
