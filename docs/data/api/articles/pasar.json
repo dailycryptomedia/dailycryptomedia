@@ -1,5 +1,5 @@
 {
- "total": 153,
+ "total": 159,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQ6AF5TDRNQV9MEV2XN6EB/canada-1.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:00:00"
@@ -40,10 +40,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-layer2-ecosystem.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T22:00:06"
+  },
+  {
+   "id": 6481,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pakar AI dan 400 ilmuwan minta model AI diputus dari internet",
+   "x": "Ratusan peneliti khawatir model AI dapat disalahgunakan setelah beberapa kasus peretasan perusahaan nyata. Mereka mengusulkan internet dijadikan batas keamanan untuk mencegah penyalahgunaan lebih lanjut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
+   "a": "14 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T21:46:04"
   },
   {
    "id": 6159,
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T06:00:08"
-  },
-  {
-   "id": 6355,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Insinyur OpenAI ditangkap karena pasang alat sadap, perusahaan sebut AI yang mengungkapnya",
-   "x": "Seorang insinyur OpenAI diduga memasang alat sadap terenkripsi di kantornya. Pengungkapan ini menyoroti risiko keamanan internal di perusahaan teknologi besar, termasuk yang bergerak di bidang AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T21:46:04"
   },
   {
    "id": 6200,
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4THPCR92A9D9AT5MEKWQ9WN/magazinejourneys-trevor-koverko.png",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:30:00"
@@ -144,6 +144,20 @@
    "published_at": "2026-10-12T07:30:02"
   },
   {
+   "id": 6482,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pengembang tiru Microsoft Office dengan AI setelah Photoshop",
+   "x": "Seorang pengembang berhasil membuat replika gratis dan open-source dari Word, Excel, dan PowerPoint menggunakan AI. Hal ini menunjukkan betapa murahnya proses kloning perangkat lunak saat ini.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
+   "a": "44 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T21:16:03"
+  },
+  {
    "id": 6368,
    "k": "pasar",
    "cat": "Pasar",
@@ -152,24 +166,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kocak-bot-pump-fun-niat-bantu-memecoin-terbang-malah-boncos-us35-juta",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:30:08"
-  },
-  {
-   "id": 6237,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "IMF peringatkan AI akan memengaruhi 40% pekerjaan, kaum muda paling terdampak",
-   "x": "Dana Moneter Internasional (IMF) memprediksi kecerdasan buatan (AI) akan berdampak pada 40% lapangan kerja global. Dampak ini dinilai akan sangat terasa bagi para pekerja muda yang baru memasuki dunia kerja.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T21:46:03"
   },
   {
    "id": 6462,
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News.jpg",
-   "a": "59 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T17:47:18"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/90725f28abbda8fc3beba48c502b8cb9cd1f93a7-1000x664.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T01:00:00"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-bank-of-america-cz-charges",
    "img": "https://assets.beincrypto.com/img/Yz6DHEFayUfdz6KZldcwtgrfKoQ=/smart/266f73117a4f489fb6fcb191af409bec",
-   "a": "37 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T18:09:31"
@@ -222,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg",
-   "a": "50 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T17:56:45"
@@ -236,10 +236,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/us-deposit-rates-choke-usdc-adoption-and-a-bis-model-reveals-why",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-rates-stablecoin-pressure.webp",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T23:10:52"
+  },
+  {
+   "id": 6355,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Insinyur OpenAI ditangkap karena pasang alat sadap, perusahaan sebut AI yang mengungkapnya",
+   "x": "Seorang insinyur OpenAI diduga memasang alat sadap terenkripsi di kantornya. Pengungkapan ini menyoroti risiko keamanan internal di perusahaan teknologi besar, termasuk yang bergerak di bidang AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T21:46:04"
   },
   {
    "id": 6158,
@@ -256,32 +270,18 @@
    "published_at": "2026-10-12T07:00:30"
   },
   {
-   "id": 6300,
+   "id": 6480,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "‘Tinggalkan’: Kekecewaan Kripto atas Proposal Prancis Laporkan Wallet di Atas $112K",
-   "x": "Prancis mengusulkan pelaporan aset kripto di atas €100.000, memicu kekhawatiran akan privasi dan potensi serangan. Aturan ini dapat memengaruhi investor ritel dan institusi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/france-national-assembly-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T10:30:37"
-  },
-  {
-   "id": 6234,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Blur tutup frontend bulan depan seiring lesunya volume perdagangan NFT",
-   "x": "Pasar NFT Blur akan menghentikan layanan frontend-nya bulan depan karena penurunan volume perdagangan. Meskipun demikian, protokolnya akan tetap beroperasi secara on-chain.",
+   "t": "Patrick Witt keluar dari peran kripto Gedung Putih seiring mandeknya Clarity Act",
+   "x": "Peran penasihat utama kripto di Gedung Putih mengalami pergantian kepemimpinan. Hal ini terjadi seiring mandeknya pembahasan undang-undang Clarity Act yang mengatur aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221107_Blur3.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-2.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T21:49:02"
+   "published_at": "2026-10-14T20:30:15"
   },
   {
    "id": 6286,
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sinyal-bearish-ethereum-cadangan-exchange-whale",
    "img": "https://assets.beincrypto.com/img/xMoUTAvotzENVFFWdEHtg-eZvHc=/smart/db20cca74a804a9faf00c297f9428de5",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T13:32:15"
@@ -334,10 +334,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp",
-   "a": "56 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T17:50:35"
+  },
+  {
+   "id": 6237,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "IMF peringatkan AI akan memengaruhi 40% pekerjaan, kaum muda paling terdampak",
+   "x": "Dana Moneter Internasional (IMF) memprediksi kecerdasan buatan (AI) akan berdampak pada 40% lapangan kerja global. Dampak ini dinilai akan sangat terasa bagi para pekerja muda yang baru memasuki dunia kerja.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T21:46:03"
   },
   {
    "id": 6387,
@@ -348,38 +362,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-bisa-terbang-ke-us93-000-tapi-wajib-tembus-level-ini",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T08:00:29"
   },
   {
-   "id": 6430,
+   "id": 6234,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pendiri Hex Richard Heart ditahan di Istanbul karena Red Notice Interpol",
-   "x": "Pendiri Hex, Richard Heart, dilaporkan ditahan di Istanbul menyusul adanya Red Notice dari Interpol. Penangkapan ini menyoroti peningkatan pengawasan global terhadap tokoh-tokoh dalam industri aset kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T14:03:20"
-  },
-  {
-   "id": 6236,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance luncurkan alat trading AI setelah uji coba 150.000 pengguna",
-   "x": "Bursa kripto Binance kini menyediakan alat trading berbasis kecerdasan buatan (AI) secara gratis untuk seluruh pengguna berbahasa Inggris. Fitur ini telah diuji coba oleh sekitar 150.000 pengguna.",
+   "t": "Blur tutup frontend bulan depan seiring lesunya volume perdagangan NFT",
+   "x": "Pasar NFT Blur akan menghentikan layanan frontend-nya bulan depan karena penurunan volume perdagangan. Meskipun demikian, protokolnya akan tetap beroperasi secara on-chain.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_2.jpg",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221107_Blur3.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T18:44:10"
+   "published_at": "2026-10-12T21:49:02"
   },
   {
    "id": 6178,
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/demo-hover-tesla-roadster-dampak-saham-tsla",
    "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T22:48:01"
@@ -438,6 +438,20 @@
    "published_at": "2026-10-13T18:20:02"
   },
   {
+   "id": 6300,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "‘Tinggalkan’: Kekecewaan Kripto atas Proposal Prancis Laporkan Wallet di Atas $112K",
+   "x": "Prancis mengusulkan pelaporan aset kripto di atas €100.000, memicu kekhawatiran akan privasi dan potensi serangan. Aturan ini dapat memengaruhi investor ritel dan institusi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/france-national-assembly-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T10:30:37"
+  },
+  {
    "id": 6369,
    "k": "pasar",
    "cat": "Pasar",
@@ -446,38 +460,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-14-oktober-2026-stx-amp-avax-aave-dan-dexe-mengintip-peluang-terbang",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:00:24"
   },
   {
-   "id": 6431,
+   "id": 6236,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ledger minta reseller di tujuh pasar Asia tarik perangkat setelah dugaan drain $86 juta",
-   "x": "Ledger meminta reseller di tujuh negara Asia untuk menarik produknya menyusul dugaan adanya peretasan yang mengakibatkan kerugian sekitar $86 juta. Insiden ini menimbulkan kekhawatiran baru tentang keamanan perangkat keras penyimpanan aset kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/ledger-nano-decrypt-style-01-gID_7.jpg",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T13:47:44"
-  },
-  {
-   "id": 6235,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kerangka kerja kripto baru CFTC bisa hadapi tenggat pemilu 2028",
-   "x": "Aturan baru yang diusulkan untuk perdagangan kripto dengan leverage dan margin berisiko terlambat diterapkan karena siklus pemilu 2028 yang mendekat. Analisis TD Cowen menyoroti potensi penundaan ini.",
+   "t": "Binance luncurkan alat trading AI setelah uji coba 150.000 pengguna",
+   "x": "Bursa kripto Binance kini menyediakan alat trading berbasis kecerdasan buatan (AI) secara gratis untuk seluruh pengguna berbahasa Inggris. Fitur ini telah diuji coba oleh sekitar 150.000 pengguna.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_2.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T20:53:54"
+   "published_at": "2026-10-12T18:44:10"
   },
   {
    "id": 6290,
@@ -502,7 +502,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kimchi-premium-ai-trading-peraturan-korea",
    "img": "https://assets.beincrypto.com/img/3m7CZej24cUvIuITfZ5huLjnK2M=/smart/26a8e6206b734deab749c4bd719503d9",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T21:20:29"
@@ -530,10 +530,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-updates-anthropic-mark-per-second-to-stop-liquidation",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/anthropic-synthetic-etp-pricing-standard.jpg",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T07:20:13"
+  },
+  {
+   "id": 6430,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pendiri Hex Richard Heart ditahan di Istanbul karena Red Notice Interpol",
+   "x": "Pendiri Hex, Richard Heart, dilaporkan ditahan di Istanbul menyusul adanya Red Notice dari Interpol. Penangkapan ini menyoroti peningkatan pengawasan global terhadap tokoh-tokoh dalam industri aset kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T14:03:20"
   },
   {
    "id": 6223,
@@ -550,32 +564,18 @@
    "published_at": "2026-10-12T15:54:21"
   },
   {
-   "id": 6215,
+   "id": 6235,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Indeks Ketakutan dan Keserakahan Kripto turun ke level Agustus",
-   "x": "Indeks Ketakutan dan Keserakahan Kripto mengalami penurunan signifikan, mengindikasikan sentimen pasar yang melemah. Faktor seperti imbal hasil obligasi dan aliran dana keluar ETF memengaruhi harga Bitcoin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-glass-decrypt-style-gID_7.png",
+   "t": "Kerangka kerja kripto baru CFTC bisa hadapi tenggat pemilu 2028",
+   "x": "Aturan baru yang diusulkan untuk perdagangan kripto dengan leverage dan margin berisiko terlambat diterapkan karena siklus pemilu 2028 yang mendekat. Analisis TD Cowen menyoroti potensi penundaan ini.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T16:41:34"
-  },
-  {
-   "id": 6464,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pendiri Hex dan PulseChain Richard Heart ditahan di Istanbul",
-   "x": "Laporan dari Turki menyebutkan penyitaan aset senilai $4 juta dan 64 jam tangan. Pihak kepolisian belum mengonfirmasi penahanan Richard Heart.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/12/20191210_Hex-FTC-SEC.jpg",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T15:53:15"
+   "published_at": "2026-10-12T20:53:54"
   },
   {
    "id": 6179,
@@ -600,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/getty-images-kebangkrutan-ai-utang-swasta",
    "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T22:38:57"
@@ -628,10 +628,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ldo-backpack-leak.webp",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T21:50:56"
+  },
+  {
+   "id": 6431,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ledger minta reseller di tujuh pasar Asia tarik perangkat setelah dugaan drain $86 juta",
+   "x": "Ledger meminta reseller di tujuh negara Asia untuk menarik produknya menyusul dugaan adanya peretasan yang mengakibatkan kerugian sekitar $86 juta. Insiden ini menimbulkan kekhawatiran baru tentang keamanan perangkat keras penyimpanan aset kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/ledger-nano-decrypt-style-01-gID_7.jpg",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T13:47:44"
   },
   {
    "id": 6370,
@@ -642,38 +656,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pencurian-kripto-ledger-diduga-tembus-us103-juta-jejak-railgun-tiruan-terungkap",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T01:30:24"
   },
   {
-   "id": 6432,
+   "id": 6464,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Promotor Koin Meme Terkenal Rencanakan Gelombang Kedua di Launchpad Baru",
-   "x": "Sahil Arora berencana meluncurkan skema kontroversialnya kembali dengan strategi baru. Ini menandakan potensi berlanjutnya tren koin meme yang didorong selebritas di pasar kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/floyd-mayweather-sahil-arora-decrypt-style-gID_7.jpg",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T13:41:21"
-  },
-  {
-   "id": 6139,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trader untung $1,28 juta dari bursa Papertrade dengan manipulasi harga ETH",
-   "x": "Seorang trader meraup keuntungan besar dari bursa baru dengan memanipulasi harga ETH, namun kemudian mengalami kerugian signifikan akibat likuidasi posisi short. Kejadian ini menyoroti volatilitas dan risiko di bursa kripto baru.",
+   "t": "Pendiri Hex dan PulseChain Richard Heart ditahan di Istanbul",
+   "x": "Laporan dari Turki menyebutkan penyitaan aset senilai $4 juta dan 64 jam tangan. Pihak kepolisian belum mengonfirmasi penahanan Richard Heart.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Copper-fluid-ribbons-frame-papertrade__clean.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/12/20191210_Hex-FTC-SEC.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-11T22:26:02"
+   "published_at": "2026-10-14T15:53:15"
   },
   {
    "id": 6456,
@@ -684,7 +684,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b5758412ecdd24d3e01a7d4d410665462a0f2b43-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:34:53"
@@ -718,18 +718,32 @@
    "published_at": "2026-10-11T22:57:53"
   },
   {
-   "id": 6140,
+   "id": 6487,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Starknet pertimbangkan pindah dari Ethereum ke Layer 1 tahan kuantum",
-   "x": "Pengembang Starknet mempertimbangkan untuk meninggalkan Ethereum demi membangun blockchain Layer 1 independen. Keputusan ini dapat memengaruhi ekosistem Layer 2 Ethereum dan strategi pengembang lain.",
+   "t": "Kraken akuisisi bank Eropa senilai $181 juta, ekspansi di luar trading kripto",
+   "x": "Induk usaha Kraken, Payward, sepakat membeli bank Eropa untuk memperluas layanan ke sektor keuangan tradisional. Akuisisi ini menandai langkah strategis perusahaan di luar bisnis inti trading aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp",
+   "url": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-europe.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T19:50:24"
+  },
+  {
+   "id": 6215,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Indeks Ketakutan dan Keserakahan Kripto turun ke level Agustus",
+   "x": "Indeks Ketakutan dan Keserakahan Kripto mengalami penurunan signifikan, mengindikasikan sentimen pasar yang melemah. Faktor seperti imbal hasil obligasi dan aliran dana keluar ETF memengaruhi harga Bitcoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-glass-decrypt-style-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-11T23:00:46"
+   "published_at": "2026-10-12T16:41:34"
   },
   {
    "id": 6262,
@@ -746,32 +760,18 @@
    "published_at": "2026-10-13T03:00:22"
   },
   {
-   "id": 6297,
+   "id": 6139,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ledger Temukan Implan LTE yang Curi Seed Phrase dalam Dugaan Pengurasan $86 Juta",
-   "x": "Ledger mengonfirmasi adanya chip tersembunyi yang mampu mencuri frasa pemulihan saat pengaturan perangkat. Insiden ini menimbulkan keraguan serius terhadap keamanan dompet keras Ledger.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T11:53:15"
-  },
-  {
-   "id": 6153,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mantan Ketua CFTC: Regulator bisa atur hampir semua kecuali 'bawang dan tiket bioskop'",
-   "x": "Mantan pejabat Komisi Perdagangan Berjangka Komoditas AS (CFTC) menyatakan regulator memiliki kewenangan luas untuk mengatur pasar aset digital. Pernyataan ini mengindikasikan potensi pengawasan yang lebih ketat terhadap industri kripto di Amerika Serikat.",
+   "t": "Trader untung $1,28 juta dari bursa Papertrade dengan manipulasi harga ETH",
+   "x": "Seorang trader meraup keuntungan besar dari bursa baru dengan memanipulasi harga ETH, namun kemudian mengalami kerugian signifikan akibat likuidasi posisi short. Kejadian ini menyoroti volatilitas dan risiko di bursa kripto baru.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221003_CarolinePham2.jpg",
+   "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Copper-fluid-ribbons-frame-papertrade__clean.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T04:33:57"
+   "published_at": "2026-10-11T22:26:02"
   },
   {
    "id": 6384,
@@ -782,7 +782,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:24:12"
@@ -796,7 +796,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/broadcom-ceo-ai-investor-casino-crypto",
    "img": "https://assets.beincrypto.com/img/adiR_8gFxKqRCqKwR5qe-NqrQ9k=/smart/e0e2f09ccaff4fd1b659a7c1c373ddf9",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T20:28:34"
@@ -810,38 +810,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4W39C53K5A0QZYE5SN4HY81/spring.jpg",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:19:56"
   },
   {
-   "id": 6341,
+   "id": 6140,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Australia tutup celah derivatif kripto setelah trader ritel rugi A$458 juta",
-   "x": "Pemerintah Australia berencana menutup celah regulasi pada derivatif kripto yang diselesaikan dengan token. Langkah ini diambil setelah investor ritel dilaporkan merugi hingga A$458 juta.",
+   "t": "Starknet pertimbangkan pindah dari Ethereum ke Layer 1 tahan kuantum",
+   "x": "Pengembang Starknet mempertimbangkan untuk meninggalkan Ethereum demi membangun blockchain Layer 1 independen. Keputusan ini dapat memengaruhi ekosistem Layer 2 Ethereum dan strategi pengembang lain.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/australia-cfd-regulatory-review.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T17:00:31"
+   "published_at": "2026-10-11T23:00:46"
   },
   {
-   "id": 6264,
+   "id": 6432,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto Hari Ini 13 Oktober 2026: XTZ, ZRO, FIL, RENDER, ZEC di ambang ledakan harga?",
-   "x": "Lima aset kripto altcoin, yaitu XTZ, ZRO, FIL, RENDER, dan ZEC, sedang menguji level harga penting. Analisis teknikal menunjukkan potensi pergerakan harga signifikan bagi kelimanya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-hari-ini-13-oktober-2026-xtz-zro-fil-render-zec-di-ambang-ledakan-harga",
-   "img": null,
-   "a": "kemarin",
+   "t": "Promotor Koin Meme Terkenal Rencanakan Gelombang Kedua di Launchpad Baru",
+   "x": "Sahil Arora berencana meluncurkan skema kontroversialnya kembali dengan strategi baru. Ini menandakan potensi berlanjutnya tren koin meme yang didorong selebritas di pasar kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/floyd-mayweather-sahil-arora-decrypt-style-gID_7.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T02:00:00"
+   "published_at": "2026-10-14T13:41:21"
   }
  ]
 }
