@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-10-14T12:26:05"
   },
   {
+   "id": 6585,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Mastercard dan BVNK Luncurkan Platform Uang Global untuk Gabungkan Fiat dan Stablecoin",
+   "x": "Mastercard dan BVNK meluncurkan platform yang memungkinkan institusi mengelola fiat dan stablecoin melalui satu API. Integrasi ini merupakan langkah besar pasca akuisisi BVNK oleh Mastercard senilai $1,8 miliar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T16:28:50"
+  },
+  {
    "id": 6427,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -46,20 +60,6 @@
    "published_at": "2026-10-14T13:00:00"
   },
   {
-   "id": 6242,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Evernorth didukung Ripple Nasdaq miliki 473 juta XRP bernilai jauh di bawah harga beli",
-   "x": "Saham XRPN Evernorth mulai diperdagangkan setelah merger SPAC, namun 80% investor SPAC menarik dana mereka. Total kepemilikan XRP perusahaan kini bernilai sekitar 40% lebih rendah dari saat kesepakatan ditandatangani.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T18:09:15"
-  },
-  {
    "id": 6449,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/netflix-phk-1000-pekerjaan-saham-bottom",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T15:00:00"
@@ -86,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:30:10"
+  },
+  {
+   "id": 6242,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Evernorth didukung Ripple Nasdaq miliki 473 juta XRP bernilai jauh di bawah harga beli",
+   "x": "Saham XRPN Evernorth mulai diperdagangkan setelah merger SPAC, namun 80% investor SPAC menarik dana mereka. Total kepemilikan XRP perusahaan kini bernilai sekitar 40% lebih rendah dari saat kesepakatan ditandatangani.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T18:09:15"
   },
   {
    "id": 6452,
@@ -110,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rasio-pendapatan-komputasi-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T04:51:17"

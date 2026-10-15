@@ -1,5 +1,5 @@
 {
- "total": 100,
+ "total": 87,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-10-13T19:30:31"
   },
   {
-   "id": 6190,
+   "id": 6513,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penambang Bitcoin hadapi biaya AI yang membengkak",
-   "x": "Industri penambangan Bitcoin membutuhkan dana besar untuk proyek infrastruktur AI. Beberapa perusahaan besar seperti IREN, Riot Platforms, dan HIVE Digital menghadapi kesenjangan pendanaan yang signifikan.",
+   "t": "Babylon ajukan proposal pinjaman Bitcoin native di Aave V4",
+   "x": "Proposal Babylon untuk membawa agunan Bitcoin native ke Aave V4 telah memasuki tahap baru. Langkah ini penting karena berpotensi memperluas penggunaan Bitcoin sebagai agunan di platform DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RDF575PMBMW4PWHAG2HK59/cook-pan-mining-electricity-electric-consumption-energy-earth-globe-world.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T16:51:05"
+   "published_at": "2026-10-15T09:14:28"
   },
   {
    "id": 6453,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T17:46:05"
@@ -130,18 +130,18 @@
    "published_at": "2026-10-14T13:30:53"
   },
   {
-   "id": 6513,
+   "id": 6268,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Babylon ajukan proposal pinjaman Bitcoin native di Aave V4",
-   "x": "Proposal Babylon untuk membawa agunan Bitcoin native ke Aave V4 telah memasuki tahap baru. Langkah ini penting karena berpotensi memperluas penggunaan Bitcoin sebagai agunan di platform DeFi.",
+   "t": "Metaplanet terbitkan obligasi konversi $329 juta untuk bayar utang, danai buyback saham",
+   "x": "Metaplanet akan menerbitkan obligasi tanpa bunga untuk restrukturisasi utang dan mengurangi ketergantungan pada pinjaman berbasis Bitcoin. Langkah ini bertujuan memperkuat posisi keuangan perusahaan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png",
-   "a": "5 jam lalu",
+   "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T09:14:28"
+   "published_at": "2026-10-13T10:23:07"
   },
   {
    "id": 6327,
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-strive-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T18:15:05"
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T04:38:48"
@@ -180,7 +180,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T04:25:15"
@@ -194,7 +194,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/penulis-the-bitcoin-standard-prediksi-btc-akan-lampaui-emas-dan-makin-stabil",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T08:00:28"
@@ -222,24 +222,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/surging-dollar-forces-bitcoin-sell-off-as-rate-hike-odds-double",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-fed-trap.webp",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T21:10:50"
   },
   {
-   "id": 6268,
+   "id": 6537,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Metaplanet terbitkan obligasi konversi $329 juta untuk bayar utang, danai buyback saham",
-   "x": "Metaplanet akan menerbitkan obligasi tanpa bunga untuk restrukturisasi utang dan mengurangi ketergantungan pada pinjaman berbasis Bitcoin. Langkah ini bertujuan memperkuat posisi keuangan perusahaan.",
+   "t": "ETF kripto Thailand mungkin lambat meski aturan baru: CoinShares",
+   "x": "Aturan baru ETF Bitcoin dan Ether di Thailand berlaku Jumat, namun CoinShares memperkirakan aliran dana masuk awal yang moderat. Hal ini karena opsi investasi yang ada bersaing untuk mendapatkan permintaan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z7M52YNHC4A063CV7T5G1J/hi-thailand-and-blockchain-etf-1.jpg",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T10:23:07"
+   "published_at": "2026-10-15T09:36:20"
   },
   {
    "id": 6326,
@@ -292,38 +292,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/akumulasi-bitcoin-whale-cpi-panas-uji",
    "img": "https://assets.beincrypto.com/img/juVKtiWWRasW1m-Ho_oo930SXcc=/smart/e1b89a4b1d29482a8546818c6159d604",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T07:54:34"
   },
   {
-   "id": 6207,
+   "id": 6588,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Eclair perbaiki celah Lightning yang bisa bebani biaya Bitcoin",
-   "x": "Perbaikan pada jaringan Lightning Network oleh Eclair bertujuan mengurangi biaya transaksi peer-to-peer. Pembaruan ini penting untuk efisiensi biaya di jaringan Bitcoin.",
+   "t": "Impian Bitcoin $100.000 Sirna Seiring Perdagangan Kripto Senilai $939 Juta Terhapus",
+   "x": "Kekhawatiran inflasi AS yang lebih tinggi dari perkiraan memicu aksi jual aset kripto, menyebabkan likuidasi hampir $940 juta. Data inflasi yang kuat meningkatkan kekhawatiran kenaikan suku bunga The Fed lebih lanjut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-bitcoin-fee-defense.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-market-selloff-underwater.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T16:20:36"
+   "published_at": "2026-10-15T17:30:25"
   },
   {
-   "id": 6191,
+   "id": 6575,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin turun 2,2% seiring lonjakan harga minyak akibat konflik",
-   "x": "Harga Bitcoin mengalami penurunan seiring dengan kenaikan harga minyak dunia akibat ketegangan geopolitik. Hal ini menunjukkan korelasi antara aset kripto dan pasar komoditas global.",
+   "t": "Bitcoin turun di bawah $80 ribu setelah inflasi AS melonjak",
+   "x": "Harga Bitcoin tertekan setelah data inflasi produsen AS naik paling tinggi dalam dua tahun. Investor mencermati potensi kenaikan suku bunga The Fed yang dapat mempengaruhi aset berisiko.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RB17YHE9XP8RNRDSEGNYJY/oil-bitcoin-petrol-2-960x640.webp",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T16:30:21"
+   "published_at": "2026-10-15T15:10:44"
   },
   {
    "id": 6484,
@@ -334,7 +334,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T19:46:03"
@@ -348,7 +348,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-14.38.11.png",
-   "a": "35 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T14:01:06"
@@ -362,7 +362,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T04:13:56"
@@ -376,7 +376,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitwise-cio-bitcoin-menang-di-tiga-skenario-ekonomi",
    "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T11:42:05"
@@ -396,18 +396,18 @@
    "published_at": "2026-10-13T11:00:38"
   },
   {
-   "id": 6537,
+   "id": 6490,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF kripto Thailand mungkin lambat meski aturan baru: CoinShares",
-   "x": "Aturan baru ETF Bitcoin dan Ether di Thailand berlaku Jumat, namun CoinShares memperkirakan aliran dana masuk awal yang moderat. Hal ini karena opsi investasi yang ada bersaing untuk mendapatkan permintaan.",
+   "t": "Penambang Bitcoin anjlok hingga 13% dalam penjualan terburuk Wall Street sejak Juli",
+   "x": "Saham perusahaan penambang Bitcoin seperti TeraWulf, Core Scientific, Cipher Mining, dan IREN masing-masing turun lebih dari 12%. Penurunan ini terjadi setelah data inflasi yang lebih tinggi menekan saham perusahaan infrastruktur AI.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z7M52YNHC4A063CV7T5G1J/hi-thailand-and-blockchain-etf-1.jpg",
-   "a": "5 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YSG3DXFXJ6NSHP3JM0EBPS/stocks.jpg",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T09:36:20"
+   "published_at": "2026-10-15T03:29:22"
   },
   {
    "id": 6454,
@@ -418,7 +418,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:15:19"
@@ -452,18 +452,18 @@
    "published_at": "2026-10-14T08:10:07"
   },
   {
-   "id": 6168,
+   "id": 6348,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Apakah Standar Bitcoin Akan Memperlambat Pertumbuhan Ekonomi? Inilah Argumen Willy Woo",
-   "x": "Seorang analis mengatakan suplai tetap Bitcoin membuat aktivitas peminjaman menjadi lebih berisiko dan memperlambat pertumbuhan, menjawab tantangan dari penulis The Bitcoin Standard.",
+   "t": "Investor Miliarder Peringatkan Tahun 2027 Brutal untuk Saham: Akankah Bitcoin Bertahan?",
+   "x": "Investor legendaris di bidang makro dan manajer hedge fund, Paul Tudor Jones, memperingatkan bahwa tahun 2027 bisa menjadi tahun yang sulit untuk saham AS karena adanya lonjakan pasokan saham baru dari perusahaan AI…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-pasokan-tetap-pertumbuhan-utang-gelembung",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/paul-tudor-jones-peringatan-saham-2027-bitcoin",
+   "img": "https://assets.beincrypto.com/img/JnfIeotuin-lRFtlTrLNqgErpIA=/smart/d5a3749a853c44c9a628223dd8eeb1bc",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-12T13:49:39"
+   "published_at": "2026-10-13T19:56:14"
   },
   {
    "id": 6470,
@@ -474,24 +474,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/strives-new-500-million-bitcoin-financing-plan-comes-with-a-257-million-annual-dividend-problem",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/strive-bitcoin-treasury-stairway.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:30:22"
   },
   {
-   "id": 6193,
+   "id": 6314,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ledger uji coba ETF Bitcoin sebagai solusi kustodian aman",
-   "x": "Penemuan implan tak sah pada perangkat keras Ledger memicu perdebatan keamanan. Hal ini menyoroti potensi ETF Bitcoin sebagai alternatif penyimpanan aset digital yang lebih aman dibanding dompet mandiri.",
+   "t": "Strive laporkan latihan warrant $208 juta saat kepemilikan Bitcoin naik 11%",
+   "x": "Strive kini menjadi pemegang Bitcoin korporat terbesar kelima yang diperdagangkan di bursa, dengan total 32.773 BTC. Perusahaan terus memperluas cadangan kasnya melalui pendanaan ekuitas.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TW19B9G4WJ5289S60N1QGE/bitcoin-reserve.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T14:07:00"
+   "published_at": "2026-10-13T15:57:55"
   },
   {
    "id": 6298,
@@ -530,24 +530,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/120f5e079f145eea15f4ed3c577550e8e70bec73-2189x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T03:57:45"
   },
   {
-   "id": 6348,
+   "id": 6283,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Investor Miliarder Peringatkan Tahun 2027 Brutal untuk Saham: Akankah Bitcoin Bertahan?",
-   "x": "Investor legendaris di bidang makro dan manajer hedge fund, Paul Tudor Jones, memperingatkan bahwa tahun 2027 bisa menjadi tahun yang sulit untuk saham AS karena adanya lonjakan pasokan saham baru dari perusahaan AI…",
+   "t": "Trader Opsi Sudah Kembali ke Level 2021: Akankah Bitcoin Mengulangi Kenaikan Dua Kali Lipat Tahun Itu?",
+   "x": "Volume opsi kembali ke level 2021, namun exchange-traded fund (ETF) Bitcoin mencatat arus keluar. Lihat alasan mengapa BTC belum mengulang kenaikan dua kali lipat seperti tahun 2021.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/paul-tudor-jones-peringatan-saham-2027-bitcoin",
-   "img": "https://assets.beincrypto.com/img/JnfIeotuin-lRFtlTrLNqgErpIA=/smart/d5a3749a853c44c9a628223dd8eeb1bc",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/trader-opsi-level-2021-bitcoin-melipatganda",
+   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-13T19:56:14"
+   "published_at": "2026-10-13T08:56:09"
   },
   {
    "id": 6307,
@@ -564,18 +564,18 @@
    "published_at": "2026-10-13T10:00:29"
   },
   {
-   "id": 6490,
+   "id": 6514,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penambang Bitcoin anjlok hingga 13% dalam penjualan terburuk Wall Street sejak Juli",
-   "x": "Saham perusahaan penambang Bitcoin seperti TeraWulf, Core Scientific, Cipher Mining, dan IREN masing-masing turun lebih dari 12%. Penurunan ini terjadi setelah data inflasi yang lebih tinggi menekan saham perusahaan infrastruktur AI.",
+   "t": "ETF Bitcoin lepas $261 juta, dana XRP berlawanan tren aliran keluar mingguan",
+   "x": "ETF Bitcoin mencatat aliran dana keluar bersih sebesar $151 juta sejak Senin, melanjutkan tren penarikan investor. Ini menunjukkan adanya pergeseran sentimen pasar terhadap aset kripto utama.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YSG3DXFXJ6NSHP3JM0EBPS/stocks.jpg",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
    "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T03:29:22"
+   "published_at": "2026-10-15T07:23:43"
   },
   {
    "id": 6299,
@@ -620,18 +620,18 @@
    "published_at": "2026-10-13T11:26:45"
   },
   {
-   "id": 6283,
+   "id": 6576,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Trader Opsi Sudah Kembali ke Level 2021: Akankah Bitcoin Mengulangi Kenaikan Dua Kali Lipat Tahun Itu?",
-   "x": "Volume opsi kembali ke level 2021, namun exchange-traded fund (ETF) Bitcoin mencatat arus keluar. Lihat alasan mengapa BTC belum mengulang kenaikan dua kali lipat seperti tahun 2021.",
+   "t": "Bitcoin Baru Saja Turun di Bawah US$80.000: Apa yang Memicu Selloff?",
+   "x": "Penurunan Bitcoin di bawah US$80.000 nampaknya menjadi kelanjutan dari tekanan jual yang terus membesar selama seminggu ini, dengan kejutan inflasi baru hari ini memberikan alasan tambahan bagi trader untuk melakukan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trader-opsi-level-2021-bitcoin-melipatganda",
-   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/harga-bitcoin-turun-di-bawah-80k-inflasi",
+   "img": "https://assets.beincrypto.com/img/5h1Yyq8j9GrN6p0zY3gglmhrt_A=/smart/d785d68bf74144e98b166447d2b1ca6a",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-13T08:56:09"
+   "published_at": "2026-10-15T14:44:59"
   },
   {
    "id": 6244,
@@ -648,18 +648,18 @@
    "published_at": "2026-10-12T20:50:19"
   },
   {
-   "id": 6314,
+   "id": 6224,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strive laporkan latihan warrant $208 juta saat kepemilikan Bitcoin naik 11%",
-   "x": "Strive kini menjadi pemegang Bitcoin korporat terbesar kelima yang diperdagangkan di bursa, dengan total 32.773 BTC. Perusahaan terus memperluas cadangan kasnya melalui pendanaan ekuitas.",
+   "t": "Bisnis penambangan kripto FTX kini dipakai untuk AI",
+   "x": "Perusahaan bursa kripto yang telah bangkrut ini mengakuisisi 20% saham di Genesis Digital Assets sebelum mengajukan kebangkrutan. Akuisisi ini menunjukkan bagaimana aset FTX kini dialihkan untuk pengembangan teknologi kecerdasan buatan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TW19B9G4WJ5289S60N1QGE/bitcoin-reserve.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T15:57:55"
+   "published_at": "2026-10-12T21:11:26"
   },
   {
    "id": 6557,
@@ -670,7 +670,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T11:48:42"
@@ -684,7 +684,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251229_Bitcoin_News_3.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:51:54"
@@ -718,32 +718,32 @@
    "published_at": "2026-10-12T19:08:42"
   },
   {
-   "id": 6209,
+   "id": 6438,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Rebound Bitcoin dekati zona jual potensial di $85.000",
-   "x": "Bitcoin dan Ethereum menunjukkan pemulihan setelah penurunan akhir pekan, namun indikator on-chain dan posisi derivatif mengindikasikan adanya hambatan. Potensi penjualan di level $85.000 dapat membatasi kenaikan lebih lanjut.",
+   "t": "Strive Beli Bitcoin $280 Juta, Namun Bitcoin per Saham Naik Tipis",
+   "x": "Strive menambah kepemilikan Bitcoinnya, namun dampaknya terhadap nilai per saham biasa terbilang kecil. Hal ini menunjukkan kompleksitas dalam mengukur dampak langsung pembelian aset kripto terhadap valuasi perusahaan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-climb-resistance-pressure.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/strives-bitcoin-buying-diverges-from-strategys-preferred-buyback-focus",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-preferred-share-allocation.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T14:20:51"
+   "published_at": "2026-10-14T11:10:07"
   },
   {
-   "id": 6514,
+   "id": 6270,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin lepas $261 juta, dana XRP berlawanan tren aliran keluar mingguan",
-   "x": "ETF Bitcoin mencatat aliran dana keluar bersih sebesar $151 juta sejak Senin, melanjutkan tren penarikan investor. Ini menunjukkan adanya pergeseran sentimen pasar terhadap aset kripto utama.",
+   "t": "Bitcoin capai resistensi $84K saat anjloknya saham teknologi Korea perparah kerugian KOSPI",
+   "x": "Likuiditas Bitcoin menahan harga BTC di bawah $84.000 di tengah aksi jual saham teknologi dan semikonduktor Korea Selatan yang meningkat.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
-   "a": "7 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T07:23:43"
+   "published_at": "2026-10-13T09:42:00"
   },
   {
    "id": 6329,
@@ -754,24 +754,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T16:46:05"
   },
   {
-   "id": 6261,
+   "id": 6579,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin anjlok di bawah US$82.000 seiring likuidasi kripto tembus US$770 juta",
-   "x": "Harga Bitcoin turun di bawah US$82.000 akibat lonjakan likuidasi aset kripto yang mencapai US$770 juta. Sebagian besar likuidasi berasal dari posisi long.",
+   "t": "Produksi Bitcoin CleanSpark dan BitFuFu turun pada September",
+   "x": "Produksi Bitcoin CleanSpark dan BitFuFu mengalami penurunan pada September, sementara Canaan stagnan. BitFuFu juga menghadapi ketidakpastian terkait kesepakatan di Ethiopia.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/210930_Bitcoin_Mining_General.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T01:57:49"
+   "published_at": "2026-10-15T16:06:00"
   },
   {
    "id": 6406,
@@ -802,32 +802,32 @@
    "published_at": "2026-10-13T07:51:27"
   },
   {
-   "id": 6438,
+   "id": 6472,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strive Beli Bitcoin $280 Juta, Namun Bitcoin per Saham Naik Tipis",
-   "x": "Strive menambah kepemilikan Bitcoinnya, namun dampaknya terhadap nilai per saham biasa terbilang kecil. Hal ini menunjukkan kompleksitas dalam mengukur dampak langsung pembelian aset kripto terhadap valuasi perusahaan.",
+   "t": "Keyakinan operator Bitcoin Fog ditegakkan tanpa pengungkapan kode sumber",
+   "x": "",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/strives-bitcoin-buying-diverges-from-strategys-preferred-buyback-focus",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-preferred-share-allocation.webp",
+   "url": "https://cryptoslate.com/bitcoin-fog-appeal-upheld-wallet-tracing-without-requiring-its-source-code",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-fog-blockchain-investigation.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T11:10:07"
+   "published_at": "2026-10-14T15:30:57"
   },
   {
-   "id": 6194,
+   "id": 6317,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strategy tambah 250 Bitcoin, kepemilikan capai 848.250 BTC",
-   "x": "Perusahaan Strategy milik Michael Saylor kembali menambah kepemilikan Bitcoin, menunjukkan keyakinan pada aset digital ini. Investor Indonesia dapat melihat ini sebagai sinyal kepercayaan institusi terhadap Bitcoin.",
+   "t": "Apakah Bitcoin Berbohong tentang Lightning Network?",
+   "x": "Seorang pengembang Bitcoin mengkritik klaim tentang peningkatan kegunaan Lightning Network. Masih ada keraguan mengenai adopsi sehari-hari dan sejauh mana teknologi ini benar-benar mempermudah transaksi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G9K7C73KY8G43Y46W76Q1Z/magazinebig-questions-can-btc-survive-10-year.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-12T12:31:51"
+   "published_at": "2026-10-13T13:30:00"
   },
   {
    "id": 6357,

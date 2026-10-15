@@ -1,22 +1,8 @@
 {
- "total": 8,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 6218,
-   "k": "nft",
-   "cat": "NFT & Gaming",
-   "t": "Bug di XRP Ledger berpotensi ciptakan XRP palsu sejak 2015",
-   "x": "Sebuah celah keamanan pada mesin pembayaran XRP Ledger yang ada sejak 2015 berpotensi disalahgunakan untuk mencetak XRP melebihi suplai yang ditentukan. Hal ini dapat mengganggu stabilitas token.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T15:56:35"
-  },
   {
    "id": 6284,
    "k": "nft",
@@ -46,20 +32,6 @@
    "published_at": "2026-10-13T04:43:18"
   },
   {
-   "id": 6273,
-   "k": "nft",
-   "cat": "NFT & Gaming",
-   "t": "Blur tutup situs webnya, mengapa kolektor NFT bersorak?",
-   "x": "Penutupan situs web Blur memicu kembali kritik terhadap kebijakan royalti dan imbalan token yang dinilai merugikan kreator. Hal ini terjadi meski Blur sempat mengungguli OpenSea saat puncak popularitas NFT.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T05:38:37"
-  },
-  {
    "id": 6301,
    "k": "nft",
    "cat": "NFT & Gaming",
@@ -72,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T09:12:45"
+  },
+  {
+   "id": 6273,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Blur tutup situs webnya, mengapa kolektor NFT bersorak?",
+   "x": "Penutupan situs web Blur memicu kembali kritik terhadap kebijakan royalti dan imbalan token yang dinilai merugikan kreator. Hal ini terjadi meski Blur sempat mengungguli OpenSea saat puncak popularitas NFT.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T05:38:37"
   },
   {
    "id": 6324,
@@ -110,7 +96,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T14:51:28"
