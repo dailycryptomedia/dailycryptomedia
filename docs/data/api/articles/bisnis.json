@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-10-14T11:58:43"
   },
   {
-   "id": 6396,
+   "id": 6591,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Induk Kraken beli bank Lituania Saldo Bank untuk ekspansi TradFi",
-   "x": "Payward, perusahaan induk Kraken, akan mengakuisisi Saldo Bank di Lituania untuk memperluas layanan perbankan tradisional di empat pasar Uni Eropa. Akuisisi ini menandakan integrasi yang lebih dalam antara layanan kripto dan keuangan tradisional.",
+   "t": "Binance.US incar valuasi $1 miliar dalam putaran pendanaan $100 juta",
+   "x": "Binance.US dilaporkan mencari pendanaan senilai $100 juta dengan valuasi $1 miliar. Dana ini diharapkan dapat memulihkan pangsa pasar setelah penyelesaian masalah regulasi tahun lalu.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X497VFYF2ZYRYC78M441M5/hi-what-is-a-decentralized-money-market-and-kraken-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T12:26:05"
+   "published_at": "2026-10-15T20:21:11"
   },
   {
    "id": 6585,
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T16:28:50"
@@ -74,18 +74,18 @@
    "published_at": "2026-10-14T15:00:00"
   },
   {
-   "id": 6372,
+   "id": 6396,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Williams: kelangkaan pasokan AI bisa berlangsung lebih dari 2 tahun",
-   "x": "Presiden Federal Reserve New York, John Williams, memperkirakan kelangkaan pasokan kecerdasan buatan (AI) akan berlangsung lebih dari dua tahun. Pandangannya ini muncul bersamaan dengan penegasan kembali pandangannya bahwa The Fed mungkin perlu menaikkan suku bunga sekali lagi tahun ini.",
+   "t": "Induk Kraken beli bank Lituania Saldo Bank untuk ekspansi TradFi",
+   "x": "Payward, perusahaan induk Kraken, akan mengakuisisi Saldo Bank di Lituania untuk memperluas layanan perbankan tradisional di empat pasar Uni Eropa. Akuisisi ini menandakan integrasi yang lebih dalam antara layanan kripto dan keuangan tradisional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
+   "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X497VFYF2ZYRYC78M441M5/hi-what-is-a-decentralized-money-market-and-kraken-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T05:30:10"
+   "published_at": "2026-10-14T12:26:05"
   },
   {
    "id": 6242,
@@ -116,6 +116,20 @@
    "published_at": "2026-10-14T14:12:35"
   },
   {
+   "id": 6372,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Williams: kelangkaan pasokan AI bisa berlangsung lebih dari 2 tahun",
+   "x": "Presiden Federal Reserve New York, John Williams, memperkirakan kelangkaan pasokan kecerdasan buatan (AI) akan berlangsung lebih dari dua tahun. Pandangannya ini muncul bersamaan dengan penegasan kembali pandangannya bahwa The Fed mungkin perlu menaikkan suku bunga sekali lagi tahun ini.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T05:30:10"
+  },
+  {
    "id": 6525,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -124,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rasio-pendapatan-komputasi-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T04:51:17"
