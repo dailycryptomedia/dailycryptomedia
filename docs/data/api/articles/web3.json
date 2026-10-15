@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/perkembangan-sui-proyeksi-2027",
    "img": "https://assets.beincrypto.com/img/Rb9oluIf2XsOiPinw49qY3eT3FY=/smart/524c148b9b89420f9b70de2ec6c16b84",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T12:59:43"
+  },
+  {
+   "id": 6488,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Solana jadwalkan upgrade Alpenglow 21 Oktober untuk percepat transaksi",
+   "x": "Solana akan melakukan upgrade Alpenglow pada 21 Oktober untuk mengganti konsensus mainnet. Perubahan ini diharapkan dapat mempercepat finalisasi transaksi menjadi 150 milidetik, yang krusial bagi skalabilitas jaringan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solana-sets-october-21-for-massive-alpenglow-upgrade-that-could-make-transactions-99-faster-to-finalize",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-validator-upgrade-route.webp",
+   "a": "23 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T00:00:17"
   },
   {
    "id": 6312,
@@ -30,20 +44,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T19:07:04"
-  },
-  {
-   "id": 6156,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Implan tak sah di wallet Ledger picu celah keamanan",
-   "x": "Ledger mengonfirmasi adanya implan perangkat keras tidak sah pada salah satu dompet digital pelanggannya. Insiden ini terjadi di tengah perkiraan kerugian aset kripto mencapai US$93,2 juta akibat pencurian.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ledger-confirms-hidden-implant-in-crypto-wallet-as-93-million-theft-investigation-widens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cryptobilis-wallet-route-trace.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T06:00:34"
   },
   {
    "id": 6216,
@@ -96,10 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/apakah-ada-hardware-wallet-yang-aman-2026",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-11T23:50:00"
+  },
+  {
+   "id": 6156,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Implan tak sah di wallet Ledger picu celah keamanan",
+   "x": "Ledger mengonfirmasi adanya implan perangkat keras tidak sah pada salah satu dompet digital pelanggannya. Insiden ini terjadi di tengah perkiraan kerugian aset kripto mencapai US$93,2 juta akibat pencurian.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ledger-confirms-hidden-implant-in-crypto-wallet-as-93-million-theft-investigation-widens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cryptobilis-wallet-route-trace.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T06:00:34"
   },
   {
    "id": 6397,
@@ -110,24 +124,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X1FW4W2ZV0X6E3AVRE1XJT/hi-what-is-a-multisignature-wallet-and-how-does-it-work.jpg",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T11:59:42"
-  },
-  {
-   "id": 6354,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kekhawatiran implan wallet kripto Ledger picu tindakan keras reseller Trezor",
-   "x": "Trezor membatasi reseller resminya setelah serangan terhadap Ledger mengungkap kerentanan distribusi wallet kripto. Langkah ini menunjukkan peningkatan kewaspadaan terhadap keamanan perangkat keras aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T20:40:49"
   },
   {
    "id": 6160,
@@ -152,10 +152,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ripple-privy-ai-agent-pembayaran-xrp-ledger",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T05:23:11"
+  },
+  {
+   "id": 6354,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Kekhawatiran implan wallet kripto Ledger picu tindakan keras reseller Trezor",
+   "x": "Trezor membatasi reseller resminya setelah serangan terhadap Ledger mengungkap kerentanan distribusi wallet kripto. Langkah ini menunjukkan peningkatan kewaspadaan terhadap keamanan perangkat keras aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T20:40:49"
   },
   {
    "id": 6269,
@@ -170,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T10:09:01"
-  },
-  {
-   "id": 6212,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Solana uji alamat palsu dengan $10, lalu kirim $30.750",
-   "x": "Sebuah dompet Solana melakukan uji coba pengiriman dana kecil ke alamat yang salah, yang kemudian diikuti dengan pengiriman dana besar ke alamat yang sama. Insiden ini menyoroti pentingnya kehati-hatian dalam transaksi aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T10:55:03"
   },
   {
    "id": 6162,
@@ -212,6 +212,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-12T13:41:12"
+  },
+  {
+   "id": 6212,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Solana uji alamat palsu dengan $10, lalu kirim $30.750",
+   "x": "Sebuah dompet Solana melakukan uji coba pengiriman dana kecil ke alamat yang salah, yang kemudian diikuti dengan pengiriman dana besar ke alamat yang sama. Insiden ini menyoroti pentingnya kehati-hatian dalam transaksi aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dust-transfer-deception.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T10:55:03"
   },
   {
    "id": 6272,
@@ -250,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T23:28:19"

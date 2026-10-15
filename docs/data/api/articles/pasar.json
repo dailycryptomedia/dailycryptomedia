@@ -1,5 +1,5 @@
 {
- "total": 159,
+ "total": 152,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,24 +26,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQ6AF5TDRNQV9MEV2XN6EB/canada-1.jpg",
-   "a": "9 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:00:00"
-  },
-  {
-   "id": 6127,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kesepakatan Unichain Optimism satukan lebih banyak rantai di bawah satu operator",
-   "x": "Optimism akan mengonsolidasikan operasi lebih banyak rantai di bawah satu operator melalui kesepakatan Unichain. Migrasi ini akan memengaruhi bagaimana rute cadangan Ethereum bekerja tergantung pada kontrak yang diterapkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/optimism-layer2-ecosystem.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-11T22:00:06"
   },
   {
    "id": 6481,
@@ -54,10 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
-   "a": "14 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T21:46:04"
+  },
+  {
+   "id": 6155,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP rebound saat volume perdagangan spot Binance turun hampir 80%",
+   "x": "XRP menunjukkan pemulihan harga meskipun volume perdagangan spot di bursa Binance mengalami penurunan signifikan. Hal ini terjadi di tengah kembalinya minat investor pasca gelombang likuidasi di XRPL.to.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-futures-partially-rebuild-after-at-least-40-million-in-bullish-bets-were-liquidated",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-liquidation-market-rebound.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-12T07:30:02"
   },
   {
    "id": 6159,
@@ -124,24 +124,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4THPCR92A9D9AT5MEKWQ9WN/magazinejourneys-trevor-koverko.png",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:30:00"
-  },
-  {
-   "id": 6155,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "XRP rebound saat volume perdagangan spot Binance turun hampir 80%",
-   "x": "XRP menunjukkan pemulihan harga meskipun volume perdagangan spot di bursa Binance mengalami penurunan signifikan. Hal ini terjadi di tengah kembalinya minat investor pasca gelombang likuidasi di XRPL.to.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-futures-partially-rebuild-after-at-least-40-million-in-bullish-bets-were-liquidated",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-liquidation-market-rebound.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T07:30:02"
   },
   {
    "id": 6482,
@@ -152,10 +138,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
-   "a": "44 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T21:16:03"
+  },
+  {
+   "id": 6352,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Suku bunga deposito AS hambat adopsi USDC, model BIS ungkap alasannya",
+   "x": "Pertumbuhan USDC terpengaruh oleh perubahan suku bunga deposito dan imbalan bursa. Hal ini menjadi pertimbangan penting bagi investor aset digital yang memantau stabilitas stablecoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/us-deposit-rates-choke-usdc-adoption-and-a-bis-model-reveals-why",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-rates-stablecoin-pressure.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T23:10:52"
   },
   {
    "id": 6368,
@@ -166,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kocak-bot-pump-fun-niat-bantu-memecoin-terbang-malah-boncos-us35-juta",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:30:08"
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T17:47:18"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/90725f28abbda8fc3beba48c502b8cb9cd1f93a7-1000x664.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "21 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T01:00:00"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-bank-of-america-cz-charges",
    "img": "https://assets.beincrypto.com/img/Yz6DHEFayUfdz6KZldcwtgrfKoQ=/smart/266f73117a4f489fb6fcb191af409bec",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T18:09:31"
@@ -222,24 +222,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T17:56:45"
-  },
-  {
-   "id": 6352,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Suku bunga deposito AS hambat adopsi USDC, model BIS ungkap alasannya",
-   "x": "Pertumbuhan USDC terpengaruh oleh perubahan suku bunga deposito dan imbalan bursa. Hal ini menjadi pertimbangan penting bagi investor aset digital yang memantau stabilitas stablecoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-deposit-rates-choke-usdc-adoption-and-a-bis-model-reveals-why",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-rates-stablecoin-pressure.webp",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T23:10:52"
   },
   {
    "id": 6355,
@@ -254,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T21:46:04"
+  },
+  {
+   "id": 6469,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Perlombaan kuantum Ethereum berlanjut, zkSync gandeng bank dan Starknet pertimbangkan keluar",
+   "x": "zkSync mengumumkan teknologi baru yang diklaim mampu memproses blok Ethereum lebih cepat. Sementara itu, Starknet mempertimbangkan menjadi blockchain layer-1 mandiri.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T17:50:35"
   },
   {
    "id": 6158,
@@ -278,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-2.jpg",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T20:30:15"
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sinyal-bearish-ethereum-cadangan-exchange-whale",
    "img": "https://assets.beincrypto.com/img/xMoUTAvotzENVFFWdEHtg-eZvHc=/smart/db20cca74a804a9faf00c297f9428de5",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T13:32:15"
@@ -326,20 +326,6 @@
    "published_at": "2026-10-13T11:11:27"
   },
   {
-   "id": 6469,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Perlombaan kuantum Ethereum berlanjut, zkSync gandeng bank dan Starknet pertimbangkan keluar",
-   "x": "zkSync mengumumkan teknologi baru yang diklaim mampu memproses blok Ethereum lebih cepat. Sementara itu, Starknet mempertimbangkan menjadi blockchain layer-1 mandiri.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T17:50:35"
-  },
-  {
    "id": 6237,
    "k": "pasar",
    "cat": "Pasar",
@@ -354,6 +340,20 @@
    "published_at": "2026-10-12T21:46:03"
   },
   {
+   "id": 6340,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ethereum Name Service rencanakan perombakan besar .eth dengan konsekuensi permanen",
+   "x": "Ethereum Name Service (ENS) akan melakukan pembaruan besar pada sistem nama domain .eth. Perubahan ini membawa konsekuensi permanen bagi pemegang domain yang ingin memigrasikan namanya.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ens-one-way-transition.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T18:20:02"
+  },
+  {
    "id": 6387,
    "k": "pasar",
    "cat": "Pasar",
@@ -362,7 +362,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-bitcoin-bisa-terbang-ke-us93-000-tapi-wajib-tembus-level-ini",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T08:00:29"
@@ -404,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/demo-hover-tesla-roadster-dampak-saham-tsla",
    "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T22:48:01"
@@ -424,20 +424,6 @@
    "published_at": "2026-10-12T01:21:29"
   },
   {
-   "id": 6340,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ethereum Name Service rencanakan perombakan besar .eth dengan konsekuensi permanen",
-   "x": "Ethereum Name Service (ENS) akan melakukan pembaruan besar pada sistem nama domain .eth. Perubahan ini membawa konsekuensi permanen bagi pemegang domain yang ingin memigrasikan namanya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ens-one-way-transition.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T18:20:02"
-  },
-  {
    "id": 6300,
    "k": "pasar",
    "cat": "Pasar",
@@ -452,6 +438,20 @@
    "published_at": "2026-10-13T10:30:37"
   },
   {
+   "id": 6391,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Binance perbarui harga per detik untuk hentikan likuidasi",
+   "x": "Binance memperbarui metode penetapan harga perpetualnya untuk mencegah likuidasi. Perubahan ini bertujuan meningkatkan stabilitas pasar derivatif di bursa kripto tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/binance-updates-anthropic-mark-per-second-to-stop-liquidation",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/anthropic-synthetic-etp-pricing-standard.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T07:20:13"
+  },
+  {
    "id": 6369,
    "k": "pasar",
    "cat": "Pasar",
@@ -460,7 +460,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-14-oktober-2026-stx-amp-avax-aave-dan-dexe-mengintip-peluang-terbang",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:00:24"
@@ -494,18 +494,18 @@
    "published_at": "2026-10-13T11:02:47"
   },
   {
-   "id": 6121,
+   "id": 6346,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bot Mengubah Gap Harga Bitcoin Terkenal di Korea Selatan",
-   "x": "Harga Bitcoin di Korea Selatan bisa lebih mahal dibandingkan hampir semua negara lain. Selama bertahun-tahun, trader memburu selisih itu untuk meraih untung. Sekarang, trading otomatis membuat perlombaan tersebut jadi…",
+   "t": "Bagaimana AI Membunuh Perusahaan Foto Bernilai US$5 Miliar Ini",
+   "x": "Getty Images akan mengajukan kebangkrutan dan menjadi perusahaan privat. Lihat bagaimana tekanan AI dan utang sebesar USD2,1 miliar menghapuskan para pemegang sahamnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kimchi-premium-ai-trading-peraturan-korea",
-   "img": "https://assets.beincrypto.com/img/3m7CZej24cUvIuITfZ5huLjnK2M=/smart/26a8e6206b734deab749c4bd719503d9",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/getty-images-kebangkrutan-ai-utang-swasta",
+   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-11T21:20:29"
+   "published_at": "2026-10-13T22:38:57"
   },
   {
    "id": 6266,
@@ -522,20 +522,6 @@
    "published_at": "2026-10-13T12:22:24"
   },
   {
-   "id": 6391,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance perbarui harga per detik untuk hentikan likuidasi",
-   "x": "Binance memperbarui metode penetapan harga perpetualnya untuk mencegah likuidasi. Perubahan ini bertujuan meningkatkan stabilitas pasar derivatif di bursa kripto tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-updates-anthropic-mark-per-second-to-stop-liquidation",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/anthropic-synthetic-etp-pricing-standard.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T07:20:13"
-  },
-  {
    "id": 6430,
    "k": "pasar",
    "cat": "Pasar",
@@ -544,10 +530,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T14:03:20"
+  },
+  {
+   "id": 6353,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Lido DAO ungkap celah token, paksa tinjauan anggaran",
+   "x": "Lido DAO menemukan kelemahan pada tokennya yang memerlukan peninjauan ulang anggaran. Hal ini penting bagi pemegang token LDO dan ekosistem DeFi yang bergantung pada tata kelola yang transparan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ldo-backpack-leak.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T21:50:56"
   },
   {
    "id": 6223,
@@ -592,18 +592,18 @@
    "published_at": "2026-10-12T15:27:09"
   },
   {
-   "id": 6346,
+   "id": 6134,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bagaimana AI Membunuh Perusahaan Foto Bernilai US$5 Miliar Ini",
-   "x": "Getty Images akan mengajukan kebangkrutan dan menjadi perusahaan privat. Lihat bagaimana tekanan AI dan utang sebesar USD2,1 miliar menghapuskan para pemegang sahamnya.",
+   "t": "Bisakah Anda Percaya ChatGPT dengan Ide Terbaik Anda? Profesor NYU Bilang Pikir Dua Kali",
+   "x": "Matematikawan NYU Tristan Buckmaster memperingatkan para peneliti untuk tidak memasukkan ide orisinal ke dalam alat OpenAI. OpenAI membantahnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/getty-images-kebangkrutan-ai-utang-swasta",
-   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/ide-nyu-professor-chatgpt-openai-peringatan",
+   "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-13T22:38:57"
+   "published_at": "2026-10-12T00:25:38"
   },
   {
    "id": 6248,
@@ -620,20 +620,6 @@
    "published_at": "2026-10-13T02:41:30"
   },
   {
-   "id": 6353,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Lido DAO ungkap celah token, paksa tinjauan anggaran",
-   "x": "Lido DAO menemukan kelemahan pada tokennya yang memerlukan peninjauan ulang anggaran. Hal ini penting bagi pemegang token LDO dan ekosistem DeFi yang bergantung pada tata kelola yang transparan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ldo-backpack-leak.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T21:50:56"
-  },
-  {
    "id": 6431,
    "k": "pasar",
    "cat": "Pasar",
@@ -642,10 +628,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/ledger-nano-decrypt-style-01-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:47:44"
+  },
+  {
+   "id": 6489,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pengguna Coins.ph alami lockout aplikasi setelah intervensi bank sentral",
+   "x": "Bank sentral Filipina (BSP) melakukan intervensi yang menyebabkan pengguna Coins.ph tidak bisa mengakses aplikasi. Langkah ini bertujuan mengontrol operator judi lepas pantai, menegaskan status Coins.ph sebagai institusi berlisensi BSP.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coins-ph-protected-funds.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T22:30:33"
   },
   {
    "id": 6370,
@@ -656,7 +656,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pencurian-kripto-ledger-diduga-tembus-us103-juta-jejak-railgun-tiruan-terungkap",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T01:30:24"
@@ -670,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/12/20191210_Hex-FTC-SEC.jpg",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T15:53:15"
@@ -684,24 +684,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b5758412ecdd24d3e01a7d4d410665462a0f2b43-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:34:53"
   },
   {
-   "id": 6134,
+   "id": 6230,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bisakah Anda Percaya ChatGPT dengan Ide Terbaik Anda? Profesor NYU Bilang Pikir Dua Kali",
-   "x": "Matematikawan NYU Tristan Buckmaster memperingatkan para peneliti untuk tidak memasukkan ide orisinal ke dalam alat OpenAI. OpenAI membantahnya.",
+   "t": "CEO Broadcom Gunakan Kritikan Favorit Dunia Kripto pada Investor AI",
+   "x": "Broadcom membuat chip di balik lonjakan AI. Pada hari Senin, bos Broadcom mengatakan kepada audiens di Singapura bahwa banyak orang yang mendanai ledakan AI ini “tidak tahu apa yang sebenarnya mereka investasikan.”…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ide-nyu-professor-chatgpt-openai-peringatan",
-   "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
+   "url": "https://id.beincrypto.com/broadcom-ceo-ai-investor-casino-crypto",
+   "img": "https://assets.beincrypto.com/img/adiR_8gFxKqRCqKwR5qe-NqrQ9k=/smart/e0e2f09ccaff4fd1b659a7c1c373ddf9",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-12T00:25:38"
+   "published_at": "2026-10-12T20:28:34"
   },
   {
    "id": 6131,
@@ -712,24 +712,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T22:57:53"
-  },
-  {
-   "id": 6487,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kraken akuisisi bank Eropa senilai $181 juta, ekspansi di luar trading kripto",
-   "x": "Induk usaha Kraken, Payward, sepakat membeli bank Eropa untuk memperluas layanan ke sektor keuangan tradisional. Akuisisi ini menandai langkah strategis perusahaan di luar bisnis inti trading aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-europe.webp",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T19:50:24"
   },
   {
    "id": 6215,
@@ -744,6 +730,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-12T16:41:34"
+  },
+  {
+   "id": 6487,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kraken akuisisi bank Eropa senilai $181 juta, ekspansi di luar trading kripto",
+   "x": "Induk usaha Kraken, Payward, sepakat membeli bank Eropa untuk memperluas layanan ke sektor keuangan tradisional. Akuisisi ini menandai langkah strategis perusahaan di luar bisnis inti trading aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-europe.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T19:50:24"
   },
   {
    "id": 6262,
@@ -768,7 +768,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Copper-fluid-ribbons-frame-papertrade__clean.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-11T22:26:02"
@@ -782,24 +782,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:24:12"
   },
   {
-   "id": 6230,
+   "id": 6252,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CEO Broadcom Gunakan Kritikan Favorit Dunia Kripto pada Investor AI",
-   "x": "Broadcom membuat chip di balik lonjakan AI. Pada hari Senin, bos Broadcom mengatakan kepada audiens di Singapura bahwa banyak orang yang mendanai ledakan AI ini “tidak tahu apa yang sebenarnya mereka investasikan.”…",
+   "t": "Citi Sebut S&P 500 Perlu Saham AI dan Non-AI untuk Capai 8.100",
+   "x": "Chronert dari Citi mengatakan bahwa S&P 500 membutuhkan saham AI dan saham sensitif terhadap suku bunga untuk sama-sama reli agar mencapai 8.100 saat musim laporan keuangan dimulai.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/broadcom-ceo-ai-investor-casino-crypto",
-   "img": "https://assets.beincrypto.com/img/adiR_8gFxKqRCqKwR5qe-NqrQ9k=/smart/e0e2f09ccaff4fd1b659a7c1c373ddf9",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/citi-sp-500-8100-target-earnings",
+   "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-12T20:28:34"
+   "published_at": "2026-10-13T03:37:00"
   },
   {
    "id": 6358,
@@ -810,24 +810,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4W39C53K5A0QZYE5SN4HY81/spring.jpg",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T02:19:56"
-  },
-  {
-   "id": 6140,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Starknet pertimbangkan pindah dari Ethereum ke Layer 1 tahan kuantum",
-   "x": "Pengembang Starknet mempertimbangkan untuk meninggalkan Ethereum demi membangun blockchain Layer 1 independen. Keputusan ini dapat memengaruhi ekosistem Layer 2 Ethereum dan strategi pengembang lain.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-11T23:00:46"
   },
   {
    "id": 6432,
@@ -838,10 +824,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/floyd-mayweather-sahil-arora-decrypt-style-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:41:21"
+  },
+  {
+   "id": 6140,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Starknet pertimbangkan pindah dari Ethereum ke Layer 1 tahan kuantum",
+   "x": "Pengembang Starknet mempertimbangkan untuk meninggalkan Ethereum demi membangun blockchain Layer 1 independen. Keputusan ini dapat memengaruhi ekosistem Layer 2 Ethereum dan strategi pengembang lain.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-11T23:00:46"
   }
  ]
 }
