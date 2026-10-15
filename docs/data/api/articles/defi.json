@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T20:16:05"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T05:32:14"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:07:45"
@@ -88,18 +88,18 @@
    "published_at": "2026-10-12T14:53:25"
   },
   {
-   "id": 6447,
+   "id": 6521,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Hacker Tarik US$86.000 dalam Token Terkunci dari Vault Kripto Bersama",
-   "x": "Seorang hacker menguras $86.000 dari shared vesting pool UNCX di Ethereum, menarik token yang telah dikunci oleh proyek lain.",
+   "t": "NBA Kembali Diterpa Postingan Meme Coin Palsu, Kali Ini di Instagram",
+   "x": "Akun Instagram resmi NBA dilaporkan diretas pada 14 Oktober dan digunakan untuk meminta para pengikutnya membeli sebuah meme coin bernama NBA Coin (NBA). Pihak liga belum mengonfirmasi peretasan ini, dan postingan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/eksploit-uncx-menguras-pool-vesting-token",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "12 jam lalu",
+   "url": "https://id.beincrypto.com/nba-instagram-hack-fake-meme-coin",
+   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-14T16:51:54"
+   "published_at": "2026-10-15T07:22:41"
   },
   {
    "id": 6440,
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T09:10:03"
@@ -130,46 +130,18 @@
    "published_at": "2026-10-13T15:24:14"
   },
   {
-   "id": 6256,
+   "id": 6447,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Treasury Lebih Rendah Risiko Kini Berikan Imbal Hasil Lebih Baik dari S&P 500 saat Yield Spread Capai -1,5%",
-   "x": "Spread imbal hasil S&P 500 turun menjadi -1,5 poin, berada di bawah Treasury. Berikut arti dari ekuitas risk premium negatif.",
+   "t": "Hacker Tarik US$86.000 dalam Token Terkunci dari Vault Kripto Bersama",
+   "x": "Seorang hacker menguras $86.000 dari shared vesting pool UNCX di Ethereum, menarik token yang telah dikunci oleh proyek lain.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sp-500-yield-spread-treasuries-negatif",
-   "img": "https://assets.beincrypto.com/img/nDHdVqJtiOTkU3l_tikwhKdC3SY=/smart/68ca7b6782944dc2b3bf3c4d2ff4423b",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/eksploit-uncx-menguras-pool-vesting-token",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-13T01:31:40"
-  },
-  {
-   "id": 6157,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Rencana rollover USDG Aave tawarkan imbal hasil di bawah suku bunga pinjaman",
-   "x": "Rencana Aave untuk mengganti USDG dengan token baru menawarkan imbal hasil yang lebih rendah dibandingkan suku bunga pinjaman yang ada. Hal ini menimbulkan pertanyaan mengenai daya tarik skema baru tersebut bagi pengguna.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/09/aave-defi-lending.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T02:00:47"
-  },
-  {
-   "id": 6154,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Sui Foundation investasikan $30 juta pada DATA Network saat protokol data AI migrasi ke Sui",
-   "x": "Sui Foundation mengucurkan dana signifikan untuk DATA Network yang akan beroperasi secara native di blockchain Sui. Migrasi ini diharapkan meningkatkan kapabilitas protokol data AI dan memperluas ekosistem Sui.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241118_Sui_News.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-12T02:00:00"
+   "published_at": "2026-10-14T16:51:54"
   },
   {
    "id": 6344,
@@ -184,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T13:00:58"
+  },
+  {
+   "id": 6256,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Treasury Lebih Rendah Risiko Kini Berikan Imbal Hasil Lebih Baik dari S&P 500 saat Yield Spread Capai -1,5%",
+   "x": "Spread imbal hasil S&P 500 turun menjadi -1,5 poin, berada di bawah Treasury. Berikut arti dari ekuitas risk premium negatif.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/sp-500-yield-spread-treasuries-negatif",
+   "img": "https://assets.beincrypto.com/img/nDHdVqJtiOTkU3l_tikwhKdC3SY=/smart/68ca7b6782944dc2b3bf3c4d2ff4423b",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-13T01:31:40"
   }
  ]
 }
