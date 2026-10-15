@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kulkas-supermarket-prancis-mencapai-50-derajat",
    "img": "https://assets.beincrypto.com/img/FTzKH7dvIMioxP2foMYPJ593DjM=/smart/7ded704dc603426caba7c281876d9300",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T11:19:37"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usde-redemption-bridge-risk.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T12:00:32"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T20:16:05"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:07:45"
@@ -96,24 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nba-instagram-hack-fake-meme-coin",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T07:22:41"
   },
   {
-   "id": 6440,
+   "id": 6568,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Interactive Brokers masuk pasar staking Ethereum senilai $110 miliar",
-   "x": "Interactive Brokers mulai menawarkan layanan staking Ethereum, merespons permintaan investor institusi yang meningkat. Hal ini menunjukkan adopsi produk DeFi oleh pemain keuangan tradisional.",
+   "t": "Rencana keluar lebih cepat Ethereum akan membuat validator baru menunggu",
+   "x": "Perubahan pada mekanisme penarikan validator Ethereum dapat menyebabkan penundaan bagi validator baru. Hal ini berpotensi memengaruhi likuiditas dan imbal hasil staking di jaringan tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-validator-activation-tunnel.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T09:10:03"
+   "published_at": "2026-10-15T13:20:02"
   },
   {
    "id": 6335,
@@ -138,24 +138,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/eksploit-uncx-menguras-pool-vesting-token",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T16:51:54"
   },
   {
-   "id": 6344,
+   "id": 6440,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Keterbukaan Likuiditas Sky Senilai $4,4 Miliar Ungkap Kebutuhan Rute Bank Terpisah",
-   "x": "Pengungkapan likuiditas Sky menyoroti cara pencairan USDS yang memerlukan jalur bank terpisah. Hal ini penting untuk memahami aliran dana masuk dan keluar aset digital di pasar.",
+   "t": "Interactive Brokers masuk pasar staking Ethereum senilai $110 miliar",
+   "x": "Interactive Brokers mulai menawarkan layanan staking Ethereum, merespons permintaan investor institusi yang meningkat. Hal ini menunjukkan adopsi produk DeFi oleh pemain keuangan tradisional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/psm-liquidity-cash-flow.webp",
+   "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-staking-access-checkpoint.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T13:00:58"
+   "published_at": "2026-10-14T09:10:03"
   },
   {
    "id": 6256,
@@ -170,6 +170,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T01:31:40"
+  },
+  {
+   "id": 6344,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Keterbukaan Likuiditas Sky Senilai $4,4 Miliar Ungkap Kebutuhan Rute Bank Terpisah",
+   "x": "Pengungkapan likuiditas Sky menyoroti cara pencairan USDS yang memerlukan jalur bank terpisah. Hal ini penting untuk memahami aliran dana masuk dan keluar aset digital di pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/psm-liquidity-cash-flow.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-13T13:00:58"
   }
  ]
 }
