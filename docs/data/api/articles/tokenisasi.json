@@ -1,5 +1,5 @@
 {
- "total": 41,
+ "total": 42,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-brokerage-market-bridge.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T18:40:19"
@@ -68,10 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News_3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T18:25:54"
+  },
+  {
+   "id": 6699,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Strategi raksasa kas Bitcoin hadapi penghapusan indeks MSCI",
+   "x": "MSCI akan menghapus perusahaan yang neracanya didominasi satu aset mulai 30 November. Aturan baru ini berpotensi mempengaruhi perusahaan yang menyimpan Bitcoin dalam jumlah besar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T18:16:04"
   },
   {
    "id": 6351,
@@ -88,20 +102,6 @@
    "published_at": "2026-10-13T21:52:00"
   },
   {
-   "id": 6434,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pemilik Kraken, Payward, beli bank Lituania Saldo untuk ekspansi UE",
-   "x": "Perusahaan induk Kraken, Payward, mengakuisisi Saldo Bank di Lituania sebagai bagian dari strategi ekspansi ke Eropa. Langkah ini memungkinkan Kraken untuk menawarkan layanan keuangan terintegrasi, menggabungkan aset kripto dan tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T10:21:34"
-  },
-  {
    "id": 6477,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bank-of-america-target-harga-emas-akhir-2026",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T21:19:48"
@@ -130,18 +130,18 @@
    "published_at": "2026-10-14T07:00:04"
   },
   {
-   "id": 6367,
+   "id": 6693,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Metaplanet luncurkan buyback saham US$380 juta setelah saham anjlok 90%",
-   "x": "Metaplanet berencana mengumpulkan dana US$329 juta untuk membiayai ulang pinjaman yang dijamin Bitcoin dan program pembelian kembali saham. Langkah ini diambil setelah harga saham perusahaan anjlok hampir 90% dari puncaknya.",
+   "t": "Tata kelola Cardano terhambat karena kas cap 91%",
+   "x": "Dana kas Cardano telah terpakai 91% dari batas maksimal 500 juta ADA, dan dana masuk tidak dapat menambahnya. Hal ini dapat membatasi pendanaan proyek di masa depan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metaplanet-convertible-bonds-standard-v2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/cardano-has-42-6-million-ada-left-under-its-current-treasury-spending-limit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-withdrawal-crane-lift.webp",
+   "a": "18 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T00:30:45"
+   "published_at": "2026-10-16T21:10:02"
   },
   {
    "id": 6529,
@@ -172,6 +172,20 @@
    "published_at": "2026-10-14T15:47:18"
   },
   {
+   "id": 6434,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Pemilik Kraken, Payward, beli bank Lituania Saldo untuk ekspansi UE",
+   "x": "Perusahaan induk Kraken, Payward, mengakuisisi Saldo Bank di Lituania sebagai bagian dari strategi ekspansi ke Eropa. Langkah ini memungkinkan Kraken untuk menawarkan layanan keuangan terintegrasi, menggabungkan aset kripto dan tradisional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T10:21:34"
+  },
+  {
    "id": 6653,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -180,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/0a95ca21c7d01a59993d2008992716cbc1158482-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T10:54:35"
@@ -194,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jepang-megabank-stablecoin-yen-uji-coba-lintas-negara",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-16T13:05:39"
@@ -208,24 +222,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/mastercard-makin-serius-garap-stablecoin-fiat-dan-kripto-kini-disatukan",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T09:00:28"
   },
   {
-   "id": 6590,
+   "id": 6367,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Australia Pertimbangkan Aturan Modal A$14 Juta Seiring Pengetatan Regulasi Kripto",
-   "x": "Australia mengusulkan aturan modal minimum A$200.000 untuk kustodian aset kripto sebagai bagian dari pengetatan regulasi. Aturan ini juga mencakup uji aset dan pendapatan.",
+   "t": "Metaplanet luncurkan buyback saham US$380 juta setelah saham anjlok 90%",
+   "x": "Metaplanet berencana mengumpulkan dana US$329 juta untuk membiayai ulang pinjaman yang dijamin Bitcoin dan program pembelian kembali saham. Langkah ini diambil setelah harga saham perusahaan anjlok hampir 90% dari puncaknya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/asic-crypto-capital-requirements.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metaplanet-convertible-bonds-standard-v2.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T15:50:10"
+   "published_at": "2026-10-14T00:30:45"
   },
   {
    "id": 6642,
@@ -236,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T13:33:40"
@@ -250,7 +264,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/img-banner-card-1-1.png",
-   "a": "53 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T17:21:29"
@@ -264,7 +278,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T10:48:49"
@@ -284,18 +298,18 @@
    "published_at": "2026-10-14T13:06:41"
   },
   {
-   "id": 6439,
+   "id": 6590,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bank of America dukung aturan AML kripto, tapi laporkan aktivitas mencurigakan senilai $5 miliar",
-   "x": "Bank of America menyatakan dukungannya terhadap aturan anti-pencucian uang (AML) untuk perusahaan kripto. Namun, bank ini dilaporkan menghadapi denda besar terkait aktivitas mencurigakan yang ditangani.",
+   "t": "Australia Pertimbangkan Aturan Modal A$14 Juta Seiring Pengetatan Regulasi Kripto",
+   "x": "Australia mengusulkan aturan modal minimum A$200.000 untuk kustodian aset kripto sebagai bagian dari pengetatan regulasi. Aturan ini juga mencakup uji aset dan pendapatan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bank-of-america-backed-strict-crypto-aml-rules-before-admitting-5-billion-reporting-failure",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-compliance-tangle.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/asic-crypto-capital-requirements.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T10:10:28"
+   "published_at": "2026-10-15T15:50:10"
   },
   {
    "id": 6676,
@@ -306,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
-   "a": "52 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T17:21:45"
@@ -352,6 +366,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T12:35:19"
+  },
+  {
+   "id": 6439,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank of America dukung aturan AML kripto, tapi laporkan aktivitas mencurigakan senilai $5 miliar",
+   "x": "Bank of America menyatakan dukungannya terhadap aturan anti-pencucian uang (AML) untuk perusahaan kripto. Namun, bank ini dilaporkan menghadapi denda besar terkait aktivitas mencurigakan yang ditangani.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bank-of-america-backed-strict-crypto-aml-rules-before-admitting-5-billion-reporting-failure",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-compliance-tangle.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T10:10:28"
   },
   {
    "id": 6395,
@@ -404,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RPYETV13NXSCMPJ7ZAB3BQ/hi-tokenizing-real-estate-in-the-united-states-crypto-market.png",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T10:27:18"
@@ -418,7 +446,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/strategy.png",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T22:15:56"
@@ -432,7 +460,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/gejolak-obligasi-110-miliar-saham-bitcoin",
    "img": "https://assets.beincrypto.com/img/_szQwOIIRCNi_ZMOd1JDT71U06Q=/smart/fe77635c7ae74d5bbb8bc0bd4a5af5c1",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-13T21:19:38"
@@ -488,7 +516,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time.jpg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T15:52:28"
@@ -534,20 +562,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T15:46:05"
-  },
-  {
-   "id": 6336,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "DRW dan Marex selesaikan swap OTC referensi indeks tokenisasi S&P iBoxx",
-   "x": "DRW dan Marex berhasil menyelesaikan swap over-the-counter (OTC) pertama yang mereferensikan indeks tokenisasi penuh. Transaksi ini menggunakan jaringan Derivnex dan data dari Kaiko, menandai kemajuan dalam penggunaan indeks ter-tokenisasi di pasar keuangan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260613_Canton_News.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T15:00:29"
   },
   {
    "id": 6378,

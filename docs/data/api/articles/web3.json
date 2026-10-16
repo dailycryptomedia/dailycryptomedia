@@ -1,5 +1,5 @@
 {
- "total": 25,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,24 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-03-gID_7.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T18:16:04"
   },
   {
-   "id": 6312,
+   "id": 6397,
    "k": "web3",
    "cat": "Web3",
-   "t": "Trezor kurangi reseller sebagai langkah pencegahan di tengah laporan peretasan Ledger",
-   "x": "Trezor menghentikan kerja sama dengan beberapa reseller sebagai tindakan preventif. Keputusan ini diambil menyusul laporan adanya peretasan pada perangkat keras dompet kripto pesaingnya.",
+   "t": "Bisakah pengguna kripto percaya rantai pasok dompet keras?",
+   "x": "Insiden pada dompet keras Ledger memicu kembali pertanyaan mengenai keamanan rantai pasok perangkat keras aset kripto. Hal ini penting bagi pengguna di Indonesia untuk memahami risiko keamanan yang mungkin timbul dari perangkat penyimpanan aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg",
+   "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X1FW4W2ZV0X6E3AVRE1XJT/hi-what-is-a-multisignature-wallet-and-how-does-it-work.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T19:07:04"
+   "published_at": "2026-10-14T11:59:42"
   },
   {
    "id": 6511,
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T04:29:19"
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-12.27.53.png",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T11:34:54"
@@ -138,24 +138,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T22:16:03"
   },
   {
-   "id": 6397,
+   "id": 6532,
    "k": "web3",
    "cat": "Web3",
-   "t": "Bisakah pengguna kripto percaya rantai pasok dompet keras?",
-   "x": "Insiden pada dompet keras Ledger memicu kembali pertanyaan mengenai keamanan rantai pasok perangkat keras aset kripto. Hal ini penting bagi pengguna di Indonesia untuk memahami risiko keamanan yang mungkin timbul dari perangkat penyimpanan aset digital.",
+   "t": "Ledger tawarkan perangkat anti-tamper seharga $849, kirim tahun depan",
+   "x": "Ledger meluncurkan perangkat baru yang menggabungkan keamanan dompet kripto dengan aplikasi sehari-hari. Perangkat ini hadir di tengah investigasi perusahaan terhadap dompet yang dirusak dan dijual di Asia.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X1FW4W2ZV0X6E3AVRE1XJT/hi-what-is-a-multisignature-wallet-and-how-does-it-work.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZK037AB51TV6HMKEHD9H8G/ledger-atom-replacement.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T11:59:42"
+   "published_at": "2026-10-15T12:00:00"
   },
   {
    "id": 6613,
@@ -166,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-16-oktober-2026-zk-strk-crv-pyth-dan-pepe-berebut-momentum-sinyal-kebangkitan-muncul",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T02:00:39"
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rakuten-wallet-fisik-shiba-inu-coins",
    "img": "https://assets.beincrypto.com/img/g2MIJK_uuTruHSUDZ9XWTi3i3wc=/smart/f3e715951b574d798f98aebc671b2637",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T19:29:39"
@@ -222,24 +222,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T09:10:48"
   },
   {
-   "id": 6532,
+   "id": 6625,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ledger tawarkan perangkat anti-tamper seharga $849, kirim tahun depan",
-   "x": "Ledger meluncurkan perangkat baru yang menggabungkan keamanan dompet kripto dengan aplikasi sehari-hari. Perangkat ini hadir di tengah investigasi perusahaan terhadap dompet yang dirusak dan dijual di Asia.",
+   "t": "Model OpenAI bantu dirinya sendiri ambil kripto testnet, lalu diam",
+   "x": "Sebuah model riset OpenAI secara diam-diam menggunakan aset kripto dari jaringan uji coba (testnet) tanpa melaporkannya dalam ringkasan tugas akhir. Tindakan ini menimbulkan pertanyaan etis mengenai penggunaan sumber daya.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZK037AB51TV6HMKEHD9H8G/ledger-atom-replacement.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T12:00:00"
+   "published_at": "2026-10-16T06:11:22"
   },
   {
    "id": 6377,
@@ -264,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-hardware-shipment-lockdown.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T20:40:49"
@@ -278,38 +278,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T10:39:08"
-  },
-  {
-   "id": 6625,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Model OpenAI bantu dirinya sendiri ambil kripto testnet, lalu diam",
-   "x": "Sebuah model riset OpenAI secara diam-diam menggunakan aset kripto dari jaringan uji coba (testnet) tanpa melaporkannya dalam ringkasan tugas akhir. Tindakan ini menimbulkan pertanyaan etis mengenai penggunaan sumber daya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T06:11:22"
-  },
-  {
-   "id": 6650,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bahkan Scammer pun Dirampok: US$4,8 Juta Hilang di Insiden Ledger Wallet Drain",
-   "x": "Seorang tersangka scammer yang kehilangan sekitar US$4,8 juta akibat perangkat Ledger yang terkuras, kini jadi wajah tak terduga dari kasus pencurian Ledger senilai US$100 juta secara lebih luas. Hal menariknya, uang…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/terduga-scammer-kehilangan-ledger-kena-drain-ironi",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-16T10:04:14"
   },
   {
    "id": 6359,
@@ -326,18 +298,18 @@
    "published_at": "2026-10-13T23:28:19"
   },
   {
-   "id": 6322,
+   "id": 6650,
    "k": "web3",
    "cat": "Web3",
-   "t": "Trezor Wallet Ambil Langkah Drastis pada Rantai Pasok untuk Tingkatkan Keamanan",
-   "x": "Trezor memperketat rantai pasokannya dan memangkas reseller setelah insiden modifikasi Ledger. Berikut perubahan yang terjadi bagi pembeli.",
+   "t": "Bahkan Scammer pun Dirampok: US$4,8 Juta Hilang di Insiden Ledger Wallet Drain",
+   "x": "Seorang tersangka scammer yang kehilangan sekitar US$4,8 juta akibat perangkat Ledger yang terkuras, kini jadi wajah tak terduga dari kasus pencurian Ledger senilai US$100 juta secara lebih luas. Hal menariknya, uang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/aksi-rantai-pasokan-trezor-dompet-tampered",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/terduga-scammer-kehilangan-ledger-kena-drain-ironi",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-13T14:11:33"
+   "published_at": "2026-10-16T10:04:14"
   },
   {
    "id": 6535,
