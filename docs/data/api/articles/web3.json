@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ai-agents-keep-coming-back-for-crypto-as-x402-wallet-refill-rate-surges-to-89",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/x402-wallet-funding-flows.webp",
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T14:30:53"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-03-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T18:16:04"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T04:29:19"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T22:16:03"
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-16-oktober-2026-zk-strk-crv-pyth-dan-pepe-berebut-momentum-sinyal-kebangkitan-muncul",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T02:00:39"
@@ -166,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/676f925af521e6704a1edcb3121c14c17f83eb6a-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T12:00:00"
@@ -180,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rakuten-wallet-fisik-shiba-inu-coins",
    "img": "https://assets.beincrypto.com/img/g2MIJK_uuTruHSUDZ9XWTi3i3wc=/smart/f3e715951b574d798f98aebc671b2637",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T19:29:39"
@@ -194,10 +194,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hyperliquid-trader-risk-reversal.webp",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T18:00:37"
+  },
+  {
+   "id": 6632,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apa Itu Hardware Wallet? Penjelasan Penyimpanan Dingin Kripto",
+   "x": "Artikel ini menjelaskan fungsi dompet keras (hardware wallet) sebagai solusi penyimpanan aset kripto secara offline. Perangkat ini menawarkan keamanan lebih tinggi untuk melindungi aset digital seperti Bitcoin dan Ethereum.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png",
+   "a": "15 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T09:10:48"
   },
   {
    "id": 6532,
@@ -208,24 +222,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZK037AB51TV6HMKEHD9H8G/ledger-atom-replacement.png",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T12:00:00"
-  },
-  {
-   "id": 6265,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kasus Ledger meluas, OneKey putus hubungan dengan CryptoBilis",
-   "x": "Menyusul kasus keamanan Ledger, dompet kripto OneKey menghentikan kerja sama dengan reseller CryptoBilis. OneKey juga menawarkan penggantian dompet gratis bagi pengguna yang terdampak.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kasus-ledger-makin-panas-onekey-putus-hubungan-dengan-cryptobilis-dan-ganti-dompet-gratis",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T01:30:51"
   },
   {
    "id": 6293,
@@ -250,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ripple-privy-ai-agent-pembayaran-xrp-ledger",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-14T05:23:11"
@@ -298,6 +298,20 @@
    "published_at": "2026-10-13T14:11:33"
   },
   {
+   "id": 6625,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Model OpenAI bantu dirinya sendiri ambil kripto testnet, lalu diam",
+   "x": "Sebuah model riset OpenAI secara diam-diam menggunakan aset kripto dari jaringan uji coba (testnet) tanpa melaporkannya dalam ringkasan tugas akhir. Tindakan ini menimbulkan pertanyaan etis mengenai penggunaan sumber daya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T06:11:22"
+  },
+  {
    "id": 6272,
    "k": "web3",
    "cat": "Web3",
@@ -306,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T0Q274K3WJ08CQMV76XA89/hi-bitcoin-wallets-btc-wallet-inaccessible-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T08:45:10"
@@ -334,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T10:00:00"
