@@ -1,5 +1,5 @@
 {
- "total": 30,
+ "total": 27,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/wamenkeu-buka-suara-soal-pajak-kripto-indonesia-aturan-adil-jadi-prioritas",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T06:00:12"
@@ -82,24 +82,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T18:48:02"
   },
   {
-   "id": 6303,
+   "id": 6635,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengadilan Inggris Putuskan Hukum Tiongkok Berlaku untuk Klaim Bitcoin Senilai $5 Miliar",
-   "x": "Pengadilan Inggris memutuskan hukum Tiongkok mengatur klaim atas 61.000 Bitcoin yang disita, membuat kepemilikan aset digital tersebut belum pasti. Keputusan ini berpotensi memengaruhi investor yang memiliki aset di yurisdiksi yang berbeda.",
+   "t": "Hakim AS tolak upaya Gemini-CFTC batalkan penyelesaian $5 juta",
+   "x": "Hakim federal AS menolak permintaan Gemini dan CFTC untuk membatalkan penyelesaian senilai $5 juta. Keputusan ini menegaskan bahwa perubahan kebijakan internal tidak cukup untuk membuka kembali putusan pengadilan yang telah disepakati.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-12.16.27.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Gemini.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-13T11:38:19"
+   "published_at": "2026-10-16T05:44:05"
   },
   {
    "id": 6561,
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6THP0WR3ZHNE9G3WXBFF6/courtroom-scene-edit-brisov.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T13:30:00"
@@ -172,20 +172,6 @@
    "published_at": "2026-10-14T08:48:11"
   },
   {
-   "id": 6635,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Hakim AS tolak upaya Gemini-CFTC batalkan penyelesaian $5 juta",
-   "x": "Hakim federal AS menolak permintaan Gemini dan CFTC untuk membatalkan penyelesaian senilai $5 juta. Keputusan ini menegaskan bahwa perubahan kebijakan internal tidak cukup untuk membuka kembali putusan pengadilan yang telah disepakati.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Gemini.jpg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T05:44:05"
-  },
-  {
    "id": 6589,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -194,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-cftc-crypto-oversight.webp",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T17:00:01"
@@ -208,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51T0RBW7AV3PJKM9PKPVK3Y/gemini-cftc.png",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T07:43:29"
@@ -236,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-projected-5-7-difficulty-rise-puts-miners-40-revenue-under-pressure",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-profit-squeeze.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T12:10:23"
@@ -264,7 +250,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a9d763c449c6ef8b67371500f44b643796c393ca-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T13:51:12"
@@ -292,7 +278,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50YHACZSJPAG8A0K041MKBV/hi-how-to-file-cryptocurrency-form-in-australia-1.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T23:34:19"
@@ -306,7 +292,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/79c173f7513da42bae66136f2aeb519084d77d23-2788x1568.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T11:12:36"
@@ -324,20 +310,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-13T16:51:25"
-  },
-  {
-   "id": 6294,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Putusan pengadilan Inggris tingkatkan peluang pemerintah tahan 5 miliar dolar bitcoin sitaan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/20b32fd8cd327bc8631f52da23df84063b120957-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T09:25:03"
   },
   {
    "id": 6476,
@@ -362,24 +334,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X032AH60WSFZS8XJQF1MPR/ph-license.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T11:05:00"
-  },
-  {
-   "id": 6271,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Korban Penipuan Tiongkok Kalah dalam Pertarungan Hukum atas 61.000 Bitcoin",
-   "x": "Korban penipuan Tiongkok yang berupaya memulihkan 61.000 Bitcoin yang disita menghadapi kemunduran hukum. Pengadilan Inggris memutuskan hukum Tiongkok berlaku untuk klaim mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T4SNJSD60QPY0XS6G5VAS3/court-law-judge-flags-uk.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-13T09:03:06"
   },
   {
    "id": 6572,
@@ -390,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5021VDZN3M8VCH21XJTRFJY/bribe-money-corrupt-usa-1.jpg",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T17:14:45"
@@ -418,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BHYRZNQJCQJB47CZPF3A69/sbf-sam-bankman-fried-portrait-2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T10:29:47"
