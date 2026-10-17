@@ -1,5 +1,5 @@
 {
- "total": 140,
+ "total": 127,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,20 +32,6 @@
    "published_at": "2026-10-16T02:30:48"
   },
   {
-   "id": 6394,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pengiriman kripto Kanada ke Asia melonjak 141% jadi $2,36 miliar",
-   "x": "Pengiriman aset kripto dari Kanada ke tiga negara Asia mencapai $2,36 miliar, menunjukkan peningkatan signifikan dalam penggunaan aset digital untuk transfer dana lintas negara. Kenaikan ini, terutama ke Filipina, mengindikasikan tren yang perlu dicermati oleh investor dan pelaku pasar di Indonesia.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQ6AF5TDRNQV9MEV2XN6EB/canada-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T13:00:00"
-  },
-  {
    "id": 6605,
    "k": "pasar",
    "cat": "Pasar",
@@ -74,6 +60,20 @@
    "published_at": "2026-10-15T21:46:04"
   },
   {
+   "id": 6641,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan CEO Mt. Gox: Ledger abaikan peringatan dini soal risiko wallet",
+   "x": "Mantan CEO Mt. Gox Mark Karpelès menyatakan Ledger telah diperingatkan tentang risiko peretasan dompet digital jauh sebelum krisis keamanan terbaru. Pernyataan ini menimbulkan pertanyaan mengenai respons perusahaan terhadap potensi ancaman.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524SQBMBJKYH096V7N5FT2A/teal-security-warning.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T13:51:35"
+  },
+  {
    "id": 6664,
    "k": "pasar",
    "cat": "Pasar",
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ethereum201.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T13:31:07"
@@ -124,24 +124,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-saham-apple-hingga-spacex-hadir-di-indonesia-ada-fakta-penting-di-balik-kepemilikannya",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T03:00:58"
-  },
-  {
-   "id": 6641,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mantan CEO Mt. Gox: Ledger abaikan peringatan dini soal risiko wallet",
-   "x": "Mantan CEO Mt. Gox Mark Karpelès menyatakan Ledger telah diperingatkan tentang risiko peretasan dompet digital jauh sebelum krisis keamanan terbaru. Pernyataan ini menimbulkan pertanyaan mengenai respons perusahaan terhadap potensi ancaman.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524SQBMBJKYH096V7N5FT2A/teal-security-warning.png",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T13:51:35"
   },
   {
    "id": 6621,
@@ -172,6 +158,20 @@
    "published_at": "2026-10-14T21:46:04"
   },
   {
+   "id": 6442,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Otoritas AS berantas jaringan penipuan kripto bernilai puluhan juta dolar",
+   "x": "Jaksa dan FBI di Brooklyn membongkar jaringan penipuan investasi yang menargetkan warga Amerika berbahasa Rusia. Operasi ini menyita server dan menutup ratusan situs web.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-14T17:56:45"
+  },
+  {
    "id": 6562,
    "k": "pasar",
    "cat": "Pasar",
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/07/starknet_ethereum_layer_2-2.jpeg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T14:26:53"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T06:39:48"
@@ -228,20 +228,6 @@
    "published_at": "2026-10-16T03:00:46"
   },
   {
-   "id": 6393,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mode 'bunker' tidak lindungi aset kripto Anda, kata kritikus",
-   "x": "Kritikus menilai saran \"mode bunker\" untuk melindungi aset kripto dari potensi ancaman AI tidak praktis dan tidak efektif. Hal ini menyoroti pentingnya strategi keamanan aset digital yang lebih realistis bagi pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4THPCR92A9D9AT5MEKWQ9WN/magazinejourneys-trevor-koverko.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T13:30:00"
-  },
-  {
    "id": 6689,
    "k": "pasar",
    "cat": "Pasar",
@@ -250,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/uniswap-fee-filter.webp",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T17:20:21"
@@ -268,6 +254,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T21:16:03"
+  },
+  {
+   "id": 6725,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Solana tunjukkan ketahanan, tapi perlu observasi berkelanjutan",
+   "x": "Solana tidak mengalami gangguan mainnet selama dua tahun terakhir, menunjukkan stabilitasnya. Namun, konsentrasi pada stake, hosting, dan perangkat lunak klien masih perlu dipantau menurut laporan Fidelity.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T12:58:03"
   },
   {
    "id": 6596,
@@ -326,20 +326,6 @@
    "published_at": "2026-10-15T03:00:36"
   },
   {
-   "id": 6442,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Otoritas AS berantas jaringan penipuan kripto bernilai puluhan juta dolar",
-   "x": "Jaksa dan FBI di Brooklyn membongkar jaringan penipuan investasi yang menargetkan warga Amerika berbahasa Rusia. Operasi ini menyita server dan menutup ratusan situs web.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T17:56:45"
-  },
-  {
    "id": 6469,
    "k": "pasar",
    "cat": "Pasar",
@@ -362,66 +348,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T18:55:37"
-  },
-  {
-   "id": 6565,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ledger luncurkan perangkat Android Atom dengan integrasi Solana Mobile dan perlindungan baru",
-   "x": "Ledger memperkenalkan perangkat keamanan berbasis Android, Atom, yang dilengkapi integrasi Solana Mobile dan fitur perlindungan terhadap modifikasi. Peluncuran ini dilakukan di tengah investigasi terhadap dompet yang dimodifikasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-12.41.21.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:00:00"
-  },
-  {
-   "id": 6538,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Jaksa Brooklyn dan FBI Ungkap Jaringan Penipuan Kripto Besar Targetkan Penutur Bahasa Rusia",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:35:24"
-  },
-  {
-   "id": 6413,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "3 Tanda Peringatan Bertambah terhadap Ethereum saat Holder Besar Melakukan Penjualan",
-   "x": "Ethereum (ETH) memasuki pertengahan Oktober dengan performa yang kurang baik, turun 4,45% dalam sepekan terakhir menjadi US$2.503,76 di BeInCrypto Markets. Saat ini, aset kripto terbesar kedua ini menunjukkan tiga…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sinyal-bearish-ethereum-cadangan-exchange-whale",
-   "img": "https://assets.beincrypto.com/img/xMoUTAvotzENVFFWdEHtg-eZvHc=/smart/db20cca74a804a9faf00c297f9428de5",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-14T13:32:15"
-  },
-  {
-   "id": 6639,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Hacker Kripto Makin Canggih, Kerugian Q3 2026 Tembus Rp21 Triliun",
-   "x": "Kerugian akibat peretasan aset kripto pada kuartal ketiga 2026 mencapai Rp20,96 triliun. Para peretas kini mengeksploitasi celah keamanan di luar audit rutin, termasuk pada vendor dan sistem internal.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/hacker-kripto-makin-canggih-kerugian-q3-2026-tembus-rp21-triliun",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T07:00:56"
   },
   {
    "id": 6573,
@@ -438,6 +368,62 @@
    "published_at": "2026-10-15T16:49:59"
   },
   {
+   "id": 6565,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ledger luncurkan perangkat Android Atom dengan integrasi Solana Mobile dan perlindungan baru",
+   "x": "Ledger memperkenalkan perangkat keamanan berbasis Android, Atom, yang dilengkapi integrasi Solana Mobile dan fitur perlindungan terhadap modifikasi. Peluncuran ini dilakukan di tengah investigasi terhadap dompet yang dimodifikasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-12.41.21.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T12:00:00"
+  },
+  {
+   "id": 6538,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Jaksa Brooklyn dan FBI Ungkap Jaringan Penipuan Kripto Besar Targetkan Penutur Bahasa Rusia",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T12:35:24"
+  },
+  {
+   "id": 6615,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "KOSPI Reli 3%, tapi Kekhawatiran Kenaikan Suku Bunga The Fed Bisa Batasi Pemulihan",
+   "x": "Reli KOSPI sebesar 3,31% hanya memulihkan 40% dari penurunan hari Kamis karena kekhawatiran kenaikan The Fed dan keraguan terhadap AI membayangi prospek ke depan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/kospi-rebound-the-fed-hike-fears-recovery",
+   "img": "https://assets.beincrypto.com/img/BAPye0alpniGZ3CuB8D_913Srzo=/smart/6b952b048de84f15bfe365749d6bca61",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-16T03:45:16"
+  },
+  {
+   "id": 6639,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Hacker Kripto Makin Canggih, Kerugian Q3 2026 Tembus Rp21 Triliun",
+   "x": "Kerugian akibat peretasan aset kripto pada kuartal ketiga 2026 mencapai Rp20,96 triliun. Para peretas kini mengeksploitasi celah keamanan di luar audit rutin, termasuk pada vendor dan sistem internal.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/hacker-kripto-makin-canggih-kerugian-q3-2026-tembus-rp21-triliun",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T07:00:56"
+  },
+  {
    "id": 6671,
    "k": "pasar",
    "cat": "Pasar",
@@ -446,7 +432,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-investment-outlook.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T13:00:10"
@@ -460,10 +446,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tesla-roadster-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T20:16:04"
+  },
+  {
+   "id": 6626,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Model 'Singapura media sosial' Balaji mulai dengan gelombang larangan",
+   "x": "Pendiri Network School, Balaji Srinivasan, berupaya menjadikan platform Farcaster sebagai tempat aman bagi para pendukung teknologi. Upaya ini diawali dengan tindakan moderasi konten yang signifikan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51HRYEE2Y0DNQAA7EW3JH8Y/balaji.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T05:16:11"
   },
   {
    "id": 6462,
@@ -494,18 +494,18 @@
    "published_at": "2026-10-14T16:34:53"
   },
   {
-   "id": 6615,
+   "id": 6718,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "KOSPI Reli 3%, tapi Kekhawatiran Kenaikan Suku Bunga The Fed Bisa Batasi Pemulihan",
-   "x": "Reli KOSPI sebesar 3,31% hanya memulihkan 40% dari penurunan hari Kamis karena kekhawatiran kenaikan The Fed dan keraguan terhadap AI membayangi prospek ke depan.",
+   "t": "Penjualan iPhone Lipat Pertama Apple Ludes dalam Hitungan Menit",
+   "x": "Pre-order iPhone Duo terjual habis dalam hitungan menit, dan pengiriman online kini tidak akan sampai sebelum Natal. Lihat opsi apa saja yang masih tersedia bagi para pembeli liburan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kospi-rebound-the-fed-hike-fears-recovery",
-   "img": "https://assets.beincrypto.com/img/BAPye0alpniGZ3CuB8D_913Srzo=/smart/6b952b048de84f15bfe365749d6bca61",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/iphone-duo-pre-order-habis-terjual-natal",
+   "img": "https://assets.beincrypto.com/img/WRc4bcLPA7mhmeDGnXug6t7J-54=/smart/a006a366b9c0428b85cb7b9c85f3c10b",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-16T03:45:16"
+   "published_at": "2026-10-17T10:30:00"
   },
   {
    "id": 6512,
@@ -522,20 +522,6 @@
    "published_at": "2026-10-15T02:00:39"
   },
   {
-   "id": 6626,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Model 'Singapura media sosial' Balaji mulai dengan gelombang larangan",
-   "x": "Pendiri Network School, Balaji Srinivasan, berupaya menjadikan platform Farcaster sebagai tempat aman bagi para pendukung teknologi. Upaya ini diawali dengan tindakan moderasi konten yang signifikan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51HRYEE2Y0DNQAA7EW3JH8Y/balaji.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T05:16:11"
-  },
-  {
    "id": 6702,
    "k": "pasar",
    "cat": "Pasar",
@@ -544,7 +530,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cross-river-bank-links-2-4b-rlusd-to-core-banking-system",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-dollar-paper-boats.webp",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T22:30:17"
@@ -562,6 +548,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T20:31:04"
+  },
+  {
+   "id": 6531,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Penjual token HEX hapus $160 juta pasca laporan penangkapan pendiri Richard Schueler",
+   "x": "Harga token HEX anjlok setelah muncul laporan penangkapan pendiri, Richard Schueler. Peristiwa ini menyebabkan kerugian besar bagi pemegang token dan menimbulkan keraguan terhadap proyek tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZPZ9PD30JJKDBJDB77AQ9B/richard-heart.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T12:12:57"
   },
   {
    "id": 6480,
@@ -592,18 +592,18 @@
    "published_at": "2026-10-16T11:15:00"
   },
   {
-   "id": 6718,
+   "id": 6499,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Penjualan iPhone Lipat Pertama Apple Ludes dalam Hitungan Menit",
-   "x": "Pre-order iPhone Duo terjual habis dalam hitungan menit, dan pengiriman online kini tidak akan sampai sebelum Natal. Lihat opsi apa saja yang masih tersedia bagi para pembeli liburan.",
+   "t": "Likuidasi Kripto Dekati US$1 Miliar karena Posisi Long Alami Kerugian Terbesar",
+   "x": "Para trader aset kripto mengalami likuidasi posisi leverage sebesar US$942,1 juta dalam 24 jam terakhir, menurut data dari Coinglass. Posisi long menyumbang US$863,3 juta, atau 91,6% dari total tersebut. Gelombang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/iphone-duo-pre-order-habis-terjual-natal",
-   "img": "https://assets.beincrypto.com/img/WRc4bcLPA7mhmeDGnXug6t7J-54=/smart/a006a366b9c0428b85cb7b9c85f3c10b",
-   "a": "1 jam lalu",
+   "url": "https://id.beincrypto.com/likuidasi-kripto-1-miliar-bitcoin-ethereum-turun",
+   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-17T10:30:00"
+   "published_at": "2026-10-15T03:31:57"
   },
   {
    "id": 6614,
@@ -620,20 +620,6 @@
    "published_at": "2026-10-16T01:30:09"
   },
   {
-   "id": 6531,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Penjual token HEX hapus $160 juta pasca laporan penangkapan pendiri Richard Schueler",
-   "x": "Harga token HEX anjlok setelah muncul laporan penangkapan pendiri, Richard Schueler. Peristiwa ini menyebabkan kerugian besar bagi pemegang token dan menimbulkan keraguan terhadap proyek tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZPZ9PD30JJKDBJDB77AQ9B/richard-heart.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:12:57"
-  },
-  {
    "id": 6526,
    "k": "pasar",
    "cat": "Pasar",
@@ -648,74 +634,18 @@
    "published_at": "2026-10-15T08:20:16"
   },
   {
-   "id": 6697,
+   "id": 6729,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peretas berhasil jailbreak iPhone 18 Pro di panggung, lolos reboot",
-   "x": "",
+   "t": "TokenMaxxing: Cara Maksimalkan Model AI Anda",
+   "x": "Perusahaan AI mengenakan biaya per token, sehingga penting untuk mengelola penggunaannya agar lebih efisien. Strategi ini membantu pengguna menghemat biaya dan mendapatkan hasil yang lebih baik dari model AI.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
-   "a": "16 jam lalu",
+   "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T19:36:04"
-  },
-  {
-   "id": 6564,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "CEO Helius Mert Mumtaz bergabung dengan Dewan NEAR Foundation",
-   "x": "Mert Mumtaz, CEO Helius, telah bergabung dengan Dewan NEAR Foundation. Dewan ini bertugas mengawasi yayasan dan keputusan-keputusan paling signifikan terkait pengembangannya.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-13.45.41.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T13:00:00"
-  },
-  {
-   "id": 6682,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Auditor AI perusahaan teknologi besar hanya akan melihat apa yang ditunjukkan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a42d79475bce40ccdb1888645ca72a438ad5a97f-5769x3752.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T14:58:22"
-  },
-  {
-   "id": 6499,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Likuidasi Kripto Dekati US$1 Miliar karena Posisi Long Alami Kerugian Terbesar",
-   "x": "Para trader aset kripto mengalami likuidasi posisi leverage sebesar US$942,1 juta dalam 24 jam terakhir, menurut data dari Coinglass. Posisi long menyumbang US$863,3 juta, atau 91,6% dari total tersebut. Gelombang…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/likuidasi-kripto-1-miliar-bitcoin-ethereum-turun",
-   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-15T03:31:57"
-  },
-  {
-   "id": 6724,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "XRP, SOL, DOGE, dan HYPE Bersiap Rebound? Ini Level Kuncinya",
-   "x": "Aset kripto XRP, SOL, DOGE, dan HYPE menunjukkan indikasi pemulihan harga. Analisis ini memantau level kunci dan target harga yang berpotensi memicu kenaikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/xrp-sol-doge-dan-hype-bersiap-rebound-ini-level-kuncinya",
-   "img": null,
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T07:00:49"
+   "published_at": "2026-10-17T13:01:04"
   },
   {
    "id": 6643,
@@ -732,6 +662,62 @@
    "published_at": "2026-10-16T11:22:47"
   },
   {
+   "id": 6564,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "CEO Helius Mert Mumtaz bergabung dengan Dewan NEAR Foundation",
+   "x": "Mert Mumtaz, CEO Helius, telah bergabung dengan Dewan NEAR Foundation. Dewan ini bertugas mengawasi yayasan dan keputusan-keputusan paling signifikan terkait pengembangannya.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-13.45.41.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T13:00:00"
+  },
+  {
+   "id": 6682,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Auditor AI perusahaan teknologi besar hanya akan melihat apa yang ditunjukkan",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/a42d79475bce40ccdb1888645ca72a438ad5a97f-5769x3752.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T14:58:22"
+  },
+  {
+   "id": 6545,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pasar Kripto Hadapi Risiko Likuidasi Besar, Data Kuartal 3 Tunjukkan",
+   "x": "Kripto baru saja menambah US$840 miliar dalam tiga bulan. Tapi di balik reli ini, volume trading di exchange spot besar justru menurun, sementara taruhan dengan leverage semakin menumpuk. Laporan Q3 2026 dari CoinGecko…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/risiko-crash-pasar-kripto-leverage-laporan-coingecko",
+   "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-15T13:00:34"
+  },
+  {
+   "id": 6724,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP, SOL, DOGE, dan HYPE Bersiap Rebound? Ini Level Kuncinya",
+   "x": "Aset kripto XRP, SOL, DOGE, dan HYPE menunjukkan indikasi pemulihan harga. Analisis ini memantau level kunci dan target harga yang berpotensi memicu kenaikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/xrp-sol-doge-dan-hype-bersiap-rebound-ini-level-kuncinya",
+   "img": null,
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T07:00:49"
+  },
+  {
    "id": 6489,
    "k": "pasar",
    "cat": "Pasar",
@@ -746,18 +732,32 @@
    "published_at": "2026-10-14T22:30:33"
   },
   {
-   "id": 6553,
+   "id": 6697,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ethereum, Altcoin alami penurunan besar akibat tekanan makroekonomi",
-   "x": "Tekanan makroekonomi global menyebabkan penurunan signifikan pada harga Ethereum dan altcoin lainnya. Kondisi ini mencerminkan sensitivitas pasar kripto terhadap faktor ekonomi yang lebih luas.",
+   "t": "Peretas berhasil jailbreak iPhone 18 Pro di panggung, lolos reboot",
+   "x": "",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T14:27:18"
+   "published_at": "2026-10-16T19:36:04"
+  },
+  {
+   "id": 6675,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "PAC Kripto Tingkatkan Pengeluaran Melawan Sherrod Brown dalam Pemilu Senat Ohio",
+   "x": "Setidaknya dua komite aksi politik (PAC) yang terafiliasi dengan industri aset kripto telah menggelontorkan lebih dari $52 juta untuk menentang pencalonan kembali Sherrod Brown sebagai senator dari Ohio. Peningkatan pengeluaran ini menunjukkan upaya industri untuk memengaruhi hasil pemilu terkait regulasi kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T17:30:09"
   },
   {
    "id": 6666,
@@ -788,18 +788,18 @@
    "published_at": "2026-10-15T06:17:58"
   },
   {
-   "id": 6545,
+   "id": 6546,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pasar Kripto Hadapi Risiko Likuidasi Besar, Data Kuartal 3 Tunjukkan",
-   "x": "Kripto baru saja menambah US$840 miliar dalam tiga bulan. Tapi di balik reli ini, volume trading di exchange spot besar justru menurun, sementara taruhan dengan leverage semakin menumpuk. Laporan Q3 2026 dari CoinGecko…",
+   "t": "Harga Silver Bergerak Dekat Level Terendah 2026: Kesempatan atau Value Trap?",
+   "x": "Harga perak anjlok 6% ke penutupan terendah tahun 2026 setelah data CPI AS yang tinggi. Simak alasan penurunan dan level $54,5 yang perlu diperhatikan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/risiko-crash-pasar-kripto-leverage-laporan-coingecko",
-   "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/harga-perak-penutupan-terendah-2026-cpi",
+   "img": "https://assets.beincrypto.com/img/4g__2eJwPYkyq9PDiYfloQ9x_8A=/smart/da5ac5a7333d4860a9536a3bd668effc",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-15T13:00:34"
+   "published_at": "2026-10-15T12:52:14"
   },
   {
    "id": 6712,
@@ -810,24 +810,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-inj-sempat-melonjak-27-persen-bos-injective-bertemu-gedung-putih-dan-sec",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T02:30:05"
-  },
-  {
-   "id": 6675,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "PAC Kripto Tingkatkan Pengeluaran Melawan Sherrod Brown dalam Pemilu Senat Ohio",
-   "x": "Setidaknya dua komite aksi politik (PAC) yang terafiliasi dengan industri aset kripto telah menggelontorkan lebih dari $52 juta untuk menentang pencalonan kembali Sherrod Brown sebagai senator dari Ohio. Peningkatan pengeluaran ini menunjukkan upaya industri untuk memengaruhi hasil pemilu terkait regulasi kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T17:30:09"
   },
   {
    "id": 6598,
@@ -842,6 +828,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T20:00:30"
+  },
+  {
+   "id": 6553,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ethereum, Altcoin alami penurunan besar akibat tekanan makroekonomi",
+   "x": "Tekanan makroekonomi global menyebabkan penurunan signifikan pada harga Ethereum dan altcoin lainnya. Kondisi ini mencerminkan sensitivitas pasar kripto terhadap faktor ekonomi yang lebih luas.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T14:27:18"
   }
  ]
 }
