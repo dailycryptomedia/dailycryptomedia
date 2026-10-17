@@ -1,5 +1,5 @@
 {
- "total": 295,
+ "total": 269,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/menag-bicara-halal-haram-kripto-statusnya-bisa-berubah",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T06:00:56"
@@ -32,6 +32,20 @@
    "published_at": "2026-10-15T03:45:43"
   },
   {
+   "id": 6743,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Siapa buka dompet kripto Anda sebelum sampai ke tangan?",
+   "x": "Pelanggan di Asia Tenggara kehilangan aset kripto dari dompet Ledger yang baru dibeli. Ini menimbulkan kekhawatiran tentang keamanan penyimpanan aset digital bahkan sebelum pengguna memegang kendali penuh.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ledger-wallet-supply-chain-tampering.webp",
+   "a": "57 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T19:00:25"
+  },
+  {
    "id": 6603,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -46,18 +60,18 @@
    "published_at": "2026-10-15T22:42:58"
   },
   {
-   "id": 6605,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ledger tawarkan perangkat baru seharga $849 di tengah kompromi dompet",
-   "x": "Ledger membuka pemesanan untuk perangkat baru yang hanya menyimpan data, yang akan dikirim pada 2027. Peluncuran ini terjadi saat dompet yang ada dilaporkan dikompromikan oleh penjahat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ledger-wants-customers-to-trust-its-new-849-device-as-criminals-compromise-existing-wallets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ledger-atom-data-only.webp",
-   "a": "kemarin",
+   "id": 6741,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Sembilan perusahaan keberatan dengan tokenisasi saham mereka di OKXICE",
+   "x": "Perusahaan teknologi keberatan dengan tokenisasi saham mereka di bursa kripto karena ketidakpastian dampak pada harga dan likuiditas. Hal ini menyoroti tantangan dalam mengintegrasikan aset dunia nyata dengan ekosistem aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/20250514_Tokenization-1200x675-1.jpg",
+   "a": "1 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T00:00:02"
+   "published_at": "2026-10-17T19:56:25"
   },
   {
    "id": 6593,
@@ -74,20 +88,6 @@
    "published_at": "2026-10-15T21:46:04"
   },
   {
-   "id": 6664,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Cara kerja Ethereum",
-   "x": "Artikel ini menjelaskan mekanisme internal Ethereum, termasuk pelacakan status, alur transaksi, penetapan biaya komputasi gas, dan fungsi smart contract. Pemahaman ini penting untuk mengapresiasi ekosistem DeFi dan NFT.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ethereum201.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T13:31:07"
-  },
-  {
    "id": 6577,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T18:48:02"
@@ -130,6 +130,20 @@
    "published_at": "2026-10-15T04:42:39"
   },
   {
+   "id": 6605,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ledger tawarkan perangkat baru seharga $849 di tengah kompromi dompet",
+   "x": "Ledger membuka pemesanan untuk perangkat baru yang hanya menyimpan data, yang akan dikirim pada 2027. Peluncuran ini terjadi saat dompet yang ada dilaporkan dikompromikan oleh penjahat.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ledger-wants-customers-to-trust-its-new-849-device-as-criminals-compromise-existing-wallets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ledger-atom-data-only.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T00:00:02"
+  },
+  {
    "id": 6528,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -144,18 +158,18 @@
    "published_at": "2026-10-15T14:22:43"
   },
   {
-   "id": 6567,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Agen AI kembali ke kripto seiring lonjakan tingkat isi ulang dompet x402 ke 89%",
-   "x": "Agen AI menunjukkan minat yang tinggi pada aset kripto, terbukti dari peningkatan signifikan pada tingkat pengisian ulang dompet x402. Hal ini mengindikasikan potensi pertumbuhan adopsi dan penggunaan teknologi AI dalam ekosistem kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ai-agents-keep-coming-back-for-crypto-as-x402-wallet-refill-rate-surges-to-89",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/x402-wallet-funding-flows.webp",
-   "a": "2 hari lalu",
+   "id": 6664,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Cara kerja Ethereum",
+   "x": "Artikel ini menjelaskan mekanisme internal Ethereum, termasuk pelacakan status, alur transaksi, penetapan biaya komputasi gas, dan fungsi smart contract. Pemahaman ini penting untuk mengapresiasi ekosistem DeFi dan NFT.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ethereum201.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T14:30:53"
+   "published_at": "2026-10-16T13:31:07"
   },
   {
    "id": 6481,
@@ -172,20 +186,6 @@
    "published_at": "2026-10-14T21:46:04"
   },
   {
-   "id": 6562,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Starknet buka voting tujuh hari untuk Layer 1 independen atas risiko kuantum",
-   "x": "Starknet menggelar pemungutan suara bagi pemegang token STRK untuk meneliti pengembangan Layer 1 independen yang tahan terhadap ancaman komputasi kuantum. Keputusan ini krusial untuk keamanan jangka panjang jaringan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/07/starknet_ethereum_layer_2-2.jpeg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T14:26:53"
-  },
-  {
    "id": 6704,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T02:30:00"
@@ -222,10 +222,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-emas-panas-inflasi-peter-schiff",
    "img": "https://assets.beincrypto.com/img/LVfrlz5nbJxxa5Odx5ivb-HCyjM=/smart/e0f10d6dfcf841cf99a81d51e1bd43e9",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T11:13:21"
+  },
+  {
+   "id": 6567,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Agen AI kembali ke kripto seiring lonjakan tingkat isi ulang dompet x402 ke 89%",
+   "x": "Agen AI menunjukkan minat yang tinggi pada aset kripto, terbukti dari peningkatan signifikan pada tingkat pengisian ulang dompet x402. Hal ini mengindikasikan potensi pertumbuhan adopsi dan penggunaan teknologi AI dalam ekosistem kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ai-agents-keep-coming-back-for-crypto-as-x402-wallet-refill-rate-surges-to-89",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/x402-wallet-funding-flows.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T14:30:53"
   },
   {
    "id": 6641,
@@ -242,18 +256,18 @@
    "published_at": "2026-10-16T13:51:35"
   },
   {
-   "id": 6670,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Fortitude pinjamkan Zcash senilai $8,3 juta untuk ekspansi mining",
-   "x": "Perusahaan penambangan kripto Fortitude meminjam Zcash untuk mendanai ekspansi operasionalnya. Langkah ini memungkinkan perusahaan untuk menambah kapasitas penambangan sambil tetap memegang aset digitalnya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zcashs-mining-boom-can-grow-without-creating-a-new-token-bid",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-mining-deployment-path.webp",
-   "a": "kemarin",
+   "id": 6742,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Turki konfirmasi penangkapan pendiri Hex, sita $7,15 juta dan dompet dingin",
+   "x": "Pendiri Hex Richard Heart ditangkap di Turki dengan dugaan penipuan. Polisi menyita uang tunai, dompet dingin, dan senjata, menunjukkan tindakan keras terhadap aktivitas kripto ilegal.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T14:00:05"
+   "published_at": "2026-10-17T18:14:43"
   },
   {
    "id": 6583,
@@ -264,24 +278,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-03-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T18:16:04"
-  },
-  {
-   "id": 6596,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Farcaster diakuisisi Balaji Srinivasan, luncurkan 'smart contract sosial'",
-   "x": "Balaji Srinivasan melalui Network School mengakuisisi Farcaster dari Neynar. Pengguna baru wajib menandatangani 'smart contract sosial' untuk dapat membaca konten.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240212_Farcaster_News.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T21:41:14"
   },
   {
    "id": 6609,
@@ -326,6 +326,20 @@
    "published_at": "2026-10-15T09:04:09"
   },
   {
+   "id": 6670,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Fortitude pinjamkan Zcash senilai $8,3 juta untuk ekspansi mining",
+   "x": "Perusahaan penambangan kripto Fortitude meminjam Zcash untuk mendanai ekspansi operasionalnya. Langkah ini memungkinkan perusahaan untuk menambah kapasitas penambangan sambil tetap memegang aset digitalnya.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/zcashs-mining-boom-can-grow-without-creating-a-new-token-bid",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-mining-deployment-path.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T14:00:05"
+  },
+  {
    "id": 6529,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -340,18 +354,18 @@
    "published_at": "2026-10-15T14:16:55"
   },
   {
-   "id": 6468,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Ripple bidik pasar sekuritas triliunan dolar dengan bursa AS dan kesepakatan Korsel",
-   "x": "Ripple menjalin kemitraan dengan Meritz di Korea Selatan untuk layanan kustodian dan tokenisasi aset digital. Langkah ini sejalan dengan perkembangan regulasi aset kripto global.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-brokerage-market-bridge.webp",
+   "id": 6562,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Starknet buka voting tujuh hari untuk Layer 1 independen atas risiko kuantum",
+   "x": "Starknet menggelar pemungutan suara bagi pemegang token STRK untuk meneliti pengembangan Layer 1 independen yang tahan terhadap ancaman komputasi kuantum. Keputusan ini krusial untuk keamanan jangka panjang jaringan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/07/starknet_ethereum_layer_2-2.jpeg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T18:40:19"
+   "published_at": "2026-10-15T14:26:53"
   },
   {
    "id": 6736,
@@ -362,24 +376,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "40 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T17:01:03"
-  },
-  {
-   "id": 6507,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin turun di bawah $81.000 karena sentimen risk-off pengaruhi bursa Asia",
-   "x": "Bursa saham Asia anjlok pada Kamis, dengan indeks Kospi Korea Selatan kehilangan 8% dan Nikkei 225 Jepang turun 5%. Penurunan ini terjadi seiring sentimen investor yang cenderung menghindari aset berisiko.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T04:38:48"
   },
   {
    "id": 6517,
@@ -404,7 +404,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-saham-apple-hingga-spacex-hadir-di-indonesia-ada-fakta-penting-di-balik-kepemilikannya",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T03:00:58"
@@ -418,24 +418,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-mining-bitcoin-vitalik-inferensi-ai",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "36 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T17:05:24"
-  },
-  {
-   "id": 6513,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Babylon ajukan proposal pinjaman Bitcoin native di Aave V4",
-   "x": "Proposal Babylon untuk membawa agunan Bitcoin native ke Aave V4 telah memasuki tahap baru. Langkah ini penting karena berpotensi memperluas penggunaan Bitcoin sebagai agunan di platform DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T09:14:28"
   },
   {
    "id": 6621,
@@ -452,6 +438,34 @@
    "published_at": "2026-10-16T04:40:20"
   },
   {
+   "id": 6513,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Babylon ajukan proposal pinjaman Bitcoin native di Aave V4",
+   "x": "Proposal Babylon untuk membawa agunan Bitcoin native ke Aave V4 telah memasuki tahap baru. Langkah ini penting karena berpotensi memperluas penggunaan Bitcoin sebagai agunan di platform DeFi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z9HV8V8BEZVYHMZC3BE85M/aave-btc.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T09:14:28"
+  },
+  {
+   "id": 6596,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Farcaster diakuisisi Balaji Srinivasan, luncurkan 'smart contract sosial'",
+   "x": "Balaji Srinivasan melalui Network School mengakuisisi Farcaster dari Neynar. Pengguna baru wajib menandatangani 'smart contract sosial' untuk dapat membaca konten.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240212_Farcaster_News.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T21:41:14"
+  },
+  {
    "id": 6482,
    "k": "pasar",
    "cat": "Pasar",
@@ -464,20 +478,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T21:16:03"
-  },
-  {
-   "id": 6461,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pemegang saham utama desak SkyAI jual Solana setelah kas menyusut 70%",
-   "x": "Kas Solana milik SkyAI menyusut drastis dalam sebulan, dengan 400.000 SOL tidak dapat dijelaskan. Pemegang saham mendesak penjualan aset untuk mengatasi penurunan nilai ini.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News_3.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T18:25:54"
   },
   {
    "id": 6493,
@@ -508,32 +508,18 @@
    "published_at": "2026-10-16T03:00:46"
   },
   {
-   "id": 6446,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mengapa Tidak Ada di Bank of America yang Masuk Penjara seperti CZ?",
-   "x": "Saham Bank of America turun 9% setelah denda pencucian uang sebesar $1,2 miliar tanpa tuntutan pidana. Ini alasan mengapa kasus CZ menjadi pidana.",
+   "id": 6477,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank of America Tetapkan Target Baru untuk Harga Emas pada Akhir 2026",
+   "x": "Bank of America memprediksi harga emas di bawah $4.000 hingga akhir tahun. Simak alasannya, serta apa yang dikatakan grafik harian tentang support $3.950.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-bank-of-america-cz-charges",
-   "img": "https://assets.beincrypto.com/img/Yz6DHEFayUfdz6KZldcwtgrfKoQ=/smart/266f73117a4f489fb6fcb191af409bec",
+   "url": "https://id.beincrypto.com/bank-of-america-target-harga-emas-akhir-2026",
+   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-14T18:09:31"
-  },
-  {
-   "id": 6642,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Deutsche Bank siapkan layanan kustodi kripto di Jerman, incar Asia",
-   "x": "Bank terbesar Jerman ini dilaporkan berencana meluncurkan layanan kustodi aset digital di pasar keuangan Asia. Ekspansi ini didorong oleh pertumbuhan ekonomi aset digital secara global.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T13:33:40"
+   "published_at": "2026-10-14T21:19:48"
   },
   {
    "id": 6508,
@@ -550,6 +536,34 @@
    "published_at": "2026-10-15T04:40:28"
   },
   {
+   "id": 6642,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Deutsche Bank siapkan layanan kustodi kripto di Jerman, incar Asia",
+   "x": "Bank terbesar Jerman ini dilaporkan berencana meluncurkan layanan kustodi aset digital di pasar keuangan Asia. Ekspansi ini didorong oleh pertumbuhan ekonomi aset digital secara global.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T13:33:40"
+  },
+  {
+   "id": 6507,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin turun di bawah $81.000 karena sentimen risk-off pengaruhi bursa Asia",
+   "x": "Bursa saham Asia anjlok pada Kamis, dengan indeks Kospi Korea Selatan kehilangan 8% dan Nikkei 225 Jepang turun 5%. Penurunan ini terjadi seiring sentimen investor yang cenderung menghindari aset berisiko.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T04:38:48"
+  },
+  {
    "id": 6698,
    "k": "pasar",
    "cat": "Pasar",
@@ -558,24 +572,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T18:55:37"
-  },
-  {
-   "id": 6565,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ledger luncurkan perangkat Android Atom dengan integrasi Solana Mobile dan perlindungan baru",
-   "x": "Ledger memperkenalkan perangkat keamanan berbasis Android, Atom, yang dilengkapi integrasi Solana Mobile dan fitur perlindungan terhadap modifikasi. Peluncuran ini dilakukan di tengah investigasi terhadap dompet yang dimodifikasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-12.41.21.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:00:00"
   },
   {
    "id": 6610,
@@ -606,32 +606,18 @@
    "published_at": "2026-10-15T03:00:36"
   },
   {
-   "id": 6477,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bank of America Tetapkan Target Baru untuk Harga Emas pada Akhir 2026",
-   "x": "Bank of America memprediksi harga emas di bawah $4.000 hingga akhir tahun. Simak alasannya, serta apa yang dikatakan grafik harian tentang support $3.950.",
+   "id": 6497,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Peter Schiff Sebut Sebagian Besar Saham Sedang Bear Market karena Pemimpin AI Dorong Indeks",
+   "x": "Peter Schiff mengatakan sebagian besar saham berada di bear market karena 479 saham mencapai level terendah 52 minggu. Data Goldman menunjukkan pemimpin AI menopang S&P 500.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bank-of-america-target-harga-emas-akhir-2026",
-   "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
+   "url": "https://id.beincrypto.com/peter-schiff-kebanyakan-saham-bear-market",
+   "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-14T21:19:48"
-  },
-  {
-   "id": 6442,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Otoritas AS berantas jaringan penipuan kripto bernilai puluhan juta dolar",
-   "x": "Jaksa dan FBI di Brooklyn membongkar jaringan penipuan investasi yang menargetkan warga Amerika berbahasa Rusia. Operasi ini menyita server dan menutup ratusan situs web.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T17:56:45"
+   "published_at": "2026-10-15T04:17:00"
   },
   {
    "id": 6693,
@@ -642,38 +628,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-has-42-6-million-ada-left-under-its-current-treasury-spending-limit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-withdrawal-crane-lift.webp",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T21:10:02"
   },
   {
-   "id": 6453,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Standard Chartered buka trading Bitcoin dan Ethereum untuk klien kaya UEA",
-   "x": "Bank Inggris ini mendapat izin regulator Dubai untuk menawarkan perdagangan Bitcoin dan Ethereum kepada klien affluent. Layanan kustodian dan penyelesaian akan dikelola internal.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
-   "a": "2 hari lalu",
+   "id": 6676,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Biaya Remitansi Stablecoin 84% Lebih Murah dari Transfer Tradisional",
+   "x": "Laporan menunjukkan penggunaan stablecoin untuk pembayaran bisnis lintas negara dapat menghemat biaya hingga 84% dibandingkan metode transfer bank internasional tradisional. Selain lebih murah, transfer menggunakan stablecoin juga terbukti lebih cepat diselesaikan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T17:46:05"
+   "published_at": "2026-10-16T17:21:45"
   },
   {
-   "id": 6563,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CIO Bitwise: Bitcoin untung meski AI booming atau gagal",
-   "x": "Analis Bitwise memprediksi keruntuhan gelembung AI akan memicu bailout pemerintah dan pada akhirnya mendorong reli Bitcoin. Prediksi ini mengaitkan potensi pertumbuhan AI dengan nilai aset digital.",
+   "id": 6565,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ledger luncurkan perangkat Android Atom dengan integrasi Solana Mobile dan perlindungan baru",
+   "x": "Ledger memperkenalkan perangkat keamanan berbasis Android, Atom, yang dilengkapi integrasi Solana Mobile dan fitur perlindungan terhadap modifikasi. Peluncuran ini dilakukan di tengah investigasi terhadap dompet yang dimodifikasi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-14.38.11.png",
+   "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-12.41.21.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T14:01:06"
+   "published_at": "2026-10-15T12:00:00"
+  },
+  {
+   "id": 6696,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mobil 'Terbang' Tesla Roadster Baru Tak Bisa Dibeli Publik",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tesla-roadster-gID_7.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T20:16:04"
   },
   {
    "id": 6734,
@@ -684,7 +684,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "41 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T17:00:00"
@@ -704,32 +704,18 @@
    "published_at": "2026-10-15T06:00:25"
   },
   {
-   "id": 6497,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Peter Schiff Sebut Sebagian Besar Saham Sedang Bear Market karena Pemimpin AI Dorong Indeks",
-   "x": "Peter Schiff mengatakan sebagian besar saham berada di bear market karena 479 saham mencapai level terendah 52 minggu. Data Goldman menunjukkan pemimpin AI menopang S&P 500.",
+   "id": 6600,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "MicroStrategy Bisa Dihapus dari Indeks Saham Global Utama",
+   "x": "Raksasa Bitcoin milik Michael Saylor bisa kehilangan tempat di indeks saham global utama, yang berpotensi memaksa dana investasi untuk menjual saham meskipun mereka masih percaya pada perusahaan tersebut. Pada hari…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peter-schiff-kebanyakan-saham-bear-market",
-   "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-15T04:17:00"
-  },
-  {
-   "id": 6676,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Biaya Remitansi Stablecoin 84% Lebih Murah dari Transfer Tradisional",
-   "x": "Laporan menunjukkan penggunaan stablecoin untuk pembayaran bisnis lintas negara dapat menghemat biaya hingga 84% dibandingkan metode transfer bank internasional tradisional. Selain lebih murah, transfer menggunakan stablecoin juga terbukti lebih cepat diselesaikan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
+   "url": "https://id.beincrypto.com/penghapusan-microstrategy-dari-msci-saham-mstr-crash",
+   "img": "https://assets.beincrypto.com/img/ig1wSnBxiUC2CoyPnWyHg76lwps=/smart/b8be7a514ec24b38a37469bc03e69de3",
    "a": "kemarin",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T17:21:45"
+   "translated": false,
+   "published_at": "2026-10-15T23:08:51"
   },
   {
    "id": 6488,
@@ -746,32 +732,46 @@
    "published_at": "2026-10-15T00:00:17"
   },
   {
-   "id": 6696,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mobil 'Terbang' Tesla Roadster Baru Tak Bisa Dibeli Publik",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tesla-roadster-gID_7.jpg",
-   "a": "21 jam lalu",
+   "id": 6475,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Organisasi lawan pajak kripto Illinois setelah jeda 6 bulan",
+   "x": "Sejumlah organisasi industri menentang penerapan pajak aset kripto 0,2% di Illinois. Mereka mendorong agar pengadilan membatalkan pajak tersebut secara permanen.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y1A2P32XBWMQ5M26VG2T55/hi-a-beginners-guide-to-filing-bitcoin-taxes.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T20:16:04"
+   "published_at": "2026-10-14T20:56:22"
   },
   {
-   "id": 6465,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Standard Chartered perkirakan pasar stablecoin capai $2 triliun pada 2030",
-   "x": "Standard Chartered menunda proyeksi pasar stablecoin menjadi $2 triliun pada 2030 dari sebelumnya 2028. Perlambatan pertumbuhan pasokan menjadi alasan utama penyesuaian ini.",
+   "id": 6563,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CIO Bitwise: Bitcoin untung meski AI booming atau gagal",
+   "x": "Analis Bitwise memprediksi keruntuhan gelembung AI akan memicu bailout pemerintah dan pada akhirnya mendorong reli Bitcoin. Prediksi ini mengaitkan potensi pertumbuhan AI dengan nilai aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-14.38.11.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T15:47:18"
+   "published_at": "2026-10-15T14:01:06"
+  },
+  {
+   "id": 6594,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Rusia segera larang perdagangan Bitcoin peer-to-peer",
+   "x": "Bank Sentral Rusia mengonfirmasi larangan perdagangan Bitcoin peer-to-peer mulai 1 Juli 2027. Warga Rusia hanya bisa bertransaksi melalui broker atau bursa yang disetujui regulator.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T20:31:04"
   },
   {
    "id": 6494,
@@ -802,32 +802,18 @@
    "published_at": "2026-10-16T07:00:56"
   },
   {
-   "id": 6600,
+   "id": 6601,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "MicroStrategy Bisa Dihapus dari Indeks Saham Global Utama",
-   "x": "Raksasa Bitcoin milik Michael Saylor bisa kehilangan tempat di indeks saham global utama, yang berpotensi memaksa dana investasi untuk menjual saham meskipun mereka masih percaya pada perusahaan tersebut. Pada hari…",
+   "t": "Grayscale Sebut Volatilitas Bitcoin Turun ke 43%, Kini Sejajar dengan Rentang S&P 500",
+   "x": "Volatilitas Bitcoin dalam satu tahun terakhir telah turun menjadi 43%, yang sekarang berada dalam kisaran saham S&P 500, menurut laporan terbaru dari Grayscale. Perbandingan ini dapat membantu meredakan kekhawatiran di…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penghapusan-microstrategy-dari-msci-saham-mstr-crash",
-   "img": "https://assets.beincrypto.com/img/ig1wSnBxiUC2CoyPnWyHg76lwps=/smart/b8be7a514ec24b38a37469bc03e69de3",
+   "url": "https://id.beincrypto.com/volatilitas-bitcoin-turun-ke-level-sp-500-grayscale",
+   "img": "https://assets.beincrypto.com/img/nDHdVqJtiOTkU3l_tikwhKdC3SY=/smart/68ca7b6782944dc2b3bf3c4d2ff4423b",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-15T23:08:51"
-  },
-  {
-   "id": 6475,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Organisasi lawan pajak kripto Illinois setelah jeda 6 bulan",
-   "x": "Sejumlah organisasi industri menentang penerapan pajak aset kripto 0,2% di Illinois. Mereka mendorong agar pengadilan membatalkan pajak tersebut secara permanen.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y1A2P32XBWMQ5M26VG2T55/hi-a-beginners-guide-to-filing-bitcoin-taxes.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-14T20:56:22"
+   "published_at": "2026-10-15T23:00:19"
   },
   {
    "id": 6707,
@@ -838,10 +824,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-inflation-hedge-has-a-hidden-cost-and-leverage-makes-it-worse",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-borrowing-pressure-squeeze.webp",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T07:00:46"
+  },
+  {
+   "id": 6530,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Bisakah aturan pro-kripto SEC dan CFTC dibatalkan? Opini hukum",
+   "x": "Aturan baru yang dikeluarkan oleh regulator AS, SEC dan CFTC, berpotensi menghadapi tantangan hukum. Analisis ini mengulas kemungkinan pembatalan aturan tersebut di masa depan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6THP0WR3ZHNE9G3WXBFF6/courtroom-scene-edit-brisov.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T13:30:00"
   }
  ]
 }
