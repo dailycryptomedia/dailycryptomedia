@@ -1,5 +1,5 @@
 {
- "total": 127,
+ "total": 131,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -124,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/token-saham-apple-hingga-spacex-hadir-di-indonesia-ada-fakta-penting-di-balik-kepemilikannya",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T03:00:58"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T06:39:48"
@@ -228,32 +228,32 @@
    "published_at": "2026-10-16T03:00:46"
   },
   {
-   "id": 6689,
+   "id": 6739,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Hanya 18% Posisi Uniswap v3 di Bawah $1.000 Mengungguli Holding Setelah Biaya Gas",
-   "x": "Studi terbaru menunjukkan bahwa posisi kecil di Uniswap v3, terutama yang nilainya di bawah $1.000, seringkali tidak menguntungkan setelah memperhitungkan biaya gas. Hal ini menggarisbawahi tantangan bagi investor kecil dalam ekosistem DeFi.",
+   "t": "Ethereum Jadwalkan Uji Gas 200 Juta untuk Hoodi pada 26 Oktober",
+   "x": "Jaringan Ethereum akan melakukan uji coba dengan target 200 juta gas pada 26 Oktober, meskipun tanggal aktivasi di mainnet belum ditentukan. Uji coba ini penting untuk mengukur kapasitas dan efisiensi jaringan sebelum pembaruan besar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/uniswap-fee-filter.webp",
-   "a": "21 jam lalu",
+   "url": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hoodi-node-operator-upgrades.webp",
+   "a": "41 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T17:20:21"
+   "published_at": "2026-10-17T17:00:52"
   },
   {
-   "id": 6482,
+   "id": 6736,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pengembang tiru Microsoft Office dengan AI setelah Photoshop",
-   "x": "Seorang pengembang berhasil membuat replika gratis dan open-source dari Word, Excel, dan PowerPoint menggunakan AI. Hal ini menunjukkan betapa murahnya proses kloning perangkat lunak saat ini.",
+   "t": "PAC Kripto Fairshake Gelontorkan Dana untuk Kalahkan Sherrod Brown",
+   "x": "PAC kripto Fairshake kembali menggelontorkan dana iklan kampanye senilai $7 juta untuk menentang politikus Demokrat Ohio, Sherrod Brown. Pengeluaran ini mendorong total dana kampanye mereka melampaui $46 juta, menunjukkan upaya besar dalam pemilihan umum AS.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
+   "a": "40 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T21:16:03"
+   "published_at": "2026-10-17T17:01:03"
   },
   {
    "id": 6725,
@@ -264,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T12:58:03"
@@ -326,32 +326,32 @@
    "published_at": "2026-10-15T03:00:36"
   },
   {
-   "id": 6469,
+   "id": 6689,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Perlombaan kuantum Ethereum berlanjut, zkSync gandeng bank dan Starknet pertimbangkan keluar",
-   "x": "zkSync mengumumkan teknologi baru yang diklaim mampu memproses blok Ethereum lebih cepat. Sementara itu, Starknet mempertimbangkan menjadi blockchain layer-1 mandiri.",
+   "t": "Hanya 18% Posisi Uniswap v3 di Bawah $1.000 Mengungguli Holding Setelah Biaya Gas",
+   "x": "Studi terbaru menunjukkan bahwa posisi kecil di Uniswap v3, terutama yang nilainya di bawah $1.000, seringkali tidak menguntungkan setelah memperhitungkan biaya gas. Hal ini menggarisbawahi tantangan bagi investor kecil dalam ekosistem DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp",
+   "url": "https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/uniswap-fee-filter.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T17:20:21"
+  },
+  {
+   "id": 6482,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pengembang tiru Microsoft Office dengan AI setelah Photoshop",
+   "x": "Seorang pengembang berhasil membuat replika gratis dan open-source dari Word, Excel, dan PowerPoint menggunakan AI. Hal ini menunjukkan betapa murahnya proses kloning perangkat lunak saat ini.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T17:50:35"
-  },
-  {
-   "id": 6698,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Circle berencana ekspansi ke 40 pasar berkembang seiring adopsi stablecoin",
-   "x": "Penerbit USDC, Circle, menargetkan 40 pasar berkembang di Asia Tenggara, Amerika Latin, Afrika, dan Timur Tengah. Ekspansi ini didorong oleh permintaan stablecoin yang meningkat di wilayah tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T18:55:37"
+   "published_at": "2026-10-14T21:16:03"
   },
   {
    "id": 6573,
@@ -362,7 +362,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M505KEFKPMPQ9SXKC8HEV451/stockholm-sweden.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T16:49:59"
@@ -424,32 +424,32 @@
    "published_at": "2026-10-16T07:00:56"
   },
   {
-   "id": 6671,
+   "id": 6469,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Manajer aset kelolaan €800 miliar tanyakan imbal hasil aset kripto",
-   "x": "Perwakilan investor institusi dengan total aset kelolaan €800 miliar bertemu untuk membahas potensi imbal hasil aset kripto. Pertemuan ini menunjukkan meningkatnya minat institusi terhadap kelas aset digital.",
+   "t": "Perlombaan kuantum Ethereum berlanjut, zkSync gandeng bank dan Starknet pertimbangkan keluar",
+   "x": "zkSync mengumumkan teknologi baru yang diklaim mampu memproses blok Ethereum lebih cepat. Sementara itu, Starknet mempertimbangkan menjadi blockchain layer-1 mandiri.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-investment-outlook.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T13:00:10"
+   "published_at": "2026-10-14T17:50:35"
   },
   {
-   "id": 6696,
+   "id": 6698,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mobil 'Terbang' Tesla Roadster Baru Tak Bisa Dibeli Publik",
-   "x": "",
+   "t": "Circle berencana ekspansi ke 40 pasar berkembang seiring adopsi stablecoin",
+   "x": "Penerbit USDC, Circle, menargetkan 40 pasar berkembang di Asia Tenggara, Amerika Latin, Afrika, dan Timur Tengah. Ekspansi ini didorong oleh permintaan stablecoin yang meningkat di wilayah tersebut.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tesla-roadster-gID_7.jpg",
-   "a": "18 jam lalu",
+   "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T20:16:04"
+   "published_at": "2026-10-16T18:55:37"
   },
   {
    "id": 6626,
@@ -488,7 +488,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b5758412ecdd24d3e01a7d4d410665462a0f2b43-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:34:53"
@@ -502,7 +502,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/iphone-duo-pre-order-habis-terjual-natal",
    "img": "https://assets.beincrypto.com/img/WRc4bcLPA7mhmeDGnXug6t7J-54=/smart/a006a366b9c0428b85cb7b9c85f3c10b",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T10:30:00"
@@ -522,32 +522,32 @@
    "published_at": "2026-10-15T02:00:39"
   },
   {
-   "id": 6702,
+   "id": 6671,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Cross River Bank integrasikan RLUSD senilai $2,4 miliar ke sistem perbankan",
-   "x": "Bank Cross River kini menghubungkan stablecoin RLUSD senilai $2,4 miliar ke sistem perbankan intinya. Langkah ini memungkinkan fintech mengakses pembayaran dolar dan RLUSD melalui satu API, yang berpotensi menyederhanakan transaksi lintas batas bagi pengguna di AS.",
+   "t": "Manajer aset kelolaan €800 miliar tanyakan imbal hasil aset kripto",
+   "x": "Perwakilan investor institusi dengan total aset kelolaan €800 miliar bertemu untuk membahas potensi imbal hasil aset kripto. Pertemuan ini menunjukkan meningkatnya minat institusi terhadap kelas aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cross-river-bank-links-2-4b-rlusd-to-core-banking-system",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-dollar-paper-boats.webp",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T22:30:17"
-  },
-  {
-   "id": 6594,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Rusia segera larang perdagangan Bitcoin peer-to-peer",
-   "x": "Bank Sentral Rusia mengonfirmasi larangan perdagangan Bitcoin peer-to-peer mulai 1 Juli 2027. Warga Rusia hanya bisa bertransaksi melalui broker atau bursa yang disetujui regulator.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
+   "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-investment-outlook.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T20:31:04"
+   "published_at": "2026-10-16T13:00:10"
+  },
+  {
+   "id": 6696,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mobil 'Terbang' Tesla Roadster Baru Tak Bisa Dibeli Publik",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tesla-roadster-gID_7.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T20:16:04"
   },
   {
    "id": 6531,
@@ -620,32 +620,32 @@
    "published_at": "2026-10-16T01:30:09"
   },
   {
-   "id": 6526,
+   "id": 6702,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "9 bank besar blokir akun kripto, tapi aturan OCC membalas",
-   "x": "Temuan baru dari OCC menyoroti pembatasan kripto di sembilan bank besar. Aturan ini penting bagi investor Indonesia yang berinteraksi dengan institusi keuangan global.",
+   "t": "Cross River Bank integrasikan RLUSD senilai $2,4 miliar ke sistem perbankan",
+   "x": "Bank Cross River kini menghubungkan stablecoin RLUSD senilai $2,4 miliar ke sistem perbankan intinya. Langkah ini memungkinkan fintech mengakses pembayaran dolar dan RLUSD melalui satu API, yang berpotensi menyederhanakan transaksi lintas batas bagi pengguna di AS.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-crypto-bank-access-standard.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/cross-river-bank-links-2-4b-rlusd-to-core-banking-system",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-dollar-paper-boats.webp",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T08:20:16"
+   "published_at": "2026-10-16T22:30:17"
   },
   {
-   "id": 6729,
+   "id": 6594,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "TokenMaxxing: Cara Maksimalkan Model AI Anda",
-   "x": "Perusahaan AI mengenakan biaya per token, sehingga penting untuk mengelola penggunaannya agar lebih efisien. Strategi ini membantu pengguna menghemat biaya dan mendapatkan hasil yang lebih baik dari model AI.",
+   "t": "Rusia segera larang perdagangan Bitcoin peer-to-peer",
+   "x": "Bank Sentral Rusia mengonfirmasi larangan perdagangan Bitcoin peer-to-peer mulai 1 Juli 2027. Warga Rusia hanya bisa bertransaksi melalui broker atau bursa yang disetujui regulator.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
-   "a": "1 jam lalu",
+   "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-17T13:01:04"
+   "published_at": "2026-10-15T20:31:04"
   },
   {
    "id": 6643,
@@ -684,7 +684,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a42d79475bce40ccdb1888645ca72a438ad5a97f-5769x3752.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T14:58:22"
@@ -712,38 +712,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-sol-doge-dan-hype-bersiap-rebound-ini-level-kuncinya",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T07:00:49"
   },
   {
-   "id": 6489,
+   "id": 6526,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pengguna Coins.ph alami lockout aplikasi setelah intervensi bank sentral",
-   "x": "Bank sentral Filipina (BSP) melakukan intervensi yang menyebabkan pengguna Coins.ph tidak bisa mengakses aplikasi. Langkah ini bertujuan mengontrol operator judi lepas pantai, menegaskan status Coins.ph sebagai institusi berlisensi BSP.",
+   "t": "9 bank besar blokir akun kripto, tapi aturan OCC membalas",
+   "x": "Temuan baru dari OCC menyoroti pembatasan kripto di sembilan bank besar. Aturan ini penting bagi investor Indonesia yang berinteraksi dengan institusi keuangan global.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coins-ph-protected-funds.webp",
+   "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-crypto-bank-access-standard.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-14T22:30:33"
+   "published_at": "2026-10-15T08:20:16"
   },
   {
-   "id": 6697,
+   "id": 6729,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peretas berhasil jailbreak iPhone 18 Pro di panggung, lolos reboot",
-   "x": "",
+   "t": "TokenMaxxing: Cara Maksimalkan Model AI Anda",
+   "x": "Perusahaan AI mengenakan biaya per token, sehingga penting untuk mengelola penggunaannya agar lebih efisien. Strategi ini membantu pengguna menghemat biaya dan mendapatkan hasil yang lebih baik dari model AI.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
-   "a": "19 jam lalu",
+   "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T19:36:04"
+   "published_at": "2026-10-17T13:01:04"
   },
   {
    "id": 6675,
@@ -754,7 +754,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T17:30:09"
@@ -810,38 +810,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-inj-sempat-melonjak-27-persen-bos-injective-bertemu-gedung-putih-dan-sec",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T02:30:05"
   },
   {
-   "id": 6598,
+   "id": 6489,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "84 juta XRP ditambahkan ke dompet bursa saat harga turun",
-   "x": "Penambahan 84 juta XRP ke dompet kustodian bursa memunculkan pertanyaan pasokan. Namun, data kepemilikan belum bisa mengonfirmasi adanya penjualan aset digital tersebut.",
+   "t": "Pengguna Coins.ph alami lockout aplikasi setelah intervensi bank sentral",
+   "x": "Bank sentral Filipina (BSP) melakukan intervensi yang menyebabkan pengguna Coins.ph tidak bisa mengakses aplikasi. Langkah ini bertujuan mengontrol operator judi lepas pantai, menegaskan status Coins.ph sebagai institusi berlisensi BSP.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-exchange-wallets-added-84-million-tokens-in-three-days-as-price-slipped-toward-1-30",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-global-exchange-flows.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T20:00:30"
-  },
-  {
-   "id": 6553,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ethereum, Altcoin alami penurunan besar akibat tekanan makroekonomi",
-   "x": "Tekanan makroekonomi global menyebabkan penurunan signifikan pada harga Ethereum dan altcoin lainnya. Kondisi ini mencerminkan sensitivitas pasar kripto terhadap faktor ekonomi yang lebih luas.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
+   "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coins-ph-protected-funds.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T14:27:18"
+   "published_at": "2026-10-14T22:30:33"
+  },
+  {
+   "id": 6697,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Peretas berhasil jailbreak iPhone 18 Pro di panggung, lolos reboot",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T19:36:04"
   }
  ]
 }

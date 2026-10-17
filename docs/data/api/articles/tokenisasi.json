@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-emas-panas-inflasi-peter-schiff",
    "img": "https://assets.beincrypto.com/img/LVfrlz5nbJxxa5Odx5ivb-HCyjM=/smart/e0f10d6dfcf841cf99a81d51e1bd43e9",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T11:13:21"
@@ -68,10 +68,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T18:16:04"
+  },
+  {
+   "id": 6734,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Goldman, Wells Fargo, Morgan Stanley Lihat Tokenisasi sebagai Peluang",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "41 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T17:00:00"
   },
   {
    "id": 6669,
@@ -86,20 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T09:00:28"
-  },
-  {
-   "id": 6728,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bank bisa perlambat pertumbuhan stablecoin dengan beri bunga lebih tinggi",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T12:00:00"
   },
   {
    "id": 6477,
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-has-42-6-million-ada-left-under-its-current-treasury-spending-limit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-withdrawal-crane-lift.webp",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T21:10:02"
@@ -152,24 +152,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T15:47:18"
   },
   {
-   "id": 6653,
+   "id": 6735,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Circle targetkan 40 pasar baru seiring tumbuhnya permintaan stablecoin global",
+   "t": "Citrini Prediksi Ledakan Tokenisasi, Pertanyaan Kuncinya Siapa yang Untung",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0a95ca21c7d01a59993d2008992716cbc1158482-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/fa689a7830180d9337ea197d8f87693731fffbcf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T10:54:35"
+   "published_at": "2026-10-17T15:00:00"
   },
   {
    "id": 6646,
@@ -194,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/visa-mastercard-stablecoin-payments-standard.jpg",
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T02:00:33"
@@ -222,24 +222,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/img-banner-card-1-1.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T17:21:29"
   },
   {
-   "id": 6655,
+   "id": 6728,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Tesla tokenisasi melonjak seiring Elon Musk pamer prototipe Roadster terbang",
+   "t": "Bank bisa perlambat pertumbuhan stablecoin dengan beri bunga lebih tinggi",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T10:48:49"
+   "published_at": "2026-10-17T12:00:00"
   },
   {
    "id": 6503,
@@ -264,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-stablecoin-development-funding-standard.jpg",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T05:00:24"
@@ -278,7 +278,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T17:21:45"
@@ -298,32 +298,32 @@
    "published_at": "2026-10-15T22:15:56"
   },
   {
-   "id": 6540,
+   "id": 6653,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin, Tembaga, Saham, Imbal Hasil Semua Turun; Emas Naik",
+   "t": "Circle targetkan 40 pasar baru seiring tumbuhnya permintaan stablecoin global",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T11:15:00"
-  },
-  {
-   "id": 6590,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Australia Pertimbangkan Aturan Modal A$14 Juta Seiring Pengetatan Regulasi Kripto",
-   "x": "Australia mengusulkan aturan modal minimum A$200.000 untuk kustodian aset kripto sebagai bagian dari pengetatan regulasi. Aturan ini juga mencakup uji aset dan pendapatan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/asic-crypto-capital-requirements.webp",
+   "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0a95ca21c7d01a59993d2008992716cbc1158482-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T15:50:10"
+   "published_at": "2026-10-16T10:54:35"
+  },
+  {
+   "id": 6740,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Kartu Stablecoin Meningkat, Siapa yang Raup Untung Saat Transaksi?",
+   "x": "Kartu stablecoin mempermudah pembayaran sehari-hari tanpa perlu pedagang memahami aset kripto. Pengguna membayar dengan saldo dolar digital mereka, sementara pedagang menerima mata uang fiat seperti biasa.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/stablecoin-cards-are-booming-but-who-makes-money-when-you-swipe",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-payment-fee-chain.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T15:00:18"
   },
   {
    "id": 6644,
@@ -348,10 +348,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T16:00:02"
+  },
+  {
+   "id": 6655,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tesla tokenisasi melonjak seiring Elon Musk pamer prototipe Roadster terbang",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T10:48:49"
+  },
+  {
+   "id": 6590,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Australia Pertimbangkan Aturan Modal A$14 Juta Seiring Pengetatan Regulasi Kripto",
+   "x": "Australia mengusulkan aturan modal minimum A$200.000 untuk kustodian aset kripto sebagai bagian dari pengetatan regulasi. Aturan ini juga mencakup uji aset dan pendapatan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/asic-crypto-capital-requirements.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T15:50:10"
   },
   {
    "id": 6714,
@@ -362,10 +390,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T10:00:07"
+  },
+  {
+   "id": 6540,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin, Tembaga, Saham, Imbal Hasil Semua Turun; Emas Naik",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T11:15:00"
   },
   {
    "id": 6444,
@@ -376,7 +418,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XEE04ZMAXCNJ7MN7A5NHM7/crypto-winter-frozen-icy-freeze-cold-stablecoin.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-14T16:26:31"
@@ -390,7 +432,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T15:52:28"
@@ -404,7 +446,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M501MR4NFX8WGM2DEYYC2STT/hi-could-those-who-left-mastercard-come-back3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T15:46:05"
