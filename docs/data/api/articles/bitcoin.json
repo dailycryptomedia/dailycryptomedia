@@ -1,5 +1,5 @@
 {
- "total": 59,
+ "total": 54,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/saat-ihsg-babak-belur-bitcoin-justru-terlihat-lebih-rasional",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T07:00:26"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-mining-bitcoin-vitalik-inferensi-ai",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T17:05:24"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/zcashs-mining-boom-can-grow-without-creating-a-new-token-bid",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-mining-deployment-path.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T14:00:05"
@@ -68,24 +68,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T16:01:03"
-  },
-  {
-   "id": 6563,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "CIO Bitwise: Bitcoin untung meski AI booming atau gagal",
-   "x": "Analis Bitwise memprediksi keruntuhan gelembung AI akan memicu bailout pemerintah dan pada akhirnya mendorong reli Bitcoin. Prediksi ini mengaitkan potensi pertumbuhan AI dengan nilai aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-14.38.11.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T14:01:06"
   },
   {
    "id": 6704,
@@ -100,6 +86,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T02:30:00"
+  },
+  {
+   "id": 6692,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pembelian Bitcoin Strive dorong target harga naik 27% dari TD Cowen",
+   "x": "TD Cowen menaikkan target harga saham Strive sebesar 27% seiring rencana perusahaan untuk membeli lebih banyak Bitcoin. Hal ini didukung oleh potensi meredanya tekanan saham terkait warrant.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T20:22:57"
   },
   {
    "id": 6710,
@@ -172,20 +172,6 @@
    "published_at": "2026-10-15T19:16:04"
   },
   {
-   "id": 6692,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pembelian Bitcoin Strive dorong target harga naik 27% dari TD Cowen",
-   "x": "TD Cowen menaikkan target harga saham Strive sebesar 27% seiring rencana perusahaan untuk membeli lebih banyak Bitcoin. Hal ini didukung oleh potensi meredanya tekanan saham terkait warrant.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T20:22:57"
-  },
-  {
    "id": 6610,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -200,18 +186,18 @@
    "published_at": "2026-10-16T04:14:22"
   },
   {
-   "id": 6559,
+   "id": 6579,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penulis The Bitcoin Standard Prediksi BTC Akan Lampaui Emas dan Makin Stabil",
-   "x": "Saifedean Ammous menilai Bitcoin berpeluang melampaui emas dan semakin stabil seiring kapitalisasi serta likuiditas BTC terus tumbuh.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/penulis-the-bitcoin-standard-prediksi-btc-akan-lampaui-emas-dan-makin-stabil",
-   "img": null,
-   "a": "3 hari lalu",
+   "t": "Produksi Bitcoin CleanSpark dan BitFuFu turun pada September",
+   "x": "Produksi Bitcoin CleanSpark dan BitFuFu mengalami penurunan pada September, sementara Canaan stagnan. BitFuFu juga menghadapi ketidakpastian terkait kesepakatan di Ethiopia.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/210930_Bitcoin_Mining_General.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T08:00:28"
+   "published_at": "2026-10-15T16:06:00"
   },
   {
    "id": 6601,
@@ -236,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N6H9GGJM3JZN42WG1X5JC/kevin-warsh-2-3-960x640.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T15:45:43"
@@ -256,46 +242,46 @@
    "published_at": "2026-10-17T11:00:07"
   },
   {
-   "id": 6660,
+   "id": 6771,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penipu rugikan $4,8 juta Bitcoin ke dompet Ledger yang diretas",
-   "x": "Penipu berhasil meraup Bitcoin senilai $4,8 juta dari korban yang menggunakan dompet Ledger yang telah dimanipulasi. Modus penipuan ini melibatkan skema pembayaran palsu untuk mendapatkan deposit korban.",
+   "t": "ETF Bitcoin lepas hampir $1 miliar dalam dua minggu saat 'Uptober' memerah",
+   "x": "Produk Exchange-Traded Fund (ETF) Bitcoin mengalami aliran dana keluar bersih sebesar $228,6 juta minggu ini, menambah kerugian minggu sebelumnya. Penurunan ini terjadi di tengah tren pasar yang kurang menguntungkan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T12:22:18"
+   "published_at": "2026-10-18T15:01:04"
   },
   {
-   "id": 6579,
+   "id": 6775,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Produksi Bitcoin CleanSpark dan BitFuFu turun pada September",
-   "x": "Produksi Bitcoin CleanSpark dan BitFuFu mengalami penurunan pada September, sementara Canaan stagnan. BitFuFu juga menghadapi ketidakpastian terkait kesepakatan di Ethiopia.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/210930_Bitcoin_Mining_General.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T16:06:00"
-  },
-  {
-   "id": 6654,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Aliansi kuantum terbentuk di tengah ancaman 6,4 juta bitcoin oleh komputasi kuantum",
+   "t": "Harapan Bitcoin $100.000 akhir tahun bagi dua analis saat inflasi buramkan prospek",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5163083009ada58cbe961b561eb5fc8b73427097-3014x1454.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T13:00:00"
+  },
+  {
+   "id": 6668,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Capital B catat rugi bersih H1 $78 juta akibat beban penurunan nilai bitcoin",
+   "x": "Perusahaan melaporkan kerugian bersih yang lebih besar pada paruh pertama tahun ini. Beban penurunan nilai aset bitcoin menjadi penyebab utama kerugian tersebut.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-10.19.07.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T10:52:26"
+   "published_at": "2026-10-16T09:30:21"
   },
   {
    "id": 6616,
@@ -312,18 +298,18 @@
    "published_at": "2026-10-16T03:35:09"
   },
   {
-   "id": 6537,
+   "id": 6575,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF kripto Thailand mungkin lambat meski aturan baru: CoinShares",
-   "x": "Aturan baru ETF Bitcoin dan Ether di Thailand berlaku Jumat, namun CoinShares memperkirakan aliran dana masuk awal yang moderat. Hal ini karena opsi investasi yang ada bersaing untuk mendapatkan permintaan.",
+   "t": "Bitcoin turun di bawah $80 ribu setelah inflasi AS melonjak",
+   "x": "Harga Bitcoin tertekan setelah data inflasi produsen AS naik paling tinggi dalam dua tahun. Investor mencermati potensi kenaikan suku bunga The Fed yang dapat mempengaruhi aset berisiko.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z7M52YNHC4A063CV7T5G1J/hi-thailand-and-blockchain-etf-1.jpg",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T09:36:20"
+   "published_at": "2026-10-15T15:10:44"
   },
   {
    "id": 6597,
@@ -340,6 +326,76 @@
    "published_at": "2026-10-15T21:10:08"
   },
   {
+   "id": 6660,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penipu rugikan $4,8 juta Bitcoin ke dompet Ledger yang diretas",
+   "x": "Penipu berhasil meraup Bitcoin senilai $4,8 juta dari korban yang menggunakan dompet Ledger yang telah dimanipulasi. Modus penipuan ini melibatkan skema pembayaran palsu untuk mendapatkan deposit korban.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T12:22:18"
+  },
+  {
+   "id": 6654,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Aliansi kuantum terbentuk di tengah ancaman 6,4 juta bitcoin oleh komputasi kuantum",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5163083009ada58cbe961b561eb5fc8b73427097-3014x1454.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T10:52:26"
+  },
+  {
+   "id": 6783,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bisakah Harga Bitcoin Turun ke US$10.000? Analis Bloomberg Beri Peringatan Suram",
+   "x": "Senior commodity strategist dari Bloomberg Intelligence, Mike McGlone, kembali memperbarui prediksinya yang cukup ekstrem. Ia mengatakan bahwa Bitcoin bisa turun ke sekitar US$10.000 jika saham-saham AS turun 20%…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/peringatan-penurunan-harga-bitcoin-analis-bloomberg",
+   "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-18T14:39:53"
+  },
+  {
+   "id": 6645,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin mungkin uji garis tren 20 bulan sebelum rekor baru",
+   "x": "Sinyal siklus pasar Bitcoin mengindikasikan potensi pengujian ulang rata-rata bergerak kunci sebelum mencapai rekor tertinggi baru. Analisis ini didasarkan pada pola historis pergerakan harga BTC.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51YZVQT8054R4CPX4D28190/article-covers-237235-did-bitcoin-4-year-cycle-break-is-bull-market-really-over-960x640.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T09:22:13"
+  },
+  {
+   "id": 6633,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Native Bitcoin collateral on Aave triggers WBTC pool deficit",
+   "x": "Defisit terjadi pada pool WBTC di platform Aave akibat penggunaan jaminan Bitcoin asli. Hal ini memicu kekhawatiran mengenai stabilitas likuiditas di protokol DeFi tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/native-bitcoin-collateral-on-aave-triggers-wbtc-pool-deficit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-babylon-wbtc-settlement-standard.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T08:30:32"
+  },
+  {
    "id": 6685,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -352,20 +408,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T16:06:05"
-  },
-  {
-   "id": 6668,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Capital B catat rugi bersih H1 $78 juta akibat beban penurunan nilai bitcoin",
-   "x": "Perusahaan melaporkan kerugian bersih yang lebih besar pada paruh pertama tahun ini. Beban penurunan nilai aset bitcoin menjadi penyebab utama kerugian tersebut.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-10.19.07.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T09:30:21"
   },
   {
    "id": 6656,
@@ -390,38 +432,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-junk-rating-pertanyaan-bitcoin",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-18T01:11:15"
   },
   {
-   "id": 6575,
+   "id": 6730,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin turun di bawah $80 ribu setelah inflasi AS melonjak",
-   "x": "Harga Bitcoin tertekan setelah data inflasi produsen AS naik paling tinggi dalam dua tahun. Investor mencermati potensi kenaikan suku bunga The Fed yang dapat mempengaruhi aset berisiko.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T15:10:44"
-  },
-  {
-   "id": 6633,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Native Bitcoin collateral on Aave triggers WBTC pool deficit",
-   "x": "Defisit terjadi pada pool WBTC di platform Aave akibat penggunaan jaminan Bitcoin asli. Hal ini memicu kekhawatiran mengenai stabilitas likuiditas di protokol DeFi tersebut.",
+   "t": "Binance Pool berhenti beroperasi 10 November",
+   "x": "Binance Pool akan menghentikan operasionalnya pada 10 November, dengan penghentian penambangan pada pukul 07:00 UTC. Penutupan ini menandai akhir dari layanan penambangan yang ditawarkan oleh bursa kripto terbesar di dunia tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/native-bitcoin-collateral-on-aave-triggers-wbtc-pool-deficit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-babylon-wbtc-settlement-standard.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-miners-forced-migration.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T08:30:32"
+   "published_at": "2026-10-17T13:30:39"
   },
   {
    "id": 6661,
@@ -466,46 +494,32 @@
    "published_at": "2026-10-16T07:54:12"
   },
   {
-   "id": 6645,
+   "id": 6588,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin mungkin uji garis tren 20 bulan sebelum rekor baru",
-   "x": "Sinyal siklus pasar Bitcoin mengindikasikan potensi pengujian ulang rata-rata bergerak kunci sebelum mencapai rekor tertinggi baru. Analisis ini didasarkan pada pola historis pergerakan harga BTC.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51YZVQT8054R4CPX4D28190/article-covers-237235-did-bitcoin-4-year-cycle-break-is-bull-market-really-over-960x640.webp",
+   "t": "Impian Bitcoin $100.000 Sirna Seiring Perdagangan Kripto Senilai $939 Juta Terhapus",
+   "x": "Kekhawatiran inflasi AS yang lebih tinggi dari perkiraan memicu aksi jual aset kripto, menyebabkan likuidasi hampir $940 juta. Data inflasi yang kuat meningkatkan kekhawatiran kenaikan suku bunga The Fed lebih lanjut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-market-selloff-underwater.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T09:22:13"
+   "published_at": "2026-10-15T17:30:25"
   },
   {
-   "id": 6730,
+   "id": 6586,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Binance Pool berhenti beroperasi 10 November",
-   "x": "Binance Pool akan menghentikan operasionalnya pada 10 November, dengan penghentian penambangan pada pukul 07:00 UTC. Penutupan ini menandai akhir dari layanan penambangan yang ditawarkan oleh bursa kripto terbesar di dunia tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-miners-forced-migration.webp",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T13:30:39"
-  },
-  {
-   "id": 6557,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Uji $81.000 di Tengah Ketakutan Kenaikan Suku Bunga Pasca Data Inflasi Panas",
-   "x": "Probabilitas kenaikan suku bunga The Fed pada Oktober meningkat setelah data inflasi AS yang lebih tinggi dari perkiraan. Analis memprediksi Bitcoin akan bergerak dalam rentang terbatas hingga ada kejelasan arah kebijakan moneter.",
+   "t": "Bitcoin bergejolak, likuidasi kripto dekati $1 miliar",
+   "x": "Data inflasi AS yang panas memicu kekhawatiran kenaikan suku bunga The Fed, menyebabkan likuidasi posisi kripto senilai hampir $1 miliar. Investor dengan leverage tinggi menanggung kerugian.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png",
+   "url": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T11:48:42"
+   "published_at": "2026-10-15T15:20:41"
   },
   {
    "id": 6657,
@@ -536,76 +550,6 @@
    "published_at": "2026-10-16T21:59:23"
   },
   {
-   "id": 6536,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin turun ke $80,1 ribu saat KOSPI ditutup terendah sejak April",
-   "x": "Harga Bitcoin terpengaruh oleh aksi jual saham teknologi Korea, di mana indeks KOSPI anjlok 7,5%. Penurunan ini menunjukkan korelasi antara pasar aset digital dan pasar saham tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZCG70WQ1C80X0TYGEPZ7KC/ai-falling-stock-prices-960x644.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T09:48:07"
-  },
-  {
-   "id": 6588,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Impian Bitcoin $100.000 Sirna Seiring Perdagangan Kripto Senilai $939 Juta Terhapus",
-   "x": "Kekhawatiran inflasi AS yang lebih tinggi dari perkiraan memicu aksi jual aset kripto, menyebabkan likuidasi hampir $940 juta. Data inflasi yang kuat meningkatkan kekhawatiran kenaikan suku bunga The Fed lebih lanjut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-market-selloff-underwater.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T17:30:25"
-  },
-  {
-   "id": 6586,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin bergejolak, likuidasi kripto dekati $1 miliar",
-   "x": "Data inflasi AS yang panas memicu kekhawatiran kenaikan suku bunga The Fed, menyebabkan likuidasi posisi kripto senilai hampir $1 miliar. Investor dengan leverage tinggi menanggung kerugian.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T15:20:41"
-  },
-  {
-   "id": 6541,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Altcoin pimpin penurunan kripto saat saham Asia anjlok; bitcoin tak banyak berubah",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T10:52:11"
-  },
-  {
-   "id": 6617,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Imbal Hasil 10 Tahun Turun dan Bitcoin Bangkit Kembali: Korelasi atau Kebetulan?",
-   "x": "Bitcoin reli saat imbal hasil obligasi 10 tahun turun, namun pergerakan tersebut sudah dimulai sebelum buyback Treasury. Berikut data yang ditunjukkan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-imbal-hasil-10-tahun-treasury-buyback",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-16T02:36:00"
-  },
-  {
    "id": 6606,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -634,18 +578,18 @@
    "published_at": "2026-10-16T09:48:14"
   },
   {
-   "id": 6726,
+   "id": 6617,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Apakah Satoshi Salah Tentang Bitcoin? Penemuan NSA oleh Claude Picu Perdebatan",
-   "x": "Selama 25 tahun, ada kecurigaan yang menghantui matematika yang melindungi sebagian besar internet: apakah NSA diam-diam membangun cara untuk membobolnya? Sekarang, model AI justru bisa saja melemahkan teori itu. Dan…",
+   "t": "Imbal Hasil 10 Tahun Turun dan Bitcoin Bangkit Kembali: Korelasi atau Kebetulan?",
+   "x": "Bitcoin reli saat imbal hasil obligasi 10 tahun turun, namun pergerakan tersebut sudah dimulai sebelum buyback Treasury. Berikut data yang ditunjukkan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/claude-ai-nsa-misteri-satoshi-bitcoin-keamanan",
-   "img": "https://assets.beincrypto.com/img/lHAwuKdnNvqr0fXSd9I00fOqYU8=/smart/2ddfe6e0682c4ef9ae512b4de2d69d2b",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/bitcoin-imbal-hasil-10-tahun-treasury-buyback",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-17T12:30:00"
+   "published_at": "2026-10-16T02:36:00"
   },
   {
    "id": 6690,
@@ -662,32 +606,18 @@
    "published_at": "2026-10-16T16:20:08"
   },
   {
-   "id": 6542,
+   "id": 6726,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin bangkit setelah jatuh di bawah $80.000",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T10:16:15"
-  },
-  {
-   "id": 6720,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Sinyal Bullish Bitcoin Muncul di Mana-Mana, Para Analis Klaim",
-   "x": "Sinyal bull Bitcoin muncul pada grafik MVRV dan MACD. Lihat alasan mengapa PlanB, Eric Crown, dan data CryptoQuant menyarankan kehati-hatian.",
+   "t": "Apakah Satoshi Salah Tentang Bitcoin? Penemuan NSA oleh Claude Picu Perdebatan",
+   "x": "Selama 25 tahun, ada kecurigaan yang menghantui matematika yang melindungi sebagian besar internet: apakah NSA diam-diam membangun cara untuk membobolnya? Sekarang, model AI justru bisa saja melemahkan teori itu. Dan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/sinyal-bull-bitcoin-planb-siklus-momentum",
-   "img": "https://assets.beincrypto.com/img/7yMUXsSdKopHiu76MXALyFjdC4U=/smart/f4a649e85ab84b93adf76af444304940",
+   "url": "https://id.beincrypto.com/claude-ai-nsa-misteri-satoshi-bitcoin-keamanan",
+   "img": "https://assets.beincrypto.com/img/lHAwuKdnNvqr0fXSd9I00fOqYU8=/smart/2ddfe6e0682c4ef9ae512b4de2d69d2b",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-17T09:04:05"
+   "published_at": "2026-10-17T12:30:00"
   },
   {
    "id": 6672,
@@ -704,18 +634,18 @@
    "published_at": "2026-10-16T12:00:11"
   },
   {
-   "id": 6549,
+   "id": 6720,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Menang di Setiap Skenario Ekonomi, Kata CIO Bitwise Matt Hougan",
-   "x": "Bitwise CIO Matt Hougan berpendapat bahwa Bitcoin (BTC) akan tetap unggul tak peduli ke mana arah ekonomi bergerak. Dalam memo CIO terbarunya, ia menguraikan tiga kemungkinan skenario ekonomi makro, dengan Bitcoin yang…",
+   "t": "Sinyal Bullish Bitcoin Muncul di Mana-Mana, Para Analis Klaim",
+   "x": "Sinyal bull Bitcoin muncul pada grafik MVRV dan MACD. Lihat alasan mengapa PlanB, Eric Crown, dan data CryptoQuant menyarankan kehati-hatian.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitwise-cio-bitcoin-menang-di-tiga-skenario-ekonomi",
-   "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/sinyal-bull-bitcoin-planb-siklus-momentum",
+   "img": "https://assets.beincrypto.com/img/7yMUXsSdKopHiu76MXALyFjdC4U=/smart/f4a649e85ab84b93adf76af444304940",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-15T11:42:05"
+   "published_at": "2026-10-17T09:04:05"
   },
   {
    "id": 6731,
@@ -746,18 +676,46 @@
    "published_at": "2026-10-16T11:07:52"
   },
   {
-   "id": 6570,
+   "id": 6781,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Reli Bitcoin didorong AI hadapi bahaya tersembunyi jika mesin makin kaya tapi pekerja tidak",
-   "x": "Analis Bitwise berpendapat hampir setiap jalur makroekonomi berakhir dengan kenaikan Bitcoin, termasuk ledakan produktivitas AI yang membuat aset langka lebih berharga. Analisis ini menyoroti potensi dampak AI terhadap nilai aset digital.",
+   "t": "Trump abaikan tarif baru Rusia saat tenggat minyak 18 Oktober tiba",
+   "x": "",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-ai-driven-rally-faces-a-hidden-danger-if-the-machines-get-richer-but-workers-dont",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-ai-economic-outlook.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/trump-waives-new-russia-tariffs-as-october-18-oil-deadline-arrives",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/russia-tariff-market-barrier.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T11:00:07"
+   "published_at": "2026-10-18T13:00:30"
+  },
+  {
+   "id": 6784,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Michael Saylor Ungkap Alasan Wall Street Lebih Suka Uang Tunai daripada Bitcoin",
+   "x": "Michael Saylor mengakui bahwa pembeli STRC lebih percaya cadangan dolar daripada jaminan Bitcoin. Berikut perubahan strategi untuk mengembalikan nilainya ke USD100.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/michael-saylor-bitcoin-strc-dolar-as",
+   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-18T12:47:58"
+  },
+  {
+   "id": 6782,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO CryptoQuant lihat Bitcoin di $30.000 meski ETF dan perusahaan keluar",
+   "x": "CEO CryptoQuant berpendapat Bitcoin dapat bertahan di level $30.000 bahkan jika investor institusi menarik dananya. Skenario ini mengasumsikan pembalikan aliran dana masuk ETF Bitcoin spot AS dan penjualan aset oleh perusahaan publik.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cryptoquant-ceo-sees-30000-bitcoin-floor-even-if-etfs-and-treasury-firms-exit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-pressure-dome.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T12:30:34"
   },
   {
    "id": 6630,
@@ -796,38 +754,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-bitcoin-turun-di-bawah-80k-inflasi",
    "img": "https://assets.beincrypto.com/img/5h1Yyq8j9GrN6p0zY3gglmhrt_A=/smart/d785d68bf74144e98b166447d2b1ca6a",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-15T14:44:59"
-  },
-  {
-   "id": 6571,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin $80.000 buy wall sembunyikan jebakan likuidasi yang bisa jatuhkan harga ke $78.000",
-   "x": "Data on-chain terbaru menunjukkan basis pemegang Bitcoin yang lebih tenang meski harga sempat anjlok akibat data inflasi AS yang lebih panas dari perkiraan. Hal ini memicu kekhawatiran kenaikan suku bunga The Fed.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-80000-buy-wall-hides-a-liquidation-trap-that-could-send-prices-toward-78000",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-inflation-downside-gate.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T09:40:18"
-  },
-  {
-   "id": 6552,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Arthur Hayes Bertaruh pada Apa yang Terjadi Setelah Crash AI",
-   "x": "Arthur Hayes mendesak para trader untuk long Bitcoin dan Ethereum. Ia memperkirakan ledakan data center AI akan berakhir dengan bailout bernilai triliunan dolar.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/arthur-hayes-long-bitcoin-ethereum",
-   "img": "https://assets.beincrypto.com/img/IqIpj4gYBt8RbmFBJpSph95J8Lw=/smart/2af82e9462314a59bf8ba6bc75e25212",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-15T09:39:32"
   }
  ]
 }

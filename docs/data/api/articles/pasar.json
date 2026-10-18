@@ -1,5 +1,5 @@
 {
- "total": 101,
+ "total": 81,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/musk-optimus-prime-cina-robot",
    "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T23:17:31"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524SQBMBJKYH096V7N5FT2A/teal-security-warning.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T13:51:35"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ethereum201.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T13:31:07"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c8cf7352fab13d07a5ac302d8ec45c4e0964687d-3072x2048.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "23 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T12:00:00"
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T17:01:03"
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T12:58:03"
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T18:14:43"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/286577a8289b83ce1529d6d1d4853747c94ebd18-1444x796.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T07:13:32"
@@ -236,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/prediction-markets-have-a-major-problem-as-most-americans-reject-betting-on-elections",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/americans-oppose-election-betting.webp",
-   "a": "22 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T12:00:10"
@@ -270,18 +270,18 @@
    "published_at": "2026-10-15T16:49:59"
   },
   {
-   "id": 6562,
+   "id": 6596,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Starknet buka voting tujuh hari untuk Layer 1 independen atas risiko kuantum",
-   "x": "Starknet menggelar pemungutan suara bagi pemegang token STRK untuk meneliti pengembangan Layer 1 independen yang tahan terhadap ancaman komputasi kuantum. Keputusan ini krusial untuk keamanan jangka panjang jaringan.",
+   "t": "Farcaster diakuisisi Balaji Srinivasan, luncurkan 'smart contract sosial'",
+   "x": "Balaji Srinivasan melalui Network School mengakuisisi Farcaster dari Neynar. Pengguna baru wajib menandatangani 'smart contract sosial' untuk dapat membaca konten.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/07/starknet_ethereum_layer_2-2.jpeg",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240212_Farcaster_News.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T14:26:53"
+   "published_at": "2026-10-15T21:41:14"
   },
   {
    "id": 6706,
@@ -312,18 +312,18 @@
    "published_at": "2026-10-16T07:00:56"
   },
   {
-   "id": 6545,
+   "id": 6744,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pasar Kripto Hadapi Risiko Likuidasi Besar, Data Kuartal 3 Tunjukkan",
-   "x": "Kripto baru saja menambah US$840 miliar dalam tiga bulan. Tapi di balik reli ini, volume trading di exchange spot besar justru menurun, sementara taruhan dengan leverage semakin menumpuk. Laporan Q3 2026 dari CoinGecko…",
+   "t": "Peringatan Uang Keenam dari Robert Kiyosaki Bisa Selamatkan Masa Depan Keuangan Anda",
+   "x": "Robert Kiyosaki, penulis buku Rich Dad Poor Dad, menyebutkan enam masalah keuangan dalam postingan terbarunya di X, dan ia menilai masalah terakhir adalah yang paling berbahaya. Ia menegaskan bahwa kesalahan keuangan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/risiko-crash-pasar-kripto-leverage-laporan-coingecko",
-   "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/kiyosaki-enam-masalah-uang-kekayaan-mendadak",
+   "img": "https://assets.beincrypto.com/img/4VifjO6egNVv4QW2JPDTwZtgdaI=/smart/354c76524ffe43188f66983666850973",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-15T13:00:34"
+   "published_at": "2026-10-17T20:21:15"
   },
   {
    "id": 6739,
@@ -334,7 +334,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hoodi-node-operator-upgrades.webp",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T17:00:52"
@@ -368,18 +368,18 @@
    "published_at": "2026-10-16T05:16:11"
   },
   {
-   "id": 6596,
+   "id": 6666,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Farcaster diakuisisi Balaji Srinivasan, luncurkan 'smart contract sosial'",
-   "x": "Balaji Srinivasan melalui Network School mengakuisisi Farcaster dari Neynar. Pengguna baru wajib menandatangani 'smart contract sosial' untuk dapat membaca konten.",
+   "t": "Visa Direct operasikan pra-pendanaan USDC ke produksi komersial",
+   "x": "Visa Direct telah mengoperasikan pra-pendanaan menggunakan stablecoin USDC ke tahap produksi komersial. Inyo Global menjadi mitra komersial pertama dalam inisiatif ini.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240212_Farcaster_News.jpg",
+   "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.44.15.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T21:41:14"
+   "published_at": "2026-10-16T11:25:12"
   },
   {
    "id": 6636,
@@ -410,18 +410,18 @@
    "published_at": "2026-10-16T01:30:09"
   },
   {
-   "id": 6744,
+   "id": 6701,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Peringatan Uang Keenam dari Robert Kiyosaki Bisa Selamatkan Masa Depan Keuangan Anda",
-   "x": "Robert Kiyosaki, penulis buku Rich Dad Poor Dad, menyebutkan enam masalah keuangan dalam postingan terbarunya di X, dan ia menilai masalah terakhir adalah yang paling berbahaya. Ia menegaskan bahwa kesalahan keuangan…",
+   "t": "JPMorgan Blokir Agen AI Luar dari Akun Nasabah",
+   "x": "JPMorgan Chase memblokir agen AI eksternal agar tidak bisa login maupun bertindak di akun nasabah, ujar CEO Jamie Dimon pada hari Selasa, dengan alasan risiko keamanan dari “agen nakal.” Langkah ini menempatkan bank dan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kiyosaki-enam-masalah-uang-kekayaan-mendadak",
-   "img": "https://assets.beincrypto.com/img/4VifjO6egNVv4QW2JPDTwZtgdaI=/smart/354c76524ffe43188f66983666850973",
-   "a": "16 jam lalu",
+   "url": "https://id.beincrypto.com/jpmorgan-blokir-akun-nasabah-ai-agent-luar",
+   "img": "https://assets.beincrypto.com/img/adiR_8gFxKqRCqKwR5qe-NqrQ9k=/smart/e0e2f09ccaff4fd1b659a7c1c373ddf9",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-17T20:21:15"
+   "published_at": "2026-10-16T21:45:48"
   },
   {
    "id": 6689,
@@ -452,104 +452,6 @@
    "published_at": "2026-10-15T20:31:04"
   },
   {
-   "id": 6531,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Penjual token HEX hapus $160 juta pasca laporan penangkapan pendiri Richard Schueler",
-   "x": "Harga token HEX anjlok setelah muncul laporan penangkapan pendiri, Richard Schueler. Peristiwa ini menyebabkan kerugian besar bagi pemegang token dan menimbulkan keraguan terhadap proyek tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZPZ9PD30JJKDBJDB77AQ9B/richard-heart.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:12:57"
-  },
-  {
-   "id": 6565,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ledger luncurkan perangkat Android Atom dengan integrasi Solana Mobile dan perlindungan baru",
-   "x": "Ledger memperkenalkan perangkat keamanan berbasis Android, Atom, yang dilengkapi integrasi Solana Mobile dan fitur perlindungan terhadap modifikasi. Peluncuran ini dilakukan di tengah investigasi terhadap dompet yang dimodifikasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-12.41.21.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:00:00"
-  },
-  {
-   "id": 6538,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Jaksa Brooklyn dan FBI Ungkap Jaringan Penipuan Kripto Besar Targetkan Penutur Bahasa Rusia",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T12:35:24"
-  },
-  {
-   "id": 6724,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "XRP, SOL, DOGE, dan HYPE Bersiap Rebound? Ini Level Kuncinya",
-   "x": "Aset kripto XRP, SOL, DOGE, dan HYPE menunjukkan indikasi pemulihan harga. Analisis ini memantau level kunci dan target harga yang berpotensi memicu kenaikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/xrp-sol-doge-dan-hype-bersiap-rebound-ini-level-kuncinya",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T07:00:49"
-  },
-  {
-   "id": 6546,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Harga Silver Bergerak Dekat Level Terendah 2026: Kesempatan atau Value Trap?",
-   "x": "Harga perak anjlok 6% ke penutupan terendah tahun 2026 setelah data CPI AS yang tinggi. Simak alasan penurunan dan level $54,5 yang perlu diperhatikan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-perak-penutupan-terendah-2026-cpi",
-   "img": "https://assets.beincrypto.com/img/4g__2eJwPYkyq9PDiYfloQ9x_8A=/smart/da5ac5a7333d4860a9536a3bd668effc",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-15T12:52:14"
-  },
-  {
-   "id": 6745,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "TRON catat pergerakan stablecoin $2,2 triliun seiring suplai TRX naik 108 hari",
-   "x": "Suplai TRX terus bertambah selama 108 hari karena jumlah token yang dibakar lebih sedikit dari imbalan yang diterbitkan. Fenomena ini terjadi seiring pergerakan stablecoin senilai $2,2 triliun di jaringan TRON.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tron-stablecoin-network-portal.webp",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T21:00:59"
-  },
-  {
-   "id": 6729,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "TokenMaxxing: Cara Maksimalkan Model AI Anda",
-   "x": "Perusahaan AI mengenakan biaya per token, sehingga penting untuk mengelola penggunaannya agar lebih efisien. Strategi ini membantu pengguna menghemat biaya dan mendapatkan hasil yang lebih baik dari model AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T13:01:04"
-  },
-  {
    "id": 6643,
    "k": "pasar",
    "cat": "Pasar",
@@ -564,18 +466,18 @@
    "published_at": "2026-10-16T11:22:47"
   },
   {
-   "id": 6564,
+   "id": 6667,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CEO Helius Mert Mumtaz bergabung dengan Dewan NEAR Foundation",
-   "x": "Mert Mumtaz, CEO Helius, telah bergabung dengan Dewan NEAR Foundation. Dewan ini bertugas mengawasi yayasan dan keputusan-keputusan paling signifikan terkait pengembangannya.",
+   "t": "Google tunjukkan terobosan komputasi kuantum",
+   "x": "Google mendemonstrasikan teknik 'magic state cultivation' yang berpotensi mengatasi salah satu hambatan terbesar dalam komputasi kuantum. Terobosan ini memicu diskusi tentang implikasi masa depan teknologi tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-13.45.41.png",
+   "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.10.08.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T13:00:00"
+   "published_at": "2026-10-16T10:13:32"
   },
   {
    "id": 6652,
@@ -592,6 +494,104 @@
    "published_at": "2026-10-16T11:15:00"
   },
   {
+   "id": 6724,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "XRP, SOL, DOGE, dan HYPE Bersiap Rebound? Ini Level Kuncinya",
+   "x": "Aset kripto XRP, SOL, DOGE, dan HYPE menunjukkan indikasi pemulihan harga. Analisis ini memantau level kunci dan target harga yang berpotensi memicu kenaikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/xrp-sol-doge-dan-hype-bersiap-rebound-ini-level-kuncinya",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T07:00:49"
+  },
+  {
+   "id": 6648,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Elon Musk vs. CEO Coinbase: Siapa Sebenarnya yang Menang di Papan Peringkat Minum Teknologi?",
+   "x": "Elon Musk kehilangan gelar peringkat Guinness-nya, dan CEO Coinbase yang sebelumnya menempati posisi terakhir kini menawarkan hati yang lebih muda kepada pemenangnya melalui perusahaan bioteknologi miliknya, NewLimit.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/coinbase-ceo-peringkat-guinness-lebih-muda-hati",
+   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-16T12:02:39"
+  },
+  {
+   "id": 6745,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "TRON catat pergerakan stablecoin $2,2 triliun seiring suplai TRX naik 108 hari",
+   "x": "Suplai TRX terus bertambah selama 108 hari karena jumlah token yang dibakar lebih sedikit dari imbalan yang diterbitkan. Fenomena ini terjadi seiring pergerakan stablecoin senilai $2,2 triliun di jaringan TRON.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tron-stablecoin-network-portal.webp",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T21:00:59"
+  },
+  {
+   "id": 6729,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "TokenMaxxing: Cara Maksimalkan Model AI Anda",
+   "x": "Perusahaan AI mengenakan biaya per token, sehingga penting untuk mengelola penggunaannya agar lebih efisien. Strategi ini membantu pengguna menghemat biaya dan mendapatkan hasil yang lebih baik dari model AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-17T13:01:04"
+  },
+  {
+   "id": 6675,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "PAC Kripto Tingkatkan Pengeluaran Melawan Sherrod Brown dalam Pemilu Senat Ohio",
+   "x": "Setidaknya dua komite aksi politik (PAC) yang terafiliasi dengan industri aset kripto telah menggelontorkan lebih dari $52 juta untuk menentang pencalonan kembali Sherrod Brown sebagai senator dari Ohio. Peningkatan pengeluaran ini menunjukkan upaya industri untuk memengaruhi hasil pemilu terkait regulasi kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T17:30:09"
+  },
+  {
+   "id": 6582,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ripple Prime tambah swap RWA referensi futures di Hyperliquid",
+   "x": "Ripple Prime kini menawarkan swap aset dunia nyata (RWA) yang merujuk pada kontrak berjangka abadi. Inovasi ini memperluas pilihan instrumen derivatif yang tersedia di ekosistem kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News_3.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T14:43:35"
+  },
+  {
+   "id": 6776,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Audit kripto beri investor rasa aman palsu saat peretasan Q3 rugikan $1,18 miliar, kata Hacken",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T13:00:00"
+  },
+  {
    "id": 6712,
    "k": "pasar",
    "cat": "Pasar",
@@ -606,18 +606,18 @@
    "published_at": "2026-10-17T02:30:05"
   },
   {
-   "id": 6547,
+   "id": 6628,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Sebuah Penipuan Kripto di Brooklyn Menimpa Korbannya Dua Kali. Data Server yang Disita Menunjukkan Caranya",
-   "x": "Kantor Kejaksaan Brooklyn, Eric Gonzalez, telah membongkar tulang punggung online dari penipuan aset kripto yang menargetkan penutur bahasa Rusia. Modus penipuan ini menjerat korban melalui iklan Facebook dan penasihat…",
+   "t": "CEO BlackRock Larry Fink Soroti Risiko AI yang Berbeda dan Bukan Soal Bubble",
+   "x": "CEO BlackRock, Larry Fink, menyoroti risiko berbeda dalam ledakan artificial intelligence (AI). Ia memperingatkan bahwa defisit pemerintah dan permintaan swasta bertema teknologi yang sangat besar sedang bersaing untuk…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/brooklyn-da-crypto-scam-penutur-rusia",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
+   "url": "https://id.beincrypto.com/larry-fink-ai-capital-biaya-peminjaman",
+   "img": "https://assets.beincrypto.com/img/Mtom53pKrYu0b9HsYd5aTashDT8=/smart/0f1571d9c8c84c709d3579f20d7f1441",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-15T12:36:42"
+   "published_at": "2026-10-16T07:20:45"
   },
   {
    "id": 6671,
@@ -628,7 +628,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-investment-outlook.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T13:00:10"
@@ -648,32 +648,18 @@
    "published_at": "2026-10-16T19:36:04"
   },
   {
-   "id": 6675,
+   "id": 6608,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "PAC Kripto Tingkatkan Pengeluaran Melawan Sherrod Brown dalam Pemilu Senat Ohio",
-   "x": "Setidaknya dua komite aksi politik (PAC) yang terafiliasi dengan industri aset kripto telah menggelontorkan lebih dari $52 juta untuk menentang pencalonan kembali Sherrod Brown sebagai senator dari Ohio. Peningkatan pengeluaran ini menunjukkan upaya industri untuk memengaruhi hasil pemilu terkait regulasi kripto.",
+   "t": "MSCI adopsi aturan pengecualian indeks yang bisa singkirkan Strategy",
+   "x": "MSCI akan mengumumkan daftar final perusahaan yang dihapus dari indeksnya pada 11 November. Strategy, Metaplanet, dan Upexi sebelumnya teridentifikasi untuk dihapus berdasarkan metodologi baru.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T17:30:09"
-  },
-  {
-   "id": 6666,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Visa Direct operasikan pra-pendanaan USDC ke produksi komersial",
-   "x": "Visa Direct telah mengoperasikan pra-pendanaan menggunakan stablecoin USDC ke tahap produksi komersial. Inyo Global menjadi mitra komersial pertama dalam inisiatif ini.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-11.44.15.png",
+   "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M512PJ7T3H0MKWY3KK1SEH21/strategy.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T11:25:12"
+   "published_at": "2026-10-16T00:48:20"
   },
   {
    "id": 6682,
@@ -684,7 +670,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/a42d79475bce40ccdb1888645ca72a438ad5a97f-5769x3752.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T14:58:22"
@@ -704,18 +690,18 @@
    "published_at": "2026-10-17T02:00:32"
   },
   {
-   "id": 6701,
+   "id": 6719,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "JPMorgan Blokir Agen AI Luar dari Akun Nasabah",
-   "x": "JPMorgan Chase memblokir agen AI eksternal agar tidak bisa login maupun bertindak di akun nasabah, ujar CEO Jamie Dimon pada hari Selasa, dengan alasan risiko keamanan dari “agen nakal.” Langkah ini menempatkan bank dan…",
+   "t": "White House Sindir GTA 6 setelah Tesla Ungkap Mobil Terbang",
+   "x": "Gedung Putih mengatakan mobil terbang Tesla mengalahkan GTA 6 untuk masuk pasar, sementara Elon Musk kini menargetkan kecepatan puncak 400 mph untuk Roadster 2028 yang sudah lama tertunda.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jpmorgan-blokir-akun-nasabah-ai-agent-luar",
-   "img": "https://assets.beincrypto.com/img/adiR_8gFxKqRCqKwR5qe-NqrQ9k=/smart/e0e2f09ccaff4fd1b659a7c1c373ddf9",
+   "url": "https://id.beincrypto.com/gedung-putih-tesla-mobil-terbang-gta-6",
+   "img": "https://assets.beincrypto.com/img/5QQ2nnWH4qymjFDw7H8lHpnVrqo=/smart/14454d68b05641a99796585c606b352a",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-16T21:45:48"
+   "published_at": "2026-10-17T09:30:00"
   },
   {
    "id": 6702,
@@ -732,46 +718,32 @@
    "published_at": "2026-10-16T22:30:17"
   },
   {
-   "id": 6553,
+   "id": 6683,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ethereum, Altcoin alami penurunan besar akibat tekanan makroekonomi",
-   "x": "Tekanan makroekonomi global menyebabkan penurunan signifikan pada harga Ethereum dan altcoin lainnya. Kondisi ini mencerminkan sensitivitas pasar kripto terhadap faktor ekonomi yang lebih luas.",
+   "t": "Badan Siber India: Agen AI Baca Catatan Bisnis Rahasia Tanpa Izin",
+   "x": "Badan keamanan siber India, CERT-In, melaporkan bahwa agen kecerdasan buatan (AI) dalam pengujian melampaui tugas yang diberikan dan mengakses catatan bisnis rahasia pada sistem yang aktif. Insiden ini menimbulkan kekhawatiran tentang keamanan data dan privasi dalam penggunaan AI.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T14:27:18"
+   "published_at": "2026-10-16T17:48:06"
   },
   {
-   "id": 6608,
+   "id": 6770,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "MSCI adopsi aturan pengecualian indeks yang bisa singkirkan Strategy",
-   "x": "MSCI akan mengumumkan daftar final perusahaan yang dihapus dari indeksnya pada 11 November. Strategy, Metaplanet, dan Upexi sebelumnya teridentifikasi untuk dihapus berdasarkan metodologi baru.",
+   "t": "Mayoritas warga AS menolak bertaruh pada pemilu: Reuters",
+   "x": "Sebuah survei menunjukkan mayoritas masyarakat Amerika Serikat tidak setuju dengan praktik taruhan pada hasil pemilu. Pasar prediksi yang memungkinkan taruhan semacam itu menjadi sorotan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M512PJ7T3H0MKWY3KK1SEH21/strategy.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T00:48:20"
-  },
-  {
-   "id": 6566,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "EBA Tetapkan USDC Circle Sebagai Token Uang Elektronik 'Signifikan' Pertama di Uni Eropa",
-   "x": "Otoritas Perbankan Eropa (EBA) mengklasifikasikan USDC milik Circle sebagai token uang elektronik signifikan pertama di Uni Eropa. Ini akan memberinya tanggung jawab pengawasan baru mulai 12 November.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-13.49.07.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T11:10:07"
+   "published_at": "2026-10-18T13:48:00"
   },
   {
    "id": 6578,
@@ -782,7 +754,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5ddf1efa5bb12b3aa1345b8718beec9eb6ab01db-2560x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T15:00:00"
@@ -796,24 +768,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-hari-ini-18-oktober-2026-wld-pump-trx-avax-bnb-di-titik-kritis-siapa-bakal-melesat",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T02:00:17"
   },
   {
-   "id": 6648,
+   "id": 6733,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Elon Musk vs. CEO Coinbase: Siapa Sebenarnya yang Menang di Papan Peringkat Minum Teknologi?",
-   "x": "Elon Musk kehilangan gelar peringkat Guinness-nya, dan CEO Coinbase yang sebelumnya menempati posisi terakhir kini menawarkan hati yang lebih muda kepada pemenangnya melalui perusahaan bioteknologi miliknya, NewLimit.",
+   "t": "Iklan Solana Hanya Tayang 10 Menit di Cina, Kritikus Salahkan CZ",
+   "x": "CZ mengatakan Cina menarik iklan Solana di Shanghai dalam 10 menit, namun apakah unggahan X miliknya yang memicunya? Pendiri Binance itu dengan tegas menolak klaim tersebut.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coinbase-ceo-peringkat-guinness-lebih-muda-hati",
-   "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/cz-cina-tarik-iklan-solana-shanghai",
+   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-16T12:02:39"
+   "published_at": "2026-10-17T15:29:32"
   },
   {
    "id": 6598,
@@ -830,18 +802,46 @@
    "published_at": "2026-10-15T20:00:30"
   },
   {
-   "id": 6683,
+   "id": 6738,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Badan Siber India: Agen AI Baca Catatan Bisnis Rahasia Tanpa Izin",
-   "x": "Badan keamanan siber India, CERT-In, melaporkan bahwa agen kecerdasan buatan (AI) dalam pengujian melampaui tugas yang diberikan dan mengakses catatan bisnis rahasia pada sistem yang aktif. Insiden ini menimbulkan kekhawatiran tentang keamanan data dan privasi dalam penggunaan AI.",
+   "t": "Startup Tiongkok Luncurkan Ponsel Berbasis Agen AI, Bukan Aplikasi",
+   "x": "Startup Tiongkok StepFun meluncurkan ponsel STEPX Neo yang mengintegrasikan agen AI langsung ke dalam sistem operasinya. Inovasi ini menandai pergeseran dari model aplikasi tradisional ke interaksi berbasis kecerdasan buatan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png",
+   "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T17:48:06"
+   "published_at": "2026-10-17T15:01:03"
+  },
+  {
+   "id": 6761,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Tersangka asal Tiongkok dalam jaringan kriminal internasional $75 juta ditangkap di Bangkok",
+   "x": "Seorang tersangka asal Tiongkok ditangkap di Bangkok terkait jaringan kriminal internasional senilai $75 juta. Polisi menduga tersangka terlibat dalam pertukaran aset kripto dan mata uang asing untuk kelompok kriminal.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat-police.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T09:14:26"
+  },
+  {
+   "id": 6659,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Hakim AS tolak banding Gemini batalkan penyelesaian $5 juta meski didukung CFTC",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T09:36:21"
   }
  ]
 }
