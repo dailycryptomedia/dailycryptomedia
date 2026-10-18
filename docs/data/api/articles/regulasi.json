@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-mara-expiration-hourglass.webp",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T15:00:36"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/gemini-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T16:36:04"
@@ -110,10 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sec-cftc-crypto-oversight.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T17:00:01"
+  },
+  {
+   "id": 6790,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "MapQuest tampilkan lokasi kamera pelacak pelat nomor",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T16:31:03"
   },
   {
    "id": 6602,
@@ -138,7 +152,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 menit lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T16:00:00"
@@ -166,7 +180,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5021VDZN3M8VCH21XJTRFJY/bribe-money-corrupt-usa-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T17:14:45"
@@ -180,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T01:06:35"
@@ -194,7 +208,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-xmr-menguat-upgrade-privasi-monero-dan-kebijakan-as-jadi-sorotan",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T03:00:43"
@@ -208,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pajak-kripto-ri-diusulkan-turun-ke-01-persen-investor-bisa-hemat-segini",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T02:30:20"
