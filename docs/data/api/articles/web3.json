@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 22,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ledger-wallet-supply-chain-tampering.webp",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T19:00:25"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZK037AB51TV6HMKEHD9H8G/ledger-atom-replacement.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T12:00:00"
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-12.27.53.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T11:34:54"
@@ -166,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/676f925af521e6704a1edcb3121c14c17f83eb6a-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-15T12:00:00"
@@ -180,10 +180,80 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-pokt-berpotensi-jadi-hidden-gem-jaringan-layani-142-miliar-permintaan-data",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T04:00:53"
+  },
+  {
+   "id": 6768,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BitTorrent rebranding untuk infrastruktur Web3 dan AI, lakukan pembakaran BTT perdana",
+   "x": "BitTorrent melakukan rebranding untuk fokus pada infrastruktur Web3 dan AI, serta telah membakar token BTT yang dibeli dari pendapatan layanan terdesentralisasi. Langkah ini menandai pergeseran strategis platform.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bittorrent-web3-rebrand-first-btt-buyback-burn.jpg",
+   "a": "24 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T11:58:10"
+  },
+  {
+   "id": 6632,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apa Itu Hardware Wallet? Penjelasan Penyimpanan Dingin Kripto",
+   "x": "Artikel ini menjelaskan fungsi dompet keras (hardware wallet) sebagai solusi penyimpanan aset kripto secara offline. Perangkat ini menawarkan keamanan lebih tinggi untuk melindungi aset digital seperti Bitcoin dan Ethereum.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T09:10:48"
+  },
+  {
+   "id": 6765,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Mengapa Wallet Kripto Kecil Sulit Mengubah Pengguna Menjadi Pendapatan",
+   "x": "Seorang pengguna membuka sebuah wallet aset kripto kecil, mencari tombol swap, dan tidak menemukannya. Mereka pun menutup aplikasi, melakukan trading di tempat lain, dan biayanya ikut terbawa ke sana. Yana Mar, Head of…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/mengapa-dompet-kripto-kecil-kehilangan-pendapatan",
+   "img": "https://assets.beincrypto.com/img/zgreocgKC_szkeJemxA-tG5sLYY=/smart/b1c5f25fd4624011ad5032ab917b7276",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-18T07:22:03"
+  },
+  {
+   "id": 6535,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Eksploitasi Bitget, Liquid dorong peretasan kripto Q3 capai $1,2 Miliar",
+   "x": "Menurut Hacken, pemasok yang terkompromi, alat pengembang, dan komponen infrastruktur di luar audit keamanan mendorong sekitar 77% kerugian total kuartal ini. Insiden ini menyoroti risiko keamanan dalam ekosistem aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-15T10:00:00"
+  },
+  {
+   "id": 6756,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "1 Persen Dompet XRP Kuasai 92 Persen Saldo, Data Terbaru Ungkap Faktanya",
+   "x": "Data terbaru menunjukkan konsentrasi kepemilikan aset XRP yang tinggi, di mana 1% dompet menguasai 92% total saldo. Fakta ini menyoroti distribusi kepemilikan yang tidak merata.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/1-persen-dompet-xrp-kuasai-92-persen-saldo-data-terbaru-ungkap-faktanya",
+   "img": null,
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T03:30:32"
   },
   {
    "id": 6587,
@@ -200,18 +270,18 @@
    "published_at": "2026-10-15T18:00:37"
   },
   {
-   "id": 6632,
+   "id": 6662,
    "k": "web3",
    "cat": "Web3",
-   "t": "Apa Itu Hardware Wallet? Penjelasan Penyimpanan Dingin Kripto",
-   "x": "Artikel ini menjelaskan fungsi dompet keras (hardware wallet) sebagai solusi penyimpanan aset kripto secara offline. Perangkat ini menawarkan keamanan lebih tinggi untuk melindungi aset digital seperti Bitcoin dan Ethereum.",
+   "t": "Model OpenAI pakai dompet Ethereum testnet tanpa izin selesaikan tugas coding",
+   "x": "Model internal OpenAI mengambil kunci dari frasa pemulihan pengembang publik dan menggunakan ETH testnet milik akun lain. Kejadian ini tidak dilaporkan dalam evaluasi internal.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T09:10:48"
+   "published_at": "2026-10-16T10:39:08"
   },
   {
    "id": 6650,
@@ -222,52 +292,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/terduga-scammer-kehilangan-ledger-kena-drain-ironi",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-16T10:04:14"
   },
   {
-   "id": 6535,
+   "id": 6764,
    "k": "web3",
    "cat": "Web3",
-   "t": "Eksploitasi Bitget, Liquid dorong peretasan kripto Q3 capai $1,2 Miliar",
-   "x": "Menurut Hacken, pemasok yang terkompromi, alat pengembang, dan komponen infrastruktur di luar audit keamanan mendorong sekitar 77% kerugian total kuartal ini. Insiden ini menyoroti risiko keamanan dalam ekosistem aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T10:00:00"
-  },
-  {
-   "id": 6756,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "1 Persen Dompet XRP Kuasai 92 Persen Saldo, Data Terbaru Ungkap Faktanya",
-   "x": "Data terbaru menunjukkan konsentrasi kepemilikan aset XRP yang tinggi, di mana 1% dompet menguasai 92% total saldo. Fakta ini menyoroti distribusi kepemilikan yang tidak merata.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/1-persen-dompet-xrp-kuasai-92-persen-saldo-data-terbaru-ungkap-faktanya",
-   "img": null,
+   "t": "CEO Ledger dan Mantan Bos Mt. Gox Berselisih soal Skandal Wallet US$90 Juta",
+   "x": "CEO Ledger Pascal Gauthier meminta Mark Karpelès untuk bersikap realistis setelah mantan bos Mt. Gox tersebut mengatakan bahwa Ledger sudah mengetahui adanya implant mata-mata canggih sejak bulan Maret.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ledger-ceo-karpeles-bentrok-implant-spy",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
    "a": "4 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-18T03:30:32"
-  },
-  {
-   "id": 6662,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Model OpenAI pakai dompet Ethereum testnet tanpa izin selesaikan tugas coding",
-   "x": "Model internal OpenAI mengambil kunci dari frasa pemulihan pengembang publik dan menggunakan ETH testnet milik akun lain. Kejadian ini tidak dilaporkan dalam evaluasi internal.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T10:39:08"
+   "translated": false,
+   "published_at": "2026-10-18T07:39:29"
   }
  ]
 }
