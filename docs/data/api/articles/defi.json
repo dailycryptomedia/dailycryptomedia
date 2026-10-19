@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-10-18T15:45:05"
   },
   {
+   "id": 6918,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "XRP Ledger perbaiki protokol pinjaman sebelum diluncurkan",
+   "x": "Pengembang XRP Ledger memperbaiki fitur pinjaman tanpa agunan yang baru sebelum diluncurkan secara resmi. Perbaikan ini dilakukan untuk mengatasi masalah pada protokol yang masih menunggu persetujuan validator.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T20:46:05"
+  },
+  {
    "id": 6814,
    "k": "defi",
    "cat": "DeFi",
@@ -40,7 +54,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T04:54:31"
@@ -54,24 +68,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/belajar-liquidity-provider-lp-dari-nol-cara-kerja-meteora-sumber-cuan-dan-risikonya",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T05:00:04"
   },
   {
-   "id": 6868,
+   "id": 6915,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pemegang XRP Bisa Dapat Fee dari Nasabah DeFi Kraken",
-   "x": "Pemegang XRP kini berpotensi mendapatkan imbal hasil dari biaya transaksi nasabah DeFi Kraken. Namun, ada mekanisme perlindungan terhadap potensi kerugian.",
+   "t": "Hoskinson ungkap kode baru Cardano, tapi TVL $63 juta tunjukkan celah",
+   "x": "Pendiri Cardano, Charles Hoskinson, sedang mengembangkan bahasa pemrograman baru untuk blockchain tersebut. Namun, total nilai terkunci (TVL) yang masih terbatas mengindikasikan tantangan dalam adopsi dan permintaan komersial.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-premium-transfer.webp",
-   "a": "8 jam lalu",
+   "url": "https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-adoption-gateway.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T11:20:50"
+   "published_at": "2026-10-19T21:20:24"
   },
   {
    "id": 6860,
@@ -82,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T09:32:38"
@@ -102,18 +116,18 @@
    "published_at": "2026-10-17T09:00:52"
   },
   {
-   "id": 6901,
+   "id": 6868,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Tether kehilangan hampir $5 miliar di bursa kripto",
-   "x": "Saldo Tether (USDT) dilaporkan menurun di berbagai bursa kripto selama kuartal ketiga. Penurunan ini terjadi seiring pesaing seperti USDC dan RLUSD berupaya menarik likuiditas.",
+   "t": "Pemegang XRP Bisa Dapat Fee dari Nasabah DeFi Kraken",
+   "x": "Pemegang XRP kini berpotensi mendapatkan imbal hasil dari biaya transaksi nasabah DeFi Kraken. Namun, ada mekanisme perlindungan terhadap potensi kerugian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/tether-loses-nearly-5-billion-across-crypto-exchanges-as-usdc-and-rlusd-rivals-pay-to-win-liquidity",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdt-exchange-payment-divide.webp",
-   "a": "3 jam lalu",
+   "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-premium-transfer.webp",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T16:40:09"
+   "published_at": "2026-10-19T11:20:50"
   },
   {
    "id": 6769,
@@ -128,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T08:00:39"
+  },
+  {
+   "id": 6901,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tether kehilangan hampir $5 miliar di bursa kripto",
+   "x": "Saldo Tether (USDT) dilaporkan menurun di berbagai bursa kripto selama kuartal ketiga. Penurunan ini terjadi seiring pesaing seperti USDC dan RLUSD berupaya menarik likuiditas.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tether-loses-nearly-5-billion-across-crypto-exchanges-as-usdc-and-rlusd-rivals-pay-to-win-liquidity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdt-exchange-payment-divide.webp",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T16:40:09"
   }
  ]
 }
