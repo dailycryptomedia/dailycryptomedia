@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/menag-bicara-halal-haram-kripto-statusnya-bisa-berubah",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T06:00:56"
+  },
+  {
+   "id": 6807,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Mengapa Bernstein Menilai Penjualan Saham AI Dapat Membantu Saham Kapitalisasi Kecil",
+   "x": "Richard Bernstein dari Janus Henderson mengatakan bahwa aksi jual saham AI dapat memangkas biaya pinjaman saham berkapitalisasi kecil saat The Fed memperketat kebijakan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bernstein-ai-stock-selloff-saham-kapitalisasi-kecil",
+   "img": "https://assets.beincrypto.com/img/s9z9ZE9jO1qp3OpzArVKDsNAZKo=/smart/2eb3212a076d4259b9d0414224fa9fff",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-19T04:45:00"
   },
   {
    "id": 6779,
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-mara-expiration-hourglass.webp",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T15:00:36"
@@ -40,10 +54,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220208_Crypto_Sports_Funding.jpg",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T19:50:28"
+  },
+  {
+   "id": 6818,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korea Selatan bertemu bursa kripto terkait penundaan pajak",
+   "x": "Pemerintah Korea Selatan akan bertemu perwakilan bursa kripto utama. Pertemuan ini terjadi setelah adanya usulan penundaan pajak aset kripto selama dua tahun.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T05:14:06"
   },
   {
    "id": 6684,
@@ -60,6 +88,48 @@
    "published_at": "2026-10-16T16:36:04"
   },
   {
+   "id": 6773,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Latvia targetkan pembayaran pajak kripto pada 2027 seiring revisi aturan",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T16:00:00"
+  },
+  {
+   "id": 6640,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Wamenkeu buka suara soal pajak kripto, aturan adil jadi prioritas",
+   "x": "Pemerintah Indonesia menyoroti kembali isu pajak aset digital seiring jumlah akun investor yang mencapai 23 juta. Wakil Menteri Keuangan menekankan pentingnya aturan perpajakan yang adil bagi para pelaku.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/wamenkeu-buka-suara-soal-pajak-kripto-indonesia-aturan-adil-jadi-prioritas",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T06:00:12"
+  },
+  {
+   "id": 6635,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Hakim AS tolak upaya Gemini-CFTC batalkan penyelesaian $5 juta",
+   "x": "Hakim federal AS menolak permintaan Gemini dan CFTC untuk membatalkan penyelesaian senilai $5 juta. Keputusan ini menegaskan bahwa perubahan kebijakan internal tidak cukup untuk membuka kembali putusan pengadilan yang telah disepakati.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Gemini.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T05:44:05"
+  },
+  {
    "id": 6624,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -74,48 +144,6 @@
    "published_at": "2026-10-16T07:43:29"
   },
   {
-   "id": 6773,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Latvia targetkan pembayaran pajak kripto pada 2027 seiring revisi aturan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-18T16:00:00"
-  },
-  {
-   "id": 6640,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Wamenkeu buka suara soal pajak kripto, aturan adil jadi prioritas",
-   "x": "Pemerintah Indonesia menyoroti kembali isu pajak aset digital seiring jumlah akun investor yang mencapai 23 juta. Wakil Menteri Keuangan menekankan pentingnya aturan perpajakan yang adil bagi para pelaku.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/wamenkeu-buka-suara-soal-pajak-kripto-indonesia-aturan-adil-jadi-prioritas",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T06:00:12"
-  },
-  {
-   "id": 6635,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Hakim AS tolak upaya Gemini-CFTC batalkan penyelesaian $5 juta",
-   "x": "Hakim federal AS menolak permintaan Gemini dan CFTC untuk membatalkan penyelesaian senilai $5 juta. Keputusan ini menegaskan bahwa perubahan kebijakan internal tidak cukup untuk membuka kembali putusan pengadilan yang telah disepakati.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Gemini.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T05:44:05"
-  },
-  {
    "id": 6790,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -124,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T16:31:03"
@@ -166,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T23:28:06"
@@ -180,7 +208,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/harga-xmr-menguat-upgrade-privasi-monero-dan-kebijakan-as-jadi-sorotan",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T03:00:43"
@@ -194,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pajak-kripto-ri-diusulkan-turun-ke-01-persen-investor-bisa-hemat-segini",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T02:30:20"
