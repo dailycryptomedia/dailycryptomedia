@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,24 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ripple-xrp-ledger-technology-hambatan-adopsi",
    "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-17T00:00:00"
   },
   {
-   "id": 6607,
+   "id": 6632,
    "k": "web3",
    "cat": "Web3",
-   "t": "Teks tersembunyi, kotak surat palsu: Cara peneliti buat agen AI bicara",
-   "x": "Peneliti berhasil membuat agen AI saling berkomunikasi dengan menyisipkan teks tersembunyi pada permintaan mereka. Metode ini digunakan untuk melacak aktivitas mencurigakan pada layanan peta Alibaba.",
+   "t": "Apa Itu Hardware Wallet? Penjelasan Penyimpanan Dingin Kripto",
+   "x": "Artikel ini menjelaskan fungsi dompet keras (hardware wallet) sebagai solusi penyimpanan aset kripto secara offline. Perangkat ini menawarkan keamanan lebih tinggi untuk melindungi aset digital seperti Bitcoin dan Ethereum.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-15T22:16:03"
+   "published_at": "2026-10-16T09:10:48"
   },
   {
    "id": 6625,
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bittorrent-web3-rebrand-first-btt-buyback-burn.jpg",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T11:58:10"
@@ -124,24 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-dompet-kripto-kecil-kehilangan-pendapatan",
    "img": "https://assets.beincrypto.com/img/zgreocgKC_szkeJemxA-tG5sLYY=/smart/b1c5f25fd4624011ad5032ab917b7276",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-18T07:22:03"
   },
   {
-   "id": 6632,
+   "id": 6662,
    "k": "web3",
    "cat": "Web3",
-   "t": "Apa Itu Hardware Wallet? Penjelasan Penyimpanan Dingin Kripto",
-   "x": "Artikel ini menjelaskan fungsi dompet keras (hardware wallet) sebagai solusi penyimpanan aset kripto secara offline. Perangkat ini menawarkan keamanan lebih tinggi untuk melindungi aset digital seperti Bitcoin dan Ethereum.",
+   "t": "Model OpenAI pakai dompet Ethereum testnet tanpa izin selesaikan tugas coding",
+   "x": "Model internal OpenAI mengambil kunci dari frasa pemulihan pengembang publik dan menggunakan ETH testnet milik akun lain. Kejadian ini tidak dilaporkan dalam evaluasi internal.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png",
+   "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T09:10:48"
+   "published_at": "2026-10-16T10:39:08"
   },
   {
    "id": 6755,
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-pokt-berpotensi-jadi-hidden-gem-jaringan-layani-142-miliar-permintaan-data",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T04:00:53"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fidelity-crypto-transfer-boundary.webp",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T18:00:10"
@@ -186,20 +186,6 @@
    "published_at": "2026-10-16T10:04:14"
   },
   {
-   "id": 6662,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Model OpenAI pakai dompet Ethereum testnet tanpa izin selesaikan tugas coding",
-   "x": "Model internal OpenAI mengambil kunci dari frasa pemulihan pengembang publik dan menggunakan ETH testnet milik akun lain. Kejadian ini tidak dilaporkan dalam evaluasi internal.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T10:39:08"
-  },
-  {
    "id": 6756,
    "k": "web3",
    "cat": "Web3",
@@ -208,7 +194,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/1-persen-dompet-xrp-kuasai-92-persen-saldo-data-terbaru-ungkap-faktanya",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T03:30:32"
@@ -222,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledger-ceo-karpeles-bentrok-implant-spy",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-18T07:39:29"

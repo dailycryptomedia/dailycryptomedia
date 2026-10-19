@@ -1,5 +1,5 @@
 {
- "total": 49,
+ "total": 45,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/saat-ihsg-babak-belur-bitcoin-justru-terlihat-lebih-rasional",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T07:00:26"
@@ -32,20 +32,6 @@
    "published_at": "2026-10-17T17:05:24"
   },
   {
-   "id": 6603,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penipu kehilangan $4,8 juta dari Ledger yang dirusak",
-   "x": "Seorang penipu dilaporkan kehilangan dana curian senilai $4,8 juta setelah menyimpannya di perangkat Ledger yang telah dimodifikasi. Insiden ini menyoroti risiko keamanan yang terkait dengan penyimpanan aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50Q9CPRKY0N68C9BSYHP5PM/asia-express-12.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T22:42:58"
-  },
-  {
    "id": 6670,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -58,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T14:00:05"
+  },
+  {
+   "id": 6623,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Capital B laporkan rugi $78 juta H1 karena beban penurunan nilai Bitcoin",
+   "x": "Perusahaan Capital B melaporkan kerugian sebesar $78 juta pada paruh pertama tahun ini, terutama akibat penurunan nilai aset Bitcoin yang dimilikinya. Meskipun demikian, perusahaan berhasil meningkatkan kepemilikan Bitcoinnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T07:59:46"
   },
   {
    "id": 6737,
@@ -116,32 +116,18 @@
    "published_at": "2026-10-17T03:30:26"
   },
   {
-   "id": 6600,
+   "id": 6616,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "MicroStrategy Bisa Dihapus dari Indeks Saham Global Utama",
-   "x": "Raksasa Bitcoin milik Michael Saylor bisa kehilangan tempat di indeks saham global utama, yang berpotensi memaksa dana investasi untuk menjual saham meskipun mereka masih percaya pada perusahaan tersebut. Pada hari…",
+   "t": "Chainalysis Jelaskan Mengapa AS Menimbun Bitcoin Sementara Dunia Membeli Dolar AS",
+   "x": "Data Chainalysis menunjukkan alasan Amerika Serikat menimbun Bitcoin sementara negara-negara lain mengadopsi stablecoin dolar dengan laju yang semakin meningkat.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penghapusan-microstrategy-dari-msci-saham-mstr-crash",
-   "img": "https://assets.beincrypto.com/img/ig1wSnBxiUC2CoyPnWyHg76lwps=/smart/b8be7a514ec24b38a37469bc03e69de3",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-15T23:08:51"
-  },
-  {
-   "id": 6623,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Capital B laporkan rugi $78 juta H1 karena beban penurunan nilai Bitcoin",
-   "x": "Perusahaan Capital B melaporkan kerugian sebesar $78 juta pada paruh pertama tahun ini, terutama akibat penurunan nilai aset Bitcoin yang dimilikinya. Meskipun demikian, perusahaan berhasil meningkatkan kepemilikan Bitcoinnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg",
+   "url": "https://id.beincrypto.com/as-hoards-bitcoin-dunia-borong-dolar-as",
+   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T07:59:46"
+   "translated": false,
+   "published_at": "2026-10-16T03:35:09"
   },
   {
    "id": 6707,
@@ -158,6 +144,20 @@
    "published_at": "2026-10-17T07:00:46"
   },
   {
+   "id": 6678,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin Stabil di Sekitar $82 Ribu Setelah The Fed Hindari Isyarat Kenaikan Suku Bunga",
+   "x": "Bitcoin bertahan di atas level $80.000 seiring pemulihan saham teknologi Korea Selatan dan penurunan ekspektasi pasar terhadap kenaikan suku bunga oleh bank sentral Amerika Serikat (The Fed). Hal ini memberikan stabilitas sementara bagi aset kripto utama tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N6H9GGJM3JZN42WG1X5JC/kevin-warsh-2-3-960x640.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T15:45:43"
+  },
+  {
    "id": 6771,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -166,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T15:01:04"
@@ -200,32 +200,18 @@
    "published_at": "2026-10-16T09:30:21"
   },
   {
-   "id": 6601,
+   "id": 6783,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Grayscale Sebut Volatilitas Bitcoin Turun ke 43%, Kini Sejajar dengan Rentang S&P 500",
-   "x": "Volatilitas Bitcoin dalam satu tahun terakhir telah turun menjadi 43%, yang sekarang berada dalam kisaran saham S&P 500, menurut laporan terbaru dari Grayscale. Perbandingan ini dapat membantu meredakan kekhawatiran di…",
+   "t": "Bisakah Harga Bitcoin Turun ke US$10.000? Analis Bloomberg Beri Peringatan Suram",
+   "x": "Senior commodity strategist dari Bloomberg Intelligence, Mike McGlone, kembali memperbarui prediksinya yang cukup ekstrem. Ia mengatakan bahwa Bitcoin bisa turun ke sekitar US$10.000 jika saham-saham AS turun 20%…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/volatilitas-bitcoin-turun-ke-level-sp-500-grayscale",
-   "img": "https://assets.beincrypto.com/img/nDHdVqJtiOTkU3l_tikwhKdC3SY=/smart/68ca7b6782944dc2b3bf3c4d2ff4423b",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/peringatan-penurunan-harga-bitcoin-analis-bloomberg",
+   "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-15T23:00:19"
-  },
-  {
-   "id": 6678,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Harga Bitcoin Stabil di Sekitar $82 Ribu Setelah The Fed Hindari Isyarat Kenaikan Suku Bunga",
-   "x": "Bitcoin bertahan di atas level $80.000 seiring pemulihan saham teknologi Korea Selatan dan penurunan ekspektasi pasar terhadap kenaikan suku bunga oleh bank sentral Amerika Serikat (The Fed). Hal ini memberikan stabilitas sementara bagi aset kripto utama tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N6H9GGJM3JZN42WG1X5JC/kevin-warsh-2-3-960x640.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T15:45:43"
+   "published_at": "2026-10-18T14:39:53"
   },
   {
    "id": 6721,
@@ -240,6 +226,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T11:00:07"
+  },
+  {
+   "id": 6645,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin mungkin uji garis tren 20 bulan sebelum rekor baru",
+   "x": "Sinyal siklus pasar Bitcoin mengindikasikan potensi pengujian ulang rata-rata bergerak kunci sebelum mencapai rekor tertinggi baru. Analisis ini didasarkan pada pola historis pergerakan harga BTC.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51YZVQT8054R4CPX4D28190/article-covers-237235-did-bitcoin-4-year-cycle-break-is-bull-market-really-over-960x640.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T09:22:13"
   },
   {
    "id": 6660,
@@ -264,38 +264,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T16:33:00"
   },
   {
-   "id": 6616,
+   "id": 6747,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Chainalysis Jelaskan Mengapa AS Menimbun Bitcoin Sementara Dunia Membeli Dolar AS",
-   "x": "Data Chainalysis menunjukkan alasan Amerika Serikat menimbun Bitcoin sementara negara-negara lain mengadopsi stablecoin dolar dengan laju yang semakin meningkat.",
+   "t": "Peringkat Buruk Anthropic Picu Perdebatan Lebih Besar tentang Bitcoin",
+   "x": "Peringkat junk oleh Anthropic membuat Adam Back menyebut Bitcoin sebagai hurdle rate. Lihat apa yang dikatakan biaya pinjaman Anthropic tentang Treasuries dan 60/40.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/as-hoards-bitcoin-dunia-borong-dolar-as",
-   "img": "https://assets.beincrypto.com/img/F4v-tmJyGhcTWTDTGncp4nz-zT0=/smart/40febe98e44b4b44bd8493d8eaa048b7",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/anthropic-junk-rating-pertanyaan-bitcoin",
+   "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-16T03:35:09"
-  },
-  {
-   "id": 6645,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin mungkin uji garis tren 20 bulan sebelum rekor baru",
-   "x": "Sinyal siklus pasar Bitcoin mengindikasikan potensi pengujian ulang rata-rata bergerak kunci sebelum mencapai rekor tertinggi baru. Analisis ini didasarkan pada pola historis pergerakan harga BTC.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51YZVQT8054R4CPX4D28190/article-covers-237235-did-bitcoin-4-year-cycle-break-is-bull-market-really-over-960x640.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T09:22:13"
+   "published_at": "2026-10-18T01:11:15"
   },
   {
    "id": 6633,
@@ -334,24 +320,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T13:00:00"
   },
   {
-   "id": 6783,
+   "id": 6627,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bisakah Harga Bitcoin Turun ke US$10.000? Analis Bloomberg Beri Peringatan Suram",
-   "x": "Senior commodity strategist dari Bloomberg Intelligence, Mike McGlone, kembali memperbarui prediksinya yang cukup ekstrem. Ia mengatakan bahwa Bitcoin bisa turun ke sekitar US$10.000 jika saham-saham AS turun 20%…",
+   "t": "Pencarian Bitcoin di Google Sentuh Titik Terendah 6 Tahun, Willy Woo Sebut Ini Sinyal Beli",
+   "x": "Pencarian Google untuk Bitcoin turun ke level terendah dalam 6 tahun. Willy Woo menyebutnya sebagai sinyal beli, namun sekarang trader yang menggerakkan data tersebut.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peringatan-penurunan-harga-bitcoin-analis-bloomberg",
-   "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
-   "a": "8 jam lalu",
+   "url": "https://id.beincrypto.com/pencarian-google-bitcoin-willy-woo-buy",
+   "img": "https://assets.beincrypto.com/img/RJNfRKwX8za1fT2I4ukCfygjgKM=/smart/d34b9cb0e331452f8704587103204c73",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-18T14:39:53"
+   "published_at": "2026-10-16T07:54:12"
   },
   {
    "id": 6730,
@@ -396,60 +382,18 @@
    "published_at": "2026-10-16T10:52:26"
   },
   {
-   "id": 6747,
+   "id": 6700,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Peringkat Buruk Anthropic Picu Perdebatan Lebih Besar tentang Bitcoin",
-   "x": "Peringkat junk oleh Anthropic membuat Adam Back menyebut Bitcoin sebagai hurdle rate. Lihat apa yang dikatakan biaya pinjaman Anthropic tentang Treasuries dan 60/40.",
+   "t": "Raoul Pal Pegang Bitcoin, Solana, dan Ethereum, tapi Sebut Satu Sangat Undervalued",
+   "x": "CEO Real Vision, Raoul Pal, menyebut Ethereum sangat undervalued meski masih memegang Bitcoin, Solana, dan Sui, karena menurutnya pasar salah menilai jaringan blockchain saat tampil di podcast. Tapi, angka-angka yang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/anthropic-junk-rating-pertanyaan-bitcoin",
-   "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-18T01:11:15"
-  },
-  {
-   "id": 6606,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Perbaikan kuantum amankan Bitcoin, tapi pemilik sah berisiko terkunci",
-   "x": "Serangan hipotetis menunjukkan bahwa tanda tangan yang lebih aman dapat membuat pemilik sah kesulitan membuktikan kontrol aset mereka. Hal ini menimbulkan kekhawatiran tentang aksesibilitas Bitcoin di masa depan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/quantum-fixes-protect-bitcoin-but-legit-owners-risk-lockout",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-dormant-archive-threat.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-15T22:40:17"
-  },
-  {
-   "id": 6656,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Altcoin lampaui bitcoin, Celestia naik 16%, Warsh bungkam soal suku bunga",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T10:41:03"
-  },
-  {
-   "id": 6627,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pencarian Bitcoin di Google Sentuh Titik Terendah 6 Tahun, Willy Woo Sebut Ini Sinyal Beli",
-   "x": "Pencarian Google untuk Bitcoin turun ke level terendah dalam 6 tahun. Willy Woo menyebutnya sebagai sinyal beli, namun sekarang trader yang menggerakkan data tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pencarian-google-bitcoin-willy-woo-buy",
-   "img": "https://assets.beincrypto.com/img/RJNfRKwX8za1fT2I4ukCfygjgKM=/smart/d34b9cb0e331452f8704587103204c73",
+   "url": "https://id.beincrypto.com/raoul-pal-ethereum-undervalued-stress-test",
+   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-16T07:54:12"
+   "published_at": "2026-10-16T21:59:23"
   },
   {
    "id": 6690,
@@ -466,60 +410,18 @@
    "published_at": "2026-10-16T16:20:08"
   },
   {
-   "id": 6637,
+   "id": 6656,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "XRP gagal bikin pemegang kaya seperti bitcoin dan ether. Ini alasannya",
+   "t": "Altcoin lampaui bitcoin, Celestia naik 16%, Warsh bungkam soal suku bunga",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T05:53:58"
-  },
-  {
-   "id": 6700,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Raoul Pal Pegang Bitcoin, Solana, dan Ethereum, tapi Sebut Satu Sangat Undervalued",
-   "x": "CEO Real Vision, Raoul Pal, menyebut Ethereum sangat undervalued meski masih memegang Bitcoin, Solana, dan Sui, karena menurutnya pasar salah menilai jaringan blockchain saat tampil di podcast. Tapi, angka-angka yang…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/raoul-pal-ethereum-undervalued-stress-test",
-   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-16T21:59:23"
-  },
-  {
-   "id": 6672,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Stok minyak darat rendah, harapan Bitcoin sebagai lindung inflasi terancam",
-   "x": "Penurunan stok minyak di darat dapat memengaruhi ekspektasi Bitcoin sebagai lindung nilai terhadap inflasi. Ketidakpastian pasokan energi global berpotensi berdampak pada stabilitas pasar keuangan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-inflation-relief-case-faces-a-113-million-barrel-onshore-oil-draw",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-oil-spill-risk.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T12:00:11"
-  },
-  {
-   "id": 6657,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penipu kena tipu dalam eksploitasi chip mata-mata Ledger, rugikan hampir $5 juta bitcoin",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/727c641cca47f8677edc87bc7d3420448b81fe78-5530x3684.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-16T10:24:30"
+   "published_at": "2026-10-16T10:41:03"
   },
   {
    "id": 6617,
@@ -536,32 +438,32 @@
    "published_at": "2026-10-16T02:36:00"
   },
   {
-   "id": 6731,
+   "id": 6672,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Eclair perbaiki serangan browser yang bisa kendalikan node Lightning",
-   "x": "Perbaikan ini mencegah serangan yang dapat mengirim perintah ke node Lightning melalui browser. Pembaruan ini meningkatkan keamanan bagi pengguna jaringan Lightning.",
+   "t": "Stok minyak darat rendah, harapan Bitcoin sebagai lindung inflasi terancam",
+   "x": "Penurunan stok minyak di darat dapat memengaruhi ekspektasi Bitcoin sebagai lindung nilai terhadap inflasi. Ketidakpastian pasokan energi global berpotensi berdampak pada stabilitas pasar keuangan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-browser-attack-filter.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-17T12:00:20"
-  },
-  {
-   "id": 6658,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Update langsung: Bitcoin stabil di dekat $82.000 pasca komentar Ketua The Fed",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-   "img": null,
+   "url": "https://cryptoslate.com/bitcoins-inflation-relief-case-faces-a-113-million-barrel-onshore-oil-draw",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-oil-spill-risk.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-16T09:48:14"
+   "published_at": "2026-10-16T12:00:11"
+  },
+  {
+   "id": 6637,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "XRP gagal bikin pemegang kaya seperti bitcoin dan ether. Ini alasannya",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T05:53:58"
   },
   {
    "id": 6726,
@@ -578,18 +480,32 @@
    "published_at": "2026-10-17T12:30:00"
   },
   {
-   "id": 6781,
+   "id": 6731,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Trump abaikan tarif baru Rusia saat tenggat minyak 18 Oktober tiba",
-   "x": "",
+   "t": "Eclair perbaiki serangan browser yang bisa kendalikan node Lightning",
+   "x": "Perbaikan ini mencegah serangan yang dapat mengirim perintah ke node Lightning melalui browser. Pembaruan ini meningkatkan keamanan bagi pengguna jaringan Lightning.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trump-waives-new-russia-tariffs-as-october-18-oil-deadline-arrives",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/russia-tariff-market-barrier.webp",
-   "a": "10 jam lalu",
+   "url": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/eclair-browser-attack-filter.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-18T13:00:30"
+   "published_at": "2026-10-17T12:00:20"
+  },
+  {
+   "id": 6657,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penipu kena tipu dalam eksploitasi chip mata-mata Ledger, rugikan hampir $5 juta bitcoin",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/727c641cca47f8677edc87bc7d3420448b81fe78-5530x3684.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T10:24:30"
   },
   {
    "id": 6720,
@@ -606,18 +522,32 @@
    "published_at": "2026-10-17T09:04:05"
   },
   {
-   "id": 6782,
+   "id": 6781,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "CEO CryptoQuant lihat Bitcoin di $30.000 meski ETF dan perusahaan keluar",
-   "x": "CEO CryptoQuant berpendapat Bitcoin dapat bertahan di level $30.000 bahkan jika investor institusi menarik dananya. Skenario ini mengasumsikan pembalikan aliran dana masuk ETF Bitcoin spot AS dan penjualan aset oleh perusahaan publik.",
+   "t": "Trump abaikan tarif baru Rusia saat tenggat minyak 18 Oktober tiba",
+   "x": "",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cryptoquant-ceo-sees-30000-bitcoin-floor-even-if-etfs-and-treasury-firms-exit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-pressure-dome.webp",
-   "a": "10 jam lalu",
+   "url": "https://cryptoslate.com/trump-waives-new-russia-tariffs-as-october-18-oil-deadline-arrives",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/russia-tariff-market-barrier.webp",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-18T12:30:34"
+   "published_at": "2026-10-18T13:00:30"
+  },
+  {
+   "id": 6658,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Update langsung: Bitcoin stabil di dekat $82.000 pasca komentar Ketua The Fed",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-16T09:48:14"
   },
   {
    "id": 6649,
@@ -634,6 +564,34 @@
    "published_at": "2026-10-16T11:07:52"
   },
   {
+   "id": 6782,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "CEO CryptoQuant lihat Bitcoin di $30.000 meski ETF dan perusahaan keluar",
+   "x": "CEO CryptoQuant berpendapat Bitcoin dapat bertahan di level $30.000 bahkan jika investor institusi menarik dananya. Skenario ini mengasumsikan pembalikan aliran dana masuk ETF Bitcoin spot AS dan penjualan aset oleh perusahaan publik.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cryptoquant-ceo-sees-30000-bitcoin-floor-even-if-etfs-and-treasury-firms-exit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-pressure-dome.webp",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-18T12:30:34"
+  },
+  {
+   "id": 6784,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Michael Saylor Ungkap Alasan Wall Street Lebih Suka Uang Tunai daripada Bitcoin",
+   "x": "Michael Saylor mengakui bahwa pembeli STRC lebih percaya cadangan dolar daripada jaminan Bitcoin. Berikut perubahan strategi untuk mengembalikan nilainya ke USD100.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/michael-saylor-bitcoin-strc-dolar-as",
+   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-18T12:47:58"
+  },
+  {
    "id": 6674,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -646,20 +604,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-16T09:40:48"
-  },
-  {
-   "id": 6784,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Michael Saylor Ungkap Alasan Wall Street Lebih Suka Uang Tunai daripada Bitcoin",
-   "x": "Michael Saylor mengakui bahwa pembeli STRC lebih percaya cadangan dolar daripada jaminan Bitcoin. Berikut perubahan strategi untuk mengembalikan nilainya ke USD100.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/michael-saylor-bitcoin-strc-dolar-as",
-   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-18T12:47:58"
   },
   {
    "id": 6630,
@@ -684,7 +628,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/analis-hype-bullish-turun-15-persen",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "1 jam lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-18T22:00:00"

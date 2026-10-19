@@ -1,8 +1,22 @@
 {
- "total": 2,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 6801,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Bored Ape NFT Masuk ke Solana dengan 8 Kartu Langka",
+   "x": "Yuga Labs menghadirkan kartu Bored Ape fisik dan digital di Solana. Holder dapat mengklaim paket dari 10.000 boks, dan delapan kartu one-of-one menjadi yang paling atas dalam set tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bored-ape-cards-solana-mudwater",
+   "img": "https://assets.beincrypto.com/img/1jfWDKt9CpxhhxFC4t6DP4P7qgQ=/smart/59ea20619bcd4f1c9ee12fb82b1eda0a",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-19T00:00:00"
+  },
   {
    "id": 6760,
    "k": "nft",
@@ -12,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jpg",
-   "a": "12 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T10:43:12"
