@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/just-fifth-jst-buyback-burn-170-million-tokens.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T15:45:05"
@@ -40,7 +40,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T04:54:31"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/belajar-liquidity-provider-lp-dari-nol-cara-kerja-meteora-sumber-cuan-dan-risikonya",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T05:00:04"
@@ -68,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-premium-transfer.webp",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T11:20:50"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T09:32:38"
@@ -100,6 +100,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-17T09:00:52"
+  },
+  {
+   "id": 6901,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tether kehilangan hampir $5 miliar di bursa kripto",
+   "x": "Saldo Tether (USDT) dilaporkan menurun di berbagai bursa kripto selama kuartal ketiga. Penurunan ini terjadi seiring pesaing seperti USDC dan RLUSD berupaya menarik likuiditas.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tether-loses-nearly-5-billion-across-crypto-exchanges-as-usdc-and-rlusd-rivals-pay-to-win-liquidity",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdt-exchange-payment-divide.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T16:40:09"
   },
   {
    "id": 6769,
