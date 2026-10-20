@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-10-17T19:00:25"
   },
   {
-   "id": 6703,
+   "id": 6765,
    "k": "web3",
    "cat": "Web3",
-   "t": "Mantan Penasihat Ripple Peringatkan Ujian Terbesar XRP Masih di Depan",
-   "x": "Mantan penasihat CBDC Ripple, Anthony Welfare, dalam AllinCrypto Podcast mengungkapkan bahwa XRP Ledger (XRPL) memiliki fitur teknis yang kuat. Tapi, keunggulan itu saja tidak menjamin adopsi. Institusi sedang menguji…",
+   "t": "Mengapa Wallet Kripto Kecil Sulit Mengubah Pengguna Menjadi Pendapatan",
+   "x": "Seorang pengguna membuka sebuah wallet aset kripto kecil, mencari tombol swap, dan tidak menemukannya. Mereka pun menutup aplikasi, melakukan trading di tempat lain, dan biayanya ikut terbawa ke sana. Yana Mar, Head of…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ripple-xrp-ledger-technology-hambatan-adopsi",
-   "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/mengapa-dompet-kripto-kecil-kehilangan-pendapatan",
+   "img": "https://assets.beincrypto.com/img/zgreocgKC_szkeJemxA-tG5sLYY=/smart/b1c5f25fd4624011ad5032ab917b7276",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-17T00:00:00"
+   "published_at": "2026-10-18T07:22:03"
   },
   {
    "id": 6755,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T10:11:21"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00aaef2726548e0752cbe7b20a6377d15bd4b110-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T14:58:40"
@@ -82,24 +82,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-cross-margin-risk.webp",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T20:00:12"
   },
   {
-   "id": 6765,
+   "id": 6828,
    "k": "web3",
    "cat": "Web3",
-   "t": "Mengapa Wallet Kripto Kecil Sulit Mengubah Pengguna Menjadi Pendapatan",
-   "x": "Seorang pengguna membuka sebuah wallet aset kripto kecil, mencari tombol swap, dan tidak menemukannya. Mereka pun menutup aplikasi, melakukan trading di tempat lain, dan biayanya ikut terbawa ke sana. Yana Mar, Head of…",
+   "t": "Bagaimana Seorang Attacker Menguras 1.404 Wallet Qubic Tanpa Merusak Blockchain",
+   "x": "Qubic (QUBIC) turun 5,2% dalam 24 jam terakhir menjadi US$0,0000004394, menurut data BeInCrypto Markets. Penurunan ini terjadi setelah seorang penyerang menguras 1.404 wallet Qubic dan validator menghentikan jaringan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/mengapa-dompet-kripto-kecil-kehilangan-pendapatan",
-   "img": "https://assets.beincrypto.com/img/zgreocgKC_szkeJemxA-tG5sLYY=/smart/b1c5f25fd4624011ad5032ab917b7276",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/harga-qubic-wallet-drain-network-halt",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-18T07:22:03"
+   "published_at": "2026-10-19T10:00:00"
   },
   {
    "id": 6756,
@@ -130,18 +130,18 @@
    "published_at": "2026-10-18T11:58:10"
   },
   {
-   "id": 6828,
+   "id": 6764,
    "k": "web3",
    "cat": "Web3",
-   "t": "Bagaimana Seorang Attacker Menguras 1.404 Wallet Qubic Tanpa Merusak Blockchain",
-   "x": "Qubic (QUBIC) turun 5,2% dalam 24 jam terakhir menjadi US$0,0000004394, menurut data BeInCrypto Markets. Penurunan ini terjadi setelah seorang penyerang menguras 1.404 wallet Qubic dan validator menghentikan jaringan…",
+   "t": "CEO Ledger dan Mantan Bos Mt. Gox Berselisih soal Skandal Wallet US$90 Juta",
+   "x": "CEO Ledger Pascal Gauthier meminta Mark Karpelès untuk bersikap realistis setelah mantan bos Mt. Gox tersebut mengatakan bahwa Ledger sudah mengetahui adanya implant mata-mata canggih sejak bulan Maret.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-qubic-wallet-drain-network-halt",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "13 jam lalu",
+   "url": "https://id.beincrypto.com/ledger-ceo-karpeles-bentrok-implant-spy",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-19T10:00:00"
+   "published_at": "2026-10-18T07:39:29"
   },
   {
    "id": 6791,
@@ -156,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T18:00:10"
-  },
-  {
-   "id": 6764,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CEO Ledger dan Mantan Bos Mt. Gox Berselisih soal Skandal Wallet US$90 Juta",
-   "x": "CEO Ledger Pascal Gauthier meminta Mark Karpelès untuk bersikap realistis setelah mantan bos Mt. Gox tersebut mengatakan bahwa Ledger sudah mengetahui adanya implant mata-mata canggih sejak bulan Maret.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ledger-ceo-karpeles-bentrok-implant-spy",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-18T07:39:29"
   }
  ]
 }
