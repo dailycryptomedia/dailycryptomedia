@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T06:26:53"
@@ -54,10 +54,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tom-lee-dump-beli-kripto-semis",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-19T05:55:00"
+  },
+  {
+   "id": 6933,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Apa yang IPO Anthropic Bisa Ungkap dan Kenapa OpenAI Sedang Berlomba Dengannya",
+   "x": "OpenAI dikabarkan sedang berupaya mengumpulkan dana sekitar US$30 miliar sebelum listing Anthropic yang dijadwalkan pertengahan November. Dua sumber yang mengetahui hal ini menyampaikan kepada Reuters bahwa putaran…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/openai-fundraise-anthropic-ipo-valuation",
+   "img": "https://assets.beincrypto.com/img/yMZG32QczObjdQNaEL8R1AJJB9o=/smart/cbfbd69459c94116b66e3e7bc35677cd",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-20T07:00:00"
   },
   {
    "id": 6793,
