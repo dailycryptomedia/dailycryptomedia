@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/moneygram-xdc-network-blockchain-validator",
    "img": "https://assets.beincrypto.com/img/uqJkALwJe6QR1YCy6Bn0O0M-XNE=/smart/d843b62d12cb4acb95f54c241799a124",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T10:53:23"
@@ -68,7 +68,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00aaef2726548e0752cbe7b20a6377d15bd4b110-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T14:58:40"
@@ -82,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-cross-margin-risk.webp",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T20:00:12"
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bayar-pakai-kripto-makin-praktis-visa-hubungkan-wallet-ke-175-juta-merchant",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T09:00:37"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fidelity-crypto-transfer-boundary.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T18:00:10"
@@ -184,6 +184,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-18T07:39:29"
+  },
+  {
+   "id": 7006,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Krisis keamanan dompet kripto memburuk akibat serangan phishing NGRAVE senilai $2,65 juta",
+   "x": "Pengguna dompet kripto NGRAVE menjadi korban serangan phishing senilai jutaan dolar, menyoroti kerentanan keamanan aset digital. Insiden ini meningkatkan kekhawatiran investor terhadap perlindungan dana mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-wallet-security-crisis-deepens-as-ngrave-users-face-2-65-million-phishing-attack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hyperliquid-xmr1-fund-tracing.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T14:00:51"
   }
  ]
 }
