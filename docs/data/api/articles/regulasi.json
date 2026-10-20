@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 27,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220208_Crypto_Sports_Funding.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T19:50:28"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pajak-kripto-prancis-protes-keras-kerusuhan",
    "img": "https://assets.beincrypto.com/img/jkGTYjFL1YzvlS4Dw8q83UGiOwA=/smart/ee9a2907be554a9e95b9f763dd4c2e7c",
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T14:16:43"
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/france-stablecoin-tax-vote-standard.jpg",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T04:40:34"
@@ -152,24 +152,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-20-at-13.01.45.png",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T12:15:05"
   },
   {
-   "id": 7011,
+   "id": 7025,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Anggota parlemen Prancis dukung pajak swap stablecoin hanya dengan satu suara",
-   "x": "Parlemen Prancis nyaris menyetujui pajak atas penukaran aset kripto ke stablecoin, yang akan berlaku mulai 2027. Keputusan ini dapat memengaruhi lanskap regulasi aset kripto di Eropa.",
+   "t": "Regulator Swiss setujui reksa dana ritel pertama pemegang bitcoin langsung",
+   "x": "Otoritas pengawas Swiss FINMA menyetujui reksa dana ritel pertama yang berinvestasi langsung pada bitcoin. Keputusan ini menekankan pentingnya pengamanan kustodian dan investor.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
-   "a": "4 jam lalu",
+   "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T14:04:10"
+   "published_at": "2026-10-20T19:31:04"
   },
   {
    "id": 6966,
@@ -180,7 +180,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "4 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T13:35:08"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-minyak-tertinggi-5-bulan-rumah-tangga",
    "img": "https://assets.beincrypto.com/img/qtzkhwpSKxBQTMcjk_UlMy5nfjo=/smart/d4359a2a8587482dab0f939b8040c691",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T14:00:00"
@@ -222,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T19:54:38"
@@ -236,10 +236,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bnb-chain-splits-asset-power-across-4-roles-while-admins-hold-the-key",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bnb-cas20-policy-controls.webp",
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T08:20:20"
+  },
+  {
+   "id": 7019,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Perusahaan kripto dan Wall Street desak SEC revisi aturan aset kripto",
+   "x": "Seiring berakhirnya masa komentar publik, berbagai perusahaan aset digital dan institusi Wall Street menyampaikan pandangannya kepada SEC. Mereka mendesak revisi proposal regulasi aset kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News_2.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T19:19:54"
+  },
+  {
+   "id": 7011,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Anggota parlemen Prancis dukung pajak swap stablecoin hanya dengan satu suara",
+   "x": "Parlemen Prancis nyaris menyetujui pajak atas penukaran aset kripto ke stablecoin, yang akan berlaku mulai 2027. Keputusan ini dapat memengaruhi lanskap regulasi aset kripto di Eropa.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T14:04:10"
   },
   {
    "id": 6748,
@@ -268,6 +296,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T17:24:49"
+  },
+  {
+   "id": 7020,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Utah gugat Kalshi, sebut praktik seperti 'judi'",
+   "x": "Otoritas Utah menggugat bursa derivatif Kalshi dan menuding praktik perdagangannya menyerupai perjudian. Gugatan ini bertujuan memulihkan keuntungan dan menghentikan taruhan pada berbagai peristiwa.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News_2.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T19:12:38"
   },
   {
    "id": 6802,
@@ -306,7 +348,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/878176819e13d700e6a3e6c6561c28fff13b2e51-4794x3595.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T11:25:00"
@@ -320,7 +362,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CEWD6YPHEXMFG6Z7CNJA4F/kazachstan-almaty-bitcoin-1.jpg",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T11:12:21"

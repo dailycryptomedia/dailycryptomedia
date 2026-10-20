@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-chip-ai-trading-dump",
    "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T02:30:00"
@@ -46,18 +46,32 @@
    "published_at": "2026-10-18T15:45:05"
   },
   {
-   "id": 6918,
+   "id": 7023,
    "k": "defi",
    "cat": "DeFi",
-   "t": "XRP Ledger perbaiki protokol pinjaman sebelum diluncurkan",
-   "x": "Pengembang XRP Ledger memperbaiki fitur pinjaman tanpa agunan yang baru sebelum diluncurkan secara resmi. Perbaikan ini dilakukan untuk mengatasi masalah pada protokol yang masih menunggu persetujuan validator.",
+   "t": "Dompet terkait peretasan Drift kirim $61 juta Ethereum ke Tornado Cash",
+   "x": "Pelaku peretasan Drift yang diduga terkait Korea Utara memindahkan dana curian senilai $61 juta ke Tornado Cash. Sebagian besar aset hasil peretasan masih dikuasai pelaku.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
-   "a": "21 jam lalu",
+   "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T20:46:05"
+   "published_at": "2026-10-20T20:46:04"
+  },
+  {
+   "id": 7014,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Gelombang penutupan proyek kripto 2026 klaim 82 proyek. Apa yang salah?",
+   "x": "Banyak proyek kripto menghadapi kebangkrutan akibat penurunan pendapatan, menipisnya pendanaan, dan pelanggaran keamanan. Penutupan ini terjadi di berbagai sektor seperti DeFi, infrastruktur blockchain, dan game.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T19:59:39"
   },
   {
    "id": 6998,
@@ -68,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T16:31:24"
@@ -110,10 +124,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-adoption-gateway.webp",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T21:20:24"
+  },
+  {
+   "id": 6918,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "XRP Ledger perbaiki protokol pinjaman sebelum diluncurkan",
+   "x": "Pengembang XRP Ledger memperbaiki fitur pinjaman tanpa agunan yang baru sebelum diluncurkan secara resmi. Perbaikan ini dilakukan untuk mengatasi masalah pada protokol yang masih menunggu persetujuan validator.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T20:46:05"
   },
   {
    "id": 6860,
