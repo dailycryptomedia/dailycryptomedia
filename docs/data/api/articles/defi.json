@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-10-20T02:30:00"
   },
   {
+   "id": 7152,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pendapatan XRP dari dompet ini bisa merugikan Anda",
+   "x": "Dompet Xaman menunjukkan bahwa pemulihan biaya untuk mendapatkan imbal hasil XRP bisa memakan waktu 15 bulan. Ini menyoroti potensi biaya tersembunyi bagi pengguna yang mencari pendapatan pasif dari aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xaman-xrp-yield-fees",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-flare-withdrawal-delay.webp",
+   "a": "36 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T22:00:04"
+  },
+  {
    "id": 7023,
    "k": "defi",
    "cat": "DeFi",
@@ -26,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T20:46:04"
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FPM6BCNQXFX9C9NF5W5GF3/hi-heres-what-you-pay-for-using-crypto-mica-eu.png",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:57:39"
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T05:00:04"
-  },
-  {
-   "id": 6915,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Hoskinson ungkap kode baru Cardano, tapi TVL $63 juta tunjukkan celah",
-   "x": "Pendiri Cardano, Charles Hoskinson, sedang mengembangkan bahasa pemrograman baru untuk blockchain tersebut. Namun, total nilai terkunci (TVL) yang masih terbatas mengindikasikan tantangan dalam adopsi dan permintaan komersial.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-adoption-gateway.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T21:20:24"
   },
   {
    "id": 6998,
@@ -102,6 +102,20 @@
    "published_at": "2026-10-19T04:54:31"
   },
   {
+   "id": 6915,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Hoskinson ungkap kode baru Cardano, tapi TVL $63 juta tunjukkan celah",
+   "x": "Pendiri Cardano, Charles Hoskinson, sedang mengembangkan bahasa pemrograman baru untuk blockchain tersebut. Namun, total nilai terkunci (TVL) yang masih terbatas mengindikasikan tantangan dalam adopsi dan permintaan komersial.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-adoption-gateway.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T21:20:24"
+  },
+  {
    "id": 6918,
    "k": "defi",
    "cat": "DeFi",
@@ -110,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T20:46:05"
@@ -124,24 +138,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T19:59:39"
-  },
-  {
-   "id": 6868,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pemegang XRP Bisa Dapat Fee dari Nasabah DeFi Kraken",
-   "x": "Pemegang XRP kini berpotensi mendapatkan imbal hasil dari biaya transaksi nasabah DeFi Kraken. Namun, ada mekanisme perlindungan terhadap potensi kerugian.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-premium-transfer.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T11:20:50"
   },
   {
    "id": 7113,
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/05/20210511_DOGE-SHIBA-SHIB-coin-2.jpg",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T12:00:00"
@@ -172,6 +172,20 @@
    "published_at": "2026-10-19T09:32:38"
   },
   {
+   "id": 6868,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pemegang XRP Bisa Dapat Fee dari Nasabah DeFi Kraken",
+   "x": "Pemegang XRP kini berpotensi mendapatkan imbal hasil dari biaya transaksi nasabah DeFi Kraken. Namun, ada mekanisme perlindungan terhadap potensi kerugian.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-premium-transfer.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T11:20:50"
+  },
+  {
    "id": 7104,
    "k": "defi",
    "cat": "DeFi",
@@ -180,7 +194,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T14:24:25"
@@ -194,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FMCZNK1JKRGRB78Y7WZ0DR/hi-fca-uk.jpg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:25:00"
@@ -222,7 +236,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T10:50:52"
@@ -236,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-french-flag.png",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T10:46:00"
