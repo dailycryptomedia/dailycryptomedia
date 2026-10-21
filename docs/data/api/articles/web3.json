@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/spacex-pengeluaran-ai-geger-3-saham-potensi-upside",
    "img": "https://assets.beincrypto.com/img/4QJWA7eOPSn9XB4go-bQXEAjzKk=/smart/dae86dbf26c14b04b7c56196848c6d57",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T22:16:05"
+  },
+  {
+   "id": 7133,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dogecoin miliki perusahaan khusus untuk bangun ekosistemnya",
+   "x": "Sebuah perusahaan baru dibentuk untuk mengembangkan ekosistem Dogecoin, menyatukan dompet digital dan platform aplikasi. Ini bertujuan untuk membangun ekonomi yang lebih kuat di sekitar aset kripto DOGE.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T16:46:04"
   },
   {
    "id": 7054,
@@ -40,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/openai-pergoki-agen-ai-matikan-sistem-pengawasannya-sendiri-lalu-berbohong",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T02:15:11"
@@ -54,24 +68,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EY9NGAQBRRNWG4WW84BF23/zcash-with-blockchain-elements.png",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T10:15:00"
-  },
-  {
-   "id": 6849,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pengembang Zcash usulkan perbaikan cegah komputer kuantum lacak transaksi",
-   "x": "Pengembang Zcash mengusulkan solusi untuk mencegah komputer kuantum melacak transaksi terenkripsi. Hal ini penting untuk menjaga privasi pengguna di masa depan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T10:11:21"
   },
   {
    "id": 6880,
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-mixer-conveyor-flow.webp",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T21:40:15"
@@ -116,6 +116,20 @@
    "published_at": "2026-10-20T10:53:23"
   },
   {
+   "id": 6849,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pengembang Zcash usulkan perbaikan cegah komputer kuantum lacak transaksi",
+   "x": "Pengembang Zcash mengusulkan solusi untuk mencegah komputer kuantum melacak transaksi terenkripsi. Hal ini penting untuk menjaga privasi pengguna di masa depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T10:11:21"
+  },
+  {
    "id": 6985,
    "k": "web3",
    "cat": "Web3",
@@ -130,18 +144,18 @@
    "published_at": "2026-10-20T09:00:37"
   },
   {
-   "id": 6791,
+   "id": 7142,
    "k": "web3",
    "cat": "Web3",
-   "t": "Penyelesaian kripto Fidelity $500.000 kecualikan IRA dari transfer dompet",
-   "x": "Fidelity mencapai penyelesaian di California terkait transfer aset kripto, namun tetap mempertahankan pembatasan keamanan dan pengecualian untuk rekening pensiun IRA. Perjanjian ini penting bagi investor ritel yang menggunakan layanan kustodian aset digital.",
+   "t": "Kepala keamanan kripto waspadai patch darurat PHP yang buat pengembang pusing",
+   "x": "Dua kerentanan kritis pada PHP ditemukan, memaksa pengembang situs web di seluruh dunia untuk segera melakukan pembaruan. Para ahli keamanan kripto mengimbau operator untuk memeriksa infrastruktur mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fidelity-crypto-transfer-boundary.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-server-vulnerability-threat.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-18T18:00:10"
+   "published_at": "2026-10-21T17:00:04"
   },
   {
    "id": 6828,
