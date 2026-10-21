@@ -1,22 +1,8 @@
 {
- "total": 14,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 6754,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Transaksi Kripto DEX Tembus 44%, DJP Mulai Perhatikan",
-   "x": "Transaksi aset kripto melalui bursa terdesentralisasi (DEX) di Indonesia mencapai 44% dan menarik perhatian Direktorat Jenderal Pajak (DJP). DJP juga tengah membahas tarif pajak aset kripto sebesar 0,1%.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/transaksi-kripto-di-dex-tembus-44-persen-djp-mulai-beri-perhatian-lebih",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-18T06:00:54"
-  },
   {
    "id": 6920,
    "k": "defi",
@@ -54,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T20:46:04"
@@ -68,10 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T19:59:39"
+  },
+  {
+   "id": 6819,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Belajar Liquidity Provider (LP) dari Nol: Cara Kerja Meteora, Sumber Cuan, dan Risikonya",
+   "x": "Pelajari cara kerja Liquidity Provider di Meteora DLMM, mulai dari potensi fee, strategi, hingga risiko yang perlu dipahami pemula.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/belajar-liquidity-provider-lp-dari-nol-cara-kerja-meteora-sumber-cuan-dan-risikonya",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T05:00:04"
   },
   {
    "id": 6998,
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T16:31:24"
@@ -100,20 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T04:54:31"
-  },
-  {
-   "id": 6819,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Belajar Liquidity Provider (LP) dari Nol: Cara Kerja Meteora, Sumber Cuan, dan Risikonya",
-   "x": "Pelajari cara kerja Liquidity Provider di Meteora DLMM, mulai dari potensi fee, strategi, hingga risiko yang perlu dipahami pemula.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/belajar-liquidity-provider-lp-dari-nol-cara-kerja-meteora-sumber-cuan-dan-risikonya",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T05:00:04"
   },
   {
    "id": 6915,
@@ -144,20 +130,6 @@
    "published_at": "2026-10-19T20:46:05"
   },
   {
-   "id": 6860,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Deposit brankas kripto capai $10 miliar di tengah pengawasan regulator",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T09:32:38"
-  },
-  {
    "id": 6769,
    "k": "defi",
    "cat": "DeFi",
@@ -166,10 +138,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/platform-lp-kripto-untuk-pemula",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-18T08:00:39"
+  },
+  {
+   "id": 6860,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Deposit brankas kripto capai $10 miliar di tengah pengawasan regulator",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T09:32:38"
   },
   {
    "id": 6868,
