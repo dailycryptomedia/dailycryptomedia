@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T20:46:04"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T19:59:39"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T16:31:24"
@@ -130,18 +130,32 @@
    "published_at": "2026-10-19T20:46:05"
   },
   {
-   "id": 6769,
+   "id": 7081,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Mau Jadi Liquidity Provider? Ini 4 Platform LP Kripto untuk Pemula",
-   "x": "Artikel ini memperkenalkan empat platform penyedia likuiditas kripto yang cocok untuk pemula. Pembaca akan mendapatkan informasi mengenai kelebihan dan kekurangan masing-masing platform.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/platform-lp-kripto-untuk-pemula",
-   "img": null,
-   "a": "3 hari lalu",
+   "t": "TVL PancakeSwap capai $380 juta seiring usulan perombakan biaya",
+   "x": "PancakeSwap mengusulkan perubahan bagi hasil biaya swap yang akan meningkatkan pendapatan penyedia likuiditas dan mengurangi emisi token CAKE. Inisiatif ini seiring pertumbuhan aktivitas DeFi di BNB Chain.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-18T08:00:39"
+   "published_at": "2026-10-21T10:50:52"
+  },
+  {
+   "id": 7113,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Dogecoin Labs luncurkan ekosistem DOGE untuk pertumbuhan",
+   "x": "Dogecoin Labs diluncurkan untuk mendorong DOGE ke ranah pembayaran dan DeFi, melampaui permintaan berbasis meme. Ini adalah upaya pengembangan ekosistem Dogecoin yang lebih luas.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/05/20210511_DOGE-SHIBA-SHIB-coin-2.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T12:00:00"
   },
   {
    "id": 6860,
@@ -166,10 +180,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-premium-transfer.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T11:20:50"
+  },
+  {
+   "id": 7104,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Solana luncurkan Alpenglow, upgrade ambisius sejak Ethereum Merge",
+   "x": "Solana meluncurkan protokol konsensus baru bernama Alpenglow, menggantikan TowerBFT yang telah digunakan sejak awal. Pembaruan ini merupakan langkah signifikan dalam evolusi jaringan Solana.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T14:24:25"
+  },
+  {
+   "id": 7082,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Prancis usulkan tanggung jawab bursa kripto akses DeFi",
+   "x": "Pemerintah Prancis mengusulkan agar bursa kripto melakukan pemeriksaan terhadap protokol DeFi dan bertanggung jawab atas kerugian nasabah tertentu. Usulan ini merupakan bagian dari revisi aturan kripto Uni Eropa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-french-flag.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T10:46:00"
   },
   {
    "id": 6901,
