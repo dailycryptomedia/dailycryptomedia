@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T16:46:04"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-2.png",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T09:15:50"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b1652fc6b3b74f0a93f6349c9b655b6a575d3cf5-1260x840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T04:36:20"
@@ -130,20 +130,6 @@
    "published_at": "2026-10-20T10:53:23"
   },
   {
-   "id": 6849,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pengembang Zcash usulkan perbaikan cegah komputer kuantum lacak transaksi",
-   "x": "Pengembang Zcash mengusulkan solusi untuk mencegah komputer kuantum melacak transaksi terenkripsi. Hal ini penting untuk menjaga privasi pengguna di masa depan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T10:11:21"
-  },
-  {
    "id": 6985,
    "k": "web3",
    "cat": "Web3",
@@ -166,7 +152,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00aaef2726548e0752cbe7b20a6377d15bd4b110-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T14:58:40"
@@ -180,24 +166,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-server-vulnerability-threat.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:00:04"
   },
   {
-   "id": 6828,
+   "id": 7228,
    "k": "web3",
    "cat": "Web3",
-   "t": "Bagaimana Seorang Attacker Menguras 1.404 Wallet Qubic Tanpa Merusak Blockchain",
-   "x": "Qubic (QUBIC) turun 5,2% dalam 24 jam terakhir menjadi US$0,0000004394, menurut data BeInCrypto Markets. Penurunan ini terjadi setelah seorang penyerang menguras 1.404 wallet Qubic dan validator menghentikan jaringan…",
+   "t": "Dogecoin Labs Ingin Bangun Ekonomi di Balik Reli US$1 Meme Coin",
+   "x": "Para holder Dogecoin (DOGE) sudah lama menyerukan harga US$1. Kini, sebuah perusahaan baru menyatakan akan membangun ekonomi yang dibutuhkan untuk mewujudkan target tersebut. Dogecoin Labs resmi diluncurkan pada 21…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-qubic-wallet-drain-network-halt",
-   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/dogecoin-labs-luncurkan-house-of-doge",
+   "img": "https://assets.beincrypto.com/img/Obb6R_Vx6DWSP4Y31-9yq2xoR7s=/smart/55e3c442950d4e5199ae47dc7282c068",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-19T10:00:00"
+   "published_at": "2026-10-22T14:21:56"
   },
   {
    "id": 7006,
@@ -208,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-wallet-security-crisis-deepens-as-ngrave-users-face-2-65-million-phishing-attack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hyperliquid-xmr1-fund-tracing.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T14:00:51"
