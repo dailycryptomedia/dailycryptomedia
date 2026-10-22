@@ -1,22 +1,8 @@
 {
- "total": 5,
+ "total": 4,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 6801,
-   "k": "nft",
-   "cat": "NFT & Gaming",
-   "t": "Bored Ape NFT Masuk ke Solana dengan 8 Kartu Langka",
-   "x": "Yuga Labs menghadirkan kartu Bored Ape fisik dan digital di Solana. Holder dapat mengklaim paket dari 10.000 boks, dan delapan kartu one-of-one menjadi yang paling atas dalam set tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bored-ape-cards-solana-mudwater",
-   "img": "https://assets.beincrypto.com/img/1jfWDKt9CpxhhxFC4t6DP4P7qgQ=/smart/59ea20619bcd4f1c9ee12fb82b1eda0a",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-19T00:00:00"
-  },
   {
    "id": 6943,
    "k": "nft",
@@ -26,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cloudquest-indonesia-gandeng-kettles-siapkan-200-akses-mint-nft-di-jaringan-ink",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T03:00:32"
@@ -46,20 +32,6 @@
    "published_at": "2026-10-19T12:20:06"
   },
   {
-   "id": 7108,
-   "k": "nft",
-   "cat": "NFT & Gaming",
-   "t": "Pendiri PlayStation tanggapi kemarahan soal kepemilikan disk",
-   "x": "Pendiri PlayStation Ken Kutaragi menanggapi kemarahan publik atas keputusan Sony menghentikan produksi disk game fisik. Hal ini menimbulkan perdebatan tentang kepemilikan digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/sony-playstation-2-ps2-decrypt-style-gID_7.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T11:19:34"
-  },
-  {
    "id": 6830,
    "k": "nft",
    "cat": "NFT & Gaming",
@@ -72,6 +44,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-19T09:00:00"
+  },
+  {
+   "id": 7108,
+   "k": "nft",
+   "cat": "NFT & Gaming",
+   "t": "Pendiri PlayStation tanggapi kemarahan soal kepemilikan disk",
+   "x": "Pendiri PlayStation Ken Kutaragi menanggapi kemarahan publik atas keputusan Sony menghentikan produksi disk game fisik. Hal ini menimbulkan perdebatan tentang kepemilikan digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/sony-playstation-2-ps2-decrypt-style-gID_7.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T11:19:34"
   }
  ]
 }
