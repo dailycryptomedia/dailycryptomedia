@@ -1,5 +1,5 @@
 {
- "total": 145,
+ "total": 146,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hyperliquid-short-risk-trap.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-19T23:40:46"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/0c8a0c389c4df381e479498f22f5b4aaf46b6e1e-5184x2916.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T15:09:22"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/li-lu-crypto-fundamentalnya-palsu",
    "img": "https://assets.beincrypto.com/img/tlZ3BtFt8HTZZX_kGGWBGfgnrQA=/smart/c020e0751bc14120b010bd3dbfe1ad2c",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-21T04:40:00"
@@ -130,18 +130,18 @@
    "published_at": "2026-10-20T18:00:52"
   },
   {
-   "id": 6800,
+   "id": 7158,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Qubic bekukan rantai setelah penyerang menguras 1.400 dompet dengan seed lemah",
-   "x": "Penyerang berhasil menguras 1.400 dompet di Qubic, namun sebagian besar dana masih bisa diselamatkan. Validator kini bersiap memilih rencana pemulihan untuk mengatasi insiden ini.",
+   "t": "PHP Foundation akui kegagalan struktural tunda perbaikan keamanan",
+   "x": "Kekhawatiran bug PHP yang berpotensi membahayakan server pemerintah dan layanan daring memicu gangguan. Kegagalan struktural pada PHP Foundation memperlambat perbaikan kritis.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5GGTJWWHWMY5DQNPCZCMGFG/hi-what-is-dns-hijacking-2.jpg",
+   "a": "24 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T01:03:27"
+   "published_at": "2026-10-22T00:44:00"
   },
   {
    "id": 7130,
@@ -152,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png",
-   "a": "3 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T18:46:08"
@@ -180,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/xrp-mulai-dikuasai-investor-kecil-penarikan-melonjak-66-kali-lipat",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T03:00:07"
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/2d7168e1ad119fe6bd69df2bdbad13b8b4d86c7e-7000x4500.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T15:00:53"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kartu-pokemon-vs-return-nvidia",
    "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
-   "a": "7 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-21T15:00:00"
@@ -222,10 +222,108 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/switzerland-approves-landmark-bitcoin-etf-after-ruling-trading-volume-sufficient",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/finma-bitcoin-cable-car.webp",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T04:40:25"
+  },
+  {
+   "id": 6800,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Qubic bekukan rantai setelah penyerang menguras 1.400 dompet dengan seed lemah",
+   "x": "Penyerang berhasil menguras 1.400 dompet di Qubic, namun sebagian besar dana masih bisa diselamatkan. Validator kini bersiap memilih rencana pemulihan untuk mengatasi insiden ini.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T01:03:27"
+  },
+  {
+   "id": 7150,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ken Griffin: AI 'Hampir Pasti' dalam Gelembung, Bandingkan GPU dengan Kursi Pesawat",
+   "x": "Pendiri Citadel menilai investor hampir pasti berada dalam gelembung kecerdasan buatan. Ia memperingatkan kelebihan pasokan chip dapat menekan harga, namun tetap optimistis pada kelangsungan inovasi AI jangka panjang.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T21:31:02"
+  },
+  {
+   "id": 7137,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Futures saham tunggal Robinhood bisa jadi 'sinyal positif' bagi saham HOOD",
+   "x": "Survei menunjukkan mayoritas pengguna Robinhood tertarik untuk memperdagangkan futures saham tunggal. Hal ini berpotensi meningkatkan volume perdagangan dan valuasi saham perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News_3.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T18:54:36"
+  },
+  {
+   "id": 7055,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kripto Hari Ini 21 Oktober 2026: DEXE berpeluang naik 104%, WLD 70%",
+   "x": "Analisis teknikal menunjukkan peluang reli signifikan untuk DEXE dan WLD, masing-masing berpotensi naik 104% dan 70%. Aset kripto VIRTUAL, SKY, dan DOT juga diprediksi menguat.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kripto-hari-ini-21-oktober-2026-dexe-berpeluang-naik-104-persen-wld-70-persen-virtual-sky-dan-dot-ikut-menguat",
+   "img": null,
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T02:00:33"
+  },
+  {
+   "id": 7046,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pembaruan jaringan terbesar Solana sejak 2020, Alpenglow, mulai aktif Rabu",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T04:35:52"
+  },
+  {
+   "id": 6906,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Saham Nasdaq Bisa Anjlok 30% Jika Ini Terjadi, Kata Para Ahli",
+   "x": "Jeremy Siegel dari WisdomTree memperingatkan bahwa Nasdaq Composite bisa turun sampai 30%. Risiko ini akan semakin besar jika belanja AI tidak memberikan hasil sesuai harapan. Peringatan ini datang tepat di peringatan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/peringatan-crash-saham-nasdaq-pengeluaran-ai",
+   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-19T23:00:00"
+  },
+  {
+   "id": 7140,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "OpenAI ungkap agen AI nonaktifkan monitor keamanan, satu bohongi tindakan",
+   "x": "Dua agen AI OpenAI dilaporkan menonaktifkan fitur keamanan dan menghapus pemantauan. Insiden ini menimbulkan pertanyaan tentang kontrol dan transparansi dalam pengembangan AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/openai-reveals-ai-agents-disabled-safety-monitors-with-one-falsely-denying-its-actions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/openai-alert-suppression.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T19:00:01"
   },
   {
    "id": 7012,
@@ -242,104 +340,6 @@
    "published_at": "2026-10-20T21:19:15"
   },
   {
-   "id": 7150,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ken Griffin: AI 'Hampir Pasti' dalam Gelembung, Bandingkan GPU dengan Kursi Pesawat",
-   "x": "Pendiri Citadel menilai investor hampir pasti berada dalam gelembung kecerdasan buatan. Ia memperingatkan kelebihan pasokan chip dapat menekan harga, namun tetap optimistis pada kelangsungan inovasi AI jangka panjang.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T21:31:02"
-  },
-  {
-   "id": 7137,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Futures saham tunggal Robinhood bisa jadi 'sinyal positif' bagi saham HOOD",
-   "x": "Survei menunjukkan mayoritas pengguna Robinhood tertarik untuk memperdagangkan futures saham tunggal. Hal ini berpotensi meningkatkan volume perdagangan dan valuasi saham perusahaan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News_3.jpg",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T18:54:36"
-  },
-  {
-   "id": 7055,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kripto Hari Ini 21 Oktober 2026: DEXE berpeluang naik 104%, WLD 70%",
-   "x": "Analisis teknikal menunjukkan peluang reli signifikan untuk DEXE dan WLD, masing-masing berpotensi naik 104% dan 70%. Aset kripto VIRTUAL, SKY, dan DOT juga diprediksi menguat.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-hari-ini-21-oktober-2026-dexe-berpeluang-naik-104-persen-wld-70-persen-virtual-sky-dan-dot-ikut-menguat",
-   "img": null,
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T02:00:33"
-  },
-  {
-   "id": 7046,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pembaruan jaringan terbesar Solana sejak 2020, Alpenglow, mulai aktif Rabu",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T04:35:52"
-  },
-  {
-   "id": 6798,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "SpaceX Milik Elon Musk Kini Kuasai 80% Persaingan Menuju Orbit",
-   "x": "Massa ke orbit SpaceX mencapai sekitar 80% dari total global tahun 2026 saat Elon Musk menyebut perusahaannya sebagai anomali dan mengaitkan nilai Tesla dengan robot.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/elon-musk-spacex-massa-orbital-global",
-   "img": "https://assets.beincrypto.com/img/cTzMtBSUj9mUWfyKeztyT8-nlrA=/smart/266df16cf1b24c0db5d31981d9cbc2c9",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-18T22:51:24"
-  },
-  {
-   "id": 7140,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "OpenAI ungkap agen AI nonaktifkan monitor keamanan, satu bohongi tindakan",
-   "x": "Dua agen AI OpenAI dilaporkan menonaktifkan fitur keamanan dan menghapus pemantauan. Insiden ini menimbulkan pertanyaan tentang kontrol dan transparansi dalam pengembangan AI.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/openai-reveals-ai-agents-disabled-safety-monitors-with-one-falsely-denying-its-actions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/openai-alert-suppression.webp",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T19:00:01"
-  },
-  {
-   "id": 6796,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pendiri HEX Richard Heart ditahan, Starknet anjlok 50%, Bitwise prediksi 'Crypto Spring'",
-   "x": "Pendiri HEX Richard Heart ditahan dalam penggerebekan di Istanbul, sementara Starknet mengalami penurunan nilai signifikan setelah pemungutan suara untuk menjadi L1. Bitwise melihat tanda-tanda pemulihan pasar kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-18T22:58:17"
-  },
-  {
    "id": 6888,
    "k": "pasar",
    "cat": "Pasar",
@@ -354,18 +354,18 @@
    "published_at": "2026-10-19T18:16:04"
   },
   {
-   "id": 6937,
+   "id": 7159,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "ETF Bitcoin BlackRock IBIT catat aliran dana masuk $665 juta",
-   "x": "ETF Bitcoin BlackRock IBIT mencatat aliran dana masuk tertinggi sejak Oktober 2025, mencapai $665 juta. Hal ini mengindikasikan potensi strategi investor untuk mengejar kenaikan harga Bitcoin.",
+   "t": "Aerodrome dan Velodrome merger luncurkan Aero di tujuh jaringan blockchain",
+   "x": "Dua protokol DeFi, Aerodrome dan Velodrome, melakukan merger untuk meluncurkan token Aero. Peluncuran ini mencakup tujuh jaringan blockchain, termasuk Ethereum mainnet dan Base.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock2.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-11.05.40.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T07:05:24"
+   "published_at": "2026-10-22T00:00:00"
   },
   {
    "id": 6820,
@@ -396,18 +396,18 @@
    "published_at": "2026-10-20T21:12:21"
   },
   {
-   "id": 6906,
+   "id": 6806,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Saham Nasdaq Bisa Anjlok 30% Jika Ini Terjadi, Kata Para Ahli",
-   "x": "Jeremy Siegel dari WisdomTree memperingatkan bahwa Nasdaq Composite bisa turun sampai 30%. Risiko ini akan semakin besar jika belanja AI tidak memberikan hasil sesuai harapan. Peringatan ini datang tepat di peringatan…",
+   "t": "Menteri Keuangan India Soroti Risiko Besar 2027 saat Saham India Turun Lebih dari 12%",
+   "x": "Menteri Keuangan India, Nirmala Sitharaman, menyoroti salah satu risiko terbesar yang akan dihadapi India pada tahun 2027. Pernyataan ini disampaikan saat indeks saham acuan negara tersebut mengalami penurunan lebih…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peringatan-crash-saham-nasdaq-pengeluaran-ai",
-   "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/menteri-keuangan-india-risiko-ekonomi-2027",
+   "img": "https://assets.beincrypto.com/img/GuxqxHiuKC873rPwpijHH7ZOr7k=/smart/9d5c09f1fe96436f87d4113cfcef7c71",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-19T23:00:00"
+   "published_at": "2026-10-19T05:48:43"
   },
   {
    "id": 6866,
@@ -452,18 +452,18 @@
    "published_at": "2026-10-20T22:16:04"
   },
   {
-   "id": 6999,
+   "id": 6937,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "OKX tunjukkan kepercayaan dengan rencana perlindungan baru: Mantan Gubernur New York Cuomo",
-   "x": "Bursa kripto OKX meluncurkan program perlindungan baru di AS, yang dinilai sebagai tanda kepercayaan oleh mantan Gubernur New York. Inisiatif ini dapat meningkatkan keyakinan pengguna terhadap keamanan platform.",
+   "t": "ETF Bitcoin BlackRock IBIT catat aliran dana masuk $665 juta",
+   "x": "ETF Bitcoin BlackRock IBIT mencatat aliran dana masuk tertinggi sejak Oktober 2025, mencapai $665 juta. Hal ini mengindikasikan potensi strategi investor untuk mengejar kenaikan harga Bitcoin.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic3.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock2.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T16:20:40"
+   "published_at": "2026-10-20T07:05:24"
   },
   {
    "id": 7074,
@@ -474,7 +474,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/realita-brutal-meme-coin-solana-hanya-1-dari-58-token-yang-berhasil-lolos",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T07:00:59"
@@ -488,24 +488,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/0f8965ca6a6c0e14d1a3edfca16d04dcc3b2aefc-1500x1125.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T04:11:58"
   },
   {
-   "id": 6806,
+   "id": 7147,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Menteri Keuangan India Soroti Risiko Besar 2027 saat Saham India Turun Lebih dari 12%",
-   "x": "Menteri Keuangan India, Nirmala Sitharaman, menyoroti salah satu risiko terbesar yang akan dihadapi India pada tahun 2027. Pernyataan ini disampaikan saat indeks saham acuan negara tersebut mengalami penurunan lebih…",
+   "t": "Exchange Kripto Ingin Transaksi Saham Anda Berikutnya di 2027",
+   "x": "Di LBank, trader bisa mengambil posisi pada Nvidia tanpa harus membeli sahamnya. Mereka bisa mengikuti pergerakan chipmaker itu lewat instrumen yang terhubung dengan saham di dalam platform yang sudah biasa mereka pakai…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/menteri-keuangan-india-risiko-ekonomi-2027",
-   "img": "https://assets.beincrypto.com/img/GuxqxHiuKC873rPwpijHH7ZOr7k=/smart/9d5c09f1fe96436f87d4113cfcef7c71",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/lbank-nvidia-stock-trading-bursa-kripto",
+   "img": "https://assets.beincrypto.com/img/oAnXB_zCtV88gWukHRF74DrjZtc=/smart/1ec248a590b84cfd874f6a3a3c5b4416",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-19T05:48:43"
+   "published_at": "2026-10-21T21:39:43"
   },
   {
    "id": 6924,
@@ -550,18 +550,18 @@
    "published_at": "2026-10-20T16:01:04"
   },
   {
-   "id": 7000,
+   "id": 6999,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mastercard buka akses awal pembayaran agen AI setelah uji coba dengan Coinbase, Base, Cloudflare",
-   "x": "Mastercard memperluas penggunaan pembayaran berbasis AI untuk mesin setelah sukses uji coba dengan mitra besar. Hal ini menandakan integrasi teknologi AI dan blockchain dalam sistem pembayaran global.",
+   "t": "OKX tunjukkan kepercayaan dengan rencana perlindungan baru: Mantan Gubernur New York Cuomo",
+   "x": "Bursa kripto OKX meluncurkan program perlindungan baru di AS, yang dinilai sebagai tanda kepercayaan oleh mantan Gubernur New York. Inisiatif ini dapat meningkatkan keyakinan pengguna terhadap keamanan platform.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-20-at-15.36.27.png",
+   "url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic3.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T16:00:00"
+   "published_at": "2026-10-20T16:20:40"
   },
   {
    "id": 6823,
@@ -592,18 +592,18 @@
    "published_at": "2026-10-19T05:23:02"
   },
   {
-   "id": 7147,
+   "id": 6907,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Exchange Kripto Ingin Transaksi Saham Anda Berikutnya di 2027",
-   "x": "Di LBank, trader bisa mengambil posisi pada Nvidia tanpa harus membeli sahamnya. Mereka bisa mengikuti pergerakan chipmaker itu lewat instrumen yang terhubung dengan saham di dalam platform yang sudah biasa mereka pakai…",
+   "t": "3 Altcoin Teratas yang Patut Diperhatikan di Pekan Ketiga Oktober 2026",
+   "x": "Quack AI, Akedo, dan Monero memimpin daftar altcoin yang perlu diperhatikan minggu ini, dengan squeeze, unlock, dan uji level $600 menjadi sorotan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/lbank-nvidia-stock-trading-bursa-kripto",
-   "img": "https://assets.beincrypto.com/img/oAnXB_zCtV88gWukHRF74DrjZtc=/smart/1ec248a590b84cfd874f6a3a3c5b4416",
-   "a": "56 menit lalu",
+   "url": "https://id.beincrypto.com/altcoin-untuk-diperhatikan-pekan-ketiga-oktober-2026",
+   "img": "https://assets.beincrypto.com/img/JqW1ZkDSh9TYyZ4uFy7Ai_VPikg=/smart/d31b24ae32834e209d7b2e8970ba9d53",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-21T21:39:43"
+   "published_at": "2026-10-19T22:40:00"
   },
   {
    "id": 6914,
@@ -642,24 +642,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T20:16:02"
   },
   {
-   "id": 7139,
+   "id": 7000,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Dataline raih $10,6 juta untuk jaringan data AI, siapkan ICO",
-   "x": "Startup Dataline berhasil mengumpulkan pendanaan $10,6 juta untuk mengembangkan jaringan data terdesentralisasi bagi agen AI. Perusahaan juga berencana mengadakan penawaran koin perdana (ICO) melalui platform Uniswap.",
+   "t": "Mastercard buka akses awal pembayaran agen AI setelah uji coba dengan Coinbase, Base, Cloudflare",
+   "x": "Mastercard memperluas penggunaan pembayaran berbasis AI untuk mesin setelah sukses uji coba dengan mitra besar. Hal ini menandakan integrasi teknologi AI dan blockchain dalam sistem pembayaran global.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_Funding_News_3.jpg",
-   "a": "5 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-20-at-15.36.27.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T16:44:01"
+   "published_at": "2026-10-20T16:00:00"
   },
   {
    "id": 6863,
@@ -684,24 +684,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T08:57:29"
   },
   {
-   "id": 6907,
+   "id": 6956,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "3 Altcoin Teratas yang Patut Diperhatikan di Pekan Ketiga Oktober 2026",
-   "x": "Quack AI, Akedo, dan Monero memimpin daftar altcoin yang perlu diperhatikan minggu ini, dengan squeeze, unlock, dan uji level $600 menjadi sorotan.",
+   "t": "Mengapa Exchange Kripto Membayar agar Anda Terus Trading",
+   "x": "Seorang trader yang mengalami kerugian sering kali menutup aplikasi. Zoomex kini memberikan alasan bagi beberapa pelanggan untuk kembali: kredit untuk trading lagi. Kompensasi atas kerugian adalah salah satu cara yang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/altcoin-untuk-diperhatikan-pekan-ketiga-oktober-2026",
-   "img": "https://assets.beincrypto.com/img/JqW1ZkDSh9TYyZ4uFy7Ai_VPikg=/smart/d31b24ae32834e209d7b2e8970ba9d53",
+   "url": "https://id.beincrypto.com/mengapa-bursa-kripto-membayar-agar-pengguna-terus-trading",
+   "img": "https://assets.beincrypto.com/img/ufCGx_G8oupPs1jkgzxFdpEQMFI=/smart/62767060237a4e728bef10309191aa0d",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-19T22:40:00"
+   "published_at": "2026-10-20T12:26:58"
   },
   {
    "id": 7037,
@@ -712,7 +712,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bnb-chain-burns-1-2b-in-october-tokens-leaving-real-supply-impact-hidden",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bnb-burn-freight-contrast.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T22:50:17"
@@ -726,7 +726,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ENVP95CYXDBRWRRSVDGA2V/cointelegraph-eth-etf.png",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T08:11:50"
@@ -746,18 +746,18 @@
    "published_at": "2026-10-19T17:31:04"
   },
   {
-   "id": 6853,
+   "id": 7139,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Revolut dapat lisensi kripto Gibraltar untuk ekspansi internasional",
-   "x": "Revolut memperoleh lisensi DLT (teknologi buku besar terdistribusi) di Gibraltar. Langkah ini mendukung rencana ekspansi bisnis aset digital mereka secara global.",
+   "t": "Dataline raih $10,6 juta untuk jaringan data AI, siapkan ICO",
+   "x": "Startup Dataline berhasil mengumpulkan pendanaan $10,6 juta untuk mengembangkan jaringan data terdesentralisasi bagi agen AI. Perusahaan juga berencana mengadakan penawaran koin perdana (ICO) melalui platform Uniswap.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-10.09.04.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_Funding_News_3.jpg",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T10:42:07"
+   "published_at": "2026-10-21T16:44:01"
   },
   {
    "id": 6864,
@@ -788,18 +788,18 @@
    "published_at": "2026-10-19T12:16:58"
   },
   {
-   "id": 6956,
+   "id": 7088,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mengapa Exchange Kripto Membayar agar Anda Terus Trading",
-   "x": "Seorang trader yang mengalami kerugian sering kali menutup aplikasi. Zoomex kini memberikan alasan bagi beberapa pelanggan untuk kembali: kredit untuk trading lagi. Kompensasi atas kerugian adalah salah satu cara yang…",
+   "t": "Mengapa Uni Eropa Meminta Beberapa Situs Web untuk Mematikan Diri Mereka",
+   "x": "Dua kerentanan kritis PHP dengan skor 9,2 membuat situs web berisiko. Pelajari mengapa CERT-EU menyarankan situs yang belum di-patch untuk offline dan apa yang bisa dilakukan oleh pemiliknya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/mengapa-bursa-kripto-membayar-agar-pengguna-terus-trading",
-   "img": "https://assets.beincrypto.com/img/ufCGx_G8oupPs1jkgzxFdpEQMFI=/smart/62767060237a4e728bef10309191aa0d",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/vulnerabilitas-php-kritis-website-offline",
+   "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-20T12:26:58"
+   "published_at": "2026-10-21T14:00:00"
   },
   {
    "id": 6939,

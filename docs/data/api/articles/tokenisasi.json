@@ -1,5 +1,5 @@
 {
- "total": 44,
+ "total": 45,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-10-20T06:00:53"
   },
   {
+   "id": 7155,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Fidelity’s Timmer: Risiko Gelembung AI Bukan pada Valuasi Saham, tapi Utang",
+   "x": "Jurrien Timmer dari Fidelity mengatakan gelembung AI apa pun mungkin berada pada utang, karena imbal hasil obligasi CoreWeave melewati 15% sementara valuasi saham turun.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/timmer-ai-bubble-utang-valuasi-saham",
+   "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
+   "a": "38 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-22T00:30:20"
+  },
+  {
    "id": 7036,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -26,24 +40,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/krakens-80-stablecoin-fee-gap-exposes-hidden-costs",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-usdc-fee-routes.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T00:10:07"
-  },
-  {
-   "id": 6921,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Mengapa Citi Menilai Microsoft Kalahkan Neocloud dalam Tekanan Utang AI",
-   "x": "Tyler Radke dari Citi menyalahkan imbal hasil obligasi, bukan permintaan yang lemah, atas aksi jual neocloud dan justru mendukung Microsoft.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/citi-microsoft-neoclouds-ai-debt-squeeze",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-20T01:20:00"
   },
   {
    "id": 7144,
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5G2G8DNS83ZJANR3X4SZBVD/policymaker-bill-us-genius-act-1.jpg",
-   "a": "42 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T21:53:48"
@@ -116,6 +116,20 @@
    "published_at": "2026-10-20T01:45:45"
   },
   {
+   "id": 6921,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Mengapa Citi Menilai Microsoft Kalahkan Neocloud dalam Tekanan Utang AI",
+   "x": "Tyler Radke dari Citi menyalahkan imbal hasil obligasi, bukan permintaan yang lemah, atas aksi jual neocloud dan justru mendukung Microsoft.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/citi-microsoft-neoclouds-ai-debt-squeeze",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-20T01:20:00"
+  },
+  {
    "id": 7070,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -124,24 +138,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/spacexs-194-billion-share-unlock-exposes-a-major-risk-in-aaves-tokenized-stock-ambitions",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-collateral-risk-assessment.webp",
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T09:50:35"
-  },
-  {
-   "id": 7044,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Jim Cramer Lebih Memilih Emas daripada Bitcoin untuk Asuransi Portofolio, tapi Mendukung 2 Aset Kripto yang ‘Terverifikasi'",
-   "x": "Jim Cramer lebih memilih emas batangan daripada Bitcoin untuk asuransi portofolio, namun menyebut Bitcoin dan Ethereum sebagai aset kripto yang lebih terverifikasi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jim-cramer-emas-bitcoin-asuransi-portofolio",
-   "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-21T01:19:41"
   },
   {
    "id": 6873,
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-alt-e1576830696475.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:59:36"
@@ -212,6 +212,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T07:00:19"
+  },
+  {
+   "id": 7044,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Jim Cramer Lebih Memilih Emas daripada Bitcoin untuk Asuransi Portofolio, tapi Mendukung 2 Aset Kripto yang ‘Terverifikasi'",
+   "x": "Jim Cramer lebih memilih emas batangan daripada Bitcoin untuk asuransi portofolio, namun menyebut Bitcoin dan Ethereum sebagai aset kripto yang lebih terverifikasi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/jim-cramer-emas-bitcoin-asuransi-portofolio",
+   "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-21T01:19:41"
   },
   {
    "id": 6836,
@@ -278,7 +292,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/us400-juta-bergerak-tiap-jam-stablecoin-mulai-ganggu-dominasi-bank",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T08:00:48"
@@ -320,7 +334,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/moonpay_dunamu_stablecoins_1920x1080.jpg",
-   "a": "20 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T02:30:08"
@@ -362,7 +376,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/OCC-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T11:52:23"
@@ -376,7 +390,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-13.31.20.png",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T12:44:53"
@@ -390,7 +404,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FY16RXJTWFR0B5DJ896X4P/hi-from-ban-to-adoption-the-evolution-of-crypto-policy-in-bolivia-2.png",
-   "a": "2 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T20:26:07"
@@ -446,7 +460,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36AE384GN77A4QEPA6NWS0X/bessent.jpg",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:10:54"
@@ -474,7 +488,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T05:56:29"
@@ -516,7 +530,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/01/occ-scaled-e1772072708836.jpg",
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T11:01:02"
