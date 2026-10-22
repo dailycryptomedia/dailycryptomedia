@@ -1,5 +1,5 @@
 {
- "total": 355,
+ "total": 339,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-syariah-indonesia-segera-terwujud-mui-beri-bocoran-kandidatnya",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T06:00:34"
@@ -32,18 +32,32 @@
    "published_at": "2026-10-20T22:34:23"
   },
   {
-   "id": 6898,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Kraken Eropa bisa ekspos aset spot ke rugi futures",
-   "x": "Pengguna Kraken di Eropa yang memilih fitur ini berisiko kehilangan aset spot mereka jika terjadi kerugian pada perdagangan futures. Ini menjadi perhatian bagi investor yang menggunakan kedua layanan tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-cross-margin-risk.webp",
-   "a": "2 hari lalu",
+   "id": 7252,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "ChatGPT Ajari Messi Catur dengan Papan Salah dan Langkah Awal yang Kalah",
+   "x": "Iklan Lionel Messi menampilkan ChatGPT yang mengajarinya catur. AI tersebut menggunakan papan yang salah dengan posisi raja dan ratu tertukar, serta menyarankan langkah awal yang berujung kekalahan dalam empat langkah.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/chatgpt-messi-chess-3-gID_7.jpg",
+   "a": "2 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T20:00:12"
+   "published_at": "2026-10-22T20:39:18"
+  },
+  {
+   "id": 7027,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Peretas Drift alirkan $63 juta lewat Tornado Cash, klaim pemulihan jadi tak pasti",
+   "x": "Peretas yang mencuri aset dari platform Drift telah mengalirkan sebagian besar dana curiannya melalui Tornado Cash. Tindakan ini mempersulit upaya pemulihan aset bagi korban.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-mixer-conveyor-flow.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T21:40:15"
   },
   {
    "id": 6928,
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T08:12:57"
-  },
-  {
-   "id": 7195,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SoFi Luncurkan Token Deposit Berimbal Hasil 4,4% dan Bisa Dikonversi ke Stablecoin",
-   "x": "SoFi Bank menawarkan token deposit yang memberikan imbal hasil 4,4% per tahun dengan jaminan asuransi FDIC. Inovasi ini menggabungkan keuntungan imbal hasil aset kripto dengan keamanan produk perbankan tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T12:01:03"
   },
   {
    "id": 6978,
@@ -130,18 +130,32 @@
    "published_at": "2026-10-20T08:00:00"
   },
   {
-   "id": 7027,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peretas Drift alirkan $63 juta lewat Tornado Cash, klaim pemulihan jadi tak pasti",
-   "x": "Peretas yang mencuri aset dari platform Drift telah mengalirkan sebagian besar dana curiannya melalui Tornado Cash. Tindakan ini mempersulit upaya pemulihan aset bagi korban.",
+   "id": 7195,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SoFi Luncurkan Token Deposit Berimbal Hasil 4,4% dan Bisa Dikonversi ke Stablecoin",
+   "x": "SoFi Bank menawarkan token deposit yang memberikan imbal hasil 4,4% per tahun dengan jaminan asuransi FDIC. Inovasi ini menggabungkan keuntungan imbal hasil aset kripto dengan keamanan produk perbankan tradisional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T12:01:03"
+  },
+  {
+   "id": 7036,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Kesenjangan biaya stablecoin Kraken $80 ungkap biaya tersembunyi",
+   "x": "Kraken memiliki perbedaan biaya perdagangan stablecoin sebesar 0,8%. Perbedaan ini, bersama dengan biaya lain, menentukan total biaya transaksi bagi pengguna.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-mixer-conveyor-flow.webp",
+   "url": "https://cryptoslate.com/krakens-80-stablecoin-fee-gap-exposes-hidden-costs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-usdc-fee-routes.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T21:40:15"
+   "published_at": "2026-10-21T00:10:07"
   },
   {
    "id": 7179,
@@ -152,24 +166,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HHQJ6G4J091462661VC59G/hi-defi-revolution-during-a-global-crisis.png",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T12:00:00"
-  },
-  {
-   "id": 6885,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Peretas jalankan iOS Apple di ponsel Android untuk pertama kali",
-   "x": "Penggemar teknologi berhasil menjalankan sistem operasi iOS di perangkat Android, menunjukkan potensi terpisahnya perangkat lunak Apple dari perangkat kerasnya. Hal ini membuka diskusi tentang ekosistem perangkat lunak.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T19:46:04"
   },
   {
    "id": 7205,
@@ -180,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T12:00:00"
@@ -228,18 +228,32 @@
    "published_at": "2026-10-21T04:40:00"
   },
   {
-   "id": 7036,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Kesenjangan biaya stablecoin Kraken $80 ungkap biaya tersembunyi",
-   "x": "Kraken memiliki perbedaan biaya perdagangan stablecoin sebesar 0,8%. Perbedaan ini, bersama dengan biaya lain, menentukan total biaya transaksi bagi pengguna.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/krakens-80-stablecoin-fee-gap-exposes-hidden-costs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-usdc-fee-routes.webp",
+   "id": 7022,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "JPMorgan perkirakan imbal hasil Bitcoin 10% per tahun, dengan catatan",
+   "x": "J.P. Morgan Asset Management memproyeksikan imbal hasil tahunan Bitcoin sebesar 10% dalam 10-15 tahun ke depan. Namun, aset kripto ini tidak akan dimasukkan dalam model portofolio utama mereka.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T00:10:07"
+   "published_at": "2026-10-20T21:16:04"
+  },
+  {
+   "id": 6913,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Whale rugikan $469.000 dalam jam di Hyperliquid, lalu masuk lagi dengan taruhan short ETH $16 juta",
+   "x": "Seorang trader anonim mengalami kerugian besar dalam waktu singkat di platform Hyperliquid. Trader tersebut kemudian kembali dengan posisi short yang signifikan, menunjukkan strategi berisiko tinggi di pasar derivatif kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hyperliquid-short-risk-trap.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-19T23:40:46"
   },
   {
    "id": 6944,
@@ -256,20 +270,6 @@
    "published_at": "2026-10-20T13:30:00"
   },
   {
-   "id": 7022,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "JPMorgan perkirakan imbal hasil Bitcoin 10% per tahun, dengan catatan",
-   "x": "J.P. Morgan Asset Management memproyeksikan imbal hasil tahunan Bitcoin sebesar 10% dalam 10-15 tahun ke depan. Namun, aset kripto ini tidak akan dimasukkan dalam model portofolio utama mereka.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T21:16:04"
-  },
-  {
    "id": 7204,
    "k": "pasar",
    "cat": "Pasar",
@@ -278,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-11.20.33.png",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T12:00:00"
@@ -306,7 +306,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/negara-tetangga-makin-serius-garap-tokenisasi-indonesia-bagaimana",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T07:00:47"
@@ -326,18 +326,32 @@
    "published_at": "2026-10-21T15:00:00"
   },
   {
-   "id": 6913,
+   "id": 7130,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Whale rugikan $469.000 dalam jam di Hyperliquid, lalu masuk lagi dengan taruhan short ETH $16 juta",
-   "x": "Seorang trader anonim mengalami kerugian besar dalam waktu singkat di platform Hyperliquid. Trader tersebut kemudian kembali dengan posisi short yang signifikan, menunjukkan strategi berisiko tinggi di pasar derivatif kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/hyperliquid-short-risk-trap.webp",
-   "a": "2 hari lalu",
+   "t": "ChatGPT temukan bug PHP yang buat pemerintah nonaktifkan situsnya",
+   "x": "Model AI OpenAI berhasil mengidentifikasi kerentanan kritis pada PHP, yang kemudian mendorong perbaikan massal oleh pemerintah di seluruh dunia. Ini menunjukkan potensi AI dalam keamanan siber.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-19T23:40:46"
+   "published_at": "2026-10-21T18:46:08"
+  },
+  {
+   "id": 7210,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Aturan Pemulihan Qubic Wajibkan Cek Kepemilikan Dana di Dompet Rentan",
+   "x": "Qubic menerapkan aturan ketat yang mewajibkan verifikasi kepemilikan aset digital, bahkan untuk dana yang tidak dicuri. Hal ini menunjukkan upaya peningkatan keamanan di ekosistem aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/qubics-recovery-rules-require-ownership-checks-even-for-unstolen-funds-in-vulnerable-wallets",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/qubic-ownership-review-barrier.webp",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T12:00:24"
   },
   {
    "id": 7158,
@@ -348,24 +362,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5GGTJWWHWMY5DQNPCZCMGFG/hi-what-is-dns-hijacking-2.jpg",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T00:44:00"
-  },
-  {
-   "id": 7130,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "ChatGPT temukan bug PHP yang buat pemerintah nonaktifkan situsnya",
-   "x": "Model AI OpenAI berhasil mengidentifikasi kerentanan kritis pada PHP, yang kemudian mendorong perbaikan massal oleh pemerintah di seluruh dunia. Ini menunjukkan potensi AI dalam keamanan siber.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_710783008-gID_4.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T18:46:08"
   },
   {
    "id": 7137,
@@ -376,7 +376,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News_3.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T18:54:36"
@@ -404,7 +404,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/mui-sosialisasikan-fatwa-emas-digital-bagaimana-nasib-tokenisasi-emas-ri",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T02:30:56"
@@ -424,18 +424,32 @@
    "published_at": "2026-10-20T02:30:00"
   },
   {
-   "id": 7210,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Aturan Pemulihan Qubic Wajibkan Cek Kepemilikan Dana di Dompet Rentan",
-   "x": "Qubic menerapkan aturan ketat yang mewajibkan verifikasi kepemilikan aset digital, bahkan untuk dana yang tidak dicuri. Hal ini menunjukkan upaya peningkatan keamanan di ekosistem aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/qubics-recovery-rules-require-ownership-checks-even-for-unstolen-funds-in-vulnerable-wallets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/qubic-ownership-review-barrier.webp",
-   "a": "5 jam lalu",
+   "id": 7232,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin hapus rugi Oktober dengan aliran dana $1 miliar dalam tiga hari",
+   "x": "ETF Bitcoin spot menarik dana signifikan dalam beberapa hari terakhir. Aliran dana ini mendorong total investasi Oktober menjadi positif.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T12:00:24"
+   "published_at": "2026-10-22T16:31:07"
+  },
+  {
+   "id": 7003,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Elon Musk dan Anthropic ungkap rencana bagi hasil AI senilai $110 miliar",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/elon-musk-and-anthropic-unveil-ai-wealth-sharing-plans-that-could-reach-over-110-billion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/musk-spacex-share-card.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T18:00:52"
   },
   {
    "id": 7012,
@@ -452,20 +466,6 @@
    "published_at": "2026-10-20T21:19:15"
   },
   {
-   "id": 6886,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Mastercard gunakan alat anti-penipuan untuk pembayaran stablecoin",
-   "x": "Mastercard meluncurkan API baru untuk mendeteksi penipuan dan sanksi sebelum transaksi stablecoin diproses di blockchain. Ini meningkatkan keamanan dalam pembayaran aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-19T19:16:04"
-  },
-  {
    "id": 7208,
    "k": "web3",
    "cat": "Web3",
@@ -474,7 +474,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-2.png",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T09:15:50"
@@ -516,24 +516,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/timmer-ai-bubble-utang-valuasi-saham",
    "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-22T00:30:20"
   },
   {
-   "id": 7003,
+   "id": 7253,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Elon Musk dan Anthropic ungkap rencana bagi hasil AI senilai $110 miliar",
-   "x": "",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/elon-musk-and-anthropic-unveil-ai-wealth-sharing-plans-that-could-reach-over-110-billion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/musk-spacex-share-card.webp",
-   "a": "kemarin",
+   "t": "a16z Ubah Nama Dana Kripto, Perluas Investasi ke AI dan Teknologi Baru",
+   "x": "Andreessen Horowitz mengganti nama dana kriptonya menjadi a16z Frontier dan memperluas cakupan investasi ke kecerdasan buatan (AI), mesin otonom, dan biologi. Perubahan ini mencerminkan kaburnya batas antara teknologi kripto dan teknologi sehari-hari.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/marc-andreessen-horowitz-a16z-decrypt-style-gID_7.jpg",
+   "a": "56 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T18:00:52"
+   "published_at": "2026-10-22T19:46:02"
+  },
+  {
+   "id": 7261,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Railway Minta Reset Kredensial Akibat Dugaan Pencurian Kripto $371.000",
+   "x": "Platform Railway meminta pengguna mengganti kredensial tersimpan menyusul dugaan pencurian aset kripto senilai sekitar $371.000. Insiden ini menyoroti pentingnya keamanan akun di tengah maraknya ancaman peretasan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/railway-credential-resets-crypto-theft-allegation",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/railway-crypto-risk-allegation.webp",
+   "a": "21 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T20:20:13"
   },
   {
    "id": 6990,
@@ -544,24 +558,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T17:40:00"
-  },
-  {
-   "id": 7232,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin hapus rugi Oktober dengan aliran dana $1 miliar dalam tiga hari",
-   "x": "ETF Bitcoin spot menarik dana signifikan dalam beberapa hari terakhir. Aliran dana ini mendorong total investasi Oktober menjadi positif.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-   "a": "55 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T16:31:07"
   },
   {
    "id": 6997,
@@ -586,7 +586,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T11:20:04"
@@ -620,6 +620,20 @@
    "published_at": "2026-10-20T13:00:00"
   },
   {
+   "id": 7023,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Dompet terkait peretasan Drift kirim $61 juta Ethereum ke Tornado Cash",
+   "x": "Pelaku peretasan Drift yang diduga terkait Korea Utara memindahkan dana curian senilai $61 juta ke Tornado Cash. Sebagian besar aset hasil peretasan masih dikuasai pelaku.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T20:46:04"
+  },
+  {
    "id": 7050,
    "k": "pasar",
    "cat": "Pasar",
@@ -642,24 +656,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
-   "a": "35 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T16:50:51"
-  },
-  {
-   "id": 7023,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Dompet terkait peretasan Drift kirim $61 juta Ethereum ke Tornado Cash",
-   "x": "Pelaku peretasan Drift yang diduga terkait Korea Utara memindahkan dana curian senilai $61 juta ke Tornado Cash. Sebagian besar aset hasil peretasan masih dikuasai pelaku.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T20:46:04"
   },
   {
    "id": 7159,
@@ -670,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-11.05.40.png",
-   "a": "17 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T00:00:00"
@@ -684,7 +684,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "12 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T05:24:58"
@@ -718,6 +718,20 @@
    "published_at": "2026-10-19T23:00:00"
   },
   {
+   "id": 7150,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Ken Griffin: AI 'Hampir Pasti' dalam Gelembung, Bandingkan GPU dengan Kursi Pesawat",
+   "x": "Pendiri Citadel menilai investor hampir pasti berada dalam gelembung kecerdasan buatan. Ia memperingatkan kelebihan pasokan chip dapat menekan harga, namun tetap optimistis pada kelangsungan inovasi AI jangka panjang.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T21:31:02"
+  },
+  {
    "id": 7140,
    "k": "pasar",
    "cat": "Pasar",
@@ -726,7 +740,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/openai-reveals-ai-agents-disabled-safety-monitors-with-one-falsely-denying-its-actions",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/openai-alert-suppression.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T19:00:01"
@@ -740,24 +754,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg",
-   "a": "38 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T16:48:00"
-  },
-  {
-   "id": 7150,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Ken Griffin: AI 'Hampir Pasti' dalam Gelembung, Bandingkan GPU dengan Kursi Pesawat",
-   "x": "Pendiri Citadel menilai investor hampir pasti berada dalam gelembung kecerdasan buatan. Ia memperingatkan kelebihan pasokan chip dapat menekan harga, namun tetap optimistis pada kelangsungan inovasi AI jangka panjang.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T21:31:02"
   },
   {
    "id": 6937,
@@ -810,10 +810,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/lbank-nvidia-stock-trading-bursa-kripto",
    "img": "https://assets.beincrypto.com/img/oAnXB_zCtV88gWukHRF74DrjZtc=/smart/1ec248a590b84cfd874f6a3a3c5b4416",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-21T21:39:43"
+  },
+  {
+   "id": 7131,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Merger SpaceX dan Tesla akan bentuk kerajaan AI Musk",
+   "x": "Potensi merger antara SpaceX dan Tesla akan menyatukan berbagai proyek AI Elon Musk di bawah satu entitas. Hal ini dapat mempercepat inovasi dan konsolidasi kekuatan di sektor teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T18:16:03"
   },
   {
    "id": 7070,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T09:50:35"
-  },
-  {
-   "id": 6945,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Swiss setujui ETF Bitcoin pertama untuk investor ritel",
-   "x": "Regulator Swiss menyetujui ETF Bitcoin pertama bagi investor ritel. Ini menunjukkan minat yang meningkat terhadap aset kripto di pasar Eropa.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T13:04:28"
   }
  ]
 }
