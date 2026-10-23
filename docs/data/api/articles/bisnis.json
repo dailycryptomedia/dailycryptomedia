@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-10-21T18:16:03"
   },
   {
+   "id": 7360,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Opsi pendanaan Evernorth $132 juta bisa beli XRP lebih banyak",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/evernorths-132-million-funding-option-could-buy-more-xrp-while-reducing-xrp-per-share",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/evernorth-xrp-allocation-cover.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T15:50:06"
+  },
+  {
    "id": 7221,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -40,24 +54,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J0A93M8W14V9Z0MG6RYGGR/fishes-shark-dolphin-new.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T14:41:00"
-  },
-  {
-   "id": 7247,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Binance hapus data semalam yang terganggu dari pendanaan futures saham",
-   "x": "",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-moves-to-exclude-disrupted-overnight-data-from-stock-futures-funding",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-funding-data-review.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T13:00:21"
+   "published_at": "2026-10-22T14:41:00"
   },
   {
    "id": 7067,
@@ -110,10 +110,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T19:06:02"
+  },
+  {
+   "id": 7247,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Binance hapus data semalam yang terganggu dari pendanaan futures saham",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/binance-moves-to-exclude-disrupted-overnight-data-from-stock-futures-funding",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-funding-data-review.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T13:00:21"
   },
   {
    "id": 7249,
@@ -124,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-1.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T17:24:49"
@@ -144,18 +158,18 @@
    "published_at": "2026-10-22T10:18:28"
   },
   {
-   "id": 6957,
+   "id": 7226,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Jerman dan NVIDIA Perluas Kemitraan AI dengan Komitmen US$10 Miliar",
-   "x": "Kanselir Jerman Friedrich Merz dan CEO NVIDIA Jensen Huang menandatangani deklarasi bersama tentang AI industri di Berlin. Langkah ini berfokus pada penerapan AI ke pabrik dan industri fisik. Kesepakatan ini dapat…",
+   "t": "Fireblocks Bantah Klaim Akuisisi oleh Visa Senilai US$2,5 Miliar",
+   "x": "Hari ini, Axios melaporkan bahwa Visa sedang dalam tahap akhir negosiasi untuk mengakuisisi perusahaan infrastruktur aset kripto Fireblocks dengan nilai sekitar US$2,5 miliar. Namun, Fireblocks membantah klaim tersebut…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jerman-nvidia-deklarasi-ai-industri",
-   "img": "https://assets.beincrypto.com/img/lfO07JqFhBZzXUI_IcXRlZj1Igc=/smart/8e6c0553f3684f669339d4221d0f52c1",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/fireblocks-bantah-laporan-akuisisi-visa",
+   "img": "https://assets.beincrypto.com/img/HuqS985-Lypf23xEaOqwcakMfJU=/smart/2199d2da2d744d0292b7ef518ffa069f",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-20T12:24:52"
+   "published_at": "2026-10-22T15:28:43"
   },
   {
    "id": 7038,
@@ -170,48 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T01:19:14"
-  },
-  {
-   "id": 6973,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Penurunan IPO Korsel perparah kekhawatiran pasar AI, Brent capai $111",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3af77061a9d281108dc44325e87f588c44568f18-3084x1938.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T09:32:24"
-  },
-  {
-   "id": 6958,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Perusahaan Cloud AI Korea Elice Turun Lebih dari 30% di IPO Terbesar KOSDAQ Tahun 2026",
-   "x": "Elice Group berhasil mengumpulkan 201 miliar won (US$151 juta) melalui initial public offering (IPO) terbesar di KOSDAQ tahun ini. Saham Elice kemudian turun lebih dari 30% di bawah harga IPO pada Selasa, hari pertama…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/elice-kosdaq-ipo-drop-anthropic",
-   "img": "https://assets.beincrypto.com/img/ki_INUWoQf6woyemzwAxYGy93O8=/smart/355c77975e754a22931acc534b1504e4",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-20T12:00:00"
-  },
-  {
-   "id": 7226,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Fireblocks Bantah Klaim Akuisisi oleh Visa Senilai US$2,5 Miliar",
-   "x": "Hari ini, Axios melaporkan bahwa Visa sedang dalam tahap akhir negosiasi untuk mengakuisisi perusahaan infrastruktur aset kripto Fireblocks dengan nilai sekitar US$2,5 miliar. Namun, Fireblocks membantah klaim tersebut…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/fireblocks-bantah-laporan-akuisisi-visa",
-   "img": "https://assets.beincrypto.com/img/HuqS985-Lypf23xEaOqwcakMfJU=/smart/2199d2da2d744d0292b7ef518ffa069f",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-22T15:28:43"
   },
   {
    "id": 7156,
@@ -264,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hambatan-merger-tesla-spacex-steve-westly",
    "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
-   "a": "12 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T01:05:00"

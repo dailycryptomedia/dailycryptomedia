@@ -1,5 +1,5 @@
 {
- "total": 21,
+ "total": 22,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tom-lee-ai-selloff-mendekati-akhir",
    "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T02:05:00"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230324_Ether_Generic_4.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T16:31:24"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/grayscale-top-10-aset-kripto-earnings-yield",
    "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T02:00:00"
@@ -96,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FPM6BCNQXFX9C9NF5W5GF3/hi-heres-what-you-pay-for-using-crypto-mica-eu.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:57:39"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T14:24:25"
@@ -172,18 +172,18 @@
    "published_at": "2026-10-20T19:59:39"
   },
   {
-   "id": 7246,
+   "id": 7361,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Demo vault privasi SIG butuh penanda tangan eksternal untuk rilis token Ethereum",
-   "x": "",
+   "t": "Peluncur Agen: Mengenal AX1 Console 2.0",
+   "x": "Peluncuran token kini berevolusi menjadi peluncur agen AI yang dapat diperdagangkan. Startup AX1 di jaringan Base mengembangkan model baru ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/midnight-shielded-claim-redemption.webp",
-   "a": "23 jam lalu",
+   "url": "https://cryptoslate.com/what-is-an-agentic-activities-launchpad-inside-ax1-console-2-0",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ax1-console-agentic-activities-launchpad.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T14:00:42"
+   "published_at": "2026-10-23T15:00:23"
   },
   {
    "id": 7237,
@@ -194,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T13:55:03"
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nick-colas-konsentrasi-teknologi-sp-500",
    "img": "https://assets.beincrypto.com/img/PY1A99GJf_yEv8BujHNTT3DS_9o=/smart/a378c1f29da6435e817779fa5356af0e",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T03:20:00"
@@ -222,24 +222,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FMCZNK1JKRGRB78Y7WZ0DR/hi-fca-uk.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T17:25:00"
   },
   {
-   "id": 7304,
+   "id": 7246,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
-   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
+   "t": "Demo vault privasi SIG butuh penanda tangan eksternal untuk rilis token Ethereum",
+   "x": "",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
-   "a": "9 jam lalu",
+   "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/midnight-shielded-claim-redemption.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T04:10:18"
+   "published_at": "2026-10-22T14:00:42"
   },
   {
    "id": 7331,
@@ -250,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sk-hynix-hentikan-tinjauan-ipo-solidigm",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T07:45:00"
@@ -268,6 +268,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T10:50:52"
+  },
+  {
+   "id": 7304,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
+   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T04:10:18"
   },
   {
    "id": 7082,
