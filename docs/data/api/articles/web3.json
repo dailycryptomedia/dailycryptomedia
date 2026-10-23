@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-2.png",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T09:15:50"
@@ -82,7 +82,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/b1652fc6b3b74f0a93f6349c9b655b6a575d3cf5-1260x840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T04:36:20"
@@ -102,18 +102,18 @@
    "published_at": "2026-10-21T10:15:00"
   },
   {
-   "id": 7142,
+   "id": 7303,
    "k": "web3",
    "cat": "Web3",
-   "t": "Kepala keamanan kripto waspadai patch darurat PHP yang buat pengembang pusing",
-   "x": "Dua kerentanan kritis pada PHP ditemukan, memaksa pengembang situs web di seluruh dunia untuk segera melakukan pembaruan. Para ahli keamanan kripto mengimbau operator untuk memeriksa infrastruktur mereka.",
+   "t": "Alamat wallet lama jebak pengguna CoinDCX, picu potensi kerugian",
+   "x": "Pengguna bursa kripto CoinDCX menghadapi potensi kerugian akibat masalah pada proses penyapuan deposit dari alamat wallet lama. Pihak bursa mengklaim telah menyerap kerugian tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-server-vulnerability-threat.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/old-wallet-addresses-trap-coindcx-users-triggering-massive-losses",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coindcx-loss-accounting-dispute.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T17:00:04"
+   "published_at": "2026-10-23T06:30:31"
   },
   {
    "id": 6961,
@@ -144,6 +144,34 @@
    "published_at": "2026-10-20T09:00:37"
   },
   {
+   "id": 7142,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Kepala keamanan kripto waspadai patch darurat PHP yang buat pengembang pusing",
+   "x": "Dua kerentanan kritis pada PHP ditemukan, memaksa pengembang situs web di seluruh dunia untuk segera melakukan pembaruan. Para ahli keamanan kripto mengimbau operator untuk memeriksa infrastruktur mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-server-vulnerability-threat.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T17:00:04"
+  },
+  {
+   "id": 7228,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dogecoin Labs Ingin Bangun Ekonomi di Balik Reli US$1 Meme Coin",
+   "x": "Para holder Dogecoin (DOGE) sudah lama menyerukan harga US$1. Kini, sebuah perusahaan baru menyatakan akan membangun ekonomi yang dibutuhkan untuk mewujudkan target tersebut. Dogecoin Labs resmi diluncurkan pada 21…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/dogecoin-labs-luncurkan-house-of-doge",
+   "img": "https://assets.beincrypto.com/img/Obb6R_Vx6DWSP4Y31-9yq2xoR7s=/smart/55e3c442950d4e5199ae47dc7282c068",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-22T14:21:56"
+  },
+  {
    "id": 7006,
    "k": "web3",
    "cat": "Web3",
@@ -156,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T14:00:51"
-  },
-  {
-   "id": 7228,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dogecoin Labs Ingin Bangun Ekonomi di Balik Reli US$1 Meme Coin",
-   "x": "Para holder Dogecoin (DOGE) sudah lama menyerukan harga US$1. Kini, sebuah perusahaan baru menyatakan akan membangun ekonomi yang dibutuhkan untuk mewujudkan target tersebut. Dogecoin Labs resmi diluncurkan pada 21…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/dogecoin-labs-luncurkan-house-of-doge",
-   "img": "https://assets.beincrypto.com/img/Obb6R_Vx6DWSP4Y31-9yq2xoR7s=/smart/55e3c442950d4e5199ae47dc7282c068",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-22T14:21:56"
   }
  ]
 }

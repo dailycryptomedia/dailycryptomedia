@@ -1,5 +1,5 @@
 {
- "total": 76,
+ "total": 78,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T22:50:22"
@@ -60,20 +60,6 @@
    "published_at": "2026-10-20T12:50:21"
   },
   {
-   "id": 6925,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin MARA kirim 1.000 BTC ke bursa, sinyal jual?",
-   "x": "Penambang Bitcoin MARA memindahkan 1.000 BTC ke bursa Binance dan Gate. Pergerakan dana ini memicu spekulasi mengenai potensi tekanan jual di pasar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/penambang-bitcoin-mara-kirim-1000-btc-ke-bursa",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T02:30:24"
-  },
-  {
    "id": 7282,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -82,10 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-   "a": "35 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T02:21:30"
+  },
+  {
+   "id": 7307,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Hashrate Bitcoin tembus 1.050 EH/s, sinyal bullish dari institusi?",
+   "x": "Hashrate Bitcoin melonjak signifikan, menunjukkan peningkatan aktivitas penambangan. Kenaikan ini dipandang sebagai sinyal positif, terutama dengan partisipasi miner institusional yang kian agresif.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/hashrate-bitcoin-tembus-1-050-eh-s-sinyal-bullish-dari-institusi",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T06:00:42"
   },
   {
    "id": 7198,
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T11:20:04"
@@ -110,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T08:12:57"
@@ -124,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/inflasi-jepang-boj-kenaikan-suku-bunga-bitcoin",
    "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "47 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T02:08:40"
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T16:31:07"
@@ -158,20 +158,6 @@
    "published_at": "2026-10-20T20:30:10"
   },
   {
-   "id": 7175,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Core 32.0 Bawa Pembaruan Besar, Apa yang Berubah pada Jaringan BTC?",
-   "x": "Pembaruan Bitcoin Core 32.0 meningkatkan privasi jaringan, efisiensi penyimpanan indeks, dan koneksi node. Perubahan ini berpotensi meningkatkan pengalaman pengguna dan pengembang di ekosistem Bitcoin.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-core-32-0-bawa-pembaruan-besar-apa-yang-berubah-pada-jaringan-btc",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T03:30:11"
-  },
-  {
    "id": 6997,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -186,6 +172,20 @@
    "published_at": "2026-10-20T17:11:47"
   },
   {
+   "id": 7175,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Core 32.0 Bawa Pembaruan Besar, Apa yang Berubah pada Jaringan BTC?",
+   "x": "Pembaruan Bitcoin Core 32.0 meningkatkan privasi jaringan, efisiensi penyimpanan indeks, dan koneksi node. Perubahan ini berpotensi meningkatkan pengalaman pengguna dan pengembang di ekosistem Bitcoin.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-core-32-0-bawa-pembaruan-besar-apa-yang-berubah-pada-jaringan-btc",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T03:30:11"
+  },
+  {
    "id": 7048,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/f99e27db3acfaece32acc8d6b0dccd0e12b0fa46-1502x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T04:07:07"
@@ -236,7 +236,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/ai-prompt-injection-learn-gID_1-pID_2.png",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T15:45:07"
@@ -250,24 +250,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-wallstreet-outflows.webp",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T22:30:38"
-  },
-  {
-   "id": 7216,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bull run Bitcoin baru mulai? Saylor yakin BTC bisa tembus US$100.000",
-   "x": "Michael Saylor memprediksi siklus kenaikan harga Bitcoin baru saja dimulai dan berpotensi mencapai $100.000 dalam setahun. Pernyataan ini didasarkan pada keyakinan terhadap fundamental dan adopsi aset kripto.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bull-run-bitcoin-baru-mulai-saylor-yakin-btc-bisa-tembus-us100-000",
-   "img": null,
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T08:00:38"
   },
   {
    "id": 7021,
@@ -282,6 +268,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T18:14:28"
+  },
+  {
+   "id": 7216,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bull run Bitcoin baru mulai? Saylor yakin BTC bisa tembus US$100.000",
+   "x": "Michael Saylor memprediksi siklus kenaikan harga Bitcoin baru saja dimulai dan berpotensi mencapai $100.000 dalam setahun. Pernyataan ini didasarkan pada keyakinan terhadap fundamental dan adopsi aset kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bull-run-bitcoin-baru-mulai-saylor-yakin-btc-bisa-tembus-us100-000",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T08:00:38"
   },
   {
    "id": 7065,
@@ -306,7 +306,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T16:50:51"
@@ -320,7 +320,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pola-breakout-harga-bitcoin-21",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-22T09:59:19"
@@ -354,20 +354,6 @@
    "published_at": "2026-10-20T16:40:45"
   },
   {
-   "id": 6986,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin di ambang breakout, whale diam-diam borong 88.987 BTC",
-   "x": "Investor besar atau 'whale' telah mengakumulasi 88.987 BTC dalam sebulan terakhir saat harga Bitcoin bertahan di level krusial. Level US$87.000 kini menjadi penentu arah pergerakan selanjutnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-di-ambang-breakout-whale-diam-diam-borong-88-987-btc",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T08:00:34"
-  },
-  {
    "id": 7206,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -376,10 +362,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.45.33.png",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T09:56:16"
+  },
+  {
+   "id": 6986,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin di ambang breakout, whale diam-diam borong 88.987 BTC",
+   "x": "Investor besar atau 'whale' telah mengakumulasi 88.987 BTC dalam sebulan terakhir saat harga Bitcoin bertahan di level krusial. Level US$87.000 kini menjadi penentu arah pergerakan selanjutnya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-di-ambang-breakout-whale-diam-diam-borong-88-987-btc",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-20T08:00:34"
   },
   {
    "id": 6995,
@@ -418,7 +418,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ai-memecahkan-misteri-bitcoin-satoshi-17-tahun",
    "img": "https://assets.beincrypto.com/img/6Aky9hco5mXVAeonKfHhTt6WE5M=/smart/53eddc62add2412ba2e0314f1905d6ed",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-22T21:08:03"
@@ -466,6 +466,20 @@
    "published_at": "2026-10-21T11:55:08"
   },
   {
+   "id": 7312,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penyebab Harga Bitcoin dan Ethereum Rontok Hari Ini",
+   "x": "Harga Bitcoin dan Ethereum mengalami penurunan signifikan akibat ketegangan geopolitik AS-Iran, data inflasi AS, dan tekanan pada saham-saham teknologi AI. Faktor-faktor ini memicu aksi jual di pasar aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ini-penyebab-harga-bitcoin-dan-ethereum-rontok-hari-ini",
+   "img": null,
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T02:15:38"
+  },
+  {
    "id": 7199,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -474,7 +488,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/33df524da73a71dffe5032199c51d40709a67399-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T10:50:04"
@@ -488,7 +502,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-20T05:39:20"
@@ -502,7 +516,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tom-lee-asia-chip-selloff-kripto",
    "img": "https://assets.beincrypto.com/img/cvzXz2VJpC4MqjPN8FuHOaogzM0=/smart/5592b7822f4946938b64c0160934f2d9",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T05:14:49"
@@ -558,24 +572,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/e0742713d55788f217ee9802b43c2a1cf22f5434-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T04:41:59"
   },
   {
-   "id": 7220,
+   "id": 7286,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin dekati $81.5K basis biaya ETF, komentar Trump soal Iran jatuhkan saham",
-   "x": "Harga Bitcoin turun seiring dengan tekanan pada saham AS akibat komentar Presiden Trump mengenai Iran. Basis biaya ETF Bitcoin mendekati level $81.500.",
+   "t": "ETF Bitcoin alami kerugian $635 juta saat Oktober kembali negatif",
+   "x": "Aliran dana keluar dari ETF Bitcoin di AS mencapai $635 juta pada bulan Oktober. Penarikan dana ini mengakhiri tren positif sebelumnya dan menunjukkan sentimen pasar yang berbalik.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5JG3Z7RPMDP2E8S5Q398C/analytics-red-trump-960x640.webp",
-   "a": "10 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KQ8H85QR2DC93BFCNF4N1X/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-2.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T16:20:35"
+   "published_at": "2026-10-23T07:09:39"
   },
   {
    "id": 7164,
@@ -586,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/circle-ceo-bitcoin-slump-dolar-digital",
    "img": "https://assets.beincrypto.com/img/tecxDOHTT19fbFXMPFchDuuZt6o=/smart/d760358fb22747459f3b26e92dd76292",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-22T03:13:00"
@@ -628,24 +642,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T09:54:26"
   },
   {
-   "id": 7222,
+   "id": 7220,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "CEO CryptoQuant: hashrate Bitcoin naik sinyal bullish tak langsung dari institusi",
-   "x": "Peningkatan hashrate Bitcoin didorong oleh penambang publik yang didukung pemain keuangan tradisional. Hal ini dianggap sebagai sinyal positif bagi fundamental aset kripto andalan tersebut.",
+   "t": "Bitcoin dekati $81.5K basis biaya ETF, komentar Trump soal Iran jatuhkan saham",
+   "x": "Harga Bitcoin turun seiring dengan tekanan pada saham AS akibat komentar Presiden Trump mengenai Iran. Basis biaya ETF Bitcoin mendekati level $81.500.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTMN9GYAR5H2ZXAEB803XX/hi-bitcoin-mining-difficulty-explained-how-it-affects-profitability-1.jpg",
-   "a": "13 jam lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5JG3Z7RPMDP2E8S5Q398C/analytics-red-trump-960x640.webp",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T13:42:34"
+   "published_at": "2026-10-22T16:20:35"
   },
   {
    "id": 7090,
@@ -698,24 +712,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/68305194f847e3aa29c580f21b6d32ae104f745f-1520x854.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T03:51:34"
   },
   {
-   "id": 7181,
+   "id": 7222,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin turun di bawah $82 ribu pasca hasil kuartal III Tesla, KOSPI melemah",
-   "x": "Harga Bitcoin mengalami koreksi setelah Tesla melaporkan belanja modal yang lebih rendah dari perkiraan pada kuartal ketiga. Pergerakan ini menunjukkan korelasi antara berita perusahaan besar dan pasar aset kripto.",
+   "t": "CEO CryptoQuant: hashrate Bitcoin naik sinyal bullish tak langsung dari institusi",
+   "x": "Peningkatan hashrate Bitcoin didorong oleh penambang publik yang didukung pemain keuangan tradisional. Hal ini dianggap sebagai sinyal positif bagi fundamental aset kripto andalan tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg",
-   "a": "16 jam lalu",
+   "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTMN9GYAR5H2ZXAEB803XX/hi-bitcoin-mining-difficulty-explained-how-it-affects-profitability-1.jpg",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T10:38:51"
+   "published_at": "2026-10-22T13:42:34"
   },
   {
    "id": 7016,
@@ -740,7 +754,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T10:09:42"
@@ -774,18 +788,18 @@
    "published_at": "2026-10-20T11:14:21"
   },
   {
-   "id": 6994,
+   "id": 7181,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Harga Bitcoin melonjak ke $83,3 ribu seiring saham AS naik pada laporan laba kuartal III, minyak turun",
-   "x": "Laporan laba perusahaan AS yang positif mendorong kenaikan pasar saham dan harga Bitcoin. Pergerakan ini menunjukkan korelasi antara pasar tradisional dan aset kripto dalam merespons data ekonomi makro.",
+   "t": "Bitcoin turun di bawah $82 ribu pasca hasil kuartal III Tesla, KOSPI melemah",
+   "x": "Harga Bitcoin mengalami koreksi setelah Tesla melaporkan belanja modal yang lebih rendah dari perkiraan pada kuartal ketiga. Pergerakan ini menunjukkan korelasi antara berita perusahaan besar dan pasar aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KCZXGV1C50ET53JWS4RJ0V/hi-can-bitcoins-hard-cap-be-changed-3.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T16:14:09"
+   "published_at": "2026-10-22T10:38:51"
   },
   {
    "id": 6987,
@@ -824,24 +838,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-core-32s-wallet-change-can-break-co-signing-with-older-nodes",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-wallet-version-divide.webp",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T18:00:57"
-  },
-  {
-   "id": 6971,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin turun ke $81.400 seiring anjloknya saham chip Asia",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/8c7a6e81d5df5052dab8f6d8af2efcf82f9ea3fd-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T10:22:55"
   }
  ]
 }
