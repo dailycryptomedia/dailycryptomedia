@@ -1,22 +1,8 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 7027,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peretas Drift alirkan $63 juta lewat Tornado Cash, klaim pemulihan jadi tak pasti",
-   "x": "Peretas yang mencuri aset dari platform Drift telah mengalirkan sebagian besar dana curiannya melalui Tornado Cash. Tindakan ini mempersulit upaya pemulihan aset bagi korban.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-mixer-conveyor-flow.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T21:40:15"
-  },
   {
    "id": 7035,
    "k": "web3",
@@ -26,10 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/spacex-pengeluaran-ai-geger-3-saham-potensi-upside",
    "img": "https://assets.beincrypto.com/img/4QJWA7eOPSn9XB4go-bQXEAjzKk=/smart/dae86dbf26c14b04b7c56196848c6d57",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-20T22:16:05"
+  },
+  {
+   "id": 7303,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Alamat wallet lama jebak pengguna CoinDCX, picu potensi kerugian",
+   "x": "Pengguna bursa kripto CoinDCX menghadapi potensi kerugian akibat masalah pada proses penyapuan deposit dari alamat wallet lama. Pihak bursa mengklaim telah menyerap kerugian tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/old-wallet-addresses-trap-coindcx-users-triggering-massive-losses",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coindcx-loss-accounting-dispute.webp",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T06:30:31"
   },
   {
    "id": 7133,
@@ -100,20 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T10:15:00"
-  },
-  {
-   "id": 7303,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Alamat wallet lama jebak pengguna CoinDCX, picu potensi kerugian",
-   "x": "Pengguna bursa kripto CoinDCX menghadapi potensi kerugian akibat masalah pada proses penyapuan deposit dari alamat wallet lama. Pihak bursa mengklaim telah menyerap kerugian tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/old-wallet-addresses-trap-coindcx-users-triggering-massive-losses",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coindcx-loss-accounting-dispute.webp",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T06:30:31"
   },
   {
    "id": 7228,

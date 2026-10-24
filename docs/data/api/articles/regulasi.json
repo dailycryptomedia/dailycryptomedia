@@ -1,5 +1,5 @@
 {
- "total": 22,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T17:16:03"
@@ -68,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbase-irelands-cash-safeguards-fell-e5-million-short-before-2024-fix",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-ireland-cash-safeguards.webp",
-   "a": "9 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T11:50:07"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/rancangan-undang-undang-kripto-korea-selatan-segera-rampung",
    "img": "https://assets.beincrypto.com/img/83YmzNvcONmKuZxmcRcYOV3iL8E=/smart/b637298c00814194ab24d3acb3e515d4",
-   "a": "20 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T00:48:04"
@@ -124,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png",
-   "a": "39 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T20:54:17"
@@ -138,7 +138,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T16:31:03"
@@ -158,18 +158,18 @@
    "published_at": "2026-10-21T20:00:12"
   },
   {
-   "id": 7019,
+   "id": 7209,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Perusahaan kripto dan Wall Street desak SEC revisi aturan aset kripto",
-   "x": "Seiring berakhirnya masa komentar publik, berbagai perusahaan aset digital dan institusi Wall Street menyampaikan pandangannya kepada SEC. Mereka mendesak revisi proposal regulasi aset kripto.",
+   "t": "Rancangan UU kripto Korea Selatan rampung, debat pajak memanas",
+   "x": "Korea Selatan mendekati finalisasi rancangan undang-undang aset digital yang mencakup lisensi bursa kripto dan aturan penerbitan stablecoin. Hal ini terjadi di tengah memanasnya perdebatan soal pajak aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News_2.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.14.49.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-20T19:19:54"
+   "published_at": "2026-10-22T09:11:57"
   },
   {
    "id": 7192,
@@ -194,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T16:08:40"
@@ -208,24 +208,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "2 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T18:54:55"
-  },
-  {
-   "id": 7020,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Utah gugat Kalshi, sebut praktik seperti 'judi'",
-   "x": "Otoritas Utah menggugat bursa derivatif Kalshi dan menuding praktik perdagangannya menyerupai perjudian. Gugatan ini bertujuan memulihkan keuntungan dan menghentikan taruhan pada berbagai peristiwa.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/20250917_Kalshi_News_2.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T19:12:38"
   },
   {
    "id": 7165,
@@ -256,34 +242,6 @@
    "published_at": "2026-10-22T13:20:57"
   },
   {
-   "id": 7025,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator Swiss setujui reksa dana ritel pertama pemegang bitcoin langsung",
-   "x": "Otoritas pengawas Swiss FINMA menyetujui reksa dana ritel pertama yang berinvestasi langsung pada bitcoin. Keputusan ini menekankan pentingnya pengamanan kustodian dan investor.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-20T19:31:04"
-  },
-  {
-   "id": 7209,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Rancangan UU kripto Korea Selatan rampung, debat pajak memanas",
-   "x": "Korea Selatan mendekati finalisasi rancangan undang-undang aset digital yang mencakup lisensi bursa kripto dan aturan penerbitan stablecoin. Hal ini terjadi di tengah memanasnya perdebatan soal pajak aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.14.49.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T09:11:57"
-  },
-  {
    "id": 7127,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -306,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T04:34:14"
