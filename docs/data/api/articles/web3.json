@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,20 +32,6 @@
    "published_at": "2026-10-23T06:30:31"
   },
   {
-   "id": 7133,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dogecoin miliki perusahaan khusus untuk bangun ekosistemnya",
-   "x": "Sebuah perusahaan baru dibentuk untuk mengembangkan ekosistem Dogecoin, menyatukan dompet digital dan platform aplikasi. Ini bertujuan untuk membangun ekonomi yang lebih kuat di sekitar aset kripto DOGE.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T16:46:04"
-  },
-  {
    "id": 7208,
    "k": "web3",
    "cat": "Web3",
@@ -68,7 +54,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T04:45:43"
@@ -82,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/justin-sun-jadi-whale-pepe-transfer-72-triliun-token-dari-poloniex-jadi-sorotan",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T02:15:35"
@@ -96,24 +82,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dompet-baru-uniswap-tertinggi-empat-tahun",
    "img": "https://assets.beincrypto.com/img/xatg1nyE__SDT3bqXwdcp5sKpfg=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-24T10:12:15"
-  },
-  {
-   "id": 7142,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kepala keamanan kripto waspadai patch darurat PHP yang buat pengembang pusing",
-   "x": "Dua kerentanan kritis pada PHP ditemukan, memaksa pengembang situs web di seluruh dunia untuk segera melakukan pembaruan. Para ahli keamanan kripto mengimbau operator untuk memeriksa infrastruktur mereka.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-server-vulnerability-threat.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T17:00:04"
   },
   {
    "id": 7171,
