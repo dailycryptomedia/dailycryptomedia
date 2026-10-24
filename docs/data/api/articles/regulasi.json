@@ -1,8 +1,22 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 7414,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kraken cabut pertanyaan kepatuhan Monero, pertahankan batas tarik individu $1.500",
+   "x": "Bursa kripto Kraken menarik permintaan kepatuhan yang dianggap tidak perlu dari pelanggan Monero. Keputusan ini penting bagi pengguna yang khawatir akan privasi data mereka saat bertransaksi aset kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/monero-cage-withdrawal-limit.webp",
+   "a": "11 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-24T19:00:37"
+  },
   {
    "id": 7185,
    "k": "regulasi",
@@ -40,10 +54,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T17:16:03"
+  },
+  {
+   "id": 7260,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Blockchain Association Desak Kejelasan Pajak Kripto Saat RUU Terhambat",
+   "x": "Asosiasi Blockchain mendesak Kongres AS untuk segera mengesahkan legislasi pajak kripto. Ketidakpastian pajak menghambat adopsi aset digital di tengah lambatnya kemajuan regulasi yang lebih luas.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/01/20210120_Capitol_Generic.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T18:59:25"
   },
   {
    "id": 7333,
@@ -58,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T11:50:07"
-  },
-  {
-   "id": 7260,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Blockchain Association Desak Kejelasan Pajak Kripto Saat RUU Terhambat",
-   "x": "Asosiasi Blockchain mendesak Kongres AS untuk segera mengesahkan legislasi pajak kripto. Ketidakpastian pajak menghambat adopsi aset digital di tengah lambatnya kemajuan regulasi yang lebih luas.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/01/20210120_Capitol_Generic.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T18:59:25"
   },
   {
    "id": 7279,
@@ -96,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png",
-   "a": "19 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T20:54:17"
@@ -116,20 +130,6 @@
    "published_at": "2026-10-23T16:31:03"
   },
   {
-   "id": 7154,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Rencana penggalangan dana kripto SEC senilai $75 juta hadapi tentangan bank",
-   "x": "Manajer aset menuntut formulir pengajuan yang dapat digunakan, sementara pusat kebijakan menantang analisis publik wajib. Hal ini menimbulkan perdebatan mengenai transparansi dan perlindungan investor dalam penggalangan dana kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash-and-threats-of-legal-action",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/token-disclosure-balance.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T20:00:12"
-  },
-  {
    "id": 7209,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T09:11:57"
+  },
+  {
+   "id": 7154,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Rencana penggalangan dana kripto SEC senilai $75 juta hadapi tentangan bank",
+   "x": "Manajer aset menuntut formulir pengajuan yang dapat digunakan, sementara pusat kebijakan menantang analisis publik wajib. Hal ini menimbulkan perdebatan mengenai transparansi dan perlindungan investor dalam penggalangan dana kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash-and-threats-of-legal-action",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/token-disclosure-balance.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T20:00:12"
   },
   {
    "id": 7192,
@@ -172,18 +186,18 @@
    "published_at": "2026-10-23T16:08:40"
   },
   {
-   "id": 7370,
+   "id": 7412,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC soroti 'kecerdasan super' AI dan tokenisasi sebagai risiko pasar sistemik",
-   "x": "Komisi Sekuritas dan Bursa Amerika Serikat (SEC) mengidentifikasi potensi risiko sistemik pada pasar keuangan akibat kemajuan pesat kecerdasan buatan (AI) dan tokenisasi aset. Fokus ini penting bagi pelaku pasar aset digital.",
+   "t": "Google ubah kebijakan privasi untuk gunakan data Gmail dan Photos demi iklan",
+   "x": "Google memperbarui kebijakan privasinya yang mengizinkan penggunaan data dari Gmail, Drive, dan Photos untuk personalisasi iklan. Perubahan ini menimbulkan kekhawatiran baru tentang privasi data pengguna.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "21 jam lalu",
+   "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T18:54:55"
+   "published_at": "2026-10-24T17:01:02"
   },
   {
    "id": 7165,
@@ -212,6 +226,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T13:20:57"
+  },
+  {
+   "id": 7370,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC soroti 'kecerdasan super' AI dan tokenisasi sebagai risiko pasar sistemik",
+   "x": "Komisi Sekuritas dan Bursa Amerika Serikat (SEC) mengidentifikasi potensi risiko sistemik pada pasar keuangan akibat kemajuan pesat kecerdasan buatan (AI) dan tokenisasi aset. Fokus ini penting bagi pelaku pasar aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T18:54:55"
   },
   {
    "id": 7127,
