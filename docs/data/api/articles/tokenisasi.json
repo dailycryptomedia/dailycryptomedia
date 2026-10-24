@@ -1,5 +1,5 @@
 {
- "total": 39,
+ "total": 38,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,24 +40,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T12:01:03"
-  },
-  {
-   "id": 7070,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SpaceX buka kunci saham $194 miliar, ungkap risiko ambisi Aave",
-   "x": "Aave Labs mengusulkan penerimaan saham SpaceX tokenisasi sebagai jaminan di platformnya. Pembukaan kunci saham senilai $194 miliar ini memunculkan kekhawatiran baru terkait potensi risiko pada aset kripto yang mewakili saham dunia nyata.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/spacexs-194-billion-share-unlock-exposes-a-major-risk-in-aaves-tokenized-stock-ambitions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-collateral-risk-assessment.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T09:50:35"
+   "published_at": "2026-10-22T12:01:03"
   },
   {
    "id": 7144,
@@ -82,10 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T12:55:26"
+  },
+  {
+   "id": 7376,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Aturan baru OCC untuk stablecoin ubah penebusan, bank hadapi pergeseran besar",
+   "x": "Regulator AS mengubah aturan penebusan stablecoin, memengaruhi bank yang terlibat. Perubahan ini berpotensi mengubah cara penerbit dan bank mengelola likuiditas serta kewajiban.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-seven-day-reversal.webp",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T22:50:04"
   },
   {
    "id": 7241,
@@ -110,7 +110,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/3-negara-asean-gabung-garap-stablecoin-lintas-negara-indonesia-gak-diajak",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T06:00:10"
@@ -130,32 +130,18 @@
    "published_at": "2026-10-22T00:30:20"
   },
   {
-   "id": 7107,
+   "id": 7394,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "OCC finalisasi aturan stablecoin GENIUS Act",
-   "x": "OCC menerbitkan aturan final untuk stablecoin berdasarkan GENIUS Act, yang mencakup standar cadangan dan penebusan. Aturan ini berlaku efektif Januari mendatang.",
+   "t": "Bank terbesar Hong Kong luncurkan stablecoin di 3 juta dompet digital",
+   "x": "HSBC Hong Kong meluncurkan stablecoin dolar Hong Kong di aplikasi pembayaran PayMe, menjangkau 3 juta pengguna. Inisiatif ini menguji potensi penggunaan token yang diterbitkan bank sebagai alat pembayaran sehari-hari di masyarakat.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/OCC-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hong-kong-decrypt-style-gID_7.jpg",
+   "a": "26 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T11:52:23"
-  },
-  {
-   "id": 7376,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Aturan baru OCC untuk stablecoin ubah penebusan, bank hadapi pergeseran besar",
-   "x": "Regulator AS mengubah aturan penebusan stablecoin, memengaruhi bank yang terlibat. Perubahan ini berpotensi mengubah cara penerbit dan bank mengelola likuiditas serta kewajiban.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-seven-day-reversal.webp",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T22:50:04"
+   "published_at": "2026-10-24T13:01:02"
   },
   {
    "id": 7285,
@@ -186,6 +172,20 @@
    "published_at": "2026-10-23T02:48:13"
   },
   {
+   "id": 7262,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Standard Chartered Bawa Kustodian Kripto Internal Seiring Laju Infrastruktur Aset Digital Wall Street",
+   "x": "Standard Chartered berupaya mengintegrasikan layanan kustodian aset digital secara internal. Langkah ini sejalan dengan percepatan pengembangan infrastruktur aset digital oleh institusi keuangan besar di Wall Street.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zodia-custody-transaction-split.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T19:20:56"
+  },
+  {
    "id": 7324,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/422de556d60af09d1d48206276c7491d24eed290-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T10:22:56"
@@ -228,18 +228,18 @@
    "published_at": "2026-10-23T06:16:52"
   },
   {
-   "id": 7262,
+   "id": 7107,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Standard Chartered Bawa Kustodian Kripto Internal Seiring Laju Infrastruktur Aset Digital Wall Street",
-   "x": "Standard Chartered berupaya mengintegrasikan layanan kustodian aset digital secara internal. Langkah ini sejalan dengan percepatan pengembangan infrastruktur aset digital oleh institusi keuangan besar di Wall Street.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zodia-custody-transaction-split.webp",
-   "a": "kemarin",
+   "t": "OCC finalisasi aturan stablecoin GENIUS Act",
+   "x": "OCC menerbitkan aturan final untuk stablecoin berdasarkan GENIUS Act, yang mencakup standar cadangan dan penebusan. Aturan ini berlaku efektif Januari mendatang.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/OCC-gID_7.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T19:20:56"
+   "published_at": "2026-10-21T11:52:23"
   },
   {
    "id": 7316,
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KXQCE4PMMZDTHNGM7946XD/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T11:47:47"
@@ -264,10 +264,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T12:00:00"
+  },
+  {
+   "id": 7212,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "AS Diam-diam Longgarkan Aturan Cadangan Stablecoin Seiring Bank Peringatkan Miliaran Bisa Bergeser dari Pinjaman",
+   "x": "Amerika Serikat melonggarkan aturan cadangan stablecoin melalui Undang-Undang GENIUS, yang disebut sebagai landasan posisi negara sebagai ibu kota kripto dunia. Pelonggaran ini terjadi bersamaan dengan rilis aturan final stablecoin oleh OCC.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-bank-conveyor.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-22T10:00:16"
   },
   {
    "id": 7351,
@@ -278,7 +292,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/9655eada3129b642b283dac1319e070000a740b5-6960x4640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "19 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T13:58:56"
@@ -312,20 +326,6 @@
    "published_at": "2026-10-22T23:57:34"
   },
   {
-   "id": 7212,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "AS Diam-diam Longgarkan Aturan Cadangan Stablecoin Seiring Bank Peringatkan Miliaran Bisa Bergeser dari Pinjaman",
-   "x": "Amerika Serikat melonggarkan aturan cadangan stablecoin melalui Undang-Undang GENIUS, yang disebut sebagai landasan posisi negara sebagai ibu kota kripto dunia. Pelonggaran ini terjadi bersamaan dengan rilis aturan final stablecoin oleh OCC.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-bank-conveyor.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T10:00:16"
-  },
-  {
    "id": 7145,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -354,6 +354,20 @@
    "published_at": "2026-10-21T17:59:36"
   },
   {
+   "id": 7393,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Senator AS selidiki pembayaran Tether ke firma penasihat kripto Gedung Putih",
+   "x": "Tether menghadapi penyelidikan Senat AS terkait dugaan pembayaran jutaan dolar ke firma konsultan yang dimiliki mantan penasihat kripto Gedung Putih. Senator meminta catatan pembayaran tersebut untuk menelisik potensi hubungan antara penerbit stablecoin dan penasihat kebijakan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-payment-papertrail.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-24T11:00:33"
+  },
+  {
    "id": 7300,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -368,20 +382,6 @@
    "published_at": "2026-10-23T03:13:01"
   },
   {
-   "id": 7073,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "US$400 Juta Bergerak Tiap Jam, Stablecoin Mulai Ganggu Dominasi Bank",
-   "x": "Transaksi stablecoin mencapai US$400 juta per jam, dengan mayoritas terjadi di luar jam kerja perbankan tradisional. Hal ini menunjukkan pergeseran penggunaan stablecoin dari sekadar aset kripto menjadi alat pembayaran yang signifikan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/us400-juta-bergerak-tiap-jam-stablecoin-mulai-ganggu-dominasi-bank",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T08:00:48"
-  },
-  {
    "id": 7231,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -390,24 +390,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/marathon-fusion-mercury-dampak-harga-emas",
    "img": "https://assets.beincrypto.com/img/E34JtAEYkwrIT4XSVcFGPQFnHVA=/smart/7f3be3f9391246c988ae2eca64bbf5db",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-22T12:17:15"
-  },
-  {
-   "id": 7271,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "OCC hapus aturan imbal hasil stablecoin, tapi aturan lain tetap",
-   "x": "Aturan final GENIUS Act tidak lagi mewajibkan peninjauan imbal hasil penerbit dan pihak ketiga yang terkait dengan stablecoin. Namun, larangan imbal hasil stablecoin tetap berlaku.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-stablecoin-rulebook-revision.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T21:20:12"
   },
   {
    "id": 7126,
@@ -432,38 +418,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-13.31.20.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-21T12:44:53"
   },
   {
-   "id": 7173,
+   "id": 7271,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Aturan OCC Beri Peringatan pada Penerbit Stablecoin Aktif",
-   "x": "Penerbit stablecoin di AS yang menunggu persetujuan OCC kini harus mendapatkan keringanan khusus untuk terus beroperasi mulai 18 Januari 2027. Pengajuan saja tidak cukup untuk menjamin kelangsungan penerbitan.",
+   "t": "OCC hapus aturan imbal hasil stablecoin, tapi aturan lain tetap",
+   "x": "Aturan final GENIUS Act tidak lagi mewajibkan peninjauan imbal hasil penerbit dan pihak ketiga yang terkait dengan stablecoin. Namun, larangan imbal hasil stablecoin tetap berlaku.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-regulatory-deadline.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-stablecoin-rulebook-revision.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T03:20:53"
+   "published_at": "2026-10-22T21:20:12"
   },
   {
-   "id": 7057,
+   "id": 7374,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bank sentral Malaysia luncurkan platform DLT untuk obligasi tokenisasi",
-   "x": "Bank sentral Malaysia meluncurkan platform berbasis teknologi buku besar terdistribusi (DLT) untuk melacak kepemilikan dan transfer obligasi tokenisasi. Inisiatif ini terhubung dengan sistem pembayaran bank sentral untuk penyelesaian transaksi.",
+   "t": "Wells Fargo dan lima bank lain tolak listing saham tokenisasi OKX-ICE",
+   "x": "Enam bank besar, termasuk Wells Fargo, menolak rencana listing saham tokenisasi oleh OKX dan ICE di bawah pengecualian inovasi SEC. Penolakan ini menyoroti kekhawatiran regulator dan institusi keuangan tradisional terhadap aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T05:56:29"
+   "published_at": "2026-10-23T21:32:16"
   },
   {
    "id": 7301,
@@ -480,46 +466,18 @@
    "published_at": "2026-10-23T04:03:09"
   },
   {
-   "id": 7335,
+   "id": 7173,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bitcoin terancam turun ke $80.000 akibat peringatan pasar obligasi",
-   "x": "Bitcoin sempat kehilangan pijakan di level $81.000, seiring pasar saham dan emas juga mengalami penurunan. Imbal hasil obligasi Treasury 10 tahun jatuh, menandai penurunan harian terbesar dalam dua tahun.",
+   "t": "Aturan OCC Beri Peringatan pada Penerbit Stablecoin Aktif",
+   "x": "Penerbit stablecoin di AS yang menunggu persetujuan OCC kini harus mendapatkan keringanan khusus untuk terus beroperasi mulai 18 Januari 2027. Pengajuan saja tidak cukup untuk menjamin kelangsungan penerbitan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/investor-market-pressure.webp",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T09:30:45"
-  },
-  {
-   "id": 7374,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Wells Fargo dan lima bank lain tolak listing saham tokenisasi OKX-ICE",
-   "x": "Enam bank besar, termasuk Wells Fargo, menolak rencana listing saham tokenisasi oleh OKX dan ICE di bawah pengecualian inovasi SEC. Penolakan ini menyoroti kekhawatiran regulator dan institusi keuangan tradisional terhadap aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T21:32:16"
-  },
-  {
-   "id": 7115,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "OCC terbitkan aturan final stablecoin GENIUS Act",
-   "x": "OCC menerbitkan aturan final GENIUS Act untuk stablecoin yang berlaku 18 Januari, menghapus asumsi yang diusulkan pada pengaturan imbalan pihak ketiga. Aturan ini menetapkan standar bagi penerbit.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/01/occ-scaled-e1772072708836.jpg",
+   "url": "https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-regulatory-deadline.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-21T11:01:02"
+   "published_at": "2026-10-22T03:20:53"
   },
   {
    "id": 7319,
@@ -536,6 +494,34 @@
    "published_at": "2026-10-23T08:47:34"
   },
   {
+   "id": 7115,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "OCC terbitkan aturan final stablecoin GENIUS Act",
+   "x": "OCC menerbitkan aturan final GENIUS Act untuk stablecoin yang berlaku 18 Januari, menghapus asumsi yang diusulkan pada pengaturan imbalan pihak ketiga. Aturan ini menetapkan standar bagi penerbit.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/01/occ-scaled-e1772072708836.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-21T11:01:02"
+  },
+  {
+   "id": 7335,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin terancam turun ke $80.000 akibat peringatan pasar obligasi",
+   "x": "Bitcoin sempat kehilangan pijakan di level $81.000, seiring pasar saham dan emas juga mengalami penurunan. Imbal hasil obligasi Treasury 10 tahun jatuh, menandai penurunan harian terbesar dalam dua tahun.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/investor-market-pressure.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T09:30:45"
+  },
+  {
    "id": 7224,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -544,7 +530,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTDR3RG1PRKW22RG4VE5A4/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T13:13:45"
