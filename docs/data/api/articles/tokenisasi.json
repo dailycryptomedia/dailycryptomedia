@@ -1,5 +1,5 @@
 {
- "total": 35,
+ "total": 33,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,20 +46,6 @@
    "published_at": "2026-10-22T12:01:03"
   },
   {
-   "id": 7144,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Asosiasi Perbankan AS: Aturan OCC 'merusak' Kongres AS",
-   "x": "Organisasi advokasi perbankan menentang aturan final OCC mengenai undang-undang stablecoin. Mereka berargumen menentang perubahan pada ketentuan imbal hasil yang diajukan oleh regulator.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5G2G8DNS83ZJANR3X4SZBVD/policymaker-bill-us-genius-act-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T21:53:48"
-  },
-  {
    "id": 7337,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -74,6 +60,20 @@
    "published_at": "2026-10-23T12:55:26"
   },
   {
+   "id": 7285,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Malaysia, Thailand gabung dorongan stablecoin lintas batas Singapura",
+   "x": "Malaysia dan Thailand bergabung dengan Singapura dalam inisiatif pembayaran lintas batas menggunakan stablecoin. Langkah ini bertujuan mempermudah transaksi keuangan antarnegara dan mengurangi biaya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KRGMT9N9EBWS5WR5Y7D3JH/hi-why-singapore-is-one-of-the-most-crypto-friendly-countries.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T07:15:53"
+  },
+  {
    "id": 7376,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -82,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-seven-day-reversal.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T22:50:04"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/5f5b4bcc5ab7ba1437f88bb9961bbd70e3bbb448-5624x3749.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T15:00:00"
@@ -110,7 +110,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/3-negara-asean-gabung-garap-stablecoin-lintas-negara-indonesia-gak-diajak",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T06:00:10"
@@ -138,24 +138,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/hong-kong-decrypt-style-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T13:01:02"
-  },
-  {
-   "id": 7285,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Malaysia, Thailand gabung dorongan stablecoin lintas batas Singapura",
-   "x": "Malaysia dan Thailand bergabung dengan Singapura dalam inisiatif pembayaran lintas batas menggunakan stablecoin. Langkah ini bertujuan mempermudah transaksi keuangan antarnegara dan mengurangi biaya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KRGMT9N9EBWS5WR5Y7D3JH/hi-why-singapore-is-one-of-the-most-crypto-friendly-countries.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T07:15:53"
   },
   {
    "id": 7281,
@@ -170,6 +156,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T02:48:13"
+  },
+  {
+   "id": 7316,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Apakah penyimpanan mandiri kripto dirancang untuk pemula?",
+   "x": "Insiden keamanan dompet keras baru-baru ini memicu perdebatan tentang kesesuaian penyimpanan mandiri bagi pemula. Desain yang lebih kompleks seperti multisig dan tanpa seed phrase membawa risiko tersendiri.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KXQCE4PMMZDTHNGM7946XD/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T11:47:47"
   },
   {
    "id": 7262,
@@ -194,7 +194,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "7 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T14:06:24"
@@ -228,20 +228,6 @@
    "published_at": "2026-10-23T06:16:52"
   },
   {
-   "id": 7316,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Apakah penyimpanan mandiri kripto dirancang untuk pemula?",
-   "x": "Insiden keamanan dompet keras baru-baru ini memicu perdebatan tentang kesesuaian penyimpanan mandiri bagi pemula. Desain yang lebih kompleks seperti multisig dan tanpa seed phrase membawa risiko tersendiri.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KXQCE4PMMZDTHNGM7946XD/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T11:47:47"
-  },
-  {
    "id": 7205,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -254,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T12:00:00"
+  },
+  {
+   "id": 7374,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Wells Fargo dan lima bank lain tolak listing saham tokenisasi OKX-ICE",
+   "x": "Enam bank besar, termasuk Wells Fargo, menolak rencana listing saham tokenisasi oleh OKX dan ICE di bawah pengecualian inovasi SEC. Penolakan ini menyoroti kekhawatiran regulator dan institusi keuangan tradisional terhadap aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T21:32:16"
   },
   {
    "id": 7212,
@@ -312,20 +312,6 @@
    "published_at": "2026-10-22T23:57:34"
   },
   {
-   "id": 7145,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Tether dukung fintech Bolivia bawa pembayaran USDT ke pesan-antar makanan dan perbankan",
-   "x": "Investasi Tether akan mendukung ekspansi Peso di empat pasar Amerika Latin. Perusahaan fintech ini menghubungkan pembayaran stablecoin dengan layanan pedagang dan jaringan perbankan lokal.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FY16RXJTWFR0B5DJ896X4P/hi-from-ban-to-adoption-the-evolution-of-crypto-policy-in-bolivia-2.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-21T20:26:07"
-  },
-  {
    "id": 7301,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -340,6 +326,20 @@
    "published_at": "2026-10-23T04:03:09"
   },
   {
+   "id": 7319,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "HSBC luncurkan stablecoin Dolar Hong Kong untuk pembayaran ritel",
+   "x": "HSBC memperkenalkan stablecoin Dolar Hong Kong yang akan digunakan untuk pembayaran ritel melalui dompet digital. Langkah ini membuka potensi penggunaan aset digital untuk transaksi sehari-hari.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T08:47:34"
+  },
+  {
    "id": 7393,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-payment-papertrail.webp",
-   "a": "10 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T11:00:33"
@@ -382,18 +382,18 @@
    "published_at": "2026-10-22T12:17:15"
   },
   {
-   "id": 7374,
+   "id": 7224,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Wells Fargo dan lima bank lain tolak listing saham tokenisasi OKX-ICE",
-   "x": "Enam bank besar, termasuk Wells Fargo, menolak rencana listing saham tokenisasi oleh OKX dan ICE di bawah pengecualian inovasi SEC. Penolakan ini menyoroti kekhawatiran regulator dan institusi keuangan tradisional terhadap aset digital.",
+   "t": "SoFi luncurkan token deposit bank untuk dana kripto berimbal hasil",
+   "x": "SoFi Bank memperkenalkan SoFi Earn, produk deposit tokenisasi yang menawarkan imbal hasil 4,40% APY dengan cakupan FDIC. Inovasi ini memungkinkan konversi dana ke stablecoin kapan saja, menunjukkan tren baru dalam produk keuangan terintegrasi kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTDR3RG1PRKW22RG4VE5A4/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T21:32:16"
+   "published_at": "2026-10-22T13:13:45"
   },
   {
    "id": 7271,
@@ -424,20 +424,6 @@
    "published_at": "2026-10-23T13:58:56"
   },
   {
-   "id": 7319,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "HSBC luncurkan stablecoin Dolar Hong Kong untuk pembayaran ritel",
-   "x": "HSBC memperkenalkan stablecoin Dolar Hong Kong yang akan digunakan untuk pembayaran ritel melalui dompet digital. Langkah ini membuka potensi penggunaan aset digital untuk transaksi sehari-hari.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T08:47:34"
-  },
-  {
    "id": 7173,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -464,20 +450,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T03:13:01"
-  },
-  {
-   "id": 7224,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SoFi luncurkan token deposit bank untuk dana kripto berimbal hasil",
-   "x": "SoFi Bank memperkenalkan SoFi Earn, produk deposit tokenisasi yang menawarkan imbal hasil 4,40% APY dengan cakupan FDIC. Inovasi ini memungkinkan konversi dana ke stablecoin kapan saja, menunjukkan tren baru dalam produk keuangan terintegrasi kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTDR3RG1PRKW22RG4VE5A4/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T13:13:45"
   },
   {
    "id": 7335,
