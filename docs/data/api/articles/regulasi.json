@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/putusan-pengadilan-kasus-libra-javier-milei",
    "img": "https://assets.beincrypto.com/img/WD10n8mPkETX_6rSafCxrWVEctQ=/smart/1f9a96666b3a42eab486e922dcd3900d",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T12:35:44"
@@ -26,24 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/monero-cage-withdrawal-limit.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T19:00:37"
   },
   {
-   "id": 7219,
+   "id": 7364,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bank sentral Irlandia denda Coinbase $3,6 juta",
-   "x": "Coinbase Ireland didenda karena kegagalan pengawasan dan perlindungan. Denda ini menunggu persetujuan pengadilan tinggi.",
+   "t": "IRS rencanakan penalti lebih rendah untuk keterbukaan pajak, termasuk kripto",
+   "x": "Otoritas pajak AS (IRS) berencana melonggarkan denda bagi wajib pajak yang melaporkan kewajiban pajak tertunggak. Ini bisa mempermudah investor kripto yang ingin merapikan urusan pajaknya.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T16:48:00"
+   "published_at": "2026-10-23T20:54:17"
   },
   {
    "id": 7354,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T17:16:03"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/perusahaan-pemegang-473-juta-xrp-ungkap-risiko-penggunaan-xrp-yang-masih-terbatas",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T01:30:12"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/01/20210120_Capitol_Generic.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-22T18:59:25"
@@ -116,18 +116,18 @@
    "published_at": "2026-10-23T11:50:07"
   },
   {
-   "id": 7364,
+   "id": 7347,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "IRS rencanakan penalti lebih rendah untuk keterbukaan pajak, termasuk kripto",
-   "x": "Otoritas pajak AS (IRS) berencana melonggarkan denda bagi wajib pajak yang melaporkan kewajiban pajak tertunggak. Ini bisa mempermudah investor kripto yang ingin merapikan urusan pajaknya.",
+   "t": "SEC anggap tokenisasi berisiko tinggi dalam pemeriksaan pasar 2027",
+   "x": "Regulator AS mengidentifikasi tokenisasi sebagai area berisiko tinggi untuk pengawasan pasar di masa depan. Fokus ini menyoroti potensi tantangan dalam adopsi aset digital yang mewakili aset dunia nyata.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T20:54:17"
+   "published_at": "2026-10-23T16:08:40"
   },
   {
    "id": 7355,
@@ -144,18 +144,18 @@
    "published_at": "2026-10-23T16:31:03"
   },
   {
-   "id": 7347,
+   "id": 7288,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC anggap tokenisasi berisiko tinggi dalam pemeriksaan pasar 2027",
-   "x": "Regulator AS mengidentifikasi tokenisasi sebagai area berisiko tinggi untuk pengawasan pasar di masa depan. Fokus ini menyoroti potensi tantangan dalam adopsi aset digital yang mewakili aset dunia nyata.",
+   "t": "Bitcoin Core Ubah Kebijakan Keamanan Seiring Kemudahan Deteksi Bug oleh AI",
+   "x": "Bitcoin Core menyesuaikan kebijakan keamanannya karena kecerdasan buatan (AI) mempermudah penemuan kerentanan. Kerahasiaan terhadap beberapa celah keamanan dinilai tidak lagi efektif.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
+   "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T16:08:40"
+   "published_at": "2026-10-23T04:34:14"
   },
   {
    "id": 7412,
@@ -172,20 +172,6 @@
    "published_at": "2026-10-24T17:01:02"
   },
   {
-   "id": 7223,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OJK Thailand: Beberapa perusahaan incar ETF kripto, belum ada aplikasi",
-   "x": "Otoritas Jasa Keuangan Thailand mengonfirmasi minat beberapa manajer investasi pada ETF kripto spot. Namun, belum ada pengajuan resmi yang diterima.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HP7DQ484K9JYNHR6WQMB12/regulations-thailand-crypto-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T13:20:57"
-  },
-  {
    "id": 7370,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -194,24 +180,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T18:54:55"
-  },
-  {
-   "id": 7288,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Bitcoin Core Ubah Kebijakan Keamanan Seiring Kemudahan Deteksi Bug oleh AI",
-   "x": "Bitcoin Core menyesuaikan kebijakan keamanannya karena kecerdasan buatan (AI) mempermudah penemuan kerentanan. Kerahasiaan terhadap beberapa celah keamanan dinilai tidak lagi efektif.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T04:34:14"
+   "published_at": "2026-10-23T18:54:55"
   }
  ]
 }

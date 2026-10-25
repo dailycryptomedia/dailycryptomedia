@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,24 +40,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T18:39:02"
-  },
-  {
-   "id": 7237,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Uniswap luncurkan aggregator hooks di Ethereum, Base, dan Robinhood Chain",
-   "x": "Uniswap Labs merilis fitur aggregator hooks yang memungkinkan perutean perdagangan melalui likuiditas eksternal. Ini merupakan bagian dari pembaruan protokol Uniswap v4.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T13:55:03"
   },
   {
    "id": 7277,
@@ -102,18 +88,18 @@
    "published_at": "2026-10-23T03:20:00"
   },
   {
-   "id": 7246,
+   "id": 7304,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Demo vault privasi SIG butuh penanda tangan eksternal untuk rilis token Ethereum",
-   "x": "",
+   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
+   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/midnight-shielded-claim-redemption.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T14:00:42"
+   "published_at": "2026-10-23T04:10:18"
   },
   {
    "id": 7331,
@@ -128,20 +114,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T07:45:00"
-  },
-  {
-   "id": 7304,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
-   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T04:10:18"
   }
  ]
 }
