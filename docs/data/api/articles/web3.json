@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dogecoin-labs-luncurkan-house-of-doge",
    "img": "https://assets.beincrypto.com/img/Obb6R_Vx6DWSP4Y31-9yq2xoR7s=/smart/55e3c442950d4e5199ae47dc7282c068",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-22T14:21:56"
@@ -60,6 +60,20 @@
    "published_at": "2026-10-24T02:15:35"
   },
   {
+   "id": 7445,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pelanggaran Data Keystone Ungkap Informasi yang Seharusnya Dihapus",
+   "x": "Pelanggan dompet perangkat keras Keystone melaporkan data mereka terekspos akibat pelanggaran keamanan. Hal ini menimbulkan keraguan atas janji perusahaan untuk menghapus informasi pelanggan setelah periode tertentu.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_1.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-25T15:56:30"
+  },
+  {
    "id": 7389,
    "k": "web3",
    "cat": "Web3",
@@ -82,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fearless-wallet-recovery-hourglass.webp",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T11:20:15"
