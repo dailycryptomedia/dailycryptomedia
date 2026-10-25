@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,32 +18,32 @@
    "published_at": "2026-10-23T02:05:00"
   },
   {
-   "id": 7179,
+   "id": 7381,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Inggris Perlu Jalur Akses DeFi yang Teregulasi",
-   "x": "Regulasi aset kripto Inggris pada 2027 berisiko melarang perusahaan teregulasi menyediakan akses ke Decentralized Finance (DeFi). Hal ini menimbulkan kekhawatiran tentang masa depan adopsi DeFi di negara tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HHQJ6G4J091462661VC59G/hi-defi-revolution-during-a-global-crisis.png",
-   "a": "2 hari lalu",
+   "t": "Imbal Hasil Staking Ethereum Kalah dari Bunga Deposito, Investor Tetap Tertarik",
+   "x": "Imbal hasil staking Ethereum saat ini lebih rendah dibandingkan bunga deposito bank, namun investor tetap berinvestasi. Volatilitas harga aset kripto menjadi pertimbangan utama.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-european-banking-balance.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T12:00:00"
+   "published_at": "2026-10-24T07:00:27"
   },
   {
-   "id": 7211,
+   "id": 7365,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Solana Targetkan Finalitas Lebih Cepat, Wall Street Pangkas Modal yang Harus Bergerak",
-   "x": "Solana mengaktifkan pembaruan Alpenglow untuk mempercepat finalitas transaksi menjadi sekitar 150 milidetik. Pembaruan ini bertujuan meningkatkan efisiensi jaringan blockchain tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-targets-faster-finality-while-wall-street-cuts-the-cash-that-must-move",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-netting-barrier.webp",
-   "a": "2 hari lalu",
+   "t": "Initia hentikan blockchain setelah peretasan curi lebih dari $2,6 juta",
+   "x": "Jaringan blockchain Initia dihentikan sementara setelah terjadi peretasan yang menyebabkan pencetakan token tak sah dan pengalihan aset ke Ethereum. Insiden ini menyoroti pentingnya keamanan di jaringan blockchain.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T11:00:54"
+   "published_at": "2026-10-23T18:39:02"
   },
   {
    "id": 7237,
@@ -72,62 +72,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T02:00:00"
-  },
-  {
-   "id": 7365,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Initia hentikan blockchain setelah peretasan curi lebih dari $2,6 juta",
-   "x": "Jaringan blockchain Initia dihentikan sementara setelah terjadi peretasan yang menyebabkan pencetakan token tak sah dan pengalihan aset ke Ethereum. Insiden ini menyoroti pentingnya keamanan di jaringan blockchain.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T18:39:02"
-  },
-  {
-   "id": 7381,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Imbal Hasil Staking Ethereum Kalah dari Bunga Deposito, Investor Tetap Tertarik",
-   "x": "Imbal hasil staking Ethereum saat ini lebih rendah dibandingkan bunga deposito bank, namun investor tetap berinvestasi. Volatilitas harga aset kripto menjadi pertimbangan utama.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-european-banking-balance.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-24T07:00:27"
-  },
-  {
-   "id": 7189,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "CoinDCX Bantah Peretasan US$16 Juta, Lacak Wallet yang Terdeteksi ke Insiden 2025",
-   "x": "Co-founder CoinDCX, Sumit Gupta, awalnya membantah adanya pelanggaran baru di exchange aset kripto asal India tersebut. Seorang peneliti keamanan telah menandai sekitar US$15,99 juta dalam Tether (USDT) yang keluar dari…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coindcx-bantah-klaim-peretasan-16-juta",
-   "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-22T08:38:47"
-  },
-  {
-   "id": 7183,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Celah PHP menarik jutaan upaya eksploitasi, kata CEO Cloudflare",
-   "x": "Jaringan Cloudflare mendeteksi ribuan upaya eksploitasi celah keamanan pada PHP bahkan sebelum kerentanan tersebut diumumkan ke publik. Hal ini menunjukkan potensi risiko yang signifikan bagi pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HCAK0M3P221WDQM62JF33T/hi-why-address-poisoning-works-without-stealing-private-keys-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T09:06:02"
   },
   {
    "id": 7361,

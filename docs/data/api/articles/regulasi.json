@@ -1,8 +1,22 @@
 {
- "total": 17,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 7430,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengadilan Argentina Beri Putusan untuk Javier Milei dan Skandal LIBRA",
+   "x": "Seorang hakim federal Argentina telah membebaskan Presiden Javier Milei dalam kasus LIBRA. Putusan tersebut menyatakan tidak ada unsur penipuan yang relevan secara pidana dalam promosi dan kejatuhan meme coin itu. Meski…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/putusan-pengadilan-kasus-libra-javier-milei",
+   "img": "https://assets.beincrypto.com/img/WD10n8mPkETX_6rSafCxrWVEctQ=/smart/1f9a96666b3a42eab486e922dcd3900d",
+   "a": "40 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-25T12:35:44"
+  },
   {
    "id": 7414,
    "k": "regulasi",
@@ -12,24 +26,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/monero-cage-withdrawal-limit.webp",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T19:00:37"
-  },
-  {
-   "id": 7185,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Berapa Banyak Uang Anda yang Akan Anda Izinkan AI Kelola?",
-   "x": "Bayangkan kamu memberi asisten AI uang sebesar US$10 untuk mengumpulkan riset sebelum membuat keputusan investasi. AI tersebut bisa membeli akses data sambil bekerja. Namun, keputusan apakah AI juga boleh langsung…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/berapa-banyak-uang-yang-harus-anda-percayakan-kepada-ai-agent-untuk-dikelola",
-   "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-22T10:08:11"
   },
   {
    "id": 7219,
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/perusahaan-pemegang-473-juta-xrp-ungkap-risiko-penggunaan-xrp-yang-masih-terbatas",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T01:30:12"
@@ -88,20 +88,6 @@
    "published_at": "2026-10-22T18:59:25"
   },
   {
-   "id": 7333,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pengamanan kas Coinbase Irlandia kurang €5 juta sebelum perbaikan 2024",
-   "x": "Regulator menemukan kekurangan dalam pengamanan kas Coinbase Irlandia, meskipun tidak ada bukti kerugian konsumen. Denda sebesar €3,25 juta masih menunggu konfirmasi pengadilan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-irelands-cash-safeguards-fell-e5-million-short-before-2024-fix",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-ireland-cash-safeguards.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T11:50:07"
-  },
-  {
    "id": 7279,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -114,6 +100,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T00:48:04"
+  },
+  {
+   "id": 7333,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pengamanan kas Coinbase Irlandia kurang €5 juta sebelum perbaikan 2024",
+   "x": "Regulator menemukan kekurangan dalam pengamanan kas Coinbase Irlandia, meskipun tidak ada bukti kerugian konsumen. Denda sebesar €3,25 juta masih menunggu konfirmasi pengadilan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/coinbase-irelands-cash-safeguards-fell-e5-million-short-before-2024-fix",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-ireland-cash-safeguards.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T11:50:07"
   },
   {
    "id": 7364,
@@ -144,34 +144,6 @@
    "published_at": "2026-10-23T16:31:03"
   },
   {
-   "id": 7209,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Rancangan UU kripto Korea Selatan rampung, debat pajak memanas",
-   "x": "Korea Selatan mendekati finalisasi rancangan undang-undang aset digital yang mencakup lisensi bursa kripto dan aturan penerbitan stablecoin. Hal ini terjadi di tengah memanasnya perdebatan soal pajak aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.14.49.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T09:11:57"
-  },
-  {
-   "id": 7192,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CZ Bereaksi terhadap Duet AI Claude Baru dari Anthropic: “Sekarang, Itu Mengendalikan Kita”",
-   "x": "Claude Duet, agen AI baru dari Anthropic, bekerja di latar belakang dan meminta izin sebelum bertindak. Pendiri Binance, CZ, bercanda: “Sekarang, itu mengendalikan kita.”",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/claude-duet-ai-agent-cz-reaksi",
-   "img": "https://assets.beincrypto.com/img/QNUNoUPR6HnjQIj0G0OFGDdMIT8=/smart/b707d08c207e49a88f8a76ea797fcf05",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-22T07:23:20"
-  },
-  {
    "id": 7347,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -194,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T17:01:02"
