@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,32 +32,18 @@
    "published_at": "2026-10-24T15:45:44"
   },
   {
-   "id": 7254,
+   "id": 7369,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Meta Buat Saham Non-Voting untuk Danai Pembangunan AI",
-   "x": "Meta akan membagikan saham tanpa hak suara kepada pemegang saham untuk mendanai pengeluaran AI. Langkah ini memungkinkan perusahaan mengumpulkan ekuitas tanpa mengurangi kendali suara Mark Zuckerberg.",
+   "t": "Pengajuan SpaceX beri Elon Musk kata akhir merger Tesla yang dikatakannya tidak terlibat",
+   "x": "Pengajuan terbaru SpaceX mengonfirmasi bahwa setiap merger dengan Tesla memerlukan persetujuan pemegang saham pengendali. Hal ini memberikan Elon Musk kendali akhir atas potensi penggabungan kedua perusahaan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/meta-logo-decrypt-style-02-gID_7.jpg",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T19:06:02"
-  },
-  {
-   "id": 7249,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Underdog Gandeng Zerohash untuk Deposit Kripto di Pasar Prediksi",
-   "x": "Underdog akan meluncurkan opsi deposit aset digital bagi pengguna terpilih akhir tahun ini. Ini memungkinkan pengguna menyetor aset kripto kapan saja untuk bertransaksi di pasar prediksi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-1.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T17:24:49"
+   "published_at": "2026-10-23T19:36:02"
   },
   {
    "id": 7278,
@@ -86,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T15:50:06"
-  },
-  {
-   "id": 7369,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pengajuan SpaceX beri Elon Musk kata akhir merger Tesla yang dikatakannya tidak terlibat",
-   "x": "Pengajuan terbaru SpaceX mengonfirmasi bahwa setiap merger dengan Tesla memerlukan persetujuan pemegang saham pengendali. Hal ini memberikan Elon Musk kendali akhir atas potensi penggabungan kedua perusahaan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T19:36:02"
   },
   {
    "id": 7382,
