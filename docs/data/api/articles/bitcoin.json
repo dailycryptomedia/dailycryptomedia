@@ -1,22 +1,8 @@
 {
- "total": 42,
+ "total": 40,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 7264,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "DeepSeek diblokir di AS, hubungan kripto Asia-Swiss menguat",
-   "x": "DeepSeek dilarang beroperasi di lembaga pemerintah AS karena kekhawatiran spionase. Sementara itu, perusahaan Singapura menjadi penerbit ETF Bitcoin spot pertama di Eropa, dan Swiss menjalin kemitraan teknologi kripto dengan Vietnam.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-22T22:50:22"
-  },
   {
    "id": 7275,
    "k": "bitcoin",
@@ -40,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-ai-approval.webp",
-   "a": "43 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T21:30:07"
@@ -54,10 +40,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/hacker-bitget-belum-selesai-rp14-triliun-sudah-keluar-sejak-15-oktober",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T07:00:55"
+  },
+  {
+   "id": 7457,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "AI bantu selamatkan fork Ethereum, situs 'Steal My Bitcoin' diretas",
+   "x": "Peneliti Ethereum menggunakan AI untuk menyelamatkan proyek fork Glamsterdam, menunjukkan potensi pemanfaatan teknologi baru dalam mengatasi masalah blockchain. Insiden peretasan situs 'Steal My Bitcoin' menyoroti risiko keamanan yang terus ada di ekosistem aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-25T22:48:40"
   },
   {
    "id": 7356,
@@ -102,20 +102,6 @@
    "published_at": "2026-10-24T16:00:00"
   },
   {
-   "id": 7286,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin alami kerugian $635 juta saat Oktober kembali negatif",
-   "x": "Aliran dana keluar dari ETF Bitcoin di AS mencapai $635 juta pada bulan Oktober. Penarikan dana ini mengakhiri tren positif sebelumnya dan menunjukkan sentimen pasar yang berbalik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KQ8H85QR2DC93BFCNF4N1X/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T07:09:39"
-  },
-  {
    "id": 7395,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -130,18 +116,18 @@
    "published_at": "2026-10-24T15:47:22"
   },
   {
-   "id": 7270,
+   "id": 7410,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin alami jual-beli saat Wall Street kurangi volatilitas",
-   "x": "ETF Bitcoin spot AS mencatat aliran keluar dana selama tujuh dari delapan penurunan pasar besar, menunjukkan investor Wall Street belum sepenuhnya menopang harga saat pasar bergejolak. Laporan DWF Labs menyoroti tren ini sejak peluncuran ETF pada Januari 2024.",
+   "t": "Bitcoin Core Percepat Perbaikan Keamanan Seiring 44% Node Tak Didukung",
+   "x": "Bitcoin Core memperbarui kebijakan untuk mempercepat perbaikan kerentanan yang mudah ditemukan. Hal ini penting mengingat sebagian besar node jaringan masih menggunakan versi yang tidak didukung.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-wallstreet-outflows.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-core-security-fixes.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-22T22:30:38"
+   "published_at": "2026-10-24T14:45:04"
   },
   {
    "id": 7385,
@@ -156,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T08:00:15"
+  },
+  {
+   "id": 7286,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin alami kerugian $635 juta saat Oktober kembali negatif",
+   "x": "Aliran dana keluar dari ETF Bitcoin di AS mencapai $635 juta pada bulan Oktober. Penarikan dana ini mengakhiri tren positif sebelumnya dan menunjukkan sentimen pasar yang berbalik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KQ8H85QR2DC93BFCNF4N1X/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T07:09:39"
   },
   {
    "id": 7342,
@@ -200,20 +200,6 @@
    "published_at": "2026-10-24T15:11:24"
   },
   {
-   "id": 7348,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin cari dukungan di atas $81 ribu saat minyak mentah Brent capai level tertinggi sejak Maret",
-   "x": "Harga Bitcoin turun di bawah $81.000 seiring dengan penurunan pasar saham dan kenaikan harga minyak mentah Brent. Investor perlu memantau level support teknis Bitcoin di tengah volatilitas pasar komoditas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T15:39:17"
-  },
-  {
    "id": 7423,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -222,24 +208,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-80000-trump-serangan-iran",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "15 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T06:38:26"
   },
   {
-   "id": 7410,
+   "id": 7447,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Core Percepat Perbaikan Keamanan Seiring 44% Node Tak Didukung",
-   "x": "Bitcoin Core memperbarui kebijakan untuk mempercepat perbaikan kerentanan yang mudah ditemukan. Hal ini penting mengingat sebagian besar node jaringan masih menggunakan versi yang tidak didukung.",
+   "t": "Evernorth Gunakan Strategi Michael Saylor untuk Pendanaan XRP",
+   "x": "Perusahaan Evernorth mengumumkan rencana pendanaan senilai $80 juta menggunakan XRP, meniru strategi investasi Bitcoin yang dipopulerkan Michael Saylor. Langkah ini menunjukkan minat pada aset kripto alternatif.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-core-security-fixes.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/evernorth-xrp-share-machine.webp",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-24T14:45:04"
+   "published_at": "2026-10-25T14:30:16"
   },
   {
    "id": 7307,
@@ -256,6 +242,20 @@
    "published_at": "2026-10-23T06:00:42"
   },
   {
+   "id": 7348,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin cari dukungan di atas $81 ribu saat minyak mentah Brent capai level tertinggi sejak Maret",
+   "x": "Harga Bitcoin turun di bawah $81.000 seiring dengan penurunan pasar saham dan kenaikan harga minyak mentah Brent. Investor perlu memantau level support teknis Bitcoin di tengah volatilitas pasar komoditas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T15:39:17"
+  },
+  {
    "id": 7444,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -264,7 +264,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T14:01:03"
@@ -312,18 +312,18 @@
    "published_at": "2026-10-24T15:23:21"
   },
   {
-   "id": 7447,
+   "id": 7373,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Evernorth Gunakan Strategi Michael Saylor untuk Pendanaan XRP",
-   "x": "Perusahaan Evernorth mengumumkan rencana pendanaan senilai $80 juta menggunakan XRP, meniru strategi investasi Bitcoin yang dipopulerkan Michael Saylor. Langkah ini menunjukkan minat pada aset kripto alternatif.",
+   "t": "ETF Bitcoin lepas $635 juta saat BTC uji basis biaya $81.500",
+   "x": "Dana ETF Bitcoin spot di AS mencatat aliran dana keluar bersih sekitar $635 juta. Penarikan dana ini terjadi saat harga Bitcoin mendekati estimasi biaya pokok aset yang dipegang ETF.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/evernorth-xrp-share-machine.webp",
-   "a": "7 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-liquidity-drain.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T14:30:16"
+   "published_at": "2026-10-23T18:10:49"
   },
   {
    "id": 7437,
@@ -334,7 +334,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/misteri-prayer-wars-saat-bitcoin-jadi-medan-perang-doa-dan-troll",
    "img": null,
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T09:00:29"
@@ -376,24 +376,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/the-fed-pekan-expiry-opsi-bitcoin-dolar",
    "img": "https://assets.beincrypto.com/img/Lrjcb68c06SSXopM7RhW-7v1x9E=/smart/9b561530446441eda1ed33ebb481f7ab",
-   "a": "4 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T17:54:38"
   },
   {
-   "id": 7373,
+   "id": 7363,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin lepas $635 juta saat BTC uji basis biaya $81.500",
-   "x": "Dana ETF Bitcoin spot di AS mencatat aliran dana keluar bersih sekitar $635 juta. Penarikan dana ini terjadi saat harga Bitcoin mendekati estimasi biaya pokok aset yang dipegang ETF.",
+   "t": "Pemulihan Bitcoin $80.000 hadapi pertanyaan likuiditas, aliran Tether Binance berayun $14 miliar",
+   "x": "Pergerakan dana Tether senilai $14 miliar di bursa Binance memicu pertanyaan mengenai likuiditas Bitcoin saat mencoba pulih ke level $80.000. Investor perlu mencermati dampaknya pada stabilitas pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-etf-liquidity-drain.webp",
+   "url": "https://cryptoslate.com/bitcoins-80000-recovery-faces-liquidity-questions-as-binances-tether-flows-swing-14-billion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-token-flow-imbalance.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T18:10:49"
+   "published_at": "2026-10-23T14:00:15"
   },
   {
    "id": 7312,
@@ -452,18 +452,18 @@
    "published_at": "2026-10-23T11:38:53"
   },
   {
-   "id": 7363,
+   "id": 7436,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemulihan Bitcoin $80.000 hadapi pertanyaan likuiditas, aliran Tether Binance berayun $14 miliar",
-   "x": "Pergerakan dana Tether senilai $14 miliar di bursa Binance memicu pertanyaan mengenai likuiditas Bitcoin saat mencoba pulih ke level $80.000. Investor perlu mencermati dampaknya pada stabilitas pasar.",
+   "t": "Kraken ingin jadi bank Anda, tapi siapa lindungi uang Anda?",
+   "x": "Kraken melalui perusahaan induknya berencana mengakuisisi bank di Lithuania untuk memperluas layanan keuangan di luar aset kripto. Langkah ini menimbulkan pertanyaan tentang perlindungan dana nasabah.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-80000-recovery-faces-liquidity-questions-as-binances-tether-flows-swing-14-billion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tether-token-flow-imbalance.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-deposit-protection.webp",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T14:00:15"
+   "published_at": "2026-10-25T08:00:04"
   },
   {
    "id": 7323,
@@ -488,24 +488,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/zcash-etf-aliran-masuk-terbesar-sejak-september",
    "img": "https://assets.beincrypto.com/img/RNyzI5S1Q77igskV9cQHskwFUuY=/smart/794f505582034323a39a33ce4ef7f9e5",
-   "a": "11 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T11:08:42"
-  },
-  {
-   "id": 7436,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kraken ingin jadi bank Anda, tapi siapa lindungi uang Anda?",
-   "x": "Kraken melalui perusahaan induknya berencana mengakuisisi bank di Lithuania untuk memperluas layanan keuangan di luar aset kripto. Langkah ini menimbulkan pertanyaan tentang perlindungan dana nasabah.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-deposit-protection.webp",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-25T08:00:04"
   },
   {
    "id": 7405,
@@ -550,20 +536,6 @@
    "published_at": "2026-10-23T12:03:53"
   },
   {
-   "id": 7267,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Claude AI Pecahkan Misteri Bitcoin Satoshi yang Sudah 17 Tahun",
-   "x": "Selama 17 tahun, sebuah misteri kecil menyelimuti penciptaan Bitcoin. Satoshi Nakamoto merilis kode asli aset kripto ini, namun tak ada satu pun yang berhasil membuat ulang program Windows persis seperti yang ia…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ai-memecahkan-misteri-bitcoin-satoshi-17-tahun",
-   "img": "https://assets.beincrypto.com/img/6Aky9hco5mXVAeonKfHhTt6WE5M=/smart/53eddc62add2412ba2e0314f1905d6ed",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-22T21:08:03"
-  },
-  {
    "id": 7326,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -586,7 +558,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-kripto-untuk-dipantau-pekan-terakhir-oktober-2026",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "8 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T13:57:54"
