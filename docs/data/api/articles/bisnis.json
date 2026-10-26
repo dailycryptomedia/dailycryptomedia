@@ -1,8 +1,22 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 7569,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Trader kripto nilai Anthropic $1,9 triliun seiring investor peringatkan IPO bisa jadi puncak gelembung AI",
+   "x": "Pengembang Claude, Anthropic, mengajukan IPO ke Nasdaq dengan profit kuartalan. Valuasi pasar kripto terhadap perusahaan ini mendekati $2 triliun, memicu kekhawatiran investor akan potensi puncak gelembung AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/crypto-traders-value-anthropic-at-1-9-trillion-as-investor-warns-its-ipo-could-mark-the-top-of-the-ai-bubble",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/anthropic-ipo-market-chasm.webp",
+   "a": "29 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T22:30:23"
+  },
   {
    "id": 7397,
    "k": "bisnis",
@@ -16,6 +30,48 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-24T14:49:09"
+  },
+  {
+   "id": 7557,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Perusahaan AI Anthropic Umumkan IPO, Diperkirakan November",
+   "x": "Perusahaan kecerdasan buatan Anthropic mengumumkan rencana penawaran umum perdana (IPO) yang diperkirakan berlangsung November. Laporan keuangan menunjukkan pendapatan lebih dari $16 miliar namun juga kerugian bersih $80 miliar di paruh pertama 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T18:42:41"
+  },
+  {
+   "id": 7549,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic ajukan pendaftaran IPO, berencana listing di Nasdaq dengan ticker 'ANT'",
+   "x": "Perusahaan AI Anthropic telah mengajukan pendaftaran IPO dan berencana listing di bursa saham Nasdaq. Laporan keuangan menunjukkan pendapatan yang meningkat signifikan dari tahun sebelumnya.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T13:50:22"
+  },
+  {
+   "id": 7520,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Raksasa AI Anthropic ajukan IPO besar-besaran",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ba780857f001e57cd12781be763097e729621894-4790x3193.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T13:22:09"
   },
   {
    "id": 7409,
@@ -32,18 +88,18 @@
    "published_at": "2026-10-24T15:45:44"
   },
   {
-   "id": 7369,
+   "id": 7466,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Pengajuan SpaceX beri Elon Musk kata akhir merger Tesla yang dikatakannya tidak terlibat",
-   "x": "Pengajuan terbaru SpaceX mengonfirmasi bahwa setiap merger dengan Tesla memerlukan persetujuan pemegang saham pengendali. Hal ini memberikan Elon Musk kendali akhir atas potensi penggabungan kedua perusahaan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png",
-   "a": "2 hari lalu",
+   "t": "Pendapatan Big Tech Jadi Ujian Sulit karena Investor Menghukum Baik Pemangkasan maupun Kenaikan Capex",
+   "x": "Investor menghukum Big Tech karena menaikkan dan memangkas belanja modal AI. Lihat apa yang dikatakan Matus dari MetLife terkait ekspektasi dari laporan keuangan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pendapatan-big-tech-tanpa-ujian-menang",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "19 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T19:36:02"
+   "translated": false,
+   "published_at": "2026-10-26T03:02:03"
   },
   {
    "id": 7514,
@@ -54,38 +110,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T13:12:41"
-  },
-  {
-   "id": 7520,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Raksasa AI Anthropic ajukan IPO besar-besaran",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ba780857f001e57cd12781be763097e729621894-4790x3193.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T13:22:09"
-  },
-  {
-   "id": 7466,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pendapatan Big Tech Jadi Ujian Sulit karena Investor Menghukum Baik Pemangkasan maupun Kenaikan Capex",
-   "x": "Investor menghukum Big Tech karena menaikkan dan memangkas belanja modal AI. Lihat apa yang dikatakan Matus dari MetLife terkait ekspektasi dari laporan keuangan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pendapatan-big-tech-tanpa-ujian-menang",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-26T03:02:03"
   },
   {
    "id": 7382,
@@ -102,20 +130,6 @@
    "published_at": "2026-10-24T06:38:41"
   },
   {
-   "id": 7549,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Anthropic ajukan pendaftaran IPO, berencana listing di Nasdaq dengan ticker 'ANT'",
-   "x": "Perusahaan AI Anthropic telah mengajukan pendaftaran IPO dan berencana listing di bursa saham Nasdaq. Laporan keuangan menunjukkan pendapatan yang meningkat signifikan dari tahun sebelumnya.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T13:50:22"
-  },
-  {
    "id": 7522,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -124,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/staf-musk-doge-meretas-anthropic",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "40 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T18:06:25"
@@ -138,7 +152,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-ipo-filing-risiko-cloud-265-miliar",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T15:51:51"

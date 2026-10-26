@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-10-24T10:12:15"
   },
   {
-   "id": 7435,
+   "id": 7570,
    "k": "web3",
    "cat": "Web3",
-   "t": "Peretasan dompet Polkadot 20 bulan ungkap sisi gelap penarikan kripto cepat",
-   "x": "Pengurangan waktu penarikan dana di Polkadot menyisakan sedikit waktu untuk koordinasi bantuan sebelum dana yang terpapar dapat ditarik. Hal ini menyoroti risiko keamanan yang muncul dari efisiensi transaksi.",
+   "t": "August perbaiki kebocoran private key kritis di wallet kripto Vultisig",
+   "x": "Perusahaan keamanan siber August menemukan dan memperbaiki kerentanan kritis pada wallet kripto Vultisig yang dapat membocorkan private key. Kerentanan ini memungkinkan penyerang memulihkan kunci melalui pesan ECDSA yang berbahaya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fearless-wallet-recovery-hourglass.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/august-updates-block-critical-private-key-leak-in-crypto-wallet-vultisig",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/vultisig-wallet-lock-failure.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T11:20:15"
+   "published_at": "2026-10-26T21:10:35"
   },
   {
    "id": 7470,
@@ -40,7 +40,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T05:39:17"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T03:21:26"
@@ -96,24 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-wallet-phishing-foundation-alamat-rumah",
    "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T07:58:25"
   },
   {
-   "id": 7505,
+   "id": 7435,
    "k": "web3",
    "cat": "Web3",
-   "t": "FCA usulkan pemeriksaan dompet pribadi dalam panduan kripto",
-   "x": "Regulator Inggris mengusulkan pemeriksaan dompet pribadi sebagai praktik yang baik untuk aset digital. Ini menunjukkan upaya global untuk meningkatkan pengawasan dan kepatuhan dalam ekosistem kripto.",
+   "t": "Peretasan dompet Polkadot 20 bulan ungkap sisi gelap penarikan kripto cepat",
+   "x": "Pengurangan waktu penarikan dana di Polkadot menyisakan sedikit waktu untuk koordinasi bantuan sebelum dana yang terpapar dapat ditarik. Hal ini menyoroti risiko keamanan yang muncul dari efisiensi transaksi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fca-proposes-personal-wallet-checks-in-nonbinding-crypto-guidance",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fca-personal-wallet-review.webp",
-   "a": "10 jam lalu",
+   "url": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fearless-wallet-recovery-hourglass.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T08:00:25"
+   "published_at": "2026-10-25T11:20:15"
   },
   {
    "id": 7378,
@@ -138,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T02:30:16"
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T02:24:04"
@@ -166,10 +166,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/top-3-laporan-pendapatan-big-tech-pekan-terakhir-oktober",
    "img": "https://assets.beincrypto.com/img/TzJt3OlfTsgI_FyzBB-mixZfdjU=/smart/4f393c66f13d4ad7940b19e962bb8c74",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T01:09:54"
+  },
+  {
+   "id": 7505,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "FCA usulkan pemeriksaan dompet pribadi dalam panduan kripto",
+   "x": "Regulator Inggris mengusulkan pemeriksaan dompet pribadi sebagai praktik yang baik untuk aset digital. Ini menunjukkan upaya global untuk meningkatkan pengawasan dan kepatuhan dalam ekosistem kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fca-proposes-personal-wallet-checks-in-nonbinding-crypto-guidance",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fca-personal-wallet-review.webp",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T08:00:25"
   }
  ]
 }

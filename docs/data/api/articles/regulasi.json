@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-ungkap-potensi-tokenisasi-aset-indonesia-capai-rp260-triliun",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T04:30:29"
@@ -40,24 +40,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/monero-cage-withdrawal-limit.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-24T19:00:37"
-  },
-  {
-   "id": 7364,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "IRS rencanakan penalti lebih rendah untuk keterbukaan pajak, termasuk kripto",
-   "x": "Otoritas pajak AS (IRS) berencana melonggarkan denda bagi wajib pajak yang melaporkan kewajiban pajak tertunggak. Ini bisa mempermudah investor kripto yang ingin merapikan urusan pajaknya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T20:54:17"
+   "published_at": "2026-10-24T19:00:37"
   },
   {
    "id": 7412,
@@ -74,6 +60,20 @@
    "published_at": "2026-10-24T17:01:02"
   },
   {
+   "id": 7510,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Anggota parlemen Korea Selatan pertimbangkan tunda pajak kripto hingga 2029",
+   "x": "Pemerintah Korea Selatan dilaporkan sedang mempertimbangkan penundaan kebijakan pajak penghasilan aset digital yang seharusnya berlaku sejak 2020. Kekhawatiran terkait penerimaan data dari pejabat AS menjadi alasan utama.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T16:18:09"
+  },
+  {
    "id": 7501,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -82,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/korea.png",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T10:06:02"
-  },
-  {
-   "id": 7518,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Korea Selatan pertimbangkan tunda pajak keuntungan kripto hingga 2029",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T14:51:07"
   },
   {
    "id": 7422,
@@ -124,38 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-repo-capacity-vise.webp",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T16:00:30"
   },
   {
-   "id": 7510,
+   "id": 7564,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Anggota parlemen Korea Selatan pertimbangkan tunda pajak kripto hingga 2029",
-   "x": "Pemerintah Korea Selatan dilaporkan sedang mempertimbangkan penundaan kebijakan pajak penghasilan aset digital yang seharusnya berlaku sejak 2020. Kekhawatiran terkait penerimaan data dari pejabat AS menjadi alasan utama.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg",
+   "t": "NBA dukung CFTC soal pasar prediksi, sementara NFL melawannya di pengadilan",
+   "x": "NBA sepakat dengan Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengenai pasar prediksi olahraga, berbeda dengan NFL yang menempuh jalur hukum. Kesepakatan ini bertujuan mencegah perdagangan orang dalam seiring migrasi taruhan olahraga ke platform teregulasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/nba-basketball-sports-betting-gID_7.jpg",
    "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T16:18:09"
-  },
-  {
-   "id": 7370,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC soroti 'kecerdasan super' AI dan tokenisasi sebagai risiko pasar sistemik",
-   "x": "Komisi Sekuritas dan Bursa Amerika Serikat (SEC) mengidentifikasi potensi risiko sistemik pada pasar keuangan akibat kemajuan pesat kecerdasan buatan (AI) dan tokenisasi aset. Fokus ini penting bagi pelaku pasar aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T18:54:55"
+   "published_at": "2026-10-26T20:36:03"
   }
  ]
 }
