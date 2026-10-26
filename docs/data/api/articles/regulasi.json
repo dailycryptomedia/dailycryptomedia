@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-ungkap-potensi-tokenisasi-aset-indonesia-capai-rp260-triliun",
    "img": null,
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T04:30:29"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/putusan-pengadilan-kasus-libra-javier-milei",
    "img": "https://assets.beincrypto.com/img/WD10n8mPkETX_6rSafCxrWVEctQ=/smart/1f9a96666b3a42eab486e922dcd3900d",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T12:35:44"
@@ -60,18 +60,18 @@
    "published_at": "2026-10-23T20:54:17"
   },
   {
-   "id": 7354,
+   "id": 7412,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bitcoin Core ubah kebijakan keamanan hadapi AI temukan bug",
-   "x": "Pengembang Bitcoin Core akan segera merilis perbaikan untuk kerentanan yang mudah ditemukan, mengabaikan periode penundaan. Perubahan ini mencerminkan adaptasi terhadap ancaman keamanan yang semakin canggih.",
+   "t": "Google ubah kebijakan privasi untuk gunakan data Gmail dan Photos demi iklan",
+   "x": "Google memperbarui kebijakan privasinya yang mengizinkan penggunaan data dari Gmail, Drive, dan Photos untuk personalisasi iklan. Perubahan ini menimbulkan kekhawatiran baru tentang privasi data pengguna.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
+   "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T17:16:03"
+   "published_at": "2026-10-24T17:01:02"
   },
   {
    "id": 7501,
@@ -82,10 +82,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/korea.png",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T10:06:02"
+  },
+  {
+   "id": 7518,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korea Selatan pertimbangkan tunda pajak keuntungan kripto hingga 2029",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T14:51:07"
   },
   {
    "id": 7422,
@@ -102,60 +116,32 @@
    "published_at": "2026-10-25T01:30:12"
   },
   {
-   "id": 7333,
+   "id": 7538,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pengamanan kas Coinbase Irlandia kurang €5 juta sebelum perbaikan 2024",
-   "x": "Regulator menemukan kekurangan dalam pengamanan kas Coinbase Irlandia, meskipun tidak ada bukti kerugian konsumen. Denda sebesar €3,25 juta masih menunggu konfirmasi pengadilan.",
+   "t": "Kepemilikan bersih dealer obligasi negara capai rekor dua tahun",
+   "x": "Kapasitas pendanaan dealer menjadi sorotan menjelang akhir Oktober, sementara dampak pada Bitcoin masih bersifat kondisional. Situasi ini mengindikasikan adanya tekanan likuiditas di pasar keuangan tradisional.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinbase-irelands-cash-safeguards-fell-e5-million-short-before-2024-fix",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-ireland-cash-safeguards.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-repo-capacity-vise.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T11:50:07"
+   "published_at": "2026-10-26T16:00:30"
   },
   {
-   "id": 7347,
+   "id": 7510,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "SEC anggap tokenisasi berisiko tinggi dalam pemeriksaan pasar 2027",
-   "x": "Regulator AS mengidentifikasi tokenisasi sebagai area berisiko tinggi untuk pengawasan pasar di masa depan. Fokus ini menyoroti potensi tantangan dalam adopsi aset digital yang mewakili aset dunia nyata.",
+   "t": "Anggota parlemen Korea Selatan pertimbangkan tunda pajak kripto hingga 2029",
+   "x": "Pemerintah Korea Selatan dilaporkan sedang mempertimbangkan penundaan kebijakan pajak penghasilan aset digital yang seharusnya berlaku sejak 2020. Kekhawatiran terkait penerimaan data dari pejabat AS menjadi alasan utama.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T16:08:40"
-  },
-  {
-   "id": 7355,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Penipu kripto gunakan kelompok doa harus bayar $1,3 miliar",
-   "x": "Pendiri NovaTech diperintahkan membayar ganti rugi sekitar $1,37 miliar atas penipuan aset digital yang menyasar kelompok doa. Tindakan hukum ini menegaskan upaya penegakan terhadap pelaku kejahatan kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T16:31:03"
-  },
-  {
-   "id": 7412,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Google ubah kebijakan privasi untuk gunakan data Gmail dan Photos demi iklan",
-   "x": "Google memperbarui kebijakan privasinya yang mengizinkan penggunaan data dari Gmail, Drive, dan Photos untuk personalisasi iklan. Perubahan ini menimbulkan kekhawatiran baru tentang privasi data pengguna.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-24T17:01:02"
+   "published_at": "2026-10-26T16:18:09"
   },
   {
    "id": 7370,

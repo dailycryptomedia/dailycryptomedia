@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-american-express-pemutusan-kerja-ai",
    "img": "https://assets.beincrypto.com/img/pon3dfo6AVm_sR5b6pPjQgH7ZKc=/smart/2107838830124092abb733c06131136b",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-24T14:49:09"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/circle-usd1-reserve-dispute.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T15:45:44"
@@ -46,6 +46,34 @@
    "published_at": "2026-10-23T19:36:02"
   },
   {
+   "id": 7514,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Pasar prediksi HOOD akan tambah $1,7 miliar ke pendapatan, lampaui kripto pada 2028: Bernstein",
+   "x": "Analis Bernstein menaikkan estimasi pendapatan Robinhood hingga 2028, memproyeksikan pasar prediksinya akan melampaui kontribusi dari aset kripto. Ini menandakan potensi diversifikasi pendapatan platform.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T13:12:41"
+  },
+  {
+   "id": 7520,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Raksasa AI Anthropic ajukan IPO besar-besaran",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ba780857f001e57cd12781be763097e729621894-4790x3193.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T13:22:09"
+  },
+  {
    "id": 7466,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -54,24 +82,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pendapatan-big-tech-tanpa-ujian-menang",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T03:02:03"
-  },
-  {
-   "id": 7360,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Opsi pendanaan Evernorth $132 juta bisa beli XRP lebih banyak",
-   "x": "",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/evernorths-132-million-funding-option-could-buy-more-xrp-while-reducing-xrp-per-share",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/evernorth-xrp-allocation-cover.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T15:50:06"
   },
   {
    "id": 7382,
@@ -86,6 +100,48 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T06:38:41"
+  },
+  {
+   "id": 7549,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic ajukan pendaftaran IPO, berencana listing di Nasdaq dengan ticker 'ANT'",
+   "x": "Perusahaan AI Anthropic telah mengajukan pendaftaran IPO dan berencana listing di bursa saham Nasdaq. Laporan keuangan menunjukkan pendapatan yang meningkat signifikan dari tahun sebelumnya.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T13:50:22"
+  },
+  {
+   "id": 7522,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Staf DOGE Elon Musk: Dari Pengangguran ke Meretas Anthropic",
+   "x": "Mantan staf DOGE Elon Musk menggunakan agen AI untuk menyusup ke Anthropic dalam 12 jam, pada hari perusahaan tersebut mengajukan IPO.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/staf-musk-doge-meretas-anthropic",
+   "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
+   "a": "40 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-26T18:06:25"
+  },
+  {
+   "id": 7524,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Pengajuan IPO Publik Anthropic Tunjukkan Risiko Cloud Sebesar US$266 Miliar",
+   "x": "Dokumen IPO Anthropic menunjukkan tagihan komputasi sebesar $265,6 miliar yang harus dibayar bahkan jika permintaan AI melambat. Berikut pihak-pihak yang menjadi krediturnya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/anthropic-ipo-filing-risiko-cloud-265-miliar",
+   "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-26T15:51:51"
   }
  ]
 }
