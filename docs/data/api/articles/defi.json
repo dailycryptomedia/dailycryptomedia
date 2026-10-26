@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-european-banking-balance.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T07:00:27"
+  },
+  {
+   "id": 7488,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Vitalik Buterin Dukung Model AI yang Sengaja Kurangi Kemampuan Hacking",
+   "x": "Co-founder Ethereum Vitalik Buterin mendukung pembatasan AI untuk peretasan dibandingkan pemeriksaan pengguna, dengan mengutip Kimi K3.1 Pro dari Moonshot dan memberikan peringatan soal KYC pada AI.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/vitalik-buterin-ai-kimi-hacking-batas",
+   "img": "https://assets.beincrypto.com/img/PAbDjXkr7ACueP5Vr6xecMJ6bQg=/smart/ba5599c2bc524df29c08c8e1442ff80c",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-26T07:33:28"
   },
   {
    "id": 7365,
@@ -30,20 +44,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-23T18:39:02"
-  },
-  {
-   "id": 7295,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Apakah S&P 500 Tidak Lagi Mewakili Ekonomi? Nick Colas dari DataTrek Berpendapat",
-   "x": "Nick Colas dari DataTrek mengatakan bahwa kekhawatiran pendanaan AI meredakan imbal hasil dan bahwa sektor teknologi serta teknologi besar memegang 50% dari S&P 500.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/nick-colas-konsentrasi-teknologi-sp-500",
-   "img": "https://assets.beincrypto.com/img/PY1A99GJf_yEv8BujHNTT3DS_9o=/smart/a378c1f29da6435e817779fa5356af0e",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-23T03:20:00"
   },
   {
    "id": 7361,
@@ -68,24 +68,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sk-hynix-hentikan-tinjauan-ipo-solidigm",
    "img": "https://assets.beincrypto.com/img/UAv0OkvqjQF1rXIMiMmHlWo46S0=/smart/2dcb42bf99444cbc8e0debfdfd30acc2",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T07:45:00"
-  },
-  {
-   "id": 7304,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
-   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T04:10:18"
   }
  ]
 }
