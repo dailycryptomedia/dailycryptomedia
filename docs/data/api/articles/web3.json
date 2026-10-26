@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,18 +32,18 @@
    "published_at": "2026-10-23T06:30:31"
   },
   {
-   "id": 7378,
+   "id": 7470,
    "k": "web3",
    "cat": "Web3",
-   "t": "Franklin Templeton tambahkan $150 juta saham dana ke XRP Ledger",
+   "t": "Bursa kripto terbesar India rugikan $16 juta akibat kegagalan proses internal",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-24T04:45:43"
+   "published_at": "2026-10-26T05:39:17"
   },
   {
    "id": 7380,
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/justin-sun-jadi-whale-pepe-transfer-72-triliun-token-dari-poloniex-jadi-sorotan",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-24T02:15:35"
@@ -68,10 +68,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_1.jpg",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T15:56:30"
+  },
+  {
+   "id": 7462,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hong Kong sebut perusahaan terdaftar Nasdaq Solana sebagai perusahaan strategis",
+   "x": "Pemerintah Hong Kong menunjuk perusahaan yang terafiliasi dengan Solana sebagai perusahaan strategis. Langkah ini sejalan dengan rencana perusahaan untuk mendirikan operasi validator Solana di wilayah tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T03:21:26"
+  },
+  {
+   "id": 7468,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "3 Laporan Keuangan Big Tech yang Perlu Diperhatikan saat Tagihan AI Terus Meningkat",
+   "x": "Laporan keuangan big tech hadir minggu ini, dengan Microsoft, Alphabet, dan Amazon akan merilis laporan kuartalan mereka. Pada kuartal terbaru mereka, Google Cloud tumbuh 82%, Azure naik 42%, dan Amazon Web Services…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/top-3-laporan-pendapatan-big-tech-pekan-terakhir-oktober",
+   "img": "https://assets.beincrypto.com/img/TzJt3OlfTsgI_FyzBB-mixZfdjU=/smart/4f393c66f13d4ad7940b19e962bb8c74",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-26T01:09:54"
   },
   {
    "id": 7435,
@@ -82,10 +110,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fearless-wallet-recovery-hourglass.webp",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T11:20:15"
+  },
+  {
+   "id": 7378,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Franklin Templeton tambahkan $150 juta saham dana ke XRP Ledger",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-24T04:45:43"
+  },
+  {
+   "id": 7478,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CoinDCX akui kehilangan 15,99 juta USDT, sistem wallet lama gagal",
+   "x": "Bursa kripto CoinDCX mengumumkan kehilangan 15,99 juta USDT akibat kegagalan sistem dompet lama. Perusahaan sedang menyelidiki aliran dana yang hilang tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T02:30:16"
+  },
+  {
+   "id": 7463,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pelanggaran situs Keystone ungkap alamat pembeli dompet perangkat keras",
+   "x": "Data pengiriman pembeli dompet perangkat keras Keystone bocor akibat peretasan situs. Informasi ini berpotensi membuat pengguna menjadi sasaran penipuan dan serangan fisik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T02:24:04"
   }
  ]
 }

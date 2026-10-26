@@ -1,22 +1,8 @@
 {
- "total": 8,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 7276,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tom Lee Sebut Imbal Hasil di Bawah 5% Berarti Reli Jual AI Hampir Selesai",
-   "x": "Tom Lee mengatakan penurunan suku bunga dan posisi short teknologi yang padat menandakan aksi jual AI akan segera berakhir. Berikut yang ia prediksi selanjutnya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tom-lee-ai-selloff-mendekati-akhir",
-   "img": "https://assets.beincrypto.com/img/HgeERW6_YQXh1sJYAJa8T4oUjdg=/smart/3a1e069591c1420da4209f93b2ea941a",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-23T02:05:00"
-  },
   {
    "id": 7381,
    "k": "defi",
@@ -46,18 +32,18 @@
    "published_at": "2026-10-23T18:39:02"
   },
   {
-   "id": 7277,
+   "id": 7295,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Grayscale Ungkap 10 Aset Kripto Teratas untuk Imbal Hasil dan Profit",
-   "x": "Grayscale merilis daftar 10 aset kripto teratas berdasarkan imbal hasil holder token dan imbal hasil laba yang telah disesuaikan. HYPE memimpin daftar pertama dengan 8,0%, sedangkan CAKE menempati urutan teratas daftar…",
+   "t": "Apakah S&P 500 Tidak Lagi Mewakili Ekonomi? Nick Colas dari DataTrek Berpendapat",
+   "x": "Nick Colas dari DataTrek mengatakan bahwa kekhawatiran pendanaan AI meredakan imbal hasil dan bahwa sektor teknologi serta teknologi besar memegang 50% dari S&P 500.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/grayscale-top-10-aset-kripto-earnings-yield",
-   "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/nick-colas-konsentrasi-teknologi-sp-500",
+   "img": "https://assets.beincrypto.com/img/PY1A99GJf_yEv8BujHNTT3DS_9o=/smart/a378c1f29da6435e817779fa5356af0e",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-23T02:00:00"
+   "published_at": "2026-10-23T03:20:00"
   },
   {
    "id": 7361,
@@ -74,34 +60,6 @@
    "published_at": "2026-10-23T15:00:23"
   },
   {
-   "id": 7295,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Apakah S&P 500 Tidak Lagi Mewakili Ekonomi? Nick Colas dari DataTrek Berpendapat",
-   "x": "Nick Colas dari DataTrek mengatakan bahwa kekhawatiran pendanaan AI meredakan imbal hasil dan bahwa sektor teknologi serta teknologi besar memegang 50% dari S&P 500.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/nick-colas-konsentrasi-teknologi-sp-500",
-   "img": "https://assets.beincrypto.com/img/PY1A99GJf_yEv8BujHNTT3DS_9o=/smart/a378c1f29da6435e817779fa5356af0e",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-23T03:20:00"
-  },
-  {
-   "id": 7304,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
-   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T04:10:18"
-  },
-  {
    "id": 7331,
    "k": "defi",
    "cat": "DeFi",
@@ -114,6 +72,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-23T07:45:00"
+  },
+  {
+   "id": 7304,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Proposal NEAR pangkas imbal hasil 36%, memecah validator jaringan",
+   "x": "Sebuah proposal di jaringan NEAR mengusulkan pemotongan imbal hasil staking sebesar 36%. Usulan ini memicu perdebatan di antara para validator jaringan mengenai dampaknya terhadap ekosistem.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/near-token-supply-cut.webp",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T04:10:18"
   }
  ]
 }

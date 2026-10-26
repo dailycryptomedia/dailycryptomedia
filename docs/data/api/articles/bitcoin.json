@@ -1,21 +1,21 @@
 {
- "total": 40,
+ "total": 44,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 7275,
+   "id": 7395,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Hadapi 2 Kenaikan Suku Bunga Desember saat Inflasi Jepang Lampaui Target BOJ",
-   "x": "Inflasi inti di Jepang naik melampaui target 2% Bank of Japan (BOJ) pada bulan September untuk pertama kalinya dalam sembilan bulan. Hal ini semakin menguatkan potensi kenaikan suku bunga pada bulan Desember, bersamaan…",
+   "t": "Bitcoin Kehilangan US$80.000 saat US$200 Juta Leverage Terlikuidasi dalam Satu Jam",
+   "x": "Bitcoin (BTC) turun di bawah US$80.000 pada hari Sabtu karena lebih dari US$200 juta posisi aset kripto terlikuidasi dalam satu jam. Trader yang bertaruh harga akan naik mencatatkan kerugian US$191,33 juta dari jumlah…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/inflasi-jepang-boj-kenaikan-suku-bunga-bitcoin",
-   "img": "https://assets.beincrypto.com/img/92r2m3tWxXd7GM7xUyUH0EHcxW4=/smart/d2ff76f5d22e4d21bc136ecfb2dab83d",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/bitcoin-di-bawah-80000-likuidasi-kripto",
+   "img": "https://assets.beincrypto.com/img/na7YAtbzpI1K5iw3FoOs_g6PvKM=/smart/bc3114cf22df43ff9cbfc6e9ea25a64e",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-23T02:08:40"
+   "published_at": "2026-10-24T15:47:22"
   },
   {
    "id": 7453,
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-ai-approval.webp",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T21:30:07"
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/hacker-bitget-belum-selesai-rp14-triliun-sudah-keluar-sejak-15-oktober",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T07:00:55"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T22:48:40"
@@ -74,46 +74,46 @@
    "published_at": "2026-10-23T15:50:41"
   },
   {
-   "id": 7282,
+   "id": 7471,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Anjlok di Bawah US$81.500 Seiring Penjualan Saham Teknologi",
-   "x": "Penjualan saham teknologi di Wall Street meluas ke bursa Asia, menekan harga Bitcoin. Pasar kripto mengikuti tren pelemahan pasar saham global.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T02:21:30"
-  },
-  {
-   "id": 7399,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Strategy dan Strive Hadapi Dilema Pembelian Bitcoin vs Dividen Saham Preferen",
+   "t": "Bug dompet Bitcoin izinkan server jahat curi dana saat pengguna coba percepat pembayaran",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dc1a0236f5c1c10010c2b1e42f39c41736508170-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "26 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T05:15:20"
+  },
+  {
+   "id": 7413,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Posisi long kripto rugi $404 juta dalam empat jam saat bitcoin sempat di bawah $80.000",
+   "x": "Investor yang memegang posisi beli aset kripto mengalami kerugian signifikan akibat penurunan harga Bitcoin. Data menunjukkan adanya aliran dana keluar dari ETF Bitcoin spot, menandakan sentimen pasar yang berbalik.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220516-News-Market-Decline-3.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-24T16:00:00"
+   "published_at": "2026-10-24T17:44:36"
   },
   {
-   "id": 7395,
+   "id": 7464,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Kehilangan US$80.000 saat US$200 Juta Leverage Terlikuidasi dalam Satu Jam",
-   "x": "Bitcoin (BTC) turun di bawah US$80.000 pada hari Sabtu karena lebih dari US$200 juta posisi aset kripto terlikuidasi dalam satu jam. Trader yang bertaruh harga akan naik mencatatkan kerugian US$191,33 juta dari jumlah…",
+   "t": "Dari Akar Kripto ke Penjualan AI: Mengapa CoreWeave Sedang Tertekan",
+   "x": "Saham CoreWeave telah kehilangan lebih dari sepertiga nilainya pada bulan Oktober karena kekhawatiran utang. Mantan Bitcoin miner Ethereum tersebut kini menguji pendanaan sektor AI.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-di-bawah-80000-likuidasi-kripto",
-   "img": "https://assets.beincrypto.com/img/na7YAtbzpI1K5iw3FoOs_g6PvKM=/smart/bc3114cf22df43ff9cbfc6e9ea25a64e",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/coreweave-ai-selloff-asal-usul-kripto-utang",
+   "img": "https://assets.beincrypto.com/img/CD8lBYQ1L6_FSy1bn7NVvGuw2IE=/smart/9f3c9c134755406484d4ad55da8dfa39",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-24T15:47:22"
+   "published_at": "2026-10-26T04:30:00"
   },
   {
    "id": 7410,
@@ -172,32 +172,32 @@
    "published_at": "2026-10-23T13:18:18"
   },
   {
-   "id": 7413,
+   "id": 7399,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Posisi long kripto rugi $404 juta dalam empat jam saat bitcoin sempat di bawah $80.000",
-   "x": "Investor yang memegang posisi beli aset kripto mengalami kerugian signifikan akibat penurunan harga Bitcoin. Data menunjukkan adanya aliran dana keluar dari ETF Bitcoin spot, menandakan sentimen pasar yang berbalik.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220516-News-Market-Decline-3.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-24T17:44:36"
-  },
-  {
-   "id": 7401,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kripto Tertekan Akhir Pekan, Bitcoin Anjlok di Bawah $80.000 Akibat Evakuasi AS di Timur Tengah",
+   "t": "Strategy dan Strive Hadapi Dilema Pembelian Bitcoin vs Dividen Saham Preferen",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-   "img": null,
+   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dc1a0236f5c1c10010c2b1e42f39c41736508170-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-24T15:11:24"
+   "published_at": "2026-10-24T16:00:00"
+  },
+  {
+   "id": 7338,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin kembali alami aliran dana keluar bersih senilai $636 juta",
+   "x": "Investor menarik dana dari ETF Bitcoin dengan total penarikan mencapai $636 juta, menghapus aliran dana masuk sehari sebelumnya. Penarikan dana ini dipimpin oleh ETF BlackRock.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-12.06.59.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T11:39:45"
   },
   {
    "id": 7423,
@@ -208,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-80000-trump-serangan-iran",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T06:38:26"
@@ -222,24 +222,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/evernorth-xrp-share-machine.webp",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T14:30:16"
   },
   {
-   "id": 7307,
+   "id": 7477,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Hashrate Bitcoin tembus 1.050 EH/s, sinyal bullish dari institusi?",
-   "x": "Hashrate Bitcoin melonjak signifikan, menunjukkan peningkatan aktivitas penambangan. Kenaikan ini dipandang sebagai sinyal positif, terutama dengan partisipasi miner institusional yang kian agresif.",
+   "t": "Tether gandeng 15 pelaku mining Bitcoin, siapkan sistem berbasis AI",
+   "x": "Tether berkolaborasi dengan 15 perusahaan penambangan Bitcoin untuk mengintegrasikan MDK. Langkah ini membuka jalan otomatisasi berbasis kecerdasan buatan (AI) pada perangkat penambangan.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/hashrate-bitcoin-tembus-1-050-eh-s-sinyal-bullish-dari-institusi",
+   "url": "https://blockchainmedia.id/tether-rangkul-15-pelaku-industri-mining-bitcoin-siapkan-sistem-berbasis-ai",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T06:00:42"
+   "published_at": "2026-10-26T03:30:49"
   },
   {
    "id": 7348,
@@ -264,38 +264,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T14:01:03"
   },
   {
-   "id": 7338,
+   "id": 7472,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin kembali alami aliran dana keluar bersih senilai $636 juta",
-   "x": "Investor menarik dana dari ETF Bitcoin dengan total penarikan mencapai $636 juta, menghapus aliran dana masuk sehari sebelumnya. Penarikan dana ini dipimpin oleh ETF BlackRock.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-12.06.59.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-23T11:39:45"
-  },
-  {
-   "id": 7320,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Volatilitas Bitcoin setara Nvidia, delapan kali lebih bergejolak dari euro",
+   "t": "Bitcoin turun di bawah $80.000 saat trader kurangi risiko jelang rapat The Fed",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T11:22:33"
+   "published_at": "2026-10-26T04:37:02"
   },
   {
    "id": 7396,
@@ -326,18 +312,18 @@
    "published_at": "2026-10-23T18:10:49"
   },
   {
-   "id": 7437,
+   "id": 7307,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Misteri Prayer Wars: Saat Bitcoin Jadi Medan Perang Doa dan Troll",
-   "x": "Fenomena Prayer Wars di blockchain Bitcoin sejak 2011 mengungkap sisi unik interaksi komunitas kripto. Peristiwa ini mencampurkan doa, troll, lelucon, dan protes dalam satu ruang digital.",
+   "t": "Hashrate Bitcoin tembus 1.050 EH/s, sinyal bullish dari institusi?",
+   "x": "Hashrate Bitcoin melonjak signifikan, menunjukkan peningkatan aktivitas penambangan. Kenaikan ini dipandang sebagai sinyal positif, terutama dengan partisipasi miner institusional yang kian agresif.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/misteri-prayer-wars-saat-bitcoin-jadi-medan-perang-doa-dan-troll",
+   "url": "https://blockchainmedia.id/hashrate-bitcoin-tembus-1-050-eh-s-sinyal-bullish-dari-institusi",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T09:00:29"
+   "published_at": "2026-10-23T06:00:42"
   },
   {
    "id": 7344,
@@ -354,18 +340,18 @@
    "published_at": "2026-10-23T10:54:35"
   },
   {
-   "id": 7321,
+   "id": 7401,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin bertahan di atas $81.000 seiring pasar tenang",
+   "t": "Kripto Tertekan Akhir Pekan, Bitcoin Anjlok di Bawah $80.000 Akibat Evakuasi AS di Timur Tengah",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T11:13:01"
+   "published_at": "2026-10-24T15:11:24"
   },
   {
    "id": 7449,
@@ -376,7 +362,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/the-fed-pekan-expiry-opsi-bitcoin-dolar",
    "img": "https://assets.beincrypto.com/img/Lrjcb68c06SSXopM7RhW-7v1x9E=/smart/9b561530446441eda1ed33ebb481f7ab",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T17:54:38"
@@ -396,18 +382,18 @@
    "published_at": "2026-10-23T14:00:15"
   },
   {
-   "id": 7312,
+   "id": 7437,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penyebab Harga Bitcoin dan Ethereum Rontok Hari Ini",
-   "x": "Harga Bitcoin dan Ethereum mengalami penurunan signifikan akibat ketegangan geopolitik AS-Iran, data inflasi AS, dan tekanan pada saham-saham teknologi AI. Faktor-faktor ini memicu aksi jual di pasar aset digital.",
+   "t": "Misteri Prayer Wars: Saat Bitcoin Jadi Medan Perang Doa dan Troll",
+   "x": "Fenomena Prayer Wars di blockchain Bitcoin sejak 2011 mengungkap sisi unik interaksi komunitas kripto. Peristiwa ini mencampurkan doa, troll, lelucon, dan protes dalam satu ruang digital.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ini-penyebab-harga-bitcoin-dan-ethereum-rontok-hari-ini",
+   "url": "https://blockchainmedia.id/misteri-prayer-wars-saat-bitcoin-jadi-medan-perang-doa-dan-troll",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T02:15:38"
+   "published_at": "2026-10-25T09:00:29"
   },
   {
    "id": 7345,
@@ -424,18 +410,18 @@
    "published_at": "2026-10-23T08:55:35"
   },
   {
-   "id": 7322,
+   "id": 7320,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin stabil di $81.700, altcoin rebound, pepe naik 13%",
+   "t": "Volatilitas Bitcoin setara Nvidia, delapan kali lebih bergejolak dari euro",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f863500d4586c123729ad5e260e67aa67b785ba7-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T10:54:41"
+   "published_at": "2026-10-23T11:22:33"
   },
   {
    "id": 7327,
@@ -460,24 +446,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-deposit-protection.webp",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-25T08:00:04"
   },
   {
-   "id": 7323,
+   "id": 7312,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tampaknya lepas dari pola siklus dasar historis",
+   "t": "Penyebab Harga Bitcoin dan Ethereum Rontok Hari Ini",
+   "x": "Harga Bitcoin dan Ethereum mengalami penurunan signifikan akibat ketegangan geopolitik AS-Iran, data inflasi AS, dan tekanan pada saham-saham teknologi AI. Faktor-faktor ini memicu aksi jual di pasar aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ini-penyebab-harga-bitcoin-dan-ethereum-rontok-hari-ini",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T02:15:38"
+  },
+  {
+   "id": 7321,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin bertahan di atas $81.000 seiring pasar tenang",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0f47f825a80313923cd91c652922315576bff7a2-1920x1223.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+   "img": null,
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T10:53:09"
+   "published_at": "2026-10-23T11:13:01"
   },
   {
    "id": 7431,
@@ -488,24 +488,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/zcash-etf-aliran-masuk-terbesar-sejak-september",
    "img": "https://assets.beincrypto.com/img/RNyzI5S1Q77igskV9cQHskwFUuY=/smart/794f505582034323a39a33ce4ef7f9e5",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T11:08:42"
   },
   {
-   "id": 7405,
+   "id": 7322,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pemegang Bitcoin kaya beralih ke pinjaman dan imbal hasil seiring matangnya kebiasaan investasi",
+   "t": "Bitcoin stabil di $81.700, altcoin rebound, pepe naik 13%",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/",
-   "img": null,
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f863500d4586c123729ad5e260e67aa67b785ba7-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-24T14:00:00"
+   "published_at": "2026-10-23T10:54:41"
   },
   {
    "id": 7388,
@@ -522,18 +522,18 @@
    "published_at": "2026-10-24T11:05:45"
   },
   {
-   "id": 7352,
+   "id": 7323,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Core ubah aturan keamanan seiring AI mudahkan pencarian bug kode",
+   "t": "Bitcoin tampaknya lepas dari pola siklus dasar historis",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/516fb9c73d621351eab5eec79a9ab7a268a7f595-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0f47f825a80313923cd91c652922315576bff7a2-1920x1223.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-23T12:03:53"
+   "published_at": "2026-10-23T10:53:09"
   },
   {
    "id": 7326,
@@ -550,6 +550,20 @@
    "published_at": "2026-10-23T12:49:47"
   },
   {
+   "id": 7405,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pemegang Bitcoin kaya beralih ke pinjaman dan imbal hasil seiring matangnya kebiasaan investasi",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-24T14:00:00"
+  },
+  {
    "id": 7440,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -558,10 +572,52 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-kripto-untuk-dipantau-pekan-terakhir-oktober-2026",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T13:57:54"
+  },
+  {
+   "id": 7352,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Core ubah aturan keamanan seiring AI mudahkan pencarian bug kode",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/516fb9c73d621351eab5eec79a9ab7a268a7f595-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-23T12:03:53"
+  },
+  {
+   "id": 7469,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Crypto Whale Bitcoin Tahan Aksi saat Deposit Ritel Capai Level Tertinggi 6 Bulan",
+   "x": "Whale Bitcoin telah mengurangi deposit ke Binance sebesar 36% sejak Agustus saat arus masuk ritel mencapai level tertinggi dalam enam bulan, menurut CryptoQuant.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-whales-ritel-binance-deposit",
+   "img": "https://assets.beincrypto.com/img/GvgXY69uN6dq7KwonrEkp1XlayY=/smart/8417c4e4195a43f19db1ac551eed7a61",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-26T01:02:00"
+  },
+  {
+   "id": 7465,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Turun di Bawah US$80.000: Apakah Roadmap Q4 dari Benjamin Cowen Sedang Berjalan?",
+   "x": "Bitcoin turun di bawah $80.000 saat Benjamin Cowen mencatat 2 dari 9 langkah bearish. Lihat apa yang bisa diubah oleh The Fed dan PCE.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-di-bawah-80000-cowen-peta-jalur-bearish",
+   "img": "https://assets.beincrypto.com/img/bdgj4_CjzeeG3Bl7ydJv3fLMaY4=/smart/1c704331e5d44db499847f53d23438b1",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-26T03:20:51"
   }
  ]
 }
