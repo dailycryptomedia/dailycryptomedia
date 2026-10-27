@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sony-blockchain-token-baru-generative-ai-royalties",
    "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "42 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T01:11:42"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/august-updates-block-critical-private-key-leak-in-crypto-wallet-vultisig",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/vultisig-wallet-lock-failure.webp",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T21:10:35"
@@ -40,24 +40,10 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T05:39:17"
-  },
-  {
-   "id": 7380,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Justin Sun jadi whale PEPE? Transfer 7,2 triliun token dari Poloniex jadi sorotan",
-   "x": "Justin Sun dikaitkan dengan transfer besar 7,2 triliun token PEPE dari bursa kripto Poloniex. Peristiwa ini memicu spekulasi mengenai pergerakan aset oleh investor besar di pasar memecoin.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/justin-sun-jadi-whale-pepe-transfer-72-triliun-token-dari-poloniex-jadi-sorotan",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-24T02:15:35"
   },
   {
    "id": 7445,
@@ -74,6 +60,20 @@
    "published_at": "2026-10-25T15:56:30"
   },
   {
+   "id": 7478,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CoinDCX akui kehilangan 15,99 juta USDT, sistem wallet lama gagal",
+   "x": "Bursa kripto CoinDCX mengumumkan kehilangan 15,99 juta USDT akibat kegagalan sistem dompet lama. Perusahaan sedang menyelidiki aliran dana yang hilang tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T02:30:16"
+  },
+  {
    "id": 7462,
    "k": "web3",
    "cat": "Web3",
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T03:21:26"
@@ -116,34 +116,6 @@
    "published_at": "2026-10-25T11:20:15"
   },
   {
-   "id": 7378,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Franklin Templeton tambahkan $150 juta saham dana ke XRP Ledger",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-24T04:45:43"
-  },
-  {
-   "id": 7478,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CoinDCX akui kehilangan 15,99 juta USDT, sistem wallet lama gagal",
-   "x": "Bursa kripto CoinDCX mengumumkan kehilangan 15,99 juta USDT akibat kegagalan sistem dompet lama. Perusahaan sedang menyelidiki aliran dana yang hilang tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T02:30:16"
-  },
-  {
    "id": 7463,
    "k": "web3",
    "cat": "Web3",
@@ -152,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T02:24:04"
@@ -166,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-wallet-phishing-foundation-alamat-rumah",
    "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T07:58:25"
@@ -180,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fca-proposes-personal-wallet-checks-in-nonbinding-crypto-guidance",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fca-personal-wallet-review.webp",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T08:00:25"
@@ -198,6 +170,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T01:09:54"
+  },
+  {
+   "id": 7590,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pembayaran Kripto Punya Biaya Tersembunyi yang Jarang Dihitung Bisnis",
+   "x": "Ketika pelanggan membayar dengan aset kripto, blockchain menunjukkan dana keluar dari wallet mereka. Tapi, toko online tetap menandai pesanan tersebut sebagai belum dibayar. Mendadak, transaksi biasa berubah jadi tiket…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/biaya-tersembunyi-gateway-pembayaran-kripto-bisnis",
+   "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-27T02:04:51"
   }
  ]
 }
