@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/putusan-pengadilan-kasus-libra-javier-milei",
    "img": "https://assets.beincrypto.com/img/WD10n8mPkETX_6rSafCxrWVEctQ=/smart/1f9a96666b3a42eab486e922dcd3900d",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-25T12:35:44"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T16:18:09"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/korea.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T10:06:02"
@@ -102,18 +102,18 @@
    "published_at": "2026-10-25T01:30:12"
   },
   {
-   "id": 7538,
+   "id": 7633,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Kepemilikan bersih dealer obligasi negara capai rekor dua tahun",
-   "x": "Kapasitas pendanaan dealer menjadi sorotan menjelang akhir Oktober, sementara dampak pada Bitcoin masih bersifat kondisional. Situasi ini mengindikasikan adanya tekanan likuiditas di pasar keuangan tradisional.",
+   "t": "Coinbase Tetapkan Tenggat 3 Hari untuk Aturan MiCA Terkait Stablecoin",
+   "x": "Coinbase memberikan batas waktu tiga hari bagi stablecoin tertentu, termasuk USDT, PayPal, dan yang terkait Trump, untuk mematuhi regulasi MiCA Uni Eropa. Perubahan ini akan memengaruhi pengguna ritel di Eropa.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-repo-capacity-vise.webp",
-   "a": "15 jam lalu",
+   "url": "https://cryptoslate.com/coinbase-sets-3-day-mica-deadline-for-usdt-paypal-and-trump-linked-stablecoins",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-stablecoin-conversion-pressure.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T16:00:30"
+   "published_at": "2026-10-27T11:20:33"
   },
   {
    "id": 7564,
@@ -124,10 +124,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/nba-basketball-sports-betting-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T20:36:03"
+  },
+  {
+   "id": 7608,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Binance ajukan lisensi kripto Brasil sebelum tenggat waktu",
+   "x": "Bursa kripto Binance mengajukan permohonan lisensi di Brasil sambil melakukan delisting 22 aset kripto. Perusahaan berharap negosiasi dengan bank sentral akan memungkinkan pemulihan sebagian layanan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T08:04:21"
+  },
+  {
+   "id": 7538,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kepemilikan bersih dealer obligasi negara capai rekor dua tahun",
+   "x": "Kapasitas pendanaan dealer menjadi sorotan menjelang akhir Oktober, sementara dampak pada Bitcoin masih bersifat kondisional. Situasi ini mengindikasikan adanya tekanan likuiditas di pasar keuangan tradisional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/treasury-repo-capacity-vise.webp",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T16:00:30"
   }
  ]
 }
