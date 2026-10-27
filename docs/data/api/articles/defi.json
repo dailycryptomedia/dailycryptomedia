@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 4,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-10-26T07:33:28"
   },
   {
+   "id": 7658,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Galaxy Digital raih laba kuartalan $323 juta, umumkan buyback saham $200 juta",
+   "x": "Galaxy Digital kembali mencetak laba pada kuartal ketiga seiring peningkatan volume perdagangan dan pinjaman. Perusahaan juga mengumumkan program pembelian kembali saham senilai $200 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-27-at-14.10.43.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T14:39:22"
+  },
+  {
    "id": 7625,
    "k": "defi",
    "cat": "DeFi",
@@ -26,7 +40,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T07:09:56"
