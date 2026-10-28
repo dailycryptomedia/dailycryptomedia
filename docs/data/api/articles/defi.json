@@ -1,8 +1,22 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 7790,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Survei: Makin Banyak Warga AS Coba Kripto, Tapi Sedikit yang Bertahan",
+   "x": "Survei menunjukkan peningkatan kepemilikan aset kripto di Amerika Serikat, namun tingkat penggunaan dalam setahun terakhir stagnan. Ini mengindikasikan minat awal yang tinggi namun kesulitan mempertahankan adopsi jangka panjang.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png",
+   "a": "21 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T19:46:03"
+  },
   {
    "id": 7488,
    "k": "defi",
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sun-52nd-buyback-burn-685-million-tokens.jpg",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T11:50:08"
