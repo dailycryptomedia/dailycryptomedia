@@ -1,8 +1,22 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 7727,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apa yang terjadi jika jaringan blockchain mati?",
+   "x": "Pertanyaan mengenai nasib saldo aset digital jika jaringan blockchain berhenti beroperasi menjadi perhatian. Penjelasan mendalam mengenai skenario ini penting bagi pemahaman risiko pengguna.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/apa-yang-terjadi-jika-jaringan-blockchain-mati",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T06:00:44"
+  },
   {
    "id": 7575,
    "k": "web3",
@@ -40,7 +54,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T05:39:17"
@@ -60,20 +74,6 @@
    "published_at": "2026-10-25T15:56:30"
   },
   {
-   "id": 7478,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CoinDCX akui kehilangan 15,99 juta USDT, sistem wallet lama gagal",
-   "x": "Bursa kripto CoinDCX mengumumkan kehilangan 15,99 juta USDT akibat kegagalan sistem dompet lama. Perusahaan sedang menyelidiki aliran dana yang hilang tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T02:30:16"
-  },
-  {
    "id": 7462,
    "k": "web3",
    "cat": "Web3",
@@ -82,10 +82,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T03:21:26"
+  },
+  {
+   "id": 7724,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Bukan CZ Binance, ini wallet yang kuasai 88% token ASTER",
+   "x": "Kepemilikan mayoritas token ASTER ternyata bukan dipegang oleh pendukung utamanya, CZ Binance. Daftar lengkap pemegang token ini diungkap untuk memberikan gambaran distribusi aset.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/wallet-yang-menguasai-aster",
+   "img": null,
+   "a": "29 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T07:30:10"
   },
   {
    "id": 7612,
@@ -96,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tren-crypto-wallet-strategi-pertumbuhan-pengguna",
    "img": "https://assets.beincrypto.com/img/S61udqqW4m3kpaVZhvBg0Upg64w=/smart/34c386915f2340d18fe22efe51652d9c",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T09:44:27"
@@ -124,7 +138,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T11:13:54"
@@ -138,10 +152,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T02:24:04"
+  },
+  {
+   "id": 7478,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CoinDCX akui kehilangan 15,99 juta USDT, sistem wallet lama gagal",
+   "x": "Bursa kripto CoinDCX mengumumkan kehilangan 15,99 juta USDT akibat kegagalan sistem dompet lama. Perusahaan sedang menyelidiki aliran dana yang hilang tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T02:30:16"
   },
   {
    "id": 7487,
@@ -152,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-wallet-phishing-foundation-alamat-rumah",
    "img": "https://assets.beincrypto.com/img/VSB3ALYUt50L362QPyWjF2u_6nA=/smart/36452f0360cf4dcdbac867a66dcc941d",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T07:58:25"
@@ -166,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coindcxs-16-million-loss-revives-uncomfortable-memories-of-ftx-and-celsius",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coindcx-wallet-warning.webp",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T10:00:59"
@@ -180,7 +208,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T14:00:00"
@@ -222,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/biaya-tersembunyi-gateway-pembayaran-kripto-bisnis",
    "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T02:04:51"
@@ -236,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/atkinss-zcash-crypto-privacy-vision-faces-a-test-what-must-founders-reveal",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-wallet-disclosure-debate.webp",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T08:50:22"
