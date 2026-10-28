@@ -1,5 +1,5 @@
 {
- "total": 113,
+ "total": 123,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60N3ET67QN71X4TK3YBZTNR/hi-how-cryptocurrency-prices-work-explained3.jpg",
-   "a": "16 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T07:42:55"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/proyek-kripto-ditutup-sepanjang-2026",
    "img": null,
-   "a": "58 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T07:00:55"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260613_Canton_News.jpg",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T16:59:10"
@@ -96,7 +96,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T13:13:50"
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YN0CT8F4HNHWRJS1ST7JTJ/arthur-hayes.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T13:01:10"
@@ -172,32 +172,32 @@
    "published_at": "2026-10-27T06:00:51"
   },
   {
-   "id": 7529,
+   "id": 7759,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Hyperliquid sebut induk Kraken, Payward, jadi pelaksana HIP-3 pertama yang diregulasi CFTC",
-   "x": "Hyperliquid menunjuk Payward, perusahaan induk Kraken, sebagai pelaksana pertama yang diatur oleh CFTC untuk HIP-3. Ini merupakan langkah menuju pasar derivatif berjangka abadi yang teregulasi di AS.",
+   "t": "Kripto bersiap hadapi pergeseran pengawasan kongres pasca-pemilu sela",
+   "x": "Sektor aset kripto berpotensi menghadapi lanskap politik yang berbeda di bawah Kongres baru. Perubahan ini dapat memengaruhi regulasi dan pengawasan terhadap industri.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Kraken_News.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/11/20201105_OTC_Election.jpg",
+   "a": "15 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T18:21:17"
+   "published_at": "2026-10-28T14:43:01"
   },
   {
-   "id": 7433,
+   "id": 7496,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bank Inggris terima 10.000 keluhan dalam 3 bulan soal pembatasan kripto",
+   "t": "Calpers tarik diri dari perusahaan teknologi besar di tengah kekhawatiran AI",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b2d43f854c0cbc639a231983f1d14f391d5ff6e6-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T13:00:00"
+   "published_at": "2026-10-26T10:33:00"
   },
   {
    "id": 7584,
@@ -250,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg",
-   "a": "10 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T21:16:02"
@@ -270,32 +270,32 @@
    "published_at": "2026-10-27T03:30:28"
   },
   {
-   "id": 7530,
+   "id": 7529,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Mochatrade raih $5,5 juta untuk tawarkan saham AS perpetual ke trader India",
-   "x": "Platform yang didukung Y Combinator ini mengumpulkan pendanaan untuk menyediakan produk derivatif saham AS kepada investor di India. Mochatrade berencana membuka layanan publik dalam beberapa minggu ke depan.",
+   "t": "Hyperliquid sebut induk Kraken, Payward, jadi pelaksana HIP-3 pertama yang diregulasi CFTC",
+   "x": "Hyperliquid menunjuk Payward, perusahaan induk Kraken, sebagai pelaksana pertama yang diatur oleh CFTC untuk HIP-3. Ini merupakan langkah menuju pasar derivatif berjangka abadi yang teregulasi di AS.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Kraken_News.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T17:55:02"
+   "published_at": "2026-10-26T18:21:17"
   },
   {
-   "id": 7496,
+   "id": 7741,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Calpers tarik diri dari perusahaan teknologi besar di tengah kekhawatiran AI",
+   "t": "DTCC Libatkan Bank Besar Dekatkan Sekuritas Senilai $30 Triliun ke Blockchain",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b2d43f854c0cbc639a231983f1d14f391d5ff6e6-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T10:33:00"
+   "published_at": "2026-10-28T13:14:37"
   },
   {
    "id": 7640,
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peretas-menguras-pasar-prediksi-terkait-binance",
    "img": "https://assets.beincrypto.com/img/cPi5rDtxFsizqmorDd3blp_gvXc=/smart/ac5f8d44c5fd4a5eb23140fbd317e093",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T18:14:42"
@@ -320,7 +320,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardano-moves-closer-to-15x-scaling-breakthrough-as-developers-merge-key-leios-code",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-governance-upgrade-gears.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T10:50:33"
@@ -334,7 +334,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T12:18:24"
@@ -368,18 +368,18 @@
    "published_at": "2026-10-26T02:00:11"
   },
   {
-   "id": 7450,
+   "id": 7530,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "CoinDCX akui rugi $16 juta dari dompet yang dinonaktifkan",
-   "x": "Bursa kripto CoinDCX mengonfirmasi kerugian sebesar $16 juta akibat peretasan dompet yang sudah tidak aktif, beberapa hari setelah CEO-nya membantah laporan awal. Insiden ini menimbulkan pertanyaan tentang keamanan operasional bursa dan perlindungan dana pengguna.",
+   "t": "Mochatrade raih $5,5 juta untuk tawarkan saham AS perpetual ke trader India",
+   "x": "Platform yang didukung Y Combinator ini mengumpulkan pendanaan untuk menyediakan produk derivatif saham AS kepada investor di India. Mochatrade berencana membuka layanan publik dalam beberapa minggu ke depan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T18:46:21"
+   "published_at": "2026-10-26T17:55:02"
   },
   {
    "id": 7650,
@@ -390,7 +390,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/2c30c6af33132c744e1e3c20341f6962e964273d-3000x1688.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T16:59:07"
@@ -410,32 +410,32 @@
    "published_at": "2026-10-25T19:08:08"
   },
   {
-   "id": 7446,
+   "id": 7770,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Pemenang Terbesar Pump.fun Sulit Ditiru Akibat Celah Perdagangan",
-   "x": "Analisis menunjukkan bahwa lonjakan kepemilikan alamat aset digital bisa menyembunyikan akuisisi yang tidak dapat ditiru oleh investor lain. Hal ini menimbulkan pertanyaan tentang keadilan dan transparansi di pasar kripto.",
+   "t": "Kraken batalkan pesanan di 176 pasar kripto dalam perombakan perdagangan",
+   "x": "Bursa kripto Kraken akan membatalkan semua pesanan yang ada di 176 pasar. Perubahan ini merupakan bagian dari perombakan besar-besaran platform perdagangan mereka.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/wallet-profits-follower-barrier.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/kraken-to-cancel-orders-across-176-crypto-markets-in-sweeping-trading-overhaul",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-synthetic-market-gateway.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T15:50:20"
+   "published_at": "2026-10-28T13:40:44"
   },
   {
-   "id": 7429,
+   "id": 7763,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Netanyahu usulkan blockchain untuk hindari sanksi finansial",
-   "x": "Perdana Menteri Israel Benjamin Netanyahu mengusulkan penggunaan teknologi blockchain untuk mengatasi potensi sanksi internasional. Langkah ini menuai kritik dari lawan politik dan bank sentral negara tersebut.",
+   "t": "Oktober siber: Cara melindungi diri dari serangan",
+   "x": "Bulan ini diwarnai berita serangan siber berbasis AI dan kerentanan baru. Masyarakat umum perlu waspada dan memahami cara melindungi diri di dunia maya.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T11:42:00"
+   "published_at": "2026-10-28T13:30:00"
   },
   {
    "id": 7670,
@@ -446,7 +446,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T16:53:13"
@@ -466,18 +466,18 @@
    "published_at": "2026-10-27T03:00:22"
   },
   {
-   "id": 7654,
+   "id": 7450,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Crypto.com dan OG.com luncurkan derivatif kripto AS dengan leverage 5x",
-   "x": "Dua bursa kripto meluncurkan kontrak derivatif tanpa tanggal kedaluwarsa yang memungkinkan trader bertaruh pada kenaikan atau penurunan harga aset digital. Ini menambah pilihan instrumen trading bagi investor.",
+   "t": "CoinDCX akui rugi $16 juta dari dompet yang dinonaktifkan",
+   "x": "Bursa kripto CoinDCX mengonfirmasi kerugian sebesar $16 juta akibat peretasan dompet yang sudah tidak aktif, beberapa hari setelah CEO-nya membantah laporan awal. Insiden ini menimbulkan pertanyaan tentang keamanan operasional bursa dan perlindungan dana pengguna.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260112_Crypto.com_Learn.jpg",
-   "a": "14 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T17:07:10"
+   "published_at": "2026-10-25T18:46:21"
   },
   {
    "id": 7473,
@@ -508,18 +508,18 @@
    "published_at": "2026-10-25T23:44:55"
   },
   {
-   "id": 7694,
+   "id": 7446,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Ripple dapat persetujuan akhir bank kustodian AS, apa untungnya bagi XRP?",
-   "x": "Ripple memperoleh persetujuan akhir bank kustodian nasional di AS meskipun ada keberatan dari grup perbankan tradisional. Ini merupakan langkah penting bagi ekspansi Ripple di sektor keuangan teregulasi.",
+   "t": "Pemenang Terbesar Pump.fun Sulit Ditiru Akibat Celah Perdagangan",
+   "x": "Analisis menunjukkan bahwa lonjakan kepemilikan alamat aset digital bisa menyembunyikan akuisisi yang tidak dapat ditiru oleh investor lain. Hal ini menimbulkan pertanyaan tentang keadilan dan transparansi di pasar kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-institutional-charter.webp",
-   "a": "11 jam lalu",
+   "url": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/wallet-profits-follower-barrier.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T20:00:02"
+   "published_at": "2026-10-25T15:50:20"
   },
   {
    "id": 7555,
@@ -558,24 +558,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peluang-serok-kripto-hari-ini-28-oktober-2026-pepe-inj-hype-aero-dan-dash-siap-reli-lagi",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T03:30:41"
   },
   {
-   "id": 7531,
+   "id": 7654,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Bernstein Ubah Proyeksi Saham Kripto Berdasarkan Pasar Derivatif",
-   "x": "Analis Bernstein menyesuaikan target harga saham perusahaan kripto seperti Coinbase dan Circle. Perubahan ini didorong oleh perkembangan produk baru dan pergeseran prospek pendapatan.",
+   "t": "Crypto.com dan OG.com luncurkan derivatif kripto AS dengan leverage 5x",
+   "x": "Dua bursa kripto meluncurkan kontrak derivatif tanpa tanggal kedaluwarsa yang memungkinkan trader bertaruh pada kenaikan atau penurunan harga aset digital. Ini menambah pilihan instrumen trading bagi investor.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News_2.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260112_Crypto.com_Learn.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T16:36:43"
+   "published_at": "2026-10-27T17:07:10"
   },
   {
    "id": 7515,
@@ -606,18 +606,18 @@
    "published_at": "2026-10-25T23:40:53"
   },
   {
-   "id": 7597,
+   "id": 7771,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Slot Solana Lebih Cepat Gagal Hentikan Bot Sniper Memecoin",
-   "x": "Peningkatan kecepatan slot Solana tidak serta merta menghentikan bot sniper memecoin. Pembelian oleh bot masih terjadi dalam hitungan detik setelah listing token.",
+   "t": "Robinhood kini untung lebih banyak dari prediksi masa depan daripada trading kripto",
+   "x": "Pendapatan dari kontrak berjangka melampaui pendapatan perdagangan aset kripto di Robinhood. Perusahaan mencatat pendapatan total $1,42 miliar, menunjukkan diversifikasi sumber keuntungan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-study-finds-rapid-pump-fun-buying-persisted-as-blocks-sped-up",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-bot-race-clock.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/robinhood-now-makes-more-money-from-predicting-the-future-than-trading-crypto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/robinhood-market-event-contrast.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T04:20:34"
+   "published_at": "2026-10-28T12:20:28"
   },
   {
    "id": 7439,
@@ -642,38 +642,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T11:34:08"
   },
   {
-   "id": 7426,
+   "id": 7601,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto TRAC Disebut Hidden Gem, Teknologinya Dipakai Perkeretaapian Swiss",
-   "x": "Aset kripto TRAC berpotensi menjadi 'hidden gem' setelah teknologi OriginTrail digunakan dalam sistem perkeretaapian Swiss. Perkembangan ini menunjukkan adopsi teknologi blockchain di sektor riil.",
+   "t": "Kocak! Unggul 0,000001 Token, Peretas Bajak Senat Kripto dan Gasak US$4,85 Juta",
+   "x": "Seorang peretas berhasil merebut kursi di Senat X100 dengan selisih token sangat tipis, lalu menggunakan hak suaranya untuk menguras dana senilai jutaan dolar. Insiden ini menyoroti kerentanan tata kelola terdesentralisasi.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kripto-trac-masuk-radar-hidden-gem-teknologinya-sudah-dipakai-perkeretaapian-swiss",
+   "url": "https://blockchainmedia.id/kocak-unggul-0000001-token-peretas-bajak-senat-kripto-dan-gasak-us485-juta",
    "img": null,
-   "a": "3 hari lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T03:30:31"
+   "published_at": "2026-10-27T02:30:11"
   },
   {
-   "id": 7660,
+   "id": 7531,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Struktur Pasar Kripto Dijelaskan",
-   "x": "Struktur pasar kripto menjelaskan arsitektur di balik pasar aset digital, termasuk partisipan, tempat perdagangan, pembentukan likuiditas, penemuan harga, dan cara kerja derivatif. Pemahaman ini krusial bagi investor untuk menilai keadilan dan ketahanan pasar.",
+   "t": "Bernstein Ubah Proyeksi Saham Kripto Berdasarkan Pasar Derivatif",
+   "x": "Analis Bernstein menyesuaikan target harga saham perusahaan kripto seperti Coinbase dan Circle. Perubahan ini didorong oleh perkembangan produk baru dan pergeseran prospek pendapatan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-3.png",
-   "a": "17 jam lalu",
+   "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News_2.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T14:14:08"
+   "published_at": "2026-10-26T16:36:43"
   },
   {
    "id": 7596,
@@ -698,24 +698,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/token-unlocks-minggu-terakhir-oktober-2026",
    "img": "https://assets.beincrypto.com/img/rDVaGmXhuWTHATwZTMokhWYaQQk=/smart/b568ca62086c4e51853ddf5ba53764bc",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T11:00:00"
   },
   {
-   "id": 7663,
+   "id": 7694,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Inflasi Jasa Jepang Terpecah Jelang Keputusan BOJ",
-   "x": "Inflasi jasa di Jepang menunjukkan perbedaan signifikan, dengan inflasi jasa bisnis mencapai 3,7% sementara tingkat yang dikecualikan transportasi stagnan. Perbedaan ini mempersulit pandangan Bank of Japan (BOJ) menjelang keputusan suku bunga Jumat nanti.",
+   "t": "Ripple dapat persetujuan akhir bank kustodian AS, apa untungnya bagi XRP?",
+   "x": "Ripple memperoleh persetujuan akhir bank kustodian nasional di AS meskipun ada keberatan dari grup perbankan tradisional. Ini merupakan langkah penting bagi ekspansi Ripple di sektor keuangan teregulasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/japans-services-inflation-split-complicates-the-boj-outlook-before-fridays-decision",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/yen-funding-policy-crossroads.webp",
-   "a": "15 jam lalu",
+   "url": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-institutional-charter.webp",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T16:00:16"
+   "published_at": "2026-10-27T20:00:02"
   },
   {
    "id": 7461,
@@ -746,32 +746,32 @@
    "published_at": "2026-10-26T16:04:51"
   },
   {
-   "id": 7601,
+   "id": 7507,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kocak! Unggul 0,000001 Token, Peretas Bajak Senat Kripto dan Gasak US$4,85 Juta",
-   "x": "Seorang peretas berhasil merebut kursi di Senat X100 dengan selisih token sangat tipis, lalu menggunakan hak suaranya untuk menguras dana senilai jutaan dolar. Insiden ini menyoroti kerentanan tata kelola terdesentralisasi.",
+   "t": "Pi Network Makin Canggih, Bisakah Update Ini Selamatkan Harga PI?",
+   "x": "Pi Network merilis pembaruan Pi Desktop dan Protocol 28. Pembaruan ini diharapkan dapat meningkatkan fungsionalitas dan adopsi, yang berpotensi memengaruhi valuasi token PI di pasar.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/kocak-unggul-0000001-token-peretas-bajak-senat-kripto-dan-gasak-us485-juta",
+   "url": "https://blockchainmedia.id/pi-network-makin-canggih-bisakah-update-ini-selamatkan-harga-pi",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T02:30:11"
+   "published_at": "2026-10-26T07:00:01"
   },
   {
-   "id": 7532,
+   "id": 7660,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "NBA Bergabung dengan Pasar Prediksi CFTC, Gandeng Kalshi dan Polymarket",
-   "x": "NBA menjadi liga olahraga ketiga yang bekerja sama dengan Komisi Perdagangan Berjangka Komoditas AS (CFTC) untuk pasar prediksi. Kesepakatan ini bertujuan menjaga integritas pertandingan.",
+   "t": "Struktur Pasar Kripto Dijelaskan",
+   "x": "Struktur pasar kripto menjelaskan arsitektur di balik pasar aset digital, termasuk partisipan, tempat perdagangan, pembentukan likuiditas, penemuan harga, dan cara kerja derivatif. Pemahaman ini krusial bagi investor untuk menilai keadilan dan ketahanan pasar.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+   "url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-3.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T16:27:37"
+   "published_at": "2026-10-27T14:14:08"
   },
   {
    "id": 7516,
@@ -802,18 +802,18 @@
    "published_at": "2026-10-27T00:46:42"
   },
   {
-   "id": 7541,
+   "id": 7597,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Perbaikan API key BTCPay digabung, rilis terbaru masih sebelum patch",
-   "x": "Perubahan pada API key BTCPay telah diterapkan, namun rilis terbarunya belum mencakup perbaikan tersebut. Hal ini penting bagi pengguna untuk memastikan mereka menggunakan versi perangkat lunak yang aman.",
+   "t": "Slot Solana Lebih Cepat Gagal Hentikan Bot Sniper Memecoin",
+   "x": "Peningkatan kecepatan slot Solana tidak serta merta menghentikan bot sniper memecoin. Pembelian oleh bot masih terjadi dalam hitungan detik setelah listing token.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-btcpay-api-key-limited-to-one-bitcoin-store-could-exceed-its-permissions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/btcpay-api-credential-scope.webp",
+   "url": "https://cryptoslate.com/solana-study-finds-rapid-pump-fun-buying-persisted-as-blocks-sped-up",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-bot-race-clock.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T13:00:44"
+   "published_at": "2026-10-27T04:20:34"
   },
   {
    "id": 7636,
@@ -824,7 +824,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YWQC6FH57C96HKBNEK40R3/hi-voting-app-1.jpg",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T18:08:00"
