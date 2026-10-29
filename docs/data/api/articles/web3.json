@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61K25H2E5TR4HTCQ50BH6GF/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets-1.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T16:40:02"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/robinhood.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T17:06:24"
@@ -138,7 +138,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T14:00:00"
@@ -170,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T08:50:22"
+  },
+  {
+   "id": 7892,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "AS Jatuhkan Sanksi kepada Dua Warga Rusia yang Dituduh Ubah US$5,5 Juta Aset Kripto untuk Korea Utara",
+   "x": "Departemen Keuangan AS memberikan sanksi kepada 10 individu dan satu entitas pada 28 Oktober terkait skema pekerja TI Korea Utara. Dua di antara yang disebut adalah warga Rusia yang diduga mengonversi jutaan aset kripto…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/korea-utara-crypto-cashout-bursa-mainstream",
+   "img": "https://assets.beincrypto.com/img/SjLE4yjh7ZBML0Dbzsi7fRXoW7c=/smart/219124e48374478384d3c16bf862f999",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-29T13:27:48"
   }
  ]
 }
