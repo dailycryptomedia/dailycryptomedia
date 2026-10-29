@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png",
-   "a": "21 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T19:46:03"
+  },
+  {
+   "id": 7820,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Leverage 11x Ethena Pay Janjikan Imbal Hasil Tinggi, Namun Risiko Kerugian Tersembunyi",
+   "x": "Produk Ethena Pay menawarkan leverage tinggi yang berpotensi memberikan imbal hasil besar, namun biaya pinjaman dan potensi penarikan dana menjadi faktor penentu keuntungan pengguna. Kontrol dan tingkat leverage aktual vault belum terverifikasi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethena-earn-plus-usde-price-lenses-standard-v4.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T22:10:04"
   },
   {
    "id": 7488,
@@ -30,20 +44,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-26T07:33:28"
-  },
-  {
-   "id": 7772,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "SUN.io selesaikan buyback dan burn ke-52, total SUN terbakar lampaui 685 juta",
-   "x": "SUN.io, infrastruktur likuiditas DeFi di jaringan TRON, menyelesaikan program buyback dan burn ke-52. Lebih dari 7,23 juta SUN dibakar, menambah total kumulatif menjadi lebih dari 685 juta token.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sun-52nd-buyback-burn-685-million-tokens.jpg",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T11:50:08"
   },
   {
    "id": 7658,
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T07:09:56"
+  },
+  {
+   "id": 7772,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "SUN.io selesaikan buyback dan burn ke-52, total SUN terbakar lampaui 685 juta",
+   "x": "SUN.io, infrastruktur likuiditas DeFi di jaringan TRON, menyelesaikan program buyback dan burn ke-52. Lebih dari 7,23 juta SUN dibakar, menambah total kumulatif menjadi lebih dari 685 juta token.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sun-52nd-buyback-burn-685-million-tokens.jpg",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T11:50:08"
   },
   {
    "id": 7527,
