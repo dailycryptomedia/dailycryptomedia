@@ -1,5 +1,5 @@
 {
- "total": 90,
+ "total": 84,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-hash-rate-dekat-rekor-ai",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T07:32:51"
@@ -60,20 +60,6 @@
    "published_at": "2026-10-27T13:01:00"
   },
   {
-   "id": 7477,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Tether gandeng 15 pelaku mining Bitcoin, siapkan sistem berbasis AI",
-   "x": "Tether berkolaborasi dengan 15 perusahaan penambangan Bitcoin untuk mengintegrasikan MDK. Langkah ini membuka jalan otomatisasi berbasis kecerdasan buatan (AI) pada perangkat penambangan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/tether-rangkul-15-pelaku-industri-mining-bitcoin-siapkan-sistem-berbasis-ai",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T03:30:49"
-  },
-  {
    "id": 7493,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -86,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T11:53:07"
+  },
+  {
+   "id": 7506,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Romantis atau Nyeleneh? Pria Ini Melamar Kekasih Lewat Bitcoin!",
+   "x": "Seorang pria menggunakan teknologi blockchain Bitcoin untuk melamar kekasihnya. Pesan lamaran dan jawaban tersimpan permanen di dalam blok, menunjukkan potensi unik aset digital untuk ekspresi pribadi.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/romantis-atau-nyeleneh-pria-ini-melamar-kekasih-lewat-bitcoin",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T08:00:49"
   },
   {
    "id": 7627,
@@ -158,32 +158,32 @@
    "published_at": "2026-10-27T21:28:22"
   },
   {
-   "id": 7506,
+   "id": 7494,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Romantis atau Nyeleneh? Pria Ini Melamar Kekasih Lewat Bitcoin!",
-   "x": "Seorang pria menggunakan teknologi blockchain Bitcoin untuk melamar kekasihnya. Pesan lamaran dan jawaban tersimpan permanen di dalam blok, menunjukkan potensi unik aset digital untuk ekspresi pribadi.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/romantis-atau-nyeleneh-pria-ini-melamar-kekasih-lewat-bitcoin",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T08:00:49"
-  },
-  {
-   "id": 7471,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bug dompet Bitcoin izinkan server jahat curi dana saat pengguna coba percepat pembayaran",
+   "t": "Bitcoin bertahan dekat $80.000 seiring minyak turun dan keputusan The Fed",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T05:15:20"
+   "published_at": "2026-10-26T11:24:33"
+  },
+  {
+   "id": 7730,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Misteri Puisi Muncul 26 Kali di Blockchain Bitcoin, Diduga Terkait AI",
+   "x": "Sebuah puisi misterius terdeteksi muncul berulang kali dalam transaksi di blockchain Bitcoin. Analisis menunjukkan pola transaksi yang tidak biasa, menimbulkan spekulasi mengenai keterlibatan kecerdasan buatan (AI).",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/misteri-puisi-yang-muncul-26-kali-di-blockchain-bitcoin-siapa-pengirimnya",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T02:30:07"
   },
   {
    "id": 7535,
@@ -222,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-option-buyers-face-a-fed-week-premium-that-can-fade-after-the-decision",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-options-time-decay.webp",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T14:40:38"
@@ -242,46 +242,46 @@
    "published_at": "2026-10-26T17:41:21"
   },
   {
-   "id": 7457,
+   "id": 7675,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "AI bantu selamatkan fork Ethereum, situs 'Steal My Bitcoin' diretas",
-   "x": "Peneliti Ethereum menggunakan AI untuk menyelamatkan proyek fork Glamsterdam, menunjukkan potensi pemanfaatan teknologi baru dalam mengatasi masalah blockchain. Insiden peretasan situs 'Steal My Bitcoin' menyoroti risiko keamanan yang terus ada di ekosistem aset digital.",
+   "t": "Kekhawatiran kuantum batasi pertumbuhan Bitcoin, kata pendiri Stacks",
+   "x": "Ketidakpastian keamanan Bitcoin terhadap komputasi kuantum dikhawatirkan dapat menghalangi investor institusi. Hal ini menjadi perhatian penting bagi perkembangan aset digital.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZF47DDZ978GBXA3FCAVDQG/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt-1.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-25T22:48:40"
+   "published_at": "2026-10-27T20:33:19"
   },
   {
-   "id": 7730,
+   "id": 7495,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Misteri Puisi Muncul 26 Kali di Blockchain Bitcoin, Diduga Terkait AI",
-   "x": "Sebuah puisi misterius terdeteksi muncul berulang kali dalam transaksi di blockchain Bitcoin. Analisis menunjukkan pola transaksi yang tidak biasa, menimbulkan spekulasi mengenai keterlibatan kecerdasan buatan (AI).",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/misteri-puisi-yang-muncul-26-kali-di-blockchain-bitcoin-siapa-pengirimnya",
-   "img": null,
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T02:30:07"
-  },
-  {
-   "id": 7494,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin bertahan dekat $80.000 seiring minyak turun dan keputusan The Fed",
+   "t": "Berita langsung: Bitcoin tertahan di $80.000 jelang keputusan The Fed",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+   "img": null,
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T11:24:33"
+   "published_at": "2026-10-26T11:05:31"
+  },
+  {
+   "id": 7731,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Galaxy Digital Raup Laba US$323 Juta, Eksposur Bitcoin US$538 Juta",
+   "x": "Galaxy Digital melaporkan laba bersih sebesar US$323 juta pada kuartal ketiga 2026. Perusahaan juga mengungkapkan memiliki eksposur aset kripto Bitcoin senilai US$538 juta.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/galaxy-digital-raup-laba-us323-juta-eksposur-bitcoin-us538-juta",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T02:00:18"
   },
   {
    "id": 7593,
@@ -292,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/strive_bitcoin_1920x1080.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T03:58:07"
@@ -306,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sinyal-bullish-bitcoin-oktober-merah-2026",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T05:59:31"
@@ -334,52 +334,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T18:25:18"
   },
   {
-   "id": 7675,
+   "id": 7481,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Kekhawatiran kuantum batasi pertumbuhan Bitcoin, kata pendiri Stacks",
-   "x": "Ketidakpastian keamanan Bitcoin terhadap komputasi kuantum dikhawatirkan dapat menghalangi investor institusi. Hal ini menjadi perhatian penting bagi perkembangan aset digital.",
+   "t": "Harga BTC berisiko turun $80 ribu jelang FOMC, laporan keuangan",
+   "x": "Bitcoin berjuang mempertahankan level $80.000 menjelang rilis data inflasi dan laporan keuangan perusahaan teknologi AS. Investor mencermati data ekonomi makro yang dapat memengaruhi kebijakan The Fed.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZF47DDZ978GBXA3FCAVDQG/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T20:33:19"
-  },
-  {
-   "id": 7731,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Galaxy Digital Raup Laba US$323 Juta, Eksposur Bitcoin US$538 Juta",
-   "x": "Galaxy Digital melaporkan laba bersih sebesar US$323 juta pada kuartal ketiga 2026. Perusahaan juga mengungkapkan memiliki eksposur aset kripto Bitcoin senilai US$538 juta.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/galaxy-digital-raup-laba-us323-juta-eksposur-bitcoin-us538-juta",
-   "img": null,
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T02:00:18"
-  },
-  {
-   "id": 7495,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Berita langsung: Bitcoin tertahan di $80.000 jelang keputusan The Fed",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-   "img": null,
+   "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VWYCQ5ATPVXMVHFJSGW9JY/coin-bitcoin-scream-price.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T11:05:31"
+   "published_at": "2026-10-26T10:49:55"
+  },
+  {
+   "id": 7616,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tunjukkan pelemahan, kemenangan bank Ripple tak dongkrak XRP",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/caff288a8b43cf1d97d81ebe16d87f4bdde60b22-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T12:00:39"
   },
   {
    "id": 7800,
@@ -390,24 +376,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-28-at-14.34.51.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T16:07:08"
   },
   {
-   "id": 7464,
+   "id": 7700,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Dari Akar Kripto ke Penjualan AI: Mengapa CoreWeave Sedang Tertekan",
-   "x": "Saham CoreWeave telah kehilangan lebih dari sepertiga nilainya pada bulan Oktober karena kekhawatiran utang. Mantan Bitcoin miner Ethereum tersebut kini menguji pendanaan sektor AI.",
+   "t": "Ancaman Kuantum Bitcoin Itu Nyata, Jam Migrasi Terus Berjalan",
+   "x": "Industri ini terus bertanya-tanya kapan komputer kuantum akan cukup kuat untuk membobol Bitcoin. Kriptografi elliptic-curve sudah diketahui rentan terhadap serangan kuantum selama lebih dari tiga puluh tahun, dan dunia…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coreweave-ai-selloff-asal-usul-kripto-utang",
-   "img": "https://assets.beincrypto.com/img/CD8lBYQ1L6_FSy1bn7NVvGuw2IE=/smart/9f3c9c134755406484d4ad55da8dfa39",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/bitcoin-ancaman-kuantum-batas-waktu-migrasi",
+   "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-26T04:30:00"
+   "published_at": "2026-10-28T00:29:24"
   },
   {
    "id": 7661,
@@ -432,38 +418,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T21:46:02"
   },
   {
-   "id": 7481,
+   "id": 7824,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Harga BTC berisiko turun $80 ribu jelang FOMC, laporan keuangan",
-   "x": "Bitcoin berjuang mempertahankan level $80.000 menjelang rilis data inflasi dan laporan keuangan perusahaan teknologi AS. Investor mencermati data ekonomi makro yang dapat memengaruhi kebijakan The Fed.",
+   "t": "Suku Bunga The Fed yang Tinggi Beri Tekanan pada Bitcoin",
+   "x": "Keputusan The Fed untuk mempertahankan suku bunga tinggi menekan Bitcoin, sementara pelaku pasar memperkirakan kenaikan suku bunga Desember. Imbal hasil obligasi negara dan data inflasi AS akan menentukan arah Bitcoin selanjutnya.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VWYCQ5ATPVXMVHFJSGW9JY/coin-bitcoin-scream-price.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T10:49:55"
+   "published_at": "2026-10-29T01:12:01"
   },
   {
-   "id": 7472,
+   "id": 7617,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin turun di bawah $80.000 saat trader kurangi risiko jelang rapat The Fed",
+   "t": "Bitcoin bertahan di bawah $80.000, pembangunan AI tarik investor",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+   "img": null,
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T04:37:02"
+   "published_at": "2026-10-27T11:40:50"
   },
   {
    "id": 7659,
@@ -480,18 +466,18 @@
    "published_at": "2026-10-27T14:32:08"
   },
   {
-   "id": 7700,
+   "id": 7733,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ancaman Kuantum Bitcoin Itu Nyata, Jam Migrasi Terus Berjalan",
-   "x": "Industri ini terus bertanya-tanya kapan komputer kuantum akan cukup kuat untuk membobol Bitcoin. Kriptografi elliptic-curve sudah diketahui rentan terhadap serangan kuantum selama lebih dari tiga puluh tahun, dan dunia…",
+   "t": "IBM atau Bitcoin? Quantum Membuat Kevin O'Leary dari Shark Tank Berpikir Ulang",
+   "x": "Kevin O'Leary melirik IBM karena kekhawatiran terhadap quantum computing dan penundaan regulasi AS membebani Bitcoin, meskipun ia masih memegang BTC miliknya sendiri.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-ancaman-kuantum-batas-waktu-migrasi",
-   "img": "https://assets.beincrypto.com/img/y72UzCAfDrZ7bJ1RApze_ds8wuY=/smart/04c64641085a4db5a3c6bcde0ab87e26",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/bitcoin-kuantum-oleary-ibm-kekhawatiran",
+   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-28T00:29:24"
+   "published_at": "2026-10-28T13:12:13"
   },
   {
    "id": 7693,
@@ -516,7 +502,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T16:15:02"
@@ -536,18 +522,18 @@
    "published_at": "2026-10-26T13:27:38"
   },
   {
-   "id": 7616,
+   "id": 7619,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin tunjukkan pelemahan, kemenangan bank Ripple tak dongkrak XRP",
+   "t": "Bitcoin di bawah $80.000, pasar kripto abaikan reli Asia, rapat The Fed dimulai",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/caff288a8b43cf1d97d81ebe16d87f4bdde60b22-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T12:00:39"
+   "published_at": "2026-10-27T11:32:45"
   },
   {
    "id": 7720,
@@ -558,24 +544,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/1920×1080@2x-scaled.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T03:00:33"
   },
   {
-   "id": 7733,
+   "id": 7735,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "IBM atau Bitcoin? Quantum Membuat Kevin O'Leary dari Shark Tank Berpikir Ulang",
-   "x": "Kevin O'Leary melirik IBM karena kekhawatiran terhadap quantum computing dan penundaan regulasi AS membebani Bitcoin, meskipun ia masih memegang BTC miliknya sendiri.",
+   "t": "Ancaman Sebenarnya untuk Pembayaran Bitcoin Bukan Teknologi, Kata Tim Jack Dorsey",
+   "x": "Tim Bitcoin Block, Spiral, mengatakan pembayaran Bitcoin kurang diminati, bukan karena teknologi, sementara Stripe dan Visa memilih stablecoin. Lihat ide moonshot mereka.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-kuantum-oleary-ibm-kekhawatiran",
-   "img": "https://assets.beincrypto.com/img/w691oHGnbDIH0S-qs9M7HtNo2v4=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "10 jam lalu",
+   "url": "https://id.beincrypto.com/bitcoin-pembayaran-stablecoin-spiral-report",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-28T13:12:13"
+   "published_at": "2026-10-28T12:39:08"
   },
   {
    "id": 7662,
@@ -620,18 +606,18 @@
    "published_at": "2026-10-27T13:30:00"
   },
   {
-   "id": 7617,
+   "id": 7621,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin bertahan di bawah $80.000, pembangunan AI tarik investor",
+   "t": "Investor prediksi bitcoin capai $57.000",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-   "img": null,
+   "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b7ab3adea84221d8026972fcd65e9dd2a434b424-1500x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T11:40:50"
+   "published_at": "2026-10-27T10:57:51"
   },
   {
    "id": 7534,
@@ -648,18 +634,18 @@
    "published_at": "2026-10-26T13:23:14"
   },
   {
-   "id": 7735,
+   "id": 7732,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Ancaman Sebenarnya untuk Pembayaran Bitcoin Bukan Teknologi, Kata Tim Jack Dorsey",
-   "x": "Tim Bitcoin Block, Spiral, mengatakan pembayaran Bitcoin kurang diminati, bukan karena teknologi, sementara Stripe dan Visa memilih stablecoin. Lihat ide moonshot mereka.",
+   "t": "OpenAI Katakan AI-nya Membantah Exponential Time Hypothesis. Apakah Bitcoin Aman?",
+   "x": "AI OpenAI membantah Hipotesis Waktu Eksponensial. Lihat mengapa P vs NP masih tetap berlaku dan kriptografi Bitcoin tetap aman.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-pembayaran-stablecoin-spiral-report",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "11 jam lalu",
+   "url": "https://id.beincrypto.com/openai-hipotesis-waktu-eksponensial-p-vs-np",
+   "img": "https://assets.beincrypto.com/img/CcFFb2JDqj6ucOPdjWouVWkIQW4=/smart/5f4ee071259f42ce943c94b71d22891d",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-28T12:39:08"
+   "published_at": "2026-10-28T14:04:31"
   },
   {
    "id": 7580,
@@ -704,18 +690,18 @@
    "published_at": "2026-10-26T08:20:49"
   },
   {
-   "id": 7619,
+   "id": 7707,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin di bawah $80.000, pasar kripto abaikan reli Asia, rapat The Fed dimulai",
+   "t": "Saham Datavault AI Anjlok 50% Usai Perusahaan Tak Bisa Akses BTC",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/7ea06fe12b67cf68a418acec0b27042a90242011-2753x2065.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T11:32:45"
+   "published_at": "2026-10-28T05:28:13"
   },
   {
    "id": 7536,
@@ -732,18 +718,18 @@
    "published_at": "2026-10-26T13:00:00"
   },
   {
-   "id": 7732,
+   "id": 7486,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "OpenAI Katakan AI-nya Membantah Exponential Time Hypothesis. Apakah Bitcoin Aman?",
-   "x": "AI OpenAI membantah Hipotesis Waktu Eksponensial. Lihat mengapa P vs NP masih tetap berlaku dan kriptografi Bitcoin tetap aman.",
+   "t": "Apa Maksud Jack Dorsey dengan “There Is No Moat”? Elon Musk dan Michael Saylor Ikut Berpendapat",
+   "x": "CEO Block Jack Dorsey memposting “there is no moat” di X. Michael Saylor menjawab dengan Bitcoin, sementara Elon Musk justru menyinggung Sparta kuno.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/openai-hipotesis-waktu-eksponensial-p-vs-np",
-   "img": "https://assets.beincrypto.com/img/CcFFb2JDqj6ucOPdjWouVWkIQW4=/smart/5f4ee071259f42ce943c94b71d22891d",
-   "a": "10 jam lalu",
+   "url": "https://id.beincrypto.com/jack-dorsey-tanpa-parit-saylor-musk",
+   "img": "https://assets.beincrypto.com/img/cTzMtBSUj9mUWfyKeztyT8-nlrA=/smart/266df16cf1b24c0db5d31981d9cbc2c9",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-28T14:04:31"
+   "published_at": "2026-10-26T08:57:20"
   },
   {
    "id": 7703,
@@ -782,38 +768,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60NEYRT27HS3BACTE6CCD20/futures-bitcoin-options-top-5.jpg",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T07:57:18"
   },
   {
-   "id": 7621,
+   "id": 7745,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Investor prediksi bitcoin capai $57.000",
+   "t": "Bitcoin pulih di atas $81 ribu seiring reli chip Asia merembet ke kripto, pepe naik 9%",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/b7ab3adea84221d8026972fcd65e9dd2a434b424-1500x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0b2f635d2d8183e6118bfd2090c1ac62b999524b-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T10:57:51"
+   "published_at": "2026-10-28T11:32:31"
   },
   {
-   "id": 7486,
+   "id": 7525,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Apa Maksud Jack Dorsey dengan “There Is No Moat”? Elon Musk dan Michael Saylor Ikut Berpendapat",
-   "x": "CEO Block Jack Dorsey memposting “there is no moat” di X. Michael Saylor menjawab dengan Bitcoin, sementara Elon Musk justru menyinggung Sparta kuno.",
+   "t": "ETF Baru Franklin Templeton Bisa Ciptakan Mesin Pembelian Bitcoin",
+   "x": "ETF yang direncanakan oleh Franklin Templeton akan mengirimkan dividen dari saham-saham AS teratas ke Bitcoin, lalu memangkasnya di 5%. Ini catatannya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jack-dorsey-tanpa-parit-saylor-musk",
-   "img": "https://assets.beincrypto.com/img/cTzMtBSUj9mUWfyKeztyT8-nlrA=/smart/266df16cf1b24c0db5d31981d9cbc2c9",
+   "url": "https://id.beincrypto.com/franklin-templeton-etf-dividen-saham-bitcoin",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-26T08:57:20"
+   "published_at": "2026-10-26T14:47:18"
   },
   {
    "id": 7721,
@@ -824,7 +810,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoinjs-lib-psbt-fee-bugs-standard.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T05:30:00"
@@ -838,10 +824,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T15:15:34"
+  },
+  {
+   "id": 7767,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin incar $82 ribu saat analis Morgan Stanley sebut koreksi mayoritas telah usai",
+   "x": "Bitcoin berupaya membangun kembali dukungan di level $80.000 seiring saham teknologi Asia dan AS melanjutkan pemulihan. Investor menanti rilis laporan pendapatan perusahaan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z3BJXQ46ZDN2Q8H9RF7F7N/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea-1.jpg",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T09:56:00"
   }
  ]
 }

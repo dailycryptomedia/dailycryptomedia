@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/apa-yang-terjadi-jika-jaringan-blockchain-mati",
    "img": null,
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T06:00:44"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sony-blockchain-token-baru-generative-ai-royalties",
    "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T01:11:42"
@@ -46,20 +46,6 @@
    "published_at": "2026-10-26T21:10:35"
   },
   {
-   "id": 7470,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bursa kripto terbesar India rugikan $16 juta akibat kegagalan proses internal",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T05:39:17"
-  },
-  {
    "id": 7789,
    "k": "web3",
    "cat": "Web3",
@@ -68,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61K25H2E5TR4HTCQ50BH6GF/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets-1.png",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T16:40:02"
@@ -82,10 +68,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/robinhood.png",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T17:06:24"
+  },
+  {
+   "id": 7620,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pembuat dompet kripto Keystone musnahkan 19.000 perangkat pasca pelanggaran keamanan",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T11:13:54"
   },
   {
    "id": 7724,
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/wallet-yang-menguasai-aster",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T07:30:10"
@@ -130,46 +130,18 @@
    "published_at": "2026-10-27T10:00:59"
   },
   {
-   "id": 7620,
+   "id": 7653,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pembuat dompet kripto Keystone musnahkan 19.000 perangkat pasca pelanggaran keamanan",
+   "t": "CF Benchmarks bawa infrastruktur harga Wall Street ke blockchain",
    "x": "",
    "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T11:13:54"
-  },
-  {
-   "id": 7462,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Hong Kong sebut perusahaan terdaftar Nasdaq Solana sebagai perusahaan strategis",
-   "x": "Pemerintah Hong Kong menunjuk perusahaan yang terafiliasi dengan Solana sebagai perusahaan strategis. Langkah ini sejalan dengan rencana perusahaan untuk mendirikan operasi validator Solana di wilayah tersebut.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T03:21:26"
-  },
-  {
-   "id": 7478,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CoinDCX akui kehilangan 15,99 juta USDT, sistem wallet lama gagal",
-   "x": "Bursa kripto CoinDCX mengumumkan kehilangan 15,99 juta USDT akibat kegagalan sistem dompet lama. Perusahaan sedang menyelidiki aliran dana yang hilang tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/coindcx-akui-kehilangan-1599-juta-usdt-sistem-wallet-lama-gagal",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T02:30:16"
+   "published_at": "2026-10-27T14:00:00"
   },
   {
    "id": 7487,
@@ -200,46 +172,18 @@
    "published_at": "2026-10-26T08:00:25"
   },
   {
-   "id": 7653,
+   "id": 7590,
    "k": "web3",
    "cat": "Web3",
-   "t": "CF Benchmarks bawa infrastruktur harga Wall Street ke blockchain",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T14:00:00"
-  },
-  {
-   "id": 7463,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pelanggaran situs Keystone ungkap alamat pembeli dompet perangkat keras",
-   "x": "Data pengiriman pembeli dompet perangkat keras Keystone bocor akibat peretasan situs. Informasi ini berpotensi membuat pengguna menjadi sasaran penipuan dan serangan fisik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-26T02:24:04"
-  },
-  {
-   "id": 7468,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "3 Laporan Keuangan Big Tech yang Perlu Diperhatikan saat Tagihan AI Terus Meningkat",
-   "x": "Laporan keuangan big tech hadir minggu ini, dengan Microsoft, Alphabet, dan Amazon akan merilis laporan kuartalan mereka. Pada kuartal terbaru mereka, Google Cloud tumbuh 82%, Azure naik 42%, dan Amazon Web Services…",
+   "t": "Pembayaran Kripto Punya Biaya Tersembunyi yang Jarang Dihitung Bisnis",
+   "x": "Ketika pelanggan membayar dengan aset kripto, blockchain menunjukkan dana keluar dari wallet mereka. Tapi, toko online tetap menandai pesanan tersebut sebagai belum dibayar. Mendadak, transaksi biasa berubah jadi tiket…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/top-3-laporan-pendapatan-big-tech-pekan-terakhir-oktober",
-   "img": "https://assets.beincrypto.com/img/TzJt3OlfTsgI_FyzBB-mixZfdjU=/smart/4f393c66f13d4ad7940b19e962bb8c74",
+   "url": "https://id.beincrypto.com/biaya-tersembunyi-gateway-pembayaran-kripto-bisnis",
+   "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-26T01:09:54"
+   "published_at": "2026-10-27T02:04:51"
   },
   {
    "id": 7635,
@@ -254,20 +198,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T08:50:22"
-  },
-  {
-   "id": 7590,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pembayaran Kripto Punya Biaya Tersembunyi yang Jarang Dihitung Bisnis",
-   "x": "Ketika pelanggan membayar dengan aset kripto, blockchain menunjukkan dana keluar dari wallet mereka. Tapi, toko online tetap menandai pesanan tersebut sebagai belum dibayar. Mendadak, transaksi biasa berubah jadi tiket…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/biaya-tersembunyi-gateway-pembayaran-kripto-bisnis",
-   "img": "https://assets.beincrypto.com/img/fLaqkmZgNfg550l82ptnSebsqEU=/smart/6ab52b5cd0164abbbebbd0a658dcc158",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-27T02:04:51"
   }
  ]
 }
