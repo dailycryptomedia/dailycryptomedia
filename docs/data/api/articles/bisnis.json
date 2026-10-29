@@ -1,5 +1,5 @@
 {
- "total": 35,
+ "total": 37,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,6 +16,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T00:39:58"
+  },
+  {
+   "id": 7866,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Polygon Tambah Solana ke Tumpukan Pembayaran",
+   "x": "Polygon mengintegrasikan Solana ke platform pembayarannya, menghubungkan bisnis ke pendanaan bank, transfer lintas-rantai, stablecoin, dan pembayaran global. Langkah ini memperluas kapabilitas jaringan untuk transaksi aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News_3.jpg",
+   "a": "28 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T13:00:00"
   },
   {
    "id": 7692,
@@ -40,38 +54,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T13:01:02"
   },
   {
-   "id": 7760,
+   "id": 7839,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Ripple prediksi pendapatan produk tahunan $900 juta seiring ekspansi bisnis institusi",
-   "x": "Ripple memproyeksikan pendapatan produk tahunan mencapai $900 juta pada akhir 2026. Pertumbuhan ini didorong oleh ekspansi bisnis institusional dan peningkatan volume transaksi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T13:00:00"
-  },
-  {
-   "id": 7676,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Ripple dan Robinhood perluas kemitraan untuk RLUSD di pasar ritel dan institusi",
-   "x": "Ripple dan Robinhood memperluas kolaborasi mereka untuk membawa stablecoin RLUSD ke pasar ritel dan institusional. Kemitraan ini juga mencakup solusi lain seperti kustodian aset digital.",
+   "t": "Polygon Perluas Tumpukan Uang Terbuka ke Solana",
+   "x": "Polygon melanjutkan ekspansi platform Open Money Stack ke jaringan Solana, menyusul integrasi sebelumnya dengan Tron. Langkah ini memperkuat posisi Polygon dalam menyediakan infrastruktur keuangan terdesentralisasi yang saling terhubung.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZBHWRX2BG8Y30Y9AEP1V37/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XYK5DA7HNM6JWT8WCYXTGK/polygon-1.jpg",
+   "a": "28 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T19:54:05"
+   "published_at": "2026-10-29T13:00:00"
   },
   {
    "id": 7683,
@@ -102,6 +102,20 @@
    "published_at": "2026-10-28T06:02:07"
   },
   {
+   "id": 7760,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Ripple prediksi pendapatan produk tahunan $900 juta seiring ekspansi bisnis institusi",
+   "x": "Ripple memproyeksikan pendapatan produk tahunan mencapai $900 juta pada akhir 2026. Pertumbuhan ini didorong oleh ekspansi bisnis institusional dan peningkatan volume transaksi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T13:00:00"
+  },
+  {
    "id": 7569,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -130,32 +144,18 @@
    "published_at": "2026-10-27T20:42:11"
   },
   {
-   "id": 7592,
+   "id": 7676,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Circle Hadapi Risiko Pendapatan 20% Akibat Agen AI, Kata Mizuho",
-   "x": "Agen AI berpotensi mengalihkan pemegang USDC ke alternatif fiat yang memberikan imbal hasil lebih tinggi. Hal ini menimbulkan risiko penurunan pendapatan bagi Circle.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/circle_usdc_header_1920x1080.png",
+   "t": "Ripple dan Robinhood perluas kemitraan untuk RLUSD di pasar ritel dan institusi",
+   "x": "Ripple dan Robinhood memperluas kolaborasi mereka untuk membawa stablecoin RLUSD ke pasar ritel dan institusional. Kemitraan ini juga mencakup solusi lain seperti kustodian aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZBHWRX2BG8Y30Y9AEP1V37/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T06:28:34"
-  },
-  {
-   "id": 7581,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "RedotPay Pertimbangkan Pengajuan IPO di AS Akhir Tahun Ini",
-   "x": "Perusahaan pembayaran stablecoin RedotPay dikabarkan sedang mempertimbangkan pengajuan penawaran umum perdana (IPO) di Amerika Serikat. Langkah ini dapat meningkatkan likuiditas dan eksposur perusahaan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T04:26:51"
+   "published_at": "2026-10-27T19:54:05"
   },
   {
    "id": 7520,
@@ -166,7 +166,7 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/ba780857f001e57cd12781be763097e729621894-4790x3193.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-26T13:22:09"
@@ -186,6 +186,20 @@
    "published_at": "2026-10-27T20:14:47"
   },
   {
+   "id": 7592,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle Hadapi Risiko Pendapatan 20% Akibat Agen AI, Kata Mizuho",
+   "x": "Agen AI berpotensi mengalihkan pemegang USDC ke alternatif fiat yang memberikan imbal hasil lebih tinggi. Hal ini menimbulkan risiko penurunan pendapatan bagi Circle.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/circle_usdc_header_1920x1080.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T06:28:34"
+  },
+  {
    "id": 7805,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -194,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/galaxy-ai-balance-sheet.webp",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T17:40:30"
@@ -208,38 +222,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T21:16:03"
   },
   {
-   "id": 7690,
+   "id": 7581,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Robinhood Chain Raih $26 Juta Seiring Pendapatan Kripto Naik 20%",
-   "x": "Pendapatan kripto Robinhood meningkat berkat peluncuran blockchain baru, sementara pasar prediksi menghasilkan $173 juta pada kuartal ketiga. Ini menandakan pertumbuhan bisnis aset digital perusahaan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T20:55:35"
-  },
-  {
-   "id": 7606,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pendiri Zcash minta hentikan dana hibah lebih dari $125 juta",
-   "x": "Pendiri Zcash meminta agar dana hibah dihentikan dan dialihkan untuk cadangan jaringan. Hal ini menimbulkan pertanyaan tentang alokasi sumber daya dalam proyek kripto.",
+   "t": "RedotPay Pertimbangkan Pengajuan IPO di AS Akhir Tahun Ini",
+   "x": "Perusahaan pembayaran stablecoin RedotPay dikabarkan sedang mempertimbangkan pengajuan penawaran umum perdana (IPO) di Amerika Serikat. Langkah ini dapat meningkatkan likuiditas dan eksposur perusahaan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T10:00:31"
+   "published_at": "2026-10-27T04:26:51"
   },
   {
    "id": 7573,
@@ -256,6 +256,20 @@
    "published_at": "2026-10-27T01:21:42"
   },
   {
+   "id": 7690,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Robinhood Chain Raih $26 Juta Seiring Pendapatan Kripto Naik 20%",
+   "x": "Pendapatan kripto Robinhood meningkat berkat peluncuran blockchain baru, sementara pasar prediksi menghasilkan $173 juta pada kuartal ketiga. Ini menandakan pertumbuhan bisnis aset digital perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T20:55:35"
+  },
+  {
    "id": 7821,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -264,7 +278,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/robinhood-posts-record-1-4-billion-revenue-but-a-14-profit-drop-exposes-hidden-portfolio-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/robinhood-event-contract-carnival.webp",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T20:50:25"
@@ -278,38 +292,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T20:16:03"
   },
   {
-   "id": 7656,
+   "id": 7606,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "SoFi laporkan 503.000 produk kripto, pendapatan kotor capai $162 juta",
-   "x": "SoFi melaporkan jumlah produk aset digital yang mereka tawarkan kepada nasabah, menunjukkan pertumbuhan pendapatan kotor dari segmen ini. Hal ini mengindikasikan minat yang terus meningkat pada aset kripto di kalangan nasabah perusahaan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T15:35:32"
-  },
-  {
-   "id": 7557,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Perusahaan AI Anthropic Umumkan IPO, Diperkirakan November",
-   "x": "Perusahaan kecerdasan buatan Anthropic mengumumkan rencana penawaran umum perdana (IPO) yang diperkirakan berlangsung November. Laporan keuangan menunjukkan pendapatan lebih dari $16 miliar namun juga kerugian bersih $80 miliar di paruh pertama 2026.",
+   "t": "Pendiri Zcash minta hentikan dana hibah lebih dari $125 juta",
+   "x": "Pendiri Zcash meminta agar dana hibah dihentikan dan dialihkan untuk cadangan jaringan. Hal ini menimbulkan pertanyaan tentang alokasi sumber daya dalam proyek kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg",
+   "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T18:42:41"
+   "published_at": "2026-10-27T10:00:31"
   },
   {
    "id": 7522,
@@ -326,6 +326,20 @@
    "published_at": "2026-10-26T18:06:25"
   },
   {
+   "id": 7656,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "SoFi laporkan 503.000 produk kripto, pendapatan kotor capai $162 juta",
+   "x": "SoFi melaporkan jumlah produk aset digital yang mereka tawarkan kepada nasabah, menunjukkan pertumbuhan pendapatan kotor dari segmen ini. Hal ini mengindikasikan minat yang terus meningkat pada aset kripto di kalangan nasabah perusahaan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T15:35:32"
+  },
+  {
    "id": 7806,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -334,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-credit-restrictions.webp",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T16:40:28"
@@ -354,18 +368,18 @@
    "published_at": "2026-10-26T13:50:22"
   },
   {
-   "id": 7514,
+   "id": 7557,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Pasar prediksi HOOD akan tambah $1,7 miliar ke pendapatan, lampaui kripto pada 2028: Bernstein",
-   "x": "Analis Bernstein menaikkan estimasi pendapatan Robinhood hingga 2028, memproyeksikan pasar prediksinya akan melampaui kontribusi dari aset kripto. Ini menandakan potensi diversifikasi pendapatan platform.",
+   "t": "Perusahaan AI Anthropic Umumkan IPO, Diperkirakan November",
+   "x": "Perusahaan kecerdasan buatan Anthropic mengumumkan rencana penawaran umum perdana (IPO) yang diperkirakan berlangsung November. Laporan keuangan menunjukkan pendapatan lebih dari $16 miliar namun juga kerugian bersih $80 miliar di paruh pertama 2026.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg",
+   "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-26T13:12:41"
+   "published_at": "2026-10-26T18:42:41"
   },
   {
    "id": 7524,
@@ -390,10 +404,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-institutional-growth-staircase.webp",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T02:10:42"
+  },
+  {
+   "id": 7514,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Pasar prediksi HOOD akan tambah $1,7 miliar ke pendapatan, lampaui kripto pada 2028: Bernstein",
+   "x": "Analis Bernstein menaikkan estimasi pendapatan Robinhood hingga 2028, memproyeksikan pasar prediksinya akan melampaui kontribusi dari aset kripto. Ini menandakan potensi diversifikasi pendapatan platform.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-26T13:12:41"
   },
   {
    "id": 7736,
@@ -404,7 +432,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-amplitude-insiden-vendor-data-pelanggan",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T11:56:52"
@@ -446,7 +474,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-tembaga-kembali-ke-trendline-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/Jx0kvq45GMww_1x0ccYLMOS2Reo=/smart/74526dce64bb4a61a9ff5857d28760ee",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T15:43:30"
@@ -460,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-500-ex-ai-rekor-oktober",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T10:17:41"
