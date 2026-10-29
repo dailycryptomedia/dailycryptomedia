@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-usdc-vault-outflow.webp",
-   "a": "6 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:00:42"
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T19:46:03"
@@ -40,7 +40,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T12:00:00"
@@ -82,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/susdai-vault-access-limits.webp",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T17:40:06"
@@ -96,7 +96,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T17:46:02"
@@ -110,10 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethena-earn-plus-usde-price-lenses-standard-v4.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T22:10:04"
+  },
+  {
+   "id": 7926,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas Binance Cari Jalan Keluar Saat Bursa DeFi Hentikan Pasar",
+   "x": "Pelaku peretasan Binance dilaporkan menukar stablecoin yang bisa dibekukan dengan Ethereum di bursa terdesentralisasi. Bursa DeFi menghentikan pasar untuk mencegah pergerakan dana lebih lanjut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
+   "a": "31 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T22:57:48"
   },
   {
    "id": 7772,
