@@ -1,5 +1,5 @@
 {
- "total": 356,
+ "total": 364,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg",
-   "a": "57 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T22:31:07"
+  },
+  {
+   "id": 7943,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Profil 5 platform kripto didukung Y Combinator hingga 2026",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/platform-crypto-yang-didukung-y-combinator",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T01:45:36"
   },
   {
    "id": 7666,
@@ -54,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-usdc-vault-outflow.webp",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:00:42"
@@ -68,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News_3.jpg",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T13:00:00"
-  },
-  {
-   "id": 7727,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Apa yang terjadi jika jaringan blockchain mati?",
-   "x": "Pertanyaan mengenai nasib saldo aset digital jika jaringan blockchain berhenti beroperasi menjadi perhatian. Penjelasan mendalam mengenai skenario ini penting bagi pemahaman risiko pengguna.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/apa-yang-terjadi-jika-jaringan-blockchain-mati",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T06:00:44"
   },
   {
    "id": 7615,
@@ -130,6 +130,20 @@
    "published_at": "2026-10-28T07:42:55"
   },
   {
+   "id": 7727,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apa yang terjadi jika jaringan blockchain mati?",
+   "x": "Pertanyaan mengenai nasib saldo aset digital jika jaringan blockchain berhenti beroperasi menjadi perhatian. Penjelasan mendalam mengenai skenario ini penting bagi pemahaman risiko pengguna.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/apa-yang-terjadi-jika-jaringan-blockchain-mati",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T06:00:44"
+  },
+  {
    "id": 7904,
    "k": "pasar",
    "cat": "Pasar",
@@ -138,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T18:53:44"
@@ -152,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fed-rate-pathways.webp",
-   "a": "8 menit lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T23:20:53"
@@ -172,20 +186,6 @@
    "published_at": "2026-10-27T16:59:10"
   },
   {
-   "id": 7724,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bukan CZ Binance, ini wallet yang kuasai 88% token ASTER",
-   "x": "Kepemilikan mayoritas token ASTER ternyata bukan dipegang oleh pendukung utamanya, CZ Binance. Daftar lengkap pemegang token ini diungkap untuk memberikan gambaran distribusi aset.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/wallet-yang-menguasai-aster",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T07:30:10"
-  },
-  {
    "id": 7595,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -200,18 +200,18 @@
    "published_at": "2026-10-27T06:14:41"
   },
   {
-   "id": 7711,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Miner Pindah ke AI, Tapi Kenapa Hash Rate Mendekati Rekor?",
-   "x": "Hash rate Bitcoin berada 6,5% di bawah rekor tertingginya karena para miner mengalihkan daya ke AI. Lihat siapa yang menggantikan kekuatan komputasi yang hilang.",
+   "id": 7933,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Schwab Sebut AI Sudah Lewati Tahap Eksperimen: Akankah AI Mengulang Reli Dot-Com?",
+   "x": "Schwab mengatakan adopsi AI telah melewati tahap eksperimen. Peluncuran trading web pada tahun 1996 menunjukkan bagaimana pergeseran itu dapat terjadi.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-hash-rate-dekat-rekor-ai",
-   "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/schwab-adopsi-generative-ai-dot-com-boom",
+   "img": "https://assets.beincrypto.com/img/QNUNoUPR6HnjQIj0G0OFGDdMIT8=/smart/b707d08c207e49a88f8a76ea797fcf05",
+   "a": "24 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-28T07:32:51"
+   "published_at": "2026-10-30T02:25:00"
   },
   {
    "id": 7603,
@@ -228,6 +228,20 @@
    "published_at": "2026-10-27T13:01:10"
   },
   {
+   "id": 7724,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Bukan CZ Binance, ini wallet yang kuasai 88% token ASTER",
+   "x": "Kepemilikan mayoritas token ASTER ternyata bukan dipegang oleh pendukung utamanya, CZ Binance. Daftar lengkap pemegang token ini diungkap untuk memberikan gambaran distribusi aset.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/wallet-yang-menguasai-aster",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T07:30:10"
+  },
+  {
    "id": 7790,
    "k": "defi",
    "cat": "DeFi",
@@ -242,18 +256,18 @@
    "published_at": "2026-10-28T19:46:03"
   },
   {
-   "id": 7898,
+   "id": 7939,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Investor kripto tolak jual token ETF XRP meski harga anjlok 25%",
-   "x": "Investor XRP menahan aset mereka meskipun terjadi penurunan harga yang signifikan pada token ETF XRP. Hal ini menunjukkan keyakinan investor pada aset tersebut di tengah volatilitas pasar.",
+   "t": "Allium pulihkan 18 rantai utama, tapi hanya platform tertentu yang aman",
+   "x": "Allium berhasil memulihkan data pada 18 rantai utama, namun proses pemulihan data untuk BigQuery dan pemulihan akun masih berlangsung. Hal ini penting bagi pengguna yang bergantung pada layanan data terdesentralisasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-etf-holdings-decline.webp",
-   "a": "4 jam lalu",
+   "url": "https://cryptoslate.com/allium-restores-18-major-chains-but-only-specific-platforms-are-safe",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/allium-data-recovery-standard-image.jpg",
+   "a": "8 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T18:50:59"
+   "published_at": "2026-10-30T02:40:17"
   },
   {
    "id": 7760,
@@ -270,20 +284,6 @@
    "published_at": "2026-10-28T13:00:00"
   },
   {
-   "id": 7725,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "82 proyek kripto ditutup sepanjang 2026",
-   "x": "Sebanyak 82 proyek aset digital menghentikan operasionalnya sepanjang tahun 2026. Pengguna diimbau untuk memeriksa akun mereka guna memastikan aset tidak terdampak penutupan proyek.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/proyek-kripto-ditutup-sepanjang-2026",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T07:00:55"
-  },
-  {
    "id": 7616,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -298,18 +298,18 @@
    "published_at": "2026-10-27T12:00:39"
   },
   {
-   "id": 7583,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Yardeni Sebut Gelembung AI Mulai Kempes, Bukan Meledak, saat Pasar Obligasi Mulai Ikut Andil",
-   "x": "Ed Yardeni mengatakan udara perlahan keluar dari gelembung AI tanpa ledakan, karena pasar obligasi membatasi modal untuk peminjam AI yang lebih lemah.",
+   "id": 7711,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Miner Pindah ke AI, Tapi Kenapa Hash Rate Mendekati Rekor?",
+   "x": "Hash rate Bitcoin berada 6,5% di bawah rekor tertingginya karena para miner mengalihkan daya ke AI. Lihat siapa yang menggantikan kekuatan komputasi yang hilang.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/yardeni-ai-bubble-deflating-pasar-obligasi",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/bitcoin-hash-rate-dekat-rekor-ai",
+   "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-27T06:43:54"
+   "published_at": "2026-10-28T07:32:51"
   },
   {
    "id": 7604,
@@ -326,6 +326,20 @@
    "published_at": "2026-10-27T13:01:00"
   },
   {
+   "id": 7725,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "82 proyek kripto ditutup sepanjang 2026",
+   "x": "Sebanyak 82 proyek aset digital menghentikan operasionalnya sepanjang tahun 2026. Pengguna diimbau untuk memeriksa akun mereka guna memastikan aset tidak terdampak penutupan proyek.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/proyek-kripto-ditutup-sepanjang-2026",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T07:00:55"
+  },
+  {
    "id": 7628,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -340,18 +354,18 @@
    "published_at": "2026-10-27T13:01:08"
   },
   {
-   "id": 7769,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pembeli opsi Bitcoin hadapi premi mingguan The Fed yang bisa hilang",
-   "x": "Pembeli opsi Bitcoin menghadapi premi tersirat yang tinggi menjelang keputusan The Fed. Premi ini berpotensi menghilang setelah pengumuman kebijakan dibuat, memengaruhi strategi perdagangan.",
+   "id": 7898,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Investor kripto tolak jual token ETF XRP meski harga anjlok 25%",
+   "x": "Investor XRP menahan aset mereka meskipun terjadi penurunan harga yang signifikan pada token ETF XRP. Hal ini menunjukkan keyakinan investor pada aset tersebut di tengah volatilitas pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-option-buyers-face-a-fed-week-premium-that-can-fade-after-the-decision",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-options-time-decay.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-etf-holdings-decline.webp",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T14:40:38"
+   "published_at": "2026-10-29T18:50:59"
   },
   {
    "id": 7894,
@@ -362,24 +376,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:00:06"
-  },
-  {
-   "id": 7598,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Takut Kena Rug Pull Meme Coin? Coba Fitur Canggih Ini di Cryptoiz",
-   "x": "",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/takut-kena-rug-pull-meme-coin-coba-fitur-canggih-ini-di-cryptoiz",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T06:00:51"
   },
   {
    "id": 7741,
@@ -396,18 +396,18 @@
    "published_at": "2026-10-28T13:14:37"
   },
   {
-   "id": 7849,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Wheat Catat Rangkaian Penurunan Terpanjang sejak 1997: Apa Artinya untuk Portofolio",
-   "x": "Harga gandum menuju penurunan mingguan kesembilan, menjadi rentetan kerugian terpanjang sejak 1997. Lihat bagaimana hal ini berkaitan dengan inflasi, The Fed, dan aset kripto.",
+   "id": 7583,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Yardeni Sebut Gelembung AI Mulai Kempes, Bukan Meledak, saat Pasar Obligasi Mulai Ikut Andil",
+   "x": "Ed Yardeni mengatakan udara perlahan keluar dari gelembung AI tanpa ledakan, karena pasar obligasi membatasi modal untuk peminjam AI yang lebih lemah.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/gandum-penurunan-terpanjang-sejak-1997",
-   "img": "https://assets.beincrypto.com/img/oVY8mXzdxbpNZ9AoAk1dEg-bYgQ=/smart/691585afd384410ea9fc821902095520",
-   "a": "10 jam lalu",
+   "url": "https://id.beincrypto.com/yardeni-ai-bubble-deflating-pasar-obligasi",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-29T12:57:37"
+   "published_at": "2026-10-27T06:43:54"
   },
   {
    "id": 7840,
@@ -418,10 +418,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63QFJK4GE3865D1SZFS77F7/hi-us-sanctions-against-darknet.jpg",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T12:38:03"
+  },
+  {
+   "id": 7944,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Peretas Binance diduga jual 7,77 triliun PEPE, harga anjlok 12%",
+   "x": "Peretas Binance diduga menjual aset kripto PEPE senilai triliunan koin, menyebabkan harganya anjlok lebih dari 12 persen. Insiden ini menyoroti risiko keamanan di bursa kripto besar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/peretas-binance-diduga-jual-777-triliun-pepe-harga-anjlok-lebih-dari-12-persen",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T01:45:15"
   },
   {
    "id": 7861,
@@ -432,24 +446,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T13:01:02"
   },
   {
-   "id": 7579,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Manual draf Optimism hilangkan pemilihan pemegang token",
-   "x": "Yayasan Optimism mengusulkan perubahan manual yang akan mengakhiri pemilihan dewan oleh kelompok pemegang token. Perubahan ini membatasi kekuasaan pemegang token dalam memilih perwakilan mereka.",
+   "id": 7769,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pembeli opsi Bitcoin hadapi premi mingguan The Fed yang bisa hilang",
+   "x": "Pembeli opsi Bitcoin menghadapi premi tersirat yang tinggi menjelang keputusan The Fed. Premi ini berpotensi menghilang setelah pengumuman kebijakan dibuat, memengaruhi strategi perdagangan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-optimisms-draft-manual-silently-strips-tokenholder-elections",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/optimism-security-council-veto.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-option-buyers-face-a-fed-week-premium-that-can-fade-after-the-decision",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-options-time-decay.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T01:30:08"
+   "published_at": "2026-10-28T14:40:38"
   },
   {
    "id": 7759,
@@ -466,20 +480,6 @@
    "published_at": "2026-10-28T14:43:01"
   },
   {
-   "id": 7726,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "6 penyebab stablecoin depeg dan cara mitigasi",
-   "x": "Fenomena stablecoin yang harganya anjlok di bawah nilai tukar patokannya, dikenal sebagai depeg. Artikel ini mengulas penyebab umum depeg dan langkah-langkah untuk mengantisipasinya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/penyebab-stablecoin-depeg",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T06:30:15"
-  },
-  {
    "id": 7617,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -494,18 +494,18 @@
    "published_at": "2026-10-27T11:40:50"
   },
   {
-   "id": 7888,
+   "id": 7849,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Polymarket Hentikan Trading karena Pengguna Lapor US$1,4 Juta Terkuras",
-   "x": "Polymarket membekukan perdagangan baru setelah pengguna melaporkan dana sebesar $1,4 juta terkuras. Apa yang sudah terkonfirmasi, dan siapa yang akan menanggung kerugian tersebut?",
+   "t": "Wheat Catat Rangkaian Penurunan Terpanjang sejak 1997: Apa Artinya untuk Portofolio",
+   "x": "Harga gandum menuju penurunan mingguan kesembilan, menjadi rentetan kerugian terpanjang sejak 1997. Lihat bagaimana hal ini berkaitan dengan inflasi, The Fed, dan aset kripto.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/polymarket-hentikan-trading-pengguna-terdrain",
-   "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
-   "a": "4 jam lalu",
+   "url": "https://id.beincrypto.com/gandum-penurunan-terpanjang-sejak-1997",
+   "img": "https://assets.beincrypto.com/img/oVY8mXzdxbpNZ9AoAk1dEg-bYgQ=/smart/691585afd384410ea9fc821902095520",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-29T18:35:18"
+   "published_at": "2026-10-29T12:57:37"
   },
   {
    "id": 7785,
@@ -520,6 +520,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T19:10:40"
+  },
+  {
+   "id": 7598,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Takut Kena Rug Pull Meme Coin? Coba Fitur Canggih Ini di Cryptoiz",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/takut-kena-rug-pull-meme-coin-coba-fitur-canggih-ini-di-cryptoiz",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T06:00:51"
   },
   {
    "id": 7629,
@@ -550,32 +564,18 @@
    "published_at": "2026-10-28T19:40:47"
   },
   {
-   "id": 7592,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Circle Hadapi Risiko Pendapatan 20% Akibat Agen AI, Kata Mizuho",
-   "x": "Agen AI berpotensi mengalihkan pemegang USDC ke alternatif fiat yang memberikan imbal hasil lebih tinggi. Hal ini menimbulkan risiko penurunan pendapatan bagi Circle.",
+   "id": 7932,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin di bawah $77.000, BNB turun akibat peretasan Binance",
+   "x": "Harga Bitcoin turun di bawah $77.000, sementara BNB mengalami pelemahan seiring dengan insiden peretasan yang menimpa bursa Binance. Peristiwa ini kembali menyoroti risiko keamanan siber di industri aset kripto.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/circle_usdc_header_1920x1080.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-12.06.59.png",
+   "a": "26 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T06:28:34"
-  },
-  {
-   "id": 7835,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitcoin Loyo Pasca FOMC, Pasar Kripto Waspadai Desember",
-   "x": "Bitcoin kehilangan momentum setelah pengumuman FOMC, memicu kewaspadaan di pasar kripto. Arus dana masuk ETF dan data inflasi AS menjadi faktor penting yang perlu dicermati investor.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-gagal-melaju-usai-fomc-pasar-kripto-waspadai-desember",
-   "img": null,
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T04:30:33"
+   "published_at": "2026-10-30T02:22:31"
   },
   {
    "id": 7618,
@@ -592,18 +592,18 @@
    "published_at": "2026-10-27T11:37:52"
   },
   {
-   "id": 7574,
+   "id": 7888,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Elon Musk Rekrut Product Manager Pertama Snapchat di X",
-   "x": "X menunjuk veteran Snapchat, Peter Sellis, sebagai kepala produk, memberinya sistem pembayaran kreator yang terikat pada audiens kecil yang membayar.",
+   "t": "Polymarket Hentikan Trading karena Pengguna Lapor US$1,4 Juta Terkuras",
+   "x": "Polymarket membekukan perdagangan baru setelah pengguna melaporkan dana sebesar $1,4 juta terkuras. Apa yang sudah terkonfirmasi, dan siapa yang akan menanggung kerugian tersebut?",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/x-twitter-peter-sellis-pembayaran-kreator",
-   "img": "https://assets.beincrypto.com/img/fbirQ8mAZ-znXu3b9IXhkeeh9O4=/smart/a87c7481361b4f068fcde096faad7581",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/polymarket-hentikan-trading-pengguna-terdrain",
+   "img": "https://assets.beincrypto.com/img/uumottdZsdgoHBLKcCz0sPgwjSM=/smart/19bb5ede567a4ce4a1788fe96d1a25fd",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-27T01:21:03"
+   "published_at": "2026-10-29T18:35:18"
   },
   {
    "id": 7605,
@@ -618,6 +618,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T12:18:24"
+  },
+  {
+   "id": 7945,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "AI temukan 3 celah keamanan Bitcoin Core, node bisa crash",
+   "x": "Kecerdasan buatan mengidentifikasi tiga kerentanan pada Bitcoin Core yang berpotensi menyebabkan node mengalami crash. Pengembang telah merilis pembaruan untuk mengatasi masalah ini, menjaga stabilitas jaringan Bitcoin.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ai-temukan-3-celah-keamanan-bitcoin-core-node-bisa-crash",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T01:30:32"
   },
   {
    "id": 7667,
@@ -642,38 +656,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-holders-waiting-for-a-2024-style-election-rally-face-a-different-test",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-policy-election-watch.webp",
-   "a": "10 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T13:00:19"
   },
   {
-   "id": 7578,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "BlackRock gandeng SBI dan Startale hubungkan tokenisasi MMF dengan stablecoin yen",
-   "x": "BlackRock, SBI Holdings, dan Startale akan menjajaki integrasi dana pasar uang yang ditokenisasi dengan stablecoin yen Jepang. Inisiatif ini berpotensi memperluas penggunaan aset digital dalam instrumen keuangan tradisional.",
+   "id": 7592,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle Hadapi Risiko Pendapatan 20% Akibat Agen AI, Kata Mizuho",
+   "x": "Agen AI berpotensi mengalihkan pemegang USDC ke alternatif fiat yang memberikan imbal hasil lebih tinggi. Hal ini menimbulkan risiko penurunan pendapatan bagi Circle.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/blackrock-japan.png",
+   "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/circle_usdc_header_1920x1080.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T01:00:00"
-  },
-  {
-   "id": 7836,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Misteri Whale Kripto Pindahkan US$290 Juta Tiap Tengah Malam",
-   "x": "Seorang whale kripto memindahkan dana senilai US$290 juta setiap malam selama lebih dari setahun, menimbulkan pertanyaan tentang motif di balik transaksi besar tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/misteri-whale-kripto-yang-pindahkan-us290-juta-tiap-tengah-malam",
-   "img": null,
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T04:00:45"
+   "published_at": "2026-10-27T06:28:34"
   },
   {
    "id": 7650,
@@ -718,6 +718,20 @@
    "published_at": "2026-10-28T13:47:51"
   },
   {
+   "id": 7726,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "6 penyebab stablecoin depeg dan cara mitigasi",
+   "x": "Fenomena stablecoin yang harganya anjlok di bawah nilai tukar patokannya, dikenal sebagai depeg. Artikel ini mengulas penyebab umum depeg dan langkah-langkah untuk mengantisipasinya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/penyebab-stablecoin-depeg",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T06:30:15"
+  },
+  {
    "id": 7791,
    "k": "pasar",
    "cat": "Pasar",
@@ -740,7 +754,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bithumb-staff-system-inspection-standard.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T23:40:57"
@@ -758,20 +772,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T12:05:17"
-  },
-  {
-   "id": 7728,
-   "k": "nft",
-   "cat": "NFT & Gaming",
-   "t": "Mahasiswa UGM kembangkan game blockchain dengan hadiah token",
-   "x": "Mahasiswa Universitas Gadjah Mada menciptakan game blockchain bernama Depths yang menawarkan hadiah token Monad. Inisiatif ini menunjukkan potensi pengembangan game terdesentralisasi di Indonesia.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/mahasiswa-ugm-kembangkan-game-blockchain-hadirkan-hadiah-token-monad",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T05:45:31"
   },
   {
    "id": 7619,
@@ -796,7 +796,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peringatan-harga-bitcoin-tanda-crash-perak",
    "img": "https://assets.beincrypto.com/img/zWwrOsS-9z3fsRPxfPC4MKTCAog=/smart/ebc1394a537349c788bfe67a81bdade6",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T23:32:47"
@@ -816,6 +816,20 @@
    "published_at": "2026-10-27T21:28:22"
   },
   {
+   "id": 7835,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitcoin Loyo Pasca FOMC, Pasar Kripto Waspadai Desember",
+   "x": "Bitcoin kehilangan momentum setelah pengumuman FOMC, memicu kewaspadaan di pasar kripto. Arus dana masuk ETF dan data inflasi AS menjadi faktor penting yang perlu dicermati investor.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-gagal-melaju-usai-fomc-pasar-kripto-waspadai-desember",
+   "img": null,
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T04:30:33"
+  },
+  {
    "id": 7906,
    "k": "defi",
    "cat": "DeFi",
@@ -824,24 +838,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T17:46:02"
-  },
-  {
-   "id": 7692,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Perdebatan pendanaan Zcash memanas, Tyler Winklevoss minta hentikan subsidi",
-   "x": "Pendanaan Zcash memanas akibat persaingan proposal untuk menghentikan atau memperpanjang subsidi pengembang. Perdebatan ini penting karena menyangkut masa depan pengembangan jaringan privasi tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zcashs-125-million-funding-fight-widens-as-tyler-winklevoss-calls-to-end-its-usaid",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-grants-program-overhaul.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T22:20:21"
   }
  ]
 }
