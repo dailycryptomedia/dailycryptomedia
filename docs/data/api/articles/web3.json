@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/apakah-binance-diretas-dana-nasabah",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T20:49:22"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/central-banks-map-their-role-in-a-payments-system-shared-with-stablecoins",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-payment-framework.webp",
-   "a": "2 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T06:30:55"
@@ -74,18 +74,32 @@
    "published_at": "2026-10-28T17:06:24"
   },
   {
-   "id": 7620,
+   "id": 7989,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pembuat dompet kripto Keystone musnahkan 19.000 perangkat pasca pelanggaran keamanan",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "t": "Trezor peringatkan pembeli CryptoBilis terkait implan perangkat keras",
+   "x": "Produsen dompet perangkat keras Trezor mengeluarkan peringatan kepada pembeli produk CryptoBilis setelah laporan adanya implan berbahaya. Pengguna disarankan memindahkan dana mereka demi keamanan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/trezor-safe-5-decrypt-style-gID_7.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T11:13:54"
+   "published_at": "2026-10-30T10:07:29"
+  },
+  {
+   "id": 7653,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CF Benchmarks bawa infrastruktur harga Wall Street ke blockchain",
+   "x": "",
+   "w": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-27T14:00:00"
   },
   {
    "id": 7724,
@@ -102,32 +116,18 @@
    "published_at": "2026-10-28T07:30:10"
   },
   {
-   "id": 7612,
+   "id": 7892,
    "k": "web3",
    "cat": "Web3",
-   "t": "Mengapa Memiliki Lebih Banyak Token Tidak Lagi Cukup untuk Wallet Kripto",
-   "x": "Beberapa tahun lalu, strategi untuk sebuah wallet kripto itu sederhana. Daftarkan koin yang sedang dikejar banyak orang sebelum pesaing Anda melakukannya. Dukung token populer yang hanya Anda miliki, lalu pengguna akan…",
+   "t": "AS Jatuhkan Sanksi kepada Dua Warga Rusia yang Dituduh Ubah US$5,5 Juta Aset Kripto untuk Korea Utara",
+   "x": "Departemen Keuangan AS memberikan sanksi kepada 10 individu dan satu entitas pada 28 Oktober terkait skema pekerja TI Korea Utara. Dua di antara yang disebut adalah warga Rusia yang diduga mengonversi jutaan aset kripto…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tren-crypto-wallet-strategi-pertumbuhan-pengguna",
-   "img": "https://assets.beincrypto.com/img/S61udqqW4m3kpaVZhvBg0Upg64w=/smart/34c386915f2340d18fe22efe51652d9c",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/korea-utara-crypto-cashout-bursa-mainstream",
+   "img": "https://assets.beincrypto.com/img/SjLE4yjh7ZBML0Dbzsi7fRXoW7c=/smart/219124e48374478384d3c16bf862f999",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-27T09:44:27"
-  },
-  {
-   "id": 7634,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Kerugian $16 Juta CoinDCX Hidupkan Kembali Ingatan FTX dan Celsius",
-   "x": "CoinDCX mengonfirmasi kerugian sekitar $16 juta USDT akibat proses operasional yang gagal, memicu kekhawatiran di kalangan investor. Insiden ini mengingatkan pada kegagalan bursa kripto besar sebelumnya seperti FTX dan Celsius.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coindcxs-16-million-loss-revives-uncomfortable-memories-of-ftx-and-celsius",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coindcx-wallet-warning.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T10:00:59"
+   "published_at": "2026-10-29T13:27:48"
   },
   {
    "id": 7930,
@@ -138,24 +138,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T00:11:26"
-  },
-  {
-   "id": 7653,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CF Benchmarks bawa infrastruktur harga Wall Street ke blockchain",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T14:00:00"
   },
   {
    "id": 7946,
@@ -166,38 +152,66 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/binance-dibobol-hacker-kripto-senilai-rp99-triliun-diduga-raib",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T00:00:42"
   },
   {
-   "id": 7892,
+   "id": 7998,
    "k": "web3",
    "cat": "Web3",
-   "t": "AS Jatuhkan Sanksi kepada Dua Warga Rusia yang Dituduh Ubah US$5,5 Juta Aset Kripto untuk Korea Utara",
-   "x": "Departemen Keuangan AS memberikan sanksi kepada 10 individu dan satu entitas pada 28 Oktober terkait skema pekerja TI Korea Utara. Dua di antara yang disebut adalah warga Rusia yang diduga mengonversi jutaan aset kripto…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/korea-utara-crypto-cashout-bursa-mainstream",
-   "img": "https://assets.beincrypto.com/img/SjLE4yjh7ZBML0Dbzsi7fRXoW7c=/smart/219124e48374478384d3c16bf862f999",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-29T13:27:48"
-  },
-  {
-   "id": 7635,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Log dompet publik ungkap riwayat pendiri, grup Zcash minta perbaikan",
-   "x": "Sebuah grup kebijakan Zcash meminta SEC untuk melindungi aktivitas dompet yang tidak terkait dari rezim penggalangan dana yang diusulkan. Hal ini penting untuk menjaga privasi pengguna tanpa menyembunyikan informasi kepemilikan atau konflik kepentingan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/atkinss-zcash-crypto-privacy-vision-faces-a-test-what-must-founders-reveal",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-wallet-disclosure-debate.webp",
-   "a": "3 hari lalu",
+   "t": "Arbitrum amankan US$30 juta aset peretas Binance",
+   "x": "Arbitrum berhasil mengamankan US$30 juta aset curian dari peretasan Binance menggunakan mekanisme darurat. Tindakan ini dilakukan tanpa persetujuan pemilik dompet, menunjukkan kemampuan respons cepat dalam insiden keamanan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/arbitrum-menyamar-jadi-wallet-peretas-binance-us30-juta-diamankan",
+   "img": null,
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T08:50:22"
+   "published_at": "2026-10-30T10:30:45"
+  },
+  {
+   "id": 8000,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Tether bekukan dompet kosong, hacker Binance pindahkan US$729 juta",
+   "x": "Hacker Binance berhasil memindahkan US$729 juta sebelum Tether membekukan dompet terkait. Investigasi mengungkap enam dompet telah kosong saat dibekukan, menunjukkan kecepatan pergerakan dana curian.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/tether-bekukan-dompet-kosong-hacker-binance-sudah-pindahkan-us729-juta",
+   "img": null,
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T09:15:28"
+  },
+  {
+   "id": 8007,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hacker jenius bobol Binance, ini modusnya",
+   "x": "Seorang hacker berhasil membobol Binance menggunakan modus EIP-7702, menguras dana dari dompet dalam waktu kurang dari dua menit. Peristiwa ini menyoroti kerentanan keamanan di bursa kripto besar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/hacker-jenius-bobol-binance-ini-modusnya",
+   "img": null,
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T03:30:12"
+  },
+  {
+   "id": 8010,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Hacker kuras validator Solana, dana bantuan pun dicuri dalam 5 detik",
+   "x": "Lima validator Solana berhasil dikuras oleh hacker yang juga mencuri dana bantuan hanya dalam lima detik. Insiden ini menyoroti risiko keamanan yang dihadapi jaringan blockchain.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/hacker-kuras-validator-solana-dana-bantuan-pun-dicuri-dalam-5-detik",
+   "img": null,
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T02:30:53"
   }
  ]
 }

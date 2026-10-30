@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-usdc-vault-outflow.webp",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:00:42"
@@ -40,24 +40,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T12:00:00"
   },
   {
-   "id": 7957,
+   "id": 8001,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Semua Aset Kripto Turun, Kecuali HyperLiquid. Mengapa?",
-   "x": "Kripto mengalami penurunan karena kekhawatiran peretasan Binance, sementara Hyperliquid naik karena kabar dari ICE, Druckenmiller, dan Elon Musk.",
+   "t": "Peretasan Binance Rp114 Triliun Jadi Alarm bagi RI, Pengamat Ingatkan Risiko Lumpuhnya Pasar Kripto Nasional",
+   "x": "Peretasan Binance senilai Rp114 triliun menjadi peringatan keras bagi industri aset kripto Indonesia. Insiden ini menyoroti risiko sentralisasi dan keamanan infrastruktur pasar domestik.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/peretasan-binance-rp114-triliun-jadi-alarm-bagi-ri-pengamat-ingatkan-risiko-lumpuhnya-pasar-kripto-nasional",
+   "img": null,
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T09:00:24"
+  },
+  {
+   "id": 7980,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bagaimana Peretasan Binance Terjadi? Investigasi Lengkap atas Perampokan US$6 Miliar",
+   "x": "Pada 29 Oktober 2026, seorang penyerang menguras sekitar US$6,15 miliar dari Binance hanya dalam 31 menit. Ini menjadi salah satu pencurian terbesar dalam sejarah aset kripto, bahkan sejarah internet. Pada awalnya…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/hyperliquid-naik-crypto-turun-ice-druckenmiller",
-   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
-   "a": "5 jam lalu",
+   "url": "https://id.beincrypto.com/bagaimana-peretasan-binance-terjadi",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-30T03:54:17"
+   "published_at": "2026-10-30T12:00:00"
   },
   {
    "id": 7658,
@@ -68,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-27-at-14.10.43.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-27T14:39:22"
-  },
-  {
-   "id": 7625,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ethereum perbaiki bug Glamsterdam yang bisa kirim deposit staking ke pengembang",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T07:09:56"
+   "published_at": "2026-10-27T14:39:22"
   },
   {
    "id": 7899,
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/susdai-vault-access-limits.webp",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T17:40:06"
@@ -110,10 +110,52 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T17:46:02"
+  },
+  {
+   "id": 7976,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "RUNE THORChain naik 13% pasca peretasan Binance $6,3 miliar",
+   "x": "Token RUNE milik THORChain melonjak 13% setelah peretasan Binance senilai $6,3 miliar. Sebelumnya, peretas Korea Utara menggunakan THORChain untuk memindahkan dana curian dari bursa lain.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T09:52:29"
+  },
+  {
+   "id": 7999,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Jejak dana peretas Binance dan Bitget bertemu, tuding hacker Korut menguat",
+   "x": "Temuan ZachXBT menunjukkan jejak dana dari peretasan Binance dan Bitget bertemu di satu dompet, memperkuat dugaan keterlibatan hacker Korea Utara. Insiden ini menyoroti risiko keamanan yang dihadapi bursa kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/jejak-dana-binance-dan-bitget-bertemu-tudingan-hacker-korut-menguat",
+   "img": null,
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T10:00:55"
+  },
+  {
+   "id": 7957,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Semua Aset Kripto Turun, Kecuali HyperLiquid. Mengapa?",
+   "x": "Kripto mengalami penurunan karena kekhawatiran peretasan Binance, sementara Hyperliquid naik karena kabar dari ICE, Druckenmiller, dan Elon Musk.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/hyperliquid-naik-crypto-turun-ice-druckenmiller",
+   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-30T03:54:17"
   },
   {
    "id": 7820,
@@ -138,10 +180,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T22:57:48"
+  },
+  {
+   "id": 7982,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Elon Musk Trolling Peretasan Binance, dan CZ Mengingatkan Tentang Investasi SpaceX",
+   "x": "CZ menempatkan selisih peretasan Binance sebesar USD2 miliar dan menunjuk saham SpaceX sebagai penutup. Lockup dan trolling Musk membuatnya semakin rumit.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cz-elon-musk-spacex-saham-binance-hack-gap",
+   "img": "https://assets.beincrypto.com/img/QsN1rOZT0DdqNqBjfLGlUEkz91c=/smart/5dbf6c617ff84540a85c1a6af77ebdba",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-30T10:26:55"
   },
   {
    "id": 7772,
@@ -152,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/sun-52nd-buyback-burn-685-million-tokens.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T11:50:08"

@@ -1,5 +1,5 @@
 {
- "total": 31,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News_3.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T13:00:00"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T13:01:02"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XYK5DA7HNM6JWT8WCYXTGK/polygon-1.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T13:00:00"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-google-alphabet-alami-penurunan-terburuk-setelah-laporan-keuangan",
    "img": "https://assets.beincrypto.com/img/plCWVeSA4NRwXHhxvzRTAeQxnEg=/smart/8919b2f7ffdb423eae44f768a7cb24b9",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T17:41:03"
@@ -110,24 +110,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T13:00:00"
   },
   {
-   "id": 7941,
+   "id": 7992,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Silicon Valley alihkan dana AI ke kripto pakai cetak biru ICO Ethereum",
-   "x": "Pendanaan startup di Silicon Valley kini beralih ke sektor kripto dengan menggunakan model penggalangan dana ala Initial Coin Offering (ICO) Ethereum. Pergeseran ini menandakan minat baru investor terhadap teknologi blockchain.",
+   "t": "CZ minta Musk berhenti mengolok-olok, sebut saham SpaceX miliknya bernilai lebih dari $1 miliar",
+   "x": "Pendiri Binance, CZ, mengklaim kepemilikan saham SpaceX miliknya bernilai lebih dari $1 miliar, sebagai respons terhadap komentar Elon Musk. Pendapatan tahunan Binance disebut cukup untuk menutupi kerugian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/yc-crypto-startup-request-standard.jpg",
-   "a": "8 jam lalu",
+   "url": "https://cryptoslate.com/cz-asks-musk-to-stop-trolling-saying-our-spacex-shares-top-1-billion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/cz-musk-broken-bridge.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T00:40:53"
+   "published_at": "2026-10-30T14:30:37"
   },
   {
    "id": 7686,
@@ -186,18 +186,18 @@
    "published_at": "2026-10-27T20:55:35"
   },
   {
-   "id": 7805,
+   "id": 7941,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Pusat Data AI Galaxy Hasilkan Pendapatan Sewa $79 Juta, Rugi Bersih Kecil",
-   "x": "Pendapatan sewa pusat data AI Galaxy mencapai $79 juta, meskipun mencatat kerugian bersih kecil pada kuartal pertama. Kinerja ini menunjukkan potensi bisnis infrastruktur AI di tengah fluktuasi pasar.",
+   "t": "Silicon Valley alihkan dana AI ke kripto pakai cetak biru ICO Ethereum",
+   "x": "Pendanaan startup di Silicon Valley kini beralih ke sektor kripto dengan menggunakan model penggalangan dana ala Initial Coin Offering (ICO) Ethereum. Pergeseran ini menandakan minat baru investor terhadap teknologi blockchain.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/galaxy-ai-balance-sheet.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/yc-crypto-startup-request-standard.jpg",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T17:40:30"
+   "published_at": "2026-10-30T00:40:53"
   },
   {
    "id": 7928,
@@ -208,7 +208,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T20:46:43"
@@ -222,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M645J97VC3A5CMG513YAMSA9/hi-legal-implications-of-betting-markets-2.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T15:52:43"
@@ -250,24 +250,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-27T15:35:32"
   },
   {
-   "id": 7821,
+   "id": 7805,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Robinhood Catat Pendapatan Rekor $1,4 Miliar, Namun Laba Turun 14% Ungkap Kerugian Portofolio",
-   "x": "Pendapatan Robinhood mencapai rekor tertinggi, namun penurunan laba mengindikasikan adanya kerugian tersembunyi dalam portofolionya. Pasar prediksi menghasilkan pendapatan lebih besar daripada aset kripto pada kuartal III.",
+   "t": "Pusat Data AI Galaxy Hasilkan Pendapatan Sewa $79 Juta, Rugi Bersih Kecil",
+   "x": "Pendapatan sewa pusat data AI Galaxy mencapai $79 juta, meskipun mencatat kerugian bersih kecil pada kuartal pertama. Kinerja ini menunjukkan potensi bisnis infrastruktur AI di tengah fluktuasi pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/robinhood-posts-record-1-4-billion-revenue-but-a-14-profit-drop-exposes-hidden-portfolio-losses",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/robinhood-event-contract-carnival.webp",
+   "url": "https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/galaxy-ai-balance-sheet.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T20:50:25"
+   "published_at": "2026-10-28T17:40:30"
   },
   {
    "id": 7817,
@@ -292,7 +292,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:53:14"
@@ -306,24 +306,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-amplitude-insiden-vendor-data-pelanggan",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T11:56:52"
   },
   {
-   "id": 7806,
+   "id": 7821,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Akses pendanaan ritel bank zona euro memburuk tajam",
-   "x": "Akses bank di zona euro ke pendanaan ritel mengalami penurunan tajam, menandakan potensi tantangan bagi sektor keuangan. Dampaknya terhadap aset kripto akan bergantung pada biaya pembiayaan dan anggaran risiko investor.",
+   "t": "Robinhood Catat Pendapatan Rekor $1,4 Miliar, Namun Laba Turun 14% Ungkap Kerugian Portofolio",
+   "x": "Pendapatan Robinhood mencapai rekor tertinggi, namun penurunan laba mengindikasikan adanya kerugian tersembunyi dalam portofolionya. Pasar prediksi menghasilkan pendapatan lebih besar daripada aset kripto pada kuartal III.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-credit-restrictions.webp",
+   "url": "https://cryptoslate.com/robinhood-posts-record-1-4-billion-revenue-but-a-14-profit-drop-exposes-hidden-portfolio-losses",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/robinhood-event-contract-carnival.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T16:40:28"
+   "published_at": "2026-10-28T20:50:25"
   },
   {
    "id": 7818,
@@ -340,18 +340,32 @@
    "published_at": "2026-10-28T20:16:03"
   },
   {
-   "id": 7606,
+   "id": 7979,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Pendiri Zcash minta hentikan dana hibah lebih dari $125 juta",
-   "x": "Pendiri Zcash meminta agar dana hibah dihentikan dan dialihkan untuk cadangan jaringan. Hal ini menimbulkan pertanyaan tentang alokasi sumber daya dalam proyek kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg",
-   "a": "2 hari lalu",
+   "t": "Elon Musk Menjual Masa Depan Telepati: Bisakah Anda Investasi sebelum IPO?",
+   "x": "Neuralink milik Elon Musk menunjukkan demo Telepathy terbaru. Bisakah Anda berinvestasi di Neuralink sebelum IPO? Kebanyakan orang tidak bisa, dan token kripto membawa risiko besar.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bisakah-anda-berinvestasi-di-demo-telepati-neuralink",
+   "img": "https://assets.beincrypto.com/img/LZrkCcWZe4OlDs2znW07nE4DzDM=/smart/065772033d8d45a492c75cdfddb59d08",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-30T12:52:29"
+  },
+  {
+   "id": 7806,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Akses pendanaan ritel bank zona euro memburuk tajam",
+   "x": "Akses bank di zona euro ke pendanaan ritel mengalami penurunan tajam, menandakan potensi tantangan bagi sektor keuangan. Dampaknya terhadap aset kripto akan bergantung pada biaya pembiayaan dan anggaran risiko investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-credit-restrictions.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-27T10:00:31"
+   "published_at": "2026-10-28T16:40:28"
   },
   {
    "id": 7681,
@@ -390,7 +404,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cramer-broadcom-anthropic-deal-nvidia",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-27T14:33:23"
@@ -404,7 +418,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-tembaga-kembali-ke-trendline-anthropic-ipo",
    "img": "https://assets.beincrypto.com/img/Jx0kvq45GMww_1x0ccYLMOS2Reo=/smart/74526dce64bb4a61a9ff5857d28760ee",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T15:43:30"
@@ -418,7 +432,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-500-ex-ai-rekor-oktober",
    "img": "https://assets.beincrypto.com/img/winH4LT7QQRjlfdiSvulGuhzOdA=/smart/5865be9d67504e52bf74f903acb4c608",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T10:17:41"
