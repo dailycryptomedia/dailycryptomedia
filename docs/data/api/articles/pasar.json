@@ -1,5 +1,5 @@
 {
- "total": 170,
+ "total": 161,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/indonesia-panas-dengan-singapura",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:30:35"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/model-ai-cina-2030-bloomberg-intelligence",
    "img": "https://assets.beincrypto.com/img/m1HkLtV3NYE0eqYRWTjnOEaJ3M8=/smart/f0b25f3cee004924afbfd4eb60fb9e77",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T14:42:00"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/intel-logo-decrypt-style-01-gID_7.png",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T20:53:23"
@@ -86,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:00:06"
-  },
-  {
-   "id": 7741,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "DTCC Libatkan Bank Besar Dekatkan Sekuritas Senilai $30 Triliun ke Blockchain",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T13:14:37"
   },
   {
    "id": 7943,
@@ -172,32 +158,18 @@
    "published_at": "2026-10-29T12:38:03"
   },
   {
-   "id": 7759,
+   "id": 7961,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Kripto bersiap hadapi pergeseran pengawasan kongres pasca-pemilu sela",
-   "x": "Sektor aset kripto berpotensi menghadapi lanskap politik yang berbeda di bawah Kongres baru. Perubahan ini dapat memengaruhi regulasi dan pengawasan terhadap industri.",
+   "t": "Laba bersih Coinbase naik 66% seiring pasar prediksi makin populer",
+   "x": "Pendapatan bersih Coinbase melonjak signifikan pada kuartal ketiga, didorong oleh pertumbuhan pasar prediksi dan derivatif. Kinerja ini mengimbangi penurunan aktivitas perdagangan spot.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/11/20201105_OTC_Election.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/coinbase_centered_1920x1080.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T14:43:01"
-  },
-  {
-   "id": 7743,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "3 hal yang perlu diperhatikan dari rapat The Fed",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/ef11a5cc0617168c1ce14a276d6d7d85c7a882ad-8087x4549.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T11:57:26"
+   "published_at": "2026-10-30T08:57:09"
   },
   {
    "id": 7944,
@@ -270,32 +242,18 @@
    "published_at": "2026-10-28T19:10:40"
   },
   {
-   "id": 7961,
+   "id": 7962,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Laba bersih Coinbase naik 66% seiring pasar prediksi makin populer",
-   "x": "Pendapatan bersih Coinbase melonjak signifikan pada kuartal ketiga, didorong oleh pertumbuhan pasar prediksi dan derivatif. Kinerja ini mengimbangi penurunan aktivitas perdagangan spot.",
+   "t": "Trezor laporkan dugaan implan perangkat keras pada Safe 5 dari CryptoBilis",
+   "x": "Produsen dompet kripto Trezor memperingatkan pengguna tentang kemungkinan adanya modifikasi perangkat keras pada produk Safe 5 yang dijual oleh CryptoBilis. Pengguna diimbau segera memindahkan aset digital mereka.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/coinbase_centered_1920x1080.png",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T08:57:09"
-  },
-  {
-   "id": 7749,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bank terbesar Brasil mulai layanan pialang kripto sesuai aturan baru",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T10:07:54"
+   "published_at": "2026-10-30T08:55:39"
   },
   {
    "id": 7835,
@@ -334,7 +292,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T19:31:02"
@@ -368,32 +326,18 @@
    "published_at": "2026-10-29T12:00:00"
   },
   {
-   "id": 7962,
+   "id": 7919,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Trezor laporkan dugaan implan perangkat keras pada Safe 5 dari CryptoBilis",
-   "x": "Produsen dompet kripto Trezor memperingatkan pengguna tentang kemungkinan adanya modifikasi perangkat keras pada produk Safe 5 yang dijual oleh CryptoBilis. Pengguna diimbau segera memindahkan aset digital mereka.",
+   "t": "Binance selidiki peretasan, aliran dana keluar mencurigakan capai $5,8 miliar",
+   "x": "Binance sedang menyelidiki dugaan peretasan besar-besaran yang menyebabkan miliaran dolar aset digital keluar dari dompet panasnya. Pembekuan aset oleh Tether dan Circle menunjukkan upaya penahanan dana yang dicuri.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg",
+   "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230418_Binance_Generic_3.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T08:55:39"
-  },
-  {
-   "id": 7750,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kospi melonjak 7% didorong lonjakan saham AI berkat kinerja SK Hynix",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/6a0c51cace524074c11166ebc658daf776ae51bc-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T09:59:25"
+   "published_at": "2026-10-29T21:49:16"
   },
   {
    "id": 8052,
@@ -404,7 +348,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/platform-launchpad-memecoin-binance-chain-dihack",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T04:16:43"
@@ -418,7 +362,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/gandum-penurunan-terpanjang-sejak-1997",
    "img": "https://assets.beincrypto.com/img/oVY8mXzdxbpNZ9AoAk1dEg-bYgQ=/smart/691585afd384410ea9fc821902095520",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T12:57:37"
@@ -452,32 +396,32 @@
    "published_at": "2026-10-28T19:40:47"
   },
   {
-   "id": 7763,
+   "id": 8075,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Oktober siber: Cara melindungi diri dari serangan",
-   "x": "Bulan ini diwarnai berita serangan siber berbasis AI dan kerentanan baru. Masyarakat umum perlu waspada dan memahami cara melindungi diri di dunia maya.",
+   "t": "Binance klaim 90% aset curian telah diganti, targetkan penarikan Minggu",
+   "x": "Bursa kripto Binance menyatakan telah mengganti sebagian besar aset yang hilang akibat peretasan. Langkah ini diambil untuk memulihkan kepercayaan pengguna dan melanjutkan operasional layanan penarikan dana.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg",
+   "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T15:36:01"
+  },
+  {
+   "id": 7867,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Curve Finance Meluncur di Stellar, Implementasi Native Pertama di Luar Ekosistem EVM",
+   "x": "Curve Finance telah meluncurkan protokolnya di jaringan utama Stellar. Ini menandai ekspansi pertama di luar ekosistem Ethereum Virtual Machine (EVM).",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230804_Curve_News_2.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T13:30:00"
-  },
-  {
-   "id": 7919,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance selidiki peretasan, aliran dana keluar mencurigakan capai $5,8 miliar",
-   "x": "Binance sedang menyelidiki dugaan peretasan besar-besaran yang menyebabkan miliaran dolar aset digital keluar dari dompet panasnya. Pembekuan aset oleh Tether dan Circle menunjukkan upaya penahanan dana yang dicuri.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230418_Binance_Generic_3.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T21:49:16"
+   "published_at": "2026-10-29T11:00:00"
   },
   {
    "id": 7836,
@@ -508,18 +452,18 @@
    "published_at": "2026-10-29T18:35:18"
   },
   {
-   "id": 7862,
+   "id": 8088,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "HTX Sepakati Hengkang dari Inggris dalam Penyelesaian dengan Pengawas Keuangan",
-   "x": "Bursa kripto yang terafiliasi dengan Justin Sun sepakat untuk tidak lagi menargetkan konsumen di Inggris. Ini mengakhiri kasus pertama regulator terhadap perusahaan kripto terkait pemasaran.",
+   "t": "Peretasan Binance: Semua yang perlu Anda ketahui tentang pencurian kripto terbesar",
+   "x": "Peretas yang diduga terkait Korea Utara berhasil mencuri sekitar $6,4 miliar dari bursa kripto terbesar dunia. Insiden ini menyoroti risiko keamanan yang dihadapi platform aset digital berskala global.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/htx-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T12:58:28"
+   "published_at": "2026-10-31T15:01:02"
   },
   {
    "id": 8032,
@@ -530,7 +474,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-hackers-deploy-never-seen-before-laundering-tactics-to-conceal-6-3-billion-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-crypto-laundering-funnel.webp",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T20:30:08"
@@ -544,24 +488,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg",
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T22:00:00"
   },
   {
-   "id": 7867,
+   "id": 7984,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Curve Finance Meluncur di Stellar, Implementasi Native Pertama di Luar Ekosistem EVM",
-   "x": "Curve Finance telah meluncurkan protokolnya di jaringan utama Stellar. Ini menandai ekspansi pertama di luar ekosistem Ethereum Virtual Machine (EVM).",
+   "t": "Binance sebut siapkan $6,34 miliar untuk menutupi kerugian peretasan",
+   "x": "Binance mengalokasikan dana besar untuk menutupi kerugian akibat peretasan, sementara mitra industri membekukan aset terdampak lainnya. Langkah ini menunjukkan upaya bursa untuk memulihkan kepercayaan pasca insiden keamanan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230804_Curve_News_2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_4.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T11:00:00"
+   "published_at": "2026-10-30T13:14:56"
   },
   {
    "id": 8053,
@@ -572,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/chainalysis-dihack",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:45:49"
@@ -592,18 +536,18 @@
    "published_at": "2026-10-28T23:32:47"
   },
   {
-   "id": 8022,
+   "id": 7862,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Penculikan Kripto Senilai $8 Juta, Dua Bersaudara Texas Divonis 15 Tahun",
-   "x": "Dua bersaudara di Texas divonis 15 tahun penjara karena penculikan dan pemerasan senilai $8 juta dalam bentuk kripto. Kasus ini menyoroti risiko kejahatan yang melibatkan aset digital.",
+   "t": "HTX Sepakati Hengkang dari Inggris dalam Penyelesaian dengan Pengawas Keuangan",
+   "x": "Bursa kripto yang terafiliasi dengan Justin Sun sepakat untuk tidak lagi menargetkan konsumen di Inggris. Ini mengakhiri kasus pertama regulator terhadap perusahaan kripto terkait pemasaran.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "18 jam lalu",
+   "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/htx-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T18:16:02"
+   "published_at": "2026-10-29T12:58:28"
   },
   {
    "id": 7819,
@@ -634,18 +578,18 @@
    "published_at": "2026-10-28T21:35:52"
   },
   {
-   "id": 7984,
+   "id": 8042,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Binance sebut siapkan $6,34 miliar untuk menutupi kerugian peretasan",
-   "x": "Binance mengalokasikan dana besar untuk menutupi kerugian akibat peretasan, sementara mitra industri membekukan aset terdampak lainnya. Langkah ini menunjukkan upaya bursa untuk memulihkan kepercayaan pasca insiden keamanan.",
+   "t": "Presiden Trump tanggapi peretasan Binance, seruan regulasi kripto menguat",
+   "x": "Setelah peretasan bursa kripto terbesar dunia, Binance, senilai $6,3 miliar, seruan untuk legislasi aset digital semakin menguat.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_4.jpg",
-   "a": "23 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/20250602_Trump_News_3.jpg",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T13:14:56"
+   "published_at": "2026-10-30T21:06:03"
   },
   {
    "id": 8056,
@@ -656,7 +600,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jadwal-withdraw-binance",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:20:58"
@@ -676,32 +620,32 @@
    "published_at": "2026-10-28T23:20:00"
   },
   {
-   "id": 8023,
+   "id": 8022,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "FBI dan Secret Service Selidiki Peretasan Binance, Circle Bekukan $823 Juta",
-   "x": "Otoritas AS ikut menyelidiki peretasan Binance senilai $6,34 miliar, sementara Circle membekukan dana terkait. Upaya ini menunjukkan keseriusan penegakan hukum dalam menangani kejahatan siber aset kripto.",
+   "t": "Penculikan Kripto Senilai $8 Juta, Dua Bersaudara Texas Divonis 15 Tahun",
+   "x": "Dua bersaudara di Texas divonis 15 tahun penjara karena penculikan dan pemerasan senilai $8 juta dalam bentuk kripto. Kasus ini menyoroti risiko kejahatan yang melibatkan aset digital.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg",
-   "a": "19 jam lalu",
+   "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T17:50:26"
+   "published_at": "2026-10-30T18:16:02"
   },
   {
-   "id": 7991,
+   "id": 8084,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "MEXC hengkang dari empat negara meski berambisi saingi raksasa dagang global",
-   "x": "Bursa kripto MEXC akan menutup posisi pengguna di empat negara pada Januari 2027. Keputusan ini diambil meski bursa tersebut memiliki rencana ambisius untuk bersaing dengan pemain global.",
+   "t": "Pelanggaran Chainalysis ungkap nama, email, dan peran pelanggan",
+   "x": "Perusahaan analisis blockchain Chainalysis mengalami pelanggaran data yang mengekspos informasi pelanggan. Insiden ini meningkatkan kewaspadaan terhadap potensi penipuan yang menargetkan pengguna aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/mexc-pulls-out-of-four-countries-despite-ambitious-plan-to-rival-global-trading-giants",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/mexc-trading-access-lock.webp",
-   "a": "21 jam lalu",
+   "url": "https://cryptoslate.com/chainalysis-breach-customer-names-emails-roles",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/chainalysis-data-alert.webp",
+   "a": "42 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T15:15:42"
+   "published_at": "2026-10-31T16:45:59"
   },
   {
    "id": 7787,
@@ -712,24 +656,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T17:05:42"
   },
   {
-   "id": 8042,
+   "id": 7895,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Presiden Trump tanggapi peretasan Binance, seruan regulasi kripto menguat",
-   "x": "Setelah peretasan bursa kripto terbesar dunia, Binance, senilai $6,3 miliar, seruan untuk legislasi aset digital semakin menguat.",
+   "t": "HYPE melonjak 15% saat induk NYSE ICE bawa Hyperliquid perps ke AS",
+   "x": "Induk perusahaan New York Stock Exchange (NYSE), ICE, akan bermitra dan berinvestasi di Trade[XYZ] untuk meluncurkan produk derivatif berjangka abadi (perpetual futures) yang teregulasi di AS. Peluncuran ini didasarkan pada protokol Hyperliquid.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/20250602_Trump_News_3.jpg",
-   "a": "15 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260410_Hyperliquid_News.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T21:06:03"
+   "published_at": "2026-10-29T14:44:53"
   },
   {
    "id": 7837,
@@ -760,32 +704,32 @@
    "published_at": "2026-10-30T01:50:16"
   },
   {
-   "id": 7909,
+   "id": 8023,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "HYPE melonjak 13% saat pemilik NYSE, ICE, bawa futures perpetual ke AS",
-   "x": "Intercontinental Exchange (ICE) menjalin kesepakatan untuk meluncurkan futures perpetual teregulasi di AS yang dibangun di atas Hyperliquid. Langkah ini mendorong lonjakan harga token HYPE.",
+   "t": "FBI dan Secret Service Selidiki Peretasan Binance, Circle Bekukan $823 Juta",
+   "x": "Otoritas AS ikut menyelidiki peretasan Binance senilai $6,34 miliar, sementara Circle membekukan dana terkait. Upaya ini menunjukkan keseriusan penegakan hukum dalam menangani kejahatan siber aset kripto.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png",
+   "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T17:50:26"
+  },
+  {
+   "id": 7991,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "MEXC hengkang dari empat negara meski berambisi saingi raksasa dagang global",
+   "x": "Bursa kripto MEXC akan menutup posisi pengguna di empat negara pada Januari 2027. Keputusan ini diambil meski bursa tersebut memiliki rencana ambisius untuk bersaing dengan pemain global.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/mexc-pulls-out-of-four-countries-despite-ambitious-plan-to-rival-global-trading-giants",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/mexc-trading-access-lock.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T15:59:48"
-  },
-  {
-   "id": 7770,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kraken batalkan pesanan di 176 pasar kripto dalam perombakan perdagangan",
-   "x": "Bursa kripto Kraken akan membatalkan semua pesanan yang ada di 176 pasar. Perubahan ini merupakan bagian dari perombakan besar-besaran platform perdagangan mereka.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kraken-to-cancel-orders-across-176-crypto-markets-in-sweeping-trading-overhaul",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-synthetic-market-gateway.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T13:40:44"
+   "published_at": "2026-10-30T15:15:42"
   },
   {
    "id": 7841,
@@ -802,18 +746,18 @@
    "published_at": "2026-10-29T12:30:00"
   },
   {
-   "id": 7895,
+   "id": 8017,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "HYPE melonjak 15% saat induk NYSE ICE bawa Hyperliquid perps ke AS",
-   "x": "Induk perusahaan New York Stock Exchange (NYSE), ICE, akan bermitra dan berinvestasi di Trade[XYZ] untuk meluncurkan produk derivatif berjangka abadi (perpetual futures) yang teregulasi di AS. Peluncuran ini didasarkan pada protokol Hyperliquid.",
+   "t": "Dua bersaudara dihukum 15 tahun penjara atas perampokan kripto $8 juta",
+   "x": "Dua bersaudara dijatuhi hukuman 15 tahun penjara karena menyandera sebuah keluarga selama sembilan jam untuk merampas aset kripto senilai $8 juta.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260410_Hyperliquid_News.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/05/police-arrest-1.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T14:44:53"
+   "published_at": "2026-10-30T16:26:07"
   },
   {
    "id": 8072,
@@ -824,7 +768,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ceo-indodax-ungkap-alasan-withdraw-masih-mandek",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T10:00:03"
@@ -842,6 +786,62 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T12:26:23"
+  },
+  {
+   "id": 7909,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "HYPE melonjak 13% saat pemilik NYSE, ICE, bawa futures perpetual ke AS",
+   "x": "Intercontinental Exchange (ICE) menjalin kesepakatan untuk meluncurkan futures perpetual teregulasi di AS yang dibangun di atas Hyperliquid. Langkah ini mendorong lonjakan harga token HYPE.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/hyperliquid-hype-decrypt-style-03-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T15:59:48"
+  },
+  {
+   "id": 7964,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Circle dan ACI rencanakan pilot penyelesaian USDC bersama jalur pembayaran Kolombia",
+   "x": "Circle dan ACI akan menguji coba integrasi stablecoin USDC dengan sistem pembayaran Kolombia. Pilot ini bertujuan menjajaki potensi penggunaan aset digital untuk transaksi lintas negara.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aci-circle-usdc-settlement-pilot-colombia",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/colombia-usdc-puzzle-integration.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T08:00:23"
+  },
+  {
+   "id": 7823,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Dompet Ledger yang Dimanipulasi Rugikan Pengguna Singapura US$2,7 Juta",
+   "x": "Kepolisian Singapura melaporkan kerugian senilai US$2,7 juta akibat manipulasi dompet Ledger. Kasus ini terdeteksi sebelum insiden yang lebih luas terungkap ke publik.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62T0EMVVBHXMFAFEZ1Q1TKW/police.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T03:16:32"
+  },
+  {
+   "id": 7896,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Uniswap Labs buka alat konversi biaya TJAR untuk aplikasi, mulai dari Robinhood",
+   "x": "Uniswap Labs telah membuka sistem konversi biaya Token Jar miliknya untuk aplikasi lain melalui alat baru bernama TJAR. Langkah ini memungkinkan integrasi yang lebih luas dari fitur pengelolaan biaya token.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T14:34:17"
   }
  ]
 }

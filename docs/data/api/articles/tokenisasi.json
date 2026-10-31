@@ -1,5 +1,5 @@
 {
- "total": 42,
+ "total": 31,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/maple-finance-xrp-collateral-standard-image-v2.jpg",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T00:10:43"
@@ -26,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T13:01:02"
@@ -46,18 +46,18 @@
    "published_at": "2026-10-28T18:09:03"
   },
   {
-   "id": 7762,
+   "id": 8012,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Google Cloud tawarkan layanan MPC untuk kustodi Bitcoin institusi",
-   "x": "Google Cloud merinci layanan MPC (Multi-Party Computation) untuk kustodi Bitcoin institusional. Ini menunjukkan minat perusahaan teknologi besar pada keamanan aset digital bagi investor institusi.",
+   "t": "Cadangan Berlebih Tether Hampir Dua Kali Lipat Jadi $8 Miliar",
+   "x": "Penerbit stablecoin Tether melaporkan laba kuartal III sebesar $1,5 miliar dan cadangan berlebih hampir dua kali lipat. Ini menunjukkan penguatan posisi Tether di tengah ketidakpastian pasar kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T13:47:51"
+   "published_at": "2026-10-30T19:01:58"
   },
   {
    "id": 8062,
@@ -68,38 +68,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jupiter-lend-kritis",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T02:15:37"
   },
   {
-   "id": 7742,
+   "id": 8083,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "JPMorgan, Coca-Cola, Dell Tolak Rencana Perdagangan Tokenisasi OKX-ICE",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T12:59:36"
-  },
-  {
-   "id": 7801,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Coinbase tambahkan stablecoin RLUSD Ripple di platform ritel, bursa, dan Prime",
-   "x": "Coinbase kini mendukung stablecoin RLUSD dari Ripple, memungkinkan konversi 1:1 dengan dolar AS di XRP Ledger, Ethereum, dan Base. Ini menambah pilihan aset digital bagi pengguna bursa kripto tersebut.",
+   "t": "Chainalysis: Peretas gunakan teknik canggih akses nama dan email pelanggan",
+   "x": "Perusahaan analisis blockchain Chainalysis mengonfirmasi peretas mengakses data pelanggan menggunakan teknik canggih. Insiden ini terjadi bersamaan dengan pelacakan peretasan Binance yang melibatkan penggunaan protokol Tron untuk menghindari pembekuan stablecoin.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/08/ripple-usd.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Chainalysis-Data-Wave-Network_clean.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T15:56:36"
+   "published_at": "2026-10-31T13:27:17"
   },
   {
    "id": 7833,
@@ -124,38 +110,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T15:07:15"
   },
   {
-   "id": 7734,
+   "id": 7825,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Akankah Holder XRP Mendapat Keuntungan dari Stablecoin Ripple Berperingkat Moody’s?",
-   "x": "Moody’s memberikan stablecoin RLUSD dari Ripple peringkat deposito jangka panjang A2 dan peringkat jangka pendek tertinggi P-1. Peringkat investment grade ini mencakup RLUSD di dua blockchain. Tapi, pencapaian ini…",
+   "t": "Volume Stablecoin Visa Naik 10 Kali Lipat dalam Satu Tahun: Stablecoin Mana yang Mendapatkan Keuntungan?",
+   "x": "Penyelesaian stablecoin Visa melewati tingkat run rate $25 miliar, naik 10x lipat. Lihat token dan blockchain mana yang berpotensi mendapatkan manfaat.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ripple-rlusd-moodys-rating-nilai-xrp",
-   "img": "https://assets.beincrypto.com/img/AsolTblbxDM0RZF3AcdKwAQAZDc=/smart/e66568b454424d5d8712fed15cada9f4",
+   "url": "https://id.beincrypto.com/volume-settlement-stablecoin-visa-10x",
+   "img": "https://assets.beincrypto.com/img/ry9ySC4riEOgaLJARTRXjfLW1n4=/smart/38a83f3af38f40108f77a9ce25f810e7",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-28T12:59:50"
+   "published_at": "2026-10-29T04:01:00"
   },
   {
-   "id": 7764,
+   "id": 7786,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Unit DTCC luncurkan layanan tokenisasi",
-   "x": "Penyedia infrastruktur pasar pasca-perdagangan meluncurkan layanan tokenisasi. Tujuannya adalah menciptakan jalur praktis untuk adopsi sekuritas yang ditokenisasi.",
+   "t": "Pemegang Saham Strategy Setujui Dividen Harian untuk Empat Saham Preferen",
+   "x": "Perusahaan dengan cadangan Bitcoin terbesar ini akan mulai membagikan dividen harian kepada pemegang saham preferen. Kebijakan ini dapat menarik investor yang mencari pendapatan pasif dari aset kripto.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M618TPPRNWQ7KVCWZJB3GR5V/hi-project-explained-a-global-initiative-for-asset-tokenization-1.jpg",
+   "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T13:19:00"
+   "published_at": "2026-10-28T18:00:54"
   },
   {
    "id": 8002,
@@ -172,32 +158,18 @@
    "published_at": "2026-10-30T06:45:33"
   },
   {
-   "id": 7744,
+   "id": 7801,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Pengembang XRP Ledger usulkan dompet tanpa XRP untuk pembayaran stablecoin",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/2a667dab9f682bd3aa233073699de5739f5046ec-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T11:52:14"
-  },
-  {
-   "id": 7761,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Moody's beri peringkat investment-grade pada stablecoin RLUSD Ripple",
-   "x": "Moody's memberi peringkat A2 untuk stablecoin RLUSD milik Ripple, menunjukkan kualitas kredit dan nilai aset cadangannya. Ini menjadi langkah penting bagi adopsi aset digital yang didukung aset dunia nyata.",
+   "t": "Coinbase tambahkan stablecoin RLUSD Ripple di platform ritel, bursa, dan Prime",
+   "x": "Coinbase kini mendukung stablecoin RLUSD dari Ripple, memungkinkan konversi 1:1 dengan dolar AS di XRP Ledger, Ethereum, dan Base. Ini menambah pilihan aset digital bagi pengguna bursa kripto tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ripple-usd-rlusd-stablecoin.png",
+   "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/08/ripple-usd.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T09:15:20"
+   "published_at": "2026-10-28T15:56:36"
   },
   {
    "id": 7940,
@@ -228,32 +200,32 @@
    "published_at": "2026-10-29T11:32:51"
   },
   {
-   "id": 7825,
+   "id": 7811,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Volume Stablecoin Visa Naik 10 Kali Lipat dalam Satu Tahun: Stablecoin Mana yang Mendapatkan Keuntungan?",
-   "x": "Penyelesaian stablecoin Visa melewati tingkat run rate $25 miliar, naik 10x lipat. Lihat token dan blockchain mana yang berpotensi mendapatkan manfaat.",
+   "t": "Pembayaran Stablecoin Memang Cepat, tapi Punya Masalah Biaya",
+   "x": "Memindahkan US$200 melalui stablecoin bisa memakan biaya sekitar 60 sen, atau hampir US$18. Inilah rentang yang ditemukan dalam sebuah eksperimen Bank of Italy di sepuluh jalur pembayaran internasional. Pembelian dan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/volume-settlement-stablecoin-visa-10x",
-   "img": "https://assets.beincrypto.com/img/ry9ySC4riEOgaLJARTRXjfLW1n4=/smart/38a83f3af38f40108f77a9ce25f810e7",
+   "url": "https://id.beincrypto.com/stablecoin-pembayaran-biaya-tersembunyi-biaya-cash-out",
+   "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-29T04:01:00"
+   "published_at": "2026-10-28T21:47:37"
   },
   {
-   "id": 8012,
+   "id": 7969,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Cadangan Berlebih Tether Hampir Dua Kali Lipat Jadi $8 Miliar",
-   "x": "Penerbit stablecoin Tether melaporkan laba kuartal III sebesar $1,5 miliar dan cadangan berlebih hampir dua kali lipat. Ini menunjukkan penguatan posisi Tether di tengah ketidakpastian pasar kripto.",
+   "t": "Apakah 'bug mint tak terbatas' emas akan membuat Bitcoin lebih berharga?",
+   "x": "Penemuan baru dalam fusi nuklir yang diklaim dapat mengubah merkuri menjadi emas menimbulkan pertanyaan tentang pasokan emas di masa depan. Hal ini memicu spekulasi apakah potensi peningkatan pasokan emas akan memperkuat posisi Bitcoin sebagai 'emas digital'.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg",
-   "a": "17 jam lalu",
+   "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T19:01:58"
+   "published_at": "2026-10-30T13:30:00"
   },
   {
    "id": 8008,
@@ -270,20 +242,6 @@
    "published_at": "2026-10-30T03:00:08"
   },
   {
-   "id": 7747,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Google akan uji coba sistem keamanan penyimpanan kripto seiring ancaman AI meningkat",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T11:00:00"
-  },
-  {
    "id": 8034,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -292,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/coinbases-719-million-profit-reveals-a-company-caught-between-two-crypto-economies",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/coinbase-usdc-rewards-gap.webp",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T18:40:11"
@@ -306,94 +264,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T15:05:03"
-  },
-  {
-   "id": 7811,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pembayaran Stablecoin Memang Cepat, tapi Punya Masalah Biaya",
-   "x": "Memindahkan US$200 melalui stablecoin bisa memakan biaya sekitar 60 sen, atau hampir US$18. Inilah rentang yang ditemukan dalam sebuah eksperimen Bank of Italy di sepuluh jalur pembayaran internasional. Pembelian dan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/stablecoin-pembayaran-biaya-tersembunyi-biaya-cash-out",
-   "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-28T21:47:37"
-  },
-  {
-   "id": 7786,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Pemegang Saham Strategy Setujui Dividen Harian untuk Empat Saham Preferen",
-   "x": "Perusahaan dengan cadangan Bitcoin terbesar ini akan mulai membagikan dividen harian kepada pemegang saham preferen. Kebijakan ini dapat menarik investor yang mencari pendapatan pasif dari aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61RMMV26WRZDXS27BN2ZMZH/hi-strategyb-3.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T18:00:54"
-  },
-  {
-   "id": 7776,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "10 Perbedaan Tokenized Deposits dan Stablecoin yang Harus Kamu Ketahui!",
-   "x": "Bank-bank besar mulai menghadirkan tokenized deposits yang sering dipandang mirip dengan stablecoin. Perbedaan mendasar antara keduanya perlu dipahami investor.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/perbedaan-tokenized-deposits-dan-stablecoin",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T08:41:11"
-  },
-  {
-   "id": 7748,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Hampir 90% perusahaan besar adopsi tokenisasi kas untuk percepat pembayaran: DBS",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/412a4fb1a8a9d08e75fac69e34021b54e66f96c6-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T10:41:51"
-  },
-  {
-   "id": 8046,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Uniswap luncurkan alat biaya TJAR, namun hanya pencari cepat untung arbitrase",
-   "x": "Uniswap memperkenalkan alat TJAR untuk biaya stablecoin, yang juga digunakan Robinhood. Namun, keuntungan arbitrase tersembunyi hanya dapat diraih oleh trader yang cepat bereaksi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/uniswap-launches-tjar-fee-tool-but-only-fast-searchers-capture-the-hidden-arbitrage-profit",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/uniswap-token-jar-standard-image.jpg",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T21:40:32"
-  },
-  {
-   "id": 7755,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Moody's Beri Peringkat A2 untuk Stablecoin RLUSD Ripple Senilai $2,6 Miliar",
-   "x": "Moody's memberikan peringkat A2 untuk stablecoin RLUSD Ripple, mengutip cadangan aset yang kuat. Namun, pemegang token belum memiliki kepemilikan langsung atas aset cadangan tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T12:16:30"
   },
   {
    "id": 7954,
@@ -410,18 +284,18 @@
    "published_at": "2026-10-30T06:58:33"
   },
   {
-   "id": 7969,
+   "id": 7880,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Apakah 'bug mint tak terbatas' emas akan membuat Bitcoin lebih berharga?",
-   "x": "Penemuan baru dalam fusi nuklir yang diklaim dapat mengubah merkuri menjadi emas menimbulkan pertanyaan tentang pasokan emas di masa depan. Hal ini memicu spekulasi apakah potensi peningkatan pasokan emas akan memperkuat posisi Bitcoin sebagai 'emas digital'.",
+   "t": "Canton Strategic Holdings berencana jual saham tokenisasi mulai 2 November",
+   "x": "Perusahaan yang terdaftar di Nasdaq ini akan menawarkan saham ter-tokenisasi yang memiliki hak pemegang saham sama seperti saham tradisional. Inisiatif ini memanfaatkan pengecualian inovasi SEC untuk perdagangan 24 jam dan penyelesaian instan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png",
-   "a": "23 jam lalu",
+   "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6457K716CHTSWR96H4TCRAF/hi-real-estate-blockchain-and-the-quantity-theory-of-money.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T13:30:00"
+   "published_at": "2026-10-29T16:27:39"
   },
   {
    "id": 8004,
@@ -438,32 +312,18 @@
    "published_at": "2026-10-30T05:45:44"
   },
   {
-   "id": 7752,
+   "id": 8046,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Securitize dukung Stellar blockchain seiring tren tokenisasi institusional",
-   "x": "",
-   "w": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-   "img": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T09:00:00"
-  },
-  {
-   "id": 7942,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Perusahaan kripto Trump gabung Tether, Circle, Ripple bekukan $2,6 miliar aset",
-   "x": "Sejumlah penerbit stablecoin, termasuk Tether, Circle, dan Ripple, membekukan lebih dari $2,6 miliar aset digital terkait dugaan peretasan Binance. Pembekuan dana ini merupakan respons terhadap insiden keamanan yang merugikan pengguna.",
+   "t": "Uniswap luncurkan alat biaya TJAR, namun hanya pencari cepat untung arbitrase",
+   "x": "Uniswap memperkenalkan alat TJAR untuk biaya stablecoin, yang juga digunakan Robinhood. Namun, keuntungan arbitrase tersembunyi hanya dapat diraih oleh trader yang cepat bereaksi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-vault-exposure.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/uniswap-launches-tjar-fee-tool-but-only-fast-searchers-capture-the-hidden-arbitrage-profit",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/uniswap-token-jar-standard-image.jpg",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T23:50:05"
+   "published_at": "2026-10-30T21:40:32"
   },
   {
    "id": 7854,
@@ -480,32 +340,32 @@
    "published_at": "2026-10-29T10:56:20"
   },
   {
-   "id": 7880,
+   "id": 7884,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Canton Strategic Holdings berencana jual saham tokenisasi mulai 2 November",
-   "x": "Perusahaan yang terdaftar di Nasdaq ini akan menawarkan saham ter-tokenisasi yang memiliki hak pemegang saham sama seperti saham tradisional. Inisiatif ini memanfaatkan pengecualian inovasi SEC untuk perdagangan 24 jam dan penyelesaian instan.",
+   "t": "Bank of England buka konsultasi jaminan tokenisasi untuk kliring",
+   "x": "Bank Sentral Inggris (Bank of England) sedang mengkaji penggunaan jaminan yang ditokenisasi untuk proses kliring. Proposal ini mengharuskan lembaga kliring untuk menunjukkan bahwa jaminan tokenisasi memenuhi standar likuiditas dan risiko.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6457K716CHTSWR96H4TCRAF/hi-real-estate-blockchain-and-the-quantity-theory-of-money.jpg",
+   "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M640KSE3Z43BT819XP76F6D2/bank-of-england-stablecoin-2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T14:27:46"
+  },
+  {
+   "id": 7942,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Perusahaan kripto Trump gabung Tether, Circle, Ripple bekukan $2,6 miliar aset",
+   "x": "Sejumlah penerbit stablecoin, termasuk Tether, Circle, dan Ripple, membekukan lebih dari $2,6 miliar aset digital terkait dugaan peretasan Binance. Pembekuan dana ini merupakan respons terhadap insiden keamanan yang merugikan pengguna.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-vault-exposure.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T16:27:39"
-  },
-  {
-   "id": 8035,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Lagarde tinggalkan ECB, cetak biru tokenisasi Eropa belum tuntas",
-   "x": "Bank sentral Eropa masih belum memutuskan arsitektur tokenisasi aset digital. Hal ini menimbulkan pilihan antara menyatukan likuiditas penyelesaian dan menjaga persaingan antar jaringan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lagarde-sets-her-exit-as-europe-weighs-who-controls-its-tokenized-money",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/europe-network-access-crossroads.webp",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T17:30:21"
+   "published_at": "2026-10-29T23:50:05"
   },
   {
    "id": 8030,
@@ -516,24 +376,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/deutsche-bank-peringatan-ai-dolar-bitcoin-emas",
    "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T17:00:00"
   },
   {
-   "id": 7766,
+   "id": 8016,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Mirae Asset Securities Terbitkan Surat Utang Tokenisasi di Solana",
-   "x": "Unit Mirae Asset Securities di Hong Kong menerbitkan surat utang berjangka enam bulan yang ditokenisasi di blockchain Solana. Ini memperluas penggunaan blockchain untuk distribusi produk keuangan bagi investor institusi.",
+   "t": "Bitcoin berisiko alami Oktober terburuk dalam 12 tahun",
+   "x": "Bitcoin bergerak di sekitar $77.000 seiring pasar kripto terpengaruh pelemahan saham AS. Emas juga jatuh ke level terendah dalam setahun.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6120BTEQBS14CMZ858YG88A/hi-hong-kong-situation-solana.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66RSMA8MM7W9WSFC6PFHK6S/hi-bull-market-vs-bear-market-whats-the-difference.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T11:05:33"
+   "published_at": "2026-10-30T16:06:28"
+  },
+  {
+   "id": 8035,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Lagarde tinggalkan ECB, cetak biru tokenisasi Eropa belum tuntas",
+   "x": "Bank sentral Eropa masih belum memutuskan arsitektur tokenisasi aset digital. Hal ini menimbulkan pilihan antara menyatukan likuiditas penyelesaian dan menjaga persaingan antar jaringan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lagarde-sets-her-exit-as-europe-weighs-who-controls-its-tokenized-money",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/europe-network-access-crossroads.webp",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T17:30:21"
   },
   {
    "id": 7830,
@@ -550,20 +424,6 @@
    "published_at": "2026-10-29T00:56:43"
   },
   {
-   "id": 7884,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bank of England buka konsultasi jaminan tokenisasi untuk kliring",
-   "x": "Bank Sentral Inggris (Bank of England) sedang mengkaji penggunaan jaminan yang ditokenisasi untuk proses kliring. Proposal ini mengharuskan lembaga kliring untuk menunjukkan bahwa jaminan tokenisasi memenuhi standar likuiditas dan risiko.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M640KSE3Z43BT819XP76F6D2/bank-of-england-stablecoin-2.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T14:27:46"
-  },
-  {
    "id": 7827,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -576,20 +436,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T02:37:44"
-  },
-  {
-   "id": 8016,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin berisiko alami Oktober terburuk dalam 12 tahun",
-   "x": "Bitcoin bergerak di sekitar $77.000 seiring pasar kripto terpengaruh pelemahan saham AS. Emas juga jatuh ke level terendah dalam setahun.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66RSMA8MM7W9WSFC6PFHK6S/hi-bull-market-vs-bear-market-whats-the-difference.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T16:06:28"
   }
  ]
 }
