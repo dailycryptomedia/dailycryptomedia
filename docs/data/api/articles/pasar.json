@@ -1,8 +1,22 @@
 {
- "total": 170,
+ "total": 175,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 8054,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Indonesia vs Singapura: Siapa Unggul di Industri Kripto?",
+   "x": "Artikel ini membandingkan posisi Indonesia dan Singapura dalam industri aset kripto. Pembaca akan mendapatkan gambaran mengenai lanskap persaingan kedua negara di sektor ini.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/indonesia-panas-dengan-singapura",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:30:35"
+  },
   {
    "id": 7784,
    "k": "pasar",
@@ -18,20 +32,6 @@
    "published_at": "2026-10-28T14:42:00"
   },
   {
-   "id": 7943,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Profil 5 platform kripto didukung Y Combinator hingga 2026",
-   "x": "",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/platform-crypto-yang-didukung-y-combinator",
-   "img": null,
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T01:45:36"
-  },
-  {
    "id": 8018,
    "k": "pasar",
    "cat": "Pasar",
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/05/intel-logo-decrypt-style-01-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T20:53:23"
@@ -102,6 +102,20 @@
    "published_at": "2026-10-28T13:14:37"
   },
   {
+   "id": 7943,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Profil 5 platform kripto didukung Y Combinator hingga 2026",
+   "x": "",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/platform-crypto-yang-didukung-y-combinator",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T01:45:36"
+  },
+  {
    "id": 7777,
    "k": "pasar",
    "cat": "Pasar",
@@ -114,20 +128,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-28T19:44:48"
-  },
-  {
-   "id": 7725,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "82 proyek kripto ditutup sepanjang 2026",
-   "x": "Sebanyak 82 proyek aset digital menghentikan operasionalnya sepanjang tahun 2026. Pengguna diimbau untuk memeriksa akun mereka guna memastikan aset tidak terdampak penutupan proyek.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/proyek-kripto-ditutup-sepanjang-2026",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T07:00:55"
   },
   {
    "id": 7904,
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/allium-restores-18-major-chains-but-only-specific-platforms-are-safe",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/allium-data-recovery-standard-image.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T02:40:17"
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T09:08:25"
@@ -194,10 +194,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/2a16283e14520ecf28ccb2e6520db675f9d4fb1e-1200x621.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T05:10:36"
+  },
+  {
+   "id": 7725,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "82 proyek kripto ditutup sepanjang 2026",
+   "x": "Sebanyak 82 proyek aset digital menghentikan operasionalnya sepanjang tahun 2026. Pengguna diimbau untuk memeriksa akun mereka guna memastikan aset tidak terdampak penutupan proyek.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/proyek-kripto-ditutup-sepanjang-2026",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-28T07:00:55"
   },
   {
    "id": 7933,
@@ -208,24 +222,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/schwab-adopsi-generative-ai-dot-com-boom",
    "img": "https://assets.beincrypto.com/img/QNUNoUPR6HnjQIj0G0OFGDdMIT8=/smart/b707d08c207e49a88f8a76ea797fcf05",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T02:25:00"
-  },
-  {
-   "id": 7944,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Peretas Binance diduga jual 7,77 triliun PEPE, harga anjlok 12%",
-   "x": "Peretas Binance diduga menjual aset kripto PEPE senilai triliunan koin, menyebabkan harganya anjlok lebih dari 12 persen. Insiden ini menyoroti risiko keamanan di bursa kripto besar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/peretas-binance-diduga-jual-777-triliun-pepe-harga-anjlok-lebih-dari-12-persen",
-   "img": null,
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T01:45:15"
   },
   {
    "id": 7791,
@@ -278,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/coinbase_centered_1920x1080.png",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T08:57:09"
@@ -298,6 +298,20 @@
    "published_at": "2026-10-28T11:57:26"
   },
   {
+   "id": 7944,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Peretas Binance diduga jual 7,77 triliun PEPE, harga anjlok 12%",
+   "x": "Peretas Binance diduga menjual aset kripto PEPE senilai triliunan koin, menyebabkan harganya anjlok lebih dari 12 persen. Insiden ini menyoroti risiko keamanan di bursa kripto besar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/peretas-binance-diduga-jual-777-triliun-pepe-harga-anjlok-lebih-dari-12-persen",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T01:45:15"
+  },
+  {
    "id": 7951,
    "k": "pasar",
    "cat": "Pasar",
@@ -306,24 +320,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tim-shiba-inu-mengimbau-kewaspadaan-trader",
    "img": "https://assets.beincrypto.com/img/5-_50y9WnTcJH7teGOJzp_GPzPI=/smart/5f449cbb4da74f38b26abf9f33e13c65",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T08:59:57"
-  },
-  {
-   "id": 7835,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitcoin Loyo Pasca FOMC, Pasar Kripto Waspadai Desember",
-   "x": "Bitcoin kehilangan momentum setelah pengumuman FOMC, memicu kewaspadaan di pasar kripto. Arus dana masuk ETF dan data inflasi AS menjadi faktor penting yang perlu dicermati investor.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-gagal-melaju-usai-fomc-pasar-kripto-waspadai-desember",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T04:30:33"
   },
   {
    "id": 8020,
@@ -334,7 +334,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T19:31:02"
@@ -348,7 +348,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-checkpoint.webp",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T09:10:06"
@@ -376,7 +376,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T08:55:39"
@@ -390,10 +390,24 @@
    "w": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
    "img": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T03:11:14"
+  },
+  {
+   "id": 7835,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitcoin Loyo Pasca FOMC, Pasar Kripto Waspadai Desember",
+   "x": "Bitcoin kehilangan momentum setelah pengumuman FOMC, memicu kewaspadaan di pasar kripto. Arus dana masuk ETF dan data inflasi AS menjadi faktor penting yang perlu dicermati investor.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-gagal-melaju-usai-fomc-pasar-kripto-waspadai-desember",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T04:30:33"
   },
   {
    "id": 7849,
@@ -408,20 +422,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T12:57:37"
-  },
-  {
-   "id": 7836,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Misteri Whale Kripto Pindahkan US$290 Juta Tiap Tengah Malam",
-   "x": "Seorang whale kripto memindahkan dana senilai US$290 juta setiap malam selama lebih dari setahun, menimbulkan pertanyaan tentang motif di balik transaksi besar tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/misteri-whale-kripto-yang-pindahkan-us290-juta-tiap-tengah-malam",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T04:00:45"
   },
   {
    "id": 7905,
@@ -494,6 +494,20 @@
    "published_at": "2026-10-28T10:07:54"
   },
   {
+   "id": 8052,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Platform Launchpad Memecoin Binance Chain Dihack",
+   "x": "Platform launchpad untuk memecoin di Binance Chain, FLAP, dilaporkan mengalami peretasan. Insiden ini kembali menimbulkan kekhawatiran mengenai keamanan proyek-proyek di ekosistem blockchain.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/platform-launchpad-memecoin-binance-chain-dihack",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T04:16:43"
+  },
+  {
    "id": 7888,
    "k": "pasar",
    "cat": "Pasar",
@@ -506,20 +520,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T18:35:18"
-  },
-  {
-   "id": 7837,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Analisis Kripto: KAS, LTC, DOGE, BONK, BCH pada 29 Oktober 2026",
-   "x": "Analisis teknikal untuk KAS, LTC, DOGE, BONK, dan BCH menyoroti level harga kunci yang dapat menentukan pergerakan pasar. Investor perlu mencermati sinyal beli atau potensi jebakan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/sinyal-beli-atau-jebakan-analisis-kripto-hari-ini-29-oktober-2026-soroti-kas-ltc-doge-bonk-dan-bch",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T03:15:58"
   },
   {
    "id": 7862,
@@ -544,7 +544,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-hackers-deploy-never-seen-before-laundering-tactics-to-conceal-6-3-billion-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-crypto-laundering-funnel.webp",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T20:30:08"
@@ -592,6 +592,20 @@
    "published_at": "2026-10-28T09:59:25"
   },
   {
+   "id": 7836,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Misteri Whale Kripto Pindahkan US$290 Juta Tiap Tengah Malam",
+   "x": "Seorang whale kripto memindahkan dana senilai US$290 juta setiap malam selama lebih dari setahun, menimbulkan pertanyaan tentang motif di balik transaksi besar tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/misteri-whale-kripto-yang-pindahkan-us290-juta-tiap-tengah-malam",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T04:00:45"
+  },
+  {
    "id": 7808,
    "k": "pasar",
    "cat": "Pasar",
@@ -606,20 +620,6 @@
    "published_at": "2026-10-28T23:32:47"
   },
   {
-   "id": 7838,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "92 Persen XRP Terkonsentrasi di 1 Persen Akun, Ini Faktanya",
-   "x": "Data terbaru menunjukkan konsentrasi kepemilikan XRP yang signifikan, dengan 92% aset berada di tangan 1% akun. Fakta ini menyoroti distribusi kepemilikan yang tidak merata.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/92-persen-xrp-terkonsentrasi-di-1-persen-akun-ini-faktanya",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T02:30:36"
-  },
-  {
    "id": 8022,
    "k": "pasar",
    "cat": "Pasar",
@@ -628,7 +628,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T18:16:02"
@@ -656,7 +656,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T22:00:00"
@@ -670,10 +670,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_4.jpg",
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T13:14:56"
+  },
+  {
+   "id": 8053,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Chainalysis Dihack Setelah Melacak Peretas Binance",
+   "x": "Perusahaan analisis blockchain Chainalysis menjadi korban peretasan, menyusul keberhasilannya melacak peretas Binance. Kejadian ini menimbulkan pertanyaan tentang keamanan data dan infrastruktur perusahaan keamanan siber.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/chainalysis-dihack",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:45:49"
   },
   {
    "id": 7809,
@@ -690,20 +704,6 @@
    "published_at": "2026-10-28T23:20:00"
   },
   {
-   "id": 7729,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Peluang serok kripto hari ini: PEPE, INJ, HYPE, AERO, DASH siap reli?",
-   "x": "Analisis pergerakan harga aset digital PEPE, INJ, HYPE, AERO, dan DASH hari ini menyoroti level-level penting. Investor dapat mencermati potensi reli aset-aset tersebut berdasarkan analisis teknikal.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/peluang-serok-kripto-hari-ini-28-oktober-2026-pepe-inj-hype-aero-dan-dash-siap-reli-lagi",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T03:30:41"
-  },
-  {
    "id": 8023,
    "k": "pasar",
    "cat": "Pasar",
@@ -712,7 +712,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T17:50:26"
@@ -726,7 +726,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mexc-pulls-out-of-four-countries-despite-ambitious-plan-to-rival-global-trading-giants",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/mexc-trading-access-lock.webp",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T15:15:42"
@@ -754,10 +754,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/20250602_Trump_News_3.jpg",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T21:06:03"
+  },
+  {
+   "id": 8056,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Jadwal Penarikan Dana Binance Dibuka Kembali Pasca Peretasan",
+   "x": "Binance mengumumkan jadwal pembukaan kembali layanan penarikan dana setelah insiden peretasan. Pengumuman ini penting bagi pengguna yang asetnya sempat tertahan akibat insiden tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/jadwal-withdraw-binance",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:20:58"
   },
   {
    "id": 7934,
@@ -768,24 +782,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cramer-microsoft-beli-alphabet-cash-flow",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T01:50:16"
-  },
-  {
-   "id": 7875,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Tren Kripto Berikutnya: Stablecoin, Tokenisasi, dan AI Agent",
-   "x": "Selain Bitcoin dan trading, tren aset digital baru mulai terbentuk. Stablecoin, tokenisasi aset dunia nyata, dan agen AI diprediksi menjadi fokus utama investor selanjutnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bukan-sekadar-trading-ini-tren-kripto-berikutnya-yang-wajib-dilirik",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T08:00:43"
   },
   {
    "id": 7909,

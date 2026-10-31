@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peretasan-binance-rp114-triliun-jadi-alarm-bagi-ri-pengamat-ingatkan-risiko-lumpuhnya-pasar-kripto-nasional",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T09:00:24"
@@ -68,7 +68,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bagaimana-peretasan-binance-terjadi",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T12:00:00"
@@ -110,24 +110,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T09:52:29"
   },
   {
-   "id": 7999,
+   "id": 8057,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Jejak dana peretas Binance dan Bitget bertemu, tuding hacker Korut menguat",
-   "x": "Temuan ZachXBT menunjukkan jejak dana dari peretasan Binance dan Bitget bertemu di satu dompet, memperkuat dugaan keterlibatan hacker Korea Utara. Insiden ini menyoroti risiko keamanan yang dihadapi bursa kripto.",
+   "t": "Peretasan Binance Jadi Peluang DEX, Standard Chartered Optimistis",
+   "x": "Standard Chartered melihat peretasan Binance sebagai katalis positif bagi bursa terdesentralisasi (DEX). Analis mereka bahkan memproyeksikan target harga token UNI sebesar US$100.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/jejak-dana-binance-dan-bitget-bertemu-tudingan-hacker-korut-menguat",
+   "url": "https://blockchainmedia.id/binance-kena-hack-standard-chartered-lihat-peluang-besar-bagi-dex",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T10:00:55"
+   "published_at": "2026-10-31T03:15:21"
   },
   {
    "id": 7957,
@@ -138,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hyperliquid-naik-crypto-turun-ice-druckenmiller",
    "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T03:54:17"
@@ -172,6 +172,20 @@
    "published_at": "2026-10-29T22:57:48"
   },
   {
+   "id": 8058,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tujuh Peretasan Kripto Sepanjang 2026 Rugikan Rp157 Triliun",
+   "x": "Sepanjang tahun 2026, setidaknya tujuh insiden peretasan aset kripto terjadi dengan total kerugian mencapai Rp157 triliun. Laporan ini merinci setiap kasus dan dampaknya terhadap industri.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/peretasan-kripto-sepanjang-2026",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:00:52"
+  },
+  {
    "id": 7982,
    "k": "defi",
    "cat": "DeFi",
@@ -180,10 +194,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cz-elon-musk-spacex-saham-binance-hack-gap",
    "img": "https://assets.beincrypto.com/img/QsN1rOZT0DdqNqBjfLGlUEkz91c=/smart/5dbf6c617ff84540a85c1a6af77ebdba",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T10:26:55"
+  },
+  {
+   "id": 8051,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
+   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:40:43"
+  },
+  {
+   "id": 8060,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan Binance Memanas, Elon Musk Nyinyir, CZ Murka",
+   "x": "Peretasan Binance memanas dengan Elon Musk ikut menyindir dan CEO CZ yang murka. Binance menyiapkan dana besar untuk pemulihan aset yang hilang.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/drama-peretasan-binance-memanas-elon-musk-nyinyir-cz-naik-pitam",
+   "img": null,
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T02:45:55"
   },
   {
    "id": 7772,
@@ -198,6 +240,48 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T11:50:08"
+  },
+  {
+   "id": 8064,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Mengenal Lazarus Group: Peretas Pyongyang dengan Jejak Miliaran Dolar",
+   "x": "Lazarus Group asal Korea Utara terus menjadi ancaman bagi keuangan global dengan jejak peretasan bernilai miliaran dolar. Profil kelompok ini diulas lebih dalam.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/mengenal-lazarus-group",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T01:30:18"
+  },
+  {
+   "id": 8065,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan Binance 2026: Rp100 Triliun Raib dalam 4 Jam",
+   "x": "Lebih dari Rp100 triliun aset kripto hilang dalam waktu 4 jam akibat peretasan Binance pada tahun 2026. Kronologi lengkap insiden tersebut diuraikan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/kronologi-lengkap-peretasan-binance-2026",
+   "img": null,
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T01:00:39"
+  },
+  {
+   "id": 7999,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Jejak dana peretas Binance dan Bitget bertemu, tuding hacker Korut menguat",
+   "x": "Temuan ZachXBT menunjukkan jejak dana dari peretasan Binance dan Bitget bertemu di satu dompet, memperkuat dugaan keterlibatan hacker Korea Utara. Insiden ini menyoroti risiko keamanan yang dihadapi bursa kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/jejak-dana-binance-dan-bitget-bertemu-tudingan-hacker-korut-menguat",
+   "img": null,
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T10:00:55"
   }
  ]
 }
