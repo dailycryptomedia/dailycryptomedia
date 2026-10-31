@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-bicara-tentang-uang-kripto",
    "img": "https://assets.beincrypto.com/img/aAjl6xFpsnEMjFwnBi3SuEsDlYA=/smart/4cc30e8116414b2db29df43ec0477aef",
-   "a": "5 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-31T11:41:54"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metamask-stellar-usdc-standard-image.jpg",
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T22:50:38"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/blackstone-anthropic-junk-rating-ipo-keraguan",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T19:34:11"
@@ -138,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-google-alphabet-alami-penurunan-terburuk-setelah-laporan-keuangan",
    "img": "https://assets.beincrypto.com/img/plCWVeSA4NRwXHhxvzRTAeQxnEg=/smart/8919b2f7ffdb423eae44f768a7cb24b9",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T17:41:03"
@@ -166,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T19:53:14"
@@ -180,7 +180,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T20:16:03"
@@ -200,34 +200,6 @@
    "published_at": "2026-10-30T12:52:29"
   },
   {
-   "id": 7805,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pusat Data AI Galaxy Hasilkan Pendapatan Sewa $79 Juta, Rugi Bersih Kecil",
-   "x": "Pendapatan sewa pusat data AI Galaxy mencapai $79 juta, meskipun mencatat kerugian bersih kecil pada kuartal pertama. Kinerja ini menunjukkan potensi bisnis infrastruktur AI di tengah fluktuasi pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/galaxy-ai-balance-sheet.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T17:40:30"
-  },
-  {
-   "id": 7781,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Apa Hubungan Pengajuan IPO Anthropic dengan Harga Tembaga?",
-   "x": "Harga tembaga kembali ke atas garis tren yang sebelumnya ditembus seiring dengan pengajuan IPO Anthropic yang menghidupkan kembali reli saham AI. Simak level-level yang perlu diperhatikan selanjutnya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-tembaga-kembali-ke-trendline-anthropic-ipo",
-   "img": "https://assets.beincrypto.com/img/Jx0kvq45GMww_1x0ccYLMOS2Reo=/smart/74526dce64bb4a61a9ff5857d28760ee",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-28T15:43:30"
-  },
-  {
    "id": 7821,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -240,20 +212,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-28T20:50:25"
-  },
-  {
-   "id": 7806,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Akses pendanaan ritel bank zona euro memburuk tajam",
-   "x": "Akses bank di zona euro ke pendanaan ritel mengalami penurunan tajam, menandakan potensi tantangan bagi sektor keuangan. Dampaknya terhadap aset kripto akan bergantung pada biaya pembiayaan dan anggaran risiko investor.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bank-credit-restrictions.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-28T16:40:28"
   },
   {
    "id": 7834,
@@ -278,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/prediction-markets-robinhood-crypto-revenue",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/prediction-market-revenue-stacks.webp",
-   "a": "4 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T13:00:12"
