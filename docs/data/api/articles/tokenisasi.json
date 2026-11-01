@@ -1,5 +1,5 @@
 {
- "total": 23,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,20 +16,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T00:10:43"
-  },
-  {
-   "id": 7861,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Polygon Perluas Infrastruktur Pembayaran Stablecoin ke Solana",
-   "x": "Polygon kini mendukung Solana dalam infrastruktur pembayarannya, memungkinkan bisnis di jaringan tersebut terhubung ke pendanaan bank dan pembayaran global. Ini memperluas jangkauan solusi pembayaran lintas-rantai Polygon.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T13:01:02"
   },
   {
    "id": 7954,
@@ -74,6 +60,20 @@
    "published_at": "2026-10-31T02:15:37"
   },
   {
+   "id": 7910,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Walmart blokir sahamnya dari venue perdagangan tokenisasi OKX-ICE",
+   "x": "Walmart dan sejumlah perusahaan besar lainnya menolak saham mereka diperdagangkan di venue saham tokenisasi yang direncanakan OKX-ICE. Penolakan ini menambah daftar perusahaan yang keberatan menjadi 38.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-29T15:07:15"
+  },
+  {
    "id": 8083,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Chainalysis-Data-Wave-Network_clean.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T13:27:17"
@@ -102,32 +102,18 @@
    "published_at": "2026-10-30T01:50:12"
   },
   {
-   "id": 7910,
+   "id": 8030,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Walmart blokir sahamnya dari venue perdagangan tokenisasi OKX-ICE",
-   "x": "Walmart dan sejumlah perusahaan besar lainnya menolak saham mereka diperdagangkan di venue saham tokenisasi yang direncanakan OKX-ICE. Penolakan ini menambah daftar perusahaan yang keberatan menjadi 38.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg",
+   "t": "Peringatan AI Dollar dari Deutsche Bank Bisa Pengaruhi Bitcoin, Emas, dan Saham",
+   "x": "Deutsche Bank memperingatkan bahwa aksi jual AI dapat menenggelamkan saham AS dan dolar secara bersamaan. Lihat apa artinya bagi Bitcoin dan emas.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/deutsche-bank-peringatan-ai-dolar-bitcoin-emas",
+   "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T15:07:15"
-  },
-  {
-   "id": 7854,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Transfer Stablecoin Naik 80% saat Bank Kaji Ulang Peran di MERGE Madrid",
-   "x": "Bank mulai melangkah lebih jauh dari sekadar trading aset kripto, dengan membangun infrastruktur di balik stablecoin dan aset yang ditokenisasi, kata para eksekutif pada Rabu di MERGE Madrid 2026 yang berlangsung di…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/transfer-stablecoin-melonjak-80-seiring-bank-pertimbangkan-ulang-peran-mereka-di-merge-madrid",
-   "img": "https://assets.beincrypto.com/img/EMfcUFt0Sc0yJXxS7m5JixlNalw=/smart/b5cbb6007d544dc68509c7612fb0b836",
-   "a": "3 hari lalu",
-   "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-29T10:56:20"
+   "published_at": "2026-10-30T17:00:00"
   },
   {
    "id": 7969,
@@ -138,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T13:30:00"
@@ -152,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/233-juta-xrp-dicuri-dari-binance-mengapa-tak-bisa-dibekukan",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T01:30:19"
@@ -172,34 +158,6 @@
    "published_at": "2026-10-30T18:40:11"
   },
   {
-   "id": 7864,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Treasury Sanksi 11 Pihak Atas Skema Pekerja IT Korea Utara yang Pindahkan Jutaan Kripto",
-   "x": "Dua warga negara Rusia terbukti mengonversi lebih dari $5 juta aset kripto untuk jaringan Korea Utara. Otoritas AS mencatat dompet digital yang terlibat dalam skema pencucian uang ini.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T11:32:51"
-  },
-  {
-   "id": 8030,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Peringatan AI Dollar dari Deutsche Bank Bisa Pengaruhi Bitcoin, Emas, dan Saham",
-   "x": "Deutsche Bank memperingatkan bahwa aksi jual AI dapat menenggelamkan saham AS dan dolar secara bersamaan. Lihat apa artinya bagi Bitcoin dan emas.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/deutsche-bank-peringatan-ai-dolar-bitcoin-emas",
-   "img": "https://assets.beincrypto.com/img/1IfygYrZXg5OxKq0WrKYC6obPNk=/smart/effa97c8968747c697c32ec305341793",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-30T17:00:00"
-  },
-  {
    "id": 7880,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -208,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6457K716CHTSWR96H4TCRAF/hi-real-estate-blockchain-and-the-quantity-theory-of-money.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T16:27:39"
@@ -250,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M640KSE3Z43BT819XP76F6D2/bank-of-england-stablecoin-2.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T14:27:46"
@@ -292,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66RSMA8MM7W9WSFC6PFHK6S/hi-bull-market-vs-bear-market-whats-the-difference.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T16:06:28"
