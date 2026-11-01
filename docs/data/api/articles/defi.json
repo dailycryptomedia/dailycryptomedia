@@ -1,35 +1,35 @@
 {
- "total": 21,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 7897,
+   "id": 8090,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Paus misterius tarik $290 juta dari DeFi setiap tengah malam saat suku bunga pinjaman Aave tiga kali lipat",
-   "x": "Seorang whale anonim menarik dana besar dari protokol DeFi, bertepatan dengan lonjakan suku bunga pinjaman di Aave. Peristiwa ini menyoroti volatilitas dan potensi risiko likuiditas dalam ekosistem DeFi.",
+   "t": "Likuiditas penarikan Jupiter Lend pulih dari nyaris nol ke 29 juta USDC",
+   "x": "Jupiter Lend mencatat likuiditas penarikan USDC pulih signifikan. Pemulihan ini penting bagi kepercayaan investor terhadap platform DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-usdc-vault-outflow.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/jupiter-usdc-crossing.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-29T19:00:42"
+   "published_at": "2026-10-31T19:10:09"
   },
   {
-   "id": 7906,
+   "id": 8124,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Kripto habiskan $176 juta untuk pemilu sela, tapi hanya 13% pemilih lihat sebagai prioritas",
-   "x": "Industri kripto menggelontorkan dana besar untuk kampanye pemilu sela di AS, namun dukungan terhadap aset digital tidak menjadi prioritas utama bagi mayoritas pemilih. Hal ini menunjukkan tantangan dalam adopsi dan penerimaan kripto di kalangan masyarakat umum.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png",
-   "a": "2 hari lalu",
+   "t": "Apakah Coinbase Aman setelah Peretasan Binance Sebesar US$6 Miliar?",
+   "x": "Hacker mengambil alih $8 miliar dari Binance, Bybit, dan Bitget. Lihat bagaimana penjagaan Coinbase berbeda, dan di mana masih terdapat celah.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/binance-hack-penilaian-keamanan-coinbase",
+   "img": "https://assets.beincrypto.com/img/EC5FzOJRkYMTi9hpzehBGlFoAcE=/smart/cf1270c522de42a3b392a722f5088a99",
+   "a": "3 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T17:46:02"
+   "translated": false,
+   "published_at": "2026-11-01T17:54:09"
   },
   {
    "id": 8001,
@@ -46,18 +46,18 @@
    "published_at": "2026-10-30T09:00:24"
   },
   {
-   "id": 7980,
+   "id": 7926,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Bagaimana Peretasan Binance Terjadi? Investigasi Lengkap atas Perampokan US$6 Miliar",
-   "x": "Pada 29 Oktober 2026, seorang penyerang menguras sekitar US$6,15 miliar dari Binance hanya dalam 31 menit. Ini menjadi salah satu pencurian terbesar dalam sejarah aset kripto, bahkan sejarah internet. Pada awalnya…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bagaimana-peretasan-binance-terjadi",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "t": "Peretas Binance Cari Jalan Keluar Saat Bursa DeFi Hentikan Pasar",
+   "x": "Pelaku peretasan Binance dilaporkan menukar stablecoin yang bisa dibekukan dengan Ethereum di bursa terdesentralisasi. Bursa DeFi menghentikan pasar untuk mencegah pergerakan dana lebih lanjut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-30T12:00:00"
+   "translated": true,
+   "published_at": "2026-10-29T22:57:48"
   },
   {
    "id": 8082,
@@ -88,32 +88,32 @@
    "published_at": "2026-10-30T09:52:29"
   },
   {
-   "id": 8090,
+   "id": 8051,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Likuiditas penarikan Jupiter Lend pulih dari nyaris nol ke 29 juta USDC",
-   "x": "Jupiter Lend mencatat likuiditas penarikan USDC pulih signifikan. Pemulihan ini penting bagi kepercayaan investor terhadap platform DeFi.",
+   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
+   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/jupiter-usdc-crossing.jpg",
-   "a": "21 jam lalu",
+   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-31T19:10:09"
+   "published_at": "2026-10-31T03:40:43"
   },
   {
-   "id": 7926,
+   "id": 7980,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Peretas Binance Cari Jalan Keluar Saat Bursa DeFi Hentikan Pasar",
-   "x": "Pelaku peretasan Binance dilaporkan menukar stablecoin yang bisa dibekukan dengan Ethereum di bursa terdesentralisasi. Bursa DeFi menghentikan pasar untuk mencegah pergerakan dana lebih lanjut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
+   "t": "Bagaimana Peretasan Binance Terjadi? Investigasi Lengkap atas Perampokan US$6 Miliar",
+   "x": "Pada 29 Oktober 2026, seorang penyerang menguras sekitar US$6,15 miliar dari Binance hanya dalam 31 menit. Ini menjadi salah satu pencurian terbesar dalam sejarah aset kripto, bahkan sejarah internet. Pada awalnya…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bagaimana-peretasan-binance-terjadi",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T22:57:48"
+   "translated": false,
+   "published_at": "2026-10-30T12:00:00"
   },
   {
    "id": 8057,
@@ -130,6 +130,20 @@
    "published_at": "2026-10-31T03:15:21"
   },
   {
+   "id": 8117,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas curangi 97 juta CORE dari platform staking Bitcoin b14g",
+   "x": "Platform staking Bitcoin b14g mengalami eksploitasi senilai $1,47 juta, kehilangan 97 juta token CORE. Peretas memanfaatkan fitur penarikan tanpa biaya untuk menguras dana dari 91 posisi staking.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/b14g-zero-withdrawal-579689.webp",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-01T13:20:52"
+  },
+  {
    "id": 8111,
    "k": "defi",
    "cat": "DeFi",
@@ -138,24 +152,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/binance-memulihkan-penarikan-setelah-hack",
    "img": "https://assets.beincrypto.com/img/W7X7VCn0Ni-mSSvyaR47JdljXa4=/smart/7549a264d94242768b02883187d7bde4",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-01T11:35:28"
-  },
-  {
-   "id": 7899,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Multicoin ingin jadikan chip AI sebagai agunan untuk booming pinjaman kripto berikutnya",
-   "x": "Perusahaan Multicoin mengusulkan penggunaan chip kecerdasan buatan sebagai agunan untuk produk pinjaman kripto. Inisiatif ini berpotensi membuka kelas aset baru untuk DeFi dan memperluas penggunaan teknologi dalam keuangan terdesentralisasi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/susdai-vault-access-limits.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T17:40:06"
   },
   {
    "id": 8058,
@@ -186,20 +186,6 @@
    "published_at": "2026-10-30T03:54:17"
   },
   {
-   "id": 8051,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
-   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-31T03:40:43"
-  },
-  {
    "id": 8060,
    "k": "defi",
    "cat": "DeFi",
@@ -228,20 +214,6 @@
    "published_at": "2026-10-30T10:26:55"
   },
   {
-   "id": 8117,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas curangi 97 juta CORE dari platform staking Bitcoin b14g",
-   "x": "Platform staking Bitcoin b14g mengalami eksploitasi senilai $1,47 juta, kehilangan 97 juta token CORE. Peretas memanfaatkan fitur penarikan tanpa biaya untuk menguras dana dari 91 posisi staking.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/b14g-zero-withdrawal-579689.webp",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-01T13:20:52"
-  },
-  {
    "id": 8104,
    "k": "defi",
    "cat": "DeFi",
@@ -250,7 +222,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peretasan-binance-vs-bybit-begini-perbedaan-cara-hacker-menguras-kripto",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T07:00:01"
