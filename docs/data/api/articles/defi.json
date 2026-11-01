@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220207-Hacking-Generic.jpg",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T15:26:27"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/jupiter-usdc-crossing.jpg",
-   "a": "4 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T19:10:09"
@@ -138,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/binance-kena-hack-standard-chartered-lihat-peluang-besar-bagi-dex",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:15:21"
@@ -180,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peretasan-kripto-sepanjang-2026",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:00:52"
@@ -200,18 +200,18 @@
    "published_at": "2026-10-30T10:26:55"
   },
   {
-   "id": 7820,
+   "id": 8051,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Leverage 11x Ethena Pay Janjikan Imbal Hasil Tinggi, Namun Risiko Kerugian Tersembunyi",
-   "x": "Produk Ethena Pay menawarkan leverage tinggi yang berpotensi memberikan imbal hasil besar, namun biaya pinjaman dan potensi penarikan dana menjadi faktor penentu keuntungan pengguna. Kontrol dan tingkat leverage aktual vault belum terverifikasi.",
+   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
+   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/ethena-earn-plus-usde-price-lenses-standard-v4.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-28T22:10:04"
+   "published_at": "2026-10-31T03:40:43"
   },
   {
    "id": 8060,
@@ -222,24 +222,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/drama-peretasan-binance-memanas-elon-musk-nyinyir-cz-naik-pitam",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T02:45:55"
-  },
-  {
-   "id": 8051,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
-   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-31T03:40:43"
   },
   {
    "id": 8064,
@@ -250,7 +236,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/mengenal-lazarus-group",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T01:30:18"
@@ -264,7 +250,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kronologi-lengkap-peretasan-binance-2026",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T01:00:39"

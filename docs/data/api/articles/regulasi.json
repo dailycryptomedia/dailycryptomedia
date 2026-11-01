@@ -1,8 +1,22 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 8095,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pajak Kripto Indonesia Turun Hampir 52 Persen",
+   "x": "Pajak aset kripto di Indonesia mengalami penurunan signifikan hampir 52% secara tahunan. Data Direktorat Jenderal Pajak (DJP) menunjukkan adanya perubahan dalam penerimaan pajak terkait aset kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/pajak-kripto-indonesia-turun-hampir-52-persen-apa-penyebabnya",
+   "img": null,
+   "a": "47 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-01T03:00:22"
+  },
   {
    "id": 7911,
    "k": "regulasi",
@@ -46,20 +60,6 @@
    "published_at": "2026-10-29T21:00:26"
   },
   {
-   "id": 8059,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Binance Dituding Rekayasa Peretasan Demi Pajak",
-   "x": "Muncul tudingan bahwa Binance merekayasa peretasan untuk menghindari kewajiban pajak senilai US$6 miliar. Artikel ini mengulas perhitungan pajak dan hasil investigasi terkait klaim tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/binance-dituding-rekayasa-peretasan-demi-pajak-masuk-akal",
-   "img": null,
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-31T03:00:01"
-  },
-  {
    "id": 7865,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-29T11:06:40"
+  },
+  {
+   "id": 8059,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Binance Dituding Rekayasa Peretasan Demi Pajak",
+   "x": "Muncul tudingan bahwa Binance merekayasa peretasan untuk menghindari kewajiban pajak senilai US$6 miliar. Artikel ini mengulas perhitungan pajak dan hasil investigasi terkait klaim tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/binance-dituding-rekayasa-peretasan-demi-pajak-masuk-akal",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:00:01"
   },
   {
    "id": 7844,
@@ -152,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/raksasa-wall-street-blokir-saham-tertokenisasi",
    "img": "https://assets.beincrypto.com/img/1sfIdqTefxW8wJq3A1PBF6C8lAI=/smart/df4303171b0b46cdbd67f527df4c0474",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-29T00:08:14"
