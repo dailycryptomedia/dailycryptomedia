@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-11-01T09:00:14"
   },
   {
-   "id": 8149,
+   "id": 8210,
    "k": "web3",
    "cat": "Web3",
-   "t": "BTCPay Server peringatkan pencurian hot wallet akibat perangkat lunak usang",
-   "x": "BTCPay Server mengimbau operator untuk mematikan server mereka menyusul laporan adanya peretas yang menguras dana dari hot wallet. Pengguna diminta segera memperbarui perangkat lunak untuk mencegah kerugian.",
+   "t": "Penyelidik Kripto Laporkan Dugaan Pencurian $106 Juta, Bot Solana Hilang $786 Ribu",
+   "x": "Sebuah entitas Eropa diduga kehilangan $106 juta dari akun bursa, sementara dompet yang terkait dengan bot arbitrase Solana dilaporkan kehilangan $786.000. Penyelidikan sedang berlangsung.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg",
-   "a": "11 jam lalu",
+   "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T05:34:02"
+   "published_at": "2026-11-02T21:16:24"
   },
   {
    "id": 8176,
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T15:01:03"
@@ -54,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/netflix-box-office-bioskop-hipnosis",
    "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T09:36:47"
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Binance_Color.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T21:20:23"
@@ -102,6 +102,48 @@
    "published_at": "2026-10-31T03:30:26"
   },
   {
+   "id": 8149,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BTCPay Server peringatkan pencurian hot wallet akibat perangkat lunak usang",
+   "x": "BTCPay Server mengimbau operator untuk mematikan server mereka menyusul laporan adanya peretas yang menguras dana dari hot wallet. Pengguna diminta segera memperbarui perangkat lunak untuk mencegah kerugian.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T05:34:02"
+  },
+  {
+   "id": 8227,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Korea Utara cuci hasil peretasan Binance di dompet baru tiap 25 detik",
+   "x": "Korea Utara diduga menggunakan sistem pencucian otomatis yang canggih untuk mengalirkan dana hasil peretasan Binance. Sebagian besar dana curian masih dalam proses pelacakan oleh regulator.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T18:46:03"
+  },
+  {
+   "id": 8157,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "80 juta XRP keluar dari dompet Binance saat penarikan dipulihkan",
+   "x": "Sebanyak 80 juta XRP dipindahkan dari dompet Binance ke dompet baru setelah layanan penarikan aset dipulihkan. Pergerakan dana ini terjadi di tengah pemulihan operasional bursa tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
+   "img": null,
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T03:30:30"
+  },
+  {
    "id": 8168,
    "k": "web3",
    "cat": "Web3",
@@ -110,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png",
-   "a": "6 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T10:46:59"
@@ -124,24 +166,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T12:24:18"
-  },
-  {
-   "id": 8157,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "80 juta XRP keluar dari dompet Binance saat penarikan dipulihkan",
-   "x": "Sebanyak 80 juta XRP dipindahkan dari dompet Binance ke dompet baru setelah layanan penarikan aset dipulihkan. Pergerakan dana ini terjadi di tengah pemulihan operasional bursa tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
-   "img": null,
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T03:30:30"
   },
   {
    "id": 8159,
@@ -152,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/unggah-private-key-500-juta-token-ini-raib-dalam-81-detik",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T02:30:52"
@@ -166,7 +194,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cari-tanda-kripto-mau-rebound-coba-intip-fitur-ini-di-cryptoiz",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T02:07:39"
