@@ -1,8 +1,22 @@
 {
- "total": 19,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 8140,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "3 Laporan Keuangan Kripto yang Perlu Diperhatikan di Pekan Pertama November",
+   "x": "Block, Circle, dan Riot Platforms akan melaporkan pendapatan kuartal ketiga minggu ini, meliputi periode Juli hingga September saat harga aset kripto naik. Laporan-laporan ini dirilis beberapa hari setelah Binance…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pendapatan-kripto-block-circle-riot",
+   "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-02T06:00:00"
+  },
   {
    "id": 8090,
    "k": "defi",
@@ -26,24 +40,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T23:09:13"
-  },
-  {
-   "id": 8124,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Apakah Coinbase Aman setelah Peretasan Binance Sebesar US$6 Miliar?",
-   "x": "Hacker mengambil alih $8 miliar dari Binance, Bybit, dan Bitget. Lihat bagaimana penjagaan Coinbase berbeda, dan di mana masih terdapat celah.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-penilaian-keamanan-coinbase",
-   "img": "https://assets.beincrypto.com/img/EC5FzOJRkYMTi9hpzehBGlFoAcE=/smart/cf1270c522de42a3b392a722f5088a99",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-01T17:54:09"
   },
   {
    "id": 8001,
@@ -74,6 +74,20 @@
    "published_at": "2026-10-31T15:26:27"
   },
   {
+   "id": 8124,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Apakah Coinbase Aman setelah Peretasan Binance Sebesar US$6 Miliar?",
+   "x": "Hacker mengambil alih $8 miliar dari Binance, Bybit, dan Bitget. Lihat bagaimana penjagaan Coinbase berbeda, dan di mana masih terdapat celah.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/binance-hack-penilaian-keamanan-coinbase",
+   "img": "https://assets.beincrypto.com/img/EC5FzOJRkYMTi9hpzehBGlFoAcE=/smart/cf1270c522de42a3b392a722f5088a99",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-01T17:54:09"
+  },
+  {
    "id": 8051,
    "k": "defi",
    "cat": "DeFi",
@@ -82,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:40:43"
@@ -102,6 +116,20 @@
    "published_at": "2026-10-30T09:52:29"
   },
   {
+   "id": 8057,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan Binance Jadi Peluang DEX, Standard Chartered Optimistis",
+   "x": "Standard Chartered melihat peretasan Binance sebagai katalis positif bagi bursa terdesentralisasi (DEX). Analis mereka bahkan memproyeksikan target harga token UNI sebesar US$100.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/binance-kena-hack-standard-chartered-lihat-peluang-besar-bagi-dex",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T03:15:21"
+  },
+  {
    "id": 7980,
    "k": "defi",
    "cat": "DeFi",
@@ -116,20 +144,6 @@
    "published_at": "2026-10-30T12:00:00"
   },
   {
-   "id": 8057,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Binance Jadi Peluang DEX, Standard Chartered Optimistis",
-   "x": "Standard Chartered melihat peretasan Binance sebagai katalis positif bagi bursa terdesentralisasi (DEX). Analis mereka bahkan memproyeksikan target harga token UNI sebesar US$100.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/binance-kena-hack-standard-chartered-lihat-peluang-besar-bagi-dex",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-31T03:15:21"
-  },
-  {
    "id": 8117,
    "k": "defi",
    "cat": "DeFi",
@@ -138,24 +152,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/b14g-zero-withdrawal-579689.webp",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T13:20:52"
-  },
-  {
-   "id": 8111,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Binance Lanjutkan Penarikan Aset Kripto setelah Peretasan Rekor, 95% Kerugian Ditanggung",
-   "x": "Binance mulai memulihkan proses penarikan pada 1 November, tiga hari setelah peretasan rekor senilai US$6,3 miliar. Jaringan Bitcoin menjadi yang pertama dibuka kembali sebagai bagian dari peluncuran yang terkontrol…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-memulihkan-penarikan-setelah-hack",
-   "img": "https://assets.beincrypto.com/img/W7X7VCn0Ni-mSSvyaR47JdljXa4=/smart/7549a264d94242768b02883187d7bde4",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-01T11:35:28"
   },
   {
    "id": 8058,
@@ -166,24 +166,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peretasan-kripto-sepanjang-2026",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:00:52"
   },
   {
-   "id": 7957,
+   "id": 8111,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Semua Aset Kripto Turun, Kecuali HyperLiquid. Mengapa?",
-   "x": "Kripto mengalami penurunan karena kekhawatiran peretasan Binance, sementara Hyperliquid naik karena kabar dari ICE, Druckenmiller, dan Elon Musk.",
+   "t": "Binance Lanjutkan Penarikan Aset Kripto setelah Peretasan Rekor, 95% Kerugian Ditanggung",
+   "x": "Binance mulai memulihkan proses penarikan pada 1 November, tiga hari setelah peretasan rekor senilai US$6,3 miliar. Jaringan Bitcoin menjadi yang pertama dibuka kembali sebagai bagian dari peluncuran yang terkontrol…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/hyperliquid-naik-crypto-turun-ice-druckenmiller",
-   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/binance-memulihkan-penarikan-setelah-hack",
+   "img": "https://assets.beincrypto.com/img/W7X7VCn0Ni-mSSvyaR47JdljXa4=/smart/7549a264d94242768b02883187d7bde4",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-30T03:54:17"
+   "published_at": "2026-11-01T11:35:28"
   },
   {
    "id": 8060,
@@ -194,10 +194,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/drama-peretasan-binance-memanas-elon-musk-nyinyir-cz-naik-pitam",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T02:45:55"
+  },
+  {
+   "id": 7957,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Semua Aset Kripto Turun, Kecuali HyperLiquid. Mengapa?",
+   "x": "Kripto mengalami penurunan karena kekhawatiran peretasan Binance, sementara Hyperliquid naik karena kabar dari ICE, Druckenmiller, dan Elon Musk.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/hyperliquid-naik-crypto-turun-ice-druckenmiller",
+   "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-30T03:54:17"
+  },
+  {
+   "id": 8104,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan Binance vs Bybit: beda modus hacker curi kripto",
+   "x": "Peretasan di Binance dan Bybit sama-sama menyebabkan kerugian miliaran dolar aset kripto, namun metode yang digunakan pelaku berbeda. Analisis mendalam terhadap modus serangan ini penting untuk pencegahan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/peretasan-binance-vs-bybit-begini-perbedaan-cara-hacker-menguras-kripto",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-01T07:00:01"
   },
   {
    "id": 7982,
@@ -214,20 +242,6 @@
    "published_at": "2026-10-30T10:26:55"
   },
   {
-   "id": 8104,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Binance vs Bybit: beda modus hacker curi kripto",
-   "x": "Peretasan di Binance dan Bybit sama-sama menyebabkan kerugian miliaran dolar aset kripto, namun metode yang digunakan pelaku berbeda. Analisis mendalam terhadap modus serangan ini penting untuk pencegahan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/peretasan-binance-vs-bybit-begini-perbedaan-cara-hacker-menguras-kripto",
-   "img": null,
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-01T07:00:01"
-  },
-  {
    "id": 8064,
    "k": "defi",
    "cat": "DeFi",
@@ -236,7 +250,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/mengenal-lazarus-group",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T01:30:18"
@@ -250,7 +264,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kronologi-lengkap-peretasan-binance-2026",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T01:00:39"

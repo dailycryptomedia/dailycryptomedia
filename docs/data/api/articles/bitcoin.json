@@ -1,21 +1,21 @@
 {
- "total": 36,
+ "total": 34,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 7935,
+   "id": 8123,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Bull Alami Kerugian Terbesar di Hari Likuidasi Kripto US$1,49 Miliar",
-   "x": "Para trader aset kripto mengalami kerugian sebesar US$1,49 miliar akibat forced liquidation dalam 24 jam terakhir, menurut data dari Coinglass. Taruhan bullish pada Bitcoin (BTC) menjadi yang paling terpukul. Kebanyakan…",
+   "t": "Wall Street Sebut Satu Hasil Pemilu Beri Bitcoin Peluang Terbaik ke US$100.000",
+   "x": "Sebuah survei Bloomberg menunjukkan investor mengaitkan peluang Bitcoin mencapai $100.000 dengan Kongres yang dikuasai Partai Republik setelah pemilu paruh waktu AS.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/likuidasi-kripto-bitcoin-longs-binance-hack",
-   "img": "https://assets.beincrypto.com/img/e7LLCEFNPSVeWjw7GjKCQebKB6s=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/bitcoin-100000-pemilu-tengah-bloomberg-survey",
+   "img": "https://assets.beincrypto.com/img/W1iVVAh0B1vRUemXjRLabdrCgIs=/smart/86117d1145444d64b7ad22e79ae52dca",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-30T01:49:03"
+   "published_at": "2026-11-01T19:58:27"
   },
   {
    "id": 8127,
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-outflow-junction.webp",
-   "a": "3 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T21:00:31"
@@ -60,20 +60,6 @@
    "published_at": "2026-10-30T14:30:49"
   },
   {
-   "id": 7945,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "AI temukan 3 celah keamanan Bitcoin Core, node bisa crash",
-   "x": "Kecerdasan buatan mengidentifikasi tiga kerentanan pada Bitcoin Core yang berpotensi menyebabkan node mengalami crash. Pengembang telah merilis pembaruan untuk mengatasi masalah ini, menjaga stabilitas jaringan Bitcoin.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ai-temukan-3-celah-keamanan-bitcoin-core-node-bisa-crash",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T01:30:32"
-  },
-  {
    "id": 8076,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -88,18 +74,32 @@
    "published_at": "2026-10-31T15:26:46"
   },
   {
-   "id": 8123,
+   "id": 8103,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Wall Street Sebut Satu Hasil Pemilu Beri Bitcoin Peluang Terbaik ke US$100.000",
-   "x": "Sebuah survei Bloomberg menunjukkan investor mengaitkan peluang Bitcoin mencapai $100.000 dengan Kongres yang dikuasai Partai Republik setelah pemilu paruh waktu AS.",
+   "t": "Bitcoin terancam jatuh ke US$68.000 usai Binance diretas",
+   "x": "Analis memperingatkan potensi penurunan harga Bitcoin ke US$68.000 menyusul peretasan besar di bursa Binance. Pola yang mirip dengan kejatuhan FTX pada 2022 disebut mulai terlihat.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/gawat-bitcoin-bisa-ambruk-ke-us68-000-usai-binance-diretas",
+   "img": null,
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-01T08:00:43"
+  },
+  {
+   "id": 8039,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Mengapa All-Time High Bitcoin Berikutnya Nampak Jauh setelah Peretasan Binance",
+   "x": "Peretasan Binance senilai $6,3 miliar memecah pendapat para ahli. Charles Edwards tidak memiliki Bitcoin, sementara Santostasi dan Cowen memberikan tanggapan balik.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-100000-pemilu-tengah-bloomberg-survey",
-   "img": "https://assets.beincrypto.com/img/W1iVVAh0B1vRUemXjRLabdrCgIs=/smart/86117d1145444d64b7ad22e79ae52dca",
-   "a": "4 jam lalu",
+   "url": "https://id.beincrypto.com/binance-hack-bitcoin-ath-ahli-bereaksi",
+   "img": "https://assets.beincrypto.com/img/W7X7VCn0Ni-mSSvyaR47JdljXa4=/smart/7549a264d94242768b02883187d7bde4",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-01T19:58:27"
+   "published_at": "2026-10-30T22:42:54"
   },
   {
    "id": 8033,
@@ -130,32 +130,18 @@
    "published_at": "2026-10-30T18:45:03"
   },
   {
-   "id": 7932,
+   "id": 8152,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin di bawah $77.000, BNB turun akibat peretasan Binance",
-   "x": "Harga Bitcoin turun di bawah $77.000, sementara BNB mengalami pelemahan seiring dengan insiden peretasan yang menimpa bursa Binance. Peristiwa ini kembali menyoroti risiko keamanan siber di industri aset kripto.",
+   "t": "ETF bitcoin spot alami aliran keluar harian terbesar dalam empat bulan pasca peretasan Binance",
+   "x": "ETF bitcoin spot AS mencatat aliran keluar harian terbesar dalam empat bulan terakhir, menyusul insiden peretasan di bursa kripto Binance. Peristiwa ini memicu kekhawatiran investor terhadap keamanan aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-12.06.59.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin_binance_1920x1080.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T02:22:31"
-  },
-  {
-   "id": 8103,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin terancam jatuh ke US$68.000 usai Binance diretas",
-   "x": "Analis memperingatkan potensi penurunan harga Bitcoin ke US$68.000 menyusul peretasan besar di bursa Binance. Pola yang mirip dengan kejatuhan FTX pada 2022 disebut mulai terlihat.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/gawat-bitcoin-bisa-ambruk-ke-us68-000-usai-binance-diretas",
-   "img": null,
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-01T08:00:43"
+   "published_at": "2026-11-02T04:11:05"
   },
   {
    "id": 8077,
@@ -172,18 +158,32 @@
    "published_at": "2026-10-31T14:27:52"
   },
   {
-   "id": 8039,
+   "id": 8073,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Mengapa All-Time High Bitcoin Berikutnya Nampak Jauh setelah Peretasan Binance",
-   "x": "Peretasan Binance senilai $6,3 miliar memecah pendapat para ahli. Charles Edwards tidak memiliki Bitcoin, sementara Santostasi dan Cowen memberikan tanggapan balik.",
+   "t": "Nyeleneh! Ada Orang yang “mengukir namanya” 211 kali di blockchain Bitcoin",
+   "x": "Seseorang tercatat \"mengukir namanya\" sebanyak 211 kali di blockchain Bitcoin tanpa meninggalkan identitas asli. Identitas pelaku masih menjadi misteri.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/nyeleneh-ada-orang-yang-mengukir-namanya-211-kali-di-blockchain-bitcoin",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T09:00:54"
+  },
+  {
+   "id": 8141,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Turun 39% dari Puncak, Meme Coin Anjlok hingga 99%, tapi S&P 500 Dekat Rekor",
+   "x": "Bitcoin berada 39% di bawah level tertingginya dan meme coin turun hingga 99%, sementara S&P 500 hanya tertinggal 3% dari rekor tertingginya. Lihat perbedaannya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-bitcoin-ath-ahli-bereaksi",
-   "img": "https://assets.beincrypto.com/img/W7X7VCn0Ni-mSSvyaR47JdljXa4=/smart/7549a264d94242768b02883187d7bde4",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/bitcoin-meme-coin-di-bawah-puncak",
+   "img": "https://assets.beincrypto.com/img/bdgj4_CjzeeG3Bl7ydJv3fLMaY4=/smart/1c704331e5d44db499847f53d23438b1",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-30T22:42:54"
+   "published_at": "2026-11-02T05:00:00"
   },
   {
    "id": 8085,
@@ -200,20 +200,6 @@
    "published_at": "2026-10-31T15:30:46"
   },
   {
-   "id": 8073,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Nyeleneh! Ada Orang yang “mengukir namanya” 211 kali di blockchain Bitcoin",
-   "x": "Seseorang tercatat \"mengukir namanya\" sebanyak 211 kali di blockchain Bitcoin tanpa meninggalkan identitas asli. Identitas pelaku masih menjadi misteri.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/nyeleneh-ada-orang-yang-mengukir-namanya-211-kali-di-blockchain-bitcoin",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-31T09:00:54"
-  },
-  {
    "id": 7948,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -222,38 +208,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T05:53:07"
-  },
-  {
-   "id": 7937,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Mengungguli S&P 500, Jadi Mengapa US$85.000 Masih Sulit Dicapai?",
-   "x": "Bitcoin lebih sering mengungguli S&P 500 dalam beberapa pekan terakhir. Meski begitu, harga aset kripto ini tetap gagal bertahan di atas US$85.000, dan belakangan malah kesulitan untuk tetap berada di atas US$80.000…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-mengungguli-sp500-di-bawah-85000",
-   "img": "https://assets.beincrypto.com/img/Vi6-GNO-3QPNAzbXsSelJ9eT_Og=/smart/450cfc414c0343bba2e607bb54bda3df",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-30T00:45:19"
-  },
-  {
-   "id": 7993,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin turun pasca jeda The Fed, namun kejutan Binance lebih berdampak",
-   "x": "The Fed menunda kenaikan suku bunga setelah menerima data ekonomi yang menunjukkan pertumbuhan kuat namun inflasi tetap tinggi. Namun, dampak peretasan Binance yang terjadi bersamaan dinilai lebih signifikan terhadap pergerakan harga Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fed-rate-pathways.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T14:00:23"
   },
   {
    "id": 8074,
@@ -270,20 +228,6 @@
    "published_at": "2026-10-31T08:00:18"
   },
   {
-   "id": 8014,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin hadapi ancaman kuantum, Ripple dapat izin bank AS",
-   "x": "Kekhawatiran keamanan kuantum Bitcoin meningkat seiring Ripple mendapatkan izin perbankan di AS dan USDC menguat di Eropa. VanEck juga menambah Bitcoin ke ETF baru.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T17:09:31"
-  },
-  {
    "id": 8093,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -298,6 +242,48 @@
    "published_at": "2026-10-31T20:39:15"
   },
   {
+   "id": 7993,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin turun pasca jeda The Fed, namun kejutan Binance lebih berdampak",
+   "x": "The Fed menunda kenaikan suku bunga setelah menerima data ekonomi yang menunjukkan pertumbuhan kuat namun inflasi tetap tinggi. Namun, dampak peretasan Binance yang terjadi bersamaan dinilai lebih signifikan terhadap pergerakan harga Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/fed-rate-pathways.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T14:00:23"
+  },
+  {
+   "id": 8014,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin hadapi ancaman kuantum, Ripple dapat izin bank AS",
+   "x": "Kekhawatiran keamanan kuantum Bitcoin meningkat seiring Ripple mendapatkan izin perbankan di AS dan USDC menguat di Eropa. VanEck juga menambah Bitcoin ke ETF baru.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T17:09:31"
+  },
+  {
+   "id": 8101,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "US$2 Miliar Bergerak dalam 3 Jam Pertama setelah Binance Buka Kembali Penarikan",
+   "x": "Penarikan di Binance dibuka kembali dan USD2 miliar berpindah dalam beberapa jam. Apakah itu dari pelanggan, dan apakah Bitcoin akan reli?",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/penarikan-binance-dibuka-kembali-2-miliar-bitcoin",
+   "img": "https://assets.beincrypto.com/img/9OhP96JHTLdSn1dy6Mzz4ZeCovc=/smart/4c44710376bf4ad3adb6b44ac56c4977",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-01T09:46:27"
+  },
+  {
    "id": 8094,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -306,7 +292,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-hidden-leverage.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T01:10:55"
@@ -326,18 +312,18 @@
    "published_at": "2026-10-30T11:36:23"
   },
   {
-   "id": 8101,
+   "id": 8029,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "US$2 Miliar Bergerak dalam 3 Jam Pertama setelah Binance Buka Kembali Penarikan",
-   "x": "Penarikan di Binance dibuka kembali dan USD2 miliar berpindah dalam beberapa jam. Apakah itu dari pelanggan, dan apakah Bitcoin akan reli?",
+   "t": "Tether Raup US$4,5 Miliar di 2026, tapi Kepemilikan Bitcoin Kini Lampaui Dana Cadangan USDT",
+   "x": "Tether meraup keuntungan sebesar $4,5 miliar pada 2026, namun laporan atestasi Q3 menunjukkan kepemilikan Bitcoin kini melebihi cadangan USDT senilai $7,95 miliar.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/penarikan-binance-dibuka-kembali-2-miliar-bitcoin",
-   "img": "https://assets.beincrypto.com/img/9OhP96JHTLdSn1dy6Mzz4ZeCovc=/smart/4c44710376bf4ad3adb6b44ac56c4977",
-   "a": "15 jam lalu",
+   "url": "https://id.beincrypto.com/tether-q3-2026-bitcoin-melebihi-buffer-usdt",
+   "img": "https://assets.beincrypto.com/img/ry9ySC4riEOgaLJARTRXjfLW1n4=/smart/38a83f3af38f40108f77a9ce25f810e7",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-01T09:46:27"
+   "published_at": "2026-10-30T17:33:31"
   },
   {
    "id": 8086,
@@ -368,18 +354,18 @@
    "published_at": "2026-10-30T11:29:23"
   },
   {
-   "id": 8029,
+   "id": 8125,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Tether Raup US$4,5 Miliar di 2026, tapi Kepemilikan Bitcoin Kini Lampaui Dana Cadangan USDT",
-   "x": "Tether meraup keuntungan sebesar $4,5 miliar pada 2026, namun laporan atestasi Q3 menunjukkan kepemilikan Bitcoin kini melebihi cadangan USDT senilai $7,95 miliar.",
+   "t": "Minyak, Inflasi, dan Risiko The Fed. Mengapa MicroStrategy Masih Ingin Lebih Banyak Bitcoin Sekarang?",
+   "x": "MicroStrategy memberi isyarat akan membeli Bitcoin lagi saat harga minyak menembus $100 dan risiko kenaikan suku bunga The Fed meningkat. Berikut ini yang dipertaruhkan oleh Saylor.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/tether-q3-2026-bitcoin-melebihi-buffer-usdt",
-   "img": "https://assets.beincrypto.com/img/ry9ySC4riEOgaLJARTRXjfLW1n4=/smart/38a83f3af38f40108f77a9ce25f810e7",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/microstrategy-beli-bitcoin-minyak-the-fed-risiko",
+   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-30T17:33:31"
+   "published_at": "2026-11-01T17:23:23"
   },
   {
    "id": 8130,
@@ -390,52 +376,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-tbtc-freeze.webp",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T17:40:00"
-  },
-  {
-   "id": 7931,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretasan Binance guncang pasar, BNB turun 8%, Bitcoin dekati $77 ribu",
-   "x": "Peretasan Binance senilai miliaran dolar memicu penurunan tajam pada Bitcoin, Ether, dan pasar kripto secara umum. Kejadian ini menyoroti risiko keamanan yang dihadapi bursa kripto besar dan dampaknya terhadap aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T23:24:21"
-  },
-  {
-   "id": 8125,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Minyak, Inflasi, dan Risiko The Fed. Mengapa MicroStrategy Masih Ingin Lebih Banyak Bitcoin Sekarang?",
-   "x": "MicroStrategy memberi isyarat akan membeli Bitcoin lagi saat harga minyak menembus $100 dan risiko kenaikan suku bunga The Fed meningkat. Berikut ini yang dipertaruhkan oleh Saylor.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/microstrategy-beli-bitcoin-minyak-the-fed-risiko",
-   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-01T17:23:23"
-  },
-  {
-   "id": 7995,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Kesulitan mining Bitcoin capai 148 triliun saat pendapatan turun ke level terendah tiga bulan",
-   "x": "Kesulitan mining Bitcoin terus meningkat, namun pendapatan para penambang justru menurun. Hal ini menunjukkan adanya perubahan dinamika dalam profitabilitas operasi penambangan aset kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-mining-difficulty-hits-148-trillion-as-revenues-fall-to-three-month-lows",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-difficulty-chain-pressure.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T11:50:29"
   },
   {
    "id": 7975,
@@ -460,24 +404,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-bull-case-membosankan-james-check",
    "img": "https://assets.beincrypto.com/img/ADHGiAxERHy_554lxlEkdG5jHNI=/smart/c9e0d1f4ef4f41f69bb700eaba265351",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T05:00:00"
   },
   {
-   "id": 8119,
+   "id": 7995,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "AI butuh daya listrik penambang Bitcoin, kontrak ungkap pihak yang diuntungkan",
-   "x": "Perusahaan AI kini mengincar koneksi listrik dan infrastruktur yang telah dibangun oleh penambang Bitcoin. Hal ini berpotensi membuat operasi penambangan yang sudah ada menjadi lebih berharga.",
+   "t": "Kesulitan mining Bitcoin capai 148 triliun saat pendapatan turun ke level terendah tiga bulan",
+   "x": "Kesulitan mining Bitcoin terus meningkat, namun pendapatan para penambang justru menurun. Hal ini menunjukkan adanya perubahan dinamika dalam profitabilitas operasi penambangan aset kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-gpu-conversion.webp",
-   "a": "13 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-mining-difficulty-hits-148-trillion-as-revenues-fall-to-three-month-lows",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-difficulty-chain-pressure.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-01T11:20:22"
+   "published_at": "2026-10-30T11:50:29"
+  },
+  {
+   "id": 8151,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "THORChain hentikan swap setelah bug reorg blok, perlambat peretas Binance",
+   "x": "THORChain menghentikan sementara aktivitas pertukaran aset di 10 jaringan, termasuk Bitcoin dan Ethereum, akibat adanya bug reorg blok. Insiden ini juga dilaporkan memperlambat aktivitas peretas yang menargetkan Binance.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T01:51:48"
   },
   {
    "id": 8049,
@@ -488,24 +446,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/3-altcoin-all-time-high-akhir-pekan-ini-oktober-market-dump",
    "img": "https://assets.beincrypto.com/img/5f_RA4HXjjnBOGRMHgequQfY3nk=/smart/0251bec9027444fdb95e60af7fa4563b",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-31T01:08:46"
   },
   {
-   "id": 7938,
+   "id": 8119,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "MicroStrategy Catat Pendapatan Operasional Rekor US$21 Miliar karena Laba Bitcoin, tapi BTC per Saham Turun",
-   "x": "Strategy membukukan gain Bitcoin di atas kertas sebesar $21 miliar, namun Bitcoin per saham turun 3,7% di 2026. Berikut alasannya.",
+   "t": "AI butuh daya listrik penambang Bitcoin, kontrak ungkap pihak yang diuntungkan",
+   "x": "Perusahaan AI kini mengincar koneksi listrik dan infrastruktur yang telah dibangun oleh penambang Bitcoin. Hal ini berpotensi membuat operasi penambangan yang sudah ada menjadi lebih berharga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-gpu-conversion.webp",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-01T11:20:22"
+  },
+  {
+   "id": 8148,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Satu Dekade Lalu, Peretasan Senilai US$6,3 Miliar Akan Menenggelamkan Binance dan BTC, Kata CIO Bitwise",
+   "x": "CIO Bitwise Matt Hougan mengatakan bahwa peretasan Binance akan membuat exchange tersebut tenggelam satu dekade lalu. Peretasan di masa lalu memukul Bitcoin dalam jangka pendek.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/microstrategy-cetak-laba-rekor-bitcoin-per-saham-turun",
-   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/binance-hack-bitwise-hougan-sejarah-bitcoin",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-10-29T21:57:27"
+   "published_at": "2026-11-02T00:40:00"
   }
  ]
 }

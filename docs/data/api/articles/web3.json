@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/perbedaan-private-key-dan-seed-phrase",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T09:00:14"
@@ -26,24 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/central-banks-map-their-role-in-a-payments-system-shared-with-stablecoins",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-payment-framework.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T06:30:55"
   },
   {
-   "id": 7930,
+   "id": 8149,
    "k": "web3",
    "cat": "Web3",
-   "t": "Binance tuding laptop engineer yang diretas dalam peretasan $6,3 miliar",
-   "x": "Binance menyatakan bahwa peretas mungkin menggunakan laptop DevOps yang terkompromi untuk mengakses infrastruktur internal. Pernyataan ini memberikan gambaran awal mengenai modus operandi di balik peretasan besar tersebut.",
+   "t": "BTCPay Server peringatkan pencurian hot wallet akibat perangkat lunak usang",
+   "x": "BTCPay Server mengimbau operator untuk mematikan server mereka menyusul laporan adanya peretas yang menguras dana dari hot wallet. Pengguna diminta segera memperbarui perangkat lunak untuk mencegah kerugian.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T00:11:26"
+   "published_at": "2026-11-02T05:34:02"
   },
   {
    "id": 8041,
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/alamat-wallet-hacker-binance-dibuka-ke-publik-bursa-kripto-ikut-terancam",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:30:26"
@@ -96,24 +96,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-validator-reward-audit.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T05:10:57"
   },
   {
-   "id": 7946,
+   "id": 8157,
    "k": "web3",
    "cat": "Web3",
-   "t": "Binance dibobol hacker, kripto senilai Rp99 triliun diduga raib",
-   "x": "Bursa kripto Binance diduga menjadi korban peretasan setelah dana senilai hampir Rp99 triliun terdeteksi keluar dari dompet terkait. Insiden ini menimbulkan kekhawatiran besar mengenai keamanan aset pengguna di platform tersebut.",
+   "t": "80 juta XRP keluar dari dompet Binance saat penarikan dipulihkan",
+   "x": "Sebanyak 80 juta XRP dipindahkan dari dompet Binance ke dompet baru setelah layanan penarikan aset dipulihkan. Pergerakan dana ini terjadi di tengah pemulihan operasional bursa tersebut.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/binance-dibobol-hacker-kripto-senilai-rp99-triliun-diduga-raib",
+   "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
    "img": null,
-   "a": "3 hari lalu",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T00:00:42"
+   "published_at": "2026-11-02T03:30:30"
+  },
+  {
+   "id": 8159,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Unggah private key, 500 juta token MIKA raib dalam 81 detik",
+   "x": "Influencer kripto Mika diduga tidak sengaja mengunggah private key dompetnya, menyebabkan 500 juta token MIKA berpindah tangan dan dijual dalam waktu 81 detik. Insiden ini menyoroti pentingnya menjaga kerahasiaan kunci pribadi.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/unggah-private-key-500-juta-token-ini-raib-dalam-81-detik",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T02:30:52"
+  },
+  {
+   "id": 8160,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Cari tanda kripto mau rebound? Coba intip fitur ini di Cryptoiz",
+   "x": "Fitur Price Guardian Boards di Cryptoiz diklaim dapat membantu investor memantau pergerakan aset digital besar. Ini bisa menjadi alat bantu untuk mengidentifikasi potensi peluang masuk pasar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/cari-tanda-kripto-mau-rebound-coba-intip-fitur-ini-di-cryptoiz",
+   "img": null,
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T02:07:39"
   },
   {
    "id": 7998,
@@ -152,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/hacker-jenius-bobol-binance-ini-modusnya",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T03:30:12"
@@ -166,7 +194,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/hacker-kuras-validator-solana-dana-bantuan-pun-dicuri-dalam-5-detik",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-30T02:30:53"
