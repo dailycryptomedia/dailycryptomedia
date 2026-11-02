@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,46 +18,18 @@
    "published_at": "2026-10-31T11:41:54"
   },
   {
-   "id": 8045,
+   "id": 8139,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "MetaMask dukung integrasi Stellar, namun bridge lintas rantai perlu setup manual",
-   "x": "MetaMask kini mendukung alamat Stellar, memungkinkan pengguna mengelola aset di jaringan tersebut. Namun, transfer antar-rantai masih memerlukan konfigurasi manual.",
+   "t": "Proposal anggaran Cardano 2027 izinkan pengelola dana ajukan hibah",
+   "x": "Pengelola dana di Cardano dapat mengajukan proposal hibah untuk pengembangan ekosistem. Perubahan ini memungkinkan partisipasi lebih luas dalam pendanaan proyek.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metamask-stellar-usdc-standard-image.jpg",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/cardanos-2027-budget-proposal-would-let-funding-stewards-seek-grants-too",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/cardano-budget-compass.webp",
+   "a": "35 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T22:50:38"
-  },
-  {
-   "id": 7928,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Coinbase Cetak Laba $719 Juta di Q3 Berkat Keuntungan Aset Kripto",
-   "x": "Coinbase melaporkan laba bersih kuartal ketiga yang signifikan, didorong oleh keuntungan dari aset kripto yang dimilikinya. Kinerja positif ini menunjukkan pemulihan di bursa kripto utama.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T20:46:43"
-  },
-  {
-   "id": 7913,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Perusahaan Publik Gandakan Pendapatan Blockchain Sejak 2022: Laporan",
-   "x": "Laporan 1kx menunjukkan perusahaan publik kini menguasai porsi pendapatan blockchain yang lebih besar. Hal ini didorong oleh adopsi institusional dan aplikasi aset dunia nyata.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T19:53:14"
+   "published_at": "2026-11-02T00:20:43"
   },
   {
    "id": 8028,
@@ -74,6 +46,34 @@
    "published_at": "2026-10-30T19:34:11"
   },
   {
+   "id": 8045,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "MetaMask dukung integrasi Stellar, namun bridge lintas rantai perlu setup manual",
+   "x": "MetaMask kini mendukung alamat Stellar, memungkinkan pengguna mengelola aset di jaringan tersebut. Namun, transfer antar-rantai masih memerlukan konfigurasi manual.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/metamask-stellar-usdc-standard-image.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T22:50:38"
+  },
+  {
+   "id": 8092,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Saham SpaceX Turun di Bawah Harga IPO, tapi CZ Binance Tetap Optimistis",
+   "x": "Saham SpaceX turun di bawah harga IPO USD135 saat CZ menyebutnya sebagai pemenang jangka panjang dan harga opsi memperkirakan pergerakan 14%.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/saham-spacex-di-bawah-harga-ipo-cz",
+   "img": "https://assets.beincrypto.com/img/4pcrygCW9Z_grQHWgdtN93zLXqY=/smart/88d5edbae7aa4e69ae98d206a85c92cf",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-10-31T21:30:00"
+  },
+  {
    "id": 7992,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -88,34 +88,6 @@
    "published_at": "2026-10-30T14:30:37"
   },
   {
-   "id": 8092,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Saham SpaceX Turun di Bawah Harga IPO, tapi CZ Binance Tetap Optimistis",
-   "x": "Saham SpaceX turun di bawah harga IPO USD135 saat CZ menyebutnya sebagai pemenang jangka panjang dan harga opsi memperkirakan pergerakan 14%.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-spacex-di-bawah-harga-ipo-cz",
-   "img": "https://assets.beincrypto.com/img/4pcrygCW9Z_grQHWgdtN93zLXqY=/smart/88d5edbae7aa4e69ae98d206a85c92cf",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-31T21:30:00"
-  },
-  {
-   "id": 7941,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Silicon Valley alihkan dana AI ke kripto pakai cetak biru ICO Ethereum",
-   "x": "Pendanaan startup di Silicon Valley kini beralih ke sektor kripto dengan menggunakan model penggalangan dana ala Initial Coin Offering (ICO) Ethereum. Pergeseran ini menandakan minat baru investor terhadap teknologi blockchain.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/yc-crypto-startup-request-standard.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T00:40:53"
-  },
-  {
    "id": 7979,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -128,6 +100,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-10-30T12:52:29"
+  },
+  {
+   "id": 7941,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Silicon Valley alihkan dana AI ke kripto pakai cetak biru ICO Ethereum",
+   "x": "Pendanaan startup di Silicon Valley kini beralih ke sektor kripto dengan menggunakan model penggalangan dana ala Initial Coin Offering (ICO) Ethereum. Pergeseran ini menandakan minat baru investor terhadap teknologi blockchain.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/yc-crypto-startup-request-standard.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T00:40:53"
   },
   {
    "id": 8087,

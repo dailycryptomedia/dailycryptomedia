@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pajak-kripto-indonesia-turun-hampir-52-persen-apa-penyebabnya",
    "img": null,
-   "a": "18 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T03:00:22"
-  },
-  {
-   "id": 7911,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Ledger yang Dirusak Dilaporkan di Singapura Sebulan Sebelum Berita Muncul",
-   "x": "Polisi Singapura melaporkan adanya Ledger yang dirusak mulai 10 September. Penundaan undang-undang pajak kripto di Korea Selatan untuk keempat kalinya menunjukkan ketidakpastian regulasi di Asia.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T22:31:07"
   },
   {
    "id": 8128,
@@ -40,10 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/crypto-scammers-used-secs-website-to-lure-investors-into-alleged-130-million-fraud",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/sec-filing-facade.webp",
-   "a": "1 jam lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T20:00:49"
+  },
+  {
+   "id": 7970,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Binance bekerja sama dengan FBI untuk memulihkan aset pasca peretasan $6,3 miliar",
+   "x": "Binance berkolaborasi dengan penegak hukum untuk memulihkan aset senilai $3 miliar yang dibekukan. Bursa ini telah mengalokasikan lebih dari $6,3 miliar dari dana perusahaan untuk menutupi kekurangan akibat peretasan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66DY7634YFAY00EZKKKTQV0/hi-crypto-crime-investigation-regulation-police-cybercrime-criminal-detective-token.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-30T13:11:10"
   },
   {
    "id": 7981,
@@ -88,34 +88,6 @@
    "published_at": "2026-10-31T03:00:01"
   },
   {
-   "id": 7970,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Binance bekerja sama dengan FBI untuk memulihkan aset pasca peretasan $6,3 miliar",
-   "x": "Binance berkolaborasi dengan penegak hukum untuk memulihkan aset senilai $3 miliar yang dibekukan. Bursa ini telah mengalokasikan lebih dari $6,3 miliar dari dana perusahaan untuk menutupi kekurangan akibat peretasan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66DY7634YFAY00EZKKKTQV0/hi-crypto-crime-investigation-regulation-police-cybercrime-criminal-detective-token.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T13:11:10"
-  },
-  {
-   "id": 7924,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "HTX Keluar dari Inggris, Nasabah Diminta Tarik Dana dalam 48 Jam",
-   "x": "HTX menghentikan operasinya di Inggris setelah penyelesaian dengan regulator, memberikan waktu 48 jam bagi nasabah untuk menarik aset mereka. Ini menunjukkan tren pengetatan regulasi di pasar kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/htx-uk-fca-crypto-barriers.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-29T21:00:26"
-  },
-  {
    "id": 8105,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -124,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-sumbang-rp218-triliun-ke-negara-pajak-digital-ri-capai-rp5875-triliun",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T06:00:08"
