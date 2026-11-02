@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/perbedaan-private-key-dan-seed-phrase",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T09:00:14"
-  },
-  {
-   "id": 7965,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bank sentral petakan peran dalam sistem pembayaran bersama stablecoin",
-   "x": "Bank sentral global sedang merumuskan peran mereka dalam ekosistem pembayaran yang melibatkan stablecoin. Pembahasan ini mencakup akses penyelesaian, infrastruktur, dan pengawasan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/central-banks-map-their-role-in-a-payments-system-shared-with-stablecoins",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-payment-framework.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T06:30:55"
   },
   {
    "id": 8149,
@@ -40,10 +26,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg",
-   "a": "1 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T05:34:02"
+  },
+  {
+   "id": 8176,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "T7X bangun infrastruktur pasar modal baru",
+   "x": "T7X mencatat kepemilikan aset digital langsung di blockchain, bukan melalui aset yang dibungkus. Pendekatan ini menyatukan token dan aset di bawah satu kerangka hukum.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T15:01:03"
+  },
+  {
+   "id": 8190,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Sebuah Jaringan Bioskop Coba Cara Unik untuk Hadirkan Kembali Sensasi Menonton Pertama Kali",
+   "x": "Jaringan chain Belanda Pathé akan menghipnotis 30 penggemar agar mereka melupakan film favoritnya, sementara Netflix kini menghasilkan lebih dari dua kali lipat pendapatan box office AS dan Kanada.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/netflix-box-office-bioskop-hipnosis",
+   "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-02T09:36:47"
   },
   {
    "id": 8041,
@@ -60,18 +74,18 @@
    "published_at": "2026-10-30T21:20:23"
   },
   {
-   "id": 7989,
+   "id": 8107,
    "k": "web3",
    "cat": "Web3",
-   "t": "Trezor peringatkan pembeli CryptoBilis terkait implan perangkat keras",
-   "x": "Produsen dompet perangkat keras Trezor mengeluarkan peringatan kepada pembeli produk CryptoBilis setelah laporan adanya implan berbahaya. Pengguna disarankan memindahkan dana mereka demi keamanan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/trezor-safe-5-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "t": "Data validator Solana bermasalah, staker sulit lacak biaya staking",
+   "x": "Data biaya validator di jaringan Solana mengalami kekosongan, menyulitkan pengguna yang melakukan staking untuk memverifikasi imbal hasil. Hal ini menimbulkan pertanyaan mengenai transparansi data dalam ekosistem staking.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-validator-reward-audit.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-30T10:07:29"
+   "published_at": "2026-11-01T05:10:57"
   },
   {
    "id": 8055,
@@ -88,18 +102,32 @@
    "published_at": "2026-10-31T03:30:26"
   },
   {
-   "id": 8107,
+   "id": 8168,
    "k": "web3",
    "cat": "Web3",
-   "t": "Data validator Solana bermasalah, staker sulit lacak biaya staking",
-   "x": "Data biaya validator di jaringan Solana mengalami kekosongan, menyulitkan pengguna yang melakukan staking untuk memverifikasi imbal hasil. Hal ini menimbulkan pertanyaan mengenai transparansi data dalam ekosistem staking.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-validator-reward-audit.webp",
-   "a": "kemarin",
+   "t": "Trezor tingkatkan keamanan kata sandi pasca-pencurian dompet Coldcard",
+   "x": "Trezor memperkuat fitur kata sandi setelah insiden pencurian dompet Coldcard senilai $100 juta. Penguatan ini bertujuan melindungi pengguna dari potensi kompromi data pemulihan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-01T05:10:57"
+   "published_at": "2026-11-02T10:46:59"
+  },
+  {
+   "id": 8179,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BTCPay Minta Pedagang Matikan Server Akibat Laporan Serangan Dompet Panas",
+   "x": "BTCPay mengimbau pedagang untuk menonaktifkan server mereka menyusul laporan serangan yang menargetkan versi lama perangkat lunak pembayaran Bitcoin. Pengguna disarankan segera memperbarui ke versi aman.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T12:24:18"
   },
   {
    "id": 8157,
@@ -110,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
    "img": null,
-   "a": "3 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T03:30:30"
@@ -124,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/unggah-private-key-500-juta-token-ini-raib-dalam-81-detik",
    "img": null,
-   "a": "4 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T02:30:52"
@@ -138,66 +166,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cari-tanda-kripto-mau-rebound-coba-intip-fitur-ini-di-cryptoiz",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T02:07:39"
-  },
-  {
-   "id": 7998,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Arbitrum amankan US$30 juta aset peretas Binance",
-   "x": "Arbitrum berhasil mengamankan US$30 juta aset curian dari peretasan Binance menggunakan mekanisme darurat. Tindakan ini dilakukan tanpa persetujuan pemilik dompet, menunjukkan kemampuan respons cepat dalam insiden keamanan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/arbitrum-menyamar-jadi-wallet-peretas-binance-us30-juta-diamankan",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T10:30:45"
-  },
-  {
-   "id": 8000,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Tether bekukan dompet kosong, hacker Binance pindahkan US$729 juta",
-   "x": "Hacker Binance berhasil memindahkan US$729 juta sebelum Tether membekukan dompet terkait. Investigasi mengungkap enam dompet telah kosong saat dibekukan, menunjukkan kecepatan pergerakan dana curian.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/tether-bekukan-dompet-kosong-hacker-binance-sudah-pindahkan-us729-juta",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T09:15:28"
-  },
-  {
-   "id": 8007,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Hacker jenius bobol Binance, ini modusnya",
-   "x": "Seorang hacker berhasil membobol Binance menggunakan modus EIP-7702, menguras dana dari dompet dalam waktu kurang dari dua menit. Peristiwa ini menyoroti kerentanan keamanan di bursa kripto besar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/hacker-jenius-bobol-binance-ini-modusnya",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T03:30:12"
-  },
-  {
-   "id": 8010,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Hacker kuras validator Solana, dana bantuan pun dicuri dalam 5 detik",
-   "x": "Lima validator Solana berhasil dikuras oleh hacker yang juga mencuri dana bantuan hanya dalam lima detik. Insiden ini menyoroti risiko keamanan yang dihadapi jaringan blockchain.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/hacker-kuras-validator-solana-dana-bantuan-pun-dicuri-dalam-5-detik",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T02:30:53"
   }
  ]
 }
