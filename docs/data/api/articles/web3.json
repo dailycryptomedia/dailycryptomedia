@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T21:16:24"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T15:01:03"
@@ -54,24 +54,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/netflix-box-office-bioskop-hipnosis",
    "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T09:36:47"
-  },
-  {
-   "id": 8041,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peretasan Binance terbesar dalam sejarah: bagaimana penyerang bobol $6,3 miliar",
-   "x": "Investigator mengaitkan peretasan Binance senilai $6 miliar dengan Korea Utara. Peretasan terjadi melalui kompromi infrastruktur penandatanganan dompet panas (hot wallet).",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230317_Binance_Color.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-30T21:20:23"
   },
   {
    "id": 8107,
@@ -82,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-validator-reward-audit.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-01T05:10:57"
@@ -96,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/alamat-wallet-hacker-binance-dibuka-ke-publik-bursa-kripto-ikut-terancam",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T03:30:26"
@@ -110,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T05:34:02"
@@ -124,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T18:46:03"
@@ -138,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T03:30:30"
@@ -152,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png",
-   "a": "13 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T10:46:59"
@@ -166,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T12:24:18"
@@ -180,7 +166,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/unggah-private-key-500-juta-token-ini-raib-dalam-81-detik",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T02:30:52"
@@ -194,7 +180,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/cari-tanda-kripto-mau-rebound-coba-intip-fitur-ini-di-cryptoiz",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T02:07:39"

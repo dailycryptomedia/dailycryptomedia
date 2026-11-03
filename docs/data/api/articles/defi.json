@@ -1,5 +1,5 @@
 {
- "total": 22,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pendapatan-kripto-block-circle-riot",
    "img": "https://assets.beincrypto.com/img/wRH3rdIGlRIJuYcfQ8YcVf9XVg0=/smart/14bd50f7fb094628930544598d369f96",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T06:00:00"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/eth-vault-benchmark.webp",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T16:40:04"
@@ -40,10 +40,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T22:22:30"
+  },
+  {
+   "id": 8261,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Korut dituduh bobol Binance Rp114 triliun, adik Kim Jong Un buka suara!",
+   "x": "Pemerintah Korea Utara membantah tuduhan FBI terkait dugaan peretasan Binance senilai Rp114 triliun. FBI sebelumnya mengungkap sejumlah alamat kripto yang diduga terkait dengan pelaku peretasan tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/korut-dituduh-bobol-binance-rp114-triliun-adik-kim-jong-un-buka-suara",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T03:00:52"
   },
   {
    "id": 8225,
@@ -54,24 +68,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2020/08/ethereum-classic-labs-blockchain-security-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T20:36:03"
-  },
-  {
-   "id": 8057,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Binance Jadi Peluang DEX, Standard Chartered Optimistis",
-   "x": "Standard Chartered melihat peretasan Binance sebagai katalis positif bagi bursa terdesentralisasi (DEX). Analis mereka bahkan memproyeksikan target harga token UNI sebesar US$100.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/binance-kena-hack-standard-chartered-lihat-peluang-besar-bagi-dex",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-10-31T03:15:21"
   },
   {
    "id": 8082,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kim-yo-jong-fbi-binance-hack-provokasi",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T21:21:25"
@@ -130,18 +130,18 @@
    "published_at": "2026-11-01T23:09:13"
   },
   {
-   "id": 8058,
+   "id": 8057,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Tujuh Peretasan Kripto Sepanjang 2026 Rugikan Rp157 Triliun",
-   "x": "Sepanjang tahun 2026, setidaknya tujuh insiden peretasan aset kripto terjadi dengan total kerugian mencapai Rp157 triliun. Laporan ini merinci setiap kasus dan dampaknya terhadap industri.",
+   "t": "Peretasan Binance Jadi Peluang DEX, Standard Chartered Optimistis",
+   "x": "Standard Chartered melihat peretasan Binance sebagai katalis positif bagi bursa terdesentralisasi (DEX). Analis mereka bahkan memproyeksikan target harga token UNI sebesar US$100.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/peretasan-kripto-sepanjang-2026",
+   "url": "https://blockchainmedia.id/binance-kena-hack-standard-chartered-lihat-peluang-besar-bagi-dex",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-31T03:00:52"
+   "published_at": "2026-10-31T03:15:21"
   },
   {
    "id": 8124,
@@ -158,32 +158,32 @@
    "published_at": "2026-11-01T17:54:09"
   },
   {
-   "id": 8051,
+   "id": 8255,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
-   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
+   "t": "Pasar pinjaman Kinetic terkait XRP senilai US$24 juta menunjukkan suku bunga dasar 0,04% sebelum hadiah",
+   "x": "Pasar pinjaman Kinetic yang terkait dengan XRP mencatat suku bunga dasar sebesar 0,04% sebelum memperhitungkan insentif. Hal ini menunjukkan adanya permintaan pinjaman XRP yang moderat di platform tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fxrp-base-yield-reservoir.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-31T03:40:43"
+   "published_at": "2026-11-03T03:20:37"
   },
   {
-   "id": 8060,
+   "id": 8058,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Peretasan Binance Memanas, Elon Musk Nyinyir, CZ Murka",
-   "x": "Peretasan Binance memanas dengan Elon Musk ikut menyindir dan CEO CZ yang murka. Binance menyiapkan dana besar untuk pemulihan aset yang hilang.",
+   "t": "Tujuh Peretasan Kripto Sepanjang 2026 Rugikan Rp157 Triliun",
+   "x": "Sepanjang tahun 2026, setidaknya tujuh insiden peretasan aset kripto terjadi dengan total kerugian mencapai Rp157 triliun. Laporan ini merinci setiap kasus dan dampaknya terhadap industri.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/drama-peretasan-binance-memanas-elon-musk-nyinyir-cz-naik-pitam",
+   "url": "https://blockchainmedia.id/peretasan-kripto-sepanjang-2026",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-31T02:45:55"
+   "published_at": "2026-10-31T03:00:52"
   },
   {
    "id": 8220,
@@ -194,38 +194,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/new-jersey-cabut-gugatan-staking-coinbase",
    "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T19:29:37"
   },
   {
-   "id": 8195,
+   "id": 8051,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ethereum Tambah 361.000 ETH ke Staking Aktif Meski Saldo Menurun",
-   "x": "Data CryptoKeyhole menunjukkan peningkatan jumlah ETH yang dihitung sebagai staking aktif di Ethereum selama Oktober. Namun, total saldo staking secara keseluruhan justru mengalami penurunan.",
+   "t": "Aave Buka Kembali Pasar yang Dibekukan, Blokir Pinjaman Agunan Baru",
+   "x": "Protokol DeFi Aave telah membuka kembali pasar yang sebelumnya dibekukan, namun membatasi penambahan agunan baru. Keputusan ini mencerminkan upaya penyesuaian risiko likuiditas dan pengelolaan agunan dalam ekosistem.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-staking-lift.webp",
-   "a": "9 jam lalu",
+   "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T14:40:10"
+   "published_at": "2026-10-31T03:40:43"
   },
   {
-   "id": 8104,
+   "id": 8262,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Peretasan Binance vs Bybit: beda modus hacker curi kripto",
-   "x": "Peretasan di Binance dan Bybit sama-sama menyebabkan kerugian miliaran dolar aset kripto, namun metode yang digunakan pelaku berbeda. Analisis mendalam terhadap modus serangan ini penting untuk pencegahan.",
+   "t": "Binance dibobol hacker Korut, trader kripto malah ramai-ramai beli koin Kim Jong Un!",
+   "x": "Token bernama Koin Kim Jong Un (KIM) ramai diperdagangkan di jaringan Solana seiring FBI mengaitkan peretasan besar Binance dengan kelompok hacker Korea Utara. Fenomena ini menarik perhatian pasar.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/peretasan-binance-vs-bybit-begini-perbedaan-cara-hacker-menguras-kripto",
+   "url": "https://blockchainmedia.id/binance-dibobol-hacker-korut-trader-kripto-malah-ramai-ramai-beli-koin-kim-jong-un",
    "img": null,
-   "a": "kemarin",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-01T07:00:01"
+   "published_at": "2026-11-03T02:30:55"
   },
   {
    "id": 8111,
@@ -242,6 +242,48 @@
    "published_at": "2026-11-01T11:35:28"
   },
   {
+   "id": 8195,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ethereum Tambah 361.000 ETH ke Staking Aktif Meski Saldo Menurun",
+   "x": "Data CryptoKeyhole menunjukkan peningkatan jumlah ETH yang dihitung sebagai staking aktif di Ethereum selama Oktober. Namun, total saldo staking secara keseluruhan justru mengalami penurunan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-staking-lift.webp",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T14:40:10"
+  },
+  {
+   "id": 8060,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan Binance Memanas, Elon Musk Nyinyir, CZ Murka",
+   "x": "Peretasan Binance memanas dengan Elon Musk ikut menyindir dan CEO CZ yang murka. Binance menyiapkan dana besar untuk pemulihan aset yang hilang.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/drama-peretasan-binance-memanas-elon-musk-nyinyir-cz-naik-pitam",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T02:45:55"
+  },
+  {
+   "id": 8248,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "3 Altcoin yang Perlu Dipantau di Pekan Pertama November 2026",
+   "x": "HYPE, PEPE, dan STX menguji level Fibonacci kunci setelah peretasan Binance. Lihat altcoin yang perlu dipantau minggu ini.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/top-3-altcoin-pekan-pertama-november-2026",
+   "img": "https://assets.beincrypto.com/img/-UCXUa95T9shvVCr7a4pd1xYBMA=/smart/015f78e5a293455ea6460958a3203e93",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-03T00:57:54"
+  },
+  {
    "id": 8196,
    "k": "defi",
    "cat": "DeFi",
@@ -250,24 +292,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/akash-coupon-logos.webp",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T13:40:29"
   },
   {
-   "id": 8064,
+   "id": 8104,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Mengenal Lazarus Group: Peretas Pyongyang dengan Jejak Miliaran Dolar",
-   "x": "Lazarus Group asal Korea Utara terus menjadi ancaman bagi keuangan global dengan jejak peretasan bernilai miliaran dolar. Profil kelompok ini diulas lebih dalam.",
+   "t": "Peretasan Binance vs Bybit: beda modus hacker curi kripto",
+   "x": "Peretasan di Binance dan Bybit sama-sama menyebabkan kerugian miliaran dolar aset kripto, namun metode yang digunakan pelaku berbeda. Analisis mendalam terhadap modus serangan ini penting untuk pencegahan.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/mengenal-lazarus-group",
+   "url": "https://blockchainmedia.id/peretasan-binance-vs-bybit-begini-perbedaan-cara-hacker-menguras-kripto",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-31T01:30:18"
+   "published_at": "2026-11-01T07:00:01"
   },
   {
    "id": 8117,
@@ -284,6 +326,20 @@
    "published_at": "2026-11-01T13:20:52"
   },
   {
+   "id": 8064,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Mengenal Lazarus Group: Peretas Pyongyang dengan Jejak Miliaran Dolar",
+   "x": "Lazarus Group asal Korea Utara terus menjadi ancaman bagi keuangan global dengan jejak peretasan bernilai miliaran dolar. Profil kelompok ini diulas lebih dalam.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/mengenal-lazarus-group",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-10-31T01:30:18"
+  },
+  {
    "id": 8065,
    "k": "defi",
    "cat": "DeFi",
@@ -292,7 +348,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kronologi-lengkap-peretasan-binance-2026",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-10-31T01:00:39"
@@ -306,7 +362,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/apa-itu-eip-7702",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T07:00:54"
