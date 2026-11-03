@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-11-01T22:32:38"
   },
   {
+   "id": 8314,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tesla dan SpaceX Blokir Sahamnya dari Bursa Tokenisasi OKX-ICE",
+   "x": "Sejumlah perusahaan teknologi besar, termasuk Tesla dan SpaceX, menolak pencatatan saham mereka di platform perdagangan tokenisasi aset digital yang baru. Penolakan ini menambah daftar panjang perusahaan yang keberatan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T17:46:15"
+  },
+  {
    "id": 8098,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -46,18 +60,18 @@
    "published_at": "2026-11-01T01:30:19"
   },
   {
-   "id": 8083,
+   "id": 8232,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Chainalysis: Peretas gunakan teknik canggih akses nama dan email pelanggan",
-   "x": "Perusahaan analisis blockchain Chainalysis mengonfirmasi peretas mengakses data pelanggan menggunakan teknik canggih. Insiden ini terjadi bersamaan dengan pelacakan peretasan Binance yang melibatkan penggunaan protokol Tron untuk menghindari pembekuan stablecoin.",
+   "t": "Peluncuran tokenisasi DTCC percepat adopsi, tingkatkan Securitize",
+   "x": "Layanan tokenisasi dari DTCC memvalidasi model bisnis Securitize, yang berfokus pada tokenisasi aset dunia nyata. Hal ini dapat mendorong adopsi tokenisasi di pasar keuangan tradisional.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Chainalysis-Data-Wave-Network_clean.png",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-10-31T13:27:17"
+   "published_at": "2026-11-02T19:15:48"
   },
   {
    "id": 8214,
@@ -68,24 +82,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T18:00:16"
-  },
-  {
-   "id": 8229,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Nvidia dan Nike pimpin gelombang keberatan tokenisasi saham",
-   "x": "Nvidia, Nike, dan sembilan perusahaan lain menolak perdagangan saham mereka di platform tokenisasi OKX-ICE. Total perusahaan yang keberatan mencapai 50, menunjukkan resistensi terhadap tokenisasi saham perusahaan publik.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T17:36:03"
   },
   {
    "id": 8290,
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-bitcoin-temporary-liquidity-sluice.webp",
-   "a": "26 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T13:00:37"
@@ -116,18 +116,18 @@
    "published_at": "2026-11-01T21:58:18"
   },
   {
-   "id": 8232,
+   "id": 8229,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Peluncuran tokenisasi DTCC percepat adopsi, tingkatkan Securitize",
-   "x": "Layanan tokenisasi dari DTCC memvalidasi model bisnis Securitize, yang berfokus pada tokenisasi aset dunia nyata. Hal ini dapat mendorong adopsi tokenisasi di pasar keuangan tradisional.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg",
-   "a": "18 jam lalu",
+   "t": "Nvidia dan Nike pimpin gelombang keberatan tokenisasi saham",
+   "x": "Nvidia, Nike, dan sembilan perusahaan lain menolak perdagangan saham mereka di platform tokenisasi OKX-ICE. Total perusahaan yang keberatan mencapai 50, menunjukkan resistensi terhadap tokenisasi saham perusahaan publik.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T19:15:48"
+   "published_at": "2026-11-02T17:36:03"
   },
   {
    "id": 8169,
@@ -152,10 +152,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T12:00:53"
+  },
+  {
+   "id": 8327,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bank Hong Kong uji coba penyelesaian tunai 24/7 untuk kesepakatan dana ter-tokenisasi",
+   "x": "Bank di Hong Kong meluncurkan pilot program yang memungkinkan penyelesaian transaksi dana ter-tokenisasi secara real-time di luar jam kerja normal. Inisiatif ini dapat meningkatkan efisiensi dan likuiditas pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hong-kong-bank-pilot-opens-24-7-cash-settlement-for-tokenized-fund-deals",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-settlement-window.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T16:00:28"
   },
   {
    "id": 8237,
@@ -166,10 +180,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/treasury-holds-1-trillion-as-bitcoin-faces-a-key-liquidity-test-this-week",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-cash-gate.webp",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T19:40:49"
+  },
+  {
+   "id": 8328,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin dan imbal hasil Treasury jatuh bersamaan dalam penyimpangan langka saat pemulihan $80.000 gagal",
+   "x": "Bitcoin mengalami penurunan bersamaan dengan imbal hasil obligasi pemerintah AS, sebuah fenomena yang jarang terjadi. Hal ini menimbulkan kekhawatiran tentang permintaan aset digital di tengah ketidakpastian pasar keuangan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-freight-elevator-descent.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T15:30:24"
   },
   {
    "id": 8294,
@@ -180,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/dollar-stablecoin-use-stayed-elevated-after-capital-controls-ended-new-research-suggests",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-dollar-imprint.webp",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T08:00:58"
