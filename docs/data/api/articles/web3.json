@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,34 @@
    "published_at": "2026-11-01T09:00:14"
   },
   {
+   "id": 8340,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Zombies Dengan Wallet: Sisi Gelap Pembayaran AI",
+   "x": "Joscha Bach mengatakan uang tidak membutuhkan manusia. Data BeInCrypto menunjukkan pembayaran agen masih berjalan berdasarkan anggaran yang ditetapkan manusia.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/dompet-zombi-ai-kesadaran-agen-pembayaran",
+   "img": "https://assets.beincrypto.com/img/TbO3Ob-LyIvZ8wsAJqHbQUAS1WU=/smart/1327f2858e3044158509d43aa768cfb0",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-03T21:43:21"
+  },
+  {
+   "id": 8351,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Binance gunakan AI untuk lawan penipuan sebelum peretas eksploitasi alat internal dalam pencurian $6 miliar",
+   "x": "Peretas berhasil mencuri $6,34 miliar aset kripto dengan mengeksploitasi alat kecerdasan buatan internal Binance. Insiden ini menyoroti risiko keamanan siber pada platform bursa kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-software-trojan-horse.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T22:30:31"
+  },
+  {
    "id": 8311,
    "k": "web3",
    "cat": "Web3",
@@ -26,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "27 menit lalu",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T19:46:03"
@@ -40,10 +68,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T21:16:24"
+  },
+  {
+   "id": 8323,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ethereum Layer 2 Aztec tingkatkan Tierra V6 untuk dukung aplikasi privat lebih cepat",
+   "x": "Platform Layer 2 Ethereum, Aztec, meluncurkan pembaruan Tierra V6 yang diklaim menggandakan kecepatan pembuatan bukti transaksi privat dan memperbaiki isu keamanan. Peningkatan ini diharapkan dapat mendorong adopsi aplikasi terdesentralisasi yang mengutamakan privasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
+   "a": "10 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T14:00:00"
+  },
+  {
+   "id": 8157,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "80 juta XRP keluar dari dompet Binance saat penarikan dipulihkan",
+   "x": "Sebanyak 80 juta XRP dipindahkan dari dompet Binance ke dompet baru setelah layanan penarikan aset dipulihkan. Pergerakan dana ini terjadi di tengah pemulihan operasional bursa tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T03:30:30"
   },
   {
    "id": 8190,
@@ -74,34 +130,6 @@
    "published_at": "2026-11-01T05:10:57"
   },
   {
-   "id": 8323,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ethereum Layer 2 Aztec tingkatkan Tierra V6 untuk dukung aplikasi privat lebih cepat",
-   "x": "Platform Layer 2 Ethereum, Aztec, meluncurkan pembaruan Tierra V6 yang diklaim menggandakan kecepatan pembuatan bukti transaksi privat dan memperbaiki isu keamanan. Peningkatan ini diharapkan dapat mendorong adopsi aplikasi terdesentralisasi yang mengutamakan privasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T14:00:00"
-  },
-  {
-   "id": 8157,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "80 juta XRP keluar dari dompet Binance saat penarikan dipulihkan",
-   "x": "Sebanyak 80 juta XRP dipindahkan dari dompet Binance ke dompet baru setelah layanan penarikan aset dipulihkan. Pergerakan dana ini terjadi di tengah pemulihan operasional bursa tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/80-juta-xrp-keluar-dari-dompet-binance-saat-penarikan-dipulihkan",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T03:30:30"
-  },
-  {
    "id": 8176,
    "k": "web3",
    "cat": "Web3",
@@ -124,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:44:06"
@@ -194,7 +222,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:09:19"
@@ -236,7 +264,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FRVQEAWKQAEZ8JB6F3S0VW/hi-uk-regulations.jpg",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T03:58:45"

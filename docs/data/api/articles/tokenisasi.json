@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-uptober-oktober-minyak-ai-obligasi",
    "img": "https://assets.beincrypto.com/img/QPq4HffmQS5_vk4XL9aGH4PP_hE=/smart/992f02f1e02044e7878f05b879d6c5d7",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-01T22:32:38"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T17:46:15"
@@ -74,18 +74,18 @@
    "published_at": "2026-11-02T19:15:48"
   },
   {
-   "id": 8214,
+   "id": 8334,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Animoca Brands selesaikan hambatan dana kelolaan Abu Dhabi",
-   "x": "Animoca Brands membangun bisnis pengelolaan dana di Abu Dhabi untuk memenuhi permintaan investor institusi terhadap aset digital yang ditokenisasi dan stablecoin. Ini menunjukkan pergeseran fokus perusahaan ke layanan keuangan kripto yang lebih luas.",
+   "t": "SpaceX blokir listing saham tokenisasi di OKXICE meski perdagangan offshore ramai",
+   "x": "SpaceX menolak listing sahamnya yang ditokenisasi di bursa OKXICE, menyusul penerbit lain yang keberatan. Keputusan ini diambil meski ada tren peningkatan perdagangan aset digital yang terikat pada saham perusahaan di luar negeri.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/spacex-tokenization-okxice",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T18:00:16"
+   "published_at": "2026-11-03T21:47:20"
   },
   {
    "id": 8290,
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-bitcoin-temporary-liquidity-sluice.webp",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T13:00:37"
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/emas-terburuk-oktober-sejak-2008-pekan-ini",
    "img": "https://assets.beincrypto.com/img/Mrq9VgPtnCPBj4Gf5ifEd_cD7Zk=/smart/bf5cb01cd3574350a95732de951d29be",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-01T21:58:18"
@@ -130,6 +130,34 @@
    "published_at": "2026-11-02T17:36:03"
   },
   {
+   "id": 8214,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Animoca Brands selesaikan hambatan dana kelolaan Abu Dhabi",
+   "x": "Animoca Brands membangun bisnis pengelolaan dana di Abu Dhabi untuk memenuhi permintaan investor institusi terhadap aset digital yang ditokenisasi dan stablecoin. Ini menunjukkan pergeseran fokus perusahaan ke layanan keuangan kripto yang lebih luas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T18:00:16"
+  },
+  {
+   "id": 8291,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tether bekukan $1,5 miliar USDT pasca-peretasan Binance, tapi $729 juta lolos",
+   "x": "Tether berhasil membekukan sebagian besar aset yang dicuri pasca-peretasan Binance, namun sebagian dana berhasil lolos. Insiden ini kembali menyoroti risiko keamanan di bursa kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T12:00:53"
+  },
+  {
    "id": 8169,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -144,20 +172,6 @@
    "published_at": "2026-11-02T10:14:55"
   },
   {
-   "id": 8291,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Tether bekukan $1,5 miliar USDT pasca-peretasan Binance, tapi $729 juta lolos",
-   "x": "Tether berhasil membekukan sebagian besar aset yang dicuri pasca-peretasan Binance, namun sebagian dana berhasil lolos. Insiden ini kembali menyoroti risiko keamanan di bursa kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T12:00:53"
-  },
-  {
    "id": 8327,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hong-kong-bank-pilot-opens-24-7-cash-settlement-for-tokenized-fund-deals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-settlement-window.webp",
-   "a": "4 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:00:28"
@@ -194,7 +208,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-freight-elevator-descent.webp",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T15:30:24"
@@ -208,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/dollar-stablecoin-use-stayed-elevated-after-capital-controls-ended-new-research-suggests",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-dollar-imprint.webp",
-   "a": "12 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T08:00:58"

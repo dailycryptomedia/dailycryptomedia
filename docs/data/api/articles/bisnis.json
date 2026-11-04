@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jim-cramer-ralph-lauren-saham-earnings",
    "img": "https://assets.beincrypto.com/img/HKxOA__1Ku4iRVMqEKDuU4ByUSg=/smart/4613e287f82c4d2c9a1cd89a29f5f309",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T04:12:00"
@@ -26,10 +26,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cardanos-2027-budget-proposal-would-let-funding-stewards-seek-grants-too",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/cardano-budget-compass.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T00:20:43"
+  },
+  {
+   "id": 8347,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "AI Anthropic semakin murah digunakan, jadi masalah bagi bisnisnya",
+   "x": "Penurunan harga layanan AI Anthropic berbanding terbalik dengan pertumbuhan biaya komputasi yang lebih cepat dari penjualan. Hal ini menjadi tantangan bagi valuasi perusahaan menjelang IPO.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T21:50:17"
   },
   {
    "id": 8242,
@@ -40,24 +54,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/yardeni-perkiraan-pendapatan-sp500-2028",
    "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T03:40:00"
   },
   {
-   "id": 8092,
+   "id": 8348,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Saham SpaceX Turun di Bawah Harga IPO, tapi CZ Binance Tetap Optimistis",
-   "x": "Saham SpaceX turun di bawah harga IPO USD135 saat CZ menyebutnya sebagai pemenang jangka panjang dan harga opsi memperkirakan pergerakan 14%.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-spacex-di-bawah-harga-ipo-cz",
-   "img": "https://assets.beincrypto.com/img/4pcrygCW9Z_grQHWgdtN93zLXqY=/smart/88d5edbae7aa4e69ae98d206a85c92cf",
-   "a": "2 hari lalu",
+   "t": "CrowdStrike luncurkan 'Kill Switch' agen AI, berencana akuisisi Fiddler AI",
+   "x": "CrowdStrike memperkenalkan fitur keamanan baru untuk mengontrol agen AI dan berencana mengakuisisi Fiddler AI. Langkah ini menunjukkan upaya penguatan keamanan dalam ekosistem AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-10-31T21:30:00"
+   "translated": true,
+   "published_at": "2026-11-03T21:16:03"
   },
   {
    "id": 8143,
@@ -82,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/alokasi-ritel-robinhood-dorong-ipo-anthropic",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "17 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T02:13:52"
@@ -96,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kegelisahan-ai-pasar-private-openai-raise",
    "img": "https://assets.beincrypto.com/img/Jrib52KIppu960NPw8JE0YuBeDc=/smart/f16a2f363c004faf9d0acf9f86693406",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T01:53:51"
@@ -124,7 +138,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-apple-mengalahkan-ekspektasi-saham-turun-cina",
    "img": "https://assets.beincrypto.com/img/mooIGk6ebzE0z_kXFTlZ3gWGspc=/smart/43ebcfe4dd734bb5b298bef2b973322b",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T21:44:20"
@@ -138,7 +152,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-ipo-filing-biaya-komputasi-pendapatan",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "12 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T08:00:00"
