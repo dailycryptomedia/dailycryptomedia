@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,10 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T21:50:17"
+  },
+  {
+   "id": 8400,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle laporkan pendapatan Q3 $865 juta, kurangi 5% staf",
+   "x": "Circle melaporkan pendapatan dan pendapatan cadangan sebesar $865 juta pada kuartal ketiga. Perusahaan juga melakukan pengurangan staf sekitar 5%.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-12.45.57.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T13:17:31"
   },
   {
    "id": 8242,
@@ -68,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "9 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T21:16:03"
@@ -96,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jim-cramer-saham-teknologi-pendanaan-ai",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T06:01:20"
@@ -128,6 +142,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T01:53:51"
+  },
+  {
+   "id": 8395,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Circle Lakukan PHK 5% Karyawan di Kuartal Menguntungkan: Kenapa Sekarang?",
+   "x": "Circle melakukan PHK terhadap 5% karyawan di kuartal ketiga ketika laba meningkat. Pendapatan cadangan menurun dan USDC mengalami stagnasi. Berikut alasannya sekarang.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/circle-phk-5-persen-karyawan-q3",
+   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-04T11:45:30"
   },
   {
    "id": 8147,
@@ -166,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-ipo-filing-biaya-komputasi-pendapatan",
    "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T08:00:00"
@@ -180,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-ipo-angkat-saham-teknologi-peck",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "5 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T01:28:00"
@@ -194,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cina-hentikan-ipo-penjualan-saham-besar",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "6 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T00:58:00"

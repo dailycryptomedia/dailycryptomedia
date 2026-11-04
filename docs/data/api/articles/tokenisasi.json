@@ -1,8 +1,22 @@
 {
- "total": 17,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 8389,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Peringatan Reset Utang 5 Tahun Willy Woo: Bisakah Bitcoin dan Emas Melindungi Anda?",
+   "x": "Analis on-chain Willy Woo mengungkapkan dunia bisa menghadapi reset utang bersejarah dalam lima tahun ke depan. Ia percaya Bitcoin dan emas dapat menjadi jalan keluar dari krisis ini. Peringatannya sejalan dengan tesis…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-emas-reset-siklus-hutang-80-tahun",
+   "img": "https://assets.beincrypto.com/img/smWL-CkBtxatClEc68-1eV90Vpk=/smart/0afbf5cc82f0427cb5a994054d1d8c7e",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-04T14:07:18"
+  },
   {
    "id": 8153,
    "k": "tokenisasi",
@@ -18,20 +32,6 @@
    "published_at": "2026-11-02T07:00:53"
   },
   {
-   "id": 8360,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Siapa yang Membeli Emas di 2026? Data Baru dari World Gold Council Punya Jawabannya",
-   "x": "World Gold Council (WGC) kini memperkirakan permintaan investasi emas akan naik sekitar 200 ton pada tahun 2026. Angka ini setengah dari perkiraan sebelumnya, yaitu 400 ton. Di laporan yang sama, WGC justru menaikkan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/world-gold-council-ramalan-emas-2026",
-   "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-04T05:30:14"
-  },
-  {
    "id": 8314,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -40,10 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T17:46:15"
+  },
+  {
+   "id": 8382,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Peretasan Binance bisa jadi 'kemunduran sementara' bagi kripto, kata Grayscale",
+   "x": "Peretasan besar-besaran di Binance, yang mengakibatkan kerugian miliaran dolar, dinilai sebagai hambatan sementara bagi industri aset kripto. Grayscale menekankan pentingnya langkah pengamanan kustodian institusional dalam menghadapi insiden keamanan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JYK2EH5NQHTWBFQ5A01VV5/hi-biggest-disappointments-in-crypto-in-2021.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T11:11:57"
   },
   {
    "id": 8232,
@@ -60,18 +74,18 @@
    "published_at": "2026-11-02T19:15:48"
   },
   {
-   "id": 8334,
+   "id": 8360,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "SpaceX blokir listing saham tokenisasi di OKXICE meski perdagangan offshore ramai",
-   "x": "SpaceX menolak listing sahamnya yang ditokenisasi di bursa OKXICE, menyusul penerbit lain yang keberatan. Keputusan ini diambil meski ada tren peningkatan perdagangan aset digital yang terikat pada saham perusahaan di luar negeri.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/spacex-tokenization-okxice",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png",
-   "a": "9 jam lalu",
+   "t": "Siapa yang Membeli Emas di 2026? Data Baru dari World Gold Council Punya Jawabannya",
+   "x": "World Gold Council (WGC) kini memperkirakan permintaan investasi emas akan naik sekitar 200 ton pada tahun 2026. Angka ini setengah dari perkiraan sebelumnya, yaitu 400 ton. Di laporan yang sama, WGC justru menaikkan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/world-gold-council-ramalan-emas-2026",
+   "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
+   "a": "10 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T21:47:20"
+   "translated": false,
+   "published_at": "2026-11-04T05:30:14"
   },
   {
    "id": 8290,
@@ -82,24 +96,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-bitcoin-temporary-liquidity-sluice.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T13:00:37"
-  },
-  {
-   "id": 8137,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bitcoin Uptober Gagal karena Minyak, Obligasi, dan AI Mengubah Pola: Apa yang Berubah?",
-   "x": "Bitcoin Uptober berakhir dengan kerugian 7% seiring perdagangan minyak, obligasi, dan AI mematahkan pola biasanya. Lihat apa yang berubah di bulan Oktober.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-uptober-oktober-minyak-ai-obligasi",
-   "img": "https://assets.beincrypto.com/img/QPq4HffmQS5_vk4XL9aGH4PP_hE=/smart/992f02f1e02044e7878f05b879d6c5d7",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-01T22:32:38"
   },
   {
    "id": 8229,
@@ -116,6 +116,62 @@
    "published_at": "2026-11-02T17:36:03"
   },
   {
+   "id": 8334,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SpaceX blokir listing saham tokenisasi di OKXICE meski perdagangan offshore ramai",
+   "x": "SpaceX menolak listing sahamnya yang ditokenisasi di bursa OKXICE, menyusul penerbit lain yang keberatan. Keputusan ini diambil meski ada tren peningkatan perdagangan aset digital yang terikat pada saham perusahaan di luar negeri.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/spacex-tokenization-okxice",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T21:47:20"
+  },
+  {
+   "id": 8403,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Morgan Stanley Tokenisasi Ekuitas AS dan Obligasi Negara Lewat Layanan DTCC",
+   "x": "Morgan Stanley menjadi salah satu bank pertama yang melakukan tokenisasi aset ekuitas dan obligasi negara AS. Langkah ini memanfaatkan layanan tokenisasi baru dari DTCC.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-11.18.11.png",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T09:37:45"
+  },
+  {
+   "id": 8137,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Bitcoin Uptober Gagal karena Minyak, Obligasi, dan AI Mengubah Pola: Apa yang Berubah?",
+   "x": "Bitcoin Uptober berakhir dengan kerugian 7% seiring perdagangan minyak, obligasi, dan AI mematahkan pola biasanya. Lihat apa yang berubah di bulan Oktober.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-uptober-oktober-minyak-ai-obligasi",
+   "img": "https://assets.beincrypto.com/img/QPq4HffmQS5_vk4XL9aGH4PP_hE=/smart/992f02f1e02044e7878f05b879d6c5d7",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-01T22:32:38"
+  },
+  {
+   "id": 8291,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Tether bekukan $1,5 miliar USDT pasca-peretasan Binance, tapi $729 juta lolos",
+   "x": "Tether berhasil membekukan sebagian besar aset yang dicuri pasca-peretasan Binance, namun sebagian dana berhasil lolos. Insiden ini kembali menyoroti risiko keamanan di bursa kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T12:00:53"
+  },
+  {
    "id": 8214,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -128,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T18:00:16"
-  },
-  {
-   "id": 8291,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Tether bekukan $1,5 miliar USDT pasca-peretasan Binance, tapi $729 juta lolos",
-   "x": "Tether berhasil membekukan sebagian besar aset yang dicuri pasca-peretasan Binance, namun sebagian dana berhasil lolos. Insiden ini kembali menyoroti risiko keamanan di bursa kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T12:00:53"
   },
   {
    "id": 8138,
@@ -158,20 +200,6 @@
    "published_at": "2026-11-01T21:58:18"
   },
   {
-   "id": 8169,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Hong Kong Uji Coba Transaksi Tokenisasi 24/7 dan Stablecoin",
-   "x": "Hong Kong berencana mengintegrasikan stablecoin teregulasi dalam uji coba utang pemerintah tokenisasi. Inisiatif ini menunjukkan upaya regulator untuk mengadopsi teknologi blockchain dalam sistem keuangan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T10:14:55"
-  },
-  {
    "id": 8327,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -180,10 +208,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hong-kong-bank-pilot-opens-24-7-cash-settlement-for-tokenized-fund-deals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-settlement-window.webp",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:00:28"
+  },
+  {
+   "id": 8169,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Hong Kong Uji Coba Transaksi Tokenisasi 24/7 dan Stablecoin",
+   "x": "Hong Kong berencana mengintegrasikan stablecoin teregulasi dalam uji coba utang pemerintah tokenisasi. Inisiatif ini menunjukkan upaya regulator untuk mengadopsi teknologi blockchain dalam sistem keuangan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T10:14:55"
   },
   {
    "id": 8237,
@@ -208,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-freight-elevator-descent.webp",
-   "a": "15 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T15:30:24"
@@ -222,7 +264,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/dollar-stablecoin-use-stayed-elevated-after-capital-controls-ended-new-research-suggests",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-dollar-imprint.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T08:00:58"
@@ -236,7 +278,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-bank-drawbridge.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T10:00:53"

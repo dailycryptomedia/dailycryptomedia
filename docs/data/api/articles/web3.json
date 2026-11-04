@@ -1,22 +1,8 @@
 {
- "total": 19,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 8102,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Private key vs seed phrase kripto: apa bedanya?",
-   "x": "Memahami perbedaan antara private key dan seed phrase sangat krusial untuk menjaga keamanan aset digital. Keduanya memiliki fungsi vital dalam mengamankan wallet kripto Anda.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/perbedaan-private-key-dan-seed-phrase",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-01T09:00:14"
-  },
   {
    "id": 8340,
    "k": "web3",
@@ -26,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dompet-zombi-ai-kesadaran-agen-pembayaran",
    "img": "https://assets.beincrypto.com/img/TbO3Ob-LyIvZ8wsAJqHbQUAS1WU=/smart/1327f2858e3044158509d43aa768cfb0",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T21:43:21"
@@ -40,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-software-trojan-horse.webp",
-   "a": "8 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T22:30:31"
@@ -54,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "11 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T19:46:03"
@@ -74,20 +60,6 @@
    "published_at": "2026-11-02T21:16:24"
   },
   {
-   "id": 8323,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ethereum Layer 2 Aztec tingkatkan Tierra V6 untuk dukung aplikasi privat lebih cepat",
-   "x": "Platform Layer 2 Ethereum, Aztec, meluncurkan pembaruan Tierra V6 yang diklaim menggandakan kecepatan pembuatan bukti transaksi privat dan memperbaiki isu keamanan. Peningkatan ini diharapkan dapat mendorong adopsi aplikasi terdesentralisasi yang mengutamakan privasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T14:00:00"
-  },
-  {
    "id": 8157,
    "k": "web3",
    "cat": "Web3",
@@ -102,6 +74,20 @@
    "published_at": "2026-11-02T03:30:30"
   },
   {
+   "id": 8323,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ethereum Layer 2 Aztec tingkatkan Tierra V6 untuk dukung aplikasi privat lebih cepat",
+   "x": "Platform Layer 2 Ethereum, Aztec, meluncurkan pembaruan Tierra V6 yang diklaim menggandakan kecepatan pembuatan bukti transaksi privat dan memperbaiki isu keamanan. Peningkatan ini diharapkan dapat mendorong adopsi aplikasi terdesentralisasi yang mengutamakan privasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T14:00:00"
+  },
+  {
    "id": 8190,
    "k": "web3",
    "cat": "Web3",
@@ -110,24 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/netflix-box-office-bioskop-hipnosis",
    "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T09:36:47"
   },
   {
-   "id": 8107,
+   "id": 8415,
    "k": "web3",
    "cat": "Web3",
-   "t": "Data validator Solana bermasalah, staker sulit lacak biaya staking",
-   "x": "Data biaya validator di jaringan Solana mengalami kekosongan, menyulitkan pengguna yang melakukan staking untuk memverifikasi imbal hasil. Hal ini menimbulkan pertanyaan mengenai transparansi data dalam ekosistem staking.",
+   "t": "Korea Selatan perintahkan lockdown dompet kripto pasca peretasan Binance",
+   "x": "Otoritas Korea Selatan memerintahkan pembekuan dompet kripto menyusul insiden peretasan Binance. Langkah ini bertujuan memperkuat pemantauan transaksi dan respons terhadap insiden.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-validator-reward-audit.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/south-korea-orders-massive-crypto-wallet-lockdown-following-the-binance-hack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/south-korea-fsc-cold-wallet-security-binance-hack-v2.jpg",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-01T05:10:57"
+   "published_at": "2026-11-04T08:20:08"
   },
   {
    "id": 8176,
@@ -138,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T15:01:03"
@@ -152,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
-   "a": "14 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:44:06"
@@ -222,7 +208,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:09:19"
@@ -236,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T10:46:59"
@@ -250,7 +236,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T12:24:18"
