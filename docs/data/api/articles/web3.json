@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dompet-zombi-ai-kesadaran-agen-pembayaran",
    "img": "https://assets.beincrypto.com/img/TbO3Ob-LyIvZ8wsAJqHbQUAS1WU=/smart/1327f2858e3044158509d43aa768cfb0",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T21:43:21"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-software-trojan-horse.webp",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T22:30:31"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T19:46:03"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T21:16:24"
@@ -110,24 +110,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/south-korea-orders-massive-crypto-wallet-lockdown-following-the-binance-hack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/south-korea-fsc-cold-wallet-security-binance-hack-v2.jpg",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T08:20:08"
   },
   {
-   "id": 8176,
+   "id": 8442,
    "k": "web3",
    "cat": "Web3",
-   "t": "T7X bangun infrastruktur pasar modal baru",
-   "x": "T7X mencatat kepemilikan aset digital langsung di blockchain, bukan melalui aset yang dibungkus. Pendekatan ini menyatukan token dan aset di bawah satu kerangka hukum.",
+   "t": "Pemilih AS dukung pembatasan pusat data AI di 29 komunitas",
+   "x": "Masyarakat di berbagai wilayah Amerika Serikat menyetujui pembatasan pembangunan pusat data. Langkah ini berpotensi menghambat infrastruktur yang mendukung teknologi AI akibat kekhawatiran dampak pada tagihan listrik dan pasokan air.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T15:01:03"
+   "published_at": "2026-11-04T18:46:03"
   },
   {
    "id": 8308,
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:44:06"
@@ -158,18 +158,18 @@
    "published_at": "2026-11-02T02:30:52"
   },
   {
-   "id": 8227,
+   "id": 8176,
    "k": "web3",
    "cat": "Web3",
-   "t": "Korea Utara cuci hasil peretasan Binance di dompet baru tiap 25 detik",
-   "x": "Korea Utara diduga menggunakan sistem pencucian otomatis yang canggih untuk mengalirkan dana hasil peretasan Binance. Sebagian besar dana curian masih dalam proses pelacakan oleh regulator.",
+   "t": "T7X bangun infrastruktur pasar modal baru",
+   "x": "T7X mencatat kepemilikan aset digital langsung di blockchain, bukan melalui aset yang dibungkus. Pendekatan ini menyatukan token dan aset di bawah satu kerangka hukum.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T18:46:03"
+   "published_at": "2026-11-02T15:01:03"
   },
   {
    "id": 8149,
@@ -200,18 +200,18 @@
    "published_at": "2026-11-02T02:07:39"
   },
   {
-   "id": 8317,
+   "id": 8227,
    "k": "web3",
    "cat": "Web3",
-   "t": "Inggris: Serangan Ransomware Berbasis AI ke Infrastruktur Kritis Sangat Mungkin Terjadi pada 2028",
-   "x": "Pusat Keamanan Siber Nasional Inggris memprediksi kecerdasan buatan akan mengeksploitasi celah keamanan yang sudah lama ada. Ini menjadi peringatan bagi industri teknologi mengenai praktik 'teknologi murah'.",
+   "t": "Korea Utara cuci hasil peretasan Binance di dompet baru tiap 25 detik",
+   "x": "Korea Utara diduga menggunakan sistem pencucian otomatis yang canggih untuk mengalirkan dana hasil peretasan Binance. Sebagian besar dana curian masih dalam proses pelacakan oleh regulator.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "23 jam lalu",
+   "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T16:09:19"
+   "published_at": "2026-11-02T18:46:03"
   },
   {
    "id": 8168,
@@ -228,18 +228,18 @@
    "published_at": "2026-11-02T10:46:59"
   },
   {
-   "id": 8179,
+   "id": 8317,
    "k": "web3",
    "cat": "Web3",
-   "t": "BTCPay Minta Pedagang Matikan Server Akibat Laporan Serangan Dompet Panas",
-   "x": "BTCPay mengimbau pedagang untuk menonaktifkan server mereka menyusul laporan serangan yang menargetkan versi lama perangkat lunak pembayaran Bitcoin. Pengguna disarankan segera memperbarui ke versi aman.",
+   "t": "Inggris: Serangan Ransomware Berbasis AI ke Infrastruktur Kritis Sangat Mungkin Terjadi pada 2028",
+   "x": "Pusat Keamanan Siber Nasional Inggris memprediksi kecerdasan buatan akan mengeksploitasi celah keamanan yang sudah lama ada. Ini menjadi peringatan bagi industri teknologi mengenai praktik 'teknologi murah'.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T12:24:18"
+   "published_at": "2026-11-03T16:09:19"
   },
   {
    "id": 8273,
@@ -254,6 +254,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T03:58:45"
+  },
+  {
+   "id": 8179,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "BTCPay Minta Pedagang Matikan Server Akibat Laporan Serangan Dompet Panas",
+   "x": "BTCPay mengimbau pedagang untuk menonaktifkan server mereka menyusul laporan serangan yang menargetkan versi lama perangkat lunak pembayaran Bitcoin. Pengguna disarankan segera memperbarui ke versi aman.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T12:24:18"
   }
  ]
 }

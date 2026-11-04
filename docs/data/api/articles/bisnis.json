@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-11-02T00:20:43"
   },
   {
+   "id": 8420,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Saham Riot melonjak karena sewa AI $28 miliar, Hut 8 anjlok karena gagal penuhi target",
+   "x": "Perusahaan penambang Bitcoin Riot menjual asetnya untuk ekspansi bisnis kecerdasan buatan, sementara Hut 8 melaporkan penurunan pendapatan dan kenaikan biaya operasional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T18:47:56"
+  },
+  {
    "id": 8347,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -40,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T21:50:17"
@@ -54,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-12.45.57.png",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T13:17:31"
@@ -74,6 +88,20 @@
    "published_at": "2026-11-03T03:40:00"
   },
   {
+   "id": 8434,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Vesting CEO Kamino dikaitkan dengan valuasi, pemegang token tak punya klaim pendapatan",
+   "x": "Insentif vesting CEO Kamino dan komitmen pertumbuhan senilai $20 juta memengaruhi alokasi modal antara pendapatan yayasan dan potensi keuntungan pemegang token. Pemegang token tidak memiliki klaim atas pendapatan dasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/kamino-ties-most-of-weiszs-kmno-allocation-to-valuation-but-holders-have-no-foundation-revenue-claim",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/kamino-disconnected-value-gears.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T18:50:41"
+  },
+  {
    "id": 8348,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -82,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T21:16:03"
@@ -102,6 +130,20 @@
    "published_at": "2026-11-02T04:30:00"
   },
   {
+   "id": 8438,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Rencana pendanaan XRP Evernorth berpotensi kurang $18 juta",
+   "x": "Rencana pendanaan XRP Evernorth berpotensi menghasilkan $18 juta lebih sedikit akibat penurunan harga saham. Hal ini menunjukkan bagaimana volatilitas pasar dapat memengaruhi valuasi penawaran aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/evernorths-xrp-funding-clears-a-hurdle-as-weaker-shares-reduce-what-it-could-raise",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/evernorth-xrp-funding-gate.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T15:50:35"
+  },
+  {
    "id": 8358,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -110,7 +152,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jim-cramer-saham-teknologi-pendanaan-ai",
    "img": "https://assets.beincrypto.com/img/ES8h_jjL0v2RBlwuDIvWhzQu57U=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T06:01:20"
@@ -152,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/circle-phk-5-persen-karyawan-q3",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T11:45:30"
@@ -208,7 +250,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-ipo-angkat-saham-teknologi-peck",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T01:28:00"
@@ -222,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cina-hentikan-ipo-penjualan-saham-besar",
    "img": "https://assets.beincrypto.com/img/mDtvF0vLDRoLJ1VokXiKj4mTGvQ=/smart/037bae950674434ab8340431289668bb",
-   "a": "14 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T00:58:00"

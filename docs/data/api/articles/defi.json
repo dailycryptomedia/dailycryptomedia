@@ -1,5 +1,5 @@
 {
- "total": 26,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/langkah-pengamanan-coinbase-setelah-peretasan-binance",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "23 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T15:15:42"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/eth-vault-benchmark.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T16:40:04"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/tom-lee-sebut-peretasan-binance-jadi-sinyal-bullish-bagi-pasar-kripto",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T06:00:47"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2020/08/ethereum-classic-labs-blockchain-security-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T20:36:03"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/defi/defi-explained-432391",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-1.png",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T11:05:30"
@@ -102,18 +102,18 @@
    "published_at": "2026-11-02T06:00:00"
   },
   {
-   "id": 8255,
+   "id": 8433,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pasar pinjaman Kinetic terkait XRP senilai US$24 juta menunjukkan suku bunga dasar 0,04% sebelum hadiah",
-   "x": "Pasar pinjaman Kinetic yang terkait dengan XRP mencatat suku bunga dasar sebesar 0,04% sebelum memperhitungkan insentif. Hal ini menunjukkan adanya permintaan pinjaman XRP yang moderat di platform tersebut.",
+   "t": "Aave dan Lido kehilangan $1,7 miliar akibat penurunan modal DeFi pasca peretasan Binance",
+   "x": "Penurunan modal di platform DeFi terjadi setelah peretasan besar di bursa Binance. Pembekuan sementara di Aave menunjukkan potensi risiko pada pinjaman terjamin saat likuiditas terbatas.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fxrp-base-yield-reservoir.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-lido-valuation-shadows.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T03:20:37"
+   "published_at": "2026-11-04T19:50:13"
   },
   {
    "id": 8132,
@@ -144,6 +144,20 @@
    "published_at": "2026-11-03T03:00:52"
   },
   {
+   "id": 8444,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Apa itu x402? Cara agen AI membayar dengan kripto",
+   "x": "Protokol x402 dari Coinbase memungkinkan agen AI melakukan pembayaran menggunakan stablecoin untuk mengakses API dan data. Inovasi ini membuka potensi baru penggunaan aset digital dalam ekosistem kecerdasan buatan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/02/ai-robot-gID_5-pID_4.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T17:59:09"
+  },
+  {
    "id": 8338,
    "k": "defi",
    "cat": "DeFi",
@@ -152,24 +166,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/custodia-ceo-binance-hack-mengubah-crypto",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "16 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T23:00:00"
   },
   {
-   "id": 8195,
+   "id": 8255,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ethereum Tambah 361.000 ETH ke Staking Aktif Meski Saldo Menurun",
-   "x": "Data CryptoKeyhole menunjukkan peningkatan jumlah ETH yang dihitung sebagai staking aktif di Ethereum selama Oktober. Namun, total saldo staking secara keseluruhan justru mengalami penurunan.",
+   "t": "Pasar pinjaman Kinetic terkait XRP senilai US$24 juta menunjukkan suku bunga dasar 0,04% sebelum hadiah",
+   "x": "Pasar pinjaman Kinetic yang terkait dengan XRP mencatat suku bunga dasar sebesar 0,04% sebelum memperhitungkan insentif. Hal ini menunjukkan adanya permintaan pinjaman XRP yang moderat di platform tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-staking-lift.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fxrp-base-yield-reservoir.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T14:40:10"
+   "published_at": "2026-11-03T03:20:37"
   },
   {
    "id": 8385,
@@ -180,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T09:15:55"
@@ -208,10 +222,52 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kim-yo-jong-fbi-binance-hack-provokasi",
    "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-02T21:21:25"
+  },
+  {
+   "id": 8195,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Ethereum Tambah 361.000 ETH ke Staking Aktif Meski Saldo Menurun",
+   "x": "Data CryptoKeyhole menunjukkan peningkatan jumlah ETH yang dihitung sebagai staking aktif di Ethereum selama Oktober. Namun, total saldo staking secara keseluruhan justru mengalami penurunan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-staking-lift.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-02T14:40:10"
+  },
+  {
+   "id": 8375,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Di Balik Peretasan Binance, Ada 57 Ancaman Siber Korut yang Sempat Digagalkan",
+   "x": "Binance mengklaim berhasil menggagalkan 57 ancaman siber yang terkait dengan Korea Utara sepanjang 2026. Namun, peretasan senilai US$6,34 miliar tetap terjadi, menimbulkan pertanyaan tentang efektivitas langkah pencegahan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/di-balik-peretasan-binance-ada-57-ancaman-siber-korut-yang-sempat-digagalkan",
+   "img": null,
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T03:30:35"
+  },
+  {
+   "id": 8302,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Detail Mengejutkan Tentang Peretasan Binance: Wawancara Kerja Palsu dan Akses Selama Berbulan-Bulan",
+   "x": "Sebuah wawancara kerja palsu telah membantu hacker mencuri US$6,3 miliar dari Binance. Para penyerang ini menghabiskan waktu berbulan-bulan agar bisa menyusup ke exchange tersebut, memakai taktik yang sebenarnya sudah…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/binance-hack-wawancara-kerja-palsu",
+   "img": "https://assets.beincrypto.com/img/Lo0T2F-hZYIE0fgy3nEj-iqJ09I=/smart/7877de1093b74c3f9a49118dd5b438f0",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-03T15:56:16"
   },
   {
    "id": 8196,
@@ -228,48 +284,6 @@
    "published_at": "2026-11-02T13:40:29"
   },
   {
-   "id": 8375,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Di Balik Peretasan Binance, Ada 57 Ancaman Siber Korut yang Sempat Digagalkan",
-   "x": "Binance mengklaim berhasil menggagalkan 57 ancaman siber yang terkait dengan Korea Utara sepanjang 2026. Namun, peretasan senilai US$6,34 miliar tetap terjadi, menimbulkan pertanyaan tentang efektivitas langkah pencegahan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/di-balik-peretasan-binance-ada-57-ancaman-siber-korut-yang-sempat-digagalkan",
-   "img": null,
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T03:30:35"
-  },
-  {
-   "id": 8124,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Apakah Coinbase Aman setelah Peretasan Binance Sebesar US$6 Miliar?",
-   "x": "Hacker mengambil alih $8 miliar dari Binance, Bybit, dan Bitget. Lihat bagaimana penjagaan Coinbase berbeda, dan di mana masih terdapat celah.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-penilaian-keamanan-coinbase",
-   "img": "https://assets.beincrypto.com/img/EC5FzOJRkYMTi9hpzehBGlFoAcE=/smart/cf1270c522de42a3b392a722f5088a99",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-01T17:54:09"
-  },
-  {
-   "id": 8117,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas curangi 97 juta CORE dari platform staking Bitcoin b14g",
-   "x": "Platform staking Bitcoin b14g mengalami eksploitasi senilai $1,47 juta, kehilangan 97 juta token CORE. Peretas memanfaatkan fitur penarikan tanpa biaya untuk menguras dana dari 91 posisi staking.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/b14g-zero-withdrawal-579689.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-01T13:20:52"
-  },
-  {
    "id": 8418,
    "k": "defi",
    "cat": "DeFi",
@@ -278,24 +292,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/mengenal-tradertraitor-hacker-misterius-di-balik-kasus-peretasan-binance",
    "img": null,
-   "a": "8 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T07:00:52"
   },
   {
-   "id": 8302,
+   "id": 8220,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Detail Mengejutkan Tentang Peretasan Binance: Wawancara Kerja Palsu dan Akses Selama Berbulan-Bulan",
-   "x": "Sebuah wawancara kerja palsu telah membantu hacker mencuri US$6,3 miliar dari Binance. Para penyerang ini menghabiskan waktu berbulan-bulan agar bisa menyusup ke exchange tersebut, memakai taktik yang sebenarnya sudah…",
+   "t": "New Jersey Akhiri Larangan Staking Coinbase setelah 3 Tahun: Negara Bagian Mana Selanjutnya?",
+   "x": "New Jersey mencabut larangan staking Coinbase dan denda sebesar $5 juta. Empat negara bagian masih memblokir layanan staking Coinbase baru untuk pengguna.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-wawancara-kerja-palsu",
-   "img": "https://assets.beincrypto.com/img/Lo0T2F-hZYIE0fgy3nEj-iqJ09I=/smart/7877de1093b74c3f9a49118dd5b438f0",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/new-jersey-cabut-gugatan-staking-coinbase",
+   "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T15:56:16"
+   "published_at": "2026-11-02T19:29:37"
   },
   {
    "id": 8206,
@@ -312,34 +326,6 @@
    "published_at": "2026-11-02T07:00:54"
   },
   {
-   "id": 8220,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "New Jersey Akhiri Larangan Staking Coinbase setelah 3 Tahun: Negara Bagian Mana Selanjutnya?",
-   "x": "New Jersey mencabut larangan staking Coinbase dan denda sebesar $5 juta. Empat negara bagian masih memblokir layanan staking Coinbase baru untuk pengguna.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/new-jersey-cabut-gugatan-staking-coinbase",
-   "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-02T19:29:37"
-  },
-  {
-   "id": 8111,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Binance Lanjutkan Penarikan Aset Kripto setelah Peretasan Rekor, 95% Kerugian Ditanggung",
-   "x": "Binance mulai memulihkan proses penarikan pada 1 November, tiga hari setelah peretasan rekor senilai US$6,3 miliar. Jaringan Bitcoin menjadi yang pertama dibuka kembali sebagai bagian dari peluncuran yang terkontrol…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-memulihkan-penarikan-setelah-hack",
-   "img": "https://assets.beincrypto.com/img/W7X7VCn0Ni-mSSvyaR47JdljXa4=/smart/7549a264d94242768b02883187d7bde4",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-01T11:35:28"
-  },
-  {
    "id": 8361,
    "k": "defi",
    "cat": "DeFi",
@@ -348,7 +334,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "13 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T02:35:00"
