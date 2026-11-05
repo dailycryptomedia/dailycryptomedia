@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/langkah-pengamanan-coinbase-setelah-peretasan-binance",
    "img": "https://assets.beincrypto.com/img/sT5hfW7bspo2W4_lT6WOSdRT7T8=/smart/fe676ec8341041b786dfe93f0f3f51d3",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T15:15:42"
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/grayscale-ungkap-dampak-tak-terduga-peretasan-binance-bagi-kripto",
    "img": null,
-   "a": "56 menit lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T08:00:07"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/eth-vault-benchmark.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T16:40:04"
@@ -60,6 +60,20 @@
    "published_at": "2026-11-02T22:22:30"
   },
   {
+   "id": 8517,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "ETF Injective Canary debut di Nasdaq dengan eksposur imbal hasil staking",
+   "x": "Canary Capital meluncurkan ETF Staked INJ di Nasdaq, memberikan investor eksposur terhadap token INJ Injective. ETF ini juga mencerminkan imbal hasil staking dalam Nilai Aset Bersih (NAV).",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/injective_logo_1920x1080.jpg",
+   "a": "10 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T16:53:56"
+  },
+  {
    "id": 8225,
    "k": "defi",
    "cat": "DeFi",
@@ -72,20 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T20:36:03"
-  },
-  {
-   "id": 8402,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "DeFi Dijelaskan",
-   "x": "Artikel ini menjelaskan konsep Keuangan Terdesentralisasi (DeFi) sebagai sistem protokol yang saling terhubung. Pembahasan mencakup berbagai komponen DeFi seperti bursa terdesentralisasi, pool likuiditas, pasar pinjaman, dan tata kelola DAO.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/learn/defi/defi-explained-432391",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-1.png",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T11:05:30"
   },
   {
    "id": 8338,
@@ -124,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-lido-valuation-shadows.webp",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T19:50:13"
@@ -138,10 +138,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T09:15:55"
+  },
+  {
+   "id": 8402,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "DeFi Dijelaskan",
+   "x": "Artikel ini menjelaskan konsep Keuangan Terdesentralisasi (DeFi) sebagai sistem protokol yang saling terhubung. Pembahasan mencakup berbagai komponen DeFi seperti bursa terdesentralisasi, pool likuiditas, pasar pinjaman, dan tata kelola DAO.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/learn/defi/defi-explained-432391",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-1.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T11:05:30"
   },
   {
    "id": 8444,
@@ -152,7 +166,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/02/ai-robot-gID_5-pID_4.png",
-   "a": "14 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T17:59:09"
@@ -208,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/binance-hack-wawancara-kerja-palsu",
    "img": "https://assets.beincrypto.com/img/Lo0T2F-hZYIE0fgy3nEj-iqJ09I=/smart/7877de1093b74c3f9a49118dd5b438f0",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T15:56:16"
@@ -236,7 +250,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-staking-lift.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T14:40:10"
@@ -278,24 +292,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/akash-coupon-logos.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T13:40:29"
   },
   {
-   "id": 8361,
+   "id": 8512,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Teng dari Binance Bilang Industri Harus Belajar dari Peretasan: Apakah Fitur Baru Aset Kripto Menambah Risiko?",
-   "x": "Co-CEO Binance Teng mengatakan industri harus belajar dari peretasan Binance. Lihat apakah fitur aset kripto baru meningkatkan risiko.",
+   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
+   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
+   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-04T02:35:00"
+   "published_at": "2026-11-05T11:40:57"
   },
   {
    "id": 8418,
@@ -312,18 +326,18 @@
    "published_at": "2026-11-04T07:00:52"
   },
   {
-   "id": 8248,
+   "id": 8361,
    "k": "defi",
    "cat": "DeFi",
-   "t": "3 Altcoin yang Perlu Dipantau di Pekan Pertama November 2026",
-   "x": "HYPE, PEPE, dan STX menguji level Fibonacci kunci setelah peretasan Binance. Lihat altcoin yang perlu dipantau minggu ini.",
+   "t": "Teng dari Binance Bilang Industri Harus Belajar dari Peretasan: Apakah Fitur Baru Aset Kripto Menambah Risiko?",
+   "x": "Co-CEO Binance Teng mengatakan industri harus belajar dari peretasan Binance. Lihat apakah fitur aset kripto baru meningkatkan risiko.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/top-3-altcoin-pekan-pertama-november-2026",
-   "img": "https://assets.beincrypto.com/img/-UCXUa95T9shvVCr7a4pd1xYBMA=/smart/015f78e5a293455ea6460958a3203e93",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T00:57:54"
+   "published_at": "2026-11-04T02:35:00"
   },
   {
    "id": 8206,
@@ -338,6 +352,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T07:00:54"
+  },
+  {
+   "id": 8248,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "3 Altcoin yang Perlu Dipantau di Pekan Pertama November 2026",
+   "x": "HYPE, PEPE, dan STX menguji level Fibonacci kunci setelah peretasan Binance. Lihat altcoin yang perlu dipantau minggu ini.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/top-3-altcoin-pekan-pertama-november-2026",
+   "img": "https://assets.beincrypto.com/img/-UCXUa95T9shvVCr7a4pd1xYBMA=/smart/015f78e5a293455ea6460958a3203e93",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-03T00:57:54"
   }
  ]
 }

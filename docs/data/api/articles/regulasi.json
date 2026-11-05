@@ -1,5 +1,5 @@
 {
- "total": 27,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,6 +32,20 @@
    "published_at": "2026-11-04T00:36:36"
   },
   {
+   "id": 8522,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Demokrat akan dorong RUU struktur pasar kripto lebih luas pasca pemilu AS",
+   "x": "Pasca pemilu sela AS, Demokrat berencana mendorong undang-undang struktur pasar kripto yang lebih komprehensif. Langkah ini dapat memengaruhi arah regulasi aset digital di Amerika Serikat.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
+   "a": "27 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T16:37:20"
+  },
+  {
    "id": 8300,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -46,20 +60,6 @@
    "published_at": "2026-11-03T18:00:00"
   },
   {
-   "id": 8441,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Regulator bank AS luncurkan kerangka kerja AI pertama",
-   "x": "Otoritas Pengawas Mata Uang AS (OCC) menerbitkan panduan pertama terkait penggunaan kecerdasan buatan (AI) di sektor perbankan. Kerangka kerja ini bertujuan mengelola risiko otonomi dan potensi kerugian finansial.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T19:57:18"
-  },
-  {
    "id": 8484,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_arkansas_1920x1080.png",
-   "a": "29 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T08:26:48"
@@ -110,10 +110,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T10:49:26"
+  },
+  {
+   "id": 8441,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulator bank AS luncurkan kerangka kerja AI pertama",
+   "x": "Otoritas Pengawas Mata Uang AS (OCC) menerbitkan panduan pertama terkait penggunaan kecerdasan buatan (AI) di sektor perbankan. Kerangka kerja ini bertujuan mengelola risiko otonomi dan potensi kerugian finansial.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T19:57:18"
   },
   {
    "id": 8390,
@@ -124,24 +138,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hukum-pelaporan-pajak-kripto-hong-kong-2027",
    "img": "https://assets.beincrypto.com/img/kVb_bumhWtipE3Yt3driJz0edtc=/smart/becd2f7ebaa64290a330e9977a0ad593",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T13:14:33"
-  },
-  {
-   "id": 8443,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Canton Coin dapat lampu hijau SEC, tokenisasi Wall Street memanas",
-   "x": "Regulator AS menganggap Canton Coin sebagai komoditas digital, membuka jalan bagi tokenisasi aset di Wall Street. Langkah ini menandakan penerimaan yang lebih luas terhadap aset digital di pasar keuangan tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T18:16:02"
   },
   {
    "id": 8320,
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/07/20250728_Justin-Sun_News.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:08:14"
@@ -166,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hong-kong-forces-crypto-providers-to-track-customer-trades",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-crypto-reporting.webp",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T04:30:01"
@@ -180,10 +180,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CSPCM53Q6HYKY23BM33KT6/robot-courtroom-scene.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T13:30:00"
+  },
+  {
+   "id": 8443,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Canton Coin dapat lampu hijau SEC, tokenisasi Wall Street memanas",
+   "x": "Regulator AS menganggap Canton Coin sebagai komoditas digital, membuka jalan bagi tokenisasi aset di Wall Street. Langkah ini menandakan penerimaan yang lebih luas terhadap aset digital di pasar keuangan tradisional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T18:16:02"
   },
   {
    "id": 8456,
@@ -194,24 +208,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/demokrat-crypto-bill-trump-sec-waters",
    "img": "https://assets.beincrypto.com/img/y7soxjKAefA9HMIdZ9yDS0X2kf0=/smart/95caf2cbf02f40c7b429981dc4e4cde1",
-   "a": "9 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T23:00:00"
-  },
-  {
-   "id": 8349,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Justin Sun tuduh World Liberty gunakan hubungan UEA hindari pengadilan federal",
-   "x": "Pendiri Tron, Justin Sun, meminta pengadilan menjatuhkan sanksi pada World Liberty Financial. Ia menuduh perusahaan tersebut menunda pengungkapan hubungan dengan UEA untuk menghindari yurisdiksi pengadilan federal dalam gugatannya.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T20:36:02"
   },
   {
    "id": 8336,
@@ -236,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sec-ruling-lifts-canton-coin-6-as-a16z-sees-pathway-out-of-securities-laws",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/canton-conditional-minting.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T10:10:35"
@@ -254,6 +254,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T01:32:39"
+  },
+  {
+   "id": 8349,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Justin Sun tuduh World Liberty gunakan hubungan UEA hindari pengadilan federal",
+   "x": "Pendiri Tron, Justin Sun, meminta pengadilan menjatuhkan sanksi pada World Liberty Financial. Ia menuduh perusahaan tersebut menunda pengungkapan hubungan dengan UEA untuk menghindari yurisdiksi pengadilan federal dalam gugatannya.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T20:36:02"
   },
   {
    "id": 8344,
@@ -284,6 +298,20 @@
    "published_at": "2026-11-04T02:51:52"
   },
   {
+   "id": 8535,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Demokrat AS dilaporkan inginkan kontrol SEC lebih besar atas kripto",
+   "x": "Anggota parlemen AS dari Partai Demokrat dilaporkan sedang mendiskusikan rancangan undang-undang struktur pasar kripto yang lebih luas. Proposal ini menghendaki peran Komisi Sekuritas dan Bursa AS (SEC) yang lebih besar dalam regulasi aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/democrats-reportedly-seek-greater-sec-control-over-crypto-after-clarity-act-collapse",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/democrats-clarity-sec.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T11:10:49"
+  },
+  {
    "id": 8383,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -292,10 +320,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JZ76E41HGCE63NNNV8S1QH/justin-sun-wlfi-lawsuit.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T10:30:42"
+  },
+  {
+   "id": 8525,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pagi ini: Sapuan Demokrat dongkrak kripto saat RUU Clarity muncul kembali",
+   "x": "Kemenangan Partai Demokrat dalam pemilu AS memicu kenaikan aset kripto, seiring munculnya kembali diskusi mengenai RUU Clarity Act. Hal ini menunjukkan potensi perubahan regulasi yang dapat memengaruhi pasar kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T13:14:05"
   },
   {
    "id": 8249,
@@ -320,7 +362,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/washington-dc-capitol-1.jpg",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T04:28:54"
@@ -334,7 +376,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K35HFSNDXKSZPYH2YBQQTR/hi-interest-in-crypto-derivatives-rising-on-the-back-of-a-bullish-crypto-rally.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T12:12:15"
@@ -348,7 +390,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cina-peringatkan-konsentrasi-investasi-ai-yang-berlebihan",
    "img": "https://assets.beincrypto.com/img/O1dRY9QNij6zfYvI00yMgG9__2Q=/smart/7848697a04c04695b1487e9622ce33ca",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T13:29:01"
@@ -362,10 +404,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T12:56:07"
+  },
+  {
+   "id": 8516,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korea Selatan Kembali Tunda Pajak Kripto, Kini hingga 2029",
+   "x": "Korea Selatan akan menunda pajak keuntungan aset kripto yang telah lama dinanti untuk keempat kalinya, memundurkan pelaksanaannya hingga tahun 2029. Pengenaan pajak ini sebelumnya dijadwalkan berlaku mulai Januari 2027…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pajak-kripto-korea-selatan-ditunda-hingga-2029",
+   "img": "https://assets.beincrypto.com/img/KW0MyyhmAeQX6NPEdoaeEeyd030=/smart/499540f8ff44402ab65e7eb01b1afdcb",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-05T08:49:08"
+  },
+  {
+   "id": 8504,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korea Selatan minta penundaan pajak kripto ke-4, target 2029",
+   "x": "Pemerintah Korea Selatan mengusulkan penundaan keempat penerapan pajak aset kripto sebesar 22%. Rencana ini bergeser dari target awal tahun 2027 menjadi 2029, menunjukkan adanya penyesuaian kebijakan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NF1X9VN5762HVNQXA9D4A7/sk-crypto-tax.png",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T09:35:29"
   },
   {
    "id": 8356,

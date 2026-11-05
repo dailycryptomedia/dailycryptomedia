@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cert-in-crafty-falcon-bursa-kripto",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "2 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T06:27:09"
@@ -60,18 +60,18 @@
    "published_at": "2026-11-02T21:16:24"
   },
   {
-   "id": 8323,
+   "id": 8520,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ethereum Layer 2 Aztec tingkatkan Tierra V6 untuk dukung aplikasi privat lebih cepat",
-   "x": "Platform Layer 2 Ethereum, Aztec, meluncurkan pembaruan Tierra V6 yang diklaim menggandakan kecepatan pembuatan bukti transaksi privat dan memperbaiki isu keamanan. Peningkatan ini diharapkan dapat mendorong adopsi aplikasi terdesentralisasi yang mengutamakan privasi.",
+   "t": "Samsung Wallet luncurkan akun USDC di Solana untuk pengguna Galaxy AS",
+   "x": "Samsung Wallet kini menawarkan akun stablecoin USDC di Solana bagi pengguna Galaxy AS yang memenuhi syarat. Fitur ini menyederhanakan akses dan penggunaan aset kripto melalui dompet ponsel.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-13.37.35.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T14:00:00"
+   "published_at": "2026-11-05T14:19:51"
   },
   {
    "id": 8340,
@@ -110,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T18:46:03"
@@ -124,10 +124,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:44:06"
+  },
+  {
+   "id": 8323,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ethereum Layer 2 Aztec tingkatkan Tierra V6 untuk dukung aplikasi privat lebih cepat",
+   "x": "Platform Layer 2 Ethereum, Aztec, meluncurkan pembaruan Tierra V6 yang diklaim menggandakan kecepatan pembuatan bukti transaksi privat dan memperbaiki isu keamanan. Peningkatan ini diharapkan dapat mendorong adopsi aplikasi terdesentralisasi yang mengutamakan privasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/aztec-ml.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T14:00:00"
   },
   {
    "id": 8457,
@@ -138,10 +152,52 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/wallet-xrp-jutawan-2026-relly-harga-tinggi",
    "img": "https://assets.beincrypto.com/img/PIIfKc-FHWI96iq6NQcCYKYhSRM=/smart/ffcf19b48bc347d1bbc491a882de0a5a",
-   "a": "10 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T22:42:15"
+  },
+  {
+   "id": 8526,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Stablecoin makin umum, Samsung Wallet dukung USDC di Solana",
+   "x": "Samsung Wallet kini mendukung USDC di Solana, memungkinkan pengguna Galaxy AS mengelola stablecoin tanpa aplikasi terpisah. Adopsi ini menandakan integrasi aset digital ke dalam dompet elektronik utama.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T13:01:02"
+  },
+  {
+   "id": 8500,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Bisakah jaringan telepon terdesentralisasi memberdayakan revolusi AI?",
+   "x": "Jaringan AI terdesentralisasi berupaya mengubah ponsel menjadi infrastruktur komputasi alternatif. Namun, para skeptis meragukan kelayakan dan skalabilitas solusi ini dibandingkan pusat data tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T13:30:00"
+  },
+  {
+   "id": 8190,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Sebuah Jaringan Bioskop Coba Cara Unik untuk Hadirkan Kembali Sensasi Menonton Pertama Kali",
+   "x": "Jaringan chain Belanda Pathé akan menghipnotis 30 penggemar agar mereka melupakan film favoritnya, sementara Netflix kini menghasilkan lebih dari dua kali lipat pendapatan box office AS dan Kanada.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/netflix-box-office-bioskop-hipnosis",
+   "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-02T09:36:47"
   },
   {
    "id": 8176,
@@ -152,7 +208,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T15:01:03"
@@ -166,24 +222,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T10:46:59"
-  },
-  {
-   "id": 8190,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Sebuah Jaringan Bioskop Coba Cara Unik untuk Hadirkan Kembali Sensasi Menonton Pertama Kali",
-   "x": "Jaringan chain Belanda Pathé akan menghipnotis 30 penggemar agar mereka melupakan film favoritnya, sementara Netflix kini menghasilkan lebih dari dua kali lipat pendapatan box office AS dan Kanada.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/netflix-box-office-bioskop-hipnosis",
-   "img": "https://assets.beincrypto.com/img/dYdt_DQ2NrX4d8mv7xvux0sr3TY=/smart/49254e6adc794464b2e853209ee20b9b",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-02T09:36:47"
   },
   {
    "id": 8227,
@@ -222,7 +264,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T16:09:19"
@@ -236,7 +278,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-02T12:24:18"
