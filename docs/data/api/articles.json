@@ -1,5 +1,5 @@
 {
- "total": 358,
+ "total": 349,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-vs-emas-vs-dolar-vs-ihsg-siapa-paling-jago-melindungi-aset",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T08:00:36"
+  },
+  {
+   "id": 8671,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin dan USDT menarik premi moderat di Paraguay saat jutaan hadapi krisis perbankan",
+   "x": "Bitcoin dan USDT diperdagangkan dengan premi di Paraguay seiring krisis perbankan yang mengguncang negara itu. Situasi ini mendorong minat publik pada Bitcoin sebagai alternatif perbankan tradisional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/paraguay-crypto-search-interest.webp",
+   "a": "1 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T23:20:28"
   },
   {
    "id": 8521,
@@ -44,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T17:01:03"
-  },
-  {
-   "id": 8608,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Agen FBI Curi $2,47 Juta dari Dompet Kripto 35 Kasus, Berencana Kabur ke Portugal",
-   "x": "Seorang agen FBI didakwa mencuri aset kripto senilai lebih dari US$2 juta dari puluhan investigasi yang ditanganinya. Pelaku menggunakan aksesnya untuk memindahkan dana secara ilegal sebelum berencana melarikan diri ke luar negeri.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fbi-agent-drains-crypto-wallets-tied-to-35-investigations-steals-2-47-million-and-plans-portugal-escape",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fbi-access-shadow-trail.webp",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T11:10:46"
   },
   {
    "id": 8332,
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/hyperliquid-hype.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T22:09:14"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kalshi-ceo-aturan-insider-trading-demokrat",
    "img": "https://assets.beincrypto.com/img/o_wZ3mfWHR7Mg_9CV_jezaKm9TE=/smart/4977ea24304e440db76148ede8d44b4d",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T02:39:00"
@@ -116,6 +116,20 @@
    "published_at": "2026-11-05T08:00:07"
   },
   {
+   "id": 8608,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Agen FBI Curi $2,47 Juta dari Dompet Kripto 35 Kasus, Berencana Kabur ke Portugal",
+   "x": "Seorang agen FBI didakwa mencuri aset kripto senilai lebih dari US$2 juta dari puluhan investigasi yang ditanganinya. Pelaku menggunakan aksesnya untuk memindahkan dana secara ilegal sebelum berencana melarikan diri ke luar negeri.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fbi-agent-drains-crypto-wallets-tied-to-35-investigations-steals-2-47-million-and-plans-portugal-escape",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fbi-access-shadow-trail.webp",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T11:10:46"
+  },
+  {
    "id": 8439,
    "k": "pasar",
    "cat": "Pasar",
@@ -124,24 +138,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T21:16:03"
-  },
-  {
-   "id": 8487,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Evernorth, didukung Ripple, hadapi potensi jual 73,7 juta saham pasca debut pasar saham brutal",
-   "x": "Perusahaan kas Ripple, Evernorth, mendaftarkan 73,7 juta saham untuk dijual setelah harganya anjlok saat debut di Nasdaq. Potensi penjualan saham oleh investor besar seperti Ripple Labs dapat memengaruhi pergerakan harga saham perusahaan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/evernorth-xrp-share-overhang.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T08:30:13"
   },
   {
    "id": 8587,
@@ -152,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T11:05:36"
@@ -166,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-12.23.49.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T20:09:58"
@@ -194,10 +194,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-kembali-menguat-indodax-soroti-sentimen-global-dan-pertumbuhan-pasar-kripto-domestik",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T06:45:07"
+  },
+  {
+   "id": 8487,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Evernorth, didukung Ripple, hadapi potensi jual 73,7 juta saham pasca debut pasar saham brutal",
+   "x": "Perusahaan kas Ripple, Evernorth, mendaftarkan 73,7 juta saham untuk dijual setelah harganya anjlok saat debut di Nasdaq. Potensi penjualan saham oleh investor besar seperti Ripple Labs dapat memengaruhi pergerakan harga saham perusahaan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/evernorth-xrp-share-overhang.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T08:30:13"
   },
   {
    "id": 8522,
@@ -214,20 +228,6 @@
    "published_at": "2026-11-05T16:37:20"
   },
   {
-   "id": 8530,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Penjualan token kripto Circle $182 juta tutupi penurunan pendapatan",
-   "x": "Pendapatan Circle dari cadangan turun 8% meskipun total pendapatan kuartal ketiga mencapai $865 juta berkat pengakuan pra-penjualan. Bisnis stablecoin USDC perusahaan menunjukkan pelemahan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/circles-182-million-crypto-token-sale-masks-revenue-decline-as-usdc-business-weakens",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/circle-revenue-prism-split.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T16:30:57"
-  },
-  {
    "id": 8537,
    "k": "pasar",
    "cat": "Pasar",
@@ -236,24 +236,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T22:18:42"
   },
   {
-   "id": 8319,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pasar Prediksi Jagokan Demokrat Sapu Bersih Pemilu Sela AS",
-   "x": "Taruhan di pasar prediksi menunjukkan keyakinan yang meningkat bahwa Partai Demokrat akan memenangkan mayoritas di DPR dan Senat AS. Hasil ini dapat memengaruhi arah regulasi aset digital di masa depan.",
+   "id": 8483,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "American Bitcoin milik Eric Trump raup laba US$126 juta di Q3 dari kenaikan aset digital",
+   "x": "Perusahaan American Bitcoin mencatat laba bersih US$126 juta pada kuartal ketiga, berbalik dari kerugian kuartal sebelumnya. Kenaikan ini didorong oleh keuntungan dari aset digital yang dikelolanya.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260120_Prediction-Markets_News_2.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-11.18.39.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T18:30:31"
+   "published_at": "2026-11-05T08:52:32"
   },
   {
    "id": 8595,
@@ -264,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cina-investigasi-acara-solana-shanghai",
    "img": "https://assets.beincrypto.com/img/LoIL3P_aF0NUprx-E1LV_jHHh68=/smart/95fd64333fc747619e333a07ca295847",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T10:42:54"
@@ -284,6 +284,20 @@
    "published_at": "2026-11-04T02:00:42"
   },
   {
+   "id": 8530,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Penjualan token kripto Circle $182 juta tutupi penurunan pendapatan",
+   "x": "Pendapatan Circle dari cadangan turun 8% meskipun total pendapatan kuartal ketiga mencapai $865 juta berkat pengakuan pra-penjualan. Bisnis stablecoin USDC perusahaan menunjukkan pelemahan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/circles-182-million-crypto-token-sale-masks-revenue-decline-as-usdc-business-weakens",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/circle-revenue-prism-split.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T16:30:57"
+  },
+  {
    "id": 8558,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -292,24 +306,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/Pena-Resignation-Paraguay-01-gID_4.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T22:16:03"
-  },
-  {
-   "id": 8371,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Liquid Pulihkan Dukungan Bitcoin 1:1, Namun Isi Ulang Dompet Tetap Manual",
-   "x": "Liquid (L-BTC) melaporkan pemulihan dukungan 1:1 terhadap Bitcoin, namun proses pencairan dana nasabah masih bergantung pada dompet internal dan pengisian manual. Hal ini menimbulkan pertanyaan mengenai efisiensi operasional bursa tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/liquid-restores-11-bitcoin-backing-but-wallet-refills-remain-manual",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/liquid-lbtc-backing-sideswap-manual-refills-v2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T06:30:52"
   },
   {
    "id": 8588,
@@ -320,24 +320,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5FQT9G760GWMQ4WKS1P1T/storage-crypto-tokens.png",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T10:47:33"
   },
   {
-   "id": 8483,
+   "id": 8626,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "American Bitcoin milik Eric Trump raup laba US$126 juta di Q3 dari kenaikan aset digital",
-   "x": "Perusahaan American Bitcoin mencatat laba bersih US$126 juta pada kuartal ketiga, berbalik dari kerugian kuartal sebelumnya. Kenaikan ini didorong oleh keuntungan dari aset digital yang dikelolanya.",
+   "t": "Peretas Binance tukar token curian jadi Bitcoin senilai $124 juta",
+   "x": "Peretas yang membobol bursa kripto Binance dilaporkan menukar aset curian senilai $124 juta dengan Bitcoin. Sebagian besar dana curian belum dicairkan, namun insiden ini kembali menimbulkan kekhawatiran tentang keamanan aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-11.18.39.png",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_4.jpg",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T08:52:32"
+   "published_at": "2026-11-06T18:06:59"
   },
   {
    "id": 8452,
@@ -362,10 +362,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-soroti-peretasan-binance-nasib-dana-investor-kripto-ri-jadi-perhatian",
    "img": null,
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T06:00:15"
+  },
+  {
+   "id": 8371,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Liquid Pulihkan Dukungan Bitcoin 1:1, Namun Isi Ulang Dompet Tetap Manual",
+   "x": "Liquid (L-BTC) melaporkan pemulihan dukungan 1:1 terhadap Bitcoin, namun proses pencairan dana nasabah masih bergantung pada dompet internal dan pengisian manual. Hal ini menimbulkan pertanyaan mengenai efisiensi operasional bursa tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/liquid-restores-11-bitcoin-backing-but-wallet-refills-remain-manual",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/liquid-lbtc-backing-sideswap-manual-refills-v2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T06:30:52"
   },
   {
    "id": 8523,
@@ -382,20 +396,6 @@
    "published_at": "2026-11-05T16:29:11"
   },
   {
-   "id": 8432,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Kandidat pro-kripto raih 241 kursi saat Kongres AS ganti kekuasaan",
-   "x": "Sejumlah kandidat yang mendukung aset digital memenangkan mayoritas kursi di Kongres Amerika Serikat. Kemenangan ini berpotensi memengaruhi arah regulasi aset kripto di masa depan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/pro-crypto-candidates-sweep-241-seats-as-congress-shifts-power",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-election-tally.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T21:00:44"
-  },
-  {
    "id": 8538,
    "k": "pasar",
    "cat": "Pasar",
@@ -404,24 +404,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T21:39:19"
   },
   {
-   "id": 8626,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas Binance tukar token curian jadi Bitcoin senilai $124 juta",
-   "x": "Peretas yang membobol bursa kripto Binance dilaporkan menukar aset curian senilai $124 juta dengan Bitcoin. Sebagian besar dana curian belum dicairkan, namun insiden ini kembali menimbulkan kekhawatiran tentang keamanan aset digital.",
+   "id": 8517,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "ETF Injective Canary debut di Nasdaq dengan eksposur imbal hasil staking",
+   "x": "Canary Capital meluncurkan ETF Staked INJ di Nasdaq, memberikan investor eksposur terhadap token INJ Injective. ETF ini juga mencerminkan imbal hasil staking dalam Nilai Aset Bersih (NAV).",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241127_Binance_News_4.jpg",
-   "a": "4 menit lalu",
+   "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/injective_logo_1920x1080.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T18:06:59"
+   "published_at": "2026-11-05T16:53:56"
   },
   {
    "id": 8543,
@@ -432,7 +432,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/michael-saylor-ai-hacker-binance-hack",
    "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T22:00:00"
@@ -446,10 +446,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-dan-sp-500-kian-lengket-apakah-btc-mulai-kehilangan-keunikannya",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T02:30:25"
+  },
+  {
+   "id": 8432,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Kandidat pro-kripto raih 241 kursi saat Kongres AS ganti kekuasaan",
+   "x": "Sejumlah kandidat yang mendukung aset digital memenangkan mayoritas kursi di Kongres Amerika Serikat. Kemenangan ini berpotensi memengaruhi arah regulasi aset kripto di masa depan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/pro-crypto-candidates-sweep-241-seats-as-congress-shifts-power",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-election-tally.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T21:00:44"
   },
   {
    "id": 8440,
@@ -460,24 +474,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T20:46:03"
-  },
-  {
-   "id": 8652,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pendapatan AI miner IREN tertunda hingga 2027, ekspansi butuh $6 miliar",
-   "x": "Perusahaan penambang Bitcoin IREN menunda target pendapatan AI-nya ke 2027 karena ekspansi yang membutuhkan pendanaan tambahan. Hal ini menunjukkan tantangan dalam skala besar proyek AI di sektor penambangan kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/iren-campus-funding-boundary.webp",
-   "a": "41 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T17:30:09"
   },
   {
    "id": 8353,
@@ -494,18 +494,18 @@
    "published_at": "2026-11-04T05:46:33"
   },
   {
-   "id": 8517,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "ETF Injective Canary debut di Nasdaq dengan eksposur imbal hasil staking",
-   "x": "Canary Capital meluncurkan ETF Staked INJ di Nasdaq, memberikan investor eksposur terhadap token INJ Injective. ETF ini juga mencerminkan imbal hasil staking dalam Nilai Aset Bersih (NAV).",
+   "id": 8484,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Arkansas tuntut Kalshi atas dugaan operasi judi ilegal yang sebabkan kerugian mental",
+   "x": "Negara bagian Arkansas mengajukan gugatan terhadap Kalshi, menuduh platform pasar prediksinya beroperasi secara ilegal sebagai perjudian. Tuntutan ini menambah daftar negara bagian yang mengambil tindakan hukum terhadap Kalshi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/injective_logo_1920x1080.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_arkansas_1920x1080.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T16:53:56"
+   "published_at": "2026-11-05T08:26:48"
   },
   {
    "id": 8453,
@@ -530,38 +530,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bot-trading-solana-mendadak-berhenti-24-detik-kemudian-us856-ribu-raib",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T02:00:02"
   },
   {
-   "id": 8312,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bursa Kripto Izinkan Taruhan Saham Lewat Kontrak Berjangka Perpetual",
-   "x": "Regulator AS kini mengizinkan perdagangan kontrak berjangka perpetual untuk saham, sebuah instrumen yang lazim di pasar kripto. Ini memperluas penggunaan produk derivatif kripto ke aset tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
+   "id": 8652,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Pendapatan AI miner IREN tertunda hingga 2027, ekspansi butuh $6 miliar",
+   "x": "Perusahaan penambang Bitcoin IREN menunda target pendapatan AI-nya ke 2027 karena ekspansi yang membutuhkan pendanaan tambahan. Hal ini menunjukkan tantangan dalam skala besar proyek AI di sektor penambangan kripto.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/iren-campus-funding-boundary.webp",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T19:16:02"
+   "published_at": "2026-11-06T17:30:09"
   },
   {
-   "id": 8552,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pengembang Solana usulkan perombakan besar atasi risiko jaringan",
-   "x": "Pengembang Solana mengusulkan perubahan signifikan untuk mengatasi risiko tersembunyi yang dapat mengganggu jaringan. Proposal ini bertujuan menyelaraskan target pengembangan dan pengujian.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-client-rulebook.webp",
-   "a": "20 jam lalu",
+   "id": 8559,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OpenAI janji tanggung biaya listrik AI, siapa yang mengawasi?",
+   "x": "OpenAI berupaya meredakan protes publik terkait konsumsi energi dan air oleh kampanye AI. Namun, muncul pertanyaan mengenai mekanisme penegakan kepatuhan terhadap janji tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T22:00:30"
+   "published_at": "2026-11-05T21:36:03"
   },
   {
    "id": 8380,
@@ -578,18 +578,18 @@
    "published_at": "2026-11-04T13:44:52"
   },
   {
-   "id": 8484,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Arkansas tuntut Kalshi atas dugaan operasi judi ilegal yang sebabkan kerugian mental",
-   "x": "Negara bagian Arkansas mengajukan gugatan terhadap Kalshi, menuduh platform pasar prediksinya beroperasi secara ilegal sebagai perjudian. Tuntutan ini menambah daftar negara bagian yang mengambil tindakan hukum terhadap Kalshi.",
+   "id": 8368,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Mantan Senator AS Sherrod Brown Kalahkan Jon Husted, Pukul Mundur Fairshake",
+   "x": "Kemenangan Sherrod Brown dalam pemilihan Senat AS berdampak pada kelompok advokasi kripto Fairshake. Hal ini dapat memengaruhi lobi dan kebijakan terkait aset digital di Amerika Serikat.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_arkansas_1920x1080.png",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220513-News-Sherrod-Brown.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T08:26:48"
+   "published_at": "2026-11-04T04:35:48"
   },
   {
    "id": 8633,
@@ -600,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/musk-batalkan-kontrak-pemerintah-spacex-saham",
    "img": "https://assets.beincrypto.com/img/4QJWA7eOPSn9XB4go-bQXEAjzKk=/smart/dae86dbf26c14b04b7c56196848c6d57",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T17:10:43"
@@ -620,32 +620,32 @@
    "published_at": "2026-11-04T06:00:47"
   },
   {
-   "id": 8559,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OpenAI janji tanggung biaya listrik AI, siapa yang mengawasi?",
-   "x": "OpenAI berupaya meredakan protes publik terkait konsumsi energi dan air oleh kampanye AI. Namun, muncul pertanyaan mengenai mekanisme penegakan kepatuhan terhadap janji tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
-   "a": "20 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T21:36:03"
-  },
-  {
-   "id": 8410,
+   "id": 8552,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Polkadot rugikan $1,38 juta akibat peretas eksploitasi celah keamanan",
-   "x": "Peretas berhasil mencuri aset kripto senilai lebih dari satu juta dolar AS dari jaringan Polkadot. Insiden ini terjadi meski celah keamanan yang dieksploitasi telah diperbaiki empat bulan sebelumnya, menyoroti risiko berkelanjutan dalam keamanan blockchain.",
+   "t": "Pengembang Solana usulkan perombakan besar atasi risiko jaringan",
+   "x": "Pengembang Solana mengusulkan perubahan signifikan untuk mengatasi risiko tersembunyi yang dapat mengganggu jaringan. Proposal ini bertujuan menyelaraskan target pengembangan dan pengujian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/polkadot-lost-1-38-million-after-hacker-exploited-security-flaw-fixed-four-months-earlier",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/polkadot-relayer-bypass.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-client-rulebook.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T14:50:52"
+   "published_at": "2026-11-05T22:00:30"
+  },
+  {
+   "id": 8646,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Penyedia Kartu Kripto Gnosis Pay akui peretas akses data pelanggan",
+   "x": "Peretas berhasil mengakses data pelanggan Gnosis Pay melalui sistem lama, meskipun dana nasabah dipastikan aman. Insiden ini menyoroti pentingnya keamanan siber pada platform yang terhubung dengan aset digital.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T16:41:29"
   },
   {
    "id": 8379,
@@ -662,18 +662,18 @@
    "published_at": "2026-11-04T15:29:23"
   },
   {
-   "id": 8368,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Mantan Senator AS Sherrod Brown Kalahkan Jon Husted, Pukul Mundur Fairshake",
-   "x": "Kemenangan Sherrod Brown dalam pemilihan Senat AS berdampak pada kelompok advokasi kripto Fairshake. Hal ini dapat memengaruhi lobi dan kebijakan terkait aset digital di Amerika Serikat.",
+   "id": 8518,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Anchorage Digital ajukan pendaftaran dealer swap CFTC untuk bisnis opsi kripto",
+   "x": "Anchorage Digital mengajukan pendaftaran sebagai dealer swap ke Komisi Perdagangan Berjangka Komoditas AS (CFTC). Jika disetujui, mereka berencana menawarkan opsi bitcoin dan ether bergaya Eropa.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220513-News-Sherrod-Brown.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-10.46.15.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T04:35:48"
+   "published_at": "2026-11-05T16:00:02"
   },
   {
    "id": 8570,
@@ -684,7 +684,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kripto-likuidasi-wall-street-crash-trader-kehilangan-miliar",
    "img": "https://assets.beincrypto.com/img/i_gUoU-wbVJNbCYD6MMD5X4oyhE=/smart/857eb4545193479498c19b298b643763",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T02:00:00"
@@ -704,32 +704,32 @@
    "published_at": "2026-11-05T02:00:34"
   },
   {
-   "id": 8646,
+   "id": 8410,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Penyedia Kartu Kripto Gnosis Pay akui peretas akses data pelanggan",
-   "x": "Peretas berhasil mengakses data pelanggan Gnosis Pay melalui sistem lama, meskipun dana nasabah dipastikan aman. Insiden ini menyoroti pentingnya keamanan siber pada platform yang terhubung dengan aset digital.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
-   "a": "1 jam lalu",
+   "t": "Polkadot rugikan $1,38 juta akibat peretas eksploitasi celah keamanan",
+   "x": "Peretas berhasil mencuri aset kripto senilai lebih dari satu juta dolar AS dari jaringan Polkadot. Insiden ini terjadi meski celah keamanan yang dieksploitasi telah diperbaiki empat bulan sebelumnya, menyoroti risiko berkelanjutan dalam keamanan blockchain.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/polkadot-lost-1-38-million-after-hacker-exploited-security-flaw-fixed-four-months-earlier",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/polkadot-relayer-bypass.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T16:41:29"
+   "published_at": "2026-11-04T14:50:52"
   },
   {
-   "id": 8580,
+   "id": 8441,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Proposal Optimism lemahkan kekuasaan dewan atas rantai mandiri",
-   "x": "Proposal baru di jaringan Optimism akan mengurangi kewenangan dewan dalam pembaruan protokol. Perubahan ini berpotensi mempercepat adopsi dan inovasi di ekosistemnya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/optimism-new-proposal-weakens-council-power-over-standalone-chains",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/optimism-locked-key-cabinet-1280x720-1.jpg",
-   "a": "16 jam lalu",
+   "t": "Regulator bank AS luncurkan kerangka kerja AI pertama",
+   "x": "Otoritas Pengawas Mata Uang AS (OCC) menerbitkan panduan pertama terkait penggunaan kecerdasan buatan (AI) di sektor perbankan. Kerangka kerja ini bertujuan mengelola risiko otonomi dan potensi kerugian finansial.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T02:10:05"
+   "published_at": "2026-11-04T19:57:18"
   },
   {
    "id": 8498,
@@ -746,18 +746,18 @@
    "published_at": "2026-11-05T16:48:41"
   },
   {
-   "id": 8518,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Anchorage Digital ajukan pendaftaran dealer swap CFTC untuk bisnis opsi kripto",
-   "x": "Anchorage Digital mengajukan pendaftaran sebagai dealer swap ke Komisi Perdagangan Berjangka Komoditas AS (CFTC). Jika disetujui, mereka berencana menawarkan opsi bitcoin dan ether bergaya Eropa.",
+   "id": 8519,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Dana terafiliasi Payward beli saham token AAVE di pasar sekunder",
+   "x": "Dana yang terafiliasi dengan Payward membeli token AAVE di pasar sekunder. Transaksi ini menunjukkan minat institusional pada aset DeFi, meskipun detail pembelian tidak diungkapkan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-10.46.15.png",
+   "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News_2.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T16:00:02"
+   "published_at": "2026-11-05T15:36:50"
   },
   {
    "id": 8359,
@@ -782,38 +782,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peluang-serok-kripto-hari-ini-6-november-2026-dash-inj-jup-aero-dan-algo-mulai-menarik",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T01:30:26"
   },
   {
-   "id": 8441,
+   "id": 8580,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Regulator bank AS luncurkan kerangka kerja AI pertama",
-   "x": "Otoritas Pengawas Mata Uang AS (OCC) menerbitkan panduan pertama terkait penggunaan kecerdasan buatan (AI) di sektor perbankan. Kerangka kerja ini bertujuan mengelola risiko otonomi dan potensi kerugian finansial.",
+   "t": "Proposal Optimism lemahkan kekuasaan dewan atas rantai mandiri",
+   "x": "Proposal baru di jaringan Optimism akan mengurangi kewenangan dewan dalam pembaruan protokol. Perubahan ini berpotensi mempercepat adopsi dan inovasi di ekosistemnya.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/optimism-new-proposal-weakens-council-power-over-standalone-chains",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/optimism-locked-key-cabinet-1280x720-1.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T02:10:05"
+  },
+  {
+   "id": 8560,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "DOJ bentuk gugus tugas 'Kecerdasan Super' awasi penyalahgunaan AI",
+   "x": "Departemen Kehakiman AS membentuk gugus tugas khusus untuk mencegah penyalahgunaan AI oleh aktor jahat. Satuan tugas ini juga akan mendorong pengembang AI untuk memperketat kontrol internal.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg",
+   "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T19:57:18"
-  },
-  {
-   "id": 8324,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance Sebut Token Kurang Likuid Tunda Penggantian Aset Curian",
-   "x": "Binance mengaitkan keterlambatan penggantian 5% aset yang dicuri dengan kurangnya likuiditas pada beberapa token. Bursa kripto ini terus melanjutkan rencana pemulihan bertahap.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-token-recovery-bottleneck.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T19:10:35"
+   "published_at": "2026-11-05T20:46:02"
   },
   {
    "id": 8590,
@@ -824,24 +824,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T09:00:36"
   },
   {
-   "id": 8519,
+   "id": 8337,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Dana terafiliasi Payward beli saham token AAVE di pasar sekunder",
-   "x": "Dana yang terafiliasi dengan Payward membeli token AAVE di pasar sekunder. Transaksi ini menunjukkan minat institusional pada aset DeFi, meskipun detail pembelian tidak diungkapkan.",
+   "t": "CZ serukan aliansi keamanan kripto seiring percepatan serangan berbasis AI pasca peretasan Binance",
+   "x": "CEO Binance menyerukan pembentukan aliansi keamanan industri kripto akibat meningkatnya serangan siber berbasis AI. Hal ini penting untuk melindungi aset digital dan kepercayaan investor.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News_2.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230419_CZ_Generic3.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T15:36:50"
+   "published_at": "2026-11-03T20:43:38"
   }
  ]
 }
