@@ -1,5 +1,5 @@
 {
- "total": 66,
+ "total": 69,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kripto-likuidasi-wall-street-crash-trader-kehilangan-miliar",
    "img": "https://assets.beincrypto.com/img/i_gUoU-wbVJNbCYD6MMD5X4oyhE=/smart/857eb4545193479498c19b298b643763",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T02:00:00"
+  },
+  {
+   "id": 8616,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Menguat ke US$80.000, INDODAX Soroti Sentimen Global",
+   "x": "Bitcoin kembali menembus level US$80.000, didorong sentimen global dan kebijakan AS. Pertumbuhan investor kripto domestik juga disebut sebagai faktor pendukung pasar lokal.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-kembali-menguat-indodax-soroti-sentimen-global-dan-pertumbuhan-pasar-kripto-domestik",
+   "img": null,
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T06:45:07"
   },
   {
    "id": 8558,
@@ -26,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/Pena-Resignation-Paraguay-01-gID_4.jpg",
-   "a": "4 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T22:16:03"
@@ -40,24 +54,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/liquid-restores-11-bitcoin-backing-but-wallet-refills-remain-manual",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/liquid-lbtc-backing-sideswap-manual-refills-v2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T06:30:52"
-  },
-  {
-   "id": 8584,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Korelasi Bitcoin dan S&P 500 capai rekor, BTC kehilangan keunikan?",
-   "x": "Korelasi antara Bitcoin dan indeks saham S&P 500 mencapai level tertinggi dalam satu dekade. Hal ini menimbulkan pertanyaan mengenai status Bitcoin sebagai aset independen.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/bitcoin-dan-sp-500-kian-lengket-apakah-btc-mulai-kehilangan-keunikannya",
-   "img": null,
-   "a": "31 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T02:30:25"
   },
   {
    "id": 8428,
@@ -102,6 +102,20 @@
    "published_at": "2026-11-03T11:30:51"
   },
   {
+   "id": 8584,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Korelasi Bitcoin dan S&P 500 capai rekor, BTC kehilangan keunikan?",
+   "x": "Korelasi antara Bitcoin dan indeks saham S&P 500 mencapai level tertinggi dalam satu dekade. Hal ini menimbulkan pertanyaan mengenai status Bitcoin sebagai aset independen.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/bitcoin-dan-sp-500-kian-lengket-apakah-btc-mulai-kehilangan-keunikannya",
+   "img": null,
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T02:30:25"
+  },
+  {
    "id": 8313,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -116,18 +130,18 @@
    "published_at": "2026-11-03T18:16:03"
   },
   {
-   "id": 8553,
+   "id": 8609,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Trader Bitcoin hadapi kedaluwarsa opsi $2,7 miliar dengan 'titik buta'",
-   "x": "Kedaluwarsa opsi Bitcoin senilai $2,7 miliar pada Jumat ini bertepatan dengan periode krusial sebelum data ekonomi penting dirilis. Hal ini menciptakan potensi volatilitas bagi pasar.",
+   "t": "ETF Bitcoin dan Ethereum Kehilangan US$530 Juta dalam Sehari",
+   "x": "Produk Exchange-Traded Fund (ETF) Bitcoin dan Ethereum mengalami penarikan dana bersih sebesar US$530 juta dalam satu hari. Hal ini terjadi di tengah gejolak pasar Wall Street yang memengaruhi aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-payrolls-missed-connection.webp",
-   "a": "6 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-etf-fractured-bridge.webp",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T20:40:25"
+   "published_at": "2026-11-06T09:55:27"
   },
   {
    "id": 8483,
@@ -138,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-11.18.39.png",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T08:52:32"
@@ -152,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P7EQ58JKF3EYDQMECJPRQF/hi-crypto-market-trading-trader-red-960x640.webp",
-   "a": "10 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T16:48:41"
@@ -166,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitfarms-jual-semua-saham-bitcoin",
    "img": "https://assets.beincrypto.com/img/Gk1bPJHgE8anSywgcBVbutsl-uc=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T14:59:45"
@@ -186,18 +200,18 @@
    "published_at": "2026-11-03T22:46:02"
   },
   {
-   "id": 8532,
+   "id": 8553,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin catat aliran dana masuk $75 juta, Fidelity lampaui penarikan BlackRock",
-   "x": "Empat ETF Bitcoin menarik dana pada 4 November, dengan FBTC memimpin aliran masuk sementara IBIT menjadi satu-satunya yang mencatat penarikan. Investor institusi terus menunjukkan minat pada produk ini.",
+   "t": "Trader Bitcoin hadapi kedaluwarsa opsi $2,7 miliar dengan 'titik buta'",
+   "x": "Kedaluwarsa opsi Bitcoin senilai $2,7 miliar pada Jumat ini bertepatan dengan periode krusial sebelum data ekonomi penting dirilis. Hal ini menciptakan potensi volatilitas bagi pasar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-etf-flow-chamber.webp",
-   "a": "12 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-payrolls-missed-connection.webp",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T14:10:06"
+   "published_at": "2026-11-05T20:40:25"
   },
   {
    "id": 8518,
@@ -208,7 +222,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-10.46.15.png",
-   "a": "11 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T16:00:02"
@@ -228,18 +242,18 @@
    "published_at": "2026-11-04T19:15:39"
   },
   {
-   "id": 8247,
+   "id": 8339,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Altcoin Season Bisa Datang Lebih Cepat dari yang Trader Perkirakan, Kata Pakar",
-   "x": "Apakah musim altcoin berikutnya bisa datang lebih cepat dari yang diperkirakan trader, meski Bitcoin masih kesulitan berada di bawah US$80.000? Di TOKEN2049 Singapura, BeInCrypto berbincang dengan Peter Anthony, pendiri…",
+   "t": "Hukum Matematika Berusia 130 Tahun Berikan Prediksi Baru Bitcoin untuk 2033",
+   "x": "Hukum Daya Bitcoin menunjukkan angka USD1 juta pada tahun 2033, namun matematika di baliknya menampilkan hasil imbal hasil BTC yang melambat setiap tahunnya. Lihat angkanya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/altcoin-season-segera-datang-sinyal-trader-kripto",
-   "img": "https://assets.beincrypto.com/img/4EKoILmRZSoHK662-ecsrr-PhYk=/smart/9d0511b31ec847a6ae173d706b49106e",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/prediksi-harga-bitcoin-power-law-2033",
+   "img": "https://assets.beincrypto.com/img/kP04G0j-_3YUYD3gtYMaL4hHvUM=/smart/d6881b515b584b28bc3bf5598b4bccb5",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T01:29:29"
+   "published_at": "2026-11-03T22:35:16"
   },
   {
    "id": 8286,
@@ -256,18 +270,18 @@
    "published_at": "2026-11-03T13:11:47"
   },
   {
-   "id": 8412,
+   "id": 8532,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin rebound pasca kemenangan Demokrat meski ETF alami aliran keluar tiga hari",
-   "x": "Bitcoin menunjukkan pemulihan harga meskipun terjadi penarikan dana dari Exchange Traded Fund (ETF) selama tiga hari berturut-turut. Kemenangan Partai Demokrat dalam pemilu sela dianggap memberikan sentimen positif bagi aset berisiko, termasuk Bitcoin.",
+   "t": "ETF Bitcoin catat aliran dana masuk $75 juta, Fidelity lampaui penarikan BlackRock",
+   "x": "Empat ETF Bitcoin menarik dana pada 4 November, dengan FBTC memimpin aliran masuk sementara IBIT menjadi satu-satunya yang mencatat penarikan. Investor institusi terus menunjukkan minat pada produk ini.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-recovery-demand.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-etf-flow-chamber.webp",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T12:30:18"
+   "published_at": "2026-11-05T14:10:06"
   },
   {
    "id": 8283,
@@ -292,24 +306,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
-   "a": "2 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T00:19:49"
   },
   {
-   "id": 8339,
+   "id": 8473,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Hukum Matematika Berusia 130 Tahun Berikan Prediksi Baru Bitcoin untuk 2033",
-   "x": "Hukum Daya Bitcoin menunjukkan angka USD1 juta pada tahun 2033, namun matematika di baliknya menampilkan hasil imbal hasil BTC yang melambat setiap tahunnya. Lihat angkanya.",
+   "t": "Arthur Hayes: Bisakah Dilusi IPO AI Membuat Likuiditas Bank Seret dan Hantam Bitcoin?",
+   "x": "Arthur Hayes mengatakan IPO AI yang menyebabkan dilusi bisa memperkecil neraca bank dan menguras likuiditas dolar yang mendukung reli aset kripto.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/prediksi-harga-bitcoin-power-law-2033",
-   "img": "https://assets.beincrypto.com/img/kP04G0j-_3YUYD3gtYMaL4hHvUM=/smart/d6881b515b584b28bc3bf5598b4bccb5",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/arthur-hayes-ipo-ai-dilusi-likuiditas",
+   "img": "https://assets.beincrypto.com/img/Cnc2QfsKtiTq9AvaFObBTyn9PsQ=/smart/5718414bf5114b2093e7c3fb805706b6",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T22:35:16"
+   "published_at": "2026-11-05T05:51:00"
   },
   {
    "id": 8561,
@@ -320,24 +334,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png",
-   "a": "6 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T20:16:03"
   },
   {
-   "id": 8435,
+   "id": 8412,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin melesat di atas $80.000, pertama sejak peretasan Binance",
-   "x": "Bitcoin kembali menembus level $80.000 setelah sempat anjlok akibat kekhawatiran politik. Kenaikan ini terjadi meski ada perubahan lanskap politik di AS, menunjukkan ketahanan aset digital di tengah ketidakpastian.",
+   "t": "Bitcoin rebound pasca kemenangan Demokrat meski ETF alami aliran keluar tiga hari",
+   "x": "Bitcoin menunjukkan pemulihan harga meskipun terjadi penarikan dana dari Exchange Traded Fund (ETF) selama tiga hari berturut-turut. Kemenangan Partai Demokrat dalam pemilu sela dianggap memberikan sentimen positif bagi aset berisiko, termasuk Bitcoin.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-election-threshold.webp",
+   "url": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-recovery-demand.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T18:20:58"
+   "published_at": "2026-11-04T12:30:18"
   },
   {
    "id": 8550,
@@ -348,7 +362,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
-   "a": "6 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T20:11:02"
@@ -368,18 +382,18 @@
    "published_at": "2026-11-03T23:56:09"
   },
   {
-   "id": 8243,
+   "id": 8277,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Arthur Hayes Sebut Bitcoin Alami Pelemahan sampai The Fed atau Bank Perluas Neraca",
-   "x": "Arthur Hayes mengatakan Bitcoin menghadapi kelemahan hingga The Fed atau bank-bank meningkatkan neraca mereka, meskipun indikator likuiditas dolar meningkat.",
+   "t": "Vitalik Buterin Buka Devcon 8 dengan Kostum, Peringatkan AI Bisa Bobol Aset Kripto",
+   "x": "Vitalik Buterin khawatir AI dapat menemukan jalan pintas untuk membobol kriptografi di balik Ethereum dan Bitcoin, memperingatkan hal ini saat Devcon 8 dibuka di Mumbai.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/arthur-hayes-bitcoin-kelemahan-neraca-keuangan",
-   "img": "https://assets.beincrypto.com/img/IqIpj4gYBt8RbmFBJpSph95J8Lw=/smart/2af82e9462314a59bf8ba6bc75e25212",
+   "url": "https://id.beincrypto.com/devcon-8-buterin-ai-crack-kripto",
+   "img": "https://assets.beincrypto.com/img/PAbDjXkr7ACueP5Vr6xecMJ6bQg=/smart/ba5599c2bc524df29c08c8e1442ff80c",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T03:02:00"
+   "published_at": "2026-11-03T10:00:00"
   },
   {
    "id": 8288,
@@ -396,18 +410,32 @@
    "published_at": "2026-11-03T11:22:10"
   },
   {
-   "id": 8352,
+   "id": 8435,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Investor Bitcoin bisa merugi karena The Fed perketat aturan pinjaman bank",
-   "x": "The Fed memperketat persetujuan pinjaman bank, yang dapat memengaruhi likuiditas pasar aset digital. Investor perlu memantau dampak kebijakan moneter terhadap investasi kripto.",
+   "t": "Bitcoin melesat di atas $80.000, pertama sejak peretasan Binance",
+   "x": "Bitcoin kembali menembus level $80.000 setelah sempat anjlok akibat kekhawatiran politik. Kenaikan ini terjadi meski ada perubahan lanskap politik di AS, menunjukkan ketahanan aset digital di tengah ketidakpastian.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-nonbank-credit-clamp.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-election-threshold.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T21:20:34"
+   "published_at": "2026-11-04T18:20:58"
+  },
+  {
+   "id": 8606,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pendapatan mining Bitcoin IREN anjlok 58%, berencana keluar penuh akhir tahun",
+   "x": "Pendapatan mining Bitcoin perusahaan IREN turun drastis seiring fokusnya beralih ke infrastruktur AI. Perusahaan berencana keluar sepenuhnya dari bisnis mining pada akhir tahun ini.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/iren.png",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T04:29:14"
   },
   {
    "id": 8449,
@@ -424,18 +452,18 @@
    "published_at": "2026-11-04T22:31:58"
   },
   {
-   "id": 8473,
+   "id": 8343,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Arthur Hayes: Bisakah Dilusi IPO AI Membuat Likuiditas Bank Seret dan Hantam Bitcoin?",
-   "x": "Arthur Hayes mengatakan IPO AI yang menyebabkan dilusi bisa memperkecil neraca bank dan menguras likuiditas dolar yang mendukung reli aset kripto.",
+   "t": "Panik Hari Pemilu Bitcoin: Trader Kripto Khawatir akan Kemenangan Telak Partai Demokrat di Pemilu Paruh Waktu",
+   "x": "Trader kripto khawatir akan kemenangan telak Demokrat di pemilu sela. Lihat mengapa Ohio penting dan level Bitcoin mana yang menguji kepanikan.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/arthur-hayes-ipo-ai-dilusi-likuiditas",
-   "img": "https://assets.beincrypto.com/img/Cnc2QfsKtiTq9AvaFObBTyn9PsQ=/smart/5718414bf5114b2093e7c3fb805706b6",
-   "a": "21 jam lalu",
+   "url": "https://id.beincrypto.com/trader-kripto-takut-demokrat-kuasai-pemilu-paruh-waktu",
+   "img": "https://assets.beincrypto.com/img/BTHbEx36-hLZ2eaWpZRE2vO48rs=/smart/55f11683870a4a14a07e13d74b7299c6",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-05T05:51:00"
+   "published_at": "2026-11-03T20:39:52"
   },
   {
    "id": 8446,
@@ -452,18 +480,18 @@
    "published_at": "2026-11-04T16:49:31"
   },
   {
-   "id": 8256,
+   "id": 8352,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Binance dapat memotong lindung nilai Bitcoin yang menang bahkan ketika aset pelanggan didukung",
-   "x": "Binance menyatakan bahwa hanya surplus cadangan berjangka yang dialokasikan ulang dalam lindung nilai Bitcoin. Aturan penyesuaian kerugian (ADL) masih dapat mengurangi posisi menguntungkan yang berlawanan.",
+   "t": "Investor Bitcoin bisa merugi karena The Fed perketat aturan pinjaman bank",
+   "x": "The Fed memperketat persetujuan pinjaman bank, yang dapat memengaruhi likuiditas pasar aset digital. Investor perlu memantau dampak kebijakan moneter terhadap investasi kripto.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-can-cut-a-winning-bitcoin-hedge-even-when-customer-assets-are-backed",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-hedge-tug-release.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-nonbank-credit-clamp.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T02:10:33"
+   "published_at": "2026-11-03T21:20:34"
   },
   {
    "id": 8568,
@@ -474,24 +502,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T22:43:18"
   },
   {
-   "id": 8277,
+   "id": 8391,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Vitalik Buterin Buka Devcon 8 dengan Kostum, Peringatkan AI Bisa Bobol Aset Kripto",
-   "x": "Vitalik Buterin khawatir AI dapat menemukan jalan pintas untuk membobol kriptografi di balik Ethereum dan Bitcoin, memperingatkan hal ini saat Devcon 8 dibuka di Mumbai.",
+   "t": "7 Hal yang Demokrat Bisa Bawa untuk Bitcoin dan Aset Kripto",
+   "x": "Demokrat memenangkan Kongres. Lihat 7 hal yang bisa berarti bagi Bitcoin, saham kripto, CLARITY Act, dan usaha kripto Trump.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/devcon-8-buterin-ai-crack-kripto",
-   "img": "https://assets.beincrypto.com/img/PAbDjXkr7ACueP5Vr6xecMJ6bQg=/smart/ba5599c2bc524df29c08c8e1442ff80c",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/demokrat-kongres-bitcoin-crypto-7-hal",
+   "img": "https://assets.beincrypto.com/img/XxRg37aFOItX6k8BJdZlNAy9M-c=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T10:00:00"
+   "published_at": "2026-11-04T13:02:15"
   },
   {
    "id": 8406,
@@ -516,7 +544,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-wall-street-dominoes.webp",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T18:50:46"
@@ -536,18 +564,18 @@
    "published_at": "2026-11-04T23:20:17"
   },
   {
-   "id": 8343,
+   "id": 8397,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Panik Hari Pemilu Bitcoin: Trader Kripto Khawatir akan Kemenangan Telak Partai Demokrat di Pemilu Paruh Waktu",
-   "x": "Trader kripto khawatir akan kemenangan telak Demokrat di pemilu sela. Lihat mengapa Ohio penting dan level Bitcoin mana yang menguji kepanikan.",
+   "t": "Holding Bitcoin Bayar Block 4x Lebih Banyak daripada Menjualnya ke Pengguna Cash App",
+   "x": "Block milik Jack Dorsey mencatatkan keuntungan sebesar US$229,7 juta dari kepemilikan Bitcoin (BTC) pada kuartal ketiga. Keuntungan tersebut lebih dari 4 kali lipat dari laba kotor bisnis Bitcoin mereka yang hanya…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trader-kripto-takut-demokrat-kuasai-pemilu-paruh-waktu",
-   "img": "https://assets.beincrypto.com/img/BTHbEx36-hLZ2eaWpZRE2vO48rs=/smart/55f11683870a4a14a07e13d74b7299c6",
+   "url": "https://id.beincrypto.com/block-q3-kepemilikan-bitcoin-meningkat",
+   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T20:39:52"
+   "published_at": "2026-11-04T09:56:26"
   },
   {
    "id": 8463,
@@ -572,38 +600,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/btcpay-urges-bitcoin-merchants-to-replace-wallets-after-hackers-steal-an-estimated-1-6-million",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/btcpay-server-rebuild-key.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T09:20:39"
   },
   {
-   "id": 8384,
+   "id": 8592,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin alami dana keluar $1,16 miliar, Bitwise sebut 'jangka pendek'",
-   "x": "Dana keluar dari ETF Bitcoin mencapai $1,16 miliar, namun Bitwise menilai ini hanya sentimen pasar jangka pendek. Investor institusi disebut masih mempertahankan eksposur.",
+   "t": "ETF Bitcoin, Ether catat aliran keluar US$530 juta seiring menguapnya keuntungan pemilu",
+   "x": "Investor menarik dana signifikan dari ETF Bitcoin dan Ether spot AS, menandakan sentimen pasar yang berhati-hati. Penurunan ini terjadi bersamaan dengan anjloknya pasar saham AS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JRM61WJDE5HAK5N5H8KTCD/man-with-holo-graphics-bitwise-etf.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T09:38:07"
+   "published_at": "2026-11-06T08:19:18"
   },
   {
-   "id": 8391,
+   "id": 8476,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "7 Hal yang Demokrat Bisa Bawa untuk Bitcoin dan Aset Kripto",
-   "x": "Demokrat memenangkan Kongres. Lihat 7 hal yang bisa berarti bagi Bitcoin, saham kripto, CLARITY Act, dan usaha kripto Trump.",
+   "t": "Keuntungan US$126 Juta Milik American Bitcoin Terangkat Reli Bitcoin. Q4 Sedang Mengujinya",
+   "x": "American Bitcoin (ABTC) meraih laba US$126 juta pada kuartal ketiga (Q3), didukung oleh keuntungan Bitcoin (BTC) sebesar US$197,3 juta. Tanpa itu, operasional miner ini justru mengalami sedikit kerugian. Perusahaan…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/demokrat-kongres-bitcoin-crypto-7-hal",
-   "img": "https://assets.beincrypto.com/img/XxRg37aFOItX6k8BJdZlNAy9M-c=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
+   "url": "https://id.beincrypto.com/laba-american-bitcoin-q3",
+   "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-04T13:02:15"
+   "published_at": "2026-11-05T03:06:30"
   },
   {
    "id": 8564,
@@ -614,7 +642,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T18:25:31"
@@ -628,38 +656,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/strategys-100-strc-comeback-could-turn-a-cash-drain-into-fresh-bitcoin-buying-power",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/strc-funding-gate-reopens.webp",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T18:30:02"
   },
   {
-   "id": 8269,
+   "id": 8384,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Harga Bitcoin terancam kehilangan support $77,7 ribu, pembeli baru merugi",
-   "x": "Bitcoin turun di bawah harga realisasi pembeli baru-baru ini, berisiko menjadi level resistensi baru. Penurunan ini mengancam level support penting bagi aset kripto utama tersebut.",
+   "t": "ETF Bitcoin alami dana keluar $1,16 miliar, Bitwise sebut 'jangka pendek'",
+   "x": "Dana keluar dari ETF Bitcoin mencapai $1,16 miliar, namun Bitwise menilai ini hanya sentimen pasar jangka pendek. Investor institusi disebut masih mempertahankan eksposur.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JRM61WJDE5HAK5N5H8KTCD/man-with-holo-graphics-bitwise-etf.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T10:04:05"
+   "published_at": "2026-11-04T09:38:07"
   },
   {
-   "id": 8397,
+   "id": 8426,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Holding Bitcoin Bayar Block 4x Lebih Banyak daripada Menjualnya ke Pengguna Cash App",
-   "x": "Block milik Jack Dorsey mencatatkan keuntungan sebesar US$229,7 juta dari kepemilikan Bitcoin (BTC) pada kuartal ketiga. Keuntungan tersebut lebih dari 4 kali lipat dari laba kotor bisnis Bitcoin mereka yang hanya…",
+   "t": "Bitcoin Kembali ke US$80.000 saat Harga Minyak Turun Tajam",
+   "x": "Harga Bitcoin kembali ke $80.000 saat minyak AS turun 12% setelah Demokrat memenangkan Kongres. Lihat apa yang bisa membalikkan kedua pergerakan ini.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/block-q3-kepemilikan-bitcoin-meningkat",
-   "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
+   "url": "https://id.beincrypto.com/bitcoin-kembali-ke-80000-harga-minyak-turun",
+   "img": "https://assets.beincrypto.com/img/tl4uDUvVc8dW_c9nIW3jTf7BMxg=/smart/9c37b4a1ac64454b9f7216470842ca26",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-04T09:56:26"
+   "published_at": "2026-11-04T15:46:15"
   },
   {
    "id": 8409,
@@ -670,10 +698,66 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T10:35:01"
+  },
+  {
+   "id": 8611,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bantuan penurunan suku bunga Bitcoin terhenti seiring lonjakan inflasi jasa",
+   "x": "Inflasi pada sektor jasa di AS menunjukkan kenaikan, menghambat ekspektasi penurunan suku bunga yang sebelumnya diharapkan menguntungkan Bitcoin. Hal ini dapat memengaruhi sentimen pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls-as-service-inflation-flares",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-rate-relief-heat-jammed-lever.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T06:40:14"
+  },
+  {
+   "id": 8269,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Harga Bitcoin terancam kehilangan support $77,7 ribu, pembeli baru merugi",
+   "x": "Bitcoin turun di bawah harga realisasi pembeli baru-baru ini, berisiko menjadi level resistensi baru. Penurunan ini mengancam level support penting bagi aset kripto utama tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T10:04:05"
+  },
+  {
+   "id": 8423,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bagaimana Gubernur Baru Texas akan Berdampak pada Aktivitas Bitcoin Mining di Negara Bagian",
+   "x": "Riot menjual 79% Bitcoinnya untuk membangun pusat data AI di Texas. Kini gubernur baru ingin izin pusat data dihentikan.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/gubernur-texas-penambangan-bitcoin-generative-ai-dampak-data-center",
+   "img": "https://assets.beincrypto.com/img/d6etWlQmcNXGN2nnP9mMqNl0nzE=/smart/346c91748faa4db2acf7c7d07ff9b642",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-04T18:17:55"
+  },
+  {
+   "id": 8528,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pria Kanada diekstradisi ke AS terkait plot bobol superkomputer universitas",
+   "x": "Seorang warga Kanada diekstradisi ke Amerika Serikat atas tuduhan membobol superkomputer universitas untuk menambang aset kripto. Pelaku diduga mencuri kredensial akses dan menjalankan operasi penambangan secara diam-diam.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T12:00:01"
   },
   {
    "id": 8437,
@@ -704,32 +788,18 @@
    "published_at": "2026-11-03T16:47:01"
   },
   {
-   "id": 8476,
+   "id": 8301,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Keuntungan US$126 Juta Milik American Bitcoin Terangkat Reli Bitcoin. Q4 Sedang Mengujinya",
-   "x": "American Bitcoin (ABTC) meraih laba US$126 juta pada kuartal ketiga (Q3), didukung oleh keuntungan Bitcoin (BTC) sebesar US$197,3 juta. Tanpa itu, operasional miner ini justru mengalami sedikit kerugian. Perusahaan…",
+   "t": "4 Saham Kripto Kalahkan Bitcoin di Hari Pemilu: Apa yang Mendorong Lonjakannya?",
+   "x": "4 saham kripto mengungguli Bitcoin pada Hari Pemilu, melonjak hingga 13%. Simak penyebab reli ini dan faktor yang bisa membalikkan arahnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/laba-american-bitcoin-q3",
-   "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/4-saham-kripto-mengungguli-bitcoin-pemilu",
+   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-05T03:06:30"
-  },
-  {
-   "id": 8528,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pria Kanada diekstradisi ke AS terkait plot bobol superkomputer universitas",
-   "x": "Seorang warga Kanada diekstradisi ke Amerika Serikat atas tuduhan membobol superkomputer universitas untuk menambang aset kripto. Pelaku diduga mencuri kredensial akses dan menjalankan operasi penambangan secara diam-diam.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T12:00:01"
+   "published_at": "2026-11-03T16:40:01"
   },
   {
    "id": 8329,
@@ -754,94 +824,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-03T07:49:51"
   },
   {
-   "id": 8426,
+   "id": 8399,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Kembali ke US$80.000 saat Harga Minyak Turun Tajam",
-   "x": "Harga Bitcoin kembali ke $80.000 saat minyak AS turun 12% setelah Demokrat memenangkan Kongres. Lihat apa yang bisa membalikkan kedua pergerakan ini.",
+   "t": "Bitcoin Pulihkan Crash Semalam saat Taruhan US$420 Juta Picu Harapan Bullish",
+   "x": "Bitcoin berhasil melakukan pemulihan bentuk V yang luar biasa, naik dari US$75.700 ke atas US$78.300 hanya dalam hitungan jam ketika para trader memasang taruhan bullish ratusan juta US$. Bisakah harga Bitcoin kembali…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-kembali-ke-80000-harga-minyak-turun",
-   "img": "https://assets.beincrypto.com/img/tl4uDUvVc8dW_c9nIW3jTf7BMxg=/smart/9c37b4a1ac64454b9f7216470842ca26",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-04T15:46:15"
-  },
-  {
-   "id": 8330,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Aktivitas pabrik AS yang lebih kuat mempersulit harapan Bitcoin untuk suku bunga lebih rendah",
-   "x": "Peningkatan aktivitas manufaktur di Amerika Serikat dapat menunda ekspektasi penurunan suku bunga, yang berpotensi memengaruhi sentimen investor terhadap aset berisiko seperti Bitcoin. Data ekonomi ini menjadi perhatian bagi pasar kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-factory-growth-rates-brake.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T14:00:45"
-  },
-  {
-   "id": 8503,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin ungguli S&P 500 pulih, sejarah pasca-pemilu paruh waktu dukung saham",
-   "x": "Kinerja Bitcoin mengungguli S&P 500 dalam separuh sesi perdagangan terakhir di AS. Data historis menunjukkan tren positif untuk pasar saham setelah pemilu sela.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NHVT2Y3ZSYPXGPS15XJ5BN/hi-japan-ipo-stocks-explained2-960x644-960x644.webp",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T10:28:26"
-  },
-  {
-   "id": 8423,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bagaimana Gubernur Baru Texas akan Berdampak pada Aktivitas Bitcoin Mining di Negara Bagian",
-   "x": "Riot menjual 79% Bitcoinnya untuk membangun pusat data AI di Texas. Kini gubernur baru ingin izin pusat data dihentikan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/gubernur-texas-penambangan-bitcoin-generative-ai-dampak-data-center",
-   "img": "https://assets.beincrypto.com/img/d6etWlQmcNXGN2nnP9mMqNl0nzE=/smart/346c91748faa4db2acf7c7d07ff9b642",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-04T18:17:55"
-  },
-  {
-   "id": 8387,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Pulih dari Level Terendah 7 Pekan di Bawah $76 Ribu",
-   "x": "Harga Bitcoin sempat menyentuh level terendah dalam tujuh pekan terakhir di angka $75.618. Penurunan ini terjadi bersamaan dengan likuidasi posisi long aset kripto senilai hampir US$300 juta.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JMY7XMBZ97KS5GW9AD860J/regulation-papers-960x640.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T07:25:47"
-  },
-  {
-   "id": 8301,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "4 Saham Kripto Kalahkan Bitcoin di Hari Pemilu: Apa yang Mendorong Lonjakannya?",
-   "x": "4 saham kripto mengungguli Bitcoin pada Hari Pemilu, melonjak hingga 13%. Simak penyebab reli ini dan faktor yang bisa membalikkan arahnya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/4-saham-kripto-mengungguli-bitcoin-pemilu",
-   "img": "https://assets.beincrypto.com/img/HTxZOpVauPjuD4tQd_gZ2Nz4M7k=/smart/0752d6db01d440e795d218156b4078e3",
+   "url": "https://id.beincrypto.com/harga-bitcoin-pulih-taruhan-opsi-420-juta",
+   "img": "https://assets.beincrypto.com/img/uTKtT4RFJJB6sEqBAy65af12uVY=/smart/e659af159b2d46de8629517fd91e8eba",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T16:40:01"
+   "published_at": "2026-11-04T09:06:20"
   }
  ]
 }

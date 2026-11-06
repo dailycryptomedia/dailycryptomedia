@@ -1,22 +1,8 @@
 {
- "total": 33,
+ "total": 32,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 8263,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pajak digital luar negeri RI berlaku, pembelian NFT dan layanan Web3 terpengaruh?",
-   "x": "Pemerintah Indonesia mulai menerapkan aturan pajak digital luar negeri. Aturan ini berpotensi mengenakan Pajak Pertambahan Nilai (PPN) atas transaksi aset digital seperti NFT dan layanan Web3.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/pajak-digital-luar-negeri-ri-berlaku-pembelian-nft-dan-layanan-web3-ikut-terkena",
-   "img": null,
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T02:00:12"
-  },
   {
    "id": 8332,
    "k": "regulasi",
@@ -40,10 +26,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T16:37:20"
+  },
+  {
+   "id": 8617,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OJK Soroti Peretasan Binance, Nasib Dana Investor Kripto RI Jadi Perhatian",
+   "x": "Otoritas Jasa Keuangan (OJK) menyoroti kasus peretasan Binance yang merugikan miliaran dolar. Hal ini menimbulkan kekhawatiran mengenai perlindungan dana investor aset kripto di Indonesia jika terjadi hal serupa.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ojk-soroti-peretasan-binance-nasib-dana-investor-kripto-ri-jadi-perhatian",
+   "img": null,
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T06:00:15"
   },
   {
    "id": 8300,
@@ -68,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/optimism-new-proposal-weakens-council-power-over-standalone-chains",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/optimism-locked-key-cabinet-1280x720-1.jpg",
-   "a": "52 menit lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T02:10:05"
@@ -82,38 +82,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_arkansas_1920x1080.png",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T08:26:48"
   },
   {
-   "id": 8297,
+   "id": 8587,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Aturan Kripto AS Makin Jelas, SEC Soroti Token, DAO dan Desentralisasi",
-   "x": "Komisi Sekuritas dan Bursa AS (SEC) memperjelas pandangannya mengenai token, tata kelola terdesentralisasi (DAO), dan desentralisasi. Penjelasan ini berpotensi memengaruhi penilaian proyek kripto di Amerika Serikat.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/aturan-kripto-as-makin-jelas-sec-soroti-token-dao-dan-desentralisasi",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T08:00:46"
-  },
-  {
-   "id": 8268,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Prancis tunda voting anggaran 2027, proposal pajak keluar kripto dibatalkan",
-   "x": "Pemerintah Prancis menunda pemungutan suara anggaran dan membatalkan usulan pajak keluar aset kripto. Keputusan ini memberikan kepastian regulasi bagi investor kripto di Prancis.",
+   "t": "Yunani Setujui Pajak 10% untuk Keuntungan Kripto Mulai 2027",
+   "x": "Pemerintah Yunani menyetujui penerapan pajak sebesar 10% atas keuntungan aset kripto yang berlaku mulai tahun 2027. Investor dengan keuntungan tahunan di bawah 500 euro akan dibebaskan dari pajak ini.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg",
+   "a": "10 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T10:49:26"
+   "published_at": "2026-11-06T11:05:36"
   },
   {
    "id": 8559,
@@ -124,10 +110,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T21:36:03"
+  },
+  {
+   "id": 8297,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Aturan Kripto AS Makin Jelas, SEC Soroti Token, DAO dan Desentralisasi",
+   "x": "Komisi Sekuritas dan Bursa AS (SEC) memperjelas pandangannya mengenai token, tata kelola terdesentralisasi (DAO), dan desentralisasi. Penjelasan ini berpotensi memengaruhi penilaian proyek kripto di Amerika Serikat.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/aturan-kripto-as-makin-jelas-sec-soroti-token-dao-dan-desentralisasi",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T08:00:46"
   },
   {
    "id": 8390,
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/korea-tax-deadline-anchor.webp",
-   "a": "7 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T19:30:45"
@@ -172,18 +172,18 @@
    "published_at": "2026-11-03T16:08:14"
   },
   {
-   "id": 8253,
+   "id": 8268,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Korea Selatan desak bursa tingkatkan penyimpanan dingin pasca peretasan Binance",
-   "x": "Regulator Korea Selatan meminta bursa kripto untuk meningkatkan penyimpanan aset di dompet dingin, melebihi persyaratan minimum yang ada. Langkah ini diambil untuk memperkuat keamanan aset nasabah setelah insiden peretasan besar.",
+   "t": "Prancis tunda voting anggaran 2027, proposal pajak keluar kripto dibatalkan",
+   "x": "Pemerintah Prancis menunda pemungutan suara anggaran dan membatalkan usulan pajak keluar aset kripto. Keputusan ini memberikan kepastian regulasi bagi investor kripto di Prancis.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg",
+   "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T01:32:39"
+   "published_at": "2026-11-03T10:49:26"
   },
   {
    "id": 8441,
@@ -222,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/justin-sun-demands-court-sanctions-over-trump-linked-world-liberty-financials-hidden-uae-owners",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/justin-sun-world-liberty-uae-sanctions-cover-v2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T03:20:42"
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JZ76E41HGCE63NNNV8S1QH/justin-sun-wlfi-lawsuit.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T10:30:42"
@@ -292,7 +292,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hong-kong-forces-crypto-providers-to-track-customer-trades",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-crypto-reporting.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T04:30:01"
@@ -340,76 +340,6 @@
    "published_at": "2026-11-03T20:36:02"
   },
   {
-   "id": 8249,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC Baru Saja Permudah Regulasi untuk Governance Token seperti Uniswap",
-   "x": "Staf SEC mengatakan bahwa voting token tata kelola terbuka bukanlah kendali terpusat. Ini alasannya, serta proyek mana saja yang masih gagal memenuhi kriteria tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/faq-sec-token-governance-hak-suara-holder",
-   "img": "https://assets.beincrypto.com/img/bLatKTiFeaV_4BjfuMKVvP2RIfU=/smart/34dce25b9ac6454cb073b4795ddbefce",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-03T00:37:07"
-  },
-  {
-   "id": 8414,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Keputusan SEC dongkrak Canton Coin 6%, a16z lihat celah hukum sekuritas",
-   "x": "SEC mengeluarkan posisi tanpa tindakan yang memberikan kelegaan bagi partisipan jaringan Canton Coin. Hal ini membuka jalan bagi a16z untuk menavigasi hukum sekuritas.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/sec-ruling-lifts-canton-coin-6-as-a16z-sees-pathway-out-of-securities-laws",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/canton-conditional-minting.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T10:10:35"
-  },
-  {
-   "id": 8485,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Digital Chamber sebut kemenangan Sherrod Brown 'hasil tidak menguntungkan paling konsekuen' bagi kripto",
-   "x": "Kelompok industri aset digital menyebut kemenangan Senator Sherrod Brown sebagai hasil pemilu yang paling berdampak negatif bagi sektor kripto. Perubahan kebijakan terkait regulasi aset digital kini diperkirakan akan terjadi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/washington-dc-capitol-1.jpg",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T04:28:54"
-  },
-  {
-   "id": 8504,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Korea Selatan minta penundaan pajak kripto ke-4, target 2029",
-   "x": "Pemerintah Korea Selatan mengusulkan penundaan keempat penerapan pajak aset kripto sebesar 22%. Rencana ini bergeser dari target awal tahun 2027 menjadi 2029, menunjukkan adanya penyesuaian kebijakan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NF1X9VN5762HVNQXA9D4A7/sk-crypto-tax.png",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T09:35:29"
-  },
-  {
-   "id": 8525,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Pagi ini: Sapuan Demokrat dongkrak kripto saat RUU Clarity muncul kembali",
-   "x": "Kemenangan Partai Demokrat dalam pemilu AS memicu kenaikan aset kripto, seiring munculnya kembali diskusi mengenai RUU Clarity Act. Hal ini menunjukkan potensi perubahan regulasi yang dapat memengaruhi pasar kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T13:14:05"
-  },
-  {
    "id": 8305,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -424,6 +354,76 @@
    "published_at": "2026-11-03T13:29:01"
   },
   {
+   "id": 8414,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Keputusan SEC dongkrak Canton Coin 6%, a16z lihat celah hukum sekuritas",
+   "x": "SEC mengeluarkan posisi tanpa tindakan yang memberikan kelegaan bagi partisipan jaringan Canton Coin. Hal ini membuka jalan bagi a16z untuk menavigasi hukum sekuritas.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/sec-ruling-lifts-canton-coin-6-as-a16z-sees-pathway-out-of-securities-laws",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/canton-conditional-minting.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T10:10:35"
+  },
+  {
+   "id": 8485,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Digital Chamber sebut kemenangan Sherrod Brown 'hasil tidak menguntungkan paling konsekuen' bagi kripto",
+   "x": "Kelompok industri aset digital menyebut kemenangan Senator Sherrod Brown sebagai hasil pemilu yang paling berdampak negatif bagi sektor kripto. Perubahan kebijakan terkait regulasi aset digital kini diperkirakan akan terjadi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/washington-dc-capitol-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T04:28:54"
+  },
+  {
+   "id": 8504,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korea Selatan minta penundaan pajak kripto ke-4, target 2029",
+   "x": "Pemerintah Korea Selatan mengusulkan penundaan keempat penerapan pajak aset kripto sebesar 22%. Rencana ini bergeser dari target awal tahun 2027 menjadi 2029, menunjukkan adanya penyesuaian kebijakan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NF1X9VN5762HVNQXA9D4A7/sk-crypto-tax.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T09:35:29"
+  },
+  {
+   "id": 8525,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pagi ini: Sapuan Demokrat dongkrak kripto saat RUU Clarity muncul kembali",
+   "x": "Kemenangan Partai Demokrat dalam pemilu AS memicu kenaikan aset kripto, seiring munculnya kembali diskusi mengenai RUU Clarity Act. Hal ini menunjukkan potensi perubahan regulasi yang dapat memengaruhi pasar kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T13:14:05"
+  },
+  {
+   "id": 8516,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Korea Selatan Kembali Tunda Pajak Kripto, Kini hingga 2029",
+   "x": "Korea Selatan akan menunda pajak keuntungan aset kripto yang telah lama dinanti untuk keempat kalinya, memundurkan pelaksanaannya hingga tahun 2029. Pengenaan pajak ini sebelumnya dijadwalkan berlaku mulai Januari 2027…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pajak-kripto-korea-selatan-ditunda-hingga-2029",
+   "img": "https://assets.beincrypto.com/img/KW0MyyhmAeQX6NPEdoaeEeyd030=/smart/499540f8ff44402ab65e7eb01b1afdcb",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-05T08:49:08"
+  },
+  {
    "id": 8535,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -432,7 +432,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/democrats-reportedly-seek-greater-sec-control-over-crypto-after-clarity-act-collapse",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/democrats-clarity-sec.webp",
-   "a": "15 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T11:10:49"
@@ -450,20 +450,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T00:45:16"
-  },
-  {
-   "id": 8516,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Korea Selatan Kembali Tunda Pajak Kripto, Kini hingga 2029",
-   "x": "Korea Selatan akan menunda pajak keuntungan aset kripto yang telah lama dinanti untuk keempat kalinya, memundurkan pelaksanaannya hingga tahun 2029. Pengenaan pajak ini sebelumnya dijadwalkan berlaku mulai Januari 2027…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pajak-kripto-korea-selatan-ditunda-hingga-2029",
-   "img": "https://assets.beincrypto.com/img/KW0MyyhmAeQX6NPEdoaeEeyd030=/smart/499540f8ff44402ab65e7eb01b1afdcb",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-05T08:49:08"
   }
  ]
 }
