@@ -1,5 +1,5 @@
 {
- "total": 28,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T17:01:03"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/beincrypto-di-merge-madrid-2026-bank-beralih-ke-infrastruktur-stablecoin",
    "img": "https://assets.beincrypto.com/img/WHLWjy_6YsfsQ0jmh_apVaU-xk4=/smart/43c5a9f763b540d8b687f148d21d025b",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T15:35:21"
@@ -60,18 +60,18 @@
    "published_at": "2026-11-04T18:02:42"
   },
   {
-   "id": 8232,
+   "id": 8431,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Peluncuran tokenisasi DTCC percepat adopsi, tingkatkan Securitize",
-   "x": "Layanan tokenisasi dari DTCC memvalidasi model bisnis Securitize, yang berfokus pada tokenisasi aset dunia nyata. Hal ini dapat mendorong adopsi tokenisasi di pasar keuangan tradisional.",
+   "t": "Schroders luncurkan dana utang pasar berkembang ter-tokenisasi di Solana",
+   "x": "Manajer aset senilai lebih dari $1 triliun meluncurkan dana utang pasar berkembang yang ditokenisasi di blockchain Solana. Ini memperluas pilihan produk investasi aset digital yang dikelola secara aktif.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News.jpg",
-   "a": "3 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/05/20200526_Centrifuge_2-Daily.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T19:15:48"
+   "published_at": "2026-11-04T16:27:49"
   },
   {
    "id": 8314,
@@ -130,18 +130,18 @@
    "published_at": "2026-11-04T11:11:57"
   },
   {
-   "id": 8431,
+   "id": 8403,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Schroders luncurkan dana utang pasar berkembang ter-tokenisasi di Solana",
-   "x": "Manajer aset senilai lebih dari $1 triliun meluncurkan dana utang pasar berkembang yang ditokenisasi di blockchain Solana. Ini memperluas pilihan produk investasi aset digital yang dikelola secara aktif.",
+   "t": "Morgan Stanley Tokenisasi Ekuitas AS dan Obligasi Negara Lewat Layanan DTCC",
+   "x": "Morgan Stanley menjadi salah satu bank pertama yang melakukan tokenisasi aset ekuitas dan obligasi negara AS. Langkah ini memanfaatkan layanan tokenisasi baru dari DTCC.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/05/20200526_Centrifuge_2-Daily.png",
+   "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-11.18.11.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T16:27:49"
+   "published_at": "2026-11-04T09:37:45"
   },
   {
    "id": 8447,
@@ -180,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoins-liquidity-hopes-sit-between-two-projected-treasury-cash-peaks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-december-passage.webp",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T15:10:14"
@@ -200,32 +200,46 @@
    "published_at": "2026-11-03T21:47:20"
   },
   {
-   "id": 8403,
+   "id": 8575,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Morgan Stanley Tokenisasi Ekuitas AS dan Obligasi Negara Lewat Layanan DTCC",
-   "x": "Morgan Stanley menjadi salah satu bank pertama yang melakukan tokenisasi aset ekuitas dan obligasi negara AS. Langkah ini memanfaatkan layanan tokenisasi baru dari DTCC.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-04-at-11.18.11.png",
-   "a": "kemarin",
+   "t": "XRP Treasury Nasdaq Anjlok Hampir 50% dalam Sebulan",
+   "x": "Evernorth yang didukung Ripple telah turun hampir 47% sejak listing di Nasdaq pada bulan Oktober. Sementara itu, pengajuan baru mencatat 73,7 juta saham yang bisa dijual kembali oleh para holder, sehingga memicu…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/evernorth-xrp-treasury-nasdaq-crash",
+   "img": "https://assets.beincrypto.com/img/IlEsGv3Ull4mHDKMJMhDdPnEXNI=/smart/ab62c610b01f48a3a6297f42b1aa7836",
+   "a": "2 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T09:37:45"
+   "translated": false,
+   "published_at": "2026-11-06T01:00:00"
   },
   {
-   "id": 8229,
+   "id": 8582,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Nvidia dan Nike pimpin gelombang keberatan tokenisasi saham",
-   "x": "Nvidia, Nike, dan sembilan perusahaan lain menolak perdagangan saham mereka di platform tokenisasi OKX-ICE. Total perusahaan yang keberatan mencapai 50, menunjukkan resistensi terhadap tokenisasi saham perusahaan publik.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png",
-   "a": "3 hari lalu",
+   "t": "Treasury AS beli kembali obligasi senilai $6 miliar, namun dealer nilai kurang",
+   "x": "Departemen Keuangan AS berhasil membeli kembali obligasi senilai $6 miliar, namun para dealer menilai volume tersebut belum cukup untuk melancarkan pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/treasury-bought-back-6b-in-bonds-but-dealers-say-bigger-isnt-enough",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-dealer-exit.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T17:36:03"
+   "published_at": "2026-11-05T23:20:13"
+  },
+  {
+   "id": 8505,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Penolakan anggaran Prancis singkirkan pajak stablecoin, pelaporan wallet",
+   "x": "Pajak stablecoin dan pelaporan dompet kripto mandiri yang diajukan dalam rancangan anggaran Prancis terpaksa dikesampingkan. Amandemen tersebut mungkin akan dihidupkan kembali di tingkat Senat.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-05T09:04:42"
   },
   {
    "id": 8458,
@@ -256,20 +270,6 @@
    "published_at": "2026-11-03T16:00:28"
   },
   {
-   "id": 8214,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Animoca Brands selesaikan hambatan dana kelolaan Abu Dhabi",
-   "x": "Animoca Brands membangun bisnis pengelolaan dana di Abu Dhabi untuk memenuhi permintaan investor institusi terhadap aset digital yang ditokenisasi dan stablecoin. Ini menunjukkan pergeseran fokus perusahaan ke layanan keuangan kripto yang lebih luas.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T18:00:16"
-  },
-  {
    "id": 8461,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -282,48 +282,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-04T21:04:03"
-  },
-  {
-   "id": 8237,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Treasury pegang $1 triliun saat Bitcoin hadapi uji likuiditas",
-   "x": "Keputusan pendanaan Treasury AS pada November akan menguji apakah penarikan kas dapat melonggarkan kondisi pendanaan di tengah penerbitan utang. Ini berpotensi memengaruhi likuiditas pasar aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/treasury-holds-1-trillion-as-bitcoin-faces-a-key-liquidity-test-this-week",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-cash-gate.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T19:40:49"
-  },
-  {
-   "id": 8505,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Penolakan anggaran Prancis singkirkan pajak stablecoin, pelaporan wallet",
-   "x": "Pajak stablecoin dan pelaporan dompet kripto mandiri yang diajukan dalam rancangan anggaran Prancis terpaksa dikesampingkan. Amandemen tersebut mungkin akan dihidupkan kembali di tingkat Senat.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg",
-   "a": "13 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T09:04:42"
-  },
-  {
-   "id": 8513,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Western Union Ungkap Bisnis Sebenarnya di Balik Stablecoin USDPT",
-   "x": "Western Union punya masalah yang cukup mahal. Miliaran US$ dapat mengalir lewat jaringan pembayaran global mereka, tapi sebagian dana milik mereka harus mengendap di rekening bank, menunggu pelanggan mengirim uang…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/strategi-bisnis-western-union-usdpt-stablecoin",
-   "img": "https://assets.beincrypto.com/img/lZFzbzBLPPI26_1JDb7itEXBsAY=/smart/19306badc96d42cd865cdf55c56a360c",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-05T11:13:07"
   },
   {
    "id": 8328,
@@ -340,18 +298,18 @@
    "published_at": "2026-11-03T15:30:24"
   },
   {
-   "id": 8478,
+   "id": 8513,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Circle CEO: Fitur Freeze-and-Seize Berikan Keunggulan Stablecoin dibanding Perbankan Koresponden",
-   "x": "CEO Circle Jeremy Allaire mengatakan alat pembekuan stablecoin melampaui bank setelah peretasan Binance senilai $6,3 miliar, namun masih ada celah yang tersisa.",
+   "t": "Western Union Ungkap Bisnis Sebenarnya di Balik Stablecoin USDPT",
+   "x": "Western Union punya masalah yang cukup mahal. Miliaran US$ dapat mengalir lewat jaringan pembayaran global mereka, tapi sebagian dana milik mereka harus mengendap di rekening bank, menunggu pelanggan mengirim uang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/circle-ceo-stablecoin-alat-pembekuan-bank",
-   "img": "https://assets.beincrypto.com/img/tecxDOHTT19fbFXMPFchDuuZt6o=/smart/d760358fb22747459f3b26e92dd76292",
-   "a": "20 jam lalu",
+   "url": "https://id.beincrypto.com/strategi-bisnis-western-union-usdpt-stablecoin",
+   "img": "https://assets.beincrypto.com/img/lZFzbzBLPPI26_1JDb7itEXBsAY=/smart/19306badc96d42cd865cdf55c56a360c",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-05T02:30:00"
+   "published_at": "2026-11-05T11:13:07"
   },
   {
    "id": 8294,
@@ -368,6 +326,20 @@
    "published_at": "2026-11-03T08:00:58"
   },
   {
+   "id": 8478,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Circle CEO: Fitur Freeze-and-Seize Berikan Keunggulan Stablecoin dibanding Perbankan Koresponden",
+   "x": "CEO Circle Jeremy Allaire mengatakan alat pembekuan stablecoin melampaui bank setelah peretasan Binance senilai $6,3 miliar, namun masih ada celah yang tersisa.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/circle-ceo-stablecoin-alat-pembekuan-bank",
+   "img": "https://assets.beincrypto.com/img/tecxDOHTT19fbFXMPFchDuuZt6o=/smart/d760358fb22747459f3b26e92dd76292",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-05T02:30:00"
+  },
+  {
    "id": 8480,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -376,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/timmer-korelasi-saham-obligasi-60-40",
    "img": "https://assets.beincrypto.com/img/PP1MW6vJH9c2X1LvTrRYj94XQns=/smart/18eea6b726be4623b99164fa25a0ae1e",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T01:45:00"
@@ -390,7 +362,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-harga-emas-turun-november-2026",
    "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T16:00:00"

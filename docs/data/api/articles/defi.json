@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,24 +26,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/grayscale-ungkap-dampak-tak-terduga-peretasan-binance-bagi-kripto",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T08:00:07"
-  },
-  {
-   "id": 8208,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "New Jersey Cabut Larangan Staking Coinbase Jelang Uji Coba Kripto Midterm",
-   "x": "New Jersey mencabut larangan staking dan denda $5 juta, memungkinkan Coinbase memulihkan akses staking bagi pengguna di negara bagian tersebut. Langkah ini terjadi menjelang periode penting bagi aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T22:22:30"
   },
   {
    "id": 8433,
@@ -68,24 +54,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/injective_logo_1920x1080.jpg",
-   "a": "5 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T16:53:56"
   },
   {
-   "id": 8225,
+   "id": 8563,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Eksploitasi Linux Buatan Claude Targetkan Bug yang Belum Ditambal Ubuntu",
-   "x": "Anthropic menyatakan Claude menulis kode eksploitasi yang dapat mengambil alih server Linux tanpa kata sandi. Red Hat telah menambal kerentanan ini, namun Ubuntu belum merilis perbaikan.",
+   "t": "OpenAI temukan 948 celah keamanan Linux dan cara mengeksploitasinya",
+   "x": "Sistem AI OpenAI berhasil menemukan ribuan celah keamanan pada sistem operasi Linux dan bahkan merancang cara untuk mengeksploitasinya. Hal ini menimbulkan kekhawatiran tentang potensi penyalahgunaan teknologi AI untuk meretas perangkat lunak penting.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2020/08/ethereum-classic-labs-blockchain-security-gID_7.jpg",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T20:36:03"
+   "published_at": "2026-11-05T19:16:03"
+  },
+  {
+   "id": 8385,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas Binance Pindahkan 81% Solana Curian Lewat THORChain",
+   "x": "Pelaku peretasan Binance memindahkan mayoritas aset Solana yang dicuri dan melanjutkan upaya pencucian dana melalui THORChain. Protokol tersebut telah kembali beroperasi normal.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-04T09:15:55"
   },
   {
    "id": 8543,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/michael-saylor-ai-hacker-binance-hack",
    "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "44 menit lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T22:00:00"
@@ -114,20 +114,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T06:00:47"
-  },
-  {
-   "id": 8385,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas Binance Pindahkan 81% Solana Curian Lewat THORChain",
-   "x": "Pelaku peretasan Binance memindahkan mayoritas aset Solana yang dicuri dan melanjutkan upaya pencucian dana melalui THORChain. Protokol tersebut telah kembali beroperasi normal.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-04T09:15:55"
   },
   {
    "id": 8255,
@@ -158,48 +144,6 @@
    "published_at": "2026-11-04T11:05:30"
   },
   {
-   "id": 8563,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "OpenAI temukan 948 celah keamanan Linux dan cara mengeksploitasinya",
-   "x": "Sistem AI OpenAI berhasil menemukan ribuan celah keamanan pada sistem operasi Linux dan bahkan merancang cara untuk mengeksploitasinya. Hal ini menimbulkan kekhawatiran tentang potensi penyalahgunaan teknologi AI untuk meretas perangkat lunak penting.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T19:16:03"
-  },
-  {
-   "id": 8338,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "2 Alasan CEO Custodia Menilai Peretasan Binance Senilai US$6 Miliar Mengubah Aset Kripto",
-   "x": "FBI menyalahkan Korea Utara atas peretasan Binance senilai $6 miliar. CEO Custodia, Caitlin Long, memberikan 2 alasan mengapa hal ini mengubah aset kripto.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/custodia-ceo-binance-hack-mengubah-crypto",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-03T23:00:00"
-  },
-  {
-   "id": 8261,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Korut dituduh bobol Binance Rp114 triliun, adik Kim Jong Un buka suara!",
-   "x": "Pemerintah Korea Utara membantah tuduhan FBI terkait dugaan peretasan Binance senilai Rp114 triliun. FBI sebelumnya mengungkap sejumlah alamat kripto yang diduga terkait dengan pelaku peretasan tersebut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/korut-dituduh-bobol-binance-rp114-triliun-adik-kim-jong-un-buka-suara",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-03T03:00:52"
-  },
-  {
    "id": 8444,
    "k": "defi",
    "cat": "DeFi",
@@ -214,32 +158,32 @@
    "published_at": "2026-11-04T17:59:09"
   },
   {
-   "id": 8219,
+   "id": 8338,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Korea Utara Bantah Peretasan Binance, Sebut Investigasi FBI Direkayasa",
-   "x": "Kim Yo-jong menyebut investigasi FBI terhadap peretasan Binance sebagai \"provokasi politik\" sementara dana sebesar $6,3 miliar tetap berada di daftar blokir AS.",
+   "t": "2 Alasan CEO Custodia Menilai Peretasan Binance Senilai US$6 Miliar Mengubah Aset Kripto",
+   "x": "FBI menyalahkan Korea Utara atas peretasan Binance senilai $6 miliar. CEO Custodia, Caitlin Long, memberikan 2 alasan mengapa hal ini mengubah aset kripto.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kim-yo-jong-fbi-binance-hack-provokasi",
-   "img": "https://assets.beincrypto.com/img/SPSPn5IgAN1oFU41Aus8W2xsHhM=/smart/515c8debc9e348318ba496855cdd5d08",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-02T21:21:25"
-  },
-  {
-   "id": 8262,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Binance dibobol hacker Korut, trader kripto malah ramai-ramai beli koin Kim Jong Un!",
-   "x": "Token bernama Koin Kim Jong Un (KIM) ramai diperdagangkan di jaringan Solana seiring FBI mengaitkan peretasan besar Binance dengan kelompok hacker Korea Utara. Fenomena ini menarik perhatian pasar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/binance-dibobol-hacker-korut-trader-kripto-malah-ramai-ramai-beli-koin-kim-jong-un",
-   "img": null,
+   "url": "https://id.beincrypto.com/custodia-ceo-binance-hack-mengubah-crypto",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
    "a": "2 hari lalu",
    "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-03T23:00:00"
+  },
+  {
+   "id": 8261,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Korut dituduh bobol Binance Rp114 triliun, adik Kim Jong Un buka suara!",
+   "x": "Pemerintah Korea Utara membantah tuduhan FBI terkait dugaan peretasan Binance senilai Rp114 triliun. FBI sebelumnya mengungkap sejumlah alamat kripto yang diduga terkait dengan pelaku peretasan tersebut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/korut-dituduh-bobol-binance-rp114-triliun-adik-kim-jong-un-buka-suara",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T02:30:55"
+   "published_at": "2026-11-03T03:00:52"
   },
   {
    "id": 8302,
@@ -256,6 +200,34 @@
    "published_at": "2026-11-03T15:56:16"
   },
   {
+   "id": 8262,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Binance dibobol hacker Korut, trader kripto malah ramai-ramai beli koin Kim Jong Un!",
+   "x": "Token bernama Koin Kim Jong Un (KIM) ramai diperdagangkan di jaringan Solana seiring FBI mengaitkan peretasan besar Binance dengan kelompok hacker Korea Utara. Fenomena ini menarik perhatian pasar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/binance-dibobol-hacker-korut-trader-kripto-malah-ramai-ramai-beli-koin-kim-jong-un",
+   "img": null,
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-03T02:30:55"
+  },
+  {
+   "id": 8512,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
+   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
+   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-05T11:40:57"
+  },
+  {
    "id": 8375,
    "k": "defi",
    "cat": "DeFi",
@@ -270,18 +242,18 @@
    "published_at": "2026-11-04T03:30:35"
   },
   {
-   "id": 8220,
+   "id": 8361,
    "k": "defi",
    "cat": "DeFi",
-   "t": "New Jersey Akhiri Larangan Staking Coinbase setelah 3 Tahun: Negara Bagian Mana Selanjutnya?",
-   "x": "New Jersey mencabut larangan staking Coinbase dan denda sebesar $5 juta. Empat negara bagian masih memblokir layanan staking Coinbase baru untuk pengguna.",
+   "t": "Teng dari Binance Bilang Industri Harus Belajar dari Peretasan: Apakah Fitur Baru Aset Kripto Menambah Risiko?",
+   "x": "Co-CEO Binance Teng mengatakan industri harus belajar dari peretasan Binance. Lihat apakah fitur aset kripto baru meningkatkan risiko.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/new-jersey-cabut-gugatan-staking-coinbase",
-   "img": "https://assets.beincrypto.com/img/NmIZIkMe8bDQgPEl4nNrm6PkoI4=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-02T19:29:37"
+   "published_at": "2026-11-04T02:35:00"
   },
   {
    "id": 8418,
@@ -298,34 +270,6 @@
    "published_at": "2026-11-04T07:00:52"
   },
   {
-   "id": 8512,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
-   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
-   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-05T11:40:57"
-  },
-  {
-   "id": 8361,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Teng dari Binance Bilang Industri Harus Belajar dari Peretasan: Apakah Fitur Baru Aset Kripto Menambah Risiko?",
-   "x": "Co-CEO Binance Teng mengatakan industri harus belajar dari peretasan Binance. Lihat apakah fitur aset kripto baru meningkatkan risiko.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-04T02:35:00"
-  },
-  {
    "id": 8248,
    "k": "defi",
    "cat": "DeFi",
@@ -334,7 +278,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/top-3-altcoin-pekan-pertama-november-2026",
    "img": "https://assets.beincrypto.com/img/-UCXUa95T9shvVCr7a4pd1xYBMA=/smart/015f78e5a293455ea6460958a3203e93",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-03T00:57:54"

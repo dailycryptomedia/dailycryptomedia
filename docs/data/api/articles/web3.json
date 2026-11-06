@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cert-in-crafty-falcon-bursa-kripto",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "16 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T06:27:09"
@@ -46,18 +46,18 @@
    "published_at": "2026-11-03T19:46:03"
   },
   {
-   "id": 8210,
+   "id": 8308,
    "k": "web3",
    "cat": "Web3",
-   "t": "Penyelidik Kripto Laporkan Dugaan Pencurian $106 Juta, Bot Solana Hilang $786 Ribu",
-   "x": "Sebuah entitas Eropa diduga kehilangan $106 juta dari akun bursa, sementara dompet yang terkait dengan bot arbitrase Solana dilaporkan kehilangan $786.000. Penyelidikan sedang berlangsung.",
+   "t": "Binance lacak peretasan $6,3 miliar ke wawancara kerja palsu, alat AI terkompromi",
+   "x": "Peretas membobol infrastruktur dompet Binance menggunakan komputer karyawan yang terkompromi dan kredensial curian. Insiden ini menyoroti kerentanan keamanan siber di bursa kripto besar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-02T21:16:24"
+   "published_at": "2026-11-03T16:44:06"
   },
   {
    "id": 8520,
@@ -68,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-13.37.35.png",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T14:19:51"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/india-warns-ai-assisted-hackers-are-stealing-crypto-wallet-keys",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/india-bank-monitoring-gaps.webp",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T17:30:59"
@@ -116,18 +116,18 @@
    "published_at": "2026-11-04T18:46:03"
   },
   {
-   "id": 8308,
+   "id": 8500,
    "k": "web3",
    "cat": "Web3",
-   "t": "Binance lacak peretasan $6,3 miliar ke wawancara kerja palsu, alat AI terkompromi",
-   "x": "Peretas membobol infrastruktur dompet Binance menggunakan komputer karyawan yang terkompromi dan kredensial curian. Insiden ini menyoroti kerentanan keamanan siber di bursa kripto besar.",
+   "t": "Bisakah jaringan telepon terdesentralisasi memberdayakan revolusi AI?",
+   "x": "Jaringan AI terdesentralisasi berupaya mengubah ponsel menjadi infrastruktur komputasi alternatif. Namun, para skeptis meragukan kelayakan dan skalabilitas solusi ini dibandingkan pusat data tradisional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-03T16:44:06"
+   "published_at": "2026-11-05T13:30:00"
   },
   {
    "id": 8323,
@@ -180,38 +180,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg",
-   "a": "9 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T13:01:02"
-  },
-  {
-   "id": 8500,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bisakah jaringan telepon terdesentralisasi memberdayakan revolusi AI?",
-   "x": "Jaringan AI terdesentralisasi berupaya mengubah ponsel menjadi infrastruktur komputasi alternatif. Namun, para skeptis meragukan kelayakan dan skalabilitas solusi ini dibandingkan pusat data tradisional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T13:30:00"
-  },
-  {
-   "id": 8227,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Korea Utara cuci hasil peretasan Binance di dompet baru tiap 25 detik",
-   "x": "Korea Utara diduga menggunakan sistem pencucian otomatis yang canggih untuk mengalirkan dana hasil peretasan Binance. Sebagian besar dana curian masih dalam proses pelacakan oleh regulator.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-02T18:46:03"
   },
   {
    "id": 8273,
