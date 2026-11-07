@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "2 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T20:36:03"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg",
-   "a": "11 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T11:26:30"
@@ -158,18 +158,18 @@
    "published_at": "2026-11-04T09:15:55"
   },
   {
-   "id": 8338,
+   "id": 8512,
    "k": "defi",
    "cat": "DeFi",
-   "t": "2 Alasan CEO Custodia Menilai Peretasan Binance Senilai US$6 Miliar Mengubah Aset Kripto",
-   "x": "FBI menyalahkan Korea Utara atas peretasan Binance senilai $6 miliar. CEO Custodia, Caitlin Long, memberikan 2 alasan mengapa hal ini mengubah aset kripto.",
+   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
+   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/custodia-ceo-binance-hack-mengubah-crypto",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
+   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-03T23:00:00"
+   "published_at": "2026-11-05T11:40:57"
   },
   {
    "id": 8375,
@@ -194,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News.jpg",
-   "a": "8 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T15:00:00"
@@ -214,18 +214,18 @@
    "published_at": "2026-11-04T17:59:09"
   },
   {
-   "id": 8512,
+   "id": 8361,
    "k": "defi",
    "cat": "DeFi",
-   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
-   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
+   "t": "Teng dari Binance Bilang Industri Harus Belajar dari Peretasan: Apakah Fitur Baru Aset Kripto Menambah Risiko?",
+   "x": "Co-CEO Binance Teng mengatakan industri harus belajar dari peretasan Binance. Lihat apakah fitur aset kripto baru meningkatkan risiko.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
-   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-05T11:40:57"
+   "published_at": "2026-11-04T02:35:00"
   },
   {
    "id": 8418,
@@ -240,20 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-04T07:00:52"
-  },
-  {
-   "id": 8361,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Teng dari Binance Bilang Industri Harus Belajar dari Peretasan: Apakah Fitur Baru Aset Kripto Menambah Risiko?",
-   "x": "Co-CEO Binance Teng mengatakan industri harus belajar dari peretasan Binance. Lihat apakah fitur aset kripto baru meningkatkan risiko.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/binance-hack-teng-katakan-industri-belajar",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-04T02:35:00"
   }
  ]
 }
