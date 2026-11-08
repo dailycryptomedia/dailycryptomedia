@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -74,18 +74,18 @@
    "published_at": "2026-11-06T11:26:30"
   },
   {
-   "id": 8512,
+   "id": 8723,
    "k": "defi",
    "cat": "DeFi",
-   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
-   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
+   "t": "Mengapa US Dollar Melemah? Pemilu Paruh Waktu, Yield, dan Ujian Ekonomi Penting",
+   "x": "Mengapa dolar AS turun? Lihat bagaimana pemilu paruh waktu, yield yang lebih rendah, dan spekulasi The Fed mendorong DXY ke support penting di 101.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
-   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/mengapa-dolar-as-turun-dxy",
+   "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-05T11:40:57"
+   "published_at": "2026-11-08T01:50:49"
   },
   {
    "id": 8695,
@@ -96,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peretasan-bank-prancis-bikin-geger-duit-us112-juta-raib-dan-jejaknya-menyebar-ke-526-wallet-kripto",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T03:30:19"
@@ -128,6 +128,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T19:16:03"
+  },
+  {
+   "id": 8512,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
+   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
+   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-05T11:40:57"
   }
  ]
 }

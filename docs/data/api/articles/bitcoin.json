@@ -1,5 +1,5 @@
 {
- "total": 56,
+ "total": 54,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-bitcoin-makanan-ringan-saham-nvidia",
    "img": "https://assets.beincrypto.com/img/MoGXgIBSbqenvCFFrGke4PErzlg=/smart/bddb1653729440c488c595b8375a6273",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-07T15:31:10"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ansem-zcash-kelemahan-harga-bitcoin",
    "img": "https://assets.beincrypto.com/img/RNyzI5S1Q77igskV9cQHskwFUuY=/smart/794f505582034323a39a33ce4ef7f9e5",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-07T15:23:55"
@@ -124,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/maling-bitcoin-bisa-dirampok-balik-developer-ini-usulkan-ranjau-untuk-hacker-quantum",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T02:30:54"
@@ -180,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kripto-likuidasi-wall-street-crash-trader-kehilangan-miliar",
    "img": "https://assets.beincrypto.com/img/i_gUoU-wbVJNbCYD6MMD5X4oyhE=/smart/857eb4545193479498c19b298b643763",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T02:00:00"
@@ -208,7 +208,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-dan-sp-500-kian-lengket-apakah-btc-mulai-kehilangan-keunikannya",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T02:30:25"
@@ -250,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T13:30:00"
@@ -278,24 +278,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-labor-cost-lens.webp",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T18:15:46"
   },
   {
-   "id": 8463,
+   "id": 8728,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Mengapa soft fork Bitcoin berikutnya bisa terasa seperti latihan",
-   "x": "Perbaikan empat bug warisan pada Bitcoin dinilai penting untuk membangun kembali memori otot dalam pemeliharaan jaringan. Hal ini dipandang sebagai persiapan sebelum pembaruan yang lebih signifikan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
-   "a": "3 hari lalu",
+   "t": "Dominasi whale Bitcoin di Binance tertinggi sejak 2017",
+   "x": "Pergerakan whale Bitcoin di bursa Binance mencapai rasio tertinggi sejak 2017, mengindikasikan konsentrasi aset pada segelintir pihak. Hal ini terjadi bersamaan dengan arus keluar dana dari ETF Bitcoin.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/whale-bitcoin-mendominasi-binance-rasionya-tertinggi-sejak-2017",
+   "img": null,
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T22:46:03"
+   "published_at": "2026-11-08T02:30:36"
+  },
+  {
+   "id": 8649,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Rp3,1 Miliar Kripto Curian Binance Belum Dicuci: Elliptic",
+   "x": "Pelaku kejahatan menggunakan ribuan dompet di berbagai blockchain untuk mencuri aset digital. Sebagian besar dana curian, termasuk ETH dan Bitcoin, belum dipindahkan oleh peretas.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T14:04:18"
   },
   {
    "id": 8627,
@@ -320,7 +334,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T00:19:49"
@@ -334,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitcoin-quantum-hacker-menjebak-wallet-lama",
    "img": "https://assets.beincrypto.com/img/Gjub1QE848DBQrEyby-vJSzUfWg=/smart/48f87364f5304db09926cffdf352473e",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-07T13:01:51"
@@ -348,24 +362,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-realized-losses.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T00:40:34"
   },
   {
-   "id": 8649,
+   "id": 8564,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Rp3,1 Miliar Kripto Curian Binance Belum Dicuci: Elliptic",
-   "x": "Pelaku kejahatan menggunakan ribuan dompet di berbagai blockchain untuk mencuri aset digital. Sebagian besar dana curian, termasuk ETH dan Bitcoin, belum dipindahkan oleh peretas.",
+   "t": "Perusahaan penambangan Bitcoin dukungan Trump catat laba",
+   "x": "Perusahaan penambangan aset kripto yang didukung Donald Trump berhasil membalikkan kerugian kuartal sebelumnya menjadi keuntungan. Kenaikan harga Bitcoin menjadi pendorong utama lonjakan nilai aset digital yang mereka pegang.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T14:04:18"
+   "published_at": "2026-11-05T18:25:31"
   },
   {
    "id": 8550,
@@ -382,18 +396,18 @@
    "published_at": "2026-11-05T20:11:02"
   },
   {
-   "id": 8449,
+   "id": 8568,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pendiri BitMart sebut tim keamanan 'kekurangan staf' pasca peretasan baru",
-   "x": "Pendiri bursa kripto BitMart mengakui kekurangan staf keamanan di tengah restrukturisasi. Hal ini terjadi setelah analisis mendeteksi transfer mencurigakan yang mungkin terkait dengan peretasan Mercado Bitcoin.",
+   "t": "Laba American Bitcoin $126 juta tertutupi tekanan mining, rival beralih ke AI",
+   "x": "Perusahaan penambang Bitcoin American Bitcoin melaporkan laba bersih $126 juta, sebagian besar dari keuntungan aset digital. Namun, tekanan biaya mining dan persaingan dengan bisnis AI menjadi tantangan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T22:31:58"
+   "published_at": "2026-11-05T22:43:18"
   },
   {
    "id": 8473,
@@ -424,18 +438,18 @@
    "published_at": "2026-11-06T15:30:30"
   },
   {
-   "id": 8564,
+   "id": 8651,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Perusahaan penambangan Bitcoin dukungan Trump catat laba",
-   "x": "Perusahaan penambangan aset kripto yang didukung Donald Trump berhasil membalikkan kerugian kuartal sebelumnya menjadi keuntungan. Kenaikan harga Bitcoin menjadi pendorong utama lonjakan nilai aset digital yang mereka pegang.",
+   "t": "Bitcoin Hapus Reli Pemilu Seiring Saham AI Anjlok",
+   "x": "Saham-saham yang terkait dengan kecerdasan buatan (AI) mengalami penurunan tajam dan menjadi rekor terburuk. Aset kripto juga tidak luput dari dampak pelemahan pasar ini.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T18:25:31"
+   "published_at": "2026-11-06T13:29:20"
   },
   {
    "id": 8714,
@@ -446,24 +460,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T16:46:02"
   },
   {
-   "id": 8568,
+   "id": 8663,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Laba American Bitcoin $126 juta tertutupi tekanan mining, rival beralih ke AI",
-   "x": "Perusahaan penambang Bitcoin American Bitcoin melaporkan laba bersih $126 juta, sebagian besar dari keuntungan aset digital. Namun, tekanan biaya mining dan persaingan dengan bisnis AI menjadi tantangan.",
+   "t": "Strive beli 15.124 Bitcoin Oktober, dekati pemegang treasury teratas",
+   "x": "Perusahaan treasury Bitcoin Strive melaporkan laba bersih kuartal ketiga sebesar $509 juta dan membeli 15.124 BTC pada Oktober.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T22:43:18"
+   "published_at": "2026-11-06T18:22:42"
   },
   {
    "id": 8711,
@@ -474,7 +488,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/debat-bank-bitcoin-microstrategy",
    "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-07T16:30:40"
@@ -494,18 +508,18 @@
    "published_at": "2026-11-05T14:10:06"
   },
   {
-   "id": 8651,
+   "id": 8680,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Hapus Reli Pemilu Seiring Saham AI Anjlok",
-   "x": "Saham-saham yang terkait dengan kecerdasan buatan (AI) mengalami penurunan tajam dan menjadi rekor terburuk. Aset kripto juga tidak luput dari dampak pelemahan pasar ini.",
+   "t": "ETF Bitcoin alami arus keluar $430 juta seiring aksi jual saham teknologi",
+   "x": "Fidelity dan BlackRock memimpin penarikan dana ETF Bitcoin pada Kamis, saat aksi jual saham teknologi mengguncang aset berisiko.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+   "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T13:29:20"
+   "published_at": "2026-11-06T18:36:03"
   },
   {
    "id": 8629,
@@ -522,18 +536,18 @@
    "published_at": "2026-11-06T13:40:22"
   },
   {
-   "id": 8663,
+   "id": 8592,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strive beli 15.124 Bitcoin Oktober, dekati pemegang treasury teratas",
-   "x": "Perusahaan treasury Bitcoin Strive melaporkan laba bersih kuartal ketiga sebesar $509 juta dan membeli 15.124 BTC pada Oktober.",
+   "t": "ETF Bitcoin, Ether catat aliran keluar US$530 juta seiring menguapnya keuntungan pemilu",
+   "x": "Investor menarik dana signifikan dari ETF Bitcoin dan Ether spot AS, menandakan sentimen pasar yang berhati-hati. Penurunan ini terjadi bersamaan dengan anjloknya pasar saham AS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
+   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T18:22:42"
+   "published_at": "2026-11-06T08:19:18"
   },
   {
    "id": 8638,
@@ -558,24 +572,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-traders-could-mistake-this-binance-data-change-for-a-rush-to-sell",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-balance-evidence.webp",
-   "a": "6 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T17:10:30"
   },
   {
-   "id": 8680,
+   "id": 8528,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "ETF Bitcoin alami arus keluar $430 juta seiring aksi jual saham teknologi",
-   "x": "Fidelity dan BlackRock memimpin penarikan dana ETF Bitcoin pada Kamis, saat aksi jual saham teknologi mengguncang aset berisiko.",
+   "t": "Pria Kanada diekstradisi ke AS terkait plot bobol superkomputer universitas",
+   "x": "Seorang warga Kanada diekstradisi ke Amerika Serikat atas tuduhan membobol superkomputer universitas untuk menambang aset kripto. Pelaku diduga mencuri kredensial akses dan menjalankan operasi penambangan secara diam-diam.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T18:36:03"
+   "published_at": "2026-11-05T12:00:01"
   },
   {
    "id": 8606,
@@ -592,18 +606,18 @@
    "published_at": "2026-11-06T04:29:14"
   },
   {
-   "id": 8448,
+   "id": 8503,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Mercado Bitcoin buka kembali bertahap mulai Senin, akan tutupi kerugian",
-   "x": "Mercado Bitcoin akan memulai pembukaan kembali secara bertahap pada Senin, dimulai dengan memungkinkan nasabah melihat aset mereka. Penarikan dan perdagangan masih ditangguhkan sambil menunggu pemeriksaan keamanan.",
+   "t": "Bitcoin ungguli S&P 500 pulih, sejarah pasca-pemilu paruh waktu dukung saham",
+   "x": "Kinerja Bitcoin mengungguli S&P 500 dalam separuh sesi perdagangan terakhir di AS. Data historis menunjukkan tren positif untuk pasar saham setelah pemilu sela.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NHVT2Y3ZSYPXGPS15XJ5BN/hi-japan-ipo-stocks-explained2-960x644-960x644.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-04T23:20:17"
+   "published_at": "2026-11-05T10:28:26"
   },
   {
    "id": 8476,
@@ -614,7 +628,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/laba-american-bitcoin-q3",
    "img": "https://assets.beincrypto.com/img/tSTL3xT7Ef-jN3Z58f6v9W-4-xo=/smart/fd918642b70847a1905f96dd3d3a6f50",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T03:06:30"
@@ -634,32 +648,18 @@
    "published_at": "2026-11-06T14:30:41"
   },
   {
-   "id": 8528,
+   "id": 8506,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Pria Kanada diekstradisi ke AS terkait plot bobol superkomputer universitas",
-   "x": "Seorang warga Kanada diekstradisi ke Amerika Serikat atas tuduhan membobol superkomputer universitas untuk menambang aset kripto. Pelaku diduga mencuri kredensial akses dan menjalankan operasi penambangan secara diam-diam.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+   "t": "ETF Bitcoin dan Ether tarik $128 juta saat kripto rebound pasca pemilu sela",
+   "x": "Produk Exchange-Traded Fund (ETF) aset kripto mencatat aliran dana masuk signifikan setelah pemilu sela di AS. Fidelity memimpin penarikan dana masuk ETF Bitcoin, sementara ETF BlackRock mengalami arus keluar dana.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T12:00:01"
-  },
-  {
-   "id": 8592,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin, Ether catat aliran keluar US$530 juta seiring menguapnya keuntungan pemilu",
-   "x": "Investor menarik dana signifikan dari ETF Bitcoin dan Ether spot AS, menandakan sentimen pasar yang berhati-hati. Penurunan ini terjadi bersamaan dengan anjloknya pasar saham AS.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T08:19:18"
+   "published_at": "2026-11-05T08:22:30"
   },
   {
    "id": 8600,
@@ -690,20 +690,6 @@
    "published_at": "2026-11-05T18:50:46"
   },
   {
-   "id": 8503,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin ungguli S&P 500 pulih, sejarah pasca-pemilu paruh waktu dukung saham",
-   "x": "Kinerja Bitcoin mengungguli S&P 500 dalam separuh sesi perdagangan terakhir di AS. Data historis menunjukkan tren positif untuk pasar saham setelah pemilu sela.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NHVT2Y3ZSYPXGPS15XJ5BN/hi-japan-ipo-stocks-explained2-960x644-960x644.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T10:28:26"
-  },
-  {
    "id": 8481,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -712,7 +698,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/altcoin-meme-trump-rekor-terendah-pemilu-paruh-waktu",
    "img": "https://assets.beincrypto.com/img/wLORznaEKSMZskQJ_q1_76W9pyI=/smart/07501917facb4af18ff6b3be88696281",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T01:41:16"
@@ -730,20 +716,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T18:30:02"
-  },
-  {
-   "id": 8506,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin dan Ether tarik $128 juta saat kripto rebound pasca pemilu sela",
-   "x": "Produk Exchange-Traded Fund (ETF) aset kripto mencatat aliran dana masuk signifikan setelah pemilu sela di AS. Fidelity memimpin penarikan dana masuk ETF Bitcoin, sementara ETF BlackRock mengalami arus keluar dana.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T08:22:30"
   },
   {
    "id": 8475,
