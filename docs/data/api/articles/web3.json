@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
-   "a": "1 jam lalu",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T15:52:17"
+  },
+  {
+   "id": 8752,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Masalah pemulihan dompet kripto yang diretas: pencuri mungkin masih punya kunci",
+   "x": "Cadangan Keplr yang terdokumentasi dapat mengurangi ketergantungan login, tetapi tidak dapat memastikan kunci yang terekspos aman. Hal ini menyoroti risiko keamanan yang melekat dalam pengelolaan kunci privat aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-08T19:30:55"
   },
   {
    "id": 8736,
@@ -26,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/keplr-wallet-hack-google-apple-login-user",
    "img": "https://assets.beincrypto.com/img/ka3mRH1xQ-tZpVfpiVaSAldjfGM=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "3 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T13:34:17"
@@ -60,20 +74,6 @@
    "published_at": "2026-11-06T09:00:49"
   },
   {
-   "id": 8526,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Stablecoin makin umum, Samsung Wallet dukung USDC di Solana",
-   "x": "Samsung Wallet kini mendukung USDC di Solana, memungkinkan pengguna Galaxy AS mengelola stablecoin tanpa aplikasi terpisah. Adopsi ini menandakan integrasi aset digital ke dalam dompet elektronik utama.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T13:01:02"
-  },
-  {
    "id": 8675,
    "k": "web3",
    "cat": "Web3",
@@ -82,38 +82,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/reth-shared-mechanical-backbone.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T18:40:30"
   },
   {
-   "id": 8520,
+   "id": 8659,
    "k": "web3",
    "cat": "Web3",
-   "t": "Samsung Wallet luncurkan akun USDC di Solana untuk pengguna Galaxy AS",
-   "x": "Samsung Wallet kini menawarkan akun stablecoin USDC di Solana bagi pengguna Galaxy AS yang memenuhi syarat. Fitur ini menyederhanakan akses dan penggunaan aset kripto melalui dompet ponsel.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-13.37.35.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T14:19:51"
-  },
-  {
-   "id": 8500,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bisakah jaringan telepon terdesentralisasi memberdayakan revolusi AI?",
-   "x": "Jaringan AI terdesentralisasi berupaya mengubah ponsel menjadi infrastruktur komputasi alternatif. Namun, para skeptis meragukan kelayakan dan skalabilitas solusi ini dibandingkan pusat data tradisional.",
+   "t": "Pelanggaran Gnosis Pay ungkap detail kartu, data pribadi, dan info wallet",
+   "x": "Penyedia kartu debit kripto ini menyatakan dana pelanggan tetap aman meskipun terjadi kebocoran informasi finansial dan pribadi yang sensitif.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-05T13:30:00"
+   "published_at": "2026-11-06T20:51:23"
   },
   {
    "id": 8693,
@@ -138,24 +124,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/india-warns-ai-assisted-hackers-are-stealing-crypto-wallet-keys",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/india-bank-monitoring-gaps.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T17:30:59"
-  },
-  {
-   "id": 8659,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pelanggaran Gnosis Pay ungkap detail kartu, data pribadi, dan info wallet",
-   "x": "Penyedia kartu debit kripto ini menyatakan dana pelanggan tetap aman meskipun terjadi kebocoran informasi finansial dan pribadi yang sensitif.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T20:51:23"
   },
   {
    "id": 8696,

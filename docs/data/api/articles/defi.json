@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,20 +18,6 @@
    "published_at": "2026-11-05T22:00:00"
   },
   {
-   "id": 8517,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "ETF Injective Canary debut di Nasdaq dengan eksposur imbal hasil staking",
-   "x": "Canary Capital meluncurkan ETF Staked INJ di Nasdaq, memberikan investor eksposur terhadap token INJ Injective. ETF ini juga mencerminkan imbal hasil staking dalam Nilai Aset Bersih (NAV).",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/injective_logo_1920x1080.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T16:53:56"
-  },
-  {
    "id": 8677,
    "k": "defi",
    "cat": "DeFi",
@@ -40,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T20:36:03"
@@ -58,6 +44,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T03:30:19"
+  },
+  {
+   "id": 8628,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Aave Labs Akuisisi Tim Avon untuk Dorong Pinjaman Suku Bunga Tetap",
+   "x": "Aave Labs mengakuisisi tim dan teknologi Avon, sebuah protokol pinjaman on-chain. Akuisisi ini bertujuan untuk memperkuat penawaran pinjaman dengan suku bunga tetap dan mengambang.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T15:00:00"
   },
   {
    "id": 8624,
@@ -82,24 +82,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-dolar-as-turun-dxy",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T01:50:49"
-  },
-  {
-   "id": 8628,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aave Labs Akuisisi Tim Avon untuk Dorong Pinjaman Suku Bunga Tetap",
-   "x": "Aave Labs mengakuisisi tim dan teknologi Avon, sebuah protokol pinjaman on-chain. Akuisisi ini bertujuan untuk memperkuat penawaran pinjaman dengan suku bunga tetap dan mengambang.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/08/20240819_Aave_News.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T15:00:00"
   },
   {
    "id": 8563,
@@ -110,24 +96,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T19:16:03"
-  },
-  {
-   "id": 8512,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "TRM Labs: KYC untuk Agen AI Harus Dimulai Dengan Manusia di Baliknya",
-   "x": "Hacker Korea Utara mencuri sekitar US$6,3 miliar dari Binance pekan lalu setelah menipu karyawan melalui wawancara kerja palsu. Mereka bahkan mengeksploitasi alat AI internal. Mayoritas dana langsung raib hanya dalam…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ai-agents-uang-liabilitas-trm-labs",
-   "img": "https://assets.beincrypto.com/img/UwRodLih0TVVJAOfQseN7p9PSB0=/smart/22f3f257e5464f61862610710a827fa9",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-05T11:40:57"
   }
  ]
 }
