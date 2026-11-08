@@ -1,8 +1,36 @@
 {
- "total": 10,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 8743,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Vitalik Buterin: ETH harus dinilai sebagai penyimpan nilai, bukan token pembakar biaya",
+   "x": "Vitalik Buterin berpendapat Ethereum (ETH) lebih tepat dinilai sebagai penyimpan nilai daripada aset yang fokus pada pembakaran biaya transaksi. Pendapat ini muncul setelah proposal pembakaran imbal hasil validator ditarik karena mendapat penolakan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-08T15:52:17"
+  },
+  {
+   "id": 8736,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Keplr Wallet Kena Hack untuk Pengguna Login Google dan Apple",
+   "x": "Peretasan wallet Keplr menimpa pengguna yang masuk menggunakan Google atau Apple. Web3Auth menyatakan beberapa alamat yang telah ditandai menyimpan dana yang diamankan untuk pengguna tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/keplr-wallet-hack-google-apple-login-user",
+   "img": "https://assets.beincrypto.com/img/ka3mRH1xQ-tZpVfpiVaSAldjfGM=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-08T13:34:17"
+  },
   {
    "id": 8589,
    "k": "web3",
@@ -40,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T13:01:02"
@@ -68,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-13.37.35.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T14:19:51"
@@ -82,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-05T13:30:00"
