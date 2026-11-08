@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,20 +16,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-05T22:00:00"
-  },
-  {
-   "id": 8491,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Grayscale ungkap dampak tak terduga peretasan Binance bagi kripto",
-   "x": "Peretasan Binance senilai US$6 miliar justru dilihat Grayscale sebagai pendorong penguatan keamanan dan perubahan cara investor menyimpan aset digital. Hal ini berpotensi meningkatkan kepercayaan pada ekosistem kripto secara keseluruhan.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/grayscale-ungkap-dampak-tak-terduga-peretasan-binance-bagi-kripto",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T08:00:07"
   },
   {
    "id": 8517,
@@ -60,6 +46,20 @@
    "published_at": "2026-11-06T20:36:03"
   },
   {
+   "id": 8695,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretasan bank Prancis, US$112 juta raib ke 526 wallet kripto",
+   "x": "Peretasan terhadap bank Prancis Crédit Mutuel Arkéa mengakibatkan hilangnya US$126 juta yang tersebar ke 526 wallet kripto. Investigasi mengungkap jejak dana yang dicuri, menyoroti risiko keamanan aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/peretasan-bank-prancis-bikin-geger-duit-us112-juta-raib-dan-jejaknya-menyebar-ke-526-wallet-kripto",
+   "img": null,
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-07T03:30:19"
+  },
+  {
    "id": 8624,
    "k": "defi",
    "cat": "DeFi",
@@ -82,24 +82,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-dolar-as-turun-dxy",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "2 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T01:50:49"
-  },
-  {
-   "id": 8695,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan bank Prancis, US$112 juta raib ke 526 wallet kripto",
-   "x": "Peretasan terhadap bank Prancis Crédit Mutuel Arkéa mengakibatkan hilangnya US$126 juta yang tersebar ke 526 wallet kripto. Investigasi mengungkap jejak dana yang dicuri, menyoroti risiko keamanan aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/peretasan-bank-prancis-bikin-geger-duit-us112-juta-raib-dan-jejaknya-menyebar-ke-526-wallet-kripto",
-   "img": null,
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-07T03:30:19"
   },
   {
    "id": 8628,
