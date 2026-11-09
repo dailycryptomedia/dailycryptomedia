@@ -1,21 +1,21 @@
 {
- "total": 7,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 8543,
+   "id": 8723,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Kripto Punya Musuh Baru setelah Peretasan Binance, Michael Saylor Peringatkan",
-   "x": "Michael Saylor memperingatkan bahwa hacker AI akan menargetkan software exchange yang lemah setelah peretasan Binance senilai $6,3 miliar. Lihat siapa saja yang terekspos.",
+   "t": "Mengapa US Dollar Melemah? Pemilu Paruh Waktu, Yield, dan Ujian Ekonomi Penting",
+   "x": "Mengapa dolar AS turun? Lihat bagaimana pemilu paruh waktu, yield yang lebih rendah, dan spekulasi The Fed mendorong DXY ke support penting di 101.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/michael-saylor-ai-hacker-binance-hack",
-   "img": "https://assets.beincrypto.com/img/XNxfVZcUaLebxpFM2O9hxmx_M4M=/smart/4d307fa4bdaf456e99079af6991eb90f",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/mengapa-dolar-as-turun-dxy",
+   "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-05T22:00:00"
+   "published_at": "2026-11-08T01:50:49"
   },
   {
    "id": 8677,
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T20:36:03"
+  },
+  {
+   "id": 8761,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "XRP berpotensi naik dua kali lipat, strategi imbal hasil ini tertinggal jauh",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-exposure-aperture.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-08T21:30:38"
   },
   {
    "id": 8695,
@@ -72,34 +86,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T11:26:30"
-  },
-  {
-   "id": 8723,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Mengapa US Dollar Melemah? Pemilu Paruh Waktu, Yield, dan Ujian Ekonomi Penting",
-   "x": "Mengapa dolar AS turun? Lihat bagaimana pemilu paruh waktu, yield yang lebih rendah, dan spekulasi The Fed mendorong DXY ke support penting di 101.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/mengapa-dolar-as-turun-dxy",
-   "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "19 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-08T01:50:49"
-  },
-  {
-   "id": 8563,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "OpenAI temukan 948 celah keamanan Linux dan cara mengeksploitasinya",
-   "x": "Sistem AI OpenAI berhasil menemukan ribuan celah keamanan pada sistem operasi Linux dan bahkan merancang cara untuk mengeksploitasinya. Hal ini menimbulkan kekhawatiran tentang potensi penyalahgunaan teknologi AI untuk meretas perangkat lunak penting.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-05T19:16:03"
   }
  ]
 }
