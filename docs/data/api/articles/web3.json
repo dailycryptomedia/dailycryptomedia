@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
-   "a": "8 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T15:52:17"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T19:30:55"
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/keplr-wallet-hack-google-apple-login-user",
    "img": "https://assets.beincrypto.com/img/ka3mRH1xQ-tZpVfpiVaSAldjfGM=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "10 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T13:34:17"
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T09:00:49"
+  },
+  {
+   "id": 8774,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apa itu Zcash (ZEC)? Cara kerja transaksi terenkripsi",
+   "x": "Zcash adalah aset kripto yang berfokus pada privasi dengan transaksi terenkripsi menggunakan teknologi zk-SNARKs. Fitur ini memungkinkan verifikasi pembayaran tanpa mengungkapkan detail pengirim, penerima, atau jumlah.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/zcash-glyph-16x9-1.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-09T02:36:01"
   },
   {
    "id": 8675,
@@ -110,7 +124,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/certik-ungkap-ancaman-baru-hacker-bisa-bobol-wallet-kripto-di-iphone",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T07:00:34"
@@ -124,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/kripto-sqd-berpotensi-jadi-hidden-gem-gandeng-google-cloud-valuasi-baru-us23-juta",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T03:00:45"
