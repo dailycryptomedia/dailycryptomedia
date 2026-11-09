@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
-   "a": "15 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T15:52:17"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
-   "a": "12 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T19:30:55"
@@ -40,38 +40,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/keplr-wallet-hack-google-apple-login-user",
    "img": "https://assets.beincrypto.com/img/ka3mRH1xQ-tZpVfpiVaSAldjfGM=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T13:34:17"
   },
   {
-   "id": 8589,
+   "id": 8693,
    "k": "web3",
    "cat": "Web3",
-   "t": "Peretasan Binance senilai $6,3 miliar menimbulkan pertanyaan soal keamanan dompet panas",
-   "x": "Peretasan besar Binance memunculkan keraguan tentang keamanan aset digital. Analis mempertanyakan kontrol internal bursa dalam melindungi dana pengguna dari ancaman siber.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T10:40:57"
-  },
-  {
-   "id": 8613,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Blockchainmedia.id bergabung dengan jaringan media partner PR Newswire Asia",
-   "x": "Bergabungnya Blockchainmedia.id dengan PR Newswire Asia membuka akses ke informasi global dan peluang kolaborasi internasional bagi media aset kripto Indonesia.",
+   "t": "CertiK ungkap ancaman baru, hacker bisa bobol wallet kripto di iPhone",
+   "x": "Malware DarkSword dilaporkan dapat membobol iPhone melalui Safari dan iklan Instagram tanpa interaksi pengguna. Ancaman ini membahayakan keamanan wallet kripto pengguna perangkat Apple.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/blockchainmedia-id-resmi-bergabung-dengan-jaringan-media-partner-pr-newswire-asia",
+   "url": "https://blockchainmedia.id/certik-ungkap-ancaman-baru-hacker-bisa-bobol-wallet-kripto-di-iphone",
    "img": null,
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-06T09:00:49"
+   "published_at": "2026-11-07T07:00:34"
+  },
+  {
+   "id": 8659,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pelanggaran Gnosis Pay ungkap detail kartu, data pribadi, dan info wallet",
+   "x": "Penyedia kartu debit kripto ini menyatakan dana pelanggan tetap aman meskipun terjadi kebocoran informasi finansial dan pribadi yang sensitif.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-06T20:51:23"
   },
   {
    "id": 8774,
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/zcash-glyph-16x9-1.png",
-   "a": "4 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T02:36:01"
@@ -100,34 +100,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T18:40:30"
-  },
-  {
-   "id": 8659,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pelanggaran Gnosis Pay ungkap detail kartu, data pribadi, dan info wallet",
-   "x": "Penyedia kartu debit kripto ini menyatakan dana pelanggan tetap aman meskipun terjadi kebocoran informasi finansial dan pribadi yang sensitif.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T20:51:23"
-  },
-  {
-   "id": 8693,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CertiK ungkap ancaman baru, hacker bisa bobol wallet kripto di iPhone",
-   "x": "Malware DarkSword dilaporkan dapat membobol iPhone melalui Safari dan iklan Instagram tanpa interaksi pengguna. Ancaman ini membahayakan keamanan wallet kripto pengguna perangkat Apple.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/certik-ungkap-ancaman-baru-hacker-bisa-bobol-wallet-kripto-di-iphone",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-07T07:00:34"
   },
   {
    "id": 8696,

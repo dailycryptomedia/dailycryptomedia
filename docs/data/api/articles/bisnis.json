@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/musk-batalkan-kontrak-pemerintah-spacex-saham",
    "img": "https://assets.beincrypto.com/img/4QJWA7eOPSn9XB4go-bQXEAjzKk=/smart/dae86dbf26c14b04b7c56196848c6d57",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-06T17:10:43"
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/iren-campus-funding-boundary.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T17:30:09"
@@ -40,10 +40,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-06T16:28:58"
+  },
+  {
+   "id": 8804,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Coinbase dan PNC Bank perluas kemitraan untuk pembayaran USDC bagi klien korporat",
+   "x": "PNC Bank menguji coba penerimaan pembayaran menggunakan USDC melalui kemitraan dengan Coinbase. Ini menandai adopsi aset digital untuk transaksi korporat oleh institusi keuangan tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-15.27.46.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-09T16:01:28"
   },
   {
    "id": 8735,
@@ -54,24 +68,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/anthropic-ipo-yang-perlu-diketahui-investor",
    "img": "https://assets.beincrypto.com/img/-dz8nkLT1Wl756y4hbfIKbnumi4=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T14:21:26"
   },
   {
-   "id": 8599,
+   "id": 8813,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Apakah US$1,5 Triliun Terlalu Mahal untuk Anthropic? Beberapa Investor IPO Berpikir Begitu",
-   "x": "Sejumlah calon investor dikabarkan meragukan apakah Anthropic bisa memulai roadshow penawaran umum perdana (IPO) tepat waktu guna melakukan listing pada bulan November. Empat sumber yang mengetahui pembicaraan ini…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/roadshow-ipo-anthropic-keraguan-investor",
-   "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
-   "a": "3 hari lalu",
+   "t": "Robinhood bawa akses IPO AS ke investor ritel Inggris",
+   "x": "Robinhood meluncurkan akses IPO tanpa komisi di Inggris, memungkinkan investor ritel meminta saham dari penawaran umum perdana perusahaan AS. Ini memperluas jangkauan pasar modal AS ke investor internasional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-10.08.56.png",
+   "a": "7 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-06T05:17:01"
+   "translated": true,
+   "published_at": "2026-11-09T10:48:31"
   }
  ]
 }
