@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-dolar-as-turun-dxy",
    "img": "https://assets.beincrypto.com/img/E-IwJb0iFPz7lxPRZOdO8yCqcb8=/smart/06ef52d6b4f04ad98c4a2dc7ff572d09",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-08T01:50:49"
+  },
+  {
+   "id": 8865,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Securitize Sepakati Akuisisi River One untuk Ekspansi ke Pinjaman Beragun Aset",
+   "x": "Securitize akan mengakuisisi River One untuk mendukung pinjaman beragun aset dengan pendanaan stablecoin. Akuisisi ini diharapkan rampung pada kuartal empat 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T07:49:14"
   },
   {
    "id": 8761,
@@ -40,24 +54,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/peretasan-bank-prancis-bikin-geger-duit-us112-juta-raib-dan-jejaknya-menyebar-ke-526-wallet-kripto",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-07T03:30:19"
-  },
-  {
-   "id": 8839,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretas Korut buat memecoin untuk cuci dana dari hack Binance",
-   "x": "Peretas Korea Utara diduga membuat beberapa memecoin baru di jaringan NEAR untuk menyamarkan dana hasil peretasan Binance. Penggunaan liquidity pool mempersulit pelacakan aliran dana antar dompet digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-09T20:26:34"
   },
   {
    "id": 8792,
@@ -68,10 +68,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/korea-utara-elon-musk-meme-coin-binance-hack",
    "img": "https://assets.beincrypto.com/img/5OU1fEBFFaOVZhV_Wmuao9L67x8=/smart/bab2160b8ea149e59cd5e1775df0057b",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-09T16:34:40"
+  },
+  {
+   "id": 8839,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peretas Korut buat memecoin untuk cuci dana dari hack Binance",
+   "x": "Peretas Korea Utara diduga membuat beberapa memecoin baru di jaringan NEAR untuk menyamarkan dana hasil peretasan Binance. Penggunaan liquidity pool mempersulit pelacakan aliran dana antar dompet digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-09T20:26:34"
   },
   {
    "id": 8776,
@@ -82,7 +96,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ada-yang-baru-di-hyperliquid-hari-ini-elysium-siap-bikin-gebrakan",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T03:30:23"

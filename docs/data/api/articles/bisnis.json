@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-11-08T14:21:26"
   },
   {
+   "id": 8889,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "CEO Indodax Buka Suara soal Rencana IPO, Kapan Melantai di Bursa?",
+   "x": "CEO Indodax William Sutanto mengonfirmasi adanya diskusi internal mengenai rencana penawaran umum perdana (IPO). Namun, ia belum memberikan kepastian waktu kapan bursa kripto tersebut akan melantai di bursa.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ceo-indodax-buka-suara-soal-rencana-ipo-kapan-melantai-di-bursa",
+   "img": null,
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T08:00:49"
+  },
+  {
    "id": 8804,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -26,10 +40,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-15.27.46.png",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T16:01:28"
+  },
+  {
+   "id": 8874,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Jim Cramer Sebut Satu Kesepakatan AI yang Tidak Bisa Pulih Tanpanya",
+   "x": "Jim Cramer mengungkap pada hari Senin bahwa pemulihan nyata pada saham artificial intelligence (AI) sangat bergantung pada initial public offering (IPO) Anthropic. Tapi, pada malam harinya, Reuters melaporkan bahwa…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/jim-cramer-saham-ai-anthropic-ipo",
+   "img": "https://assets.beincrypto.com/img/dBCcBrNWIwSnwjsuqdT_8qsIhsw=/smart/ba125d6198354767b4378a38de405963",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-10T04:32:45"
   },
   {
    "id": 8813,
@@ -40,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-10.08.56.png",
-   "a": "14 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T10:48:31"
