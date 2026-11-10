@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T19:30:55"
@@ -60,20 +60,6 @@
    "published_at": "2026-11-07T07:00:34"
   },
   {
-   "id": 8659,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Pelanggaran Gnosis Pay ungkap detail kartu, data pribadi, dan info wallet",
-   "x": "Penyedia kartu debit kripto ini menyatakan dana pelanggan tetap aman meskipun terjadi kebocoran informasi finansial dan pribadi yang sensitif.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T20:51:23"
-  },
-  {
    "id": 8774,
    "k": "web3",
    "cat": "Web3",
@@ -82,24 +68,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/zcash-glyph-16x9-1.png",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T02:36:01"
-  },
-  {
-   "id": 8675,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bug software Ethereum picu perbaikan darurat di jaringan layer-2",
-   "x": "Perbaikan telah dipublikasikan untuk beberapa lini software Ethereum, namun belum ada konfirmasi adopsi operator atau status rute lintas-rantai.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/reth-shared-mechanical-backbone.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T18:40:30"
   },
   {
    "id": 8696,

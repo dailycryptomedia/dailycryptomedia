@@ -1,64 +1,8 @@
 {
- "total": 6,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 8633,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Elon Musk Tawarkan Batalkan Kontrak Pemerintah SpaceX: Apakah Sahamnya Bisa Bertahan Tanpa Kontrak Tersebut?",
-   "x": "Elon Musk menawarkan untuk membatalkan kontrak pemerintah SpaceX saat saham SPCX reli kembali. Lihat berapa banyak pendapatan yang sebenarnya dipertaruhkan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/musk-batalkan-kontrak-pemerintah-spacex-saham",
-   "img": "https://assets.beincrypto.com/img/4QJWA7eOPSn9XB4go-bQXEAjzKk=/smart/dae86dbf26c14b04b7c56196848c6d57",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-06T17:10:43"
-  },
-  {
-   "id": 8652,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pendapatan AI miner IREN tertunda hingga 2027, ekspansi butuh $6 miliar",
-   "x": "Perusahaan penambang Bitcoin IREN menunda target pendapatan AI-nya ke 2027 karena ekspansi yang membutuhkan pendanaan tambahan. Hal ini menunjukkan tantangan dalam skala besar proyek AI di sektor penambangan kripto.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/iren-campus-funding-boundary.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T17:30:09"
-  },
-  {
-   "id": 8648,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Valuasi IPO Anthropic Bisa Turun Setengah Jadi $1T Pasca-Anjloknya Saham AI",
-   "x": "Investor menilai target valuasi $1,5 triliun untuk IPO Anthropic terlalu tinggi akibat penurunan nilai saham perusahaan AI. Pasar prediksi memperkirakan pencatatan saham akan terjadi Desember mendatang.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-06T16:28:58"
-  },
-  {
-   "id": 8804,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Coinbase dan PNC Bank perluas kemitraan untuk pembayaran USDC bagi klien korporat",
-   "x": "PNC Bank menguji coba penerimaan pembayaran menggunakan USDC melalui kemitraan dengan Coinbase. Ini menandai adopsi aset digital untuk transaksi korporat oleh institusi keuangan tradisional.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-15.27.46.png",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-09T16:01:28"
-  },
   {
    "id": 8735,
    "k": "bisnis",
@@ -74,6 +18,20 @@
    "published_at": "2026-11-08T14:21:26"
   },
   {
+   "id": 8804,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Coinbase dan PNC Bank perluas kemitraan untuk pembayaran USDC bagi klien korporat",
+   "x": "PNC Bank menguji coba penerimaan pembayaran menggunakan USDC melalui kemitraan dengan Coinbase. Ini menandai adopsi aset digital untuk transaksi korporat oleh institusi keuangan tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-15.27.46.png",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-09T16:01:28"
+  },
+  {
    "id": 8813,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -82,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-10.08.56.png",
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T10:48:31"
