@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 12,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T17:46:02"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/coinbase_kalshi_editorial_1920x1080.jpg",
-   "a": "2 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T06:19:10"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T21:00:00"
@@ -88,6 +88,48 @@
    "published_at": "2026-11-08T20:30:31"
   },
   {
+   "id": 8932,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Alta raih pendanaan Seri A $47,5 juta untuk bangun blockchain institusi keuangan",
+   "x": "Startup Alta mengumpulkan dana besar untuk mengembangkan solusi blockchain yang menggabungkan privasi dan kepatuhan bagi lembaga keuangan. Ini menandakan minat institusi pada teknologi blockchain.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240729_Funding_News_3.jpg",
+   "a": "52 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T16:19:16"
+  },
+  {
+   "id": 8901,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Coinbase dan Kalshi Dukung Gugatan CFTC atas Futures Saham AS",
+   "x": "Coinbase dan Kalshi bergabung dalam gugatan yang mendukung posisi CFTC mengenai apakah bursa AS dapat mencatatkan futures perpetual untuk saham individu. Kasus ini krusial bagi regulasi derivatif di AS.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T11:44:55"
+  },
+  {
+   "id": 8915,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Inflasi AS melambat, kenaikan suku bunga Desember The Fed masih mungkin",
+   "x": "Data inflasi inti AS menunjukkan perlambatan, menjaga kemungkinan kenaikan suku bunga sebesar setengah poin oleh The Fed pada Desember. Hal ini dapat memengaruhi pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/housing-cost-basket-xray.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T16:09:17"
+  },
+  {
    "id": 8812,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -96,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_2.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T12:30:00"
@@ -110,10 +152,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T19:52:34"
+  },
+  {
+   "id": 8898,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Polandia dukung RUU sanksi, termasuk pembekuan aset kripto",
+   "x": "Parlemen Polandia menyetujui rancangan undang-undang yang memperluas dasar hukum untuk menjatuhkan sanksi, termasuk pembekuan aset digital. RUU ini akan diajukan ke Senat untuk persetujuan akhir.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T13:40:39"
   }
  ]
 }
