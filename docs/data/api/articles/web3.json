@@ -1,5 +1,5 @@
 {
- "total": 6,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-11-08T15:52:17"
   },
   {
+   "id": 8946,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Eksekutif Ava Labs sebut kesepakatan NYSE tandai akhir era 'tujuan umum' blockchain",
+   "x": "Kemitraan Ava Labs dengan NYSE menunjukkan pergeseran institusi dari uji coba ke infrastruktur pasar on-chain yang spesifik. Ini menandakan evolusi adopsi teknologi blockchain di sektor keuangan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T21:07:44"
+  },
+  {
    "id": 8752,
    "k": "web3",
    "cat": "Web3",
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T19:30:55"
@@ -46,20 +60,6 @@
    "published_at": "2026-11-08T13:34:17"
   },
   {
-   "id": 8902,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Binance peringatkan celah iOS bisa ekspos kunci dompet kripto",
-   "x": "Bursa kripto Binance mengingatkan pengguna iPhone tentang potensi celah keamanan pada sistem operasi Apple. Pengguna diminta berhati-hati terhadap aplikasi dari sumber tidak terpercaya untuk melindungi kunci privat dompet aset digital mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg",
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T11:25:57"
-  },
-  {
    "id": 8774,
    "k": "web3",
    "cat": "Web3",
@@ -74,6 +74,20 @@
    "published_at": "2026-11-09T02:36:01"
   },
   {
+   "id": 8902,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Binance peringatkan celah iOS bisa ekspos kunci dompet kripto",
+   "x": "Bursa kripto Binance mengingatkan pengguna iPhone tentang potensi celah keamanan pada sistem operasi Apple. Pengguna diminta berhati-hati terhadap aplikasi dari sumber tidak terpercaya untuk melindungi kunci privat dompet aset digital mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T11:25:57"
+  },
+  {
    "id": 8943,
    "k": "web3",
    "cat": "Web3",
@@ -82,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-09.56.52.png",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T09:30:00"

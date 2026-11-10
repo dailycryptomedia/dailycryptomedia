@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,18 @@
    "published_at": "2026-11-08T01:50:49"
   },
   {
-   "id": 8865,
+   "id": 8945,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Securitize Sepakati Akuisisi River One untuk Ekspansi ke Pinjaman Beragun Aset",
-   "x": "Securitize akan mengakuisisi River One untuk mendukung pinjaman beragun aset dengan pendanaan stablecoin. Akuisisi ini diharapkan rampung pada kuartal empat 2026.",
+   "t": "Across Protocol peringatkan pengguna hindari aplikasi usai laporan dompet terkuras",
+   "x": "Protokol DeFi Across tengah menyelidiki insiden keamanan yang berpotensi memengaruhi domainnya. Beberapa pengguna melaporkan kehilangan dana setelah berinteraksi dengan platform tersebut.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T07:49:14"
+   "published_at": "2026-11-10T21:24:36"
   },
   {
    "id": 8761,
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-exposure-aperture.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-08T21:30:38"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T15:01:02"
@@ -74,6 +74,20 @@
    "published_at": "2026-11-09T03:30:23"
   },
   {
+   "id": 8958,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "TON Strategy raup $13,1 juta dari staking GRAM di Q3 seiring peluncuran dompet Telegram",
+   "x": "TON Strategy melaporkan pendapatan $13,1 juta di kuartal ketiga, sebagian besar dari staking GRAM. Peluncuran dompet native Telegram bertepatan dengan ini, meski perusahaan mencatat kerugian bersih $24 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240506_TON_News_3.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T17:24:44"
+  },
+  {
    "id": 8792,
    "k": "defi",
    "cat": "DeFi",
@@ -88,6 +102,20 @@
    "published_at": "2026-11-09T16:34:40"
   },
   {
+   "id": 8865,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Securitize Sepakati Akuisisi River One untuk Ekspansi ke Pinjaman Beragun Aset",
+   "x": "Securitize akan mengakuisisi River One untuk mendukung pinjaman beragun aset dengan pendanaan stablecoin. Akuisisi ini diharapkan rampung pada kuartal empat 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T07:49:14"
+  },
+  {
    "id": 8839,
    "k": "defi",
    "cat": "DeFi",
@@ -96,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T20:26:34"
