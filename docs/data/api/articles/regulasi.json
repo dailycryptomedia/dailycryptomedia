@@ -1,22 +1,8 @@
 {
- "total": 11,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 8726,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OJK siapkan aturan baru pelaporan pajak kripto lintas negara",
-   "x": "Otoritas Jasa Keuangan (OJK) tengah merancang regulasi baru untuk pelaporan pajak aset kripto. Aturan ini mencakup pertukaran data transaksi lintas negara menggunakan standar CARF, yang berpotensi meningkatkan kepatuhan pajak investor Indonesia.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ojk-siapkan-aturan-baru-pelaporan-pajak-kripto-lintas-negara",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-08T03:30:29"
-  },
   {
    "id": 8816,
    "k": "regulasi",
@@ -46,6 +32,20 @@
    "published_at": "2026-11-08T20:30:31"
   },
   {
+   "id": 8984,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Tindakan penegakan SEC turun 24%, kasus kripto jadi sorotan",
+   "x": "Jumlah tindakan penegakan hukum Komisi Sekuritas dan Bursa AS (SEC) menurun pada tahun fiskal 2026, namun kasus-kasus yang ditangani tetap menyoroti isu-isu di industri aset digital. Penurunan ini bisa mengindikasikan perubahan fokus regulator atau strategi penegakan hukum.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg",
+   "a": "57 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T08:43:30"
+  },
+  {
    "id": 8881,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -54,10 +54,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/coinbase_kalshi_editorial_1920x1080.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T06:19:10"
+  },
+  {
+   "id": 8915,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Inflasi AS melambat, kenaikan suku bunga Desember The Fed masih mungkin",
+   "x": "Data inflasi inti AS menunjukkan perlambatan, menjaga kemungkinan kenaikan suku bunga sebesar setengah poin oleh The Fed pada Desember. Hal ini dapat memengaruhi pasar aset digital.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/housing-cost-basket-xray.webp",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T16:09:17"
   },
   {
    "id": 8838,
@@ -74,20 +88,6 @@
    "published_at": "2026-11-09T21:00:00"
   },
   {
-   "id": 8915,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Inflasi AS melambat, kenaikan suku bunga Desember The Fed masih mungkin",
-   "x": "Data inflasi inti AS menunjukkan perlambatan, menjaga kemungkinan kenaikan suku bunga sebesar setengah poin oleh The Fed pada Desember. Hal ini dapat memengaruhi pasar aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/housing-cost-basket-xray.webp",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T16:09:17"
-  },
-  {
    "id": 8932,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -96,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240729_Funding_News_3.jpg",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T16:19:16"
@@ -110,24 +110,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T11:44:55"
   },
   {
-   "id": 8812,
+   "id": 8989,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Formation akan operasikan bursa sekuritas tokenisasi pertama di Solana",
-   "x": "Formation memberi tahu SEC rencananya untuk mengoperasikan bursa sekuritas tokenisasi pertama di blockchain Solana. Peluncuran dijadwalkan awal 2027 dengan penawaran saham tokenisasi.",
+   "t": "Bitmine laporkan rugi bersih $6,3 miliar, terdorong penurunan ether 44%",
+   "x": "Bitmine melaporkan rugi bersih signifikan yang sebagian besar berasal dari penurunan nilai aset digitalnya. Penurunan nilai ether menjadi pendorong utama kerugian tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_2.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tom-lee-1920-1080.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-09T12:30:00"
+   "published_at": "2026-11-11T06:22:32"
   },
   {
    "id": 8840,
@@ -144,6 +144,20 @@
    "published_at": "2026-11-09T19:52:34"
   },
   {
+   "id": 8812,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Formation akan operasikan bursa sekuritas tokenisasi pertama di Solana",
+   "x": "Formation memberi tahu SEC rencananya untuk mengoperasikan bursa sekuritas tokenisasi pertama di blockchain Solana. Peluncuran dijadwalkan awal 2027 dengan penawaran saham tokenisasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_2.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-09T12:30:00"
+  },
+  {
    "id": 8898,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -152,10 +166,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T13:40:39"
+  },
+  {
+   "id": 8987,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Sekutu kripto Tom Emmer terpilih jadi pemimpin minoritas DPR AS",
+   "x": "Tom Emmer, yang dikenal sebagai pendukung aset kripto, terpilih sebagai pemimpin minoritas Partai Republik di DPR AS. Posisinya penting dalam lobi regulasi kripto di masa depan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74817RJCD4BF6Q6FT0BQTZN/hinew-us-government-crypto2-3.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T03:07:45"
   }
  ]
 }
