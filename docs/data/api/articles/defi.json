@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T21:24:36"
   },
   {
-   "id": 8792,
+   "id": 9029,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Update Peretasan Binance: Korea Utara Gunakan Wajah Elon Musk untuk Mencuci Uang",
-   "x": "Korea Utara menggunakan meme coin Elon Musk untuk mencuci uang hasil peretasan Binance, menurut Elliptic. Lihat cara kerja skema tersebut.",
+   "t": "BitMine Akan Segera Berhenti Membeli ETH. Berikut Asal Koin Barunya",
+   "x": "BitMine mencatat rugi bersih sebesar US$6,3 miliar untuk tahun sampai 31 Agustus, menurut laporan tahunannya. Penurunan yang belum direalisasi dari nilai kepemilikan Ethereum (ETH) mereka menjadi penyebab utamanya…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/korea-utara-elon-musk-meme-coin-binance-hack",
-   "img": "https://assets.beincrypto.com/img/5OU1fEBFFaOVZhV_Wmuao9L67x8=/smart/bab2160b8ea149e59cd5e1775df0057b",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/bitmine-ethereum-rugi-bersih-pendapatan-staking",
+   "img": "https://assets.beincrypto.com/img/ARJ1kU__3erZ3DGOQWOFMfwFbjk=/smart/34a3651617b842a6b0c3f96f0e60935f",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-09T16:34:40"
+   "published_at": "2026-11-11T15:04:49"
+  },
+  {
+   "id": 9039,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Apa itu Solana Privacy Rings? Protokol Privasi Helius untuk Solana",
+   "x": "Solana Privacy Rings memungkinkan enkripsi saldo dan jumlah transfer tanpa meninggalkan blockchain Solana. Protokol ini menawarkan peningkatan privasi bagi pengguna.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png",
+   "a": "29 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T17:09:18"
   },
   {
    "id": 8761,
@@ -46,20 +60,6 @@
    "published_at": "2026-11-08T21:30:38"
   },
   {
-   "id": 8923,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Jupiter Solana Perluas Layanan di Luar Trading dengan Keranjang Token dan Portofolio Baru",
-   "x": "Platform trading Solana ini meluncurkan empat produk baru, termasuk keranjang token dan vault imbal hasil. Langkah ini memperluas penawaran Jupiter melampaui sekadar fasilitasi trading.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T15:01:02"
-  },
-  {
    "id": 8776,
    "k": "defi",
    "cat": "DeFi",
@@ -74,18 +74,18 @@
    "published_at": "2026-11-09T03:30:23"
   },
   {
-   "id": 8958,
+   "id": 9053,
    "k": "defi",
    "cat": "DeFi",
-   "t": "TON Strategy raup $13,1 juta dari staking GRAM di Q3 seiring peluncuran dompet Telegram",
-   "x": "TON Strategy melaporkan pendapatan $13,1 juta di kuartal ketiga, sebagian besar dari staking GRAM. Peluncuran dompet native Telegram bertepatan dengan ini, meski perusahaan mencatat kerugian bersih $24 juta.",
+   "t": "Laser Digital Nomura bantu luncurkan brankas kredit UKM Saudi target $100 juta di BNB Chain",
+   "x": "Nomura melalui Laser Digital mendukung peluncuran brankas kredit swasta tokenisasi untuk UKM Saudi di BNB Chain. Inisiatif ini bertujuan mengumpulkan dana hingga $100 juta, menunjukkan potensi tokenisasi dalam pembiayaan bisnis.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240506_TON_News_3.jpg",
-   "a": "16 jam lalu",
+   "url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-11.56.55.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T17:24:44"
+   "published_at": "2026-11-11T13:35:02"
   },
   {
    "id": 8865,
@@ -102,32 +102,46 @@
    "published_at": "2026-11-10T07:49:14"
   },
   {
-   "id": 8996,
+   "id": 9033,
    "k": "defi",
    "cat": "DeFi",
-   "t": "The Fed dan Reli Utang AI: Di Mana Tekanan Akan Terjadi?",
-   "x": "Ledakan utang AI bertemu dengan kenaikan suku bunga The Fed yang lebih cepat saat imbal hasil melampaui 5%, membuat CoreWeave dan para pesaingnya terpapar pada biaya utang yang lebih tinggi.",
+   "t": "Line CEO CoreWeave yang Jarang Diketahui Bantu Dorong Reli Saham CRWV 15%",
+   "x": "Saham CoreWeave naik 15,6% di pre-market setelah CEO-nya menolak utang tanpa jaminan pada yield saat ini, dengan alasan adanya prabayar sebesar $9 miliar.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/the-fed-kenaikan-taruhan-generative-ai-ledakan-utang",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "4 jam lalu",
+   "url": "https://id.beincrypto.com/coreweave-ceo-utang-tidak-beragunan-reli-saham",
+   "img": "https://assets.beincrypto.com/img/EMfcUFt0Sc0yJXxS7m5JixlNalw=/smart/b5cbb6007d544dc68509c7612fb0b836",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T05:29:40"
+   "published_at": "2026-11-11T13:52:43"
   },
   {
-   "id": 8990,
+   "id": 8923,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Tron Inc catat kenaikan laba bersih 22% di Q3 seiring pertumbuhan pendapatan staking",
-   "x": "Pendapatan bersih Tron Inc naik 22% pada kuartal ketiga, didorong oleh pendapatan staking yang belum terealisasi. Kinerja positif ini menunjukkan pertumbuhan operasional perusahaan di tengah pasar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tron_editorial_1920x1080.jpg",
-   "a": "5 jam lalu",
+   "t": "Jupiter Solana Perluas Layanan di Luar Trading dengan Keranjang Token dan Portofolio Baru",
+   "x": "Platform trading Solana ini meluncurkan empat produk baru, termasuk keranjang token dan vault imbal hasil. Langkah ini memperluas penawaran Jupiter melampaui sekadar fasilitasi trading.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T04:02:02"
+   "published_at": "2026-11-10T15:01:02"
+  },
+  {
+   "id": 8958,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "TON Strategy raup $13,1 juta dari staking GRAM di Q3 seiring peluncuran dompet Telegram",
+   "x": "TON Strategy melaporkan pendapatan $13,1 juta di kuartal ketiga, sebagian besar dari staking GRAM. Peluncuran dompet native Telegram bertepatan dengan ini, meski perusahaan mencatat kerugian bersih $24 juta.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240506_TON_News_3.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T17:24:44"
   },
   {
    "id": 8985,
@@ -138,24 +152,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T05:52:14"
   },
   {
-   "id": 9001,
+   "id": 8792,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Peter Brandt Perkirakan Imbal Hasil 30 Tahun ke 7%. Apakah Bitcoin dan Saham Bisa Bertahan?",
-   "x": "Peter Brandt mengatakan yield 30 tahun bisa mencapai 7%. Lihat apa artinya bagi hipotek, saham, dan harga Bitcoin.",
+   "t": "Update Peretasan Binance: Korea Utara Gunakan Wajah Elon Musk untuk Mencuci Uang",
+   "x": "Korea Utara menggunakan meme coin Elon Musk untuk mencuci uang hasil peretasan Binance, menurut Elliptic. Lihat cara kerja skema tersebut.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/brandt-imbal-hasil-30-tahun-7-persen",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "7 jam lalu",
+   "url": "https://id.beincrypto.com/korea-utara-elon-musk-meme-coin-binance-hack",
+   "img": "https://assets.beincrypto.com/img/5OU1fEBFFaOVZhV_Wmuao9L67x8=/smart/bab2160b8ea149e59cd5e1775df0057b",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T01:45:00"
+   "published_at": "2026-11-09T16:34:40"
+  },
+  {
+   "id": 8990,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tron Inc catat kenaikan laba bersih 22% di Q3 seiring pertumbuhan pendapatan staking",
+   "x": "Pendapatan bersih Tron Inc naik 22% pada kuartal ketiga, didorong oleh pendapatan staking yang belum terealisasi. Kinerja positif ini menunjukkan pertumbuhan operasional perusahaan di tengah pasar aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tron_editorial_1920x1080.jpg",
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T04:02:02"
   },
   {
    "id": 8986,
@@ -166,10 +194,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T04:42:30"
+  },
+  {
+   "id": 8996,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "The Fed dan Reli Utang AI: Di Mana Tekanan Akan Terjadi?",
+   "x": "Ledakan utang AI bertemu dengan kenaikan suku bunga The Fed yang lebih cepat saat imbal hasil melampaui 5%, membuat CoreWeave dan para pesaingnya terpapar pada biaya utang yang lebih tinggi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/the-fed-kenaikan-taruhan-generative-ai-ledakan-utang",
+   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-11T05:29:40"
+  },
+  {
+   "id": 9059,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Protokol lintas-rantai Across pulihkan sistem setelah peretasan domain",
+   "x": "Protokol lintas-rantai Across berhasil memulihkan sistemnya setelah mengalami peretasan domain. Peretas berhasil menguasai domain resmi melalui serangan rekayasa sosial terhadap registrar domain.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_1.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T10:55:24"
   },
   {
    "id": 8839,
@@ -184,6 +240,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T20:26:34"
+  },
+  {
+   "id": 9001,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peter Brandt Perkirakan Imbal Hasil 30 Tahun ke 7%. Apakah Bitcoin dan Saham Bisa Bertahan?",
+   "x": "Peter Brandt mengatakan yield 30 tahun bisa mencapai 7%. Lihat apa artinya bagi hipotek, saham, dan harga Bitcoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/brandt-imbal-hasil-30-tahun-7-persen",
+   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-11T01:45:00"
   }
  ]
 }
