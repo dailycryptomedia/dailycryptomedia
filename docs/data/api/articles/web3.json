@@ -4,32 +4,32 @@
  "offset": 0,
  "articles": [
   {
-   "id": 8946,
+   "id": 9069,
    "k": "web3",
    "cat": "Web3",
-   "t": "Eksekutif Ava Labs sebut kesepakatan NYSE tandai akhir era 'tujuan umum' blockchain",
-   "x": "Kemitraan Ava Labs dengan NYSE menunjukkan pergeseran institusi dari uji coba ke infrastruktur pasar on-chain yang spesifik. Ini menandakan evolusi adopsi teknologi blockchain di sektor keuangan.",
+   "t": "Dompet Suiet akan ditutup, hengkang dari ekosistem Sui",
+   "x": "Dompet aset digital mandiri Suiet akan menghentikan layanan API-nya pada 14 November. Penutupan ini terjadi di tengah penurunan nilai total terkunci (TVL) DeFi di jaringan Sui.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png",
-   "a": "20 jam lalu",
+   "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png",
+   "a": "38 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T21:07:44"
+   "published_at": "2026-11-11T23:18:44"
   },
   {
-   "id": 8752,
+   "id": 9003,
    "k": "web3",
    "cat": "Web3",
-   "t": "Masalah pemulihan dompet kripto yang diretas: pencuri mungkin masih punya kunci",
-   "x": "Cadangan Keplr yang terdokumentasi dapat mengurangi ketergantungan login, tetapi tidak dapat memastikan kunci yang terekspos aman. Hal ini menyoroti risiko keamanan yang melekat dalam pengelolaan kunci privat aset digital.",
+   "t": "Lighthouse rilis patch darurat node Ethereum karena celah keamanan tersembunyi",
+   "x": "Lighthouse mengeluarkan pembaruan darurat untuk node Ethereum guna mengatasi celah keamanan yang tersembunyi. Pembaruan ini krusial untuk menjaga stabilitas dan keamanan jaringan Ethereum, yang menjadi fondasi bagi banyak aplikasi DeFi dan aset digital lainnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/keplr-duplicate-key-risk.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-08T19:30:55"
+   "published_at": "2026-11-11T07:10:08"
   },
   {
    "id": 9010,
@@ -40,7 +40,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/awas-kena-hack-pengguna-iphone-yang-punya-kripto-wajib-baca-ini",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T06:00:58"
@@ -54,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mantan-ceo-cointelegraph-gabung-fase-ai-agent",
    "img": "https://assets.beincrypto.com/img/oNgIcYHHMror7ANBttfd3nBlogM=/smart/d4db749c9b8b4022b131ad6d78d8fc22",
-   "a": "6 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-11T10:39:23"
@@ -82,38 +82,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T10:20:53"
   },
   {
-   "id": 8902,
+   "id": 8946,
    "k": "web3",
    "cat": "Web3",
-   "t": "Binance peringatkan celah iOS bisa ekspos kunci dompet kripto",
-   "x": "Bursa kripto Binance mengingatkan pengguna iPhone tentang potensi celah keamanan pada sistem operasi Apple. Pengguna diminta berhati-hati terhadap aplikasi dari sumber tidak terpercaya untuk melindungi kunci privat dompet aset digital mereka.",
+   "t": "Eksekutif Ava Labs sebut kesepakatan NYSE tandai akhir era 'tujuan umum' blockchain",
+   "x": "Kemitraan Ava Labs dengan NYSE menunjukkan pergeseran institusi dari uji coba ke infrastruktur pasar on-chain yang spesifik. Ini menandakan evolusi adopsi teknologi blockchain di sektor keuangan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg",
+   "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T11:25:57"
-  },
-  {
-   "id": 9003,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Lighthouse rilis patch darurat node Ethereum karena celah keamanan tersembunyi",
-   "x": "Lighthouse mengeluarkan pembaruan darurat untuk node Ethereum guna mengatasi celah keamanan yang tersembunyi. Pembaruan ini krusial untuk menjaga stabilitas dan keamanan jaringan Ethereum, yang menjadi fondasi bagi banyak aplikasi DeFi dan aset digital lainnya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T07:10:08"
+   "published_at": "2026-11-10T21:07:44"
   },
   {
    "id": 8943,
@@ -130,6 +116,20 @@
    "published_at": "2026-11-10T09:30:00"
   },
   {
+   "id": 8902,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Binance peringatkan celah iOS bisa ekspos kunci dompet kripto",
+   "x": "Bursa kripto Binance mengingatkan pengguna iPhone tentang potensi celah keamanan pada sistem operasi Apple. Pengguna diminta berhati-hati terhadap aplikasi dari sumber tidak terpercaya untuk melindungi kunci privat dompet aset digital mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T11:25:57"
+  },
+  {
    "id": 9025,
    "k": "web3",
    "cat": "Web3",
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M756TDR366VS3JF2JKF9Z6HP/bitget-wallet-ai-phishing.png",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T10:00:00"

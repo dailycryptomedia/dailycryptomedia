@@ -1,8 +1,22 @@
 {
- "total": 11,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 9096,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "CoreWeave yang didukung Nvidia melonjak, ini artinya bagi booming AI",
+   "x": "Pendapatan CoreWeave melonjak 168%, mendorong sahamnya dan saham perusahaan AI lainnya. Pertumbuhan ini menunjukkan permintaan tinggi untuk infrastruktur AI, meski biaya pengembangannya sangat besar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/CoreWeave-logo-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T22:36:03"
+  },
   {
    "id": 8889,
    "k": "bisnis",
@@ -32,6 +46,20 @@
    "published_at": "2026-11-10T04:32:45"
   },
   {
+   "id": 9093,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Inggris harus tanya pendiri kripto apa yang membuat mereka bertahan",
+   "x": "Pendiri startup kripto memilih meninggalkan Inggris karena efisiensi operasional dan finansial, terutama terkait konversi pendapatan kripto ke fiat untuk operasional. Hal ini menyoroti tantangan regulasi dan bisnis bagi perusahaan kripto di Inggris.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/britain-crypto-founders-brain-drain",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/britain-founder-listening-cover.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T20:10:49"
+  },
+  {
    "id": 8804,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -54,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T13:02:30"
@@ -86,6 +114,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-10T11:23:19"
+  },
+  {
+   "id": 9094,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "PNC izinkan bisnis terima USDC tanpa menyimpan kripto",
+   "x": "PNC Bank menawarkan solusi bagi klien korporat untuk menerima pembayaran dalam bentuk dolar AS melalui konversi otomatis USDC. Langkah ini mempermudah adopsi aset digital bagi bisnis tanpa perlu mengelola aset kripto secara langsung.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/pnc-lets-businesses-accept-usdc-without-keeping-the-crypto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pnc-usdc-deposit-slot.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T19:30:07"
   },
   {
    "id": 8936,
@@ -124,10 +166,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T12:55:18"
+  },
+  {
+   "id": 9088,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Senator AS soroti potensi konflik etika dari prediksi pasar Trump aide",
+   "x": "Senator Elizabeth Warren meminta penjelasan dari Gedung Putih terkait tuduhan penyalahgunaan informasi oleh operator teleprompter. Hal ini menimbulkan kekhawatiran tentang potensi manipulasi pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T19:48:46"
   },
   {
    "id": 8940,
