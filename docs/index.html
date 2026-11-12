@@ -6,6 +6,18 @@
 <title>Daily Crypto Media — Berita, Data, dan Regulasi Aset Kripto Indonesia</title>
 <meta name="description" content="Portal berita aset kripto Indonesia: harga real-time, analisis pasar, pemantauan regulasi OJK, tokenisasi aset, dan edukasi investor.">
 <meta name="theme-color" content="#071B2F">
+<script>
+/* Terapkan tema sebelum halaman digambar, supaya tidak berkedip. */
+(function(){
+  var t = "terang", s = null;
+  try{ s = localStorage.getItem("dcm-tema"); }catch(e){}
+  if(s==="gelap" || s==="terang") t = s;
+  else if(window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) t = "gelap";
+  document.documentElement.setAttribute("data-tema", t);
+  var m = document.querySelector('meta[name="theme-color"]');
+  if(m) m.setAttribute("content", t==="gelap" ? "#04101C" : "#071B2F");
+})();
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -66,6 +78,31 @@
   --shadow-sm: 0 1px 2px rgba(7,27,47,.06);
   --shadow:    0 6px 22px -10px rgba(7,27,47,.22);
 }
+
+/* ---------- 1b. TEMA GELAP (aktif lewat tombol bulan sabit) ----------
+   Tema terang = token di atas, tidak diubah. Tema gelap hanya menimpa token. */
+:root[data-tema="gelap"]{
+  color-scheme:dark;
+  --ink:#04101C; --ink-2:#0C2540; --ink-3:#163D63;
+  --signal:#4DA3FF; --signal-dk:#1466D8;
+  --paper:#0A1522; --surface:#0F2236;
+  --rule:#1E3D5E; --rule-soft:#173250;
+  --text:#E9F1FA; --text-2:#9DB6D0; --text-3:#7B90A8;
+  --amber-bg:#2A2110; --up-bg:#0E2A21; --down-bg:#2E1717;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.4);
+  --shadow:0 6px 22px -10px rgba(0,0,0,.65);
+}
+:root[data-tema="gelap"] .brand__name{ color:var(--text); }
+:root[data-tema="gelap"] .btn--primary{ background:#1466D8; color:#fff; }
+:root[data-tema="gelap"] .btn--primary:hover{ background:#2B7BEF; }
+:root[data-tema="gelap"] .tab[aria-selected="true"]{ background:#1466D8; border-color:#1466D8; color:#fff; }
+:root[data-tema="gelap"] .shead{ border-bottom-color:var(--rule); }
+:root[data-tema="gelap"] .section--ink .shead{ border-bottom-color:var(--ink-3); }
+:root[data-tema="gelap"] .eyebrow--amber{ color:#E8A33D; }
+:root[data-tema="gelap"] .regstrip{ border-bottom-color:#4A3A1C; }
+:root[data-tema="gelap"] .regstrip__label{ color:#F0C27A; }
+:root[data-tema="gelap"] .regchip{ background:rgba(255,255,255,.06); border-color:#4A3A1C; color:#F0D9A8; }
+:root[data-tema="gelap"] .edu__ic{ background:#12304F; }
 
 /* ---------- 2. DASAR ---------- */
 *,*::before,*::after{ box-sizing:border-box; }
@@ -238,6 +275,16 @@ button{ font:inherit; color:inherit; cursor:pointer; }
 
 .burger{ display:none; width:38px; height:38px; border:1px solid var(--rule); border-radius:var(--r); background:var(--surface); }
 .burger svg{ width:17px; height:17px; margin-inline:auto; }
+
+.theme-btn{
+  display:grid; place-items:center; flex:none; width:42px; padding:0;
+  border:0; border-left:1px solid var(--ink-3); border-radius:0;
+  background:var(--ink-2); color:var(--on-ink); cursor:pointer;
+  transition:color .16s, background .16s;
+}
+.theme-btn:hover{ color:var(--signal-br); background:var(--ink-3); }
+.theme-btn svg{ width:16px; height:16px; fill:none; stroke:currentColor; stroke-width:2.2;
+  stroke-linecap:round; stroke-linejoin:round; }
 
 /* Panel navigasi seluler */
 .mnav{
@@ -678,6 +725,9 @@ button{ font:inherit; color:inherit; cursor:pointer; }
       <div class="rail__track" id="ticker"><!-- diisi oleh JS --></div>
     </div>
     <div class="rail__clock"><span id="clock">--:--:--</span> WIB</div>
+    <button class="theme-btn" id="themeBtn" type="button" aria-label="Ganti ke tema gelap" title="Ganti tema">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+    </button>
   </div>
 </div>
 
@@ -1659,6 +1709,25 @@ document.addEventListener("DOMContentLoaded", () => {
 <script>
   window.DCM_DATA_BASE = "data/api";
   // window.DCM_API_BASE = "http://127.0.0.1:8000";
+</script>
+<script>
+/* Ganti tema terang/gelap (pilihan disimpan di browser pengunjung) */
+(function(){
+  var btn = document.getElementById("themeBtn");
+  if(!btn) return;
+  var akar = document.documentElement;
+  function terapkan(t, simpan){
+    akar.setAttribute("data-tema", t);
+    btn.setAttribute("aria-label", t==="gelap" ? "Ganti ke tema terang" : "Ganti ke tema gelap");
+    var m = document.querySelector('meta[name="theme-color"]');
+    if(m) m.setAttribute("content", t==="gelap" ? "#04101C" : "#071B2F");
+    if(simpan){ try{ localStorage.setItem("dcm-tema", t); }catch(e){} }
+  }
+  terapkan(akar.getAttribute("data-tema") || "terang", false);
+  btn.addEventListener("click", function(){
+    terapkan(akar.getAttribute("data-tema")==="gelap" ? "terang" : "gelap", true);
+  });
+})();
 </script>
 <script src="dcm-live.js"></script>
 
