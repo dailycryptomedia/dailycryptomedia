@@ -673,9 +673,34 @@ button{ font:inherit; color:inherit; cursor:pointer; }
 .disclaimer b{ color:var(--on-ink); }
 
 /* ---------- 15. RESPONSIF ---------- */
-@media (max-width:1260px){
-  .nav__link{ padding:10px 7px; font-size:13px; }
-  .search input{ width:132px; }
+/* Kepala situs di layar laptop: dipadatkan bertahap supaya tidak melebar (tanpa geser ke kanan) */
+@media (max-width:1580px){
+  .masthead__bar{ gap:16px; }
+  .nav__link{ padding:10px 9px; font-size:13.5px; }
+  .masthead__tools{ gap:8px; }
+  .btn{ padding-inline:13px; }
+  /* kolom cari: lebar tetap; saat diklik, melebar ke kiri menutupi menu (tidak mendorong tata letak) */
+  .search{ width:132px; height:38px; z-index:5; }
+  .search input{ position:absolute; top:0; right:0; width:132px; }
+  .search input:focus{ width:240px; }
+  .search svg{ transition:left .2s; }
+  .search:focus-within svg{ left:-97px; }
+}
+@media (max-width:1400px){
+  .nav__link{ padding:10px 7px; font-size:13px; gap:4px; }
+  .search, .search input{ width:112px; }
+  .search input:focus{ width:240px; }
+  .search:focus-within svg{ left:-117px; }
+}
+@media (max-width:1300px){
+  .masthead__bar{ gap:12px; }
+  .nav__link{ padding:10px 5px; }
+  .brand__name{ font-size:19px; }
+}
+/* Di bawah ini menu utama tidak muat: pakai tombol hamburger (sama seperti di HP) */
+@media (max-width:1160px){
+  .nav, .search{ display:none; }
+  .burger{ display:block; }
 }
 @media (max-width:1024px){
   .nav, .search{ display:none; }
@@ -1722,6 +1747,16 @@ document.addEventListener("DOMContentLoaded", () => {
     var m = document.querySelector('meta[name="theme-color"]');
     if(m) m.setAttribute("content", t==="gelap" ? "#04101C" : "#071B2F");
     if(simpan){ try{ localStorage.setItem("dcm-tema", t); }catch(e){} }
+  }
+  /* Kolom cari: teks pendek di layar laptop supaya tidak terpotong */
+  var q = document.getElementById("q");
+  if(q && window.matchMedia){
+    var sempit = matchMedia("(max-width:1400px)");
+    var penuh = q.getAttribute("placeholder") || "Cari berita atau koin";
+    var atur = function(){ q.setAttribute("placeholder", sempit.matches && document.activeElement!==q ? "Cari…" : penuh); };
+    atur();
+    if(sempit.addEventListener) sempit.addEventListener("change", atur);
+    q.addEventListener("focus", atur); q.addEventListener("blur", atur);
   }
   terapkan(akar.getAttribute("data-tema") || "terang", false);
   btn.addEventListener("click", function(){
