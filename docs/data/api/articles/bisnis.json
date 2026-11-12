@@ -1,8 +1,22 @@
 {
- "total": 15,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 9150,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Kerugian peretasan kripto setara 57 sen per $1 pendapatan on-chain: Ark",
+   "x": "Kerugian akibat peretasan aset digital dilaporkan melampaui pendapatan industri on-chain tahun ini. Hal ini menggarisbawahi tantangan keamanan yang terus dihadapi ekosistem kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
+   "a": "56 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T13:31:59"
+  },
   {
    "id": 9096,
    "k": "bisnis",
@@ -12,7 +26,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/CoreWeave-logo-gID_7.jpg",
-   "a": "13 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T22:36:03"
@@ -54,7 +68,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/britain-crypto-founders-brain-drain",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/britain-founder-listening-cover.webp",
-   "a": "15 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T20:10:49"
@@ -74,18 +88,18 @@
    "published_at": "2026-11-09T16:01:28"
   },
   {
-   "id": 9019,
+   "id": 9148,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Saham CoreWeave melonjak 15% pra-perdagangan setelah pendapatan Q3 lampaui estimasi",
-   "x": "Pendapatan kuartal ketiga CoreWeave naik 168% menjadi $3,66 miliar, melampaui perkiraan analis sebesar 3,4%. Kinerja positif ini menunjukkan pertumbuhan pesat di sektor infrastruktur komputasi terkait AI.",
+   "t": "Pendapatan Bit Digital di bawah ekspektasi analis",
+   "x": "Pendapatan kuartal ketiga Bit Digital meleset dari perkiraan analis sebesar $5 juta. Hal ini menyebabkan saham perusahaan turun 5% di pasar pra-perdagangan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
-   "a": "22 jam lalu",
+   "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg",
+   "a": "36 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T13:02:30"
+   "published_at": "2026-11-12T13:52:39"
   },
   {
    "id": 8925,
@@ -96,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T14:06:02"
@@ -124,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/pnc-lets-businesses-accept-usdc-without-keeping-the-crypto",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pnc-usdc-deposit-slot.webp",
-   "a": "16 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T19:30:07"
@@ -138,10 +152,52 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-14.20.51.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T14:26:02"
+  },
+  {
+   "id": 9019,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Saham CoreWeave melonjak 15% pra-perdagangan setelah pendapatan Q3 lampaui estimasi",
+   "x": "Pendapatan kuartal ketiga CoreWeave naik 168% menjadi $3,66 miliar, melampaui perkiraan analis sebesar 3,4%. Kinerja positif ini menunjukkan pertumbuhan pesat di sektor infrastruktur komputasi terkait AI.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T13:02:30"
+  },
+  {
+   "id": 9043,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "IPO Anthropic senilai $1,4 triliun berpotensi pengaruhi Bitcoin",
+   "x": "Potensi IPO Anthropic senilai $1,4 triliun dapat memberikan sinyal positif bagi pasar aset kripto. Jika mengikuti pola IPO SpaceX, ini bisa mengindikasikan bahwa dasar harga Bitcoin sudah dekat.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T12:55:18"
+  },
+  {
+   "id": 9088,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Senator AS soroti potensi konflik etika dari prediksi pasar Trump aide",
+   "x": "Senator Elizabeth Warren meminta penjelasan dari Gedung Putih terkait tuduhan penyalahgunaan informasi oleh operator teleprompter. Hal ini menimbulkan kekhawatiran tentang potensi manipulasi pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T19:48:46"
   },
   {
    "id": 8905,
@@ -156,34 +212,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T09:05:16"
-  },
-  {
-   "id": 9043,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "IPO Anthropic senilai $1,4 triliun berpotensi pengaruhi Bitcoin",
-   "x": "Potensi IPO Anthropic senilai $1,4 triliun dapat memberikan sinyal positif bagi pasar aset kripto. Jika mengikuti pola IPO SpaceX, ini bisa mengindikasikan bahwa dasar harga Bitcoin sudah dekat.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T12:55:18"
-  },
-  {
-   "id": 9088,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Senator AS soroti potensi konflik etika dari prediksi pasar Trump aide",
-   "x": "Senator Elizabeth Warren meminta penjelasan dari Gedung Putih terkait tuduhan penyalahgunaan informasi oleh operator teleprompter. Hal ini menimbulkan kekhawatiran tentang potensi manipulasi pasar.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic.jpg",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T19:48:46"
   },
   {
    "id": 8940,
