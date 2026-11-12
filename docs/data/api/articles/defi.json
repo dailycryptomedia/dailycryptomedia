@@ -1,5 +1,5 @@
 {
- "total": 23,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-hack-kripto-melebihi-pendapatan-2026",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T04:45:05"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg",
-   "a": "58 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T13:30:00"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock2.jpg",
-   "a": "28 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T14:00:00"
@@ -54,24 +54,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T17:09:18"
   },
   {
-   "id": 9029,
+   "id": 9185,
    "k": "defi",
    "cat": "DeFi",
-   "t": "BitMine Akan Segera Berhenti Membeli ETH. Berikut Asal Koin Barunya",
-   "x": "BitMine mencatat rugi bersih sebesar US$6,3 miliar untuk tahun sampai 31 Agustus, menurut laporan tahunannya. Penurunan yang belum direalisasi dari nilai kepemilikan Ethereum (ETH) mereka menjadi penyebab utamanya…",
+   "t": "Lending Vault XRP Berisiko Bagi Pemegang Token",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-lending-withdrawal-hatch.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T18:50:20"
+  },
+  {
+   "id": 9175,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pelanggan Binance Kena Dampak Peretasan US$6,3 Miliar Sudah Sepenuhnya Diganti, Kata Exchange",
+   "x": "Binance mengatakan telah mengganti semua aset yang hilang dalam peretasan senilai $6,3 miliar. Pengguna menunggu pemeriksaan proof of reserves untuk mengonfirmasinya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitmine-ethereum-rugi-bersih-pendapatan-staking",
-   "img": "https://assets.beincrypto.com/img/ARJ1kU__3erZ3DGOQWOFMfwFbjk=/smart/34a3651617b842a6b0c3f96f0e60935f",
-   "a": "23 jam lalu",
+   "url": "https://id.beincrypto.com/nasabah-binance-telah-dilunasi-sepenuhnya-setelah-peretasan",
+   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T15:04:49"
+   "published_at": "2026-11-12T20:01:30"
   },
   {
    "id": 8945,
@@ -82,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T21:24:36"
@@ -96,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240724_Ethereum_News_3.jpg",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T10:30:00"
@@ -110,24 +124,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T15:01:02"
   },
   {
-   "id": 9033,
+   "id": 9029,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Line CEO CoreWeave yang Jarang Diketahui Bantu Dorong Reli Saham CRWV 15%",
-   "x": "Saham CoreWeave naik 15,6% di pre-market setelah CEO-nya menolak utang tanpa jaminan pada yield saat ini, dengan alasan adanya prabayar sebesar $9 miliar.",
+   "t": "BitMine Akan Segera Berhenti Membeli ETH. Berikut Asal Koin Barunya",
+   "x": "BitMine mencatat rugi bersih sebesar US$6,3 miliar untuk tahun sampai 31 Agustus, menurut laporan tahunannya. Penurunan yang belum direalisasi dari nilai kepemilikan Ethereum (ETH) mereka menjadi penyebab utamanya…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coreweave-ceo-utang-tidak-beragunan-reli-saham",
-   "img": "https://assets.beincrypto.com/img/EMfcUFt0Sc0yJXxS7m5JixlNalw=/smart/b5cbb6007d544dc68509c7612fb0b836",
+   "url": "https://id.beincrypto.com/bitmine-ethereum-rugi-bersih-pendapatan-staking",
+   "img": "https://assets.beincrypto.com/img/ARJ1kU__3erZ3DGOQWOFMfwFbjk=/smart/34a3651617b842a6b0c3f96f0e60935f",
    "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T13:52:43"
+   "published_at": "2026-11-11T15:04:49"
   },
   {
    "id": 8865,
@@ -152,24 +166,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/solana-company-1920.png",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T02:25:14"
   },
   {
-   "id": 8792,
+   "id": 9033,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Update Peretasan Binance: Korea Utara Gunakan Wajah Elon Musk untuk Mencuci Uang",
-   "x": "Korea Utara menggunakan meme coin Elon Musk untuk mencuci uang hasil peretasan Binance, menurut Elliptic. Lihat cara kerja skema tersebut.",
+   "t": "Line CEO CoreWeave yang Jarang Diketahui Bantu Dorong Reli Saham CRWV 15%",
+   "x": "Saham CoreWeave naik 15,6% di pre-market setelah CEO-nya menolak utang tanpa jaminan pada yield saat ini, dengan alasan adanya prabayar sebesar $9 miliar.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/korea-utara-elon-musk-meme-coin-binance-hack",
-   "img": "https://assets.beincrypto.com/img/5OU1fEBFFaOVZhV_Wmuao9L67x8=/smart/bab2160b8ea149e59cd5e1775df0057b",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/coreweave-ceo-utang-tidak-beragunan-reli-saham",
+   "img": "https://assets.beincrypto.com/img/EMfcUFt0Sc0yJXxS7m5JixlNalw=/smart/b5cbb6007d544dc68509c7612fb0b836",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-09T16:34:40"
+   "published_at": "2026-11-11T13:52:43"
   },
   {
    "id": 8985,
@@ -194,7 +208,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T20:32:19"
@@ -222,7 +236,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
-   "a": "2 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T12:21:43"
@@ -242,18 +256,18 @@
    "published_at": "2026-11-11T13:35:02"
   },
   {
-   "id": 9001,
+   "id": 9176,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Peter Brandt Perkirakan Imbal Hasil 30 Tahun ke 7%. Apakah Bitcoin dan Saham Bisa Bertahan?",
-   "x": "Peter Brandt mengatakan yield 30 tahun bisa mencapai 7%. Lihat apa artinya bagi hipotek, saham, dan harga Bitcoin.",
+   "t": "Korban Peretasan Data SafePal Kini Menerima Surat Penipuan di Rumah",
+   "x": "Penipu mengirim surat SafePal palsu menggunakan data pelanggan yang bocor. Lihat cara kerja penipuan ini dan apa kata SafePal.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/brandt-imbal-hasil-30-tahun-7-persen",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/safepal-pelanggaran-data-scam-letters",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T01:45:00"
+   "published_at": "2026-11-12T18:59:53"
   },
   {
    "id": 8986,
@@ -278,10 +292,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240506_TON_News_3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T17:24:44"
+  },
+  {
+   "id": 9001,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Peter Brandt Perkirakan Imbal Hasil 30 Tahun ke 7%. Apakah Bitcoin dan Saham Bisa Bertahan?",
+   "x": "Peter Brandt mengatakan yield 30 tahun bisa mencapai 7%. Lihat apa artinya bagi hipotek, saham, dan harga Bitcoin.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/brandt-imbal-hasil-30-tahun-7-persen",
+   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-11T01:45:00"
   },
   {
    "id": 8839,
@@ -292,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-09T20:26:34"

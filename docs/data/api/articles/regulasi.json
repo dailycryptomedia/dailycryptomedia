@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,38 +12,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-ungkap-investasi-kripto-bermasalah-ai-dipakai-untuk-yakinkan-calon-korban",
    "img": null,
-   "a": "10 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T03:30:21"
   },
   {
-   "id": 8816,
+   "id": 9170,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Solana siapkan platform saham tokenisasi baru, beri notifikasi ke SEC",
-   "x": "Solana akan menjadi basis platform baru untuk saham tokenisasi yang rencananya meluncur awal 2027. Langkah ini membuka jalan bagi aset digital untuk merepresentasikan kepemilikan saham tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-09T17:46:02"
-  },
-  {
-   "id": 8984,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Tindakan penegakan SEC turun 24%, kasus kripto jadi sorotan",
-   "x": "Jumlah tindakan penegakan hukum Komisi Sekuritas dan Bursa AS (SEC) menurun pada tahun fiskal 2026, namun kasus-kasus yang ditangani tetap menyoroti isu-isu di industri aset digital. Penurunan ini bisa mengindikasikan perubahan fokus regulator atau strategi penegakan hukum.",
+   "t": "Gugatan Terhadap Pajak Kripto Illinois Diajukan",
+   "x": "Kelompok industri menggugat pajak kripto Illinois yang berlaku bahkan tanpa keuntungan, mengklaim biaya kepatuhan tinggi dan potensi pelanggaran hukum federal. Upaya ini menyoroti tantangan regulasi aset digital di AS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png",
+   "a": "34 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T08:43:30"
+   "published_at": "2026-11-12T20:58:06"
   },
   {
    "id": 8915,
@@ -54,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/housing-cost-basket-xray.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T16:09:17"
@@ -74,18 +60,32 @@
    "published_at": "2026-11-10T06:19:10"
   },
   {
-   "id": 9119,
+   "id": 9203,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Tron dan Tether gandeng Chainalysis usai unit kejahatan T3 bubar",
-   "x": "Aliansi baru ini akan fokus pada aktivitas USDT ilegal di jaringan Tron dan membantu penegak hukum melacak serta membekukan dana mencurigakan. Langkah ini diambil setelah unit investigasi sebelumnya dibubarkan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+   "t": "Pajak Kripto Illinois Tarik Aliansi Tak Terduga: DOJ, Bank, dan DeFi",
+   "x": "Departemen Kehakiman AS, bersama bank dan koalisi DeFi, mendukung gugatan menentang pajak transaksi aset digital 0,2% di Illinois. Langkah ini menunjukkan adanya kesamaan kepentingan antara regulator, institusi keuangan tradisional, dan industri kripto dalam menolak beban pajak yang dianggap memberatkan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg",
    "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T11:00:00"
+   "published_at": "2026-11-12T17:46:02"
+  },
+  {
+   "id": 8984,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Tindakan penegakan SEC turun 24%, kasus kripto jadi sorotan",
+   "x": "Jumlah tindakan penegakan hukum Komisi Sekuritas dan Bursa AS (SEC) menurun pada tahun fiskal 2026, namun kasus-kasus yang ditangani tetap menyoroti isu-isu di industri aset digital. Penurunan ini bisa mengindikasikan perubahan fokus regulator atau strategi penegakan hukum.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T08:43:30"
   },
   {
    "id": 9114,
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/novig-loses-court-shield-and-new-york-gambling-laws-strike-back",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/novig-gate.jpg",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T01:40:47"
@@ -110,24 +110,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240729_Funding_News_3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T16:19:16"
   },
   {
-   "id": 8838,
+   "id": 9119,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pindah dari Australia untuk hindari pajak kripto 47%?",
-   "x": "Beberapa investor aset kripto di Australia mempertimbangkan pindah ke luar negeri untuk menghindari kenaikan pajak keuntungan modal (CGT) yang signifikan mulai Juli 2027. Terdapat pula opsi lain untuk mengurangi beban pajak tanpa harus pindah.",
+   "t": "Tron dan Tether gandeng Chainalysis usai unit kejahatan T3 bubar",
+   "x": "Aliansi baru ini akan fokus pada aktivitas USDT ilegal di jaringan Tron dan membantu penegak hukum melacak serta membekukan dana mencurigakan. Langkah ini diambil setelah unit investigasi sebelumnya dibubarkan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-09T21:00:00"
+   "published_at": "2026-11-12T11:00:00"
+  },
+  {
+   "id": 9190,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Voorhees peringatkan veto pemerintah atas AI seperti Sauron",
+   "x": "Seorang tokoh industri memperingatkan potensi kontrol pemerintah terhadap rilis kecerdasan buatan. Hal ini mengacu pada usulan undang-undang dan platform kampanye yang ada.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-access-master-key.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T14:45:29"
   },
   {
    "id": 9086,
@@ -138,24 +152,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250414_SEC_News.jpg",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T22:06:47"
   },
   {
-   "id": 8901,
+   "id": 8838,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Coinbase dan Kalshi Dukung Gugatan CFTC atas Futures Saham AS",
-   "x": "Coinbase dan Kalshi bergabung dalam gugatan yang mendukung posisi CFTC mengenai apakah bursa AS dapat mencatatkan futures perpetual untuk saham individu. Kasus ini krusial bagi regulasi derivatif di AS.",
+   "t": "Pindah dari Australia untuk hindari pajak kripto 47%?",
+   "x": "Beberapa investor aset kripto di Australia mempertimbangkan pindah ke luar negeri untuk menghindari kenaikan pajak keuntungan modal (CGT) yang signifikan mulai Juli 2027. Terdapat pula opsi lain untuk mengurangi beban pajak tanpa harus pindah.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T11:44:55"
+   "published_at": "2026-11-09T21:00:00"
   },
   {
    "id": 8989,
@@ -172,18 +186,18 @@
    "published_at": "2026-11-11T06:22:32"
   },
   {
-   "id": 8840,
+   "id": 8901,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Formation Securities rencanakan venue trading saham Solana di bawah eksmosi SEC",
-   "x": "Formation Securities berencana meluncurkan platform trading saham tokenisasi di jaringan Solana pada awal 2027. Venue ini akan beroperasi 24/7 dan mendapat pengecualian dari regulasi Komisi Sekuritas dan Bursa AS (SEC).",
+   "t": "Coinbase dan Kalshi Dukung Gugatan CFTC atas Futures Saham AS",
+   "x": "Coinbase dan Kalshi bergabung dalam gugatan yang mendukung posisi CFTC mengenai apakah bursa AS dapat mencatatkan futures perpetual untuk saham individu. Kasus ini krusial bagi regulasi derivatif di AS.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png",
+   "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-09T19:52:34"
+   "published_at": "2026-11-10T11:44:55"
   },
   {
    "id": 9054,
@@ -200,6 +214,34 @@
    "published_at": "2026-11-11T13:01:02"
   },
   {
+   "id": 8840,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Formation Securities rencanakan venue trading saham Solana di bawah eksmosi SEC",
+   "x": "Formation Securities berencana meluncurkan platform trading saham tokenisasi di jaringan Solana pada awal 2027. Venue ini akan beroperasi 24/7 dan mendapat pengecualian dari regulasi Komisi Sekuritas dan Bursa AS (SEC).",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-09T19:52:34"
+  },
+  {
+   "id": 9198,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Andreessen Horowitz, DeFi Education Fund tolak pajak kripto Illinois",
+   "x": "Perusahaan modal ventura dan organisasi industri kripto menentang kebijakan pajak aset digital baru di Illinois. Mereka berargumen kebijakan tersebut dapat menghambat inovasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T15:01:02"
+  },
+  {
    "id": 8898,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -212,20 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T13:40:39"
-  },
-  {
-   "id": 8812,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Formation akan operasikan bursa sekuritas tokenisasi pertama di Solana",
-   "x": "Formation memberi tahu SEC rencananya untuk mengoperasikan bursa sekuritas tokenisasi pertama di blockchain Solana. Peluncuran dijadwalkan awal 2027 dengan penawaran saham tokenisasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_2.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-09T12:30:00"
   },
   {
    "id": 8987,
