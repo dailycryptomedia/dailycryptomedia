@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-ungkap-investasi-kripto-bermasalah-ai-dipakai-untuk-yakinkan-calon-korban",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T03:30:21"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T20:58:06"
@@ -46,18 +46,32 @@
    "published_at": "2026-11-10T16:09:17"
   },
   {
-   "id": 8881,
+   "id": 9235,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Coinbase, Kalshi, dan Payward Dukung CFTC dalam Gugatan Soal Futures Saham Tunggal",
-   "x": "Sejumlah perusahaan aset digital mendukung otoritas regulator AS dalam gugatan terkait derivatif. Dukungan ini bertujuan mempertahankan kewenangan regulator dalam mengatur produk keuangan baru.",
+   "t": "Siapa yang Akan Mengawasi Aset Kripto Anda di SEC? Trump Baru Saja Memilih Pengganti Hester Peirce",
+   "x": "Presiden Donald Trump telah mencalonkan Steven Levine untuk menggantikan Hester Peirce di US Securities and Exchange Commission (SEC). Pengacara dari Partai Republik ini akan mengemban masa jabatan hingga 5 Juni 2030…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/steven-levine-nominee-sec-hester-peirce",
+   "img": "https://assets.beincrypto.com/img/xajTLyZlrV6gBDtX_voaXJiclXk=/smart/c3123ebbaf0e42e999c95f959f052e0d",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-13T06:40:32"
+  },
+  {
+   "id": 9237,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "DOJ dan CFTC Gugat Arkansas untuk Blokir Tindakan Negara Terhadap Kalshi",
+   "x": "Departemen Kehakiman AS (DOJ) dan Komisi Perdagangan Berjangka Komoditas AS (CFTC) mengajukan gugatan terhadap negara bagian Arkansas. Tujuannya adalah untuk menghentikan tindakan penegakan hukum negara bagian terhadap platform derivatif Kalshi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/coinbase_kalshi_editorial_1920x1080.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_cftc_arkansas_1920x1080.jpg",
+   "a": "16 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T06:19:10"
+   "published_at": "2026-11-13T09:32:39"
   },
   {
    "id": 9203,
@@ -68,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T17:46:02"
@@ -82,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T08:43:30"
@@ -124,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T11:00:00"
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-access-master-key.webp",
-   "a": "11 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T14:45:29"
@@ -172,18 +186,18 @@
    "published_at": "2026-11-10T11:44:55"
   },
   {
-   "id": 8989,
+   "id": 9240,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Bitmine laporkan rugi bersih $6,3 miliar, terdorong penurunan ether 44%",
-   "x": "Bitmine melaporkan rugi bersih signifikan yang sebagian besar berasal dari penurunan nilai aset digitalnya. Penurunan nilai ether menjadi pendorong utama kerugian tersebut.",
+   "t": "Gedung Putih Ajukan Kandidat untuk Kursi SEC dan CFTC",
+   "x": "Gedung Putih mengajukan beberapa nama untuk mengisi posisi di Komisi Sekuritas dan Bursa AS (SEC) serta Komisi Perdagangan Berjangka Komoditas AS (CFTC). Harapannya, kandidat ini dapat merumuskan regulasi kripto yang stabil dan inovatif.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tom-lee-1920-1080.png",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/whitehouse-nomination.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T06:22:32"
+   "published_at": "2026-11-13T04:56:47"
   },
   {
    "id": 8898,
@@ -200,18 +214,18 @@
    "published_at": "2026-11-10T13:40:39"
   },
   {
-   "id": 9220,
+   "id": 8989,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "DOJ sita $1,2 miliar dari peretasan Binance, gagalkan skema deepfake Korut",
-   "x": "Departemen Kehakiman AS menyita aset senilai $1,2 miliar yang dicuri dari Binance oleh peretas Korea Utara. Tindakan ini juga membongkar skema penipuan deepfake yang digunakan untuk mencuri data.",
+   "t": "Bitmine laporkan rugi bersih $6,3 miliar, terdorong penurunan ether 44%",
+   "x": "Bitmine melaporkan rugi bersih signifikan yang sebagian besar berasal dari penurunan nilai aset digitalnya. Penurunan nilai ether menjadi pendorong utama kerugian tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/department-of-justice-e1584354675491.jpg",
-   "a": "3 jam lalu",
+   "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tom-lee-1920-1080.png",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T22:40:22"
+   "published_at": "2026-11-11T06:22:32"
   },
   {
    "id": 8987,
@@ -222,10 +236,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74817RJCD4BF6Q6FT0BQTZN/hinew-us-government-crypto2-3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T03:07:45"
+  },
+  {
+   "id": 9220,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "DOJ sita $1,2 miliar dari peretasan Binance, gagalkan skema deepfake Korut",
+   "x": "Departemen Kehakiman AS menyita aset senilai $1,2 miliar yang dicuri dari Binance oleh peretas Korea Utara. Tindakan ini juga membongkar skema penipuan deepfake yang digunakan untuk mencuri data.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/department-of-justice-e1584354675491.jpg",
+   "a": "11 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T22:40:22"
+  },
+  {
+   "id": 9232,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Trump nominasi pengganti Hester Peirce di SEC dan CFTC",
+   "x": "Presiden AS Donald Trump mengusulkan nama-nama untuk mengisi posisi di Komisi Sekuritas dan Bursa Amerika Serikat (SEC) dan Komisi Perdagangan Berjangka Komoditas AS (CFTC). Nominasi ini mencakup pengganti Hester Peirce dan veteran undang-undang terkait.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T02:29:27"
   },
   {
    "id": 9054,
@@ -250,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
-   "a": "11 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T15:01:02"

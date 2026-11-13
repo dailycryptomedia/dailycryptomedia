@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T07:10:08"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T22:36:02"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/awas-kena-hack-pengguna-iphone-yang-punya-kripto-wajib-baca-ini",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T06:00:58"
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/chainstack_security_1920x1080.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T08:39:57"
@@ -116,6 +116,20 @@
    "published_at": "2026-11-11T10:20:53"
   },
   {
+   "id": 9251,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Crypto yang Dijual di Tokopedia Dipastikan Mengandung Chip Ilegal",
+   "x": "Trezor mengonfirmasi bahwa tiga model dompet crypto yang dijual di Tokopedia dan Shopee mengandung chip berbahaya. Chip ini berisiko mencuri recovery phrase pengguna.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/dompet-crypto-yang-dijual-di-tokopedia-dipastikan-mengandung-chip-ilegal",
+   "img": null,
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T03:30:51"
+  },
+  {
    "id": 9194,
    "k": "web3",
    "cat": "Web3",
@@ -124,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-13.35.10.png",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T16:55:52"
@@ -138,10 +152,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
-   "a": "6 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T20:07:41"
+  },
+  {
+   "id": 9254,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Ethereum lama jadi sasaran penipuan dalam 3 menit",
+   "x": "Sebuah dompet Ethereum yang tidak aktif selama 11 tahun tiba-tiba menjadi target penipuan segera setelah diaktifkan kembali. Kejadian ini menyoroti risiko keamanan bagi aset kripto yang lama tersimpan.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/tidur-11-tahun-dompet-ethereum-ini-langsung-dijebak-penipu-dalam-3-menit",
+   "img": null,
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T02:00:43"
   },
   {
    "id": 8943,
@@ -152,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-09.56.52.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-10T09:30:00"
@@ -166,7 +194,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T05:54:48"

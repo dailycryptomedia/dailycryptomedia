@@ -1,5 +1,5 @@
 {
- "total": 25,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-hack-kripto-melebihi-pendapatan-2026",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T04:45:05"
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T13:30:00"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/across-aave-hijack-cobalt-empty-rack.jpg",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T00:30:17"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock2.jpg",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T14:00:00"
@@ -74,6 +74,20 @@
    "published_at": "2026-11-11T17:09:18"
   },
   {
+   "id": 9248,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Binance Bangkit! 100% Aset Pulih Usai Peretasan Besar",
+   "x": "Bursa kripto Binance berhasil memulihkan seluruh aset yang terdampak peretasan besar senilai Rp114 triliun. Rasio cadangan perusahaan kini kembali di atas 100 persen, menunjukkan ketahanan operasionalnya.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/binance-bangkit-100-persen-aset-pulih-usai-peretasan-besar",
+   "img": null,
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T07:00:14"
+  },
+  {
    "id": 9175,
    "k": "defi",
    "cat": "DeFi",
@@ -82,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nasabah-binance-telah-dilunasi-sepenuhnya-setelah-peretasan",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "6 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T20:01:30"
@@ -110,7 +124,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-lending-withdrawal-hatch.webp",
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T18:50:20"
@@ -124,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240724_Ethereum_News_3.jpg",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T10:30:00"
@@ -158,18 +172,18 @@
    "published_at": "2026-11-11T15:04:49"
   },
   {
-   "id": 8865,
+   "id": 8985,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Securitize Sepakati Akuisisi River One untuk Ekspansi ke Pinjaman Beragun Aset",
-   "x": "Securitize akan mengakuisisi River One untuk mendukung pinjaman beragun aset dengan pendanaan stablecoin. Akuisisi ini diharapkan rampung pada kuartal empat 2026.",
+   "t": "Initia konfirmasi eksploitasi kedua dalam 3 minggu, $3,27 juta dicuri",
+   "x": "Protokol Initia kembali menjadi korban peretasan, dengan kerugian mencapai jutaan dolar akibat eksploitasi kredensial cloud. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem aset digital dan pentingnya pengamanan infrastruktur.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg",
+   "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T07:49:14"
+   "published_at": "2026-11-11T05:52:14"
   },
   {
    "id": 9106,
@@ -180,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/solana-company-1920.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T02:25:14"
@@ -200,18 +214,18 @@
    "published_at": "2026-11-11T13:52:43"
   },
   {
-   "id": 8985,
+   "id": 9153,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Initia konfirmasi eksploitasi kedua dalam 3 minggu, $3,27 juta dicuri",
-   "x": "Protokol Initia kembali menjadi korban peretasan, dengan kerugian mencapai jutaan dolar akibat eksploitasi kredensial cloud. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem aset digital dan pentingnya pengamanan infrastruktur.",
+   "t": "Proposal DeFi Uni Eropa bisa dorong pengguna ke platform berisiko, kata eksekutif Coinbase",
+   "x": "Eksekutif Coinbase berpendapat regulasi DeFi Uni Eropa yang terlalu ketat dapat membatasi akses pengguna dan memecah likuiditas. Hal ini menimbulkan kekhawatiran tentang dampak regulasi terhadap inovasi DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T05:52:14"
+   "published_at": "2026-11-12T12:21:43"
   },
   {
    "id": 9087,
@@ -236,24 +250,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/the-fed-kenaikan-taruhan-generative-ai-ledakan-utang",
    "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-11T05:29:40"
   },
   {
-   "id": 9153,
+   "id": 8986,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Proposal DeFi Uni Eropa bisa dorong pengguna ke platform berisiko, kata eksekutif Coinbase",
-   "x": "Eksekutif Coinbase berpendapat regulasi DeFi Uni Eropa yang terlalu ketat dapat membatasi akses pengguna dan memecah likuiditas. Hal ini menimbulkan kekhawatiran tentang dampak regulasi terhadap inovasi DeFi.",
+   "t": "Across Protocol pulihkan situs web setelah peretas ambil alih domain",
+   "x": "Peretas berhasil mengambil alih domain registrar Across Protocol melalui serangan rekayasa sosial. Hal ini menyebabkan pengguna dialihkan ke situs phishing.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
-   "a": "13 jam lalu",
+   "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T12:21:43"
+   "published_at": "2026-11-11T04:42:30"
   },
   {
    "id": 9053,
@@ -270,32 +284,18 @@
    "published_at": "2026-11-11T13:35:02"
   },
   {
-   "id": 9176,
+   "id": 9236,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Korban Peretasan Data SafePal Kini Menerima Surat Penipuan di Rumah",
-   "x": "Penipu mengirim surat SafePal palsu menggunakan data pelanggan yang bocor. Lihat cara kerja penipuan ini dan apa kata SafePal.",
+   "t": "AS Bergerak untuk Sita US$1,2 Miliar dari Peretasan Binance. Di Mana Sisanya?",
+   "x": "Departemen Kehakiman AS mendapat persetujuan pengadilan untuk menyita atau membekukan lebih dari US$1,2 miliar yang dicuri dari Binance. Uang tersebut berasal dari peretasan pada 29 Oktober yang FBI tuduhkan kepada unit…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/safepal-pelanggaran-data-scam-letters",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "7 jam lalu",
+   "url": "https://id.beincrypto.com/doj-1-2-miliar-peretasan-binance-korea-utara",
+   "img": "https://assets.beincrypto.com/img/1pr8gwZyaKvb_jfSXgc0hOdgwus=/smart/3f1301f25b0c4ebfb6b6d03282f4233b",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-12T18:59:53"
-  },
-  {
-   "id": 8986,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Across Protocol pulihkan situs web setelah peretas ambil alih domain",
-   "x": "Peretas berhasil mengambil alih domain registrar Across Protocol melalui serangan rekayasa sosial. Hal ini menyebabkan pengguna dialihkan ke situs phishing.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T04:42:30"
+   "published_at": "2026-11-13T05:18:27"
   },
   {
    "id": 8958,
@@ -312,6 +312,34 @@
    "published_at": "2026-11-10T17:24:44"
   },
   {
+   "id": 9176,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Korban Peretasan Data SafePal Kini Menerima Surat Penipuan di Rumah",
+   "x": "Penipu mengirim surat SafePal palsu menggunakan data pelanggan yang bocor. Lihat cara kerja penipuan ini dan apa kata SafePal.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/safepal-pelanggaran-data-scam-letters",
+   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-12T18:59:53"
+  },
+  {
+   "id": 8990,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Tron Inc catat kenaikan laba bersih 22% di Q3 seiring pertumbuhan pendapatan staking",
+   "x": "Pendapatan bersih Tron Inc naik 22% pada kuartal ketiga, didorong oleh pendapatan staking yang belum terealisasi. Kinerja positif ini menunjukkan pertumbuhan operasional perusahaan di tengah pasar aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tron_editorial_1920x1080.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T04:02:02"
+  },
+  {
    "id": 9001,
    "k": "defi",
    "cat": "DeFi",
@@ -324,20 +352,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-11T01:45:00"
-  },
-  {
-   "id": 8990,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tron Inc catat kenaikan laba bersih 22% di Q3 seiring pertumbuhan pendapatan staking",
-   "x": "Pendapatan bersih Tron Inc naik 22% pada kuartal ketiga, didorong oleh pendapatan staking yang belum terealisasi. Kinerja positif ini menunjukkan pertumbuhan operasional perusahaan di tengah pasar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tron_editorial_1920x1080.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T04:02:02"
   },
   {
    "id": 9059,
