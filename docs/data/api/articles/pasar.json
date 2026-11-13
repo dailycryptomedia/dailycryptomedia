@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/lubin-ethereum-pengetatan-pasokan-wall-street",
    "img": "https://assets.beincrypto.com/img/NolNrSbSjrX83UW2zeC664XckQk=/smart/2465a0f2e5de42028637e2a702354e98",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T10:58:01"
@@ -32,18 +32,32 @@
    "published_at": "2026-11-12T07:00:18"
   },
   {
-   "id": 8914,
+   "id": 9273,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "AI bantu perusahaan tingkatkan pengungkapan cacat 120% tanpa perlambatan perbaikan",
-   "x": "Studi menemukan perusahaan yang menggunakan AI melaporkan lebih banyak cacat keamanan siber. Namun, kecepatan perbaikan tidak terpengaruh, menyisakan potensi risiko yang belum terselesaikan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ai-assisted-firms-increase-flaw-disclosures-by-120-with-no-detected-repair-slowdown-study-finds",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/claude-inspection-light.webp",
-   "a": "2 hari lalu",
+   "t": "Bitcoin Sentuh Level Terendah 12 Minggu Akibat Kekhawatiran Suku Bunga The Fed",
+   "x": "Kekhawatiran kenaikan suku bunga The Fed dan penarikan dana ETF menekan harga Bitcoin ke level terendah dalam 12 minggu. Hal ini mengikis sebagian besar penguatan yang dicapai selama musim panas.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+   "a": "5 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T16:49:48"
+   "published_at": "2026-11-13T17:22:54"
+  },
+  {
+   "id": 9112,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "FSB desak Turki atur stablecoin asing",
+   "x": "Dewan Stabilitas Keuangan (FSB) mendorong regulator Turki untuk memperketat aturan stablecoin asing. Rekomendasi ini mencakup pemeriksaan cadangan yang lebih kuat dan hak penebusan yang jelas.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/redemption-window.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T05:10:20"
   },
   {
    "id": 9103,
@@ -74,20 +88,6 @@
    "published_at": "2026-11-11T09:40:46"
   },
   {
-   "id": 8965,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pelanggaran AI Near ungkap detail pengguna dan data dari 18 agen AI",
-   "x": "Celah keamanan pada sistem AI Near mengekspos data pengguna dan permintaan rahasia. Insiden ini menyoroti risiko privasi dalam penggunaan kecerdasan buatan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T20:16:03"
-  },
-  {
    "id": 8972,
    "k": "pasar",
    "cat": "Pasar",
@@ -116,18 +116,32 @@
    "published_at": "2026-11-12T06:00:45"
   },
   {
-   "id": 9112,
+   "id": 8965,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "FSB desak Turki atur stablecoin asing",
-   "x": "Dewan Stabilitas Keuangan (FSB) mendorong regulator Turki untuk memperketat aturan stablecoin asing. Rekomendasi ini mencakup pemeriksaan cadangan yang lebih kuat dan hak penebusan yang jelas.",
+   "t": "Pelanggaran AI Near ungkap detail pengguna dan data dari 18 agen AI",
+   "x": "Celah keamanan pada sistem AI Near mengekspos data pengguna dan permintaan rahasia. Insiden ini menyoroti risiko privasi dalam penggunaan kecerdasan buatan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T20:16:03"
+  },
+  {
+   "id": 9163,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Akses kunci pengguna Notion terekspos dalam peretasan pemasok",
+   "x": "Sebuah insiden keamanan mengungkap kerentanan dalam penggunaan kunci akses pada obrolan AI. Hal ini menyoroti risiko kebocoran data sensitif ketika informasi penting disematkan dalam komunikasi digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/redemption-window.jpg",
+   "url": "https://cryptoslate.com/notion-users-put-access-keys-in-ai-chats-a-supplier-breach-exposed-them",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/notion-exposed-transcript-envelope.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T05:10:20"
+   "published_at": "2026-11-12T13:45:18"
   },
   {
    "id": 8982,
@@ -152,24 +166,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tron_tether_chainalysis_2_1920x1080.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T11:00:00"
-  },
-  {
-   "id": 9201,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Siapa Colette Kress, Penerus Jensen Huang sebagai CEO Nvidia?",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T18:55:03"
   },
   {
    "id": 8973,
@@ -194,24 +194,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/jebakan-psikologi-trader-kripto",
    "img": null,
-   "a": "49 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T09:00:10"
   },
   {
-   "id": 9163,
+   "id": 9201,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Akses kunci pengguna Notion terekspos dalam peretasan pemasok",
-   "x": "Sebuah insiden keamanan mengungkap kerentanan dalam penggunaan kunci akses pada obrolan AI. Hal ini menyoroti risiko kebocoran data sensitif ketika informasi penting disematkan dalam komunikasi digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/notion-users-put-access-keys-in-ai-chats-a-supplier-breach-exposed-them",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/notion-exposed-transcript-envelope.webp",
-   "a": "20 jam lalu",
+   "t": "Siapa Colette Kress, Penerus Jensen Huang sebagai CEO Nvidia?",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T13:45:18"
+   "published_at": "2026-11-12T18:55:03"
+  },
+  {
+   "id": 9288,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Jaring Pengaman Baru Lido Masih Berisiko Bagi Deposan",
+   "x": "Lido memperkenalkan jaring pengaman baru untuk produk Earn-nya, namun investor tetap berpotensi menanggung kerugian. Ilustrasi potensi perlindungan 7,2% untuk EarnETH dan 12,1% untuk EarnUSD masih bergantung pada kelayakan dan persetujuan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lido-earn-loss-protection-depositors",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-vault-layered-nets.webp",
+   "a": "57 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T16:30:25"
   },
   {
    "id": 8944,
@@ -236,24 +250,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/02/nyse.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T16:56:54"
-  },
-  {
-   "id": 8966,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Elon Musk puji Claude Opus 5.5 sebagai 'mahakarya', akui Grok 4.8 takkan menandingi",
-   "x": "Elon Musk memuji model AI Claude Opus 5.5 dari Anthropic, mengakui bahwa model AI buatannya sendiri, Grok 4.8, belum mampu menandinginya. Pengakuan ini menyoroti persaingan ketat di pasar AI generatif.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T19:46:02"
+   "published_at": "2026-11-11T16:56:54"
   },
   {
    "id": 9174,
@@ -264,7 +264,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/jpmorgan-microstrategy-stake-msci-exit",
    "img": "https://assets.beincrypto.com/img/9IuctudIo6WFRSJfwZc3HxA7vJs=/smart/50e0338af91c4d5590d0e9eb427787fc",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T20:45:32"
@@ -282,6 +282,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T08:00:55"
+  },
+  {
+   "id": 8966,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Elon Musk puji Claude Opus 5.5 sebagai 'mahakarya', akui Grok 4.8 takkan menandingi",
+   "x": "Elon Musk memuji model AI Claude Opus 5.5 dari Anthropic, mengakui bahwa model AI buatannya sendiri, Grok 4.8, belum mampu menandinginya. Pengakuan ini menyoroti persaingan ketat di pasar AI generatif.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T19:46:02"
   },
   {
    "id": 9002,
@@ -326,20 +340,6 @@
    "published_at": "2026-11-11T23:09:23"
   },
   {
-   "id": 8926,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Moody's uji coba gunakan Chainlink untuk sebar peringkat kredit lintas blockchain",
-   "x": "Moody's melakukan uji coba penyaluran peringkat kredit melalui teknologi Chainlink ke berbagai blockchain. Inisiatif ini berpotensi meningkatkan efisiensi dan jangkauan data keuangan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T14:01:02"
-  },
-  {
    "id": 9124,
    "k": "pasar",
    "cat": "Pasar",
@@ -348,7 +348,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cointelegraph-mantan-ceo-yana-prikhodchenko-industri-ai-bergerak",
    "img": "https://assets.beincrypto.com/img/KhLrvCf-p-Pq2atS1_J7pzgK5HA=/smart/c9e1925abeeb4dea9e54dc30c23a0d64",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T10:33:14"
@@ -368,6 +368,20 @@
    "published_at": "2026-11-12T03:00:50"
   },
   {
+   "id": 8967,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Grayscale taruhkan $1 juta untuk Zcash saat koin privasi anjlok",
+   "x": "Grayscale berencana menyalurkan dana dari biaya ETF Zcash untuk mendukung ekosistem, seiring dengan peluncuran kampanye iklan nasional. Langkah ini diambil di tengah penurunan harga ZEC yang signifikan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-10T19:16:02"
+  },
+  {
    "id": 9243,
    "k": "pasar",
    "cat": "Pasar",
@@ -376,7 +390,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/05-bond-settlement-foundation.jpg",
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T08:30:07"
@@ -396,32 +410,18 @@
    "published_at": "2026-11-10T23:49:51"
   },
   {
-   "id": 8934,
+   "id": 9280,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "MEGA komitmen $30 juta untuk produk baru, mulai dari inferensi AI",
-   "x": "Yayasan MegaETH berganti nama menjadi MEGA dan mengalokasikan dana signifikan untuk pengembangan produk baru, dimulai dengan teknologi inferensi kecerdasan buatan. Ini menunjukkan fokus pada inovasi AI.",
+   "t": "Hyperliquid Lampaui Bybit, Kraken, OKX dalam Open Interest",
+   "x": "Hyperliquid berhasil melampaui bursa kripto besar seperti Bybit, Kraken, dan OKX dalam hal open interest, dengan porsi mencapai 11,7%. Pertumbuhan posisi pada kuartal ketiga mencapai 80%.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_MegaEth_News.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260410_Hyperliquid_News_2.jpg",
+   "a": "50 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T15:56:02"
-  },
-  {
-   "id": 8967,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Grayscale taruhkan $1 juta untuk Zcash saat koin privasi anjlok",
-   "x": "Grayscale berencana menyalurkan dana dari biaya ETF Zcash untuk mendukung ekosistem, seiring dengan peluncuran kampanye iklan nasional. Langkah ini diambil di tengah penurunan harga ZEC yang signifikan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T19:16:02"
+   "published_at": "2026-11-13T16:37:26"
   },
   {
    "id": 8975,
@@ -452,6 +452,20 @@
    "published_at": "2026-11-11T07:00:47"
   },
   {
+   "id": 9202,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Saham AI: Pemenang dan Pecundang Pasca-Ousting Jensen Huang",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T18:06:03"
+  },
+  {
    "id": 9183,
    "k": "pasar",
    "cat": "Pasar",
@@ -460,7 +474,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-private-proof-development.webp",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T20:10:03"
@@ -474,38 +488,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T13:59:02"
   },
   {
-   "id": 8935,
+   "id": 9283,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Moody's dan Chainlink uji sebar peringkat kredit lintas blockchain",
-   "x": "Moody's dan Chainlink berhasil menguji coba penyaluran data peringkat kredit ke berbagai blockchain. Uji coba ini menunjukkan potensi pemanfaatan teknologi blockchain untuk distribusi data keuangan.",
+   "t": "Penjelasan Ethereum dan Layer 1",
+   "x": "Artikel ini menjelaskan bagaimana Ethereum memungkinkan pemrograman blockchain melalui smart contract dan EVM. Pembahasan mencakup Proof of Stake, upgrade jaringan, serta perbandingan Layer 1 alternatif dalam hal keamanan, desentralisasi, dan skalabilitas.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Chainlink.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-5.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T15:49:59"
-  },
-  {
-   "id": 9202,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Saham AI: Pemenang dan Pecundang Pasca-Ousting Jensen Huang",
-   "x": "",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T18:06:03"
+   "published_at": "2026-11-13T14:12:23"
   },
   {
    "id": 9125,
@@ -516,7 +516,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-bitcoin-bottom-koreksi-lebih-dalam",
    "img": "https://assets.beincrypto.com/img/RcXcGEItjGlpUNbjvmLotyBLEA8=/smart/c1075ff28cfe40449a3e6e6bca977819",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T10:25:55"
@@ -536,6 +536,20 @@
    "published_at": "2026-11-12T08:00:55"
   },
   {
+   "id": 9274,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pencucian Uang Kripto Jadi Risiko Material bagi Inggris",
+   "x": "Laporan RUSI menyebut pencucian uang aset kripto sebagai risiko material bagi Inggris menjelang tinjauan FATF pada Juni 2027. Inggris harus membuktikan kemampuannya dalam penegakan hukum terhadap aktivitas tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/rusi-royal-united-services-institute-decrypt-style-gID_7.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T13:55:25"
+  },
+  {
    "id": 9062,
    "k": "pasar",
    "cat": "Pasar",
@@ -544,7 +558,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/openai-adds-a-35-second-emergency-brake-for-its-research-ai",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-output-control-valve.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T16:05:44"
@@ -558,38 +572,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79TZ0N5PFPG1QHFB1F0EQAV/hi-bitcoin-arbitrage-in-2020-can-still-be-profitable.jpg",
-   "a": "44 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T09:05:10"
   },
   {
-   "id": 9107,
+   "id": 9281,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Perp Nvidia anjlok 10% di Hyperliquid, dewan pertimbangkan pecat Jensen Huang",
-   "x": "Saham Nvidia dilaporkan anjlok 10% di pasar derivatif menyusul kabar dewan direksi mempertimbangkan pemecatan CEO Jensen Huang. Isu ini muncul terkait dugaan dua perselingkuhan yang dilakukan CEO tersebut.",
+   "t": "Induk Kraken Catat Penurunan EBITDA 66%, Rencanakan Pasar Prediksi AS",
+   "x": "Induk Kraken, Payward, melaporkan penurunan EBITDA yang disesuaikan sebesar 66% pada kuartal ketiga. Perusahaan berencana meluncurkan pasar prediksi dan agen AI untuk keuangan pribadi di AS.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/nvidia_jensen_huang_1920x1080.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-15.24.48.png",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T02:23:45"
-  },
-  {
-   "id": 9042,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Decrypt jadi penerbit berita pertama tawarkan trading perps, didukung Phoenix Solana",
-   "x": "Decrypt mengintegrasikan perdagangan futures perpetual ke platformnya, memungkinkan pembaca bertransaksi aset kripto, saham, dan komoditas tanpa meninggalkan situs berita. Inovasi ini menyatukan konten berita dan aktivitas trading.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/phoenix-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T14:02:55"
+   "published_at": "2026-11-13T15:31:22"
   },
   {
    "id": 9126,
@@ -600,7 +600,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/india-lewati-taiwan-pasar-saham-terbesar-kelima",
    "img": "https://assets.beincrypto.com/img/GuxqxHiuKC873rPwpijHH7ZOr7k=/smart/9d5c09f1fe96436f87d4113cfcef7c71",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T10:14:58"
@@ -618,6 +618,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T02:00:56"
+  },
+  {
+   "id": 9042,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Decrypt jadi penerbit berita pertama tawarkan trading perps, didukung Phoenix Solana",
+   "x": "Decrypt mengintegrasikan perdagangan futures perpetual ke platformnya, memungkinkan pembaca bertransaksi aset kripto, saham, dan komoditas tanpa meninggalkan situs berita. Inovasi ini menyatukan konten berita dan aktivitas trading.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/phoenix-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T14:02:55"
   },
   {
    "id": 8960,
@@ -642,24 +656,52 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T01:26:27"
   },
   {
-   "id": 8938,
+   "id": 9107,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Laba eToro anjlok 74% akibat lemahnya perdagangan kripto",
-   "x": "Pendapatan eToro di kuartal ketiga turun 74% menjadi $15 juta karena aktivitas perdagangan aset kripto yang melambat. Penurunan ini menekan kinerja keuangan platform investasi tersebut.",
+   "t": "Perp Nvidia anjlok 10% di Hyperliquid, dewan pertimbangkan pecat Jensen Huang",
+   "x": "Saham Nvidia dilaporkan anjlok 10% di pasar derivatif menyusul kabar dewan direksi mempertimbangkan pemecatan CEO Jensen Huang. Isu ini muncul terkait dugaan dua perselingkuhan yang dilakukan CEO tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-13.32.22.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/nvidia_jensen_huang_1920x1080.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-10T13:44:35"
+   "published_at": "2026-11-12T02:23:45"
+  },
+  {
+   "id": 9233,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Grok Bot Kerjakan Pekerjaan Satu Minggu dalam 5 Menit untuk Ibu Elon Musk",
+   "x": "Ibu Elon Musk mengatakan Grok Bot memindahkan 2.000 foto Dropbox dalam lima menit, pekerjaan yang sebelumnya ia sisihkan waktu satu minggu untuk menyelesaikannya. Berikut cara kerja agen tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/grok-bot-maye-musk-dropbox-foto",
+   "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-13T08:34:03"
+  },
+  {
+   "id": 9250,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Pasokan RLUSD di XRPL Anjlok US$55 Juta, Ethereum Justru Bertambah!",
+   "x": "Pasokan RLUSD di XRPL menyusut drastis sebesar US$55 juta dalam 24 jam, sementara pasokan Ethereum justru mengalami peningkatan. Perubahan ini menarik perhatian pelaku pasar aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/pasokan-rlusd-di-xrpl-anjlok-us55-juta-ethereum-justru-bertambah",
+   "img": null,
+   "a": "13 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T04:00:48"
   },
   {
    "id": 9099,
@@ -674,34 +716,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T20:16:02"
-  },
-  {
-   "id": 9233,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Grok Bot Kerjakan Pekerjaan Satu Minggu dalam 5 Menit untuk Ibu Elon Musk",
-   "x": "Ibu Elon Musk mengatakan Grok Bot memindahkan 2.000 foto Dropbox dalam lima menit, pekerjaan yang sebelumnya ia sisihkan waktu satu minggu untuk menyelesaikannya. Berikut cara kerja agen tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/grok-bot-maye-musk-dropbox-foto",
-   "img": "https://assets.beincrypto.com/img/v1CL2NvtyuABrzuM1yPuhiNuyzg=/smart/d4d9bde095814ce59b879251aac958f2",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T08:34:03"
-  },
-  {
-   "id": 9250,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Pasokan RLUSD di XRPL Anjlok US$55 Juta, Ethereum Justru Bertambah!",
-   "x": "Pasokan RLUSD di XRPL menyusut drastis sebesar US$55 juta dalam 24 jam, sementara pasokan Ethereum justru mengalami peningkatan. Perubahan ini menarik perhatian pelaku pasar aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/pasokan-rlusd-di-xrpl-anjlok-us55-juta-ethereum-justru-bertambah",
-   "img": null,
-   "a": "5 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-13T04:00:48"
   },
   {
    "id": 9141,
@@ -726,7 +740,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77HNTV6D5P7J0G2ASP711HK/hi-quantum-computer-and-ethereum.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T10:30:29"
@@ -740,24 +754,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/new-york-1-e1577451823576.jpg",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T18:03:57"
-  },
-  {
-   "id": 9135,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Tekanan meningkat pada CEO Nvidia Jensen Huang di tengah laporan perselingkuhan kedua",
-   "x": "Dewan direksi Nvidia dilaporkan bersiap memberhentikan CEO-nya, yang menyebabkan saham perusahaan teknologi tersebut anjlok lebih dari 5% di perdagangan pra-pasar. Kabar ini dapat memengaruhi sentimen investor terhadap saham teknologi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T09:47:18"
   },
   {
    "id": 9075,
@@ -786,6 +786,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T03:00:31"
+  },
+  {
+   "id": 9135,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Tekanan meningkat pada CEO Nvidia Jensen Huang di tengah laporan perselingkuhan kedua",
+   "x": "Dewan direksi Nvidia dilaporkan bersiap memberhentikan CEO-nya, yang menyebabkan saham perusahaan teknologi tersebut anjlok lebih dari 5% di perdagangan pra-pasar. Kabar ini dapat memengaruhi sentimen investor terhadap saham teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T09:47:18"
   },
   {
    "id": 9113,
@@ -828,20 +842,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T07:27:24"
-  },
-  {
-   "id": 8964,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Nvidia hapus kenaikan 2026 seiring ancaman subpoena dari politikus AS",
-   "x": "Saham Nvidia tertekan setelah CEO Jensen Huang terancam disubpoena terkait dugaan spionase Tiongkok. Hal ini menimbulkan kekhawatiran baru terhadap perusahaan semikonduktor raksasa tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-10T20:45:50"
   }
  ]
 }
