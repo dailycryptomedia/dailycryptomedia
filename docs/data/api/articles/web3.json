@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T23:18:44"
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-11T07:10:08"
+  },
+  {
+   "id": 9226,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Senator Republik ingin hentikan sementara pembangunan pusat data AI",
+   "x": "",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T22:36:02"
   },
   {
    "id": 9010,
@@ -68,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/chainstack_security_1920x1080.jpg",
-   "a": "12 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T08:39:57"
-  },
-  {
-   "id": 9047,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Napi dipenjara 8 tahun atas plot pencurian kripto $2,7 juta dari selnya",
-   "x": "Seorang narapidana dijatuhi hukuman 8 tahun penjara karena merencanakan pencurian aset kripto senilai $2,7 juta. Pelaku menggunakan sel penjaranya untuk mengendalikan komplotan di luar.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T10:20:53"
   },
   {
    "id": 8946,
@@ -102,6 +102,20 @@
    "published_at": "2026-11-10T21:07:44"
   },
   {
+   "id": 9047,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Napi dipenjara 8 tahun atas plot pencurian kripto $2,7 juta dari selnya",
+   "x": "Seorang narapidana dijatuhi hukuman 8 tahun penjara karena merencanakan pencurian aset kripto senilai $2,7 juta. Pelaku menggunakan sel penjaranya untuk mengendalikan komplotan di luar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T10:20:53"
+  },
+  {
    "id": 9194,
    "k": "web3",
    "cat": "Web3",
@@ -110,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-13.35.10.png",
-   "a": "4 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T16:55:52"
@@ -124,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T20:07:41"
@@ -152,7 +166,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T05:54:48"
