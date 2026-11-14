@@ -1,22 +1,8 @@
 {
- "total": 40,
+ "total": 39,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 8992,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Singapura Buka Brankas Emas 500 Ton untuk Bank Sentral. Apakah Mereka Masih Membeli?",
-   "x": "Monetary Authority of Singapore (MAS) meluncurkan layanan penyimpanan emas untuk bank sentral asing. Brankas nasional ini mampu menampung hingga 500 ton emas. Peluncuran ini menjadi taruhan bahwa bank sentral akan terus…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/brankas-emas-singapura-bank-sentral-membeli",
-   "img": "https://assets.beincrypto.com/img/50vB1eydhSrwTOElMXaMHkO7mms=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-11T07:44:44"
-  },
   {
    "id": 9049,
    "k": "tokenisasi",
@@ -54,24 +40,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T21:49:27"
-  },
-  {
-   "id": 9041,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "OKX-ICE buka venue saham tokenisasi, gandeng perusahaan kripto",
-   "x": "OKXICE akan meluncurkan venue saham tokenisasi pada 23 November dengan lebih dari 70 aset. Keputusan ini diambil setelah perusahaan teknologi besar menolak partisipasi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T16:14:01"
   },
   {
    "id": 9155,
@@ -86,6 +58,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T13:42:07"
+  },
+  {
+   "id": 9041,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "OKX-ICE buka venue saham tokenisasi, gandeng perusahaan kripto",
+   "x": "OKXICE akan meluncurkan venue saham tokenisasi pada 23 November dengan lebih dari 70 aset. Keputusan ini diambil setelah perusahaan teknologi besar menolak partisipasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-11T16:14:01"
   },
   {
    "id": 9191,
@@ -130,20 +116,6 @@
    "published_at": "2026-11-12T13:44:03"
   },
   {
-   "id": 9166,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "SoFi hadirkan stablecoin banknya di tumpukan pembayaran Polygon",
-   "x": "Stablecoin SoFiUSD, yang diterbitkan oleh bank nasional AS, kini tersedia di Polygon. Ekspansi ini memperluas aksesibilitas stablecoin bagi jutaan anggota SoFi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T14:01:02"
-  },
-  {
    "id": 9157,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -156,6 +128,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T11:22:47"
+  },
+  {
+   "id": 9166,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "SoFi hadirkan stablecoin banknya di tumpukan pembayaran Polygon",
+   "x": "Stablecoin SoFiUSD, yang diterbitkan oleh bank nasional AS, kini tersedia di Polygon. Ekspansi ini memperluas aksesibilitas stablecoin bagi jutaan anggota SoFi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T14:01:02"
   },
   {
    "id": 9158,
@@ -180,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-lenders-interest-share-cut-proposal",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-allocation-pattern.webp",
-   "a": "8 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T18:30:35"
@@ -200,20 +186,6 @@
    "published_at": "2026-11-12T11:38:50"
   },
   {
-   "id": 9167,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "DTCC akan hadirkan saham dan obligasi tokenisasi di Solana pada 2027",
-   "x": "Perusahaan penyelesaian utama Wall Street akan menambahkan Solana ke layanan tokenisasi asetnya. Ini menandai langkah maju dalam integrasi aset digital dengan sistem keuangan tradisional.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T13:25:47"
-  },
-  {
    "id": 9083,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -226,6 +198,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-11T19:44:14"
+  },
+  {
+   "id": 9167,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "DTCC akan hadirkan saham dan obligasi tokenisasi di Solana pada 2027",
+   "x": "Perusahaan penyelesaian utama Wall Street akan menambahkan Solana ke layanan tokenisasi asetnya. Ini menandai langkah maju dalam integrasi aset digital dengan sistem keuangan tradisional.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T13:25:47"
   },
   {
    "id": 9048,
@@ -250,7 +236,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bases-usdc-transfer-footprint-does-not-prove-merchant-reach-data-shows",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/base-usdc-freight-yard.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T06:50:40"
@@ -270,6 +256,20 @@
    "published_at": "2026-11-12T13:21:56"
   },
   {
+   "id": 9270,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Sebuah Perusahaan Treasury Solana Raup US$66,6 Juta tanpa Raup Banyak Pendapatan",
+   "x": "Saham DeFi Development (DFDV) turun 8,95% dari penutupan sebelumnya di US$3,24 menjadi US$2,95 pada 12 November. Penurunan ini terjadi di hari saat perusahaan treasury Solana (SOL) tersebut melaporkan laba kuartal…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-q3-laba-saham-turun",
+   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-13T11:18:50"
+  },
+  {
    "id": 9168,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -282,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T13:06:24"
-  },
-  {
-   "id": 9270,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Sebuah Perusahaan Treasury Solana Raup US$66,6 Juta tanpa Raup Banyak Pendapatan",
-   "x": "Saham DeFi Development (DFDV) turun 8,95% dari penutupan sebelumnya di US$3,24 menjadi US$2,95 pada 12 November. Penurunan ini terjadi di hari saat perusahaan treasury Solana (SOL) tersebut melaporkan laba kuartal…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-q3-laba-saham-turun",
-   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
-   "a": "15 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T11:18:50"
   },
   {
    "id": 9160,
@@ -474,7 +460,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-14.59.24.png",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T12:27:41"
@@ -502,7 +488,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/thailand.png",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T10:16:04"

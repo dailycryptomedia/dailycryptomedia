@@ -1,5 +1,5 @@
 {
- "total": 24,
+ "total": 19,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/kerugian-hack-kripto-melebihi-pendapatan-2026",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T04:45:05"
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/binance-bangkit-100-persen-aset-pulih-usai-peretasan-besar",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T07:00:14"
@@ -102,18 +102,18 @@
    "published_at": "2026-11-12T20:01:30"
   },
   {
-   "id": 8985,
+   "id": 9153,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Initia konfirmasi eksploitasi kedua dalam 3 minggu, $3,27 juta dicuri",
-   "x": "Protokol Initia kembali menjadi korban peretasan, dengan kerugian mencapai jutaan dolar akibat eksploitasi kredensial cloud. Insiden ini menyoroti risiko keamanan yang masih ada dalam ekosistem aset digital dan pentingnya pengamanan infrastruktur.",
+   "t": "Proposal DeFi Uni Eropa bisa dorong pengguna ke platform berisiko, kata eksekutif Coinbase",
+   "x": "Eksekutif Coinbase berpendapat regulasi DeFi Uni Eropa yang terlalu ketat dapat membatasi akses pengguna dan memecah likuiditas. Hal ini menimbulkan kekhawatiran tentang dampak regulasi terhadap inovasi DeFi.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T05:52:14"
+   "published_at": "2026-11-12T12:21:43"
   },
   {
    "id": 9185,
@@ -158,20 +158,6 @@
    "published_at": "2026-11-11T15:04:49"
   },
   {
-   "id": 9153,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Proposal DeFi Uni Eropa bisa dorong pengguna ke platform berisiko, kata eksekutif Coinbase",
-   "x": "Eksekutif Coinbase berpendapat regulasi DeFi Uni Eropa yang terlalu ketat dapat membatasi akses pengguna dan memecah likuiditas. Hal ini menimbulkan kekhawatiran tentang dampak regulasi terhadap inovasi DeFi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T12:21:43"
-  },
-  {
    "id": 9106,
    "k": "defi",
    "cat": "DeFi",
@@ -200,20 +186,6 @@
    "published_at": "2026-11-11T13:52:43"
   },
   {
-   "id": 8986,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Across Protocol pulihkan situs web setelah peretas ambil alih domain",
-   "x": "Peretas berhasil mengambil alih domain registrar Across Protocol melalui serangan rekayasa sosial. Hal ini menyebabkan pengguna dialihkan ke situs phishing.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74EHM7R9ATYZA82TJHYCP49/hi-the-dangers-of-perceived-anonymity-russian-hackers-bitcoin-trail02-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T04:42:30"
-  },
-  {
    "id": 9087,
    "k": "defi",
    "cat": "DeFi",
@@ -228,18 +200,18 @@
    "published_at": "2026-11-11T20:32:19"
   },
   {
-   "id": 8996,
+   "id": 9323,
    "k": "defi",
    "cat": "DeFi",
-   "t": "The Fed dan Reli Utang AI: Di Mana Tekanan Akan Terjadi?",
-   "x": "Ledakan utang AI bertemu dengan kenaikan suku bunga The Fed yang lebih cepat saat imbal hasil melampaui 5%, membuat CoreWeave dan para pesaingnya terpapar pada biaya utang yang lebih tinggi.",
+   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
+   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/the-fed-kenaikan-taruhan-generative-ai-ledakan-utang",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
+   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T05:29:40"
+   "published_at": "2026-11-13T22:22:41"
   },
   {
    "id": 9053,
@@ -256,34 +228,6 @@
    "published_at": "2026-11-11T13:35:02"
   },
   {
-   "id": 9323,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
-   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
-   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T22:22:41"
-  },
-  {
-   "id": 8990,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Tron Inc catat kenaikan laba bersih 22% di Q3 seiring pertumbuhan pendapatan staking",
-   "x": "Pendapatan bersih Tron Inc naik 22% pada kuartal ketiga, didorong oleh pendapatan staking yang belum terealisasi. Kinerja positif ini menunjukkan pertumbuhan operasional perusahaan di tengah pasar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/tron_editorial_1920x1080.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T04:02:02"
-  },
-  {
    "id": 9236,
    "k": "defi",
    "cat": "DeFi",
@@ -292,7 +236,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/doj-1-2-miliar-peretasan-binance-korea-utara",
    "img": "https://assets.beincrypto.com/img/1pr8gwZyaKvb_jfSXgc0hOdgwus=/smart/3f1301f25b0c4ebfb6b6d03282f4233b",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-13T05:18:27"
@@ -324,20 +268,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T18:59:53"
-  },
-  {
-   "id": 9001,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peter Brandt Perkirakan Imbal Hasil 30 Tahun ke 7%. Apakah Bitcoin dan Saham Bisa Bertahan?",
-   "x": "Peter Brandt mengatakan yield 30 tahun bisa mencapai 7%. Lihat apa artinya bagi hipotek, saham, dan harga Bitcoin.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/brandt-imbal-hasil-30-tahun-7-persen",
-   "img": "https://assets.beincrypto.com/img/H--X1BY5Rlu1jDZ2_8ZXXSxk8mo=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-11T01:45:00"
   }
  ]
 }

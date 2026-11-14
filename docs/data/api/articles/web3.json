@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,24 +26,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/acurast-calon-hidden-gem-crypto-358-ribu-hp-terdaftar-valuasi-baru-us55-juta",
    "img": null,
-   "a": "20 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T02:30:57"
-  },
-  {
-   "id": 9003,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Lighthouse rilis patch darurat node Ethereum karena celah keamanan tersembunyi",
-   "x": "Lighthouse mengeluarkan pembaruan darurat untuk node Ethereum guna mengatasi celah keamanan yang tersembunyi. Pembaruan ini krusial untuk menjaga stabilitas dan keamanan jaringan Ethereum, yang menjadi fondasi bagi banyak aplikasi DeFi dan aset digital lainnya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T07:10:08"
   },
   {
    "id": 9269,
@@ -54,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/facestealer-korea-utara-fbi-crypto",
    "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-13T11:51:06"
@@ -82,7 +68,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/chainstack_security_1920x1080.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T08:39:57"
@@ -96,24 +82,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
-   "a": "4 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T22:01:03"
   },
   {
-   "id": 9010,
+   "id": 9251,
    "k": "web3",
    "cat": "Web3",
-   "t": "Pengguna iPhone waspada peretasan aset kripto",
-   "x": "Binance mengungkap adanya celah keamanan pada sistem operasi iOS yang berpotensi membahayakan private key dan wallet kripto pengguna iPhone. Pengguna diimbau untuk berhati-hati.",
+   "t": "Dompet Crypto yang Dijual di Tokopedia Dipastikan Mengandung Chip Ilegal",
+   "x": "Trezor mengonfirmasi bahwa tiga model dompet crypto yang dijual di Tokopedia dan Shopee mengandung chip berbahaya. Chip ini berisiko mencuri recovery phrase pengguna.",
    "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/awas-kena-hack-pengguna-iphone-yang-punya-kripto-wajib-baca-ini",
+   "url": "https://blockchainmedia.id/dompet-crypto-yang-dijual-di-tokopedia-dipastikan-mengandung-chip-ilegal",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T06:00:58"
+   "published_at": "2026-11-13T03:30:51"
   },
   {
    "id": 9038,
@@ -172,34 +158,6 @@
    "published_at": "2026-11-12T20:07:41"
   },
   {
-   "id": 9251,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Crypto yang Dijual di Tokopedia Dipastikan Mengandung Chip Ilegal",
-   "x": "Trezor mengonfirmasi bahwa tiga model dompet crypto yang dijual di Tokopedia dan Shopee mengandung chip berbahaya. Chip ini berisiko mencuri recovery phrase pengguna.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/dompet-crypto-yang-dijual-di-tokopedia-dipastikan-mengandung-chip-ilegal",
-   "img": null,
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-13T03:30:51"
-  },
-  {
-   "id": 9122,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Korea Selatan izinkan pembekuan penarikan kripto saat ancaman peretasan",
-   "x": "Otoritas Korea Selatan akan mengizinkan pembekuan penarikan aset kripto jika terjadi ancaman peretasan. Langkah ini diambil menyusul insiden keamanan di bursa kripto lokal untuk melindungi dana pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T05:54:48"
-  },
-  {
    "id": 9254,
    "k": "web3",
    "cat": "Web3",
@@ -212,6 +170,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T02:00:43"
+  },
+  {
+   "id": 9329,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Induk MegaETH pangkas 20% staf dalam restrukturisasi",
+   "x": "Perusahaan induk MegaETH melakukan restrukturisasi yang berdampak pada 20% karyawannya. Langkah ini dilakukan seiring dengan upaya perusahaan untuk fokus pada pengembangan kecerdasan buatan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-14T08:12:30"
+  },
+  {
+   "id": 9122,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Korea Selatan izinkan pembekuan penarikan kripto saat ancaman peretasan",
+   "x": "Otoritas Korea Selatan akan mengizinkan pembekuan penarikan aset kripto jika terjadi ancaman peretasan. Langkah ini diambil menyusul insiden keamanan di bursa kripto lokal untuk melindungi dana pengguna.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T05:54:48"
   },
   {
    "id": 9025,
