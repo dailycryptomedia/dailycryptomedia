@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -60,20 +60,6 @@
    "published_at": "2026-11-12T14:00:00"
   },
   {
-   "id": 9039,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Apa itu Solana Privacy Rings? Protokol Privasi Helius untuk Solana",
-   "x": "Solana Privacy Rings memungkinkan enkripsi saldo dan jumlah transfer tanpa meninggalkan blockchain Solana. Protokol ini menawarkan peningkatan privasi bagi pengguna.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T17:09:18"
-  },
-  {
    "id": 9248,
    "k": "defi",
    "cat": "DeFi",
@@ -96,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/nasabah-binance-telah-dilunasi-sepenuhnya-setelah-peretasan",
    "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T20:01:30"
@@ -124,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-lending-withdrawal-hatch.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T18:50:20"
@@ -144,18 +130,18 @@
    "published_at": "2026-11-12T10:30:00"
   },
   {
-   "id": 9029,
+   "id": 9323,
    "k": "defi",
    "cat": "DeFi",
-   "t": "BitMine Akan Segera Berhenti Membeli ETH. Berikut Asal Koin Barunya",
-   "x": "BitMine mencatat rugi bersih sebesar US$6,3 miliar untuk tahun sampai 31 Agustus, menurut laporan tahunannya. Penurunan yang belum direalisasi dari nilai kepemilikan Ethereum (ETH) mereka menjadi penyebab utamanya…",
+   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
+   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitmine-ethereum-rugi-bersih-pendapatan-staking",
-   "img": "https://assets.beincrypto.com/img/ARJ1kU__3erZ3DGOQWOFMfwFbjk=/smart/34a3651617b842a6b0c3f96f0e60935f",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
+   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-11T15:04:49"
+   "published_at": "2026-11-13T22:22:41"
   },
   {
    "id": 9106,
@@ -172,62 +158,6 @@
    "published_at": "2026-11-12T02:25:14"
   },
   {
-   "id": 9033,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Line CEO CoreWeave yang Jarang Diketahui Bantu Dorong Reli Saham CRWV 15%",
-   "x": "Saham CoreWeave naik 15,6% di pre-market setelah CEO-nya menolak utang tanpa jaminan pada yield saat ini, dengan alasan adanya prabayar sebesar $9 miliar.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/coreweave-ceo-utang-tidak-beragunan-reli-saham",
-   "img": "https://assets.beincrypto.com/img/EMfcUFt0Sc0yJXxS7m5JixlNalw=/smart/b5cbb6007d544dc68509c7612fb0b836",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-11T13:52:43"
-  },
-  {
-   "id": 9087,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "DogeOS 'sangat, sangat dekat' luncurkan fitur DeFi, lapisan aplikasi untuk Dogecoin",
-   "x": "DogeOS berupaya memberi pemegang DOGE lebih banyak cara untuk menggunakan token melalui game, aplikasi, dan layanan keuangan. Ini menandakan upaya perluasan utilitas Dogecoin di luar sekadar aset spekulatif.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T20:32:19"
-  },
-  {
-   "id": 9323,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
-   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
-   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T22:22:41"
-  },
-  {
-   "id": 9053,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Laser Digital Nomura bantu luncurkan brankas kredit UKM Saudi target $100 juta di BNB Chain",
-   "x": "Nomura melalui Laser Digital mendukung peluncuran brankas kredit swasta tokenisasi untuk UKM Saudi di BNB Chain. Inisiatif ini bertujuan mengumpulkan dana hingga $100 juta, menunjukkan potensi tokenisasi dalam pembiayaan bisnis.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-11-at-11.56.55.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T13:35:02"
-  },
-  {
    "id": 9236,
    "k": "defi",
    "cat": "DeFi",
@@ -242,18 +172,18 @@
    "published_at": "2026-11-13T05:18:27"
   },
   {
-   "id": 9059,
+   "id": 9087,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Protokol lintas-rantai Across pulihkan sistem setelah peretasan domain",
-   "x": "Protokol lintas-rantai Across berhasil memulihkan sistemnya setelah mengalami peretasan domain. Peretas berhasil menguasai domain resmi melalui serangan rekayasa sosial terhadap registrar domain.",
+   "t": "DogeOS 'sangat, sangat dekat' luncurkan fitur DeFi, lapisan aplikasi untuk Dogecoin",
+   "x": "DogeOS berupaya memberi pemegang DOGE lebih banyak cara untuk menggunakan token melalui game, aplikasi, dan layanan keuangan. Ini menandakan upaya perluasan utilitas Dogecoin di luar sekadar aset spekulatif.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_1.jpg",
+   "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/kabosu-doge.png",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-11T10:55:24"
+   "published_at": "2026-11-11T20:32:19"
   },
   {
    "id": 9176,
@@ -264,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/safepal-pelanggaran-data-scam-letters",
    "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-12T18:59:53"

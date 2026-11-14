@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 18,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,6 +46,20 @@
    "published_at": "2026-11-13T06:40:32"
   },
   {
+   "id": 9358,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulasi MiCA beri 'paspor' kripto, tapi pelanggan masih hadapi hambatan",
+   "x": "Meskipun regulasi MiCA Uni Eropa memudahkan operasional aset kripto, pengguna di Hungaria masih menghadapi perbedaan pengalaman tergantung aplikasi yang digunakan. Ini menunjukkan tantangan implementasi regulasi di lapangan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/mica-passport-access.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-14T18:40:48"
+  },
+  {
    "id": 9237,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -68,10 +82,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T17:46:02"
+  },
+  {
+   "id": 9299,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Regulator AS lanjutkan izin trust kripto di tengah pengawasan Senat",
+   "x": "Perusahaan trust Coinbase mendapat izin final dari regulator AS, seiring Senat meningkatkan pengawasan terhadap kepatuhan dan potensi konflik kepentingan di industri aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg",
+   "a": "23 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T20:53:20"
   },
   {
    "id": 9114,
@@ -88,18 +116,60 @@
    "published_at": "2026-11-12T01:40:47"
   },
   {
-   "id": 9299,
+   "id": 9354,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Regulator AS lanjutkan izin trust kripto di tengah pengawasan Senat",
-   "x": "Perusahaan trust Coinbase mendapat izin final dari regulator AS, seiring Senat meningkatkan pengawasan terhadap kepatuhan dan potensi konflik kepentingan di industri aset digital.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg",
-   "a": "19 jam lalu",
+   "t": "Jaksa Agung Louisiana sebut ketua CFTC 'corong' pasar prediksi usai gugatan",
+   "x": "Jaksa Agung Louisiana mengkritik ketua CFTC setelah badan tersebut menggugat negara bagian itu untuk memblokir perintah pengadilan yang melarang 31 pasar prediksi. Ini menunjukkan adanya perselisihan hukum terkait regulasi pasar prediksi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-13T20:53:20"
+   "published_at": "2026-11-14T19:06:59"
+  },
+  {
+   "id": 9362,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OpenAI, Anthropic, Google Hadapi Gugatan Minta Penghentian Pengembangan AI",
+   "x": "Empat kelompok advokasi menggugat pengembang AI besar, termasuk OpenAI dan Google, meminta penghentian pengembangan model AI yang lebih kuat. Gugatan ini menyoroti kekhawatiran dampak buruk teknologi AI di masa depan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-14T17:01:02"
+  },
+  {
+   "id": 9119,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Tron dan Tether gandeng Chainalysis usai unit kejahatan T3 bubar",
+   "x": "Aliansi baru ini akan fokus pada aktivitas USDT ilegal di jaringan Tron dan membantu penegak hukum melacak serta membekukan dana mencurigakan. Langkah ini diambil setelah unit investigasi sebelumnya dibubarkan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T11:00:00"
+  },
+  {
+   "id": 9190,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Voorhees peringatkan veto pemerintah atas AI seperti Sauron",
+   "x": "Seorang tokoh industri memperingatkan potensi kontrol pemerintah terhadap rilis kecerdasan buatan. Hal ini mengacu pada usulan undang-undang dan platform kampanye yang ada.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-access-master-key.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-12T14:45:29"
   },
   {
    "id": 9086,
@@ -124,52 +194,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-13T17:56:03"
-  },
-  {
-   "id": 9190,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Voorhees peringatkan veto pemerintah atas AI seperti Sauron",
-   "x": "Seorang tokoh industri memperingatkan potensi kontrol pemerintah terhadap rilis kecerdasan buatan. Hal ini mengacu pada usulan undang-undang dan platform kampanye yang ada.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-access-master-key.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T14:45:29"
-  },
-  {
-   "id": 9119,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Tron dan Tether gandeng Chainalysis usai unit kejahatan T3 bubar",
-   "x": "Aliansi baru ini akan fokus pada aktivitas USDT ilegal di jaringan Tron dan membantu penegak hukum melacak serta membekukan dana mencurigakan. Langkah ini diambil setelah unit investigasi sebelumnya dibubarkan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T11:00:00"
-  },
-  {
-   "id": 9240,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Gedung Putih Ajukan Kandidat untuk Kursi SEC dan CFTC",
-   "x": "Gedung Putih mengajukan beberapa nama untuk mengisi posisi di Komisi Sekuritas dan Bursa AS (SEC) serta Komisi Perdagangan Berjangka Komoditas AS (CFTC). Harapannya, kandidat ini dapat merumuskan regulasi kripto yang stabil dan inovatif.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/whitehouse-nomination.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-13T04:56:47"
+   "published_at": "2026-11-13T17:56:03"
   },
   {
    "id": 9232,
@@ -186,6 +214,20 @@
    "published_at": "2026-11-13T02:29:27"
   },
   {
+   "id": 9240,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Gedung Putih Ajukan Kandidat untuk Kursi SEC dan CFTC",
+   "x": "Gedung Putih mengajukan beberapa nama untuk mengisi posisi di Komisi Sekuritas dan Bursa AS (SEC) serta Komisi Perdagangan Berjangka Komoditas AS (CFTC). Harapannya, kandidat ini dapat merumuskan regulasi kripto yang stabil dan inovatif.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/whitehouse-nomination.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T04:56:47"
+  },
+  {
    "id": 9220,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -198,20 +240,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T22:40:22"
-  },
-  {
-   "id": 9054,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OKXICE luncurkan platform sekuritas tokenisasi 23 November",
-   "x": "OKXICE akan meluncurkan platform perdagangan sekuritas tokenisasi pada akhir November di bawah pengecualian inovasi SEC. Peluncuran ini merupakan langkah maju dalam integrasi aset digital dan pasar modal tradisional.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-11T13:01:02"
   },
   {
    "id": 9198,
