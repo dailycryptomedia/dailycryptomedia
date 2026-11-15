@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/tokenization-briefing-1920x1080-2.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T20:02:00"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fed-funding-bitcoin-barrier.webp",
-   "a": "2 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T12:50:56"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/canton-network-privacy-learn-gID_4-pID_6.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T16:01:02"
@@ -88,18 +88,18 @@
    "published_at": "2026-11-13T12:27:41"
   },
   {
-   "id": 9224,
+   "id": 9399,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Treasury Solana Forward Industries tawarkan diskon SOL 30%, dengan syarat",
-   "x": "Forward Industries menawarkan diskon signifikan untuk token SOL, namun terdapat syarat yang perlu diperhatikan. Penawaran ini dapat memengaruhi persepsi pasar terhadap aset digital Solana.",
+   "t": "Tether ingin token emasnya menyaingi ETF",
+   "x": "Tether berupaya menjadikan token emasnya sebagai pesaing produk ETF emas yang sudah ada. Dukungan dari Anchorage untuk penjualan institusional dan pembiayaan klien menunjukkan langkah ini diarahkan untuk menarik investor besar.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/forward-solana-share-claims.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xaut-gold-dealer-redemption.webp",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T22:50:29"
+   "published_at": "2026-11-15T17:25:18"
   },
   {
    "id": 9207,
@@ -110,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T15:55:38"
@@ -130,18 +130,18 @@
    "published_at": "2026-11-13T10:16:04"
   },
   {
-   "id": 9307,
+   "id": 9224,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Rencana Aave bisa pangkas imbal hasil pemberi pinjaman hingga 60%",
-   "x": "Usulan pembagian imbal hasil di platform Aave berpotensi mengurangi pendapatan sebagian pemberi pinjaman stablecoin. Hal ini dapat memengaruhi daya tarik DeFi bagi investor.",
+   "t": "Treasury Solana Forward Industries tawarkan diskon SOL 30%, dengan syarat",
+   "x": "Forward Industries menawarkan diskon signifikan untuk token SOL, namun terdapat syarat yang perlu diperhatikan. Penawaran ini dapat memengaruhi persepsi pasar terhadap aset digital Solana.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aave-lenders-interest-share-cut-proposal",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-allocation-pattern.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/forward-solana-share-claims.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-13T18:30:35"
+   "published_at": "2026-11-12T22:50:29"
   },
   {
    "id": 9195,
@@ -152,10 +152,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/visa.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T16:00:00"
+  },
+  {
+   "id": 9307,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Rencana Aave bisa pangkas imbal hasil pemberi pinjaman hingga 60%",
+   "x": "Usulan pembagian imbal hasil di platform Aave berpotensi mengurangi pendapatan sebagian pemberi pinjaman stablecoin. Hal ini dapat memengaruhi daya tarik DeFi bagi investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/aave-lenders-interest-share-cut-proposal",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-allocation-pattern.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-13T18:30:35"
   },
   {
    "id": 9197,
@@ -166,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-12-at-14.51.21.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T15:23:26"
