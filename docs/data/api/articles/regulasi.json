@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/mica-passport-access.webp",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T18:40:48"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_cftc_arkansas_1920x1080.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T09:32:39"
@@ -96,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cryptos-168-million-election-78-winners-13-newcomers-and-one-costly-defeat",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-ohio-spending-defeat.webp",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T21:40:06"
@@ -110,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T19:06:59"
@@ -124,24 +124,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T17:01:02"
   },
   {
-   "id": 9119,
+   "id": 9232,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Tron dan Tether gandeng Chainalysis usai unit kejahatan T3 bubar",
-   "x": "Aliansi baru ini akan fokus pada aktivitas USDT ilegal di jaringan Tron dan membantu penegak hukum melacak serta membekukan dana mencurigakan. Langkah ini diambil setelah unit investigasi sebelumnya dibubarkan.",
+   "t": "Trump nominasi pengganti Hester Peirce di SEC dan CFTC",
+   "x": "Presiden AS Donald Trump mengusulkan nama-nama untuk mengisi posisi di Komisi Sekuritas dan Bursa Amerika Serikat (SEC) dan Komisi Perdagangan Berjangka Komoditas AS (CFTC). Nominasi ini mencakup pengganti Hester Peirce dan veteran undang-undang terkait.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+   "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T11:00:00"
+   "published_at": "2026-11-13T02:29:27"
   },
   {
    "id": 9190,
@@ -152,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-access-master-key.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T14:45:29"
@@ -184,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T17:56:03"
-  },
-  {
-   "id": 9232,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Trump nominasi pengganti Hester Peirce di SEC dan CFTC",
-   "x": "Presiden AS Donald Trump mengusulkan nama-nama untuk mengisi posisi di Komisi Sekuritas dan Bursa Amerika Serikat (SEC) dan Komisi Perdagangan Berjangka Komoditas AS (CFTC). Nominasi ini mencakup pengganti Hester Peirce dan veteran undang-undang terkait.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-13T02:29:27"
   },
   {
    "id": 9220,
