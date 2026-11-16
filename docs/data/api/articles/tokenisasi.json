@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-11-13T21:49:27"
   },
   {
+   "id": 9456,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Boris Johnson dukung tokenisasi, bulan lalu sebut bitcoin skema Ponzi",
+   "x": "Mantan Perdana Menteri Inggris Boris Johnson kini mendukung tokenisasi dan teknologi blockchain. Perubahan sikap ini menarik mengingat pandangannya yang skeptis terhadap aset kripto sebelumnya.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2159741844-scaled-e1794844079465.jpg",
+   "a": "3 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T16:49:23"
+  },
+  {
    "id": 9392,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fed-funding-bitcoin-barrier.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T12:50:56"
@@ -40,24 +54,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/canton-network-privacy-learn-gID_4-pID_6.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T16:01:02"
   },
   {
-   "id": 9270,
+   "id": 9455,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Sebuah Perusahaan Treasury Solana Raup US$66,6 Juta tanpa Raup Banyak Pendapatan",
-   "x": "Saham DeFi Development (DFDV) turun 8,95% dari penutupan sebelumnya di US$3,24 menjadi US$2,95 pada 12 November. Penurunan ini terjadi di hari saat perusahaan treasury Solana (SOL) tersebut melaporkan laba kuartal…",
+   "t": "Imbal Hasil Treasury 10 Tahun Reli di Atas 5% saat Lindung Nilai Obligasi Timmer Melemah",
+   "x": "Imbal hasil Treasury 10-tahun melonjak kembali ke 5,15% seiring taruhan kenaikan suku bunga The Fed meningkat, menguji prediksi lindung nilai obligasi dari Jurrien Timmer Fidelity.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-q3-laba-saham-turun",
-   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/imbal-hasil-treasury-10-tahun-hedge-obligasi",
+   "img": "https://assets.beincrypto.com/img/zmVFCjO6r4Rd708TtrF2rH-mPnc=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-13T11:18:50"
+   "published_at": "2026-11-16T11:39:24"
+  },
+  {
+   "id": 9435,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Zelle pilih Solana untuk stablecoin ZelleUSD dan pembayaran internasional",
+   "x": "Zelle akan menggunakan blockchain Solana untuk stablecoin ZelleUSD dan layanan pembayaran internasional. Langkah ini menandai adopsi teknologi blockchain untuk sistem pembayaran global yang lebih efisien.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J2PYBEKD9SZX7YQXC7QW4N/network-with-transparent-logos.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T14:55:46"
   },
   {
    "id": 9285,
@@ -68,7 +96,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-14.59.24.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T12:27:41"
@@ -82,10 +110,52 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xaut-gold-dealer-redemption.webp",
-   "a": "13 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T17:25:18"
+  },
+  {
+   "id": 9469,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "DTCC, Barclays: Manfaat Nyata Tokenisasi adalah Membuka Agunan Menganggur",
+   "x": "Tokenisasi aset dunia nyata berpotensi membuka likuiditas dari agunan yang sebelumnya tidak terpakai. Perusahaan seperti DTCC dan Barclays melihat potensi besar dalam adopsi teknologi ini untuk efisiensi pasar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/barclays-dtcc-breakpoint-gID_7.jpg",
+   "a": "41 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T16:11:31"
+  },
+  {
+   "id": 9270,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Sebuah Perusahaan Treasury Solana Raup US$66,6 Juta tanpa Raup Banyak Pendapatan",
+   "x": "Saham DeFi Development (DFDV) turun 8,95% dari penutupan sebelumnya di US$3,24 menjadi US$2,95 pada 12 November. Penurunan ini terjadi di hari saat perusahaan treasury Solana (SOL) tersebut melaporkan laba kuartal…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/pengembangan-decentralized-finance-q3-laba-saham-turun",
+   "img": "https://assets.beincrypto.com/img/orbz2E2s5tmEZmiNrmci9NgtAeU=/smart/22d8c0bc2a0c48e49e04b4f7c2975d8d",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-13T11:18:50"
+  },
+  {
+   "id": 9440,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "HKMA dan Swift jajaki deposit tokenisasi untuk pembayaran lintas batas",
+   "x": "Otoritas Moneter Hong Kong (HKMA) dan Swift menjajaki penggunaan deposit tokenisasi untuk pembayaran lintas batas. Inisiatif ini berpotensi menyederhanakan dan mempercepat transaksi perbankan internasional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J398NA409DFNBP1NFSP0YW/blockchain-technology-takes-hold-swift-1.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T12:54:51"
   },
   {
    "id": 9286,
@@ -96,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/thailand.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T10:16:04"
@@ -114,6 +184,62 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T18:30:35"
+  },
+  {
+   "id": 9475,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Elon Musk dukung petisi kembalikan Jensen Huang ke Nvidia",
+   "x": "Elon Musk dan 160.000 orang menandatangani petisi agar Jensen Huang kembali memimpin Nvidia. Hal ini terjadi di tengah isu bahwa Menteri Keuangan AS Scott Bessent menilai Nvidia butuh perubahan besar.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-elon-musk-gID_7.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T09:25:01"
+  },
+  {
+   "id": 9443,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Kinexys DBS, JPMorgan Luncurkan Transfer Deposit Tokenisasi 24/7",
+   "x": "Layanan transfer deposit tokenisasi yang beroperasi nonstop telah diluncurkan oleh Kinexys, kolaborasi DBS dan JPMorgan. Klien kini dapat memindahkan deposit dolar AS antara Singapura dan AS secara instan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HQDZG97Z39GHB9PREQ9EAS/hi-open-finance-vs-decentralized-finance-dbs-bank.jpg",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T08:50:50"
+  },
+  {
+   "id": 9465,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "DBS, JPMorgan Luncurkan Transfer Deposit Tokenisasi Instan AS-Singapura",
+   "x": "Dua bank besar meluncurkan layanan transfer deposit tokenisasi instan antara Amerika Serikat dan Singapura. Layanan ini memungkinkan manajemen kas dan likuiditas lintas entitas perusahaan di kedua negara.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T09:26:39"
+  },
+  {
+   "id": 9481,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Pasar stablecoin Solana menyusut $919 juta, USDC justru tumbuh",
+   "x": "Total kapitalisasi pasar stablecoin di jaringan Solana menyusut $919 juta, meskipun USDC menunjukkan pertumbuhan. Penurunan ini disebabkan oleh menyusutnya nilai USDT dan stablecoin besar lainnya.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-usdc-stablecoin-receding-pool.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T11:10:10"
   }
  ]
 }

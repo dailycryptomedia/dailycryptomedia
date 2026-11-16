@@ -1,8 +1,22 @@
 {
- "total": 7,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 9446,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Saham Chip AI Lanjutkan Aksi Jual saat Senin Dibuka Merah Tajam",
+   "x": "Saham chip menghadapi potensi kerugian sekitar USD260 miliar pada pembukaan hari Senin setelah kehilangan lebih dari USD650 miliar dalam dua hari, seiring krisis kepemimpinan Nvidia, kenaikan imbal hasil, dan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/saham-chip-kerugian-260-miliar-menjadi-650-miliar-dalam-dua-hari",
+   "img": "https://assets.beincrypto.com/img/kqtLU5YUAkvbmYKgniZ3-JPghc8=/smart/c912452218974e54b0c033ac4f4dd487",
+   "a": "52 menit lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-16T16:00:21"
+  },
   {
    "id": 9383,
    "k": "defi",
@@ -12,38 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
-   "a": "16 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T14:30:00"
   },
   {
-   "id": 9411,
+   "id": 9457,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Sebelum Peretasan Binance, Korea Utara Catat 49 Server AS untuk Diserang: Apakah Mereka Berhasil Ditembus?",
-   "x": "Hacker yang terkait Korea Utara mencantumkan 49 server AS untuk diserang beberapa hari sebelum peretasan Binance. Berikut yang telah dikonfirmasi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/daftar-hitam-korea-utara-server-as-binance-2",
-   "img": "https://assets.beincrypto.com/img/3hLsd__VDd1U1vZWgWNvA9gHyaM=/smart/a00e2d0772ac4862b2bfb684b5a30645",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-15T22:00:00"
-  },
-  {
-   "id": 9248,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Binance Bangkit! 100% Aset Pulih Usai Peretasan Besar",
-   "x": "Bursa kripto Binance berhasil memulihkan seluruh aset yang terdampak peretasan besar senilai Rp114 triliun. Rasio cadangan perusahaan kini kembali di atas 100 persen, menunjukkan ketahanan operasionalnya.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/binance-bangkit-100-persen-aset-pulih-usai-peretasan-besar",
-   "img": null,
-   "a": "2 hari lalu",
+   "t": "DeFi Development Corp. tambah 9.482 SOL seiring dividen CHAD capai 31 hari",
+   "x": "DeFi Development Corp. menambah kepemilikan SOL di kasnya, melanjutkan tren positif selama 10 minggu berturut-turut. Hal ini menunjukkan aktivitas pengembangan yang berkelanjutan dalam ekosistem Solana.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
+   "a": "36 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-13T07:00:14"
+   "published_at": "2026-11-16T16:16:17"
   },
   {
    "id": 9394,
@@ -54,10 +54,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T08:00:11"
+  },
+  {
+   "id": 9488,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Berawal dari Tes Coding, Begini Awal Mula Peretasan Binance",
+   "x": "Peretasan besar di Binance terungkap berawal dari tawaran pekerjaan palsu yang berisi tes coding berbahaya. Insiden ini menyoroti modus penipuan baru yang mengincar karyawan bursa kripto.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/berawal-dari-tes-coding-begini-awal-mula-peretasan-binance",
+   "img": null,
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T07:00:23"
+  },
+  {
+   "id": 9411,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Sebelum Peretasan Binance, Korea Utara Catat 49 Server AS untuk Diserang: Apakah Mereka Berhasil Ditembus?",
+   "x": "Hacker yang terkait Korea Utara mencantumkan 49 server AS untuk diserang beberapa hari sebelum peretasan Binance. Berikut yang telah dikonfirmasi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/daftar-hitam-korea-utara-server-as-binance-2",
+   "img": "https://assets.beincrypto.com/img/3hLsd__VDd1U1vZWgWNvA9gHyaM=/smart/a00e2d0772ac4862b2bfb684b5a30645",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-15T22:00:00"
   },
   {
    "id": 9370,
@@ -74,6 +102,20 @@
    "published_at": "2026-11-15T06:27:26"
   },
   {
+   "id": 9462,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Solana lepas label 'mainnet beta', adopsi protokol versi 1.0",
+   "x": "Solana Foundation secara resmi mengakhiri status 'mainnet beta' untuk jaringannya dan memperkenalkan Solana 1.0. Perubahan ini menandakan kematangan protokol dan stabilitas jaringan bagi pengembang dan pengguna.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T12:30:35"
+  },
+  {
    "id": 9323,
    "k": "defi",
    "cat": "DeFi",
@@ -86,20 +128,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-13T22:22:41"
-  },
-  {
-   "id": 9236,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "AS Bergerak untuk Sita US$1,2 Miliar dari Peretasan Binance. Di Mana Sisanya?",
-   "x": "Departemen Kehakiman AS mendapat persetujuan pengadilan untuk menyita atau membekukan lebih dari US$1,2 miliar yang dicuri dari Binance. Uang tersebut berasal dari peretasan pada 29 Oktober yang FBI tuduhkan kepada unit…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/doj-1-2-miliar-peretasan-binance-korea-utara",
-   "img": "https://assets.beincrypto.com/img/1pr8gwZyaKvb_jfSXgc0hOdgwus=/smart/3f1301f25b0c4ebfb6b6d03282f4233b",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T05:18:27"
   }
  ]
 }
