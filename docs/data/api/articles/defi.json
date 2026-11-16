@@ -1,22 +1,8 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 9175,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pelanggan Binance Kena Dampak Peretasan US$6,3 Miliar Sudah Sepenuhnya Diganti, Kata Exchange",
-   "x": "Binance mengatakan telah mengganti semua aset yang hilang dalam peretasan senilai $6,3 miliar. Pengguna menunggu pemeriksaan proof of reserves untuk mengonfirmasinya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/nasabah-binance-telah-dilunasi-sepenuhnya-setelah-peretasan",
-   "img": "https://assets.beincrypto.com/img/Jk_NnbwjsIFY4gZwEYNOR29z328=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-12T20:01:30"
-  },
   {
    "id": 9383,
    "k": "defi",
@@ -26,10 +12,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T14:30:00"
+  },
+  {
+   "id": 9411,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Sebelum Peretasan Binance, Korea Utara Catat 49 Server AS untuk Diserang: Apakah Mereka Berhasil Ditembus?",
+   "x": "Hacker yang terkait Korea Utara mencantumkan 49 server AS untuk diserang beberapa hari sebelum peretasan Binance. Berikut yang telah dikonfirmasi.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/daftar-hitam-korea-utara-server-as-binance-2",
+   "img": "https://assets.beincrypto.com/img/3hLsd__VDd1U1vZWgWNvA9gHyaM=/smart/a00e2d0772ac4862b2bfb684b5a30645",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-15T22:00:00"
   },
   {
    "id": 9223,
@@ -60,20 +60,6 @@
    "published_at": "2026-11-13T07:00:14"
   },
   {
-   "id": 9323,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
-   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
-   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T22:22:41"
-  },
-  {
    "id": 9370,
    "k": "defi",
    "cat": "DeFi",
@@ -82,24 +68,38 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
-   "a": "13 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T06:27:26"
   },
   {
-   "id": 9185,
+   "id": 9323,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Lending Vault XRP Berisiko Bagi Pemegang Token",
+   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
+   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
+   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-13T22:22:41"
+  },
+  {
+   "id": 9394,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Rencana pinjaman Lido bisa hentikan pembayaran tanpa hentikan bunga",
    "x": "",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-lending-withdrawal-hatch.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T18:50:20"
+   "published_at": "2026-11-15T08:00:11"
   },
   {
    "id": 9236,
@@ -114,34 +114,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-13T05:18:27"
-  },
-  {
-   "id": 9394,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Rencana pinjaman Lido bisa hentikan pembayaran tanpa hentikan bunga",
-   "x": "",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-15T08:00:11"
-  },
-  {
-   "id": 9176,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Korban Peretasan Data SafePal Kini Menerima Surat Penipuan di Rumah",
-   "x": "Penipu mengirim surat SafePal palsu menggunakan data pelanggan yang bocor. Lihat cara kerja penipuan ini dan apa kata SafePal.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/safepal-pelanggaran-data-scam-letters",
-   "img": "https://assets.beincrypto.com/img/kaMSbU3eI5sI06s9gD8PgQbONkE=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-12T18:59:53"
   }
  ]
 }

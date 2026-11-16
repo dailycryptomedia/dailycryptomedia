@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T22:01:03"
@@ -68,38 +68,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/identitas-ai-agent-blockchain-ahli-hukum",
    "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "10 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-15T10:00:00"
   },
   {
-   "id": 9194,
+   "id": 9329,
    "k": "web3",
    "cat": "Web3",
-   "t": "Exodus catat 'cost reset' nyata saat pembayaran imbangi pelambatan dompet kripto",
-   "x": "Pendapatan dari layanan pembayaran Exodus meningkat signifikan pada kuartal III, sementara perusahaan melakukan efisiensi biaya. Hal ini terjadi di tengah perlambatan bisnis dompet kripto.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-10-at-13.35.10.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-12T16:55:52"
-  },
-  {
-   "id": 9171,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "DTCC Berencana Ekspansi ke Solana, Aturan Dompet Batasi Akses",
-   "x": "Perusahaan kliring sekuritas AS akan membawa saham tokenisasi ke Solana pada 2027. Namun, pembatasan yang ada dikhawatirkan dapat menghambat adopsi teknologi ini.",
+   "t": "Induk MegaETH pangkas 20% staf dalam restrukturisasi",
+   "x": "Perusahaan induk MegaETH melakukan restrukturisasi yang berdampak pada 20% karyawannya. Langkah ini dilakukan seiring dengan upaya perusahaan untuk fokus pada pengembangan kecerdasan buatan.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-12T20:07:41"
+   "published_at": "2026-11-14T08:12:30"
   },
   {
    "id": 9251,
@@ -124,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-12T22:36:02"
@@ -144,18 +130,18 @@
    "published_at": "2026-11-13T11:51:06"
   },
   {
-   "id": 9329,
+   "id": 9385,
    "k": "web3",
    "cat": "Web3",
-   "t": "Induk MegaETH pangkas 20% staf dalam restrukturisasi",
-   "x": "Perusahaan induk MegaETH melakukan restrukturisasi yang berdampak pada 20% karyawannya. Langkah ini dilakukan seiring dengan upaya perusahaan untuk fokus pada pengembangan kecerdasan buatan.",
+   "t": "Coinone peringatkan phishing dan pencurian identitas",
+   "x": "Bursa kripto Korea Selatan ini melaporkan potensi kebocoran informasi sensitif pelanggan. Pelanggaran keamanan ini dapat membahayakan data pribadi dan aset digital pengguna.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-14T08:12:30"
+   "published_at": "2026-11-15T08:07:58"
   },
   {
    "id": 9254,
@@ -170,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-13T02:00:43"
-  },
-  {
-   "id": 9385,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Coinone peringatkan phishing dan pencurian identitas",
-   "x": "Bursa kripto Korea Selatan ini melaporkan potensi kebocoran informasi sensitif pelanggan. Pelanggaran keamanan ini dapat membahayakan data pribadi dan aset digital pengguna.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-15T08:07:58"
   }
  ]
 }
