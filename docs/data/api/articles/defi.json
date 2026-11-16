@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
-   "a": "9 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T14:30:00"
@@ -26,24 +26,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/daftar-hitam-korea-utara-server-as-binance-2",
    "img": "https://assets.beincrypto.com/img/3hLsd__VDd1U1vZWgWNvA9gHyaM=/smart/a00e2d0772ac4862b2bfb684b5a30645",
-   "a": "2 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-15T22:00:00"
-  },
-  {
-   "id": 9223,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pengguna Aave rugikan $305.000 akibat peretasan situs Across Protocol",
-   "x": "Peretasan situs web protokol jembatan lintas rantai menyebabkan kerugian signifikan bagi pengguna Aave. Sejumlah dana pengguna hilang akibat insiden ini, menyoroti risiko keamanan dalam ekosistem DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/across-aave-hijack-cobalt-empty-rack.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-13T00:30:17"
   },
   {
    "id": 9248,
@@ -60,6 +46,20 @@
    "published_at": "2026-11-13T07:00:14"
   },
   {
+   "id": 9394,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Rencana pinjaman Lido bisa hentikan pembayaran tanpa hentikan bunga",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
+   "a": "22 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-15T08:00:11"
+  },
+  {
    "id": 9370,
    "k": "defi",
    "cat": "DeFi",
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T06:27:26"
@@ -88,20 +88,6 @@
    "published_at": "2026-11-13T22:22:41"
   },
   {
-   "id": 9394,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Rencana pinjaman Lido bisa hentikan pembayaran tanpa hentikan bunga",
-   "x": "",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
-   "a": "16 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-15T08:00:11"
-  },
-  {
    "id": 9236,
    "k": "defi",
    "cat": "DeFi",
@@ -110,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/doj-1-2-miliar-peretasan-binance-korea-utara",
    "img": "https://assets.beincrypto.com/img/1pr8gwZyaKvb_jfSXgc0hOdgwus=/smart/3f1301f25b0c4ebfb6b6d03282f4233b",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-13T05:18:27"
