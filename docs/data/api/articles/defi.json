@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-chip-kerugian-260-miliar-menjadi-650-miliar-dalam-dua-hari",
    "img": "https://assets.beincrypto.com/img/kqtLU5YUAkvbmYKgniZ3-JPghc8=/smart/c912452218974e54b0c033ac4f4dd487",
-   "a": "16 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T16:00:21"
@@ -26,10 +26,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T14:30:00"
+  },
+  {
+   "id": 9611,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Google temukan alat peretasan AI ubah perbaikan keamanan jadi serangan siber",
+   "x": "Google melaporkan adanya alat AI yang dapat mengubah perbaikan keamanan menjadi serangan siber, mengotomatiskan proses eksploitasi kerentanan. Temuan ini menggarisbawahi ancaman baru dalam lanskap keamanan siber.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/google-uncovers-ai-hacking-tool-that-turns-security-fixes-into-cyberattacks",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/google-ai-patch-clues-key.webp",
+   "a": "32 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T17:30:25"
   },
   {
    "id": 9457,
@@ -40,24 +54,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "16 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T16:16:17"
-  },
-  {
-   "id": 9394,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Rencana pinjaman Lido bisa hentikan pembayaran tanpa hentikan bunga",
-   "x": "",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-15T08:00:11"
   },
   {
    "id": 9488,
@@ -102,6 +102,20 @@
    "published_at": "2026-11-15T06:27:26"
   },
   {
+   "id": 9616,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Eksploitasi Lighter angkat pertanyaan sulit bagi pasar Hyperliquid senilai $5,7 miliar",
+   "x": "Sebuah eksploitasi pada protokol Hyperliquid menimbulkan kekhawatiran tentang keamanan dana. Insiden ini menyoroti risiko yang dihadapi investor di platform DeFi dengan kapitalisasi pasar besar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hyperliquid-authority-threads.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T12:00:11"
+  },
+  {
    "id": 9511,
    "k": "defi",
    "cat": "DeFi",
@@ -110,24 +124,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231024_MEV_News3.png",
-   "a": "12 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T20:30:37"
   },
   {
-   "id": 9527,
+   "id": 9581,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Kava Tutup Platform Pinjaman Usai Peretasan Senilai Hampir $4 Juta",
-   "x": "Platform pinjaman Kava menghentikan operasinya setelah peretasan yang mengakibatkan kerugian hampir $4 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi dan pentingnya perlindungan dana pengguna.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/kava-moves-to-shut-down-lending-platform-after-hackers-drain-nearly-4-million",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/kava-withdrawal-cash-shortfall.webp",
-   "a": "15 jam lalu",
+   "t": "ARK jual saham Nvidia senilai $85 juta jelang hasil laporan laba Q3",
+   "x": "ARK Invest menjual saham Nvidia senilai $85 juta sebelum laporan keuangan kuartal ketiga. Perusahaan juga melakukan pembelian saham di Block, Circle, dan Coinbase.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MMKAM67N4QR9N195WRYJY3/hi-who-is-cathie-wood-profile-and-biography.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T17:20:16"
+   "published_at": "2026-11-17T13:12:10"
+  },
+  {
+   "id": 9394,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Rencana pinjaman Lido bisa hentikan pembayaran tanpa hentikan bunga",
+   "x": "",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-15T08:00:11"
   },
   {
    "id": 9462,
@@ -138,10 +166,52 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T12:30:35"
+  },
+  {
+   "id": 9586,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Google: peretas gunakan agen AI untuk temukan dan eksploitasi celah perangkat lunak",
+   "x": "Google melaporkan bahwa penyerang kini menggunakan agen kecerdasan buatan (AI) untuk secara otomatis menemukan dan mengeksploitasi kerentanan perangkat lunak. Hal ini mempersempit waktu bagi organisasi untuk melakukan perbaikan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T10:05:59"
+  },
+  {
+   "id": 9527,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Kava Tutup Platform Pinjaman Usai Peretasan Senilai Hampir $4 Juta",
+   "x": "Platform pinjaman Kava menghentikan operasinya setelah peretasan yang mengakibatkan kerugian hampir $4 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi dan pentingnya perlindungan dana pengguna.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/kava-moves-to-shut-down-lending-platform-after-hackers-drain-nearly-4-million",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/kava-withdrawal-cash-shortfall.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T17:20:16"
+  },
+  {
+   "id": 9582,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Revolut rencanakan empat dana berbasis blockchain untuk pasar privat",
+   "x": "Revolut berencana meluncurkan empat dana yang memanfaatkan teknologi blockchain untuk pasar privat. Langkah ini diharapkan dapat meningkatkan likuiditas di pasar tersebut di tengah potensi krisis likuiditas.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MMWX4AJK9NBZMR29WY4DGA/flag-removed.png",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T12:24:20"
   }
  ]
 }
