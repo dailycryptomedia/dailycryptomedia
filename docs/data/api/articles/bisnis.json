@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-report-scrutiny.webp",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T23:30:57"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T20:36:03"
@@ -54,7 +54,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/upbit-red-real.png",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T10:46:39"
@@ -74,6 +74,20 @@
    "published_at": "2026-11-14T20:06:56"
   },
   {
+   "id": 9558,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Uniswap bekukan biaya $300.000, hentikan pembakaran token otomatis",
+   "x": "Platform DeFi Uniswap membekukan sejumlah besar biaya yang terakumulasi dan menghentikan mekanisme pembakaran token otomatis. Hal ini memicu diskusi tentang insentif dan tata kelola protokol.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/uniswap-freezes-300000-in-stranded-fees-halting-automatic-token-burns",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/uniswap-auction-gate.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T03:30:05"
+  },
+  {
    "id": 9453,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -82,10 +96,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pendapatan-nvidia-tanpa-jensen-huang",
    "img": "https://assets.beincrypto.com/img/7k70FKbsDX8kynU5zsfmGmq0xFo=/smart/8e6c0553f3684f669339d4221d0f52c1",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T12:18:15"
+  },
+  {
+   "id": 9560,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Louisiana blokir pasar prediksi, ancam pendapatan bursa US$370 juta",
+   "x": "Louisiana memerintahkan penghentian pasar prediksi, mengancam potensi pendapatan US$370 juta dari bursa aset digital. Langkah ini menimbulkan ketidakpastian regulasi bagi platform perdagangan di wilayah tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/louisiana-hidden-brokers.webp",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T00:50:05"
   },
   {
    "id": 9389,

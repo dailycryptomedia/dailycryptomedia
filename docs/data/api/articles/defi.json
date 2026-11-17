@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 10,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-chip-kerugian-260-miliar-menjadi-650-miliar-dalam-dua-hari",
    "img": "https://assets.beincrypto.com/img/kqtLU5YUAkvbmYKgniZ3-JPghc8=/smart/c912452218974e54b0c033ac4f4dd487",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T16:00:21"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "8 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T16:16:17"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-exit-interest.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T08:00:11"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berawal-dari-tes-coding-begini-awal-mula-peretasan-binance",
    "img": null,
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T07:00:23"
@@ -96,7 +96,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T06:27:26"
@@ -110,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231024_MEV_News3.png",
-   "a": "4 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T20:30:37"
@@ -124,24 +124,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kava-moves-to-shut-down-lending-platform-after-hackers-drain-nearly-4-million",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/kava-withdrawal-cash-shortfall.webp",
-   "a": "7 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T17:20:16"
-  },
-  {
-   "id": 9323,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan Crypto Exchange dan Apa yang Sebaiknya Tidak Kamu Simpulkan dari Peristiwa Itu",
-   "x": "Pada 29 Oktober, dalam waktu sekitar dua puluh menit, US$6,3 miliar keluar dari wallet milik Binance. Ini merupakan pencurian aset kripto terbesar dalam sejarah, jumlahnya lebih dari empat kali lipat peretasan Bybit…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
-   "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T22:22:41"
   },
   {
    "id": 9462,
@@ -152,7 +138,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T12:30:35"
