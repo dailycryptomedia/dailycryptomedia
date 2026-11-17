@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-chip-kerugian-260-miliar-menjadi-650-miliar-dalam-dua-hari",
    "img": "https://assets.beincrypto.com/img/kqtLU5YUAkvbmYKgniZ3-JPghc8=/smart/c912452218974e54b0c033ac4f4dd487",
-   "a": "52 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T16:00:21"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News2.jpg",
-   "a": "36 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T16:16:17"
@@ -68,7 +68,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/berawal-dari-tes-coding-begini-awal-mula-peretasan-binance",
    "img": null,
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T07:00:23"
@@ -82,7 +82,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/daftar-hitam-korea-utara-server-as-binance-2",
    "img": "https://assets.beincrypto.com/img/3hLsd__VDd1U1vZWgWNvA9gHyaM=/smart/a00e2d0772ac4862b2bfb684b5a30645",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-15T22:00:00"
@@ -102,18 +102,32 @@
    "published_at": "2026-11-15T06:27:26"
   },
   {
-   "id": 9462,
+   "id": 9511,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Solana lepas label 'mainnet beta', adopsi protokol versi 1.0",
-   "x": "Solana Foundation secara resmi mengakhiri status 'mainnet beta' untuk jaringannya dan memperkenalkan Solana 1.0. Perubahan ini menandakan kematangan protokol dan stabilitas jaringan bagi pengembang dan pengguna.",
+   "t": "Saudara Peraire-Bueno dibebaskan dari tuduhan penipuan kawat di kasus MEV Ethereum $25 juta",
+   "x": "Hakim membebaskan saudara Peraire-Bueno dari tuduhan penipuan kawat terkait eksploitasi MEV Ethereum senilai $25 juta. Hakim berpendapat bahwa jaksa gagal menunjukkan adanya misrepresentasi dalam kasus tersebut.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231024_MEV_News3.png",
    "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T12:30:35"
+   "published_at": "2026-11-16T20:30:37"
+  },
+  {
+   "id": 9527,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Kava Tutup Platform Pinjaman Usai Peretasan Senilai Hampir $4 Juta",
+   "x": "Platform pinjaman Kava menghentikan operasinya setelah peretasan yang mengakibatkan kerugian hampir $4 juta. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi dan pentingnya perlindungan dana pengguna.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/kava-moves-to-shut-down-lending-platform-after-hackers-drain-nearly-4-million",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/kava-withdrawal-cash-shortfall.webp",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T17:20:16"
   },
   {
    "id": 9323,
@@ -124,10 +138,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peretasan-bursa-kripto-pelajaran-keamanan",
    "img": "https://assets.beincrypto.com/img/WO1mfGIsHwoXNgCbslBs5XZ7U0M=/smart/8c909f1b4ec64058986aefaefd2971b6",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-13T22:22:41"
+  },
+  {
+   "id": 9462,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Solana lepas label 'mainnet beta', adopsi protokol versi 1.0",
+   "x": "Solana Foundation secara resmi mengakhiri status 'mainnet beta' untuk jaringannya dan memperkenalkan Solana 1.0. Perubahan ini menandakan kematangan protokol dan stabilitas jaringan bagi pengembang dan pengguna.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T12:30:35"
   }
  ]
 }

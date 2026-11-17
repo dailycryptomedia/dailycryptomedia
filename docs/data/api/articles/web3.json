@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dolar-curian-hacker-circle-bekukan-monero",
    "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T15:06:19"
-  },
-  {
-   "id": 9296,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "OpenAI luncurkan pembayaran AI di ChatGPT dengan Visa, Mastercard",
-   "x": "OpenAI kini memungkinkan agen AI melakukan pembelian melalui jaringan kartu Visa, Mastercard, dan Amex di ChatGPT. Inovasi ini membuka potensi baru untuk transaksi digital dan integrasi AI dengan sistem keuangan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-13T22:01:03"
   },
   {
    "id": 9326,
@@ -46,6 +32,20 @@
    "published_at": "2026-11-14T02:30:57"
   },
   {
+   "id": 9508,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CFTC dukung infrastruktur derivatif berbasis blockchain, Backpack dan tZERO raih persetujuan",
+   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) menyetujui aplikasi pertama untuk operasi kliring bursa dan derivatif yang menggunakan teknologi blockchain. Ini menandai langkah maju dalam adopsi regulasi aset digital.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T23:27:15"
+  },
+  {
    "id": 9357,
    "k": "web3",
    "cat": "Web3",
@@ -54,24 +54,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fake-usdt-locked-exit.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T19:40:06"
-  },
-  {
-   "id": 9459,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Penjelasan Skalabilitas Layer 2",
-   "x": "Solusi Layer 2 dirancang untuk mengatasi keterbatasan skalabilitas blockchain, memungkinkan transaksi lebih cepat dan murah. Pemahaman ini krusial bagi investor yang mengikuti perkembangan teknologi blockchain dan DeFi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-6.png",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T14:56:48"
   },
   {
    "id": 9353,
@@ -88,20 +74,6 @@
    "published_at": "2026-11-14T14:01:02"
   },
   {
-   "id": 9387,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Identitas Agen AI Butuh Blockchain, menurut Pakar Hukum",
-   "x": "Agen AI sudah bisa membelanjakan uang, namun hukum masih mengharapkan manusia. Pakar hukum mengatakan identitas agen AI yang dibangun di atas ZK proof dapat menutup kesenjangan tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/identitas-ai-agent-blockchain-ahli-hukum",
-   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-15T10:00:00"
-  },
-  {
    "id": 9329,
    "k": "web3",
    "cat": "Web3",
@@ -116,18 +88,46 @@
    "published_at": "2026-11-14T08:12:30"
   },
   {
-   "id": 9467,
+   "id": 9387,
    "k": "web3",
    "cat": "Web3",
-   "t": "Toss luncurkan dompet kripto non-custodial di aplikasinya",
-   "x": "Perusahaan teknologi finansial Korea Selatan, Toss, akan merilis dompet kripto non-custodial dalam aplikasinya. Langkah ini juga diikuti persiapan lisensi VASP untuk mendukung pembayaran menggunakan stablecoin.",
+   "t": "Identitas Agen AI Butuh Blockchain, menurut Pakar Hukum",
+   "x": "Agen AI sudah bisa membelanjakan uang, namun hukum masih mengharapkan manusia. Pakar hukum mengatakan identitas agen AI yang dibangun di atas ZK proof dapat menutup kesenjangan tersebut.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/identitas-ai-agent-blockchain-ahli-hukum",
+   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-15T10:00:00"
+  },
+  {
+   "id": 9459,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Penjelasan Skalabilitas Layer 2",
+   "x": "Solusi Layer 2 dirancang untuk mengatasi keterbatasan skalabilitas blockchain, memungkinkan transaksi lebih cepat dan murah. Pemahaman ini krusial bagi investor yang mengikuti perkembangan teknologi blockchain dan DeFi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
-   "a": "8 jam lalu",
+   "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-6.png",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T08:52:33"
+   "published_at": "2026-11-16T14:56:48"
+  },
+  {
+   "id": 9526,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Trezor perbaiki chip mata-mata dompet kripto, tapi sarankan migrasi dana",
+   "x": "Trezor mengklaim pembaruan firmware terbaru dapat memblokir chip mata-mata yang teridentifikasi pada perangkat kerasnya. Namun, pengguna yang terdampak tetap disarankan untuk membuat seed phrase baru dan memindahkan aset digital mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T18:00:03"
   },
   {
    "id": 9472,
@@ -138,24 +138,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T13:12:08"
-  },
-  {
-   "id": 9269,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dapat Undangan Video Call Dari Kontak Kripto? FBI Bilang Itu Bisa Saja Korea Utara",
-   "x": "FBI memperingatkan para holder aset kripto mengenai FaceStealer, sebuah skema yang digunakan hacker Korea Utara untuk menguras dana melalui panggilan video palsu. Biro tersebut menyebutkan bahwa mereka telah mengambil…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/facestealer-korea-utara-fbi-crypto",
-   "img": "https://assets.beincrypto.com/img/OjVhRxOjWyrhuxfO5fVYzo2p3gE=/smart/d62bfa60d9cf4ec9aeb89ffdef249ee8",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-13T11:51:06"
   },
   {
    "id": 9385,
@@ -170,6 +156,48 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T08:07:58"
+  },
+  {
+   "id": 9513,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CEO Solflare sebut tinjauan keamanan AI penting, pamerkan 'mode bunker'",
+   "x": "CEO Solflare menyoroti peran kecerdasan buatan (AI) dalam mendeteksi serangan siber yang terlewat oleh manusia. Fitur 'mode bunker' dan kemitraan dengan MoneyGram untuk layanan penukaran USDC juga diperkenalkan.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T18:59:21"
+  },
+  {
+   "id": 9497,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Safe dilaporkan rugikan $6,5 juta, Zodiac curigai kompromi kunci",
+   "x": "Peretasan dompet Safe senilai $6,5 juta diduga disebabkan oleh kompromi kunci akses dan pengaturan dompet yang terlalu permisif. Pihak Zodiac menyatakan bahwa masalah ini bukan berasal dari celah pada smart contract mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T17:49:13"
+  },
+  {
+   "id": 9467,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Toss luncurkan dompet kripto non-custodial di aplikasinya",
+   "x": "Perusahaan teknologi finansial Korea Selatan, Toss, akan merilis dompet kripto non-custodial dalam aplikasinya. Langkah ini juga diikuti persiapan lisensi VASP untuk mendukung pembayaran menggunakan stablecoin.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
+   "a": "15 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T08:52:33"
   }
  ]
 }

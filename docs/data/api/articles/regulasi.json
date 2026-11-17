@@ -1,21 +1,21 @@
 {
- "total": 6,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 9299,
+   "id": 9490,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Regulator AS lanjutkan izin trust kripto di tengah pengawasan Senat",
-   "x": "Perusahaan trust Coinbase mendapat izin final dari regulator AS, seiring Senat meningkatkan pengawasan terhadap kepatuhan dan potensi konflik kepentingan di industri aset digital.",
+   "t": "Custodia Bank kalah di Mahkamah Agung untuk akses pembayaran Fed langsung",
+   "x": "Mahkamah Agung menolak banding Custodia Bank, sehingga keputusan pengadilan yang lebih rendah yang mengizinkan The Fed menolak permohonan rekening tetap berlaku. Ini membatasi akses bank kripto ke sistem pembayaran tradisional.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-13T20:53:20"
+   "published_at": "2026-11-16T22:54:57"
   },
   {
    "id": 9358,
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/mica-passport-access.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T18:40:48"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T17:01:02"
@@ -54,10 +54,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T19:06:59"
+  },
+  {
+   "id": 9491,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Anggota parlemen Jerman dukung pembekuan aset kripto di luar kasus pidana",
+   "x": "Rancangan undang-undang baru di Jerman memungkinkan otoritas menyita aset kripto yang mencurigakan selama 30 hari tanpa proses pidana. Langkah ini memperketat regulasi aset digital di Eropa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T22:46:44"
   },
   {
    "id": 9368,
@@ -68,24 +82,38 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/cryptos-168-million-election-78-winners-13-newcomers-and-one-costly-defeat",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-ohio-spending-defeat.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-14T21:40:06"
   },
   {
-   "id": 9319,
+   "id": 9510,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pilihan Demokrat Trump untuk SEC dan CFTC bisa ubah regulator kripto",
-   "x": "Penunjukan regulator baru oleh Trump dapat membentuk arah kebijakan aset kripto di AS. Perubahan ini penting bagi pelaku industri kripto yang beroperasi di pasar Amerika Serikat.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
+   "t": "Senator Demokrat khawatirkan celah keuangan ilegal pada pengecualian saham tokenisasi SEC",
+   "x": "Sejumlah senator Amerika Serikat menyuarakan keprihatinan terhadap pengecualian inovasi yang baru saja diumumkan oleh Komisi Sekuritas dan Bursa AS (SEC). Mereka menilai aturan tersebut memiliki celah yang dapat disalahgunakan untuk aktivitas keuangan ilegal.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation.jpg",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-13T17:56:03"
+   "published_at": "2026-11-16T20:44:01"
+  },
+  {
+   "id": 9517,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Mahkamah Agung Tolak Permohonan Bank Custodia untuk Rekening Induk The Fed",
+   "x": "Mahkamah Agung Amerika Serikat menolak permohonan bank digital Custodia untuk mendapatkan rekening induk dari Federal Reserve. Keputusan ini berdampak pada upaya bank kripto untuk mendapatkan akses perbankan tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T17:15:10"
   }
  ]
 }
