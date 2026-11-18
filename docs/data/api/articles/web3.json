@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/optimizely-attack-distributed-ledger-technology-hsbc-crypto-malware",
    "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T08:03:32"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/inflasi-near-bakal-dipangkas-mengapa-24-validator-justru-berisiko-tekor",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T03:00:20"
@@ -82,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T08:07:58"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:05:25"
@@ -138,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/openai-luncurkan-chatgpt-wallet-mengapa-justru-blockchain-yang-menarik-perhatian",
    "img": null,
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T02:00:14"
@@ -166,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-meme-coin-whales-gala-dinner",
    "img": "https://assets.beincrypto.com/img/c0iddk3TAKWowAqmxxH2XSWxmxA=/smart/d396b8a52d0b44fe920c186bde0733a1",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T05:42:37"
@@ -186,6 +186,34 @@
    "published_at": "2026-11-16T18:59:21"
   },
   {
+   "id": 9653,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Bisakah AI Agent Menguras Crypto Wallet Anda? 5 Aturan untuk Menjaga Dana Anda Tetap Aman",
+   "x": "Bisakah agen AI menguras wallet aset kripto Anda? BeInCrypto dan peneliti Dune menjelaskan risiko sebenarnya dan lima aturan agar tetap aman.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/aturan-ai-agent-menguras-dompet-kripto",
+   "img": "https://assets.beincrypto.com/img/DmBKWpiqO-cwsesbkr2Y0ZcxwIg=/smart/09a8fc59c98f4898bd225d5b202d3b73",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-18T05:17:54"
+  },
+  {
+   "id": 9603,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
+   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T14:27:35"
+  },
+  {
    "id": 9387,
    "k": "web3",
    "cat": "Web3",
@@ -198,20 +226,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-15T10:00:00"
-  },
-  {
-   "id": 9603,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
-   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T14:27:35"
   },
   {
    "id": 9467,

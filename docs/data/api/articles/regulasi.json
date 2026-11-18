@@ -1,8 +1,22 @@
 {
- "total": 6,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 9671,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "OJK terima temuan tokenisasi aset, 3 masalah masih mengganjal",
+   "x": "Otoritas Jasa Keuangan (OJK) menerima temuan industri terkait tokenisasi aset digital. Tiga hambatan utama masih menjadi fokus pembahasan untuk pengembangan lebih lanjut.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/ojk-terima-temuan-tokenisasi-aset-3-masalah-ini-masih-mengganjal",
+   "img": null,
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T03:30:35"
+  },
   {
    "id": 9490,
    "k": "regulasi",
@@ -26,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/italia-revolut-administrasi-yudisial-uang-mafia",
    "img": "https://assets.beincrypto.com/img/9w5V3wlxWQkWEyj96kuWE5LjRdU=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T04:12:51"
@@ -44,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T20:44:01"
+  },
+  {
+   "id": 9674,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Wells Fargo gandakan kepemilikan Bitcoin ETF, ini data SEC",
+   "x": "Wells Fargo menggandakan kepemilikan sahamnya pada ETF Bitcoin IBIT menjadi US$2,35 miliar. Peningkatan kepemilikan ini menunjukkan minat institusi terhadap produk investasi aset digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/wells-fargo-gandakan-kepemilikan-bitcoin-etf-ini-data-sec",
+   "img": null,
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T02:00:47"
   },
   {
    "id": 9491,
@@ -82,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGXE60DCBWSPE55RMRQTWB/letter.png",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:36:26"
