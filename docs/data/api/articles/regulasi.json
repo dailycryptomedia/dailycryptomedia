@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,24 +12,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ojk-terima-temuan-tokenisasi-aset-3-masalah-ini-masih-mengganjal",
    "img": null,
-   "a": "5 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T03:30:35"
   },
   {
-   "id": 9490,
+   "id": 9675,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Custodia Bank kalah di Mahkamah Agung untuk akses pembayaran Fed langsung",
-   "x": "Mahkamah Agung menolak banding Custodia Bank, sehingga keputusan pengadilan yang lebih rendah yang mengizinkan The Fed menolak permohonan rekening tetap berlaku. Ini membatasi akses bank kripto ke sistem pembayaran tradisional.",
+   "t": "Pembebasan MEV Ethereum senilai $25 juta uji batas penegakan pidana",
+   "x": "Kasus ini menguji sejauh mana penegakan hukum pidana dapat menjangkau aktivitas di blockchain Ethereum. Hasilnya dapat memengaruhi cara pendapatan dari MEV di masa depan akan diatur dan dikenai pajak.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg",
-   "a": "kemarin",
+   "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg",
+   "a": "39 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T22:54:57"
+   "published_at": "2026-11-18T17:05:04"
   },
   {
    "id": 9547,
@@ -68,10 +68,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/wells-fargo-gandakan-kepemilikan-bitcoin-etf-ini-data-sec",
    "img": null,
-   "a": "6 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T02:00:47"
+  },
+  {
+   "id": 9490,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Custodia Bank kalah di Mahkamah Agung untuk akses pembayaran Fed langsung",
+   "x": "Mahkamah Agung menolak banding Custodia Bank, sehingga keputusan pengadilan yang lebih rendah yang mengizinkan The Fed menolak permohonan rekening tetap berlaku. Ini membatasi akses bank kripto ke sistem pembayaran tradisional.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T22:54:57"
+  },
+  {
+   "id": 9517,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Mahkamah Agung Tolak Permohonan Bank Custodia untuk Rekening Induk The Fed",
+   "x": "Mahkamah Agung Amerika Serikat menolak permohonan bank digital Custodia untuk mendapatkan rekening induk dari Federal Reserve. Keputusan ini berdampak pada upaya bank kripto untuk mendapatkan akses perbankan tradisional.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T17:15:10"
   },
   {
    "id": 9491,
@@ -88,20 +116,6 @@
    "published_at": "2026-11-16T22:46:44"
   },
   {
-   "id": 9517,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Mahkamah Agung Tolak Permohonan Bank Custodia untuk Rekening Induk The Fed",
-   "x": "Mahkamah Agung Amerika Serikat menolak permohonan bank digital Custodia untuk mendapatkan rekening induk dari Federal Reserve. Keputusan ini berdampak pada upaya bank kripto untuk mendapatkan akses perbankan tradisional.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T17:15:10"
-  },
-  {
    "id": 9583,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -110,7 +124,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGXE60DCBWSPE55RMRQTWB/letter.png",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:36:26"

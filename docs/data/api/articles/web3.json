@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T13:12:08"
@@ -74,18 +74,18 @@
    "published_at": "2026-11-16T18:00:03"
   },
   {
-   "id": 9385,
+   "id": 9497,
    "k": "web3",
    "cat": "Web3",
-   "t": "Coinone peringatkan phishing dan pencurian identitas",
-   "x": "Bursa kripto Korea Selatan ini melaporkan potensi kebocoran informasi sensitif pelanggan. Pelanggaran keamanan ini dapat membahayakan data pribadi dan aset digital pengguna.",
+   "t": "Dompet Safe dilaporkan rugikan $6,5 juta, Zodiac curigai kompromi kunci",
+   "x": "Peretasan dompet Safe senilai $6,5 juta diduga disebabkan oleh kompromi kunci akses dan pengaturan dompet yang terlalu permisif. Pihak Zodiac menyatakan bahwa masalah ini bukan berasal dari celah pada smart contract mereka.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-15T08:07:58"
+   "published_at": "2026-11-16T17:49:13"
   },
   {
    "id": 9447,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dolar-curian-hacker-circle-bekukan-monero",
    "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T15:06:19"
@@ -110,7 +110,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-6.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T14:56:48"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:05:25"
@@ -142,20 +142,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T02:00:14"
-  },
-  {
-   "id": 9497,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Safe dilaporkan rugikan $6,5 juta, Zodiac curigai kompromi kunci",
-   "x": "Peretasan dompet Safe senilai $6,5 juta diduga disebabkan oleh kompromi kunci akses dan pengaturan dompet yang terlalu permisif. Pihak Zodiac menyatakan bahwa masalah ini bukan berasal dari celah pada smart contract mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T17:49:13"
   },
   {
    "id": 9544,
@@ -194,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-ai-agent-menguras-dompet-kripto",
    "img": "https://assets.beincrypto.com/img/DmBKWpiqO-cwsesbkr2Y0ZcxwIg=/smart/09a8fc59c98f4898bd225d5b202d3b73",
-   "a": "3 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T05:17:54"
@@ -208,24 +194,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T14:27:35"
-  },
-  {
-   "id": 9387,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Identitas Agen AI Butuh Blockchain, menurut Pakar Hukum",
-   "x": "Agen AI sudah bisa membelanjakan uang, namun hukum masih mengharapkan manusia. Pakar hukum mengatakan identitas agen AI yang dibangun di atas ZK proof dapat menutup kesenjangan tersebut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/identitas-ai-agent-blockchain-ahli-hukum",
-   "img": "https://assets.beincrypto.com/img/sPj8oLE4eXFFOSWYBX3EIpkJLKI=/smart/8e3372e3ac9a451bb7af442192ac5e22",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-15T10:00:00"
   },
   {
    "id": 9467,
@@ -236,7 +208,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T08:52:33"
