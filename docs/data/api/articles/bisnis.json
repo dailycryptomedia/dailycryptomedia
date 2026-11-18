@@ -1,21 +1,35 @@
 {
- "total": 12,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 9365,
+   "id": 9565,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Laba Induk Kraken Naik Lagi tapi Masih Ada Jarak Jauh sebelum IPO",
-   "x": "Induk Kraken, Payward, menyatakan klien terus menambah aset selama 12 bulan berturut-turut, meskipun nilai aset tersebut dalam dolar turun. Laba yang disesuaikan naik menjadi US$60 juta pada kuartal ketiga, dari US$23…",
+   "t": "Jensen Huang Akhirnya Buka Suara Beberapa Jam sebelum Laporan Keuangan Q3 Nvidia",
+   "x": "Jensen Huang mengatakan ia akan kembali sebagai CEO Nvidia jika diminta, beberapa jam sebelum produsen chip tersebut melaporkan pendapatan Q3 tanpa dirinya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/kraken-payward-q3-2026-pemulihan-pendapatan",
-   "img": "https://assets.beincrypto.com/img/3MSigYtPlSVtun7SdtF6Dbl50Yw=/smart/1b6af11dba5648f2aafec3c5c757ba22",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/jensen-huang-nvidia-comeback-laba-q3",
+   "img": "https://assets.beincrypto.com/img/TujJh50URrW0aWJ50kH7UfAs8cE=/smart/e404c5e9e6794f9091893d4db57f9d0e",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-15T00:15:29"
+   "published_at": "2026-11-17T16:59:18"
+  },
+  {
+   "id": 9619,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Dewan Nvidia tolak kembalinya Huang meski kuartal rekor $116 miliar",
+   "x": "Nvidia melampaui ekspektasi pendapatan Wall Street dan memberikan perkiraan penjualan yang lebih kuat dari perkiraan. Dewan direksi perusahaan menolak desakan untuk mengembalikan Jensen Huang.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg",
+   "a": "49 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T00:16:43"
   },
   {
    "id": 9518,
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-report-scrutiny.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T23:30:57"
@@ -40,38 +54,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/20240624_Tokenization_News_2.jpg",
-   "a": "21 menit lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T17:41:02"
   },
   {
-   "id": 9532,
+   "id": 9634,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Tom Lee Salahkan IPO Nvidia dan Anthropic atas Anjloknya Ethereum",
-   "x": "Ketua Bitmine, Tom Lee, mengaitkan penurunan harga Ethereum dengan dampak IPO Nvidia dan kebutuhan pendanaan Anthropic. Hal ini menunjukkan korelasi pasar kripto dengan sektor teknologi.",
+   "t": "Saham Nvidia naik setelah pendapatan lampaui ekspektasi di laporan pertama pasca Huang",
+   "x": "Produsen chip menggandakan pendapatan kuartalan dan memperkirakan rekor lagi, namun laporan pertama tanpa Jensen Huang menyisakan pertanyaan kepemimpinan dan grafik saham yang tertekan.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-   "a": "21 jam lalu",
+   "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T20:36:03"
+   "published_at": "2026-11-17T22:18:18"
   },
   {
-   "id": 9363,
+   "id": 9623,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "AMD Baru Catat Reli Terbesar Lawan Nvidia sejak 1999. Bisakah Bertahan di Laporan Keuangan?",
-   "x": "AMD unggul atas Nvidia sebesar 53,2 poin persentase selama lima hari perdagangan, menurut The Kobeissi Letter. Ini adalah selisih terlebar antara dua produsen chip tersebut sejak Nvidia melakukan IPO pada Januari 1999…",
+   "t": "Saham SpaceX Bertambah US$54 Miliar di Tengah Viral Diskusi AI di Luar Angkasa",
+   "x": "Saham SpaceX menambah USD54 miliar saat CFO-nya mengenalkan pusat data AI di orbit. Satu pelanggan menyumbang 34,5% dari pendapatan. Risikonya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/amd-saham-cetak-rekor-nvidia-earnings",
-   "img": "https://assets.beincrypto.com/img/cFNKQiJzubcvZOeJdhqGyyNtOc0=/smart/ca4478974e2449b5b5ed9d6070a94279",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/spacex-saham-tambah-54-miliar-ai-space",
+   "img": "https://assets.beincrypto.com/img/q2L2SmOJAIxTvFgw_lbdaeidANU=/smart/dae86dbf26c14b04b7c56196848c6d57",
+   "a": "2 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-14T20:06:56"
+   "published_at": "2026-11-17T23:02:23"
   },
   {
    "id": 9613,
@@ -82,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hyperliquids-3-4-billion-hype-burn-machine-faces-new-test-as-usdc-reserves-shrink",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hyperliquid-trading-reserve.webp",
-   "a": "2 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T15:10:21"
@@ -102,18 +116,32 @@
    "published_at": "2026-11-16T10:46:39"
   },
   {
-   "id": 9565,
+   "id": 9532,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Jensen Huang Akhirnya Buka Suara Beberapa Jam sebelum Laporan Keuangan Q3 Nvidia",
-   "x": "Jensen Huang mengatakan ia akan kembali sebagai CEO Nvidia jika diminta, beberapa jam sebelum produsen chip tersebut melaporkan pendapatan Q3 tanpa dirinya.",
+   "t": "Tom Lee Salahkan IPO Nvidia dan Anthropic atas Anjloknya Ethereum",
+   "x": "Ketua Bitmine, Tom Lee, mengaitkan penurunan harga Ethereum dengan dampak IPO Nvidia dan kebutuhan pendanaan Anthropic. Hal ini menunjukkan korelasi pasar kripto dengan sektor teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T20:36:03"
+  },
+  {
+   "id": 9625,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Kinerja Kuartal Terakhir Jensen Huang Lampaui Perkiraan: Bisakah Saham Nvidia Pulih tanpa Dirinya?",
+   "x": "Nvidia mengalahkan proyeksi pendapatan Q3 dalam laporan pertamanya sejak keluarnya Jensen Huang. Berikut hal-hal yang masih bisa membebani sahamnya.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/jensen-huang-nvidia-comeback-laba-q3",
-   "img": "https://assets.beincrypto.com/img/TujJh50URrW0aWJ50kH7UfAs8cE=/smart/e404c5e9e6794f9091893d4db57f9d0e",
-   "a": "1 jam lalu",
+   "url": "https://id.beincrypto.com/laporan-pendapatan-pertama-nvidia-jensen-huang-keluar",
+   "img": "https://assets.beincrypto.com/img/jWvyPsUTfSC0Uerl4wtr919ulOo=/smart/43ebcfe4dd734bb5b298bef2b973322b",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-17T16:59:18"
+   "published_at": "2026-11-17T21:41:26"
   },
   {
    "id": 9558,
@@ -124,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/uniswap-freezes-300000-in-stranded-fees-halting-automatic-token-burns",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/uniswap-auction-gate.webp",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T03:30:05"
@@ -152,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/louisiana-hidden-brokers.webp",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T00:50:05"
@@ -170,6 +198,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-15T09:12:29"
+  },
+  {
+   "id": 9626,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Harga Saham Anthropic Bisa Tembus US$80 Menjelang IPO, Apakah Ini Terlalu Tinggi?",
+   "x": "Anthropic mengincar harga IPO di atas $80 dan valuasi sebesar $1,6 triliun. Berikut yang tersisa bagi pembeli di hari pertama.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/analisis-harga-saham-debut-ipo-anthropic",
+   "img": "https://assets.beincrypto.com/img/1QquJ_VtyuG2aqoAXK_2dSalWYU=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-17T19:39:46"
   }
  ]
 }

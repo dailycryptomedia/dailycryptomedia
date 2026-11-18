@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/optimizely-attack-distributed-ledger-technology-hsbc-crypto-malware",
    "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T08:03:32"
@@ -26,24 +26,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T23:27:15"
-  },
-  {
-   "id": 9357,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Anda mungkin tampilkan saldo USDT palsu yang tidak bisa dijual",
-   "x": "Beberapa dompet kripto menampilkan saldo USDT palsu yang tidak dapat diperdagangkan. Hal ini menunjukkan potensi masalah pada likuiditas atau validitas token yang ditampilkan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fake-usdt-locked-exit.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-14T19:40:06"
   },
   {
    "id": 9472,
@@ -68,10 +54,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/inflasi-near-bakal-dipangkas-mengapa-24-validator-justru-berisiko-tekor",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T03:00:20"
+  },
+  {
+   "id": 9526,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Trezor perbaiki chip mata-mata dompet kripto, tapi sarankan migrasi dana",
+   "x": "Trezor mengklaim pembaruan firmware terbaru dapat memblokir chip mata-mata yang teridentifikasi pada perangkat kerasnya. Namun, pengguna yang terdampak tetap disarankan untuk membuat seed phrase baru dan memindahkan aset digital mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T18:00:03"
   },
   {
    "id": 9385,
@@ -116,20 +116,6 @@
    "published_at": "2026-11-16T14:56:48"
   },
   {
-   "id": 9526,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Trezor perbaiki chip mata-mata dompet kripto, tapi sarankan migrasi dana",
-   "x": "Trezor mengklaim pembaruan firmware terbaru dapat memblokir chip mata-mata yang teridentifikasi pada perangkat kerasnya. Namun, pengguna yang terdampak tetap disarankan untuk membuat seed phrase baru dan memindahkan aset digital mereka.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T18:00:03"
-  },
-  {
    "id": 9594,
    "k": "web3",
    "cat": "Web3",
@@ -138,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "6 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:05:25"
@@ -152,7 +138,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/openai-luncurkan-chatgpt-wallet-mengapa-justru-blockchain-yang-menarik-perhatian",
    "img": null,
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T02:00:14"
@@ -180,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-meme-coin-whales-gala-dinner",
    "img": "https://assets.beincrypto.com/img/c0iddk3TAKWowAqmxxH2XSWxmxA=/smart/d396b8a52d0b44fe920c186bde0733a1",
-   "a": "12 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T05:42:37"
@@ -194,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T18:59:21"
@@ -222,7 +208,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
-   "a": "3 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T14:27:35"
