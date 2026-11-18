@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,10 +26,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T23:27:15"
+  },
+  {
+   "id": 9720,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ledger peringatkan pelanggan Berlin terkait investigasi perusakan dompet",
+   "x": "Ledger mengimbau pelanggan yang membeli perangkat di Berlin sejak Januari 2026 untuk menghubungi dukungan teknis. Investigasi perusakan perangkat keras ini meningkatkan kekhawatiran tentang keamanan penyimpanan aset digital.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R7EK1MNWSD45EFCA2JN3ZP/hi-ledger-nano-s-plus-review-unlocking-features-security-and-performance.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T21:13:58"
   },
   {
    "id": 9472,
@@ -68,24 +82,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T18:00:03"
-  },
-  {
-   "id": 9497,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Safe dilaporkan rugikan $6,5 juta, Zodiac curigai kompromi kunci",
-   "x": "Peretasan dompet Safe senilai $6,5 juta diduga disebabkan oleh kompromi kunci akses dan pengaturan dompet yang terlalu permisif. Pihak Zodiac menyatakan bahwa masalah ini bukan berasal dari celah pada smart contract mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T17:49:13"
   },
   {
    "id": 9447,
@@ -114,6 +114,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T14:56:48"
+  },
+  {
+   "id": 9497,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Dompet Safe dilaporkan rugikan $6,5 juta, Zodiac curigai kompromi kunci",
+   "x": "Peretasan dompet Safe senilai $6,5 juta diduga disebabkan oleh kompromi kunci akses dan pengaturan dompet yang terlalu permisif. Pihak Zodiac menyatakan bahwa masalah ini bukan berasal dari celah pada smart contract mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T17:49:13"
   },
   {
    "id": 9594,
@@ -166,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T18:59:21"
@@ -180,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/aturan-ai-agent-menguras-dompet-kripto",
    "img": "https://assets.beincrypto.com/img/DmBKWpiqO-cwsesbkr2Y0ZcxwIg=/smart/09a8fc59c98f4898bd225d5b202d3b73",
-   "a": "12 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T05:17:54"

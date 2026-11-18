@@ -1,21 +1,35 @@
 {
- "total": 73,
+ "total": 77,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 9409,
+   "id": 9724,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Saylor Soroti 4 Metrik Langka dan Ekstrem yang Baru Saja Dicapai Bitcoin untuk Menjelaskan Harga",
-   "x": "Saylor menyoroti empat metrik Bitcoin untuk membingkai penurunan harga, namun co-founder Binance CZ mengatakan korelasi bukanlah sebab akibat.",
+   "t": "Forum Bitcoin Satoshi Nakamoto yang Terlupakan Ungkap Misteri Tahun 2014",
+   "x": "Beberapa minggu setelah whitepaper Bitcoin berulang tahun ke-18, sebuah forum yang terlupakan dan dibuat oleh Satoshi Nakamoto kembali menarik perhatian. Sebuah unggahan di X telah memicu perdebatan hangat mengenai hal…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saylor-metrik-bitcoin-langka-ekstrem-harga",
-   "img": "https://assets.beincrypto.com/img/YY_Ht2aJ-f7RW9lNUyJBXrr_vGY=/smart/c030b5c43851499bb5d7cbae6658c531",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/satoshi-nakamoto-bitcoin-hilang-forum-2014",
+   "img": "https://assets.beincrypto.com/img/mPfcdL7HK9wq8ZYlc-VahIKB6IY=/smart/53eddc62add2412ba2e0314f1905d6ed",
+   "a": "43 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-15T23:07:38"
+   "published_at": "2026-11-18T23:04:02"
+  },
+  {
+   "id": 9736,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ledger konfirmasi dompet Bitcoin dirusak di Berlin, penyelidikan meluas",
+   "x": "Ledger mengonfirmasi adanya perusakan perangkat keras dompet Bitcoin di Berlin dan sedang menyelidiki unit di Dubai. Insiden ini menunjukkan potensi risiko keamanan pada perangkat keras kripto yang perlu diwaspadai pengguna.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T22:16:02"
   },
   {
    "id": 9646,
@@ -26,10 +40,66 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png",
-   "a": "9 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T08:41:16"
+  },
+  {
+   "id": 9703,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Opsi Bitcoin beri sinyal waspada saat premi downside melonjak jelang risalah The Fed",
+   "x": "Premi opsi jual Bitcoin meningkat pesat dibandingkan opsi beli, mengindikasikan kekhawatiran pasar terhadap penurunan harga. Investor mencermati risalah rapat The Fed untuk petunjuk arah kebijakan suku bunga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-expiry-weather-shields.webp",
+   "a": "6 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T16:55:14"
+  },
+  {
+   "id": 9598,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Coinbase perluas pinjaman kripto on-chain ke New York via Morpho",
+   "x": "Coinbase kini menawarkan produk pinjaman kripto on-chain kepada penduduk New York dengan jaminan BTC, ETH, dan SOL. Perluasan ini menandai langkah Coinbase untuk meningkatkan layanan keuangan terdesentralisasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News_2.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T18:00:02"
+  },
+  {
+   "id": 9669,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Whale makin agresif kirim BTC ke bursa, harga Bitcoin bakal turun lagi?",
+   "x": "Pergerakan agresif para 'whale' Bitcoin yang mengirim aset mereka ke bursa memicu kekhawatiran penurunan harga lebih lanjut. Hal ini terjadi di tengah kerugian besar yang dialami para pemegang aset besar.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/whale-makin-agresif-kirim-btc-ke-bursa-harga-bitcoin-bakal-turun-lagi",
+   "img": null,
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T07:00:17"
+  },
+  {
+   "id": 9409,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Saylor Soroti 4 Metrik Langka dan Ekstrem yang Baru Saja Dicapai Bitcoin untuk Menjelaskan Harga",
+   "x": "Saylor menyoroti empat metrik Bitcoin untuk membingkai penurunan harga, namun co-founder Binance CZ mengatakan korelasi bukanlah sebab akibat.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/saylor-metrik-bitcoin-langka-ekstrem-harga",
+   "img": "https://assets.beincrypto.com/img/YY_Ht2aJ-f7RW9lNUyJBXrr_vGY=/smart/c030b5c43851499bb5d7cbae6658c531",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-15T23:07:38"
   },
   {
    "id": 9589,
@@ -46,62 +116,6 @@
    "published_at": "2026-11-17T17:18:41"
   },
   {
-   "id": 9703,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Opsi Bitcoin beri sinyal waspada saat premi downside melonjak jelang risalah The Fed",
-   "x": "Premi opsi jual Bitcoin meningkat pesat dibandingkan opsi beli, mengindikasikan kekhawatiran pasar terhadap penurunan harga. Investor mencermati risalah rapat The Fed untuk petunjuk arah kebijakan suku bunga.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-expiry-weather-shields.webp",
-   "a": "49 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T16:55:14"
-  },
-  {
-   "id": 9598,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Coinbase perluas pinjaman kripto on-chain ke New York via Morpho",
-   "x": "Coinbase kini menawarkan produk pinjaman kripto on-chain kepada penduduk New York dengan jaminan BTC, ETH, dan SOL. Perluasan ini menandai langkah Coinbase untuk meningkatkan layanan keuangan terdesentralisasi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News_2.jpg",
-   "a": "23 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T18:00:02"
-  },
-  {
-   "id": 9669,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Whale makin agresif kirim BTC ke bursa, harga Bitcoin bakal turun lagi?",
-   "x": "Pergerakan agresif para 'whale' Bitcoin yang mengirim aset mereka ke bursa memicu kekhawatiran penurunan harga lebih lanjut. Hal ini terjadi di tengah kerugian besar yang dialami para pemegang aset besar.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/whale-makin-agresif-kirim-btc-ke-bursa-harga-bitcoin-bakal-turun-lagi",
-   "img": null,
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T07:00:17"
-  },
-  {
-   "id": 9405,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Apa yang Menyebabkan Penurunan Bitcoin? CZ Sebut 6 Alasan Mungkin",
-   "x": "Bitcoin mencapai $62.006 saat dana AS kehilangan $1,91 miliar dalam tujuh hari. Co-founder Binance CZ menyebutkan enam kemungkinan alasan, mulai dari IPO Anthropic hingga inflasi yang tinggi.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-drop-cz-enam-alasan",
-   "img": "https://assets.beincrypto.com/img/RnW-5rSb5_geVRZTK0MMtKovmH8=/smart/1111096588ce4e6b954943cb7df11251",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-15T18:59:46"
-  },
-  {
    "id": 9434,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -116,20 +130,6 @@
    "published_at": "2026-11-16T16:26:52"
   },
   {
-   "id": 9530,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Likuidasi Bitcoin $2 Miliar Akhir Pekan, Trader Pantau Level $60.000",
-   "x": "Penurunan Bitcoin mendekati $62.100 memicu likuidasi besar di pasar kripto. Penarikan ETF dan perdagangan opsi yang ramai menjadi sorotan pasca-kejadian.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T21:46:03"
-  },
-  {
    "id": 9641,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -138,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-faces-a-liquidity-drain-as-anthropic-ipo-unlocks-millions",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/arthur-hayes-ai-credit-bitcoin-liquidity-gap.webp",
-   "a": "17 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T00:10:37"
@@ -152,7 +152,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-12.21.14.png",
-   "a": "30 menit lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T17:13:37"
@@ -186,6 +186,20 @@
    "published_at": "2026-11-17T07:04:48"
   },
   {
+   "id": 9530,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Likuidasi Bitcoin $2 Miliar Akhir Pekan, Trader Pantau Level $60.000",
+   "x": "Penurunan Bitcoin mendekati $62.100 memicu likuidasi besar di pasar kripto. Penarikan ETF dan perdagangan opsi yang ramai menjadi sorotan pasca-kejadian.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T21:46:03"
+  },
+  {
    "id": 9408,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -194,24 +208,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T22:50:59"
-  },
-  {
-   "id": 9531,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Peretas Alihkan Imbalan Penambang Bitcoin Lewat Serangan AI, Kata CEO Luxor",
-   "x": "Peretas berhasil mengalihkan hashrate dari belasan akun klien melalui alat Luxor Commander. CEO Luxor menduga serangan ini menggunakan metode kecerdasan buatan yang canggih.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T21:16:03"
   },
   {
    "id": 9663,
@@ -222,7 +222,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-power-law-models-predict-a-rebound-without-real-proof",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-power-law-assumed-restoring-spring.webp",
-   "a": "10 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T07:40:44"
@@ -270,6 +270,20 @@
    "published_at": "2026-11-16T15:00:00"
   },
   {
+   "id": 9531,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Peretas Alihkan Imbalan Penambang Bitcoin Lewat Serangan AI, Kata CEO Luxor",
+   "x": "Peretas berhasil mengalihkan hashrate dari belasan akun klien melalui alat Luxor Commander. CEO Luxor menduga serangan ini menggunakan metode kecerdasan buatan yang canggih.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T21:16:03"
+  },
+  {
    "id": 9677,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -278,24 +292,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QP748ANKPH8QB50GJRMQ92/hi-what-is-impermanent-loss-and-how-to-avoid-it2-1-1280x853.webp",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T16:34:20"
-  },
-  {
-   "id": 9470,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Boris Johnson teguh skeptis Bitcoin, sebut 'tak ada yang tahu siapa berkuasa'",
-   "x": "Mantan Perdana Menteri Inggris Boris Johnson kembali menyuarakan keraguan terhadap Bitcoin dalam sebuah konferensi Solana. Sikap skeptisnya ini muncul beberapa bulan setelah ia menyebut Bitcoin sebagai skema Ponzi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/boris-johnson-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T15:04:56"
   },
   {
    "id": 9477,
@@ -348,10 +348,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peter-schiff-ai-subprime-financial-crisis",
    "img": "https://assets.beincrypto.com/img/zmVFCjO6r4Rd708TtrF2rH-mPnc=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "11 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T06:10:21"
+  },
+  {
+   "id": 9470,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Boris Johnson teguh skeptis Bitcoin, sebut 'tak ada yang tahu siapa berkuasa'",
+   "x": "Mantan Perdana Menteri Inggris Boris Johnson kembali menyuarakan keraguan terhadap Bitcoin dalam sebuah konferensi Solana. Sikap skeptisnya ini muncul beberapa bulan setelah ia menyebut Bitcoin sebagai skema Ponzi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/boris-johnson-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T15:04:56"
   },
   {
    "id": 9438,
@@ -366,20 +380,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T13:29:11"
-  },
-  {
-   "id": 9637,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Investor Bitcoin kapitulasi, sinyal historis titik terendah",
-   "x": "Kerugian terealisasi Bitcoin mencapai level terendah historis, menunjukkan potensi titik balik pasar. Investor menahan level harga $62.000 hingga $66.000.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T20:36:03"
   },
   {
    "id": 9612,
@@ -418,10 +418,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/de-shaw-strategi-bitcoin-etf-strive",
    "img": "https://assets.beincrypto.com/img/oDvorE7j0fPe7cqyPdW6LLUCU6k=/smart/1df185c012674704bfee301ce46dae00",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T22:29:16"
+  },
+  {
+   "id": 9637,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Investor Bitcoin kapitulasi, sinyal historis titik terendah",
+   "x": "Kerugian terealisasi Bitcoin mencapai level terendah historis, menunjukkan potensi titik balik pasar. Investor menahan level harga $62.000 hingga $66.000.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T20:36:03"
   },
   {
    "id": 9578,
@@ -436,20 +450,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T16:39:43"
-  },
-  {
-   "id": 9529,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Pembuat Dompet Bitcoin Trezor Akui Data Pelanggan Kembali Terekspos",
-   "x": "Mitra pengiriman Trezor kembali mengalami peretasan dalam tiga bulan terakhir. Insiden ini kembali membahayakan data pribadi dan detail pesanan pelanggan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T22:18:03"
   },
   {
    "id": 9478,
@@ -494,6 +494,20 @@
    "published_at": "2026-11-16T03:24:23"
   },
   {
+   "id": 9741,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin anjlok jelang IPO Anthropic, benarkah karena AI?",
+   "x": "Harga Bitcoin turun mendekati $63.000 menjelang rencana penawaran umum perdana (IPO) Anthropic. Analis meragukan IPO AI menjadi penyebab utama, mengarah pada faktor lain seperti aliran keluar ETF dan kenaikan suku bunga.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T19:16:02"
+  },
+  {
    "id": 9416,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -508,20 +522,6 @@
    "published_at": "2026-11-16T02:33:07"
   },
   {
-   "id": 9714,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Terdakwa Movie2K bisa serahkan 40.000 Bitcoin, tetap jadi miliarder",
-   "x": "Seorang hakim Jerman menawarkan untuk menghentikan tuntutan pidana terhadap operator situs bajakan. Syaratnya, terdakwa harus menyerahkan sebagian besar aset Bitcoin miliknya.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-   "a": "3 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T14:20:52"
-  },
-  {
    "id": 9519,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -530,7 +530,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lnd-update-checkpoint-protection.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T22:10:43"
@@ -544,7 +544,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-15T21:57:53"
@@ -564,6 +564,20 @@
    "published_at": "2026-11-16T13:16:28"
   },
   {
+   "id": 9529,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Pembuat Dompet Bitcoin Trezor Akui Data Pelanggan Kembali Terekspos",
+   "x": "Mitra pengiriman Trezor kembali mengalami peretasan dalam tiga bulan terakhir. Insiden ini kembali membahayakan data pribadi dan detail pesanan pelanggan.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T22:18:03"
+  },
+  {
    "id": 9580,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -578,32 +592,18 @@
    "published_at": "2026-11-17T13:30:00"
   },
   {
-   "id": 9471,
+   "id": 9747,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin anjlok, pasar kripto dilanda ketakutan ekstrem",
-   "x": "Pasar aset kripto mengalami penurunan tajam dalam beberapa minggu terakhir, mendorong indeks ketakutan dan keserakahan ke level ekstrem. CEO Binance memberikan pandangannya mengenai penyebab penurunan ini, sambil menegaskan bahwa bursa dan dirinya tidak menjual aset.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T13:23:17"
-  },
-  {
-   "id": 9479,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Ekonomi Jepang stagnan, Bitcoin tak otomatis terbantu biaya pendanaan yen",
-   "x": "Perlambatan ekonomi Jepang dan suku bunga BOJ yang masih rendah membuat Bitcoin tidak mendapat keuntungan otomatis dari biaya pendanaan yen. Hal ini mengindikasikan pasar kripto masih dipengaruhi faktor makroekonomi global.",
+   "t": "Jerman bekukan Bitcoin hingga 180 hari tanpa akses kunci privat",
+   "x": "Jerman berencana membekukan Bitcoin hingga 180 hari, bahkan tanpa akses ke kunci privat. Regulasi ini dapat memengaruhi cara aset digital dikelola dan diamankan oleh pengguna di yurisdiksi tersebut.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/japan-gdp-bitcoin-yen-funding-burden.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/germany-bitcoin-frost-divider.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T13:30:20"
+   "published_at": "2026-11-18T20:40:02"
   },
   {
    "id": 9461,
@@ -634,46 +634,46 @@
    "published_at": "2026-11-16T03:00:00"
   },
   {
-   "id": 9678,
+   "id": 9742,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Covenants Bagian 6: FE Covenants — Penegakan melalui kunci penanda tangan terenkripsi",
-   "x": "FE Covenants menyematkan batasan pengeluaran pada kunci penanda tangan. Hal ini memastikan hanya transaksi yang memenuhi kondisi tertentu yang dapat disetujui.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg",
-   "a": "3 jam lalu",
+   "t": "Penambang Bitcoin jual aset untuk danai booming AI",
+   "x": "Sejumlah penambang Bitcoin besar seperti MARA dan Riot dilaporkan menjual sebagian besar cadangan Bitcoin mereka. Dana hasil penjualan ini digunakan untuk membayar utang dan mendanai pembangunan pusat data untuk kebutuhan kecerdasan buatan (AI).",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T14:04:50"
+   "published_at": "2026-11-18T18:46:03"
   },
   {
-   "id": 9537,
+   "id": 9723,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Strategi Saylor Terus Beli Bitcoin, Tambah 'Sedikit Oranye' Saat Turun",
-   "x": "Michael Saylor kembali menambah koleksi Bitcoin perusahaannya di tengah penurunan harga. Pembelian ini menunjukkan keyakinan pada strategi akumulasi aset digital meski pasar bergejolak.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
+   "t": "MARA tawarkan utang $185 juta pasca jual Bitcoin $1,1 miliar",
+   "x": "Perusahaan penambangan Bitcoin, MARA, kembali mencari pendanaan melalui penawaran utang senilai $185 juta. Dana ini akan digunakan untuk ekspansi infrastruktur AI, menyusul penjualan Bitcoin senilai $1,1 miliar sebelumnya.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T18:27:52"
+  },
+  {
+   "id": 9479,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Ekonomi Jepang stagnan, Bitcoin tak otomatis terbantu biaya pendanaan yen",
+   "x": "Perlambatan ekonomi Jepang dan suku bunga BOJ yang masih rendah membuat Bitcoin tidak mendapat keuntungan otomatis dari biaya pendanaan yen. Hal ini mengindikasikan pasar kripto masih dipengaruhi faktor makroekonomi global.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/japan-gdp-bitcoin-yen-funding-burden.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T17:20:26"
-  },
-  {
-   "id": 9401,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin terlihat murah menurut satu ukuran setelah ETF keluar $1 miliar",
-   "x": "Indikator MVRV yang disesuaikan menunjukkan valuasi Bitcoin yang rendah pasca-aliran dana keluar ETF senilai $1 miliar. Namun, pemulihan belum terkonfirmasi sepenuhnya.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-valuation-depths.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-15T15:35:58"
+   "published_at": "2026-11-16T13:30:20"
   },
   {
    "id": 9700,
@@ -684,7 +684,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/workflow_Article-cover-image-Free-metaphor-choice_2026-11-18_13-40-40.png",
-   "a": "3 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T14:01:54"
@@ -704,18 +704,32 @@
    "published_at": "2026-11-17T13:50:18"
   },
   {
-   "id": 9496,
+   "id": 9714,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Gejolak Nvidia uji rencana pendanaan AI penambang Bitcoin",
-   "x": "Perubahan kepemimpinan di Nvidia dan pembatasan izin di Texas memperdalam kesenjangan antara penambang Bitcoin yang sudah memiliki pendanaan untuk proyek AI dan yang masih mencari modal serta persetujuan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg",
-   "a": "kemarin",
+   "t": "Terdakwa Movie2K bisa serahkan 40.000 Bitcoin, tetap jadi miliarder",
+   "x": "Seorang hakim Jerman menawarkan untuk menghentikan tuntutan pidana terhadap operator situs bajakan. Syaratnya, terdakwa harus menyerahkan sebagian besar aset Bitcoin miliknya.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T18:07:49"
+   "published_at": "2026-11-18T14:20:52"
+  },
+  {
+   "id": 9678,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Covenants Bagian 6: FE Covenants — Penegakan melalui kunci penanda tangan terenkripsi",
+   "x": "FE Covenants menyematkan batasan pengeluaran pada kunci penanda tangan. Hal ini memastikan hanya transaksi yang memenuhi kondisi tertentu yang dapat disetujui.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T14:04:50"
   },
   {
    "id": 9707,
@@ -726,7 +740,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-price-band-packing.webp",
-   "a": "4 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T13:00:15"
@@ -760,18 +774,32 @@
    "published_at": "2026-11-16T02:45:00"
   },
   {
-   "id": 9439,
+   "id": 9471,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Binance Pay Later tawarkan kredit pakai jaminan Bitcoin, Ether, BNB",
-   "x": "Binance meluncurkan fitur 'Pay Later' yang memungkinkan pengguna mendapatkan kredit hingga 1.000 USDC dengan jaminan aset kripto seperti Bitcoin, Ether, dan BNB. Layanan ini dapat digunakan untuk pembelian melalui Binance Card atau QR Pay.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg",
+   "t": "Bitcoin anjlok, pasar kripto dilanda ketakutan ekstrem",
+   "x": "Pasar aset kripto mengalami penurunan tajam dalam beberapa minggu terakhir, mendorong indeks ketakutan dan keserakahan ke level ekstrem. CEO Binance memberikan pandangannya mengenai penyebab penurunan ini, sambil menegaskan bahwa bursa dan dirinya tidak menjual aset.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T13:00:00"
+   "published_at": "2026-11-16T13:23:17"
+  },
+  {
+   "id": 9496,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Gejolak Nvidia uji rencana pendanaan AI penambang Bitcoin",
+   "x": "Perubahan kepemimpinan di Nvidia dan pembatasan izin di Texas memperdalam kesenjangan antara penambang Bitcoin yang sudah memiliki pendanaan untuk proyek AI dan yang masih mencari modal serta persetujuan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T18:07:49"
   },
   {
    "id": 9644,
@@ -782,7 +810,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/bitcoin-developer-verifies-164-million-unspent-coins-in-just-72-seconds",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-snapshot-check-01-optical-snapshot-comparator-c0073f36.webp",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T20:00:40"
@@ -796,7 +824,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/zcash-3.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T18:43:19"
@@ -810,38 +838,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/the-economist-dunia-ke-depan-2027-bitcoin",
    "img": "https://assets.beincrypto.com/img/sgSw0bbIiQNJNPHYg6cIE5TmOGo=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T11:42:18"
-  },
-  {
-   "id": 9585,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Metrik kerugian terealisasi Bitcoin lampaui rekor Juni, minat terbuka dekati rekor terendah 2 tahun",
-   "x": "Pengeluaran pemegang Bitcoin jangka pendek mencatat proporsi kerugian terealisasi terbesar sejak Februari setelah harga BTC turun ke $62.000. Indikator ini menunjukkan tekanan jual yang signifikan dari investor.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGH6S8Y1QTSMVNC1AQ8PZX/article-covers-184960-panicked-bitcoiner-mistakenly-pays-0-75-btc-in-fees-960x640.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T11:14:05"
-  },
-  {
-   "id": 9525,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Tampilkan Peringatan Pemulihan Palsu di Tengah Lonjakan Futures $64 Miliar",
-   "x": "Penurunan harga Bitcoin baru-baru ini disertai lonjakan volume futures yang besar. Hal ini menimbulkan keraguan apakah pemulihan harga yang terjadi benar-benar didukung oleh permintaan pasar yang kuat.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-flashes-false-recovery-warning-as-64-billion-futures-frenzy-masks-weak-demand",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-binance-demand-bridge.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T19:10:29"
   }
  ]
 }
