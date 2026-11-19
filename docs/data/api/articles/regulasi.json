@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 22,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,18 +18,32 @@
    "published_at": "2026-11-18T03:30:35"
   },
   {
-   "id": 9750,
+   "id": 9818,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Peretas Binance Curi 192 Token di 11 Jaringan, Dokumen Pengadilan Ungkap",
-   "x": "Dokumen pengadilan mengungkap peretas berhasil mencuri 192 token dari 11 jaringan berbeda di bursa Binance. Sebagian besar aset yang dicuri adalah stablecoin senilai $3,46 miliar dari total $6,3 miliar.",
+   "t": "Binance bekukan aset $6,5 miliar, Hong Kong curiga HYPE",
+   "x": "Binance berhasil membekukan aset curian melalui perintah pengadilan, sementara Hong Kong memperingatkan warganya tentang platform Hyperliquid. Kasus ini menyoroti upaya penegakan hukum terhadap kejahatan siber aset digital di Asia.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S2PS7A7DGE0V6HJFS82SEY/hi-what-are-crypto-exit-scams-and-how-to-protect-against-them.jpg",
-   "a": "9 jam lalu",
+   "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
+   "a": "7 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T05:09:45"
+   "published_at": "2026-11-19T22:25:18"
+  },
+  {
+   "id": 9845,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kalifornia: OpenAI kehilangan kendali agen AI 80 kali demi profit",
+   "x": "Gugatan Kalifornia terhadap OpenAI menyoroti potensi risiko dari pengembangan kecerdasan buatan yang berfokus pada keuntungan. Hal ini menimbulkan kekhawatiran tentang pengawasan dan dampak sosial teknologi AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-safety-review-lens.webp",
+   "a": "41 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T21:50:44"
   },
   {
    "id": 9786,
@@ -40,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hong-kong-sfc-beri-tanda-hyperliquid",
    "img": "https://assets.beincrypto.com/img/yKQYzBsCSywaVIU5FsciyID9A5c=/smart/2c48c80b4f2545a1ac148482ee5ed0dc",
-   "a": "2 jam lalu",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T12:14:35"
@@ -54,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:59:14"
@@ -68,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230215_Binance3.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T19:40:25"
@@ -88,18 +102,18 @@
    "published_at": "2026-11-18T02:00:47"
   },
   {
-   "id": 9675,
+   "id": 9750,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Pembebasan MEV Ethereum senilai $25 juta uji batas penegakan pidana",
-   "x": "Kasus ini menguji sejauh mana penegakan hukum pidana dapat menjangkau aktivitas di blockchain Ethereum. Hasilnya dapat memengaruhi cara pendapatan dari MEV di masa depan akan diatur dan dikenai pajak.",
+   "t": "Peretas Binance Curi 192 Token di 11 Jaringan, Dokumen Pengadilan Ungkap",
+   "x": "Dokumen pengadilan mengungkap peretas berhasil mencuri 192 token dari 11 jaringan berbeda di bursa Binance. Sebagian besar aset yang dicuri adalah stablecoin senilai $3,46 miliar dari total $6,3 miliar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg",
-   "a": "21 jam lalu",
+   "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S2PS7A7DGE0V6HJFS82SEY/hi-what-are-crypto-exit-scams-and-how-to-protect-against-them.jpg",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T17:05:04"
+   "published_at": "2026-11-19T05:09:45"
   },
   {
    "id": 9728,
@@ -110,7 +124,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/binance-perintah-pengadilan-bekukan-hack-kripto",
    "img": "https://assets.beincrypto.com/img/OG6wLGmgTFfRIW9V7FmmRmiTlFk=/smart/232a9885335c44c8b20263ab8ac81b0e",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T19:52:37"
@@ -124,10 +138,52 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T11:15:08"
+  },
+  {
+   "id": 9841,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Ripple Ragukan Warren Tetapkan Kebijakan Kripto, Dukung Aturan Lembaga",
+   "x": "Ripple menilai harapan untuk undang-undang struktur pasar kripto memudar dan mendukung pembentukan aturan yang jelas oleh lembaga terkait. Hal ini menunjukkan pergeseran strategi industri aset digital dalam menghadapi ketidakpastian regulasi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/Elizabeth-Warren-1.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T18:47:30"
+  },
+  {
+   "id": 9675,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Pembebasan MEV Ethereum senilai $25 juta uji batas penegakan pidana",
+   "x": "Kasus ini menguji sejauh mana penegakan hukum pidana dapat menjangkau aktivitas di blockchain Ethereum. Hasilnya dapat memengaruhi cara pendapatan dari MEV di masa depan akan diatur dan dikenai pajak.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T17:05:04"
+  },
+  {
+   "id": 9547,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Italia Tempatkan Revolut di Bawah Pengawasan setelah Transfer Terkait Mafia Sebesar US$46 Juta",
+   "x": "Pengadilan Milan menempatkan operasi Revolut di Italia di bawah pengawasan yudisial selama satu tahun penuh. Jaksa menuding adanya kegagalan serius dalam kontrol anti pencucian uang di bank digital ini. Menurut putusan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/italia-revolut-administrasi-yudisial-uang-mafia",
+   "img": "https://assets.beincrypto.com/img/9w5V3wlxWQkWEyj96kuWE5LjRdU=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-17T04:12:51"
   },
   {
    "id": 9510,
@@ -138,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T20:44:01"
@@ -158,20 +214,6 @@
    "published_at": "2026-11-16T22:54:57"
   },
   {
-   "id": 9547,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Italia Tempatkan Revolut di Bawah Pengawasan setelah Transfer Terkait Mafia Sebesar US$46 Juta",
-   "x": "Pengadilan Milan menempatkan operasi Revolut di Italia di bawah pengawasan yudisial selama satu tahun penuh. Jaksa menuding adanya kegagalan serius dalam kontrol anti pencucian uang di bank digital ini. Menurut putusan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/italia-revolut-administrasi-yudisial-uang-mafia",
-   "img": "https://assets.beincrypto.com/img/9w5V3wlxWQkWEyj96kuWE5LjRdU=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-17T04:12:51"
-  },
-  {
    "id": 9517,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -180,7 +222,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/court-columns.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T17:15:10"
@@ -208,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R2ZP1K5NGA1TMSVV7XWE7F/hi-the-aftermath-of-binance-consequences-of-cryptos-ongoing-regulatory-process.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T20:20:37"
@@ -222,10 +264,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:44:06"
+  },
+  {
+   "id": 9821,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Calon nominasi SEC Trump dukung aturan formal untuk perdagangan saham ter-tokenisasi",
+   "x": "Calon nominasi Komisi Sekuritas dan Bursa Amerika Serikat (SEC) dari Partai Demokrat, Kristin Johnson, mendukung pembentukan aturan formal untuk perdagangan saham yang ditokenisasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T20:06:34"
   },
   {
    "id": 9776,
@@ -236,7 +292,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBSNHRTPW4ZMZ1E8HFB32H/news-crypto-studio-breaking-news-2.jpg",
-   "a": "5 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T08:54:58"

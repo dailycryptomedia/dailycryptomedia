@@ -1,5 +1,5 @@
 {
- "total": 20,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gta-6-rilis-20-ribu-token-kripto-muncul-8-800-ditandai-berisiko",
    "img": null,
-   "a": "11 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T03:00:39"
@@ -54,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R7EK1MNWSD45EFCA2JN3ZP/hi-ledger-nano-s-plus-review-unlocking-features-security-and-performance.png",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T21:13:58"
@@ -68,24 +68,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
-   "a": "5 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T08:40:16"
   },
   {
-   "id": 9472,
+   "id": 9594,
    "k": "web3",
    "cat": "Web3",
-   "t": "Ledger hadirkan fitur Clear Signing untuk Solana, akhiri 'blind' signing",
-   "x": "Produsen dompet perangkat keras Ledger kini memungkinkan pengguna melihat detail transaksi sebelum disetujui di sembilan aplikasi Solana. Fitur ini bertujuan meningkatkan keamanan dan transparansi bagi pengguna yang bertransaksi di ekosistem Solana.",
+   "t": "Peretasan Optimizely ubah alamat dompet kripto di 176 situs",
+   "x": "Kode berbahaya yang disebarkan melalui platform pengujian situs web Optimizely mengganti alamat dompet kripto pengunjung dengan milik penyerang. Insiden ini juga dilaporkan berhasil mencuri data kartu pembayaran.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-   "a": "3 hari lalu",
+   "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T13:12:08"
+   "published_at": "2026-11-17T11:05:25"
   },
   {
    "id": 9784,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledger-x-ray-dompet-tampered-berlin-dubai",
    "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "44 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T13:55:00"
@@ -116,18 +116,18 @@
    "published_at": "2026-11-17T03:00:20"
   },
   {
-   "id": 9459,
+   "id": 9513,
    "k": "web3",
    "cat": "Web3",
-   "t": "Penjelasan Skalabilitas Layer 2",
-   "x": "Solusi Layer 2 dirancang untuk mengatasi keterbatasan skalabilitas blockchain, memungkinkan transaksi lebih cepat dan murah. Pemahaman ini krusial bagi investor yang mengikuti perkembangan teknologi blockchain dan DeFi.",
+   "t": "CEO Solflare sebut tinjauan keamanan AI penting, pamerkan 'mode bunker'",
+   "x": "CEO Solflare menyoroti peran kecerdasan buatan (AI) dalam mendeteksi serangan siber yang terlewat oleh manusia. Fitur 'mode bunker' dan kemitraan dengan MoneyGram untuk layanan penukaran USDC juga diperkenalkan.",
    "w": "The Block",
-   "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cover-16x9-6.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T14:56:48"
+   "published_at": "2026-11-16T18:59:21"
   },
   {
    "id": 9497,
@@ -138,7 +138,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T17:49:13"
@@ -152,66 +152,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T18:00:03"
-  },
-  {
-   "id": 9594,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peretasan Optimizely ubah alamat dompet kripto di 176 situs",
-   "x": "Kode berbahaya yang disebarkan melalui platform pengujian situs web Optimizely mengganti alamat dompet kripto pengunjung dengan milik penyerang. Insiden ini juga dilaporkan berhasil mencuri data kartu pembayaran.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T11:05:25"
-  },
-  {
-   "id": 9447,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Mengapa Circle Tidak Bisa Membekukan US$6,45 Juta yang Dicuri dari Sebuah Crypto Wallet",
-   "x": "Seorang peretas menguras $6,45 juta dari wallet Safe dan memindahkan sebagian besar dana tersebut ke dalam ether dan Monero, di luar jangkauan pembekuan Circle.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/dolar-curian-hacker-circle-bekukan-monero",
-   "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-16T15:06:19"
-  },
-  {
-   "id": 9563,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "OpenAI luncurkan ChatGPT Wallet, blockchain jadi fokus",
-   "x": "OpenAI merilis ChatGPT Wallet tanpa fitur kripto, sementara Mastercard dan Coinbase menguji pembayaran berbasis blockchain dengan AI. Hal ini menyoroti potensi integrasi teknologi blockchain dalam pembayaran digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/openai-luncurkan-chatgpt-wallet-mengapa-justru-blockchain-yang-menarik-perhatian",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T02:00:14"
-  },
-  {
-   "id": 9513,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CEO Solflare sebut tinjauan keamanan AI penting, pamerkan 'mode bunker'",
-   "x": "CEO Solflare menyoroti peran kecerdasan buatan (AI) dalam mendeteksi serangan siber yang terlewat oleh manusia. Fitur 'mode bunker' dan kemitraan dengan MoneyGram untuk layanan penukaran USDC juga diperkenalkan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T18:59:21"
   },
   {
    "id": 9544,
@@ -226,6 +170,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T05:42:37"
+  },
+  {
+   "id": 9563,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "OpenAI luncurkan ChatGPT Wallet, blockchain jadi fokus",
+   "x": "OpenAI merilis ChatGPT Wallet tanpa fitur kripto, sementara Mastercard dan Coinbase menguji pembayaran berbasis blockchain dengan AI. Hal ini menyoroti potensi integrasi teknologi blockchain dalam pembayaran digital.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/openai-luncurkan-chatgpt-wallet-mengapa-justru-blockchain-yang-menarik-perhatian",
+   "img": null,
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T02:00:14"
   },
   {
    "id": 9603,
@@ -264,24 +222,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T11:00:00"
-  },
-  {
-   "id": 9467,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Toss luncurkan dompet kripto non-custodial di aplikasinya",
-   "x": "Perusahaan teknologi finansial Korea Selatan, Toss, akan merilis dompet kripto non-custodial dalam aplikasinya. Langkah ini juga diikuti persiapan lisensi VASP untuk mendukung pembayaran menggunakan stablecoin.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T08:52:33"
   }
  ]
 }
