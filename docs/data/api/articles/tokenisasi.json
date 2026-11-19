@@ -1,5 +1,5 @@
 {
- "total": 41,
+ "total": 44,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/akankah-wall-street-mengikuti-saham-tertokenisasi",
    "img": "https://assets.beincrypto.com/img/lDUNMVmN-toKWlyMM3TS4mt6vJU=/smart/0fe64a1c0a9c49369c41a204c4095ce5",
-   "a": "15 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T08:00:00"
@@ -60,18 +60,18 @@
    "published_at": "2026-11-16T16:11:31"
   },
   {
-   "id": 9615,
+   "id": 9763,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Bagaimana Bitcoin masih bersaing dengan imbal hasil obligasi negara 2,92% setelah inflasi",
-   "x": "Imbal hasil riil obligasi negara AS tenor 10 tahun naik, mendekati potensi imbal hasil aset kripto. Perbandingan ini relevan bagi investor dalam memilih instrumen investasi.",
+   "t": "Imbal Hasil Obligasi Jepang Melonjak ke 3,75%, Sembunyikan Jebakan Bitcoin",
+   "x": "Imbal hasil obligasi Jepang melonjak ke 3,75% di tengah penurunan minat investor pada lelang obligasi. Kondisi ini dapat menjadi jebakan bagi Bitcoin karena investor mungkin beralih ke aset yang lebih aman.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/how-bitcoin-still-competes-with-a-2-92-treasury-yield-after-inflation",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-real-yield-1-fixed-height-hurdle-b0dfef77.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/japan-bond-yields-surge-to-3-75-hiding-a-quiet-bitcoin-trap",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/01-slack-yen-tether.jpg",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-17T13:18:44"
+   "published_at": "2026-11-19T00:50:37"
   },
   {
    "id": 9673,
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/robert-pattinson-jadi-james-bond-baru-taruhan-kripto-tembus-us359-juta",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T02:30:33"
@@ -144,18 +144,18 @@
    "published_at": "2026-11-17T15:30:37"
   },
   {
-   "id": 9481,
+   "id": 9615,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Pasar stablecoin Solana menyusut $919 juta, USDC justru tumbuh",
-   "x": "Total kapitalisasi pasar stablecoin di jaringan Solana menyusut $919 juta, meskipun USDC menunjukkan pertumbuhan. Penurunan ini disebabkan oleh menyusutnya nilai USDT dan stablecoin besar lainnya.",
+   "t": "Bagaimana Bitcoin masih bersaing dengan imbal hasil obligasi negara 2,92% setelah inflasi",
+   "x": "Imbal hasil riil obligasi negara AS tenor 10 tahun naik, mendekati potensi imbal hasil aset kripto. Perbandingan ini relevan bagi investor dalam memilih instrumen investasi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-usdc-stablecoin-receding-pool.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/how-bitcoin-still-competes-with-a-2-92-treasury-yield-after-inflation",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-real-yield-1-fixed-height-hurdle-b0dfef77.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T11:10:10"
+   "published_at": "2026-11-17T13:18:44"
   },
   {
    "id": 9686,
@@ -166,7 +166,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinshares-jual-seluruh-treasury-eth-buyback",
    "img": "https://assets.beincrypto.com/img/U_cgfmjV_3_ByFaacG4neBvSk0k=/smart/99007089bc6e41f89cb85b2cb0166f7c",
-   "a": "7 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T15:58:33"
@@ -208,24 +208,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
-   "a": "5 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T18:16:02"
   },
   {
-   "id": 9618,
+   "id": 9481,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Putusan MEV $25 juta ungkap celah keamanan dalam tokenisasi Wall Street",
-   "x": "Sebuah putusan pengadilan terkait kasus MEV senilai $25 juta menyoroti risiko dalam upaya tokenisasi aset tradisional. Keterbukaan informasi mengenai perlindungan dan batasan pemulihan kerugian menjadi krusial.",
+   "t": "Pasar stablecoin Solana menyusut $919 juta, USDC justru tumbuh",
+   "x": "Total kapitalisasi pasar stablecoin di jaringan Solana menyusut $919 juta, meskipun USDC menunjukkan pertumbuhan. Penurunan ini disebabkan oleh menyusutnya nilai USDT dan stablecoin besar lainnya.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/a-25-million-mev-ruling-exposes-a-dangerous-blind-spot-in-wall-streets-tokenization-push",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/onchain-investor-safety-net.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-usdc-stablecoin-receding-pool.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-17T09:30:15"
+   "published_at": "2026-11-16T11:10:10"
   },
   {
    "id": 9501,
@@ -264,7 +264,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-79989027-scaled-e1795019131685.jpg",
-   "a": "7 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T16:30:41"
@@ -284,6 +284,20 @@
    "published_at": "2026-11-16T17:09:28"
   },
   {
+   "id": 9618,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Putusan MEV $25 juta ungkap celah keamanan dalam tokenisasi Wall Street",
+   "x": "Sebuah putusan pengadilan terkait kasus MEV senilai $25 juta menyoroti risiko dalam upaya tokenisasi aset tradisional. Keterbukaan informasi mengenai perlindungan dan batasan pemulihan kerugian menjadi krusial.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-25-million-mev-ruling-exposes-a-dangerous-blind-spot-in-wall-streets-tokenization-push",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/onchain-investor-safety-net.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T09:30:15"
+  },
+  {
    "id": 9546,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -292,7 +306,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/harga-emas-imbal-hasil-treasury-the-fed-kenaikan-suku-bunga",
    "img": "https://assets.beincrypto.com/img/0tc_1jnKYKPaMGZNyjy9bTMwQpQ=/smart/bf5cb01cd3574350a95732de951d29be",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T04:30:00"
@@ -320,7 +334,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/06/20210630_Senator_Cynthia_Lummis.png",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T22:09:17"
@@ -340,18 +354,18 @@
    "published_at": "2026-11-16T09:25:01"
   },
   {
-   "id": 9688,
+   "id": 9759,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Emas Turun ke Level Terendah 14 Bulan Dekat US$3.760. Akankah 2027 Akhirnya Membawa Pemulihan?",
-   "x": "Emas turun ke level terendah selama 14 bulan pada 18 November, diperdagangkan di kisaran US$3.770 per ons. Logam mulia ini sempat jatuh ke US$3.660 sebelum sedikit pulih. Sekarang, para investor ingin tahu apakah…",
+   "t": "Harga Emas Turun Menuju US$3.700, Schiff Sebut The Fed Berisiko Picu Krisis Keuangan dalam Perang Lawan Inflasi",
+   "x": "Emas turun di bawah $3.800, level terendah dalam 14 bulan, seiring bertambahnya spekulasi kenaikan suku bunga The Fed. Peter Schiff mengatakan The Fed tidak bisa mengetatkan kebijakan tanpa memicu krisis.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-emas-terendah-14-bulan-2027-pemulihan",
-   "img": "https://assets.beincrypto.com/img/0tc_1jnKYKPaMGZNyjy9bTMwQpQ=/smart/bf5cb01cd3574350a95732de951d29be",
-   "a": "11 jam lalu",
+   "url": "https://id.beincrypto.com/emas-14-bulan-terendah-schiff-the-fed",
+   "img": "https://assets.beincrypto.com/img/urr06JH3GJYfiITOAwWaxDqIHn4=/smart/e5a97289604e489c99d76528b1598bb7",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-18T12:47:23"
+   "published_at": "2026-11-19T01:05:00"
   },
   {
    "id": 9719,
@@ -362,10 +376,52 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T21:57:35"
+  },
+  {
+   "id": 9766,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Standard Chartered, StraitsX, OCBC uji coba interoperabilitas deposit tokenisasi",
+   "x": "Tiga institusi keuangan menyelesaikan uji coba interoperabilitas deposit tokenisasi. Ini menunjukkan potensi deposit tokenisasi yang selalu aktif memerlukan konektivitas antar platform.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T02:30:00"
+  },
+  {
+   "id": 9688,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Emas Turun ke Level Terendah 14 Bulan Dekat US$3.760. Akankah 2027 Akhirnya Membawa Pemulihan?",
+   "x": "Emas turun ke level terendah selama 14 bulan pada 18 November, diperdagangkan di kisaran US$3.770 per ons. Logam mulia ini sempat jatuh ke US$3.660 sebelum sedikit pulih. Sekarang, para investor ingin tahu apakah…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harga-emas-terendah-14-bulan-2027-pemulihan",
+   "img": "https://assets.beincrypto.com/img/0tc_1jnKYKPaMGZNyjy9bTMwQpQ=/smart/bf5cb01cd3574350a95732de951d29be",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-18T12:47:23"
+  },
+  {
+   "id": 9495,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Coinbase dan Broadridge Usulkan Standar Keterbukaan Informasi Saham Tokenisasi",
+   "x": "Coinbase dan Broadridge mengusulkan standar baru untuk keterbukaan informasi saham ter-tokenisasi. Tujuannya adalah menghubungkan pemegang saham token dengan informasi perusahaan, meski tidak menciptakan hak pemegang saham baru.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T19:56:18"
   },
   {
    "id": 9659,
@@ -376,7 +432,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Circle.png",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T04:21:02"
@@ -396,18 +452,18 @@
    "published_at": "2026-11-16T11:39:24"
   },
   {
-   "id": 9495,
+   "id": 9682,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Coinbase dan Broadridge Usulkan Standar Keterbukaan Informasi Saham Tokenisasi",
-   "x": "Coinbase dan Broadridge mengusulkan standar baru untuk keterbukaan informasi saham ter-tokenisasi. Tujuannya adalah menghubungkan pemegang saham token dengan informasi perusahaan, meski tidak menciptakan hak pemegang saham baru.",
+   "t": "Kapitalisasi pasar Nvidia token melonjak 159% seiring kepergian Jensen Huang",
+   "x": "Nilai token Nvidia melonjak drastis seiring perubahan kepemimpinan dan kinerja finansial perusahaan yang kuat. Fenomena ini menunjukkan minat pada aset digital yang merepresentasikan saham perusahaan teknologi besar.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png",
-   "a": "2 hari lalu",
+   "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q7NKG0EFP1GGQ9YBYJNTQS/hi-nvidia-becomes-its-own-chip-maker.jpg",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T19:56:18"
+   "published_at": "2026-11-18T12:53:12"
   },
   {
    "id": 9465,
@@ -438,18 +494,18 @@
    "published_at": "2026-11-17T18:02:58"
   },
   {
-   "id": 9682,
+   "id": 9622,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Kapitalisasi pasar Nvidia token melonjak 159% seiring kepergian Jensen Huang",
-   "x": "Nilai token Nvidia melonjak drastis seiring perubahan kepemimpinan dan kinerja finansial perusahaan yang kuat. Fenomena ini menunjukkan minat pada aset digital yang merepresentasikan saham perusahaan teknologi besar.",
+   "t": "Aliran kripto Eropa Timur turun 7,9%, Ukraina terima $12 miliar stablecoin",
+   "x": "Kawasan Eropa Timur mencatat penurunan aktivitas kripto terbesar secara global. Namun, Ukraina terus menerima dana stablecoin lintas batas di tengah konflik.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q7NKG0EFP1GGQ9YBYJNTQS/hi-nvidia-becomes-its-own-chip-maker.jpg",
-   "a": "10 jam lalu",
+   "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T12:53:12"
+   "published_at": "2026-11-17T20:05:04"
   },
   {
    "id": 9606,
@@ -474,38 +530,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pembelian-kembali-obligasi-treasury-gagal-bitcoin",
    "img": "https://assets.beincrypto.com/img/9Hitjq2_nE148W-SOm_ijM3_9ig=/smart/394211a9c1f84165b8858442547f1c99",
-   "a": "6 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-18T17:23:59"
-  },
-  {
-   "id": 9622,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Aliran kripto Eropa Timur turun 7,9%, Ukraina terima $12 miliar stablecoin",
-   "x": "Kawasan Eropa Timur mencatat penurunan aktivitas kripto terbesar secara global. Namun, Ukraina terus menerima dana stablecoin lintas batas di tengah konflik.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T20:05:04"
-  },
-  {
-   "id": 9735,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Ondo Luncurkan Token Saham Anthropic di Hari IPO",
-   "x": "Ondo akan menerbitkan token yang merepresentasikan saham Anthropic pada hari perusahaan AI tersebut mulai diperdagangkan di bursa saham. Ini menandai langkah baru dalam tokenisasi aset dunia nyata.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ondo.png",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T18:51:30"
   },
   {
    "id": 9679,
@@ -516,24 +544,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg",
-   "a": "10 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T13:42:37"
   },
   {
-   "id": 9607,
+   "id": 9735,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Grvt luncurkan perpetual RWA dengan pendanaan terkait pasar tradisional",
-   "x": "Grvt meluncurkan produk derivatif baru yang menghubungkan pasar komoditas dengan biaya pendanaan pasar. Inovasi ini membuka potensi baru dalam instrumen keuangan kripto yang terhubung dengan aset dunia nyata.",
+   "t": "Ondo Luncurkan Token Saham Anthropic di Hari IPO",
+   "x": "Ondo akan menerbitkan token yang merepresentasikan saham Anthropic pada hari perusahaan AI tersebut mulai diperdagangkan di bursa saham. Ini menandai langkah baru dalam tokenisasi aset dunia nyata.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/05/20260513_RWAs_Learn-1.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ondo.png",
+   "a": "10 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-17T13:00:00"
+   "published_at": "2026-11-18T18:51:30"
   },
   {
    "id": 9443,
@@ -548,6 +576,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T08:50:50"
+  },
+  {
+   "id": 9607,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Grvt luncurkan perpetual RWA dengan pendanaan terkait pasar tradisional",
+   "x": "Grvt meluncurkan produk derivatif baru yang menghubungkan pasar komoditas dengan biaya pendanaan pasar. Inovasi ini membuka potensi baru dalam instrumen keuangan kripto yang terhubung dengan aset dunia nyata.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/05/20260513_RWAs_Learn-1.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T13:00:00"
   },
   {
    "id": 9515,
