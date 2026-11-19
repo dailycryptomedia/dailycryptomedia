@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/optimizely-attack-distributed-ledger-technology-hsbc-crypto-malware",
    "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-17T08:03:32"
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gta-6-rilis-20-ribu-token-kripto-muncul-8-800-ditandai-berisiko",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T03:00:39"
@@ -54,10 +54,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R7EK1MNWSD45EFCA2JN3ZP/hi-ledger-nano-s-plus-review-unlocking-features-security-and-performance.png",
-   "a": "8 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T21:13:58"
+  },
+  {
+   "id": 9812,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Citi dan Circle Bergabung dengan Bank Dunia Uji Coba USDC untuk Bantuan",
+   "x": "Uji coba penggunaan USDC oleh Citi, Circle, dan Bank Dunia berpotensi mengubah cara penyaluran bantuan internasional. Kolaborasi ini menunjukkan potensi aset digital dalam meningkatkan efisiensi dan transparansi transfer dana global.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T08:40:16"
   },
   {
    "id": 9472,
@@ -68,38 +82,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T13:12:08"
   },
   {
-   "id": 9526,
+   "id": 9784,
    "k": "web3",
    "cat": "Web3",
-   "t": "Trezor perbaiki chip mata-mata dompet kripto, tapi sarankan migrasi dana",
-   "x": "Trezor mengklaim pembaruan firmware terbaru dapat memblokir chip mata-mata yang teridentifikasi pada perangkat kerasnya. Namun, pengguna yang terdampak tetap disarankan untuk membuat seed phrase baru dan memindahkan aset digital mereka.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T18:00:03"
-  },
-  {
-   "id": 9447,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Mengapa Circle Tidak Bisa Membekukan US$6,45 Juta yang Dicuri dari Sebuah Crypto Wallet",
-   "x": "Seorang peretas menguras $6,45 juta dari wallet Safe dan memindahkan sebagian besar dana tersebut ke dalam ether dan Monero, di luar jangkauan pembekuan Circle.",
+   "t": "Ledger Kini Memeriksa Wallet Hardware Mencurigakan dengan X-Ray di Pabriknya di Prancis",
+   "x": "Pemeriksaan Ledger X-ray sekarang tersedia saat pembuat wallet tersebut memverifikasi perangkat yang telah dimanipulasi di Berlin, menyelidiki Dubai, dan menemukan sebuah kasus Nano Gen5.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/dolar-curian-hacker-circle-bekukan-monero",
-   "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/ledger-x-ray-dompet-tampered-berlin-dubai",
+   "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
+   "a": "44 menit lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-16T15:06:19"
+   "published_at": "2026-11-19T13:55:00"
   },
   {
    "id": 9561,
@@ -144,6 +144,20 @@
    "published_at": "2026-11-16T17:49:13"
   },
   {
+   "id": 9526,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Trezor perbaiki chip mata-mata dompet kripto, tapi sarankan migrasi dana",
+   "x": "Trezor mengklaim pembaruan firmware terbaru dapat memblokir chip mata-mata yang teridentifikasi pada perangkat kerasnya. Namun, pengguna yang terdampak tetap disarankan untuk membuat seed phrase baru dan memindahkan aset digital mereka.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T18:00:03"
+  },
+  {
    "id": 9594,
    "k": "web3",
    "cat": "Web3",
@@ -152,24 +166,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:05:25"
   },
   {
-   "id": 9544,
+   "id": 9447,
    "k": "web3",
    "cat": "Web3",
-   "t": "Holder TRUMP Beli Saat Crash demi Kursi Makan Malam, Akankah Mereka Tetap Hold Setelah Makan Penutup?",
-   "x": "Holder besar meme coin Official Trump (TRUMP) terus menambah token selama sebulan terakhir. Mereka melakukan ini ketika token tersebut turun ke level terendah menjelang gala dinner Trump pada 22 November. Kompetisi…",
+   "t": "Mengapa Circle Tidak Bisa Membekukan US$6,45 Juta yang Dicuri dari Sebuah Crypto Wallet",
+   "x": "Seorang peretas menguras $6,45 juta dari wallet Safe dan memindahkan sebagian besar dana tersebut ke dalam ether dan Monero, di luar jangkauan pembekuan Circle.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/trump-meme-coin-whales-gala-dinner",
-   "img": "https://assets.beincrypto.com/img/c0iddk3TAKWowAqmxxH2XSWxmxA=/smart/d396b8a52d0b44fe920c186bde0733a1",
-   "a": "kemarin",
+   "url": "https://id.beincrypto.com/dolar-curian-hacker-circle-bekukan-monero",
+   "img": "https://assets.beincrypto.com/img/5dL2A4eOWjr_Lf8a_j3f5VPyMXY=/smart/0adaefb8d27c46fcb5d2a92f81ef8fda",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-17T05:42:37"
+   "published_at": "2026-11-16T15:06:19"
   },
   {
    "id": 9563,
@@ -200,6 +214,34 @@
    "published_at": "2026-11-16T18:59:21"
   },
   {
+   "id": 9544,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Holder TRUMP Beli Saat Crash demi Kursi Makan Malam, Akankah Mereka Tetap Hold Setelah Makan Penutup?",
+   "x": "Holder besar meme coin Official Trump (TRUMP) terus menambah token selama sebulan terakhir. Mereka melakukan ini ketika token tersebut turun ke level terendah menjelang gala dinner Trump pada 22 November. Kompetisi…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/trump-meme-coin-whales-gala-dinner",
+   "img": "https://assets.beincrypto.com/img/c0iddk3TAKWowAqmxxH2XSWxmxA=/smart/d396b8a52d0b44fe920c186bde0733a1",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-17T05:42:37"
+  },
+  {
+   "id": 9603,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
+   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T14:27:35"
+  },
+  {
    "id": 9653,
    "k": "web3",
    "cat": "Web3",
@@ -214,18 +256,18 @@
    "published_at": "2026-11-18T05:17:54"
   },
   {
-   "id": 9603,
+   "id": 9802,
    "k": "web3",
    "cat": "Web3",
-   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
-   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
+   "t": "1inch integrasikan kontrak berjangka abadi Hyperliquid ke dApp dan dompetnya",
+   "x": "Platform 1inch kini memungkinkan pengguna mengakses kontrak berjangka abadi dari Hyperliquid. Integrasi ini memperluas pilihan produk derivatif yang tersedia bagi pengguna di ekosistem 1inch.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
-   "a": "kemarin",
+   "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-17T14:27:35"
+   "published_at": "2026-11-19T11:00:00"
   },
   {
    "id": 9467,
@@ -236,7 +278,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T08:52:33"

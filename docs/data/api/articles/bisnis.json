@@ -1,5 +1,5 @@
 {
- "total": 17,
+ "total": 21,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,10 +12,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/mengapa-cathie-wood-jual-nvidia-crypto",
    "img": "https://assets.beincrypto.com/img/kqtLU5YUAkvbmYKgniZ3-JPghc8=/smart/c912452218974e54b0c033ac4f4dd487",
-   "a": "30 menit lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T05:00:00"
+  },
+  {
+   "id": 9807,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Valuasi Anthropic capai $1,5 triliun dalam IPO rekor, ECB peringatkan pendanaan AI bisa surut",
+   "x": "Perusahaan AI Anthropic melakukan IPO dengan valuasi fantastis, namun Bank Sentral Eropa mengindikasikan pendanaan untuk sektor ini mungkin akan berkurang. Ini bisa memengaruhi investor yang berharap pada pertumbuhan pesat teknologi kecerdasan buatan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/anthropic-hits-1-5-trillion-valuation-in-record-ipo-as-ecb-warns-ai-funding-could-dry-up",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/anthropic-ipo-bell.webp",
+   "a": "18 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T14:20:28"
   },
   {
    "id": 9619,
@@ -30,20 +44,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T00:16:43"
-  },
-  {
-   "id": 9518,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Pendapatan Aave turun $10 juta di Q3, namun satu metrik tunjukkan cerita baru",
-   "x": "Pendapatan Aave turun karena penurunan penerimaan likuidasi, namun laba bersihnya justru meningkat. Hal ini menunjukkan potensi pemulihan platform DeFi tersebut meski ada tantangan pendapatan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-report-scrutiny.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T23:30:57"
   },
   {
    "id": 9599,
@@ -88,18 +88,18 @@
    "published_at": "2026-11-17T16:59:18"
   },
   {
-   "id": 9613,
+   "id": 9518,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Mesin burn HYPE Hyperliquid senilai $3,4 miliar hadapi ujian baru seiring cadangan USDC menyusut",
-   "x": "Perdagangan perpetual tujuh hari naik 15,87% saat nilai USDC turun 7,76%. Hal ini membuat dampak bersih pada pendanaan buyback HYPE belum pasti, menimbulkan pertanyaan bagi investor.",
+   "t": "Pendapatan Aave turun $10 juta di Q3, namun satu metrik tunjukkan cerita baru",
+   "x": "Pendapatan Aave turun karena penurunan penerimaan likuidasi, namun laba bersihnya justru meningkat. Hal ini menunjukkan potensi pemulihan platform DeFi tersebut meski ada tantangan pendapatan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hyperliquids-3-4-billion-hype-burn-machine-faces-new-test-as-usdc-reserves-shrink",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hyperliquid-trading-reserve.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-interest-report-scrutiny.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-17T15:10:21"
+   "published_at": "2026-11-16T23:30:57"
   },
   {
    "id": 9463,
@@ -110,24 +110,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/upbit-red-real.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-16T10:46:39"
   },
   {
-   "id": 9532,
+   "id": 9796,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Tom Lee Salahkan IPO Nvidia dan Anthropic atas Anjloknya Ethereum",
-   "x": "Ketua Bitmine, Tom Lee, mengaitkan penurunan harga Ethereum dengan dampak IPO Nvidia dan kebutuhan pendanaan Anthropic. Hal ini menunjukkan korelasi pasar kripto dengan sektor teknologi.",
+   "t": "Model AI Terbaru Google Lampaui Tolok Ukur Jelang IPO Anthropic",
+   "x": "Token ANT melonjak 25% di atas harga IPO di pasar pra-debut, menunjukkan optimisme investor terhadap valuasi Anthropic meski ada berita persaingan AI. Pergerakan ini penting bagi investor ritel yang memantau potensi IPO besar di sektor teknologi.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-02-gID_7.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T20:36:03"
+   "published_at": "2026-11-19T13:05:28"
   },
   {
    "id": 9623,
@@ -144,6 +144,48 @@
    "published_at": "2026-11-17T23:02:23"
   },
   {
+   "id": 9613,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Mesin burn HYPE Hyperliquid senilai $3,4 miliar hadapi ujian baru seiring cadangan USDC menyusut",
+   "x": "Perdagangan perpetual tujuh hari naik 15,87% saat nilai USDC turun 7,76%. Hal ini membuat dampak bersih pada pendanaan buyback HYPE belum pasti, menimbulkan pertanyaan bagi investor.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hyperliquids-3-4-billion-hype-burn-machine-faces-new-test-as-usdc-reserves-shrink",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hyperliquid-trading-reserve.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T15:10:21"
+  },
+  {
+   "id": 9532,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Tom Lee Salahkan IPO Nvidia dan Anthropic atas Anjloknya Ethereum",
+   "x": "Ketua Bitmine, Tom Lee, mengaitkan penurunan harga Ethereum dengan dampak IPO Nvidia dan kebutuhan pendanaan Anthropic. Hal ini menunjukkan korelasi pasar kripto dengan sektor teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-16T20:36:03"
+  },
+  {
+   "id": 9727,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic Tentukan Harga IPO di US$83: Apa Arti Valuasi US$1,5 Triliun untuk Pembeli ANT",
+   "x": "Anthropic menetapkan harga IPO-nya di $83 per saham dan menjual lebih banyak saham daripada yang direncanakan. Lihat apa arti valuasi $1,5 triliun bagi pembeli ANT.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/harga-ipo-anthropic-83-per-saham",
+   "img": "https://assets.beincrypto.com/img/JyAJNgygnXp5kczcgTVTDppVWmQ=/smart/4fc43dad979b4dad9d2f979afe3ba492",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-18T21:17:50"
+  },
+  {
    "id": 9558,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -156,34 +198,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T03:30:05"
-  },
-  {
-   "id": 9727,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Anthropic Tentukan Harga IPO di US$83: Apa Arti Valuasi US$1,5 Triliun untuk Pembeli ANT",
-   "x": "Anthropic menetapkan harga IPO-nya di $83 per saham dan menjual lebih banyak saham daripada yang direncanakan. Lihat apa arti valuasi $1,5 triliun bagi pembeli ANT.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-ipo-anthropic-83-per-saham",
-   "img": "https://assets.beincrypto.com/img/JyAJNgygnXp5kczcgTVTDppVWmQ=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-18T21:17:50"
-  },
-  {
-   "id": 9560,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Louisiana blokir pasar prediksi, ancam pendapatan bursa US$370 juta",
-   "x": "Louisiana memerintahkan penghentian pasar prediksi, mengancam potensi pendapatan US$370 juta dari bursa aset digital. Langkah ini menimbulkan ketidakpastian regulasi bagi platform perdagangan di wilayah tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/louisiana-hidden-brokers.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T00:50:05"
   },
   {
    "id": 9625,
@@ -200,6 +214,20 @@
    "published_at": "2026-11-17T21:41:26"
   },
   {
+   "id": 9560,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Louisiana blokir pasar prediksi, ancam pendapatan bursa US$370 juta",
+   "x": "Louisiana memerintahkan penghentian pasar prediksi, mengancam potensi pendapatan US$370 juta dari bursa aset digital. Langkah ini menimbulkan ketidakpastian regulasi bagi platform perdagangan di wilayah tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/louisiana-hidden-brokers.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T00:50:05"
+  },
+  {
    "id": 9654,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -214,6 +242,20 @@
    "published_at": "2026-11-18T04:51:25"
   },
   {
+   "id": 9790,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Ripple CEO: Aset Kripto Bisa Reli setelah IPO Anthropic Selesai",
+   "x": "CEO Ripple, Brad Garlinghouse, meyakini aksi jual besar-besaran aset kripto baru-baru ini punya penyebab mengejutkan: IPO Anthropic yang memecahkan rekor. Setelah proses listing selesai, ia memperkirakan tekanan akan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ceo-ripple-garlinghouse-crypto-rebound-antropic-ipo",
+   "img": "https://assets.beincrypto.com/img/LoC10wYMeq7gJhahtHvEJ9FqLJY=/smart/9b4f024c2b5f4f7fbb12281b5aa35fb3",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-19T10:09:43"
+  },
+  {
    "id": 9453,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -222,10 +264,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/pendapatan-nvidia-tanpa-jensen-huang",
    "img": "https://assets.beincrypto.com/img/7k70FKbsDX8kynU5zsfmGmq0xFo=/smart/8e6c0553f3684f669339d4221d0f52c1",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-16T12:18:15"
+  },
+  {
+   "id": 9791,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Berapa Nilai Satu Poin Variational Airdrop setelah Pendanaan US$1,5 Miliar?",
+   "x": "Protokol derivatif Variational berhasil mengumpulkan dana US$110 juta dengan valuasi US$1,5 miliar, hanya beberapa minggu sebelum airdrop VAR sebesar 32% yang sudah direncanakan. Putaran pendanaan Seri B ini memberikan…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/nilai-poin-airdrop-variational-setelah-penggalangan-dana",
+   "img": "https://assets.beincrypto.com/img/HylkSkbkbhy6jKG1yDmZ9JRte9k=/smart/2d8d6e636c7341ae9cc804e53ac7044b",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-19T09:24:49"
   },
   {
    "id": 9626,
