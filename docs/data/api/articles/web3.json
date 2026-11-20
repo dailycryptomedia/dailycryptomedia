@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,24 +26,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gta-6-rilis-20-ribu-token-kripto-muncul-8-800-ditandai-berisiko",
    "img": null,
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T03:00:39"
-  },
-  {
-   "id": 9508,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CFTC dukung infrastruktur derivatif berbasis blockchain, Backpack dan tZERO raih persetujuan",
-   "x": "Komisi Perdagangan Berjangka Komoditas AS (CFTC) menyetujui aplikasi pertama untuk operasi kliring bursa dan derivatif yang menggunakan teknologi blockchain. Ini menandai langkah maju dalam adopsi regulasi aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T23:27:15"
   },
   {
    "id": 9720,
@@ -60,18 +46,32 @@
    "published_at": "2026-11-18T21:13:58"
   },
   {
-   "id": 9812,
+   "id": 9868,
    "k": "web3",
    "cat": "Web3",
-   "t": "Citi dan Circle Bergabung dengan Bank Dunia Uji Coba USDC untuk Bantuan",
-   "x": "Uji coba penggunaan USDC oleh Citi, Circle, dan Bank Dunia berpotensi mengubah cara penyaluran bantuan internasional. Kolaborasi ini menunjukkan potensi aset digital dalam meningkatkan efisiensi dan transparansi transfer dana global.",
+   "t": "Implantasi dompet kripto Ledger menyebar ke Berlin, kasus Dubai diselidiki",
+   "x": "Masalah keamanan pada perangkat keras Ledger meluas ke Eropa setelah kasus di Dubai diselidiki. Perusahaan menawarkan inspeksi pabrik dan menyarankan pengguna memindahkan dana ke dompet baru.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
-   "a": "13 jam lalu",
+   "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ledger-wallet-exam-loupe-1.webp",
+   "a": "3 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T08:40:16"
+   "published_at": "2026-11-20T00:40:28"
+  },
+  {
+   "id": 9603,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
+   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-17T14:27:35"
   },
   {
    "id": 9594,
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledger-x-ray-dompet-tampered-berlin-dubai",
    "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "8 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T13:55:00"
@@ -110,52 +110,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/inflasi-near-bakal-dipangkas-mengapa-24-validator-justru-berisiko-tekor",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T03:00:20"
   },
   {
-   "id": 9513,
+   "id": 9812,
    "k": "web3",
    "cat": "Web3",
-   "t": "CEO Solflare sebut tinjauan keamanan AI penting, pamerkan 'mode bunker'",
-   "x": "CEO Solflare menyoroti peran kecerdasan buatan (AI) dalam mendeteksi serangan siber yang terlewat oleh manusia. Fitur 'mode bunker' dan kemitraan dengan MoneyGram untuk layanan penukaran USDC juga diperkenalkan.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4-1.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T18:59:21"
-  },
-  {
-   "id": 9497,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Dompet Safe dilaporkan rugikan $6,5 juta, Zodiac curigai kompromi kunci",
-   "x": "Peretasan dompet Safe senilai $6,5 juta diduga disebabkan oleh kompromi kunci akses dan pengaturan dompet yang terlalu permisif. Pihak Zodiac menyatakan bahwa masalah ini bukan berasal dari celah pada smart contract mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-16T17:49:13"
-  },
-  {
-   "id": 9526,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Trezor perbaiki chip mata-mata dompet kripto, tapi sarankan migrasi dana",
-   "x": "Trezor mengklaim pembaruan firmware terbaru dapat memblokir chip mata-mata yang teridentifikasi pada perangkat kerasnya. Namun, pengguna yang terdampak tetap disarankan untuk membuat seed phrase baru dan memindahkan aset digital mereka.",
+   "t": "Citi dan Circle Bergabung dengan Bank Dunia Uji Coba USDC untuk Bantuan",
+   "x": "Uji coba penggunaan USDC oleh Citi, Circle, dan Bank Dunia berpotensi mengubah cara penyaluran bantuan internasional. Kolaborasi ini menunjukkan potensi aset digital dalam meningkatkan efisiensi dan transparansi transfer dana global.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/trezor-patches-crypto-wallet-spy-chips-but-warns-users-a-new-device-may-not-be-enough",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/trezor-patched-shutter-seed.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-16T18:00:03"
+   "published_at": "2026-11-19T08:40:16"
+  },
+  {
+   "id": 9802,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "1inch integrasikan kontrak berjangka abadi Hyperliquid ke dApp dan dompetnya",
+   "x": "Platform 1inch kini memungkinkan pengguna mengakses kontrak berjangka abadi dari Hyperliquid. Integrasi ini memperluas pilihan produk derivatif yang tersedia bagi pengguna di ekosistem 1inch.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T11:00:00"
   },
   {
    "id": 9544,
@@ -180,24 +166,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/openai-luncurkan-chatgpt-wallet-mengapa-justru-blockchain-yang-menarik-perhatian",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T02:00:14"
-  },
-  {
-   "id": 9603,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
-   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T14:27:35"
   },
   {
    "id": 9653,
@@ -214,18 +186,18 @@
    "published_at": "2026-11-18T05:17:54"
   },
   {
-   "id": 9802,
+   "id": 9862,
    "k": "web3",
    "cat": "Web3",
-   "t": "1inch integrasikan kontrak berjangka abadi Hyperliquid ke dApp dan dompetnya",
-   "x": "Platform 1inch kini memungkinkan pengguna mengakses kontrak berjangka abadi dari Hyperliquid. Integrasi ini memperluas pilihan produk derivatif yang tersedia bagi pengguna di ekosistem 1inch.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
-   "a": "11 jam lalu",
+   "t": "Solana Umumkan Roadmap 2027 dengan AI On-Chain dan Blok Lebih Cepat",
+   "x": "Solana telah merancang roadmap teknis yang ambisius untuk tahun 2027. CEO Anza, Brennan Watt, memaparkan rencana ini di Breakpoint 2026, melanjutkan upgrade Alpenglow yang terjadi pada bulan Oktober. Namun, SOL…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/roadmap-solana-2027-dampak-harga-sol",
+   "img": "https://assets.beincrypto.com/img/pTgq0zR8h3wpVbfdAqfDoPScmA8=/smart/6825fc37999542d3be4f188982a2147b",
+   "a": "4 jam lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T11:00:00"
+   "translated": false,
+   "published_at": "2026-11-19T23:25:08"
   }
  ]
 }
