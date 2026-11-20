@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledger-x-ray-dompet-tampered-berlin-dubai",
    "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T13:55:00"
@@ -54,38 +54,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ledger-wallet-exam-loupe-1.webp",
-   "a": "11 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T00:40:28"
   },
   {
-   "id": 9603,
+   "id": 9802,
    "k": "web3",
    "cat": "Web3",
-   "t": "Peluncuran memecoin Trump di Solana uji infrastruktur sebelum dorongan institusional",
-   "x": "Peluncuran memecoin bertema Donald Trump di jaringan Solana berhasil menguji ketahanan infrastruktur blockchain tersebut. Hal ini menunjukkan kesiapan Solana menghadapi lonjakan aktivitas yang tidak terduga dari pasar kripto.",
+   "t": "1inch integrasikan kontrak berjangka abadi Hyperliquid ke dApp dan dompetnya",
+   "x": "Platform 1inch kini memungkinkan pengguna mengakses kontrak berjangka abadi dari Hyperliquid. Integrasi ini memperluas pilihan produk derivatif yang tersedia bagi pengguna di ekosistem 1inch.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/08/20220804_Solana-3.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-17T14:27:35"
-  },
-  {
-   "id": 9594,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Peretasan Optimizely ubah alamat dompet kripto di 176 situs",
-   "x": "Kode berbahaya yang disebarkan melalui platform pengujian situs web Optimizely mengganti alamat dompet kripto pengunjung dengan milik penyerang. Insiden ini juga dilaporkan berhasil mencuri data kartu pembayaran.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T11:05:25"
+   "published_at": "2026-11-19T11:00:00"
   },
   {
    "id": 9653,
@@ -116,20 +102,6 @@
    "published_at": "2026-11-19T08:40:16"
   },
   {
-   "id": 9802,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "1inch integrasikan kontrak berjangka abadi Hyperliquid ke dApp dan dompetnya",
-   "x": "Platform 1inch kini memungkinkan pengguna mengakses kontrak berjangka abadi dari Hyperliquid. Integrasi ini memperluas pilihan produk derivatif yang tersedia bagi pengguna di ekosistem 1inch.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T11:00:00"
-  },
-  {
    "id": 9862,
    "k": "web3",
    "cat": "Web3",
@@ -138,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/roadmap-solana-2027-dampak-harga-sol",
    "img": "https://assets.beincrypto.com/img/pTgq0zR8h3wpVbfdAqfDoPScmA8=/smart/6825fc37999542d3be4f188982a2147b",
-   "a": "12 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T23:25:08"
