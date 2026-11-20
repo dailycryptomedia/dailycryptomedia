@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 20,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
-   "a": "5 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T22:25:18"
@@ -40,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-safety-review-lens.webp",
-   "a": "5 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T21:50:44"
@@ -54,7 +54,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hong-kong-sfc-beri-tanda-hyperliquid",
    "img": "https://assets.beincrypto.com/img/yKQYzBsCSywaVIU5FsciyID9A5c=/smart/2c48c80b4f2545a1ac148482ee5ed0dc",
-   "a": "15 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T12:14:35"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg",
-   "a": "14 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:59:14"
@@ -110,10 +110,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S2PS7A7DGE0V6HJFS82SEY/hi-what-are-crypto-exit-scams-and-how-to-protect-against-them.jpg",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T05:09:45"
+  },
+  {
+   "id": 9896,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Circle dan perusahaan kripto terkait Trump kena perintah pembekuan aset",
+   "x": "Perusahaan kripto yang terafiliasi dengan Donald Trump dan Circle menghadapi perintah pembekuan aset menyusul peretasan besar di Binance. Pengadilan akan meninjau kelanjutan pembekuan ini pada Desember mendatang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/circle-and-trump-linked-crypto-firm-hit-with-court-freeze-order-after-binances-6-3-billion-hack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-court-cold-storage.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T07:50:34"
   },
   {
    "id": 9728,
@@ -138,7 +152,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg",
-   "a": "16 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T11:15:08"
@@ -152,7 +166,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/Elizabeth-Warren-1.jpg",
-   "a": "9 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T18:47:30"
@@ -172,18 +186,18 @@
    "published_at": "2026-11-18T17:05:04"
   },
   {
-   "id": 9547,
+   "id": 9909,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Italia Tempatkan Revolut di Bawah Pengawasan setelah Transfer Terkait Mafia Sebesar US$46 Juta",
-   "x": "Pengadilan Milan menempatkan operasi Revolut di Italia di bawah pengawasan yudisial selama satu tahun penuh. Jaksa menuding adanya kegagalan serius dalam kontrol anti pencucian uang di bank digital ini. Menurut putusan…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/italia-revolut-administrasi-yudisial-uang-mafia",
-   "img": "https://assets.beincrypto.com/img/9w5V3wlxWQkWEyj96kuWE5LjRdU=/smart/5794a8b2db9e4862ae9bc2de34e2215c",
-   "a": "2 hari lalu",
+   "t": "Ketua CFTC soal venue on-chain, keraguan soal kebijakan kripto AS, dan lainnya",
+   "x": "Ketua Komisi Perdagangan Berjangka Komoditas AS (CFTC) membahas potensi venue on-chain masuk ke AS, sementara keraguan muncul mengenai arah kebijakan kripto negara tersebut. Berita ini menyoroti perkembangan regulasi dan pandangan para pemangku kepentingan utama.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
+   "a": "6 jam lalu",
    "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-17T04:12:51"
+   "translated": true,
+   "published_at": "2026-11-20T05:40:00"
   },
   {
    "id": 9722,
@@ -208,7 +222,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg",
-   "a": "15 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:44:06"
@@ -222,7 +236,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png",
-   "a": "7 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T20:06:34"
@@ -236,7 +250,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBSNHRTPW4ZMZ1E8HFB32H/news-crypto-studio-breaking-news-2.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T08:54:58"
@@ -250,10 +264,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGXE60DCBWSPE55RMRQTWB/letter.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-17T11:36:26"
+  },
+  {
+   "id": 9877,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "SEC tuntut delapan perusahaan atas platform kripto palsu senilai $37 juta",
+   "x": "Komisi Sekuritas dan Bursa Amerika Serikat (SEC) menuntut delapan perusahaan terkait dugaan penipuan aset digital senilai $37 juta. Kasus ini mengingatkan investor akan pentingnya kewaspadaan terhadap platform investasi palsu.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T08:03:34"
   }
  ]
 }
