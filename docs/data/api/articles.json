@@ -1,5 +1,5 @@
 {
- "total": 300,
+ "total": 313,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ajaib-kripto-buka-trading-spacex-hingga-nvidia-24-jam-bisa-pakai-rupiah",
    "img": null,
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T11:30:54"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/peter-brandt-bitcoin-koreksi-75-persen",
    "img": "https://assets.beincrypto.com/img/ZO7QVUV-ebKqGywcEviiBzFidjs=/smart/d592b3c3252e46968e5fa5a5865563f5",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T12:06:54"
@@ -46,6 +46,20 @@
    "published_at": "2026-11-18T22:16:02"
   },
   {
+   "id": 9986,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Penambang Bitcoin bayar tarif $11,9 juta empat tahun setelah pengiriman",
+   "x": "Perusahaan penambangan Bitcoin Bitfarms akhirnya membayar denda tarif sebesar $11,9 juta kepada pemerintah AS. Kesalahan klasifikasi asal mesin tambang menyebabkan tagihan tak terduga ini muncul empat tahun setelah barang diterima.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-miner-customs-stamp.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T15:20:09"
+  },
+  {
    "id": 9818,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -58,20 +72,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T22:25:18"
-  },
-  {
-   "id": 9866,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Standard Chartered dan OCBC uji pembayaran dolar dalam menit tanpa pemutusan bank tradisional",
-   "x": "Dua bank besar menguji coba sistem pembayaran dolar yang lebih cepat dan efisien. Inisiatif ini berpotensi mengurangi ketergantungan pada sistem perbankan tradisional yang memakan waktu.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/standard-chartered-and-ocbc-test-dollar-payments-in-minutes-without-traditional-banking-cutoffs",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-settlement-clock-bypass.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T03:40:40"
   },
   {
    "id": 9764,
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ceo-family-office-peringatkan-abaikan-bitcoin",
    "img": "https://assets.beincrypto.com/img/dm5HmRoBarWShCDQU3kXXl8Ap-8=/smart/a6ef7421520d44629f926b7c46bd9c1c",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T14:13:47"
@@ -124,10 +124,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/genz-phones-ai-1-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T14:01:02"
+  },
+  {
+   "id": 9866,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Standard Chartered dan OCBC uji pembayaran dolar dalam menit tanpa pemutusan bank tradisional",
+   "x": "Dua bank besar menguji coba sistem pembayaran dolar yang lebih cepat dan efisien. Inisiatif ini berpotensi mengurangi ketergantungan pada sistem perbankan tradisional yang memakan waktu.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/standard-chartered-and-ocbc-test-dollar-payments-in-minutes-without-traditional-banking-cutoffs",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-settlement-clock-bypass.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T03:40:40"
   },
   {
    "id": 9854,
@@ -142,20 +156,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T03:33:22"
-  },
-  {
-   "id": 9744,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Bitwise jual 23,7 juta XRP sambil diam-diam tambah 126 juta",
-   "x": "Laporan kuartal ketiga menunjukkan Bitwise menjual sebagian besar XRP miliknya untuk mendapatkan kas. Pergerakan ini penting bagi investor karena menunjukkan strategi pengelolaan aset oleh manajer investasi kripto besar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitwise-offloads-23-7m-xrp-while-silently-stacking-126m-more",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitwise-xrp-loading-dock.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T23:30:47"
   },
   {
    "id": 9840,
@@ -194,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trump-thailand-perjanjian-perdagangan-tarif-saham",
    "img": "https://assets.beincrypto.com/img/6C95gWMDDmU3p8itw-pb7RBDeFw=/smart/e147874e822945ca8a62a091910f62e2",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T14:28:34"
@@ -214,6 +214,20 @@
    "published_at": "2026-11-18T16:57:53"
   },
   {
+   "id": 9744,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Bitwise jual 23,7 juta XRP sambil diam-diam tambah 126 juta",
+   "x": "Laporan kuartal ketiga menunjukkan Bitwise menjual sebagian besar XRP miliknya untuk mendapatkan kas. Pergerakan ini penting bagi investor karena menunjukkan strategi pengelolaan aset oleh manajer investasi kripto besar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitwise-offloads-23-7m-xrp-while-silently-stacking-126m-more",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitwise-xrp-loading-dock.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T23:30:47"
+  },
+  {
    "id": 9750,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -228,20 +242,6 @@
    "published_at": "2026-11-19T05:09:45"
   },
   {
-   "id": 9807,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Valuasi Anthropic capai $1,5 triliun dalam IPO rekor, ECB peringatkan pendanaan AI bisa surut",
-   "x": "Perusahaan AI Anthropic melakukan IPO dengan valuasi fantastis, namun Bank Sentral Eropa mengindikasikan pendanaan untuk sektor ini mungkin akan berkurang. Ini bisa memengaruhi investor yang berharap pada pertumbuhan pesat teknologi kecerdasan buatan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/anthropic-hits-1-5-trillion-valuation-in-record-ipo-as-ecb-warns-ai-funding-could-dry-up",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/anthropic-ipo-bell.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T14:20:28"
-  },
-  {
    "id": 9905,
    "k": "defi",
    "cat": "DeFi",
@@ -250,7 +250,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2305894191.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T12:12:29"
@@ -292,10 +292,24 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/quantum-computer-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T13:47:00"
+  },
+  {
+   "id": 9985,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Penurunan Bitcoin ke $53.000 berisiko sita jaminan $240 juta",
+   "x": "Seorang peminjam di Aave terancam kehilangan 90 WBTC miliknya akibat penurunan harga Bitcoin. Potensi likuidasi aset digital ini menyoroti risiko yang dihadapi investor yang menggunakan jaminan dalam platform DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-collateral-threshold-risk.webp",
+   "a": "17 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T16:35:27"
   },
   {
    "id": 9675,
@@ -310,20 +324,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T17:05:04"
-  },
-  {
-   "id": 9940,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "HSBC Hong Kong izinkan nasabah beli reksa dana pasar uang dengan RedCoin",
-   "x": "Nasabah HSBC di Hong Kong kini bisa membeli reksa dana pasar uang menggunakan RedCoin melalui aplikasi HSBC HK. Langkah ini membuka akses baru bagi investor ritel untuk berinvestasi di instrumen pasar uang.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/hsbc-lets-hong-kong-customers-buy-a-money-market-fund-with-hk100-in-redcoin",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/redcoin-dealing-sorter.webp",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T20:15:20"
   },
   {
    "id": 9694,
@@ -368,18 +368,32 @@
    "published_at": "2026-11-18T23:04:02"
   },
   {
-   "id": 9832,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Saham Nvidia, AMD, Micron anjlok seiring lonjakan IPO Anthropic",
-   "x": "Saham perusahaan teknologi AI seperti Nvidia dan AMD mengalami penurunan setelah perusahaan AI Anthropic melantai di bursa dengan valuasi tinggi. Pergerakan ini mencerminkan volatilitas pasar saham teknologi.",
+   "id": 9979,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Signal sebut AI level OS ancaman eksistensial, blokir tangkapan layar",
+   "x": "Aplikasi pesan terenkripsi Signal mengambil langkah drastis dengan memblokir tangkapan layar di iOS dan mengaktifkan keamanan layar di Android. Keputusan ini diambil untuk melindungi privasi pengguna dari potensi penyalahgunaan oleh asisten AI.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2021/01/signal-app-ios-android-gID_7.jpg",
+   "a": "52 menit lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T21:12:06"
+   "published_at": "2026-11-21T16:01:02"
+  },
+  {
+   "id": 9807,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Valuasi Anthropic capai $1,5 triliun dalam IPO rekor, ECB peringatkan pendanaan AI bisa surut",
+   "x": "Perusahaan AI Anthropic melakukan IPO dengan valuasi fantastis, namun Bank Sentral Eropa mengindikasikan pendanaan untuk sektor ini mungkin akan berkurang. Ini bisa memengaruhi investor yang berharap pada pertumbuhan pesat teknologi kecerdasan buatan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/anthropic-hits-1-5-trillion-valuation-in-record-ipo-as-ecb-warns-ai-funding-could-dry-up",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/anthropic-ipo-bell.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T14:20:28"
   },
   {
    "id": 9676,
@@ -396,20 +410,6 @@
    "published_at": "2026-11-18T17:00:00"
   },
   {
-   "id": 9966,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance bisa tahan deposit MEXC meski blockchain sudah konfirmasi",
-   "x": "Binance menginformasikan nasabah bahwa deposit dari MEXC mungkin belum bisa diperdagangkan meskipun transaksi telah tercatat di blockchain. Hal ini terjadi selama proses peninjauan deposit oleh bursa kripto tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-can-hold-mexc-deposits-even-after-the-blockchain-clears-them",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-credit-review.webp",
-   "a": "34 menit lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-21T08:30:04"
-  },
-  {
    "id": 9800,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -418,7 +418,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-461203600-scaled.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T14:00:00"
@@ -446,24 +446,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ledger-x-ray-dompet-tampered-berlin-dubai",
    "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T13:55:00"
   },
   {
-   "id": 9934,
+   "id": 9832,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Cathie Wood investasikan $91 juta di IPO Anthropic, kurangi eksposur kripto",
-   "x": "Ark Invest milik Cathie Wood membeli saham Anthropic senilai $91 juta saat debut di bursa, seiring dengan pengurangan eksposur pada ETF staking Ethereum dan Solana senilai $4,1 juta.",
+   "t": "Saham Nvidia, AMD, Micron anjlok seiring lonjakan IPO Anthropic",
+   "x": "Saham perusahaan teknologi AI seperti Nvidia dan AMD mengalami penurunan setelah perusahaan AI Anthropic melantai di bursa dengan valuasi tinggi. Pergerakan ini mencerminkan volatilitas pasar saham teknologi.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg",
-   "a": "14 jam lalu",
+   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T18:46:03"
+   "published_at": "2026-11-19T21:12:06"
+  },
+  {
+   "id": 9940,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "HSBC Hong Kong izinkan nasabah beli reksa dana pasar uang dengan RedCoin",
+   "x": "Nasabah HSBC di Hong Kong kini bisa membeli reksa dana pasar uang menggunakan RedCoin melalui aplikasi HSBC HK. Langkah ini membuka akses baru bagi investor ritel untuk berinvestasi di instrumen pasar uang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/hsbc-lets-hong-kong-customers-buy-a-money-market-fund-with-hk100-in-redcoin",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/redcoin-dealing-sorter.webp",
+   "a": "20 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T20:15:20"
   },
   {
    "id": 9873,
@@ -474,24 +488,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T11:31:41"
-  },
-  {
-   "id": 9845,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kalifornia: OpenAI kehilangan kendali agen AI 80 kali demi profit",
-   "x": "Gugatan Kalifornia terhadap OpenAI menyoroti potensi risiko dari pengembangan kecerdasan buatan yang berfokus pada keuntungan. Hal ini menimbulkan kekhawatiran tentang pengawasan dan dampak sosial teknologi AI.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-safety-review-lens.webp",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T21:50:44"
+   "published_at": "2026-11-20T11:31:41"
   },
   {
    "id": 9695,
@@ -516,7 +516,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/terjebak-fomo-trading-kripto",
    "img": null,
-   "a": "1 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T08:00:54"
@@ -536,18 +536,32 @@
    "published_at": "2026-11-20T03:05:00"
   },
   {
-   "id": 9712,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Trader untung 66.000% dari kebingungan ticker memecoin GTA 6",
-   "x": "Seorang trader berhasil mengubah $300 menjadi lebih dari $200.000 berkat lonjakan minat pada memecoin yang terkait dengan bocoran trailer GTA 6. Fenomena ini menyoroti volatilitas dan potensi keuntungan besar di pasar altcoin.",
+   "id": 9934,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Cathie Wood investasikan $91 juta di IPO Anthropic, kurangi eksposur kripto",
+   "x": "Ark Invest milik Cathie Wood membeli saham Anthropic senilai $91 juta saat debut di bursa, seiring dengan pengurangan eksposur pada ETF staking Ethereum dan Solana senilai $4,1 juta.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T17:32:13"
+   "published_at": "2026-11-20T18:46:03"
+  },
+  {
+   "id": 9966,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Binance bisa tahan deposit MEXC meski blockchain sudah konfirmasi",
+   "x": "Binance menginformasikan nasabah bahwa deposit dari MEXC mungkin belum bisa diperdagangkan meskipun transaksi telah tercatat di blockchain. Hal ini terjadi selama proses peninjauan deposit oleh bursa kripto tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/binance-can-hold-mexc-deposits-even-after-the-blockchain-clears-them",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-credit-review.webp",
+   "a": "8 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T08:30:04"
   },
   {
    "id": 9911,
@@ -558,24 +572,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T19:37:27"
-  },
-  {
-   "id": 9703,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Opsi Bitcoin beri sinyal waspada saat premi downside melonjak jelang risalah The Fed",
-   "x": "Premi opsi jual Bitcoin meningkat pesat dibandingkan opsi beli, mengindikasikan kekhawatiran pasar terhadap penurunan harga. Investor mencermati risalah rapat The Fed untuk petunjuk arah kebijakan suku bunga.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-expiry-weather-shields.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T16:55:14"
   },
   {
    "id": 9918,
@@ -586,7 +586,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-2-alt.jpg",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T19:41:52"
@@ -614,24 +614,38 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/gta-6-token-kripto-permintaan-palsu",
    "img": "https://assets.beincrypto.com/img/hAOKudsI-FbM6N9x0MpcylaOJRg=/smart/624adfe4f31a49c8aa15195a0f1c4b16",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T11:29:18"
   },
   {
-   "id": 9889,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "MoonPay ajukan izin bank kustodian untuk bisnis stablecoin",
-   "x": "Perusahaan pembayaran kripto MoonPay mengajukan izin sebagai bank kustodian nasional. Langkah ini sejalan dengan tren perusahaan kripto lain yang mencari lisensi perbankan di tengah pengawasan ketat.",
+   "id": 9712,
+   "k": "pasar",
+   "cat": "Pasar",
+   "t": "Trader untung 66.000% dari kebingungan ticker memecoin GTA 6",
+   "x": "Seorang trader berhasil mengubah $300 menjadi lebih dari $200.000 berkat lonjakan minat pada memecoin yang terkait dengan bocoran trailer GTA 6. Fenomena ini menyoroti volatilitas dan potensi keuntungan besar di pasar altcoin.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png",
-   "a": "20 jam lalu",
+   "url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T12:10:14"
+   "published_at": "2026-11-18T17:32:13"
+  },
+  {
+   "id": 9845,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kalifornia: OpenAI kehilangan kendali agen AI 80 kali demi profit",
+   "x": "Gugatan Kalifornia terhadap OpenAI menyoroti potensi risiko dari pengembangan kecerdasan buatan yang berfokus pada keuntungan. Hal ini menimbulkan kekhawatiran tentang pengawasan dan dampak sosial teknologi AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-safety-review-lens.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T21:50:44"
   },
   {
    "id": 9771,
@@ -642,24 +656,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T13:30:00"
-  },
-  {
-   "id": 9893,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tertinggal dari reli saham AI 85%, namun bisa terdampak jika tren berbalik",
-   "x": "Meskipun Bitcoin tidak ikut menikmati lonjakan 85% saham AI, aset kripto ini berpotensi terpengaruh jika terjadi koreksi pasar. Analisis historis menunjukkan korelasi antara pergerakan saham teknologi besar dan Bitcoin.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-missed-ai-stocks-85-rally-but-could-still-face-the-fallout-if-the-boom-unravels",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-nasdaq-linked-pendulums.webp",
-   "a": "21 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T11:20:42"
   },
   {
    "id": 9696,
@@ -670,7 +670,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-79989027-scaled-e1795019131685.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-18T16:30:41"
@@ -704,18 +704,32 @@
    "published_at": "2026-11-18T22:43:03"
   },
   {
-   "id": 9834,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Peretas bocorkan data pelanggan Visa, Mastercard, JPMorgan",
-   "x": "Data pelanggan Visa, Mastercard, dan JPMorgan bocor akibat peretasan vendor pihak ketiga, bukan sistem internal perusahaan. Kejadian ini mengingatkan pentingnya keamanan siber dalam rantai pasok data finansial.",
+   "id": 9889,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "MoonPay ajukan izin bank kustodian untuk bisnis stablecoin",
+   "x": "Perusahaan pembayaran kripto MoonPay mengajukan izin sebagai bank kustodian nasional. Langkah ini sejalan dengan tren perusahaan kripto lain yang mencari lisensi perbankan di tengah pengawasan ketat.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
+   "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T20:15:32"
+   "published_at": "2026-11-20T12:10:14"
+  },
+  {
+   "id": 9703,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Opsi Bitcoin beri sinyal waspada saat premi downside melonjak jelang risalah The Fed",
+   "x": "Premi opsi jual Bitcoin meningkat pesat dibandingkan opsi beli, mengindikasikan kekhawatiran pasar terhadap penurunan harga. Investor mencermati risalah rapat The Fed untuk petunjuk arah kebijakan suku bunga.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-expiry-weather-shields.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-18T16:55:14"
   },
   {
    "id": 9959,
@@ -726,38 +740,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg",
-   "a": "1 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T07:51:47"
   },
   {
-   "id": 9952,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "DBS bangun dua jalur dolar 24/7 bersama JPMorgan dan Circle pakai USDC",
-   "x": "Bank DBS bersama JPMorgan dan Circle akan memfasilitasi penukaran USDC untuk klien Asia. Layanan ini memungkinkan penyelesaian transaksi dolar AS secara instan kapan saja, meningkatkan likuiditas dan aksesibilitas aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/dbs-usdc-redemption.webp",
-   "a": "8 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-21T00:50:53"
-  },
-  {
-   "id": 9733,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Senator: Treasury pastikan 'kedudukan setara' penerbit stablecoin di GENIUS Act",
-   "x": "Senator mendesak Menteri Keuangan AS untuk memberikan perlindungan bagi penerbit stablecoin yang beroperasi di bawah kerangka regulasi negara bagian. Hal ini krusial untuk kepastian hukum dan pengembangan stablecoin.",
+   "id": 9978,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Token FLIP Chainflip anjlok 34% setelah peretas curi $4,86 juta",
+   "x": "Token FLIP dari platform cross-chain Chainflip mengalami penurunan nilai signifikan setelah peretas berhasil mencuri dana senilai $4,86 juta. Insiden ini kembali menyoroti kerentanan keamanan dalam ekosistem DeFi.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/06/20210630_Senator_Cynthia_Lummis.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221129_Hack-Exploit-2.jpg",
+   "a": "1 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T22:09:17"
+   "published_at": "2026-11-21T15:24:14"
   },
   {
    "id": 9872,
@@ -788,18 +788,32 @@
    "published_at": "2026-11-20T02:39:51"
   },
   {
-   "id": 9935,
+   "id": 9834,
    "k": "pasar",
    "cat": "Pasar",
-   "t": "Google beri Gemini kendali aplikasi Mac, namun agen AI baru berisiko",
-   "x": "Fitur baru Gemini memungkinkan kontrol aplikasi dan situs web di Mac, namun dokumentasi Google sendiri memperingatkan potensi risiko injeksi prompt. Pengguna perlu berhati-hati dalam interaksi dengan agen AI ini.",
+   "t": "Peretas bocorkan data pelanggan Visa, Mastercard, JPMorgan",
+   "x": "Data pelanggan Visa, Mastercard, dan JPMorgan bocor akibat peretasan vendor pihak ketiga, bukan sistem internal perusahaan. Kejadian ini mengingatkan pentingnya keamanan siber dalam rantai pasok data finansial.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png",
-   "a": "14 jam lalu",
+   "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T18:16:02"
+   "published_at": "2026-11-19T20:15:32"
+  },
+  {
+   "id": 9893,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tertinggal dari reli saham AI 85%, namun bisa terdampak jika tren berbalik",
+   "x": "Meskipun Bitcoin tidak ikut menikmati lonjakan 85% saham AI, aset kripto ini berpotensi terpengaruh jika terjadi koreksi pasar. Analisis historis menunjukkan korelasi antara pergerakan saham teknologi besar dan Bitcoin.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/bitcoin-missed-ai-stocks-85-rally-but-could-still-face-the-fallout-if-the-boom-unravels",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-nasdaq-linked-pendulums.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T11:20:42"
   },
   {
    "id": 9874,
@@ -810,38 +824,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T10:54:38"
   },
   {
-   "id": 9761,
-   "k": "pasar",
-   "cat": "Pasar",
-   "t": "Binance Tawarkan Perdagangan ETF BlackRock IBIT dengan Leverage 20x",
-   "x": "Binance meluncurkan produk derivatif USDT-settled perpetual yang memungkinkan trader mendapatkan eksposur ke ETF BlackRock IBIT dengan leverage hingga 20x. Produk ini dapat memicu likuidasi meski pasar Nasdaq tutup.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/binance-adds-24-7-futures-tied-to-blackrocks-bitcoin-ibit-etf",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/02-liquidation-threshold.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T04:20:21"
-  },
-  {
-   "id": 9734,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Binance dapat perintah bekukan $6,5 miliar dari pengadilan Abu Dhabi",
-   "x": "Binance memperoleh perintah pembekuan aset global senilai $6,5 miliar dari Pengadilan Pasar Global Abu Dhabi untuk memulihkan aset kripto yang dicuri. Upaya ini menunjukkan keseriusan bursa dalam menindak kejahatan siber.",
+   "id": 9733,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Senator: Treasury pastikan 'kedudukan setara' penerbit stablecoin di GENIUS Act",
+   "x": "Senator mendesak Menteri Keuangan AS untuk memberikan perlindungan bagi penerbit stablecoin yang beroperasi di bawah kerangka regulasi negara bagian. Hal ini krusial untuk kepastian hukum dan pengembangan stablecoin.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230215_Binance3.jpg",
+   "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/06/20210630_Senator_Cynthia_Lummis.png",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T19:40:25"
+   "published_at": "2026-11-18T22:09:17"
   }
  ]
 }

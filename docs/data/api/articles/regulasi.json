@@ -1,8 +1,22 @@
 {
- "total": 23,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 9986,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Penambang Bitcoin bayar tarif $11,9 juta empat tahun setelah pengiriman",
+   "x": "Perusahaan penambangan Bitcoin Bitfarms akhirnya membayar denda tarif sebesar $11,9 juta kepada pemerintah AS. Kesalahan klasifikasi asal mesin tambang menyebabkan tagihan tak terduga ini muncul empat tahun setelah barang diterima.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-miner-customs-stamp.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T15:20:09"
+  },
   {
    "id": 9818,
    "k": "regulasi",
@@ -18,20 +32,6 @@
    "published_at": "2026-11-19T22:25:18"
   },
   {
-   "id": 9845,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kalifornia: OpenAI kehilangan kendali agen AI 80 kali demi profit",
-   "x": "Gugatan Kalifornia terhadap OpenAI menyoroti potensi risiko dari pengembangan kecerdasan buatan yang berfokus pada keuntungan. Hal ini menimbulkan kekhawatiran tentang pengawasan dan dampak sosial teknologi AI.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-safety-review-lens.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T21:50:44"
-  },
-  {
    "id": 9925,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -40,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-500-harga-terendah-enam-bulan-nvidia-penyelidikan-akuntansi",
    "img": "https://assets.beincrypto.com/img/R029Joqob2odMu-nd95fW-aif3Q=/smart/ca4478974e2449b5b5ed9d6070a94279",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T20:09:49"
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:59:14"
@@ -74,6 +74,20 @@
    "published_at": "2026-11-18T19:40:25"
   },
   {
+   "id": 9845,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Kalifornia: OpenAI kehilangan kendali agen AI 80 kali demi profit",
+   "x": "Gugatan Kalifornia terhadap OpenAI menyoroti potensi risiko dari pengembangan kecerdasan buatan yang berfokus pada keuntungan. Hal ini menimbulkan kekhawatiran tentang pengawasan dan dampak sosial teknologi AI.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/openai-safety-review-lens.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T21:50:44"
+  },
+  {
    "id": 9750,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -88,20 +102,6 @@
    "published_at": "2026-11-19T05:09:45"
   },
   {
-   "id": 9896,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Circle dan perusahaan kripto terkait Trump kena perintah pembekuan aset",
-   "x": "Perusahaan kripto yang terafiliasi dengan Donald Trump dan Circle menghadapi perintah pembekuan aset menyusul peretasan besar di Binance. Pengadilan akan meninjau kelanjutan pembekuan ini pada Desember mendatang.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/circle-and-trump-linked-crypto-firm-hit-with-court-freeze-order-after-binances-6-3-billion-hack",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-court-cold-storage.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T07:50:34"
-  },
-  {
    "id": 9786,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -110,7 +110,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hong-kong-sfc-beri-tanda-hyperliquid",
    "img": "https://assets.beincrypto.com/img/yKQYzBsCSywaVIU5FsciyID9A5c=/smart/2c48c80b4f2545a1ac148482ee5ed0dc",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T12:14:35"
@@ -124,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "12 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T20:36:54"
@@ -142,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T18:47:30"
+  },
+  {
+   "id": 9987,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "US Treasury jual obligasi sembilan hari senilai $15 miliar",
+   "x": "Departemen Keuangan AS melakukan lelang obligasi kas sembilan hari perdana sejak 2008 senilai $15 miliar. Langkah ini dilakukan di tengah kebutuhan pendanaan pemerintah yang meningkat dan kas yang menipis.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/us-treasury-sells-15-billion-in-first-nine-day-cash-bill-auction-since-2008",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-nine-day-cash-bill.webp",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T14:30:07"
   },
   {
    "id": 9675,
@@ -180,7 +194,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T11:15:08"
@@ -200,6 +214,20 @@
    "published_at": "2026-11-20T05:40:00"
   },
   {
+   "id": 9896,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Circle dan perusahaan kripto terkait Trump kena perintah pembekuan aset",
+   "x": "Perusahaan kripto yang terafiliasi dengan Donald Trump dan Circle menghadapi perintah pembekuan aset menyusul peretasan besar di Binance. Pengadilan akan meninjau kelanjutan pembekuan ini pada Desember mendatang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/circle-and-trump-linked-crypto-firm-hit-with-court-freeze-order-after-binances-6-3-billion-hack",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-court-cold-storage.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T07:50:34"
+  },
+  {
    "id": 9960,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -208,7 +236,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T05:40:35"
@@ -222,7 +250,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T15:42:51"
@@ -236,7 +264,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303482998-scaled-e1795184982398.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T14:51:32"
@@ -264,7 +292,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T172211.323.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T14:36:10"
@@ -278,7 +306,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:44:06"
