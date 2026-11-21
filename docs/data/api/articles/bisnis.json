@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 25,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -32,20 +32,6 @@
    "published_at": "2026-11-19T14:20:28"
   },
   {
-   "id": 9619,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Dewan Nvidia tolak kembalinya Huang meski kuartal rekor $116 miliar",
-   "x": "Nvidia melampaui ekspektasi pendapatan Wall Street dan memberikan perkiraan penjualan yang lebih kuat dari perkiraan. Dewan direksi perusahaan menolak desakan untuk mengembalikan Jensen Huang.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T00:16:43"
-  },
-  {
    "id": 9832,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -54,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T21:12:06"
@@ -68,24 +54,38 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ceo-ripple-sebut-ipo-anthropic-picu-tekanan-pasar-kripto-kok-bisa",
    "img": null,
-   "a": "18 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T02:00:11"
   },
   {
-   "id": 9623,
+   "id": 9878,
    "k": "bisnis",
    "cat": "Bisnis",
-   "t": "Saham SpaceX Bertambah US$54 Miliar di Tengah Viral Diskusi AI di Luar Angkasa",
-   "x": "Saham SpaceX menambah USD54 miliar saat CFO-nya mengenalkan pusat data AI di orbit. Satu pelanggan menyumbang 34,5% dari pendapatan. Risikonya.",
+   "t": "IPO Anthropic $81 Miliar Tarik Separuh Pembelian Ritel SpaceX",
+   "x": "Investor ritel memperdagangkan saham Anthropic senilai $772 juta pada hari Kamis, jumlah tertinggi yang tercatat sejak 2012. Hal ini menunjukkan minat investor ritel yang signifikan terhadap penawaran umum perdana perusahaan AI.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
+   "a": "19 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T06:24:41"
+  },
+  {
+   "id": 9727,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic Tentukan Harga IPO di US$83: Apa Arti Valuasi US$1,5 Triliun untuk Pembeli ANT",
+   "x": "Anthropic menetapkan harga IPO-nya di $83 per saham dan menjual lebih banyak saham daripada yang direncanakan. Lihat apa arti valuasi $1,5 triliun bagi pembeli ANT.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/spacex-saham-tambah-54-miliar-ai-space",
-   "img": "https://assets.beincrypto.com/img/q2L2SmOJAIxTvFgw_lbdaeidANU=/smart/dae86dbf26c14b04b7c56196848c6d57",
+   "url": "https://id.beincrypto.com/harga-ipo-anthropic-83-per-saham",
+   "img": "https://assets.beincrypto.com/img/JyAJNgygnXp5kczcgTVTDppVWmQ=/smart/4fc43dad979b4dad9d2f979afe3ba492",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-17T23:02:23"
+   "published_at": "2026-11-18T21:17:50"
   },
   {
    "id": 9847,
@@ -102,20 +102,6 @@
    "published_at": "2026-11-19T19:40:53"
   },
   {
-   "id": 9878,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "IPO Anthropic $81 Miliar Tarik Separuh Pembelian Ritel SpaceX",
-   "x": "Investor ritel memperdagangkan saham Anthropic senilai $772 juta pada hari Kamis, jumlah tertinggi yang tercatat sejak 2012. Hal ini menunjukkan minat investor ritel yang signifikan terhadap penawaran umum perdana perusahaan AI.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T06:24:41"
-  },
-  {
    "id": 9934,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -124,7 +110,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg",
-   "a": "1 jam lalu",
+   "a": "7 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T18:46:03"
@@ -138,52 +124,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/pintu-bedah-bisnis-tesla-pendapatan-otomotif-turun-energi-tumbuh-27-persen",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T06:30:01"
-  },
-  {
-   "id": 9727,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Anthropic Tentukan Harga IPO di US$83: Apa Arti Valuasi US$1,5 Triliun untuk Pembeli ANT",
-   "x": "Anthropic menetapkan harga IPO-nya di $83 per saham dan menjual lebih banyak saham daripada yang direncanakan. Lihat apa arti valuasi $1,5 triliun bagi pembeli ANT.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/harga-ipo-anthropic-83-per-saham",
-   "img": "https://assets.beincrypto.com/img/JyAJNgygnXp5kczcgTVTDppVWmQ=/smart/4fc43dad979b4dad9d2f979afe3ba492",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-18T21:17:50"
-  },
-  {
-   "id": 9848,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Taruhan kripto $11 miliar di Wall Street hadapi masalah pendanaan",
-   "x": "Investasi aset kripto senilai $11 miliar di Wall Street menghadapi kendala pendanaan. Perkembangan ini mengindikasikan tantangan dalam mengintegrasikan aset digital dengan sistem keuangan tradisional.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/cryptos-11-billion-bet-on-wall-street-is-running-into-a-funding-problem",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_IyQAcpvOEA.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T19:10:25"
-  },
-  {
-   "id": 9634,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Saham Nvidia naik setelah pendapatan lampaui ekspektasi di laporan pertama pasca Huang",
-   "x": "Produsen chip menggandakan pendapatan kuartalan dan memperkirakan rekor lagi, namun laporan pertama tanpa Jensen Huang menyisakan pertanyaan kepemimpinan dan grafik saham yang tertekan.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-17T22:18:18"
   },
   {
    "id": 9827,
@@ -200,6 +144,20 @@
    "published_at": "2026-11-19T19:36:30"
   },
   {
+   "id": 9848,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Taruhan kripto $11 miliar di Wall Street hadapi masalah pendanaan",
+   "x": "Investasi aset kripto senilai $11 miliar di Wall Street menghadapi kendala pendanaan. Perkembangan ini mengindikasikan tantangan dalam mengintegrasikan aset digital dengan sistem keuangan tradisional.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/cryptos-11-billion-bet-on-wall-street-is-running-into-a-funding-problem",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_IyQAcpvOEA.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T19:10:25"
+  },
+  {
    "id": 9933,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -208,38 +166,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg",
-   "a": "1 jam lalu",
+   "a": "6 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T19:36:03"
-  },
-  {
-   "id": 9625,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Kinerja Kuartal Terakhir Jensen Huang Lampaui Perkiraan: Bisakah Saham Nvidia Pulih tanpa Dirinya?",
-   "x": "Nvidia mengalahkan proyeksi pendapatan Q3 dalam laporan pertamanya sejak keluarnya Jensen Huang. Berikut hal-hal yang masih bisa membebani sahamnya.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/laporan-pendapatan-pertama-nvidia-jensen-huang-keluar",
-   "img": "https://assets.beincrypto.com/img/jWvyPsUTfSC0Uerl4wtr919ulOo=/smart/43ebcfe4dd734bb5b298bef2b973322b",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-17T21:41:26"
-  },
-  {
-   "id": 9796,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Model AI Terbaru Google Lampaui Tolok Ukur Jelang IPO Anthropic",
-   "x": "Token ANT melonjak 25% di atas harga IPO di pasar pra-debut, menunjukkan optimisme investor terhadap valuasi Anthropic meski ada berita persaingan AI. Pergerakan ini penting bagi investor ritel yang memantau potensi IPO besar di sektor teknologi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-02-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T13:05:28"
   },
   {
    "id": 9654,
@@ -256,6 +186,62 @@
    "published_at": "2026-11-18T04:51:25"
   },
   {
+   "id": 9796,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Model AI Terbaru Google Lampaui Tolok Ukur Jelang IPO Anthropic",
+   "x": "Token ANT melonjak 25% di atas harga IPO di pasar pra-debut, menunjukkan optimisme investor terhadap valuasi Anthropic meski ada berita persaingan AI. Pergerakan ini penting bagi investor ritel yang memantau potensi IPO besar di sektor teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-02-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T13:05:28"
+  },
+  {
+   "id": 9926,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Morgan Stanley Hentikan Dukungan Saham Anthropic setelah Hanya Satu Hari",
+   "x": "Morgan Stanley menggunakan seluruh greenshoe Anthropic setelah satu hari, saat saham ANT turun kembali mendekati harga IPO-nya di $83.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/morgan-stanley-anthropic-greenshoe-harga-ipo",
+   "img": "https://assets.beincrypto.com/img/1QquJ_VtyuG2aqoAXK_2dSalWYU=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-20T18:46:22"
+  },
+  {
+   "id": 9957,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Claude klaim terobosan matematika bersejarah sehari setelah IPO Anthropic",
+   "x": "Model AI Claude dilaporkan membantu membuktikan konjektur matematika berusia 167 tahun. Klaim ini muncul tak lama setelah IPO Anthropic, menimbulkan pertanyaan tentang waktu publikasi dan validitas temuan tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T21:36:02"
+  },
+  {
+   "id": 9884,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Changpeng Zhao Punya Satu Saran saat IPO Anthropic Cetak Ribuan Jutawan",
+   "x": "CNBC memperkirakan bahwa rata-rata karyawan Anthropic bernilai sekitar US$44 juta pada harga penawaran umum perdana (IPO) sebesar US$83. Co-founder Binance, Changpeng Zhao (CZ), menganggap rezeki nomplok ini sebagai…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cz-anthropic-ipo-peringatan-inflasi",
+   "img": "https://assets.beincrypto.com/img/Qfsptnp99sDhC8LAPCEmLo5t6Wo=/smart/2c0838fbc89046df841938a3b2c6c01e",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-20T08:03:35"
+  },
+  {
    "id": 9836,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -268,62 +254,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T17:55:38"
-  },
-  {
-   "id": 9926,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Morgan Stanley Hentikan Dukungan Saham Anthropic setelah Hanya Satu Hari",
-   "x": "Morgan Stanley menggunakan seluruh greenshoe Anthropic setelah satu hari, saat saham ANT turun kembali mendekati harga IPO-nya di $83.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/morgan-stanley-anthropic-greenshoe-harga-ipo",
-   "img": "https://assets.beincrypto.com/img/1QquJ_VtyuG2aqoAXK_2dSalWYU=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "1 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-20T18:46:22"
-  },
-  {
-   "id": 9839,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Anthropic Lampaui IPO Awal SpaceX dengan Kesepakatan $81 Miliar",
-   "x": "Perusahaan pembuat chatbot Claude ini melampaui penjualan saham awal SpaceX, dengan valuasi mencapai $81 miliar. Kesepakatan ini menyoroti besarnya pendanaan yang mengalir ke perusahaan teknologi AI.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T15:54:03"
-  },
-  {
-   "id": 9884,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Changpeng Zhao Punya Satu Saran saat IPO Anthropic Cetak Ribuan Jutawan",
-   "x": "CNBC memperkirakan bahwa rata-rata karyawan Anthropic bernilai sekitar US$44 juta pada harga penawaran umum perdana (IPO) sebesar US$83. Co-founder Binance, Changpeng Zhao (CZ), menganggap rezeki nomplok ini sebagai…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/cz-anthropic-ipo-peringatan-inflasi",
-   "img": "https://assets.beincrypto.com/img/Qfsptnp99sDhC8LAPCEmLo5t6Wo=/smart/2c0838fbc89046df841938a3b2c6c01e",
-   "a": "12 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-20T08:03:35"
-  },
-  {
-   "id": 9939,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "IPO Anthropic sukses, namun pasar saham dan kripto tertekan",
-   "x": "Meskipun saham Anthropic melonjak saat IPO, aset kelas utama lainnya mengalami penurunan. Hal ini menunjukkan sensitivitas pasar terhadap berita korporat besar di sektor teknologi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
-   "a": "7 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T13:23:01"
   },
   {
    "id": 9790,
@@ -340,6 +270,20 @@
    "published_at": "2026-11-19T10:09:43"
   },
   {
+   "id": 9839,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Anthropic Lampaui IPO Awal SpaceX dengan Kesepakatan $81 Miliar",
+   "x": "Perusahaan pembuat chatbot Claude ini melampaui penjualan saham awal SpaceX, dengan valuasi mencapai $81 miliar. Kesepakatan ini menyoroti besarnya pendanaan yang mengalir ke perusahaan teknologi AI.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T15:54:03"
+  },
+  {
    "id": 9791,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -354,6 +298,20 @@
    "published_at": "2026-11-19T09:24:49"
   },
   {
+   "id": 9939,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "IPO Anthropic sukses, namun pasar saham dan kripto tertekan",
+   "x": "Meskipun saham Anthropic melonjak saat IPO, aset kelas utama lainnya mengalami penurunan. Hal ini menunjukkan sensitivitas pasar terhadap berita korporat besar di sektor teknologi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T13:23:01"
+  },
+  {
    "id": 9928,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -362,7 +320,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/saham-coreweave-di-bawah-harga-ipo",
    "img": "https://assets.beincrypto.com/img/G_1FjlxsxIBeYZYfKeGKCjEzDRw=/smart/0752d6db01d440e795d218156b4078e3",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T17:31:19"
@@ -390,24 +348,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dan-ives-anthropic-ipo-teknologi-dump",
    "img": "https://assets.beincrypto.com/img/1QquJ_VtyuG2aqoAXK_2dSalWYU=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "16 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T04:00:00"
-  },
-  {
-   "id": 9626,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Harga Saham Anthropic Bisa Tembus US$80 Menjelang IPO, Apakah Ini Terlalu Tinggi?",
-   "x": "Anthropic mengincar harga IPO di atas $80 dan valuasi sebesar $1,6 triliun. Berikut yang tersisa bagi pembeli di hari pertama.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/analisis-harga-saham-debut-ipo-anthropic",
-   "img": "https://assets.beincrypto.com/img/1QquJ_VtyuG2aqoAXK_2dSalWYU=/smart/f1fe39cc68dd43d9b9b996ac002369a2",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-17T19:39:46"
   }
  ]
 }
