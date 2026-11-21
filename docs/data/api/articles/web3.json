@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 7,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gta-6-rilis-20-ribu-token-kripto-muncul-8-800-ditandai-berisiko",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T03:00:39"
@@ -74,34 +74,6 @@
    "published_at": "2026-11-19T11:00:00"
   },
   {
-   "id": 9653,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Bisakah AI Agent Menguras Crypto Wallet Anda? 5 Aturan untuk Menjaga Dana Anda Tetap Aman",
-   "x": "Bisakah agen AI menguras wallet aset kripto Anda? BeInCrypto dan peneliti Dune menjelaskan risiko sebenarnya dan lima aturan agar tetap aman.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/aturan-ai-agent-menguras-dompet-kripto",
-   "img": "https://assets.beincrypto.com/img/DmBKWpiqO-cwsesbkr2Y0ZcxwIg=/smart/09a8fc59c98f4898bd225d5b202d3b73",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-18T05:17:54"
-  },
-  {
-   "id": 9812,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Citi dan Circle Bergabung dengan Bank Dunia Uji Coba USDC untuk Bantuan",
-   "x": "Uji coba penggunaan USDC oleh Citi, Circle, dan Bank Dunia berpotensi mengubah cara penyaluran bantuan internasional. Kolaborasi ini menunjukkan potensi aset digital dalam meningkatkan efisiensi dan transparansi transfer dana global.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T08:40:16"
-  },
-  {
    "id": 9862,
    "k": "web3",
    "cat": "Web3",
@@ -114,6 +86,20 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T23:25:08"
+  },
+  {
+   "id": 9812,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Citi dan Circle Bergabung dengan Bank Dunia Uji Coba USDC untuk Bantuan",
+   "x": "Uji coba penggunaan USDC oleh Citi, Circle, dan Bank Dunia berpotensi mengubah cara penyaluran bantuan internasional. Kolaborasi ini menunjukkan potensi aset digital dalam meningkatkan efisiensi dan transparansi transfer dana global.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T08:40:16"
   }
  ]
 }

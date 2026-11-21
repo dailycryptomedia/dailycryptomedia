@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
-   "a": "6 jam lalu",
+   "a": "13 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T19:37:27"
@@ -40,7 +40,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2305894191.jpg",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T12:12:29"
@@ -54,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/rlusd-balance-incentive.webp",
-   "a": "2 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T23:40:12"
@@ -68,7 +68,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg",
-   "a": "15 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T10:07:46"
@@ -102,6 +102,34 @@
    "published_at": "2026-11-18T11:08:27"
   },
   {
+   "id": 9968,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Sky tawarkan imbal hasil hampir 30% tapi 99,96% dana tak bisa ditarik segera",
+   "x": "Meskipun menawarkan imbal hasil tinggi, sebagian besar dana di brankas pinjaman Sky tidak tersedia untuk penarikan segera. Hanya 0,04% aset yang dapat dicairkan langsung.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/sky-vault-withdrawal.webp",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T04:10:34"
+  },
+  {
+   "id": 9921,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Monero terbungkus Wagyu XMR1 anjlok 99% pasca peretasan $13 juta",
+   "x": "Pendiri Wagyu berjanji mengembalikan dana setelah peretas menjual token XMR1 Wrapped Monero dalam eksploitasi senilai $13 juta. Peristiwa ini menimbulkan kekhawatiran keamanan di pasar DeFi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+   "a": "16 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T16:11:22"
+  },
+  {
    "id": 9811,
    "k": "defi",
    "cat": "DeFi",
@@ -116,20 +144,6 @@
    "published_at": "2026-11-19T09:40:29"
   },
   {
-   "id": 9921,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Monero terbungkus Wagyu XMR1 anjlok 99% pasca peretasan $13 juta",
-   "x": "Pendiri Wagyu berjanji mengembalikan dana setelah peretas menjual token XMR1 Wrapped Monero dalam eksploitasi senilai $13 juta. Peristiwa ini menimbulkan kekhawatiran keamanan di pasar DeFi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
-   "a": "9 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T16:11:22"
-  },
-  {
    "id": 9947,
    "k": "defi",
    "cat": "DeFi",
@@ -138,7 +152,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-defi-protocol-powering-1-6-billion-in-coinbase-loans-as-crypto-lending-goes-mainstream",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/coinbase-morpho-trailer.webp",
-   "a": "10 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T15:00:30"
@@ -152,7 +166,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-rollover-hopper-1.webp",
-   "a": "19 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T06:30:45"
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-app-taps-91b-tron-liquidity-as-it-opens-android-early-access",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-vault-payout-pipette.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T07:30:59"

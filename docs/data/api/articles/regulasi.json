@@ -1,22 +1,8 @@
 {
- "total": 24,
+ "total": 23,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 9671,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "OJK terima temuan tokenisasi aset, 3 masalah masih mengganjal",
-   "x": "Otoritas Jasa Keuangan (OJK) menerima temuan industri terkait tokenisasi aset digital. Tiga hambatan utama masih menjadi fokus pembahasan untuk pengembangan lebih lanjut.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/ojk-terima-temuan-tokenisasi-aset-3-masalah-ini-masih-mengganjal",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T03:30:35"
-  },
   {
    "id": 9818,
    "k": "regulasi",
@@ -54,7 +40,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/sp-500-harga-terendah-enam-bulan-nvidia-penyelidikan-akuntansi",
    "img": "https://assets.beincrypto.com/img/R029Joqob2odMu-nd95fW-aif3Q=/smart/ca4478974e2449b5b5ed9d6070a94279",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T20:09:49"
@@ -88,20 +74,6 @@
    "published_at": "2026-11-18T19:40:25"
   },
   {
-   "id": 9674,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Wells Fargo gandakan kepemilikan Bitcoin ETF, ini data SEC",
-   "x": "Wells Fargo menggandakan kepemilikan sahamnya pada ETF Bitcoin IBIT menjadi US$2,35 miliar. Peningkatan kepemilikan ini menunjukkan minat institusi terhadap produk investasi aset digital.",
-   "w": "Blockchainmedia.id",
-   "url": "https://blockchainmedia.id/wells-fargo-gandakan-kepemilikan-bitcoin-etf-ini-data-sec",
-   "img": null,
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T02:00:47"
-  },
-  {
    "id": 9750,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -110,7 +82,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S2PS7A7DGE0V6HJFS82SEY/hi-what-are-crypto-exit-scams-and-how-to-protect-against-them.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T05:09:45"
@@ -124,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/circle-and-trump-linked-crypto-firm-hit-with-court-freeze-order-after-binances-6-3-billion-hack",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-court-cold-storage.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T07:50:34"
@@ -152,7 +124,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "5 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T20:36:54"
@@ -222,10 +194,52 @@
    "w": "The Block",
    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T05:40:00"
+  },
+  {
+   "id": 9960,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Hong Kong dorong kustodian dan penasihat kripto masuk aturan lisensi",
+   "x": "Regulator sekuritas Hong Kong mengusulkan aturan lisensi baru untuk kustodian dan penasihat aset digital. Langkah ini bertujuan memperkuat perlindungan investor di pasar kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T05:40:35"
+  },
+  {
+   "id": 9938,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Senat AS loloskan RUU larang prediksi pasar taruhan perang, terorisme, dan kematian",
+   "x": "Senat AS meloloskan RUU yang melarang bursa teregulasi AS mendaftarkan kontrak terkait perang, pembunuhan, atau kematian. Ini merupakan langkah regulasi yang membatasi jenis pasar prediksi yang bisa beroperasi.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T15:42:51"
+  },
+  {
+   "id": 9922,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Anggota DPR AS lihat peluang voting RUU pajak kripto sebelum Kongres berakhir",
+   "x": "Anggota DPR AS Steven Horsford menyatakan RUU pajak kripto bipartisan berpeluang disahkan sebelum Kongres saat ini berakhir. Ini bisa menjadi perkembangan penting bagi regulasi aset digital di AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303482998-scaled-e1795184982398.jpg",
+   "a": "18 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T14:51:32"
   },
   {
    "id": 9722,
@@ -242,32 +256,18 @@
    "published_at": "2026-11-18T20:20:37"
   },
   {
-   "id": 9938,
+   "id": 9923,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Senat AS loloskan RUU larang prediksi pasar taruhan perang, terorisme, dan kematian",
-   "x": "Senat AS meloloskan RUU yang melarang bursa teregulasi AS mendaftarkan kontrak terkait perang, pembunuhan, atau kematian. Ini merupakan langkah regulasi yang membatasi jenis pasar prediksi yang bisa beroperasi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
-   "a": "10 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T15:42:51"
-  },
-  {
-   "id": 9922,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Anggota DPR AS lihat peluang voting RUU pajak kripto sebelum Kongres berakhir",
-   "x": "Anggota DPR AS Steven Horsford menyatakan RUU pajak kripto bipartisan berpeluang disahkan sebelum Kongres saat ini berakhir. Ini bisa menjadi perkembangan penting bagi regulasi aset digital di AS.",
+   "t": "Kepala kebijakan Wintermute minta lobi kripto 'bersihkan rumah' di Washington",
+   "x": "Ron Hammond dari Wintermute menilai industri kripto perlu strategi baru setelah serangkaian kegagalan lobi. Ini menunjukkan tantangan yang dihadapi sektor aset digital dalam memengaruhi kebijakan AS.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303482998-scaled-e1795184982398.jpg",
-   "a": "11 jam lalu",
+   "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T172211.323.jpg",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T14:51:32"
+   "published_at": "2026-11-20T14:36:10"
   },
   {
    "id": 9772,
@@ -282,20 +282,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T12:44:06"
-  },
-  {
-   "id": 9923,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kepala kebijakan Wintermute minta lobi kripto 'bersihkan rumah' di Washington",
-   "x": "Ron Hammond dari Wintermute menilai industri kripto perlu strategi baru setelah serangkaian kegagalan lobi. Ini menunjukkan tantangan yang dihadapi sektor aset digital dalam memengaruhi kebijakan AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T172211.323.jpg",
-   "a": "11 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T14:36:10"
   },
   {
    "id": 9821,
@@ -320,7 +306,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBSNHRTPW4ZMZ1E8HFB32H/news-crypto-studio-breaking-news-2.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T08:54:58"
@@ -334,7 +320,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T08:03:34"
