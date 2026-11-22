@@ -1,5 +1,5 @@
 {
- "total": 22,
+ "total": 17,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-miner-customs-stamp.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T15:20:09"
@@ -46,18 +46,18 @@
    "published_at": "2026-11-20T20:09:49"
   },
   {
-   "id": 9797,
+   "id": 9995,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Binance Menangkan Perintah Pembekuan Aset Senilai $6,5 Miliar Terkait Peretasan",
-   "x": "Pengadilan Abu Dhabi mengeluarkan perintah pembekuan global terhadap peretas tak dikenal, menargetkan 26.000 dompet yang menampung dana curian. Ini menunjukkan upaya penegakan hukum internasional yang semakin canggih dalam melacak aset kripto hasil kejahatan.",
+   "t": "SEC tuduh penipu curi $37 juta pakai bursa kripto palsu",
+   "x": "Otoritas Sekuritas dan Bursa AS (SEC) menuduh delapan entitas menjalankan penipuan senilai lebih dari $37 juta menggunakan bursa kripto palsu. Para pelaku memalsukan dokumen resmi untuk menipu investor.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg",
-   "a": "2 hari lalu",
+   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T12:59:14"
+   "published_at": "2026-11-21T17:01:02"
   },
   {
    "id": 9841,
@@ -102,32 +102,18 @@
    "published_at": "2026-11-21T05:40:35"
   },
   {
-   "id": 9786,
+   "id": 9958,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Hong Kong SFC Tandai Hyperliquid sebagai Platform Trading Mencurigakan tanpa Izin",
-   "x": "SFC Hong Kong menambahkan Hyperliquid ke daftar platform mencurigakan, bergabung dengan regulator Inggris dan Singapura pada 2026.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/hong-kong-sfc-beri-tanda-hyperliquid",
-   "img": "https://assets.beincrypto.com/img/yKQYzBsCSywaVIU5FsciyID9A5c=/smart/2c48c80b4f2545a1ac148482ee5ed0dc",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-19T12:14:35"
-  },
-  {
-   "id": 9995,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "SEC tuduh penipu curi $37 juta pakai bursa kripto palsu",
-   "x": "Otoritas Sekuritas dan Bursa AS (SEC) menuduh delapan entitas menjalankan penipuan senilai lebih dari $37 juta menggunakan bursa kripto palsu. Para pelaku memalsukan dokumen resmi untuk menipu investor.",
+   "t": "Saham Nvidia anjlok ke terendah 52 minggu setelah laporan SEC selidiki akuntansi",
+   "x": "Saham Nvidia turun tajam akibat laporan penyelidikan SEC terhadap praktik akuntansi perusahaan. Hal ini menambah tekanan pada produsen chip tersebut di tengah kekhawatiran pasar.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png",
-   "a": "16 jam lalu",
+   "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-21T17:01:02"
+   "published_at": "2026-11-20T20:36:54"
   },
   {
    "id": 9909,
@@ -152,7 +138,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/us-treasury-sells-15-billion-in-first-nine-day-cash-bill-auction-since-2008",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-nine-day-cash-bill.webp",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T14:30:07"
@@ -166,24 +152,24 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png",
-   "a": "3 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-22T05:28:43"
   },
   {
-   "id": 9958,
+   "id": 9938,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Saham Nvidia anjlok ke terendah 52 minggu setelah laporan SEC selidiki akuntansi",
-   "x": "Saham Nvidia turun tajam akibat laporan penyelidikan SEC terhadap praktik akuntansi perusahaan. Hal ini menambah tekanan pada produsen chip tersebut di tengah kekhawatiran pasar.",
+   "t": "Senat AS loloskan RUU larang prediksi pasar taruhan perang, terorisme, dan kematian",
+   "x": "Senat AS meloloskan RUU yang melarang bursa teregulasi AS mendaftarkan kontrak terkait perang, pembunuhan, atau kematian. Ini merupakan langkah regulasi yang membatasi jenis pasar prediksi yang bisa beroperasi.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
-   "a": "kemarin",
+   "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T20:36:54"
+   "published_at": "2026-11-20T15:42:51"
   },
   {
    "id": 9922,
@@ -194,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2303482998-scaled-e1795184982398.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T14:51:32"
@@ -214,48 +200,6 @@
    "published_at": "2026-11-20T07:50:34"
   },
   {
-   "id": 9772,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Hong Kong Masukkan Hyperliquid ke Daftar Platform Kripto 'Mencurigakan'",
-   "x": "Regulator sekuritas Hong Kong menyatakan Hyperliquid tidak memiliki lisensi lokal dan diduga mempromosikan layanannya kepada investor di wilayah tersebut. Investor perlu waspada terhadap platform yang beroperasi tanpa izin resmi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T12:44:06"
-  },
-  {
-   "id": 9798,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "CEO GameStop Sebut Game Digital Rugikan Konsumen, Dukung RUU Akses Game",
-   "x": "CEO GameStop mengkritik penerbit yang menghilangkan opsi jual beli game bekas, mendukung RUU yang menjamin hak konsumen atas game yang dibeli. Ini menyoroti perdebatan seputar kepemilikan digital dan model bisnis industri game.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T11:15:08"
-  },
-  {
-   "id": 9923,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Kepala kebijakan Wintermute minta lobi kripto 'bersihkan rumah' di Washington",
-   "x": "Ron Hammond dari Wintermute menilai industri kripto perlu strategi baru setelah serangkaian kegagalan lobi. Ini menunjukkan tantangan yang dihadapi sektor aset digital dalam memengaruhi kebijakan AS.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T172211.323.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T14:36:10"
-  },
-  {
    "id": 9821,
    "k": "regulasi",
    "cat": "Regulasi",
@@ -270,32 +214,18 @@
    "published_at": "2026-11-19T20:06:34"
   },
   {
-   "id": 9938,
+   "id": 9923,
    "k": "regulasi",
    "cat": "Regulasi",
-   "t": "Senat AS loloskan RUU larang prediksi pasar taruhan perang, terorisme, dan kematian",
-   "x": "Senat AS meloloskan RUU yang melarang bursa teregulasi AS mendaftarkan kontrak terkait perang, pembunuhan, atau kematian. Ini merupakan langkah regulasi yang membatasi jenis pasar prediksi yang bisa beroperasi.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
-   "a": "kemarin",
+   "t": "Kepala kebijakan Wintermute minta lobi kripto 'bersihkan rumah' di Washington",
+   "x": "Ron Hammond dari Wintermute menilai industri kripto perlu strategi baru setelah serangkaian kegagalan lobi. Ini menunjukkan tantangan yang dihadapi sektor aset digital dalam memengaruhi kebijakan AS.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T172211.323.jpg",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T15:42:51"
-  },
-  {
-   "id": 9776,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Singapura Selesaikan Penjualan Obligasi Tokenisasi Senilai $77,5 Juta dengan CBDC",
-   "x": "Otoritas Moneter Singapura (MAS) berhasil menyelesaikan penjualan obligasi tokenisasi menggunakan mata uang digital bank sentral (CBDC) di jaringan uji coba. Ini menunjukkan kemajuan dalam eksplorasi penggunaan CBDC untuk transaksi keuangan institusional.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBSNHRTPW4ZMZ1E8HFB32H/news-crypto-studio-breaking-news-2.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T08:54:58"
+   "published_at": "2026-11-20T14:36:10"
   },
   {
    "id": 9877,

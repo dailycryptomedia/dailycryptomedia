@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-11-20T19:37:27"
   },
   {
+   "id": 10018,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pengguna Chainflip alami penangguhan penarikan dana setelah $4,86 juta hilang dari brankas Ethereum",
+   "x": "Platform DeFi Chainflip menghentikan semua transaksi setelah dana senilai jutaan dolar menghilang dari brankas Ethereum. Insiden ini menyoroti risiko keamanan dalam ekosistem DeFi yang terus berkembang.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-vault-shutter.webp",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-22T16:05:55"
+  },
+  {
    "id": 9905,
    "k": "defi",
    "cat": "DeFi",
@@ -26,10 +40,38 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2305894191.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T12:12:29"
+  },
+  {
+   "id": 9892,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "CryptoUK desak FCA agar pengembang DeFi tidak dianggap teregulasi",
+   "x": "Asosiasi industri kripto Inggris mendesak regulator keuangan (FCA) untuk tidak secara otomatis menganggap pengembang DeFi sebagai entitas yang teregulasi. Mereka khawatir beberapa panduan yang diusulkan FCA melampaui undang-undang yang ada.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T10:07:46"
+  },
+  {
+   "id": 10002,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bursa Kripto Korsel Hentikan Transfer CYBER Akibat Dugaan Eksploitasi Bridge",
+   "x": "Bursa kripto Korea Selatan menghentikan transfer token CYBER menyusul adanya pencetakan token tak terduga di Solana dan perpindahan dana dari jembatan Ethereum. Insiden ini memicu investigasi terhadap potensi eksploitasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-22T07:24:05"
   },
   {
    "id": 9953,
@@ -46,34 +88,6 @@
    "published_at": "2026-11-20T23:40:12"
   },
   {
-   "id": 9892,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "CryptoUK desak FCA agar pengembang DeFi tidak dianggap teregulasi",
-   "x": "Asosiasi industri kripto Inggris mendesak regulator keuangan (FCA) untuk tidak secara otomatis menganggap pengembang DeFi sebagai entitas yang teregulasi. Mereka khawatir beberapa panduan yang diusulkan FCA melampaui undang-undang yang ada.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T10:07:46"
-  },
-  {
-   "id": 9771,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Alat keamanan DeFi baru Ethereum timbulkan pertanyaan soal sensor",
-   "x": "Sistem keamanan baru di Ethereum memungkinkan protokol memblokir transaksi berisiko, namun memunculkan kekhawatiran tentang potensi penyensoran. Hal ini juga menyoroti konsentrasi pengembang di ekosistem Ethereum.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T13:30:00"
-  },
-  {
    "id": 9978,
    "k": "defi",
    "cat": "DeFi",
@@ -82,10 +96,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221129_Hack-Exploit-2.jpg",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T15:24:14"
+  },
+  {
+   "id": 10010,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Masa depan FX on-chain bisa dimulai dari pengguna, bukan likuiditas institusional",
+   "x": "",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-22T14:30:00"
   },
   {
    "id": 9968,
@@ -102,20 +130,6 @@
    "published_at": "2026-11-21T04:10:34"
   },
   {
-   "id": 10002,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Bursa Kripto Korsel Hentikan Transfer CYBER Akibat Dugaan Eksploitasi Bridge",
-   "x": "Bursa kripto Korea Selatan menghentikan transfer token CYBER menyusul adanya pencetakan token tak terduga di Solana dan perpindahan dana dari jembatan Ethereum. Insiden ini memicu investigasi terhadap potensi eksploitasi.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
-   "a": "2 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-22T07:24:05"
-  },
-  {
    "id": 9993,
    "k": "defi",
    "cat": "DeFi",
@@ -124,38 +138,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/04/20210402_Cybercrime_Generic_G.jpg",
-   "a": "14 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T18:51:14"
-  },
-  {
-   "id": 9811,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "CoinShares Jual Aset Kripto Senilai $19,3 Juta, Tetap Pegang Risiko Kripto",
-   "x": "Penjualan aset kripto senilai $19,3 juta dilakukan untuk potensi pembelian kembali saham, namun pendapatan perusahaan tetap bergantung pada aktivitas kripto. Ini menyoroti bagaimana manajer aset mengelola portofolio di tengah volatilitas pasar.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_hQKV5BwkB0.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T09:40:29"
-  },
-  {
-   "id": 9921,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Monero terbungkus Wagyu XMR1 anjlok 99% pasca peretasan $13 juta",
-   "x": "Pendiri Wagyu berjanji mengembalikan dana setelah peretas menjual token XMR1 Wrapped Monero dalam eksploitasi senilai $13 juta. Peristiwa ini menimbulkan kekhawatiran keamanan di pasar DeFi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T16:11:22"
   },
   {
    "id": 9947,
@@ -166,10 +152,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/the-defi-protocol-powering-1-6-billion-in-coinbase-loans-as-crypto-lending-goes-mainstream",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/coinbase-morpho-trailer.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T15:00:30"
+  },
+  {
+   "id": 9921,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Monero terbungkus Wagyu XMR1 anjlok 99% pasca peretasan $13 juta",
+   "x": "Pendiri Wagyu berjanji mengembalikan dana setelah peretas menjual token XMR1 Wrapped Monero dalam eksploitasi senilai $13 juta. Peristiwa ini menimbulkan kekhawatiran keamanan di pasar DeFi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T16:11:22"
   },
   {
    "id": 9897,
@@ -184,20 +184,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T06:30:45"
-  },
-  {
-   "id": 9813,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Aave App raih likuiditas Tron $91 miliar saat buka akses awal Android",
-   "x": "Aplikasi Aave kini terintegrasi dengan likuiditas senilai $91 miliar dari jaringan Tron, bersamaan dengan peluncuran akses awal untuk pengguna Android. Ekspansi ini memperluas jangkauan platform DeFi tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/aave-app-taps-91b-tron-liquidity-as-it-opens-android-early-access",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-vault-payout-pipette.webp",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T07:30:59"
   }
  ]
 }

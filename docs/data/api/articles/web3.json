@@ -1,50 +1,8 @@
 {
- "total": 5,
+ "total": 2,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 9784,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ledger Kini Memeriksa Wallet Hardware Mencurigakan dengan X-Ray di Pabriknya di Prancis",
-   "x": "Pemeriksaan Ledger X-ray sekarang tersedia saat pembuat wallet tersebut memverifikasi perangkat yang telah dimanipulasi di Berlin, menyelidiki Dubai, dan menemukan sebuah kasus Nano Gen5.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ledger-x-ray-dompet-tampered-berlin-dubai",
-   "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-19T13:55:00"
-  },
-  {
-   "id": 9868,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Implantasi dompet kripto Ledger menyebar ke Berlin, kasus Dubai diselidiki",
-   "x": "Masalah keamanan pada perangkat keras Ledger meluas ke Eropa setelah kasus di Dubai diselidiki. Perusahaan menawarkan inspeksi pabrik dan menyarankan pengguna memindahkan dana ke dompet baru.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ledger-wallet-exam-loupe-1.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T00:40:28"
-  },
-  {
-   "id": 9802,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "1inch integrasikan kontrak berjangka abadi Hyperliquid ke dApp dan dompetnya",
-   "x": "Platform 1inch kini memungkinkan pengguna mengakses kontrak berjangka abadi dari Hyperliquid. Integrasi ini memperluas pilihan produk derivatif yang tersedia bagi pengguna di ekosistem 1inch.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T11:00:00"
-  },
   {
    "id": 9862,
    "k": "web3",
@@ -60,18 +18,18 @@
    "published_at": "2026-11-19T23:25:08"
   },
   {
-   "id": 9812,
+   "id": 9868,
    "k": "web3",
    "cat": "Web3",
-   "t": "Citi dan Circle Bergabung dengan Bank Dunia Uji Coba USDC untuk Bantuan",
-   "x": "Uji coba penggunaan USDC oleh Citi, Circle, dan Bank Dunia berpotensi mengubah cara penyaluran bantuan internasional. Kolaborasi ini menunjukkan potensi aset digital dalam meningkatkan efisiensi dan transparansi transfer dana global.",
+   "t": "Implantasi dompet kripto Ledger menyebar ke Berlin, kasus Dubai diselidiki",
+   "x": "Masalah keamanan pada perangkat keras Ledger meluas ke Eropa setelah kasus di Dubai diselidiki. Perusahaan menawarkan inspeksi pabrik dan menyarankan pengguna memindahkan dana ke dompet baru.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_6qrfJuRkeY.jpg",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ledger-wallet-exam-loupe-1.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T08:40:16"
+   "published_at": "2026-11-20T00:40:28"
   }
  ]
 }
