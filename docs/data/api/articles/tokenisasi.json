@@ -1,8 +1,22 @@
 {
- "total": 18,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 10033,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Senator inginkan penerbit stablecoin berlisensi negara setelah 18 Januari",
+   "x": "Proposal dari Departemen Keuangan AS mengakui adanya pengecualian bagi penerbit yang memenuhi syarat, namun negara bagian seperti New York meminta kejelasan mengenai penerbit mereka sendiri. Hal ini mengindikasikan adanya potensi penyesuaian regulasi stablecoin di AS.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/state-stablecoin-certification-path.webp",
+   "a": "33 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-22T22:05:49"
+  },
   {
    "id": 9962,
    "k": "tokenisasi",
@@ -32,20 +46,6 @@
    "published_at": "2026-11-20T10:54:38"
   },
   {
-   "id": 9846,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Bullish rekrut pakar Wall Street atasi masalah saham tokenisasi",
-   "x": "Bullish merekrut profesional dari Wall Street untuk menyelesaikan tantangan utama dalam perdagangan saham yang ditokenisasi. Upaya ini krusial untuk adopsi aset dunia nyata di blockchain.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bullish-recruits-wall-street-heavyweights-to-solve-tokenized-stocks-biggest-trading-problem",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bullish-solana-capsule-transfer.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T20:30:58"
-  },
-  {
    "id": 9889,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -58,20 +58,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T12:10:14"
-  },
-  {
-   "id": 9843,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Saham Tokenisasi Abaikan Penjualan Aset Kripto",
-   "x": "Nilai saham yang ditokenisasi di blockchain melampaui $4 miliar, naik lima kali lipat sejak awal tahun. Ini terjadi saat Bitcoin mengalami penurunan mingguan keenam berturut-turut, menunjukkan aset non-kripto yang terhubung ke blockchain mulai menarik perhatian terlepas dari kondisi pasar aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/untitled_Resize_2026-11-18_17-29-43.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T17:12:00"
   },
   {
    "id": 9904,
@@ -88,34 +74,6 @@
    "published_at": "2026-11-20T03:00:31"
   },
   {
-   "id": 9950,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Robert Kiyosaki Soroti Crash Bitcoin, Emas, dan Perak. Ini Alasannya",
-   "x": "Robert Kiyosaki kembali menyambut potensi crash pasar. Penulis “Rich Dad Poor Dad” ini mengatakan bahwa ia paling antusias melihat penurunan harga Bitcoin dan tidak sabar untuk membeli lagi. Namun, tidak semua orang…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/robert-kiyosaki-dukung-bitcoin-emas-perak-crash",
-   "img": "https://assets.beincrypto.com/img/RzUQrJZ8y6QuR160ekwcts2rWqo=/smart/354c76524ffe43188f66983666850973",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-20T22:03:12"
-  },
-  {
-   "id": 9819,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "MoonPay ajukan izin bank AS untuk layanan stablecoin dan kustodian",
-   "x": "MoonPay berupaya mendapatkan izin bank nasional di AS untuk menerbitkan stablecoin dan menyediakan layanan kustodian aset digital. Langkah ini menunjukkan tren institusi keuangan tradisional yang merambah aset kripto.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T21:01:42"
-  },
-  {
    "id": 9999,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
@@ -124,24 +82,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-agent-payment-clearance.webp",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T17:40:11"
   },
   {
-   "id": 9861,
+   "id": 9950,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Emas dan Bitcoin Turun, Peter Schiff Melihat Peluang untuk Keduanya",
-   "x": "Peter Schiff menyebut penurunan harga emas sebagai peluang beli dan penurunan Bitcoin sebagai peluang jual. Berikut alasan dia untuk kedua aset tersebut.",
+   "t": "Robert Kiyosaki Soroti Crash Bitcoin, Emas, dan Perak. Ini Alasannya",
+   "x": "Robert Kiyosaki kembali menyambut potensi crash pasar. Penulis “Rich Dad Poor Dad” ini mengatakan bahwa ia paling antusias melihat penurunan harga Bitcoin dan tidak sabar untuk membeli lagi. Namun, tidak semua orang…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/peter-schiff-emas-bitcoin-turun",
-   "img": "https://assets.beincrypto.com/img/urr06JH3GJYfiITOAwWaxDqIHn4=/smart/e5a97289604e489c99d76528b1598bb7",
+   "url": "https://id.beincrypto.com/robert-kiyosaki-dukung-bitcoin-emas-perak-crash",
+   "img": "https://assets.beincrypto.com/img/RzUQrJZ8y6QuR160ekwcts2rWqo=/smart/354c76524ffe43188f66983666850973",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-19T23:30:00"
+   "published_at": "2026-11-20T22:03:12"
   },
   {
    "id": 9912,
@@ -152,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T18:37:10"
@@ -172,46 +130,18 @@
    "published_at": "2026-11-19T23:10:33"
   },
   {
-   "id": 9991,
+   "id": 9861,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "US Dollar Kalahkan Bitcoin, Emas, dan Saham saat Ketakutan Kenaikan Suku Bunga The Fed Meningkat",
-   "x": "Sebuah laporan Coinbase Institutional yang terbit pada hari Jumat menemukan bahwa dolar menguat 2,5% dalam sebulan hingga 18 November. Dolar menjadi satu-satunya aset yang mencatat kenaikan di antara 14 aset dan tolok…",
+   "t": "Emas dan Bitcoin Turun, Peter Schiff Melihat Peluang untuk Keduanya",
+   "x": "Peter Schiff menyebut penurunan harga emas sebagai peluang beli dan penurunan Bitcoin sebagai peluang jual. Berikut alasan dia untuk kedua aset tersebut.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/dolar-as-kalahkan-bitcoin-emas-saham-apa-selanjutnya",
-   "img": "https://assets.beincrypto.com/img/ovLUWInKTCcUrgFWUIN3O8YDAZ4=/smart/effa97c8968747c697c32ec305341793",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-21T16:33:50"
-  },
-  {
-   "id": 9823,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Mengapa suku bunga tinggi bisa perlambat pembelian Bitcoin oleh perusahaan treasury",
-   "x": "Perusahaan treasury mungkin kesulitan menjual saham baru dengan imbal hasil yang cukup untuk membenarkan pembelian Bitcoin tambahan, bahkan jika dividen sudah tercakup.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T18:09:32"
-  },
-  {
-   "id": 9882,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "The Fed Mengakhiri Rezim Uang Mudah saat Dollar Breakout dan Emas, BTC Turun",
-   "x": "Timmer dari Fidelity mengatakan pengetatan The Fed telah mengurangi dorongan mudah uang saat dolar mengalami breakout dan emas turun.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/the-fed-pengetatan-dolar-breakout-emas-bitcoin",
-   "img": "https://assets.beincrypto.com/img/zmVFCjO6r4Rd708TtrF2rH-mPnc=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "url": "https://id.beincrypto.com/peter-schiff-emas-bitcoin-turun",
+   "img": "https://assets.beincrypto.com/img/urr06JH3GJYfiITOAwWaxDqIHn4=/smart/e5a97289604e489c99d76528b1598bb7",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-20T08:55:05"
+   "published_at": "2026-11-19T23:30:00"
   },
   {
    "id": 9977,
@@ -228,18 +158,18 @@
    "published_at": "2026-11-21T09:48:56"
   },
   {
-   "id": 9887,
+   "id": 9991,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Emas dan Perak Kehilangan US$1 Triliun dalam Enam Jam. Apa yang Membuat Emas Berbalik Naik Terakhir Kali?",
-   "x": "Emas dan perak kehilangan sekitar US$1 triliun dalam enam jam. Dua logam yang sering dibeli sebagai aset safe haven justru turun bersama saham, setelah risalah The Fed mengindikasikan adanya potensi kenaikan suku bunga…",
+   "t": "US Dollar Kalahkan Bitcoin, Emas, dan Saham saat Ketakutan Kenaikan Suku Bunga The Fed Meningkat",
+   "x": "Sebuah laporan Coinbase Institutional yang terbit pada hari Jumat menemukan bahwa dolar menguat 2,5% dalam sebulan hingga 18 November. Dolar menjadi satu-satunya aset yang mencatat kenaikan di antara 14 aset dan tolok…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/emas-perak-kehilangan-1-triliun-the-fed-naikkan-suku-bunga",
-   "img": "https://assets.beincrypto.com/img/E0HDdtEYsiGuJqsPk2xSri6mP18=/smart/197b2d76561b48a39329ef374e49da9e",
-   "a": "2 hari lalu",
+   "url": "https://id.beincrypto.com/dolar-as-kalahkan-bitcoin-emas-saham-apa-selanjutnya",
+   "img": "https://assets.beincrypto.com/img/ovLUWInKTCcUrgFWUIN3O8YDAZ4=/smart/effa97c8968747c697c32ec305341793",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-20T05:00:00"
+   "published_at": "2026-11-21T16:33:50"
   },
   {
    "id": 9917,
@@ -254,6 +184,34 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T13:21:39"
+  },
+  {
+   "id": 9882,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "The Fed Mengakhiri Rezim Uang Mudah saat Dollar Breakout dan Emas, BTC Turun",
+   "x": "Timmer dari Fidelity mengatakan pengetatan The Fed telah mengurangi dorongan mudah uang saat dolar mengalami breakout dan emas turun.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/the-fed-pengetatan-dolar-breakout-emas-bitcoin",
+   "img": "https://assets.beincrypto.com/img/zmVFCjO6r4Rd708TtrF2rH-mPnc=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-20T08:55:05"
+  },
+  {
+   "id": 9887,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Emas dan Perak Kehilangan US$1 Triliun dalam Enam Jam. Apa yang Membuat Emas Berbalik Naik Terakhir Kali?",
+   "x": "Emas dan perak kehilangan sekitar US$1 triliun dalam enam jam. Dua logam yang sering dibeli sebagai aset safe haven justru turun bersama saham, setelah risalah The Fed mengindikasikan adanya potensi kenaikan suku bunga…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/emas-perak-kehilangan-1-triliun-the-fed-naikkan-suku-bunga",
+   "img": "https://assets.beincrypto.com/img/E0HDdtEYsiGuJqsPk2xSri6mP18=/smart/197b2d76561b48a39329ef374e49da9e",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-20T05:00:00"
   }
  ]
 }

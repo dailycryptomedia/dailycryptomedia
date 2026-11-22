@@ -1,5 +1,5 @@
 {
- "total": 2,
+ "total": 3,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -30,6 +30,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T00:40:28"
+  },
+  {
+   "id": 10036,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Crash token Wagyu senilai $13,5 juta ungkap koin lain dengan 99,9% di satu wallet",
+   "x": "Penurunan drastis token Wagyu mengungkap adanya konsentrasi kepemilikan yang sangat tinggi pada satu dompet untuk aset kripto lain. Hal ini menimbulkan kekhawatiran tentang stabilitas dan potensi manipulasi pasar.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/wagyu-shared-deployer-key.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-22T19:05:03"
   }
  ]
 }
