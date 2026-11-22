@@ -1,5 +1,5 @@
 {
- "total": 53,
+ "total": 47,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -16,20 +16,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T14:13:47"
-  },
-  {
-   "id": 9736,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Ledger konfirmasi dompet Bitcoin dirusak di Berlin, penyelidikan meluas",
-   "x": "Ledger mengonfirmasi adanya perusakan perangkat keras dompet Bitcoin di Berlin dan sedang menyelidiki unit di Dubai. Insiden ini menunjukkan potensi risiko keamanan pada perangkat keras kripto yang perlu diwaspadai pengguna.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T22:16:02"
   },
   {
    "id": 9854,
@@ -54,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-collateral-threshold-risk.webp",
-   "a": "5 jam lalu",
+   "a": "9 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T16:35:27"
@@ -74,6 +60,20 @@
    "published_at": "2026-11-20T02:15:16"
   },
   {
+   "id": 9890,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin lepas $582 juta saat BTC jatuh di bawah $62 ribu",
+   "x": "Aliran dana keluar dari ETF Bitcoin mencapai rekor tertinggi dalam tiga minggu terakhir. Kenaikan imbal hasil obligasi negara dan spekulasi kenaikan suku bunga The Fed membebani pasar kripto.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T11:50:51"
+  },
+  {
    "id": 9800,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -88,32 +88,18 @@
    "published_at": "2026-11-19T14:00:00"
   },
   {
-   "id": 9724,
+   "id": 9857,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Forum Bitcoin Satoshi Nakamoto yang Terlupakan Ungkap Misteri Tahun 2014",
-   "x": "Beberapa minggu setelah whitepaper Bitcoin berulang tahun ke-18, sebuah forum yang terlupakan dan dibuat oleh Satoshi Nakamoto kembali menarik perhatian. Sebuah unggahan di X telah memicu perdebatan hangat mengenai hal…",
+   "t": "Bitcoin Turun ke Level Biaya Mining saat Hashrate Mendekati Rekor dan Indikator Berubah Bearish",
+   "x": "Bitcoin menyentuh biaya mining sebesar $62.000 saat hashrate mendekati rekor. Lihat mengapa data on-chain masih menunjukkan potensi penurunan lebih lanjut.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/satoshi-nakamoto-bitcoin-hilang-forum-2014",
-   "img": "https://assets.beincrypto.com/img/mPfcdL7HK9wq8ZYlc-VahIKB6IY=/smart/53eddc62add2412ba2e0314f1905d6ed",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-18T23:04:02"
-  },
-  {
-   "id": 9890,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin lepas $582 juta saat BTC jatuh di bawah $62 ribu",
-   "x": "Aliran dana keluar dari ETF Bitcoin mencapai rekor tertinggi dalam tiga minggu terakhir. Kenaikan imbal hasil obligasi negara dan spekulasi kenaikan suku bunga The Fed membebani pasar kripto.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+   "url": "https://id.beincrypto.com/biaya-penambangan-bitcoin-hashrate-bearish",
+   "img": "https://assets.beincrypto.com/img/ZiyWw1xyTem2NE_biZhxedEOn1A=/smart/1aea29b12a69423a81ade56413ad7897",
    "a": "kemarin",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T11:50:51"
+   "translated": false,
+   "published_at": "2026-11-20T02:39:51"
   },
   {
    "id": 9774,
@@ -152,38 +138,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-bisa-balik-ke-us100-000-21shares-ungkap-sinyal-mengejutkan",
    "img": null,
-   "a": "14 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T07:00:59"
-  },
-  {
-   "id": 9961,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "JPMorgan: harga bitcoin tekan penambang, Senat loloskan 'Death Bets Act', dan lainnya",
-   "x": "JPMorgan melaporkan penurunan harga bitcoin memberi tekanan lebih pada penambang. Sementara itu, Senat AS meloloskan RUU yang melarang pasar prediksi terkait kematian dan perang.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
-   "a": "17 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-21T04:30:00"
-  },
-  {
-   "id": 9857,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Turun ke Level Biaya Mining saat Hashrate Mendekati Rekor dan Indikator Berubah Bearish",
-   "x": "Bitcoin menyentuh biaya mining sebesar $62.000 saat hashrate mendekati rekor. Lihat mengapa data on-chain masih menunjukkan potensi penurunan lebih lanjut.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/biaya-penambangan-bitcoin-hashrate-bearish",
-   "img": "https://assets.beincrypto.com/img/ZiyWw1xyTem2NE_biZhxedEOn1A=/smart/1aea29b12a69423a81ade56413ad7897",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-20T02:39:51"
   },
   {
    "id": 9980,
@@ -194,10 +152,38 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg",
-   "a": "7 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T14:01:06"
+  },
+  {
+   "id": 9961,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "JPMorgan: harga bitcoin tekan penambang, Senat loloskan 'Death Bets Act', dan lainnya",
+   "x": "JPMorgan melaporkan penurunan harga bitcoin memberi tekanan lebih pada penambang. Sementara itu, Senat AS meloloskan RUU yang melarang pasar prediksi terkait kematian dan perang.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
+   "a": "21 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-21T04:30:00"
+  },
+  {
+   "id": 9826,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin Turun di Bawah US$62.000 saat Senat Tolak Resolusi Kewenangan Perang Iran",
+   "x": "Bitcoin turun di bawah $62.000 setelah Senat AS menolak resolusi kewenangan perang Iran dengan hasil 48-51, memperpanjang tekanan sebelumnya.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/bitcoin-di-bawah-62000-senat-kekuasaan-perang-iran",
+   "img": "https://assets.beincrypto.com/img/sp_pAsAtMfESLMm-k-yH8kE75jM=/smart/5966b7e594a64f8a9f355b5a355a68c6",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-19T20:42:33"
   },
   {
    "id": 9875,
@@ -236,10 +222,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/bitcoin-terancam-babak-belur-qcp-soroti-3-risiko-besar-dari-pasar-global",
    "img": null,
-   "a": "15 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T06:00:18"
+  },
+  {
+   "id": 9835,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin alami death cross saat IPO Anthropic gagal angkat Wall Street",
+   "x": "Saham Anthropic melonjak saat debut di Nasdaq, namun pasar saham dan Bitcoin justru tertekan. Kondisi ini mengindikasikan tren turun yang kuat dan support yang rapuh pada grafik harian Bitcoin.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T19:08:24"
   },
   {
    "id": 9919,
@@ -256,32 +256,18 @@
    "published_at": "2026-11-20T18:22:39"
   },
   {
-   "id": 9826,
+   "id": 9756,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Bitcoin Turun di Bawah US$62.000 saat Senat Tolak Resolusi Kewenangan Perang Iran",
-   "x": "Bitcoin turun di bawah $62.000 setelah Senat AS menolak resolusi kewenangan perang Iran dengan hasil 48-51, memperpanjang tekanan sebelumnya.",
+   "t": "Apakah Dividen 12% MicroStrategy Aman? Sahamnya US$100 Baru Saja Jebol Lagi",
+   "x": "Saham dividen 12% MicroStrategy, STRC, menembus di bawah $100 saat Bitcoin turun di bawah $63.000. Berikut posisi pembayaran dividen saat ini.",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/bitcoin-di-bawah-62000-senat-kekuasaan-perang-iran",
-   "img": "https://assets.beincrypto.com/img/sp_pAsAtMfESLMm-k-yH8kE75jM=/smart/5966b7e594a64f8a9f355b5a355a68c6",
+   "url": "https://id.beincrypto.com/apakah-dividen-microstrategy-12-aman",
+   "img": "https://assets.beincrypto.com/img/Pcwy0yR_ME0iVinA-dmFkQu7jpg=/smart/c426996c5a2047b9932e545bc9d62cab",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-19T20:42:33"
-  },
-  {
-   "id": 9835,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin alami death cross saat IPO Anthropic gagal angkat Wall Street",
-   "x": "Saham Anthropic melonjak saat debut di Nasdaq, namun pasar saham dan Bitcoin justru tertekan. Kondisi ini mengindikasikan tren turun yang kuat dan support yang rapuh pada grafik harian Bitcoin.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T19:08:24"
+   "published_at": "2026-11-19T02:10:00"
   },
   {
    "id": 9824,
@@ -320,38 +306,10 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/coinbase-peringatkan-bitcoin-bisa-jatuh-ke-us53-500-skenario-2022-terulang",
    "img": null,
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T01:30:18"
-  },
-  {
-   "id": 9806,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Binance dapat perintah pembekuan $6,5 miliar, CryptoQuant sebut bitcoin di 'zona nilai'",
-   "x": "Pengadilan Abu Dhabi membekukan aset Binance senilai $6,5 miliar, sementara CryptoQuant menilai Bitcoin berada di 'zona nilai' meski dalam fase bearish. Berita ini menyoroti tantangan regulasi dan analisis pasar.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230215_Binance2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T06:00:00"
-  },
-  {
-   "id": 9756,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Apakah Dividen 12% MicroStrategy Aman? Sahamnya US$100 Baru Saja Jebol Lagi",
-   "x": "Saham dividen 12% MicroStrategy, STRC, menembus di bawah $100 saat Bitcoin turun di bawah $63.000. Berikut posisi pembayaran dividen saat ini.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/apakah-dividen-microstrategy-12-aman",
-   "img": "https://assets.beincrypto.com/img/Pcwy0yR_ME0iVinA-dmFkQu7jpg=/smart/c426996c5a2047b9932e545bc9d62cab",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-19T02:10:00"
   },
   {
    "id": 9833,
@@ -368,46 +326,18 @@
    "published_at": "2026-11-19T20:46:02"
   },
   {
-   "id": 9723,
+   "id": 9806,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "MARA tawarkan utang $185 juta pasca jual Bitcoin $1,1 miliar",
-   "x": "Perusahaan penambangan Bitcoin, MARA, kembali mencari pendanaan melalui penawaran utang senilai $185 juta. Dana ini akan digunakan untuk ekspansi infrastruktur AI, menyusul penjualan Bitcoin senilai $1,1 miliar sebelumnya.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T18:27:52"
-  },
-  {
-   "id": 9762,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin Luncurkan Testnet5 untuk Uji Coba Perbaikan Bagi Penambang",
-   "x": "Bitcoin meluncurkan Testnet5 yang memungkinkan mining pool menguji blok yang dibangun perangkat lunak mereka. Uji coba ini memberikan kesempatan bagi penambang untuk mencoba empat usulan perbaikan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-launches-testnet5-and-gives-miners-a-real-trial-of-four-proposed-fixes",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-mining-proving-ground.webp",
+   "t": "Binance dapat perintah pembekuan $6,5 miliar, CryptoQuant sebut bitcoin di 'zona nilai'",
+   "x": "Pengadilan Abu Dhabi membekukan aset Binance senilai $6,5 miliar, sementara CryptoQuant menilai Bitcoin berada di 'zona nilai' meski dalam fase bearish. Berita ini menyoroti tantangan regulasi dan analisis pasar.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230215_Binance2.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T02:30:49"
-  },
-  {
-   "id": 9924,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "ETF Bitcoin Spot AS alami aliran keluar bersih harian $582 juta",
-   "x": "ETF Bitcoin spot AS mencatat aliran keluar dana signifikan pada hari Kamis, didominasi oleh BlackRock IBIT. Ini terjadi saat total aliran keluar bulan November mendekati $3,5 miliar, menandakan potensi penurunan minat investor institusi terhadap produk ini.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T143815.443.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T12:29:57"
+   "published_at": "2026-11-19T06:00:00"
   },
   {
    "id": 9754,
@@ -424,20 +354,6 @@
    "published_at": "2026-11-19T04:00:00"
   },
   {
-   "id": 9741,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin anjlok jelang IPO Anthropic, benarkah karena AI?",
-   "x": "Harga Bitcoin turun mendekati $63.000 menjelang rencana penawaran umum perdana (IPO) Anthropic. Analis meragukan IPO AI menjadi penyebab utama, mengarah pada faktor lain seperti aliran keluar ETF dan kenaikan suku bunga.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T19:16:02"
-  },
-  {
    "id": 9913,
    "k": "bitcoin",
    "cat": "Bitcoin",
@@ -452,18 +368,46 @@
    "published_at": "2026-11-20T16:55:51"
   },
   {
-   "id": 9954,
+   "id": 9762,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Penambang Bitcoin hadapi jurang profitabilitas baru seiring kesulitan naik 8,5%",
-   "x": "Kesulitan penambangan Bitcoin diproyeksikan naik tajam, menekan profitabilitas penambang. Kenaikan ini dapat memaksa penambang dengan biaya operasional tinggi untuk berhenti beroperasi, yang berpotensi memengaruhi stabilitas jaringan.",
+   "t": "Bitcoin Luncurkan Testnet5 untuk Uji Coba Perbaikan Bagi Penambang",
+   "x": "Bitcoin meluncurkan Testnet5 yang memungkinkan mining pool menguji blok yang dibangun perangkat lunak mereka. Uji coba ini memberikan kesempatan bagi penambang untuk mencoba empat usulan perbaikan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-miner-power-margin.webp",
-   "a": "23 jam lalu",
+   "url": "https://cryptoslate.com/bitcoin-launches-testnet5-and-gives-miners-a-real-trial-of-four-proposed-fixes",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-mining-proving-ground.webp",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T22:50:55"
+   "published_at": "2026-11-19T02:30:49"
+  },
+  {
+   "id": 9937,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin tembus di bawah $60 ribu, indeks ketakutan kripto terburuk sejak Februari",
+   "x": "Harga Bitcoin turun di bawah $60 ribu pada Jumat, seiring sentimen pasar kripto yang anjlok. Indeks ketakutan dan keserakahan kripto mencapai level terendah sejak Februari.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T16:35:59"
+  },
+  {
+   "id": 9924,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "ETF Bitcoin Spot AS alami aliran keluar bersih harian $582 juta",
+   "x": "ETF Bitcoin spot AS mencatat aliran keluar dana signifikan pada hari Kamis, didominasi oleh BlackRock IBIT. Ini terjadi saat total aliran keluar bulan November mendekati $3,5 miliar, menandakan potensi penurunan minat investor institusi terhadap produk ini.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-20T143815.443.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T12:29:57"
   },
   {
    "id": 9760,
@@ -474,24 +418,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/hukum-pangkat-bitcoin-analis-dukungan-62k",
    "img": "https://assets.beincrypto.com/img/TQH9B6JWiAffGCbIDBLsaZ_Aji8=/smart/fe77635c7ae74d5bbb8bc0bd4a5af5c1",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T00:02:00"
-  },
-  {
-   "id": 9742,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Penambang Bitcoin jual aset untuk danai booming AI",
-   "x": "Sejumlah penambang Bitcoin besar seperti MARA dan Riot dilaporkan menjual sebagian besar cadangan Bitcoin mereka. Dana hasil penjualan ini digunakan untuk membayar utang dan mendanai pembangunan pusat data untuk kebutuhan kecerdasan buatan (AI).",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-18T18:46:03"
   },
   {
    "id": 9779,
@@ -508,18 +438,32 @@
    "published_at": "2026-11-19T07:55:56"
   },
   {
-   "id": 9747,
+   "id": 9954,
    "k": "bitcoin",
    "cat": "Bitcoin",
-   "t": "Jerman bekukan Bitcoin hingga 180 hari tanpa akses kunci privat",
-   "x": "Jerman berencana membekukan Bitcoin hingga 180 hari, bahkan tanpa akses ke kunci privat. Regulasi ini dapat memengaruhi cara aset digital dikelola dan diamankan oleh pengguna di yurisdiksi tersebut.",
+   "t": "Penambang Bitcoin hadapi jurang profitabilitas baru seiring kesulitan naik 8,5%",
+   "x": "Kesulitan penambangan Bitcoin diproyeksikan naik tajam, menekan profitabilitas penambang. Kenaikan ini dapat memaksa penambang dengan biaya operasional tinggi untuk berhenti beroperasi, yang berpotensi memengaruhi stabilitas jaringan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/germany-bitcoin-frost-divider.webp",
-   "a": "3 hari lalu",
+   "url": "https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-miner-power-margin.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-18T20:40:02"
+   "published_at": "2026-11-20T22:50:55"
+  },
+  {
+   "id": 9799,
+   "k": "bitcoin",
+   "cat": "Bitcoin",
+   "t": "Bitcoin kesulitan tahan $64 ribu saat aliran keluar ETF capai $2,9 miliar November",
+   "x": "Harga Bitcoin turun 13% dalam sepekan akibat penarikan dana dari ETF spot dan antisipasi kenaikan suku bunga The Fed. Arus keluar dana yang signifikan ini menekan harga aset kripto utama tersebut.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T10:25:05"
   },
   {
    "id": 9757,
@@ -530,24 +474,10 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/dominasi-bitcoin-turun-dominasi-usdt-altcoin",
    "img": "https://assets.beincrypto.com/img/hAOKudsI-FbM6N9x0MpcylaOJRg=/smart/624adfe4f31a49c8aa15195a0f1c4b16",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T01:45:00"
-  },
-  {
-   "id": 9937,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin tembus di bawah $60 ribu, indeks ketakutan kripto terburuk sejak Februari",
-   "x": "Harga Bitcoin turun di bawah $60 ribu pada Jumat, seiring sentimen pasar kripto yang anjlok. Indeks ketakutan dan keserakahan kripto mencapai level terendah sejak Februari.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-20T16:35:59"
   },
   {
    "id": 9915,
@@ -572,7 +502,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/kraken-canadian-bitcoin-low.webp",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T13:30:47"
@@ -590,20 +520,6 @@
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T15:45:37"
-  },
-  {
-   "id": 9799,
-   "k": "bitcoin",
-   "cat": "Bitcoin",
-   "t": "Bitcoin kesulitan tahan $64 ribu saat aliran keluar ETF capai $2,9 miliar November",
-   "x": "Harga Bitcoin turun 13% dalam sepekan akibat penarikan dana dari ETF spot dan antisipasi kenaikan suku bunga The Fed. Arus keluar dana yang signifikan ini menekan harga aset kripto utama tersebut.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T10:25:05"
   },
   {
    "id": 9777,
@@ -642,7 +558,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/seberapa-rendah-harga-bitcoin-bisa-turun",
    "img": "https://assets.beincrypto.com/img/MJtXKjBjTutJYAPhLI9gBHfo-W4=/smart/757fb6df64ca4a478ab1bcffcb1515f9",
-   "a": "18 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-21T03:48:02"
