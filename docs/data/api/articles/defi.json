@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -82,7 +82,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/11/20221129_Hack-Exploit-2.jpg",
-   "a": "10 jam lalu",
+   "a": "18 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T15:24:14"
@@ -96,10 +96,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/sky-vault-withdrawal.webp",
-   "a": "21 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T04:10:34"
+  },
+  {
+   "id": 10002,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Bursa Kripto Korsel Hentikan Transfer CYBER Akibat Dugaan Eksploitasi Bridge",
+   "x": "Bursa kripto Korea Selatan menghentikan transfer token CYBER menyusul adanya pencetakan token tak terduga di Solana dan perpindahan dana dari jembatan Ethereum. Insiden ini memicu investigasi terhadap potensi eksploitasi.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
+   "a": "2 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-22T07:24:05"
   },
   {
    "id": 9993,
@@ -110,7 +124,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/04/20210402_Cybercrime_Generic_G.jpg",
-   "a": "7 jam lalu",
+   "a": "14 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T18:51:14"
@@ -166,7 +180,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-rollover-hopper-1.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T06:30:45"
@@ -180,7 +194,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/aave-app-taps-91b-tron-liquidity-as-it-opens-android-early-access",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/aave-vault-payout-pipette.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T07:30:59"

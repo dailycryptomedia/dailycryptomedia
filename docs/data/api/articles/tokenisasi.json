@@ -1,5 +1,5 @@
 {
- "total": 29,
+ "total": 26,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/strategi-hyperliquid-hype-treasury-profit",
    "img": "https://assets.beincrypto.com/img/sgSw0bbIiQNJNPHYg6cIE5TmOGo=/smart/2f1dbca5623f4bbf8b62e8a1e2a6c36f",
-   "a": "18 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-21T07:00:12"
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/gta-6-resmi-rilis-memecoin-dacitycoin-malah-ambruk-saham-induk-rockstar-ikut-terseret",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T03:00:31"
@@ -124,24 +124,24 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-agent-payment-clearance.webp",
-   "a": "8 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T17:40:11"
   },
   {
-   "id": 9766,
+   "id": 9804,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Standard Chartered, StraitsX, OCBC uji coba interoperabilitas deposit tokenisasi",
-   "x": "Tiga institusi keuangan menyelesaikan uji coba interoperabilitas deposit tokenisasi. Ini menunjukkan potensi deposit tokenisasi yang selalu aktif memerlukan konektivitas antar platform.",
+   "t": "MAS Singapura terbitkan tagihan tokenisasi senilai $77 juta diselesaikan via CBDC",
+   "x": "Bank sentral Singapura berhasil menyelesaikan transaksi tagihan tokenisasi senilai $77 juta menggunakan mata uang digital bank sentral (CBDC). Inisiatif ini menunjukkan potensi CBDC dalam memfasilitasi penyelesaian aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/singapore-scaled.jpg",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T02:30:00"
+   "published_at": "2026-11-19T08:25:35"
   },
   {
    "id": 9815,
@@ -152,7 +152,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/stablecoin-makin-dilirik-raksasa-keuangan-visa-siapkan-ekspansi-besar-di-asia",
    "img": null,
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T08:00:48"
@@ -200,18 +200,18 @@
    "published_at": "2026-11-19T23:10:33"
   },
   {
-   "id": 9804,
+   "id": 9803,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "MAS Singapura terbitkan tagihan tokenisasi senilai $77 juta diselesaikan via CBDC",
-   "x": "Bank sentral Singapura berhasil menyelesaikan transaksi tagihan tokenisasi senilai $77 juta menggunakan mata uang digital bank sentral (CBDC). Inisiatif ini menunjukkan potensi CBDC dalam memfasilitasi penyelesaian aset digital.",
+   "t": "Ant International luncurkan protokol penyelesaian real-time deposit tokenisasi dan reksa dana",
+   "x": "Ant International memperkenalkan protokol baru untuk memfasilitasi penyelesaian instan antara simpanan yang ditokenisasi dan reksa dana pasar uang yang juga ditokenisasi. Langkah ini bertujuan menyederhanakan transaksi aset digital.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/singapore-scaled.jpg",
+   "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/singapore-2.jpg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T08:25:35"
+   "published_at": "2026-11-19T10:39:29"
   },
   {
    "id": 9861,
@@ -242,46 +242,32 @@
    "published_at": "2026-11-19T18:09:32"
   },
   {
-   "id": 9763,
+   "id": 9814,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Imbal Hasil Obligasi Jepang Melonjak ke 3,75%, Sembunyikan Jebakan Bitcoin",
-   "x": "Imbal hasil obligasi Jepang melonjak ke 3,75% di tengah penurunan minat investor pada lelang obligasi. Kondisi ini dapat menjadi jebakan bagi Bitcoin karena investor mungkin beralih ke aset yang lebih aman.",
+   "t": "Invesco pindahkan cadangan stablecoin on-chain, namun ada celah likuiditas",
+   "x": "Manajer aset Invesco memindahkan cadangan stablecoin mereka ke dalam blockchain, namun laporan menunjukkan adanya potensi celah likuiditas. Hal ini menimbulkan pertanyaan tentang transparansi pengelolaan aset digital.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/japan-bond-yields-surge-to-3-75-hiding-a-quiet-bitcoin-trap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/01-slack-yen-tether.jpg",
+   "url": "https://cryptoslate.com/invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_XLbwnCPGTD.jpg",
    "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-19T00:50:37"
+   "published_at": "2026-11-19T06:10:14"
   },
   {
-   "id": 9803,
+   "id": 9991,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Ant International luncurkan protokol penyelesaian real-time deposit tokenisasi dan reksa dana",
-   "x": "Ant International memperkenalkan protokol baru untuk memfasilitasi penyelesaian instan antara simpanan yang ditokenisasi dan reksa dana pasar uang yang juga ditokenisasi. Langkah ini bertujuan menyederhanakan transaksi aset digital.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/singapore-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T10:39:29"
-  },
-  {
-   "id": 9759,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Harga Emas Turun Menuju US$3.700, Schiff Sebut The Fed Berisiko Picu Krisis Keuangan dalam Perang Lawan Inflasi",
-   "x": "Emas turun di bawah $3.800, level terendah dalam 14 bulan, seiring bertambahnya spekulasi kenaikan suku bunga The Fed. Peter Schiff mengatakan The Fed tidak bisa mengetatkan kebijakan tanpa memicu krisis.",
+   "t": "US Dollar Kalahkan Bitcoin, Emas, dan Saham saat Ketakutan Kenaikan Suku Bunga The Fed Meningkat",
+   "x": "Sebuah laporan Coinbase Institutional yang terbit pada hari Jumat menemukan bahwa dolar menguat 2,5% dalam sebulan hingga 18 November. Dolar menjadi satu-satunya aset yang mencatat kenaikan di antara 14 aset dan tolok…",
    "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/emas-14-bulan-terendah-schiff-the-fed",
-   "img": "https://assets.beincrypto.com/img/urr06JH3GJYfiITOAwWaxDqIHn4=/smart/e5a97289604e489c99d76528b1598bb7",
-   "a": "3 hari lalu",
+   "url": "https://id.beincrypto.com/dolar-as-kalahkan-bitcoin-emas-saham-apa-selanjutnya",
+   "img": "https://assets.beincrypto.com/img/ovLUWInKTCcUrgFWUIN3O8YDAZ4=/smart/effa97c8968747c697c32ec305341793",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-19T01:05:00"
+   "published_at": "2026-11-21T16:33:50"
   },
   {
    "id": 9773,
@@ -298,32 +284,18 @@
    "published_at": "2026-11-19T12:33:46"
   },
   {
-   "id": 9814,
+   "id": 9882,
    "k": "tokenisasi",
    "cat": "Tokenisasi",
-   "t": "Invesco pindahkan cadangan stablecoin on-chain, namun ada celah likuiditas",
-   "x": "Manajer aset Invesco memindahkan cadangan stablecoin mereka ke dalam blockchain, namun laporan menunjukkan adanya potensi celah likuiditas. Hal ini menimbulkan pertanyaan tentang transparansi pengelolaan aset digital.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_XLbwnCPGTD.jpg",
+   "t": "The Fed Mengakhiri Rezim Uang Mudah saat Dollar Breakout dan Emas, BTC Turun",
+   "x": "Timmer dari Fidelity mengatakan pengetatan The Fed telah mengurangi dorongan mudah uang saat dolar mengalami breakout dan emas turun.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/the-fed-pengetatan-dolar-breakout-emas-bitcoin",
+   "img": "https://assets.beincrypto.com/img/zmVFCjO6r4Rd708TtrF2rH-mPnc=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
    "a": "2 hari lalu",
    "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T06:10:14"
-  },
-  {
-   "id": 9991,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "US Dollar Kalahkan Bitcoin, Emas, dan Saham saat Ketakutan Kenaikan Suku Bunga The Fed Meningkat",
-   "x": "Sebuah laporan Coinbase Institutional yang terbit pada hari Jumat menemukan bahwa dolar menguat 2,5% dalam sebulan hingga 18 November. Dolar menjadi satu-satunya aset yang mencatat kenaikan di antara 14 aset dan tolok…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/dolar-as-kalahkan-bitcoin-emas-saham-apa-selanjutnya",
-   "img": "https://assets.beincrypto.com/img/ovLUWInKTCcUrgFWUIN3O8YDAZ4=/smart/effa97c8968747c697c32ec305341793",
-   "a": "9 jam lalu",
-   "r": "2 menit",
    "translated": false,
-   "published_at": "2026-11-21T16:33:50"
+   "published_at": "2026-11-20T08:55:05"
   },
   {
    "id": 9977,
@@ -334,38 +306,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg",
-   "a": "16 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-21T09:48:56"
-  },
-  {
-   "id": 9882,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "The Fed Mengakhiri Rezim Uang Mudah saat Dollar Breakout dan Emas, BTC Turun",
-   "x": "Timmer dari Fidelity mengatakan pengetatan The Fed telah mengurangi dorongan mudah uang saat dolar mengalami breakout dan emas turun.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/the-fed-pengetatan-dolar-breakout-emas-bitcoin",
-   "img": "https://assets.beincrypto.com/img/zmVFCjO6r4Rd708TtrF2rH-mPnc=/smart/41fd2ed8fb0c418c998a6ef9f3b16386",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-20T08:55:05"
-  },
-  {
-   "id": 9780,
-   "k": "tokenisasi",
-   "cat": "Tokenisasi",
-   "t": "Carry trade Bitcoin bisa kalahkan obligasi negara pada 2027, prediksi Sygnum",
-   "x": "Sygnum memprediksi strategi carry trade Bitcoin berpotensi memberikan imbal hasil lebih tinggi daripada obligasi negara AS pada 2027. Prediksi ini didasarkan pada penurunan tajam biaya pendanaan yang membuat strategi tersebut kurang menarik di 2026.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R6WEJ8WD3YY7VF1JPW7MH8/sponsor-screen-traid-bitcoin.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-19T06:00:00"
   },
   {
    "id": 9887,
@@ -376,10 +320,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/emas-perak-kehilangan-1-triliun-the-fed-naikkan-suku-bunga",
    "img": "https://assets.beincrypto.com/img/E0HDdtEYsiGuJqsPk2xSri6mP18=/smart/197b2d76561b48a39329ef374e49da9e",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-20T05:00:00"
+  },
+  {
+   "id": 9780,
+   "k": "tokenisasi",
+   "cat": "Tokenisasi",
+   "t": "Carry trade Bitcoin bisa kalahkan obligasi negara pada 2027, prediksi Sygnum",
+   "x": "Sygnum memprediksi strategi carry trade Bitcoin berpotensi memberikan imbal hasil lebih tinggi daripada obligasi negara AS pada 2027. Prediksi ini didasarkan pada penurunan tajam biaya pendanaan yang membuat strategi tersebut kurang menarik di 2026.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R6WEJ8WD3YY7VF1JPW7MH8/sponsor-screen-traid-bitcoin.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-19T06:00:00"
   },
   {
    "id": 9781,
@@ -390,7 +348,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S3XTAVJ2EZZX3W47HHYMWA/federal-usa-state-issuer.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-19T05:27:45"
