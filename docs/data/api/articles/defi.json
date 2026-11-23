@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-vault-shutter.webp",
-   "a": "6 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-22T16:05:55"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
-   "a": "15 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-22T07:24:05"
@@ -82,7 +82,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/rlusd-balance-incentive.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T23:40:12"
@@ -110,7 +110,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg",
-   "a": "8 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-22T14:30:00"
@@ -158,18 +158,18 @@
    "published_at": "2026-11-20T15:00:30"
   },
   {
-   "id": 9921,
+   "id": 10047,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Monero terbungkus Wagyu XMR1 anjlok 99% pasca peretasan $13 juta",
-   "x": "Pendiri Wagyu berjanji mengembalikan dana setelah peretas menjual token XMR1 Wrapped Monero dalam eksploitasi senilai $13 juta. Peristiwa ini menimbulkan kekhawatiran keamanan di pasar DeFi.",
+   "t": "Eksploitasi $2 juta picu penjarahan $3,7 juta dari jembatan Fusionist",
+   "x": "Seorang pedagang berhasil mengubah modal $50 menjadi hampir $17.700 setelah eksploitasi pada jembatan ACE milik Fusionist. Insiden ini menyoroti risiko keamanan dalam protokol DeFi dan dampaknya pada likuiditas.",
    "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
-   "a": "2 hari lalu",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-22-2026-06_14_06-PM_clean.png",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-20T16:11:22"
+   "published_at": "2026-11-22T23:17:08"
   },
   {
    "id": 9897,
@@ -184,6 +184,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T06:30:45"
+  },
+  {
+   "id": 9921,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Monero terbungkus Wagyu XMR1 anjlok 99% pasca peretasan $13 juta",
+   "x": "Pendiri Wagyu berjanji mengembalikan dana setelah peretas menjual token XMR1 Wrapped Monero dalam eksploitasi senilai $13 juta. Peristiwa ini menimbulkan kekhawatiran keamanan di pasar DeFi.",
+   "w": "The Block",
+   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-20T16:11:22"
   }
  ]
 }

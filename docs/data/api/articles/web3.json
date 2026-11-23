@@ -1,8 +1,22 @@
 {
- "total": 3,
+ "total": 4,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 10048,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Pemeriksaan memori baru Solana bisa sebabkan transaksi aplikasi lama gagal",
+   "x": "Pembaruan pada Solana berpotensi mengganggu transaksi aplikasi lama akibat pemeriksaan memori baru. Perubahan ini juga akan menghapus salinan data validator.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/solanas-new-memory-checks-could-make-some-older-app-transactions-fail",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-code-go-gauge.webp",
+   "a": "20 menit lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-23T03:05:58"
+  },
   {
    "id": 9862,
    "k": "web3",
@@ -12,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/roadmap-solana-2027-dampak-harga-sol",
    "img": "https://assets.beincrypto.com/img/pTgq0zR8h3wpVbfdAqfDoPScmA8=/smart/6825fc37999542d3be4f188982a2147b",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-19T23:25:08"
@@ -26,7 +40,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ledger-wallet-exam-loupe-1.webp",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-20T00:40:28"
@@ -40,7 +54,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/wagyu-shared-deployer-key.webp",
-   "a": "3 jam lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-22T19:05:03"
