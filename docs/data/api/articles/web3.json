@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -18,6 +18,20 @@
    "published_at": "2026-11-23T03:05:58"
   },
   {
+   "id": 10280,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Apakah Wall Street Berikutnya? CIA dan Kementerian Keuangan Diserang Siber di Hari yang Sama",
+   "x": "Peretas menyerang jaringan intelijen CIA dan FinCEN milik Departemen Keuangan hanya dalam beberapa jam. Ini artinya bagi bank.",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/cia-treasury-fincen-serangan-siber-di-hari-yang-sama",
+   "img": "https://assets.beincrypto.com/img/mtxODQnpeXD0vpPHp4cZPrkV3aw=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-25T13:42:27"
+  },
+  {
    "id": 10075,
    "k": "web3",
    "cat": "Web3",
@@ -26,24 +40,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-23T135739.008.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-23T11:22:51"
-  },
-  {
-   "id": 10176,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ethereum Foundation Memilih AI daripada Quantum. Ini yang Ditinggalkan Holder",
-   "x": "Ethereum telah bertahun-tahun bersiap menghadapi komputer kuantum. Sekarang, Ethereum Foundation (EF) menilai kecerdasan buatan (AI) justru menjadi ancaman yang lebih mendesak bagi keamanan jaringan. Hal ini membuat…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ethereum-foundation-ancaman-keamanan-ai-dan-kuantum",
-   "img": "https://assets.beincrypto.com/img/kFEeyMIpzfVQ7grbB5VZDNiBAjc=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-24T06:05:45"
   },
   {
    "id": 10246,
@@ -54,7 +54,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "10 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T17:43:03"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83RJPB5W0JGE4R8CY2NR656/hi-how-to-identify-crypto-scams-ads-on-social-media.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-23T09:05:44"
@@ -82,7 +82,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/awas-480-web-iklan-jahat-bisa-bobol-iphone-dan-incar-dompet-kripto",
    "img": null,
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-23T07:00:19"
@@ -102,6 +102,20 @@
    "published_at": "2026-11-22T19:05:03"
   },
   {
+   "id": 10176,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ethereum Foundation Memilih AI daripada Quantum. Ini yang Ditinggalkan Holder",
+   "x": "Ethereum telah bertahun-tahun bersiap menghadapi komputer kuantum. Sekarang, Ethereum Foundation (EF) menilai kecerdasan buatan (AI) justru menjadi ancaman yang lebih mendesak bagi keamanan jaringan. Hal ini membuat…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ethereum-foundation-ancaman-keamanan-ai-dan-kuantum",
+   "img": "https://assets.beincrypto.com/img/kFEeyMIpzfVQ7grbB5VZDNiBAjc=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-24T06:05:45"
+  },
+  {
    "id": 10219,
    "k": "web3",
    "cat": "Web3",
@@ -110,10 +124,52 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-dv455013-scaled.jpg",
-   "a": "11 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T16:51:21"
+  },
+  {
+   "id": 10249,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "CertiK latih penyidik Interpol lacak dan bekukan aset kripto curian",
+   "x": "Perusahaan keamanan blockchain CertiK melatih petugas kepolisian dari berbagai negara di Asia dan Pasifik Selatan. Pelatihan ini berfokus pada teknik pelacakan dan pembekuan aset kripto yang dicuri melalui studi kasus nyata.",
+   "w": "Decrypt",
+   "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-24T13:46:03"
+  },
+  {
+   "id": 10298,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Senat Prancis tolak persyaratan pengungkapan dompet kripto 100.000 euro",
+   "x": "Senat Prancis menolak proposal untuk mewajibkan pengungkapan kepemilikan dompet kripto di atas 100.000 euro. Langkah ini menunjukkan adanya pertimbangan dalam regulasi aset kripto di Eropa.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88YZH1Y4T5PBK7RDG4Q0MK6/hi-france-aml-law-kicks-in.jpg",
+   "a": "4 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-25T09:58:12"
+  },
+  {
+   "id": 10274,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ansem klaim wallet diretas setelah jual 87 juta token ANSEM",
+   "x": "Penjualan besar token ANSEM berasal dari dompet Solana yang teridentifikasi publik, namun klaim peretasan oleh Ansem menimbulkan pertanyaan. Data on-chain tidak sepenuhnya mendukung narasi tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pump-wallet-trade-trail.webp",
+   "a": "17 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-24T21:30:15"
   },
   {
    "id": 10099,
@@ -130,34 +186,6 @@
    "published_at": "2026-11-23T19:49:30"
   },
   {
-   "id": 10249,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "CertiK latih penyidik Interpol lacak dan bekukan aset kripto curian",
-   "x": "Perusahaan keamanan blockchain CertiK melatih petugas kepolisian dari berbagai negara di Asia dan Pasifik Selatan. Pelatihan ini berfokus pada teknik pelacakan dan pembekuan aset kripto yang dicuri melalui studi kasus nyata.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg",
-   "a": "14 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T13:46:03"
-  },
-  {
-   "id": 10274,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ansem klaim wallet diretas setelah jual 87 juta token ANSEM",
-   "x": "Penjualan besar token ANSEM berasal dari dompet Solana yang teridentifikasi publik, namun klaim peretasan oleh Ansem menimbulkan pertanyaan. Data on-chain tidak sepenuhnya mendukung narasi tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pump-wallet-trade-trail.webp",
-   "a": "6 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T21:30:15"
-  },
-  {
    "id": 10132,
    "k": "web3",
    "cat": "Web3",
@@ -166,7 +194,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-2026-11-23T161750.489.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-23T13:54:54"
@@ -180,7 +208,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ansem-meme-coin-plunges-wallet-hack",
    "img": "https://assets.beincrypto.com/img/1pl94r0Rzz_M4IsJk-5Wdn5-grI=/smart/0fd1c473a35f44198d4f53b05c2705b4",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-24T11:15:04"

@@ -1,8 +1,22 @@
 {
- "total": 12,
+ "total": 13,
  "limit": 60,
  "offset": 0,
  "articles": [
+  {
+   "id": 10292,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Ukraina sahkan RUU legalisasi kripto dan pajak keuntungan 23%",
+   "x": "Parlemen Ukraina menyetujui undang-undang yang mengatur aset kripto setelah tiga tahun pembahasan. Aturan baru ini akan berlaku mulai Juli 2027, menandai langkah besar dalam regulasi kripto di negara tersebut.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png",
+   "a": "1 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-25T13:02:09"
+  },
   {
    "id": 10231,
    "k": "regulasi",
@@ -12,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/hong-kong-wants-banks-to-secure-new-approval-before-holding-customers-crypto",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/hong-kong-custody-key.webp",
-   "a": "9 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T19:00:30"
@@ -26,24 +40,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-2212002201-594x594-1.jpg",
-   "a": "7 jam lalu",
+   "a": "17 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T20:53:14"
-  },
-  {
-   "id": 10038,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Biliuner Bill Ackman peringatkan The Fed akan buat 'kesalahan' suku bunga Desember",
-   "x": "Biliuner Bill Ackman memperingatkan The Fed kemungkinan akan salah langkah dalam keputusan suku bunga Desember. Pasar dan ekonom memprediksi kenaikan 25 basis poin.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-23T02:47:39"
   },
   {
    "id": 10188,
@@ -68,10 +68,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/huawei-dinyatakan-bersalah-atas-rahasia-dagang-as",
    "img": "https://assets.beincrypto.com/img/QVoCU4WQ-ouklfNPmYG8rehoMSQ=/smart/58e43e6a121f4cf99537d3ad81892eee",
-   "a": "5 jam lalu",
+   "a": "16 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-24T22:33:20"
+  },
+  {
+   "id": 10038,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Biliuner Bill Ackman peringatkan The Fed akan buat 'kesalahan' suku bunga Desember",
+   "x": "Biliuner Bill Ackman memperingatkan The Fed kemungkinan akan salah langkah dalam keputusan suku bunga Desember. Pasar dan ekonom memprediksi kenaikan 25 basis poin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-23T02:47:39"
   },
   {
    "id": 10233,
@@ -82,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/us-moves-to-seize-1-1-billion-from-binance-hackers-without-accessing-their-wallets",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/frozen-usdc-court-evidence.webp",
-   "a": "11 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T16:50:10"
@@ -96,24 +110,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/new-york-scaled-e1795572643523.jpg",
-   "a": "1 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T02:46:14"
-  },
-  {
-   "id": 10003,
-   "k": "regulasi",
-   "cat": "Regulasi",
-   "t": "Chainflip Konfirmasi Peretasan US$12 Juta, Tawarkan Imbalan 10% ke Penyerang",
-   "x": "Protokol cross-chain Chainflip mengonfirmasi kerugian US$12 juta akibat peretasan. Perusahaan menawarkan 10% dari dana curian sebagai imbalan jika pelaku mengembalikan sisanya, dengan janji mencabut tuntutan hukum.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-22T05:28:43"
   },
   {
    "id": 10068,
@@ -124,10 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/bitunix-exchange-gabung-codevasp",
    "img": "https://assets.beincrypto.com/img/QQn6H5AdWUFSL_-N2WtvE9ydEAA=/smart/52519319986a4e8e937e640daebc05c0",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-23T07:08:30"
+  },
+  {
+   "id": 10301,
+   "k": "regulasi",
+   "cat": "Regulasi",
+   "t": "Rancangan UU Kripto Korea Selatan bisa dorong perlombaan stablecoin di luar penerbitan token",
+   "x": "Rancangan undang-undang aset kripto di Korea Selatan berpotensi mendorong inovasi stablecoin yang tidak hanya terbatas pada penerbitan token. Aturan ini juga akan membuka peluang bagi perusahaan teknologi untuk terlibat dalam penerbitan stablecoin.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-25T06:54:59"
   },
   {
    "id": 10153,
@@ -166,7 +180,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/korea.jpg",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T11:25:24"
