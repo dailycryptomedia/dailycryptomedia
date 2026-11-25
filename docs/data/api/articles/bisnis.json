@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/feds-survey-finds-demand-for-a-holiday-cash-backstop",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fed-holiday-discount-window.webp",
-   "a": "10 jam lalu",
+   "a": "19 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T04:20:06"
@@ -26,7 +26,7 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-7.png",
-   "a": "11 menit lalu",
+   "a": "8 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T14:35:20"
@@ -40,7 +40,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T18:36:03"
@@ -72,6 +72,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T09:50:23"
+  },
+  {
+   "id": 10366,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Kemitraan bank Ripple buka jalan adopsi XRP di Turki",
+   "x": "Ripple menempatkan perangkat lunak kustodinya di Yapı Kredi, membuka potensi adopsi XRP. Namun, jalur konversi lira ke XRP yang dapat ditarik masih belum terkonfirmasi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/yapi-kredi-vault-gate.webp",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-25T20:10:29"
   }
  ]
 }
