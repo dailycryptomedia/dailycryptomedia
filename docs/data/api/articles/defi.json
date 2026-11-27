@@ -1,22 +1,8 @@
 {
- "total": 15,
+ "total": 14,
  "limit": 60,
  "offset": 0,
  "articles": [
-  {
-   "id": 10165,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pendapatan Staking BitMine Hilang Rp9,8 T Akibat Penurunan Nilai Ethereum",
-   "x": "Perusahaan BitMine mengalami kerugian nilai aset kripto Ethereum hingga $655 juta dalam seminggu, menghapus potensi pendapatan staking selama hampir tiga tahun. Penurunan drastis ini terjadi meski perusahaan menambah kepemilikan ETH.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitmines-655-million-ethereum-hit-wipes-out-nearly-three-years-of-staking-income",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitmine-treasury-shorter-shadow.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T11:00:25"
-  },
   {
    "id": 10240,
    "k": "defi",
@@ -40,10 +26,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/tether-biaya-20-persen-usdt-dibekukan",
    "img": "https://assets.beincrypto.com/img/G-1QhXqulBe78_t-2JXuivxaifs=/smart/56853944852f42d39ce0cf3feb57a7ce",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-25T10:23:37"
+  },
+  {
+   "id": 10380,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Lido perketat penalti staking Ethereum, operator dapat validator lebih besar",
+   "x": "Lido memperketat aturan penalti bagi operator validator Ethereum seiring dengan akses yang lebih besar ke validator skala besar. Perubahan ini bertujuan meningkatkan keamanan dan stabilitas jaringan.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-operator-bond-repair.webp",
+   "a": "kemarin",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-26T01:50:48"
   },
   {
    "id": 10395,
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png",
-   "a": "12 jam lalu",
+   "a": "22 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-26T20:05:18"
@@ -82,24 +82,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/pablo-merchan-montes-7-pON5wur9c-unsplash-scaled.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T14:00:00"
-  },
-  {
-   "id": 10380,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Lido perketat penalti staking Ethereum, operator dapat validator lebih besar",
-   "x": "Lido memperketat aturan penalti bagi operator validator Ethereum seiring dengan akses yang lebih besar ke validator skala besar. Perubahan ini bertujuan meningkatkan keamanan dan stabilitas jaringan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-operator-bond-repair.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-26T01:50:48"
   },
   {
    "id": 10355,
@@ -124,10 +110,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/todd-boehly-imbal-hasil-treasury-kredit-bermasalah",
    "img": "https://assets.beincrypto.com/img/j8Mfwe8UFgJL_1fRQ777T0akkPE=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "23 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-26T09:22:39"
+  },
+  {
+   "id": 10497,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "USDT pimpin pinjaman di enam protokol DeFi yang diawasi regulator Eropa",
+   "x": "Regulator perbankan Eropa menyoroti dominasi USDT dalam pinjaman di protokol DeFi dan menyerukan penilaian ulang perlindungan bagi perusahaan kripto. Hal ini relevan bagi investor yang menggunakan layanan DeFi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/usdt-leads-borrowing-on-four-of-six-defi-protocols-examined-by-europes-banking-watchdog",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-lending-snapshot-film.webp",
+   "a": "14 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-27T04:20:14"
   },
   {
    "id": 10406,
@@ -152,38 +152,10 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-1-scaled.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T11:53:31"
-  },
-  {
-   "id": 10497,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "USDT pimpin pinjaman di enam protokol DeFi yang diawasi regulator Eropa",
-   "x": "Regulator perbankan Eropa menyoroti dominasi USDT dalam pinjaman di protokol DeFi dan menyerukan penilaian ulang perlindungan bagi perusahaan kripto. Hal ini relevan bagi investor yang menggunakan layanan DeFi.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/usdt-leads-borrowing-on-four-of-six-defi-protocols-examined-by-europes-banking-watchdog",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-lending-snapshot-film.webp",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-27T04:20:14"
-  },
-  {
-   "id": 10198,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pemberi pinjaman Sky usulkan buyback $50 juta untuk tarik dana stUSDS",
-   "x": "Protokol Sky mengusulkan pembelian kembali tokennya senilai hingga $50 juta untuk memfasilitasi penarikan dana stUSDS. Langkah ini diharapkan dapat membebaskan dana bagi deposan yang ingin menarik aset mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86T456D4TB4XDA273PK6Z1E/hi-dao-governance-models-crypto.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T13:43:46"
   },
   {
    "id": 10314,
@@ -198,6 +170,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T06:50:47"
+  },
+  {
+   "id": 10198,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pemberi pinjaman Sky usulkan buyback $50 juta untuk tarik dana stUSDS",
+   "x": "Protokol Sky mengusulkan pembelian kembali tokennya senilai hingga $50 juta untuk memfasilitasi penarikan dana stUSDS. Langkah ini diharapkan dapat membebaskan dana bagi deposan yang ingin menarik aset mereka.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86T456D4TB4XDA273PK6Z1E/hi-dao-governance-models-crypto.jpg",
+   "a": "3 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-24T13:43:46"
   },
   {
    "id": 10302,

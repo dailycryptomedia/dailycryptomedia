@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -26,7 +26,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-upgrade-shared-workbench.webp",
-   "a": "2 jam lalu",
+   "a": "11 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-27T06:40:09"
@@ -54,7 +54,7 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/vitalik-buterin-ungkap-ancaman-tersembunyi-di-balik-hardware-wallet-kripto",
    "img": null,
-   "a": "2 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-27T06:00:30"
@@ -68,7 +68,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png",
-   "a": "20 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-26T12:13:59"
@@ -82,7 +82,7 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T17:43:03"
@@ -96,7 +96,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/cia-treasury-fincen-serangan-siber-di-hari-yang-sama",
    "img": "https://assets.beincrypto.com/img/mtxODQnpeXD0vpPHp4cZPrkV3aw=/smart/3ad453c2be014a8bb923ae8c0631e2f3",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-25T13:42:27"
@@ -110,7 +110,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/walmarts-black-friday-rollout-reveals-how-ai-agents-could-spend-money-without-controlling-your-wallet",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/walmart-meta-shielded-checkout.webp",
-   "a": "13 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-26T19:00:28"
@@ -124,10 +124,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-dv455013-scaled.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T16:51:21"
+  },
+  {
+   "id": 10555,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Waspada! Ini 7 Tanda Wallet Kripto Kamu Berisiko Diretas",
+   "x": "Kenali 7 tanda ancaman keamanan yang bisa menguras aset digital kamu dan cara mencegahnya sebelum terlambat.",
+   "w": "Blockchainmedia.id",
+   "url": "https://blockchainmedia.id/tanda-wallet-kripto-kamu-berisiko-diretas",
+   "img": null,
+   "a": "9 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-27T09:00:36"
   },
   {
    "id": 10298,
@@ -138,7 +152,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88YZH1Y4T5PBK7RDG4Q0MK6/hi-france-aml-law-kicks-in.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T09:58:12"
@@ -152,38 +166,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T13:46:03"
-  },
-  {
-   "id": 10176,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ethereum Foundation Memilih AI daripada Quantum. Ini yang Ditinggalkan Holder",
-   "x": "Ethereum telah bertahun-tahun bersiap menghadapi komputer kuantum. Sekarang, Ethereum Foundation (EF) menilai kecerdasan buatan (AI) justru menjadi ancaman yang lebih mendesak bagi keamanan jaringan. Hal ini membuat…",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/ethereum-foundation-ancaman-keamanan-ai-dan-kuantum",
-   "img": "https://assets.beincrypto.com/img/kFEeyMIpzfVQ7grbB5VZDNiBAjc=/smart/fe4ceb8d71be421eae1c7e31221ad8b7",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-24T06:05:45"
-  },
-  {
-   "id": 10274,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ansem klaim wallet diretas setelah jual 87 juta token ANSEM",
-   "x": "Penjualan besar token ANSEM berasal dari dompet Solana yang teridentifikasi publik, namun klaim peretasan oleh Ansem menimbulkan pertanyaan. Data on-chain tidak sepenuhnya mendukung narasi tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pump-wallet-trade-trail.webp",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T21:30:15"
   },
   {
    "id": 10415,
@@ -200,6 +186,34 @@
    "published_at": "2026-11-26T08:38:26"
   },
   {
+   "id": 10274,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ansem klaim wallet diretas setelah jual 87 juta token ANSEM",
+   "x": "Penjualan besar token ANSEM berasal dari dompet Solana yang teridentifikasi publik, namun klaim peretasan oleh Ansem menimbulkan pertanyaan. Data on-chain tidak sepenuhnya mendukung narasi tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pump-wallet-trade-trail.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-24T21:30:15"
+  },
+  {
+   "id": 10523,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ulasan Bron Wallet 2027: Cara Aman untuk Mengelola dan Membagikan Warisan Aset Kripto",
+   "x": "Setelah banyak kejadian peretasan dan insiden keamanan besar di tahun 2026, para pengguna aset kripto tentu semakin khawatir akan keamanan aset mereka. Kini, banyak pengguna mulai beralih menggunakan wallet self-custody…",
+   "w": "BeInCrypto Indonesia",
+   "url": "https://id.beincrypto.com/ulasan-bron-wallet-2027",
+   "img": "https://assets.beincrypto.com/img/pmN89KOT46yOFawPeHizO0_rvo8=/smart/73fe732e1d8242bc97d1f78ff799c601",
+   "a": "7 jam lalu",
+   "r": "2 menit",
+   "translated": false,
+   "published_at": "2026-11-27T11:21:07"
+  },
+  {
    "id": 10213,
    "k": "web3",
    "cat": "Web3",
@@ -208,7 +222,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ansem-meme-coin-plunges-wallet-hack",
    "img": "https://assets.beincrypto.com/img/1pl94r0Rzz_M4IsJk-5Wdn5-grI=/smart/0fd1c473a35f44198d4f53b05c2705b4",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-24T11:15:04"
