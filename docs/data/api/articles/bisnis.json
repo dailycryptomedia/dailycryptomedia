@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 8,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/feds-survey-finds-demand-for-a-holiday-cash-backstop",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/fed-holiday-discount-window.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T04:20:06"
@@ -26,7 +26,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/coinbase-ceo-anthropic-spacex-ipo-uang",
    "img": "https://assets.beincrypto.com/img/308bJ1Ky_lnOyoN8UUyhwTeI7F8=/smart/b4fb9b1676fb4feaa750abefd0991070",
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-26T02:10:04"
@@ -58,6 +58,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T18:36:03"
+  },
+  {
+   "id": 10480,
+   "k": "bisnis",
+   "cat": "Bisnis",
+   "t": "Grup keamanan kripto Jepang gandeng SEAL percepat respons peretasan",
+   "x": "Grup keamanan aset digital Jepang bekerja sama dengan SEAL untuk mempercepat respons terhadap peretasan. Langkah ini diambil setelah insiden kebocoran data pelanggan bursa kripto.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg",
+   "a": "3 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-27T05:22:36"
   },
   {
    "id": 10166,

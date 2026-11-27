@@ -1,21 +1,21 @@
 {
- "total": 18,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 10147,
+   "id": 10165,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Peminjam XRP hadapi titik kritis $207.500 saat satu vault dominasi pasar $8 juta",
-   "x": "Pasar pinjaman XRP menghadapi titik kritis dengan dominasi satu vault pada pasar senilai $8 juta. Hal ini dapat memengaruhi suku bunga kredit dan pinjaman baru bagi peminjam XRP.",
+   "t": "Pendapatan Staking BitMine Hilang Rp9,8 T Akibat Penurunan Nilai Ethereum",
+   "x": "Perusahaan BitMine mengalami kerugian nilai aset kripto Ethereum hingga $655 juta dalam seminggu, menghapus potensi pendapatan staking selama hampir tiga tahun. Penurunan drastis ini terjadi meski perusahaan menambah kepemilikan ETH.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-market",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/sentora-rlusd-vault-supply.webp",
+   "url": "https://cryptoslate.com/bitmines-655-million-ethereum-hit-wipes-out-nearly-three-years-of-staking-income",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitmine-treasury-shorter-shadow.webp",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-24T00:50:30"
+   "published_at": "2026-11-24T11:00:25"
   },
   {
    "id": 10240,
@@ -30,20 +30,6 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T20:36:02"
-  },
-  {
-   "id": 10107,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Ethereum Foundation gandakan tim keamanan protokol jelang pembaruan",
-   "x": "Ethereum Foundation memperkuat tim keamanan protokolnya untuk menghadapi pembaruan yang lebih kompleks dari The Merge. Peningkatan kecepatan pengembangan berpotensi memunculkan bug.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg",
-   "a": "2 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T00:36:26"
   },
   {
    "id": 10283,
@@ -68,10 +54,24 @@
    "w": "Blockchainmedia.id",
    "url": "https://blockchainmedia.id/ngaku-kriptonya-dicuri-orang-ini-malah-curhat-ke-hacker",
    "img": null,
-   "a": "22 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-26T02:00:31"
+  },
+  {
+   "id": 10450,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Jepang pertimbangkan pengawasan ketat DeFi dan dompet penyimpanan mandiri",
+   "x": "Regulator keuangan Jepang sedang menjajaki langkah-langkah untuk mengendalikan risiko pendanaan ilegal. Potensi pembatasan akses ke layanan DeFi dan dompet penyimpanan mandiri sedang dipertimbangkan.",
+   "w": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png",
+   "a": "12 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-26T20:05:18"
   },
   {
    "id": 10226,
@@ -88,18 +88,18 @@
    "published_at": "2026-11-24T14:00:00"
   },
   {
-   "id": 10165,
+   "id": 10380,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pendapatan Staking BitMine Hilang Rp9,8 T Akibat Penurunan Nilai Ethereum",
-   "x": "Perusahaan BitMine mengalami kerugian nilai aset kripto Ethereum hingga $655 juta dalam seminggu, menghapus potensi pendapatan staking selama hampir tiga tahun. Penurunan drastis ini terjadi meski perusahaan menambah kepemilikan ETH.",
+   "t": "Lido perketat penalti staking Ethereum, operator dapat validator lebih besar",
+   "x": "Lido memperketat aturan penalti bagi operator validator Ethereum seiring dengan akses yang lebih besar ke validator skala besar. Perubahan ini bertujuan meningkatkan keamanan dan stabilitas jaringan.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/bitmines-655-million-ethereum-hit-wipes-out-nearly-three-years-of-staking-income",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/bitmine-treasury-shorter-shadow.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-operator-bond-repair.webp",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-24T11:00:25"
+   "published_at": "2026-11-26T01:50:48"
   },
   {
    "id": 10355,
@@ -116,20 +116,6 @@
    "published_at": "2026-11-25T21:16:02"
   },
   {
-   "id": 10450,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Jepang pertimbangkan pengawasan ketat DeFi dan dompet penyimpanan mandiri",
-   "x": "Regulator keuangan Jepang sedang menjajaki langkah-langkah untuk mengendalikan risiko pendanaan ilegal. Potensi pembatasan akses ke layanan DeFi dan dompet penyimpanan mandiri sedang dipertimbangkan.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png",
-   "a": "4 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-26T20:05:18"
-  },
-  {
    "id": 10414,
    "k": "defi",
    "cat": "DeFi",
@@ -138,52 +124,24 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/todd-boehly-imbal-hasil-treasury-kredit-bermasalah",
    "img": "https://assets.beincrypto.com/img/j8Mfwe8UFgJL_1fRQ777T0akkPE=/smart/aa442ed78adf43d3832fc7f59d79a29b",
-   "a": "14 jam lalu",
+   "a": "23 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-26T09:22:39"
   },
   {
-   "id": 10127,
+   "id": 10406,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pendiri Sky pertimbangkan jual SKY untuk bayar utang $77 juta",
-   "x": "Pendiri proyek Sky mempertimbangkan menjual aset token SKY untuk melunasi utang sebesar $77 juta. Keputusan ini diambil karena likuiditas pada pool pinjaman stUSDS telah habis.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/workflow_V2-COMPANY-Article-cover-image_2026-11-23_17-14-17.png",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-23T17:31:50"
-  },
-  {
-   "id": 10380,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Lido perketat penalti staking Ethereum, operator dapat validator lebih besar",
-   "x": "Lido memperketat aturan penalti bagi operator validator Ethereum seiring dengan akses yang lebih besar ke validator skala besar. Perubahan ini bertujuan meningkatkan keamanan dan stabilitas jaringan.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/lido-operator-bond-repair.webp",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-26T01:50:48"
-  },
-  {
-   "id": 10111,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "BTCS lepas $44 juta ETH untuk kurangi utang DeFi di tengah penurunan pasar",
-   "x": "BTCS menjual sebagian besar kepemilikan Ether-nya untuk mengurangi utang DeFi akibat penurunan pasar aset kripto. Langkah ini diambil untuk mengelola risiko leverage di tengah volatilitas pasar.",
+   "t": "Sky usulkan pemungutan suara darurat transfer $25 juta di tengah tekanan likuiditas",
+   "x": "Sky mempercepat pemungutan suara untuk transfer dana darurat guna mengatasi masalah likuiditas. Keputusan ini diambil di luar jadwal normal untuk merespons kondisi pasar yang mendesak.",
    "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84VFSZP83BETXS7WKZ3GZEZ/hi-risk-vs-reward-investing-in-ethereum.png",
-   "a": "3 hari lalu",
+   "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
+   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B3KH98GJMD1SZMNW2EZ40Z/coinlocked.jpg",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-23T19:35:06"
+   "published_at": "2026-11-26T05:29:26"
   },
   {
    "id": 10228,
@@ -200,32 +158,18 @@
    "published_at": "2026-11-24T11:53:31"
   },
   {
-   "id": 10314,
+   "id": 10497,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Pengembalian dana pasca-peretasan Chainflip membuat penyedia likuiditas hadapi masalah finansial kedua",
-   "x": "Penyedia likuiditas di platform Chainflip menghadapi tantangan finansial baru setelah proses pengembalian dana pasca-peretasan. Sebagian aset mereka mungkin masih tertahan di akun Chainflip.",
+   "t": "USDT pimpin pinjaman di enam protokol DeFi yang diawasi regulator Eropa",
+   "x": "Regulator perbankan Eropa menyoroti dominasi USDT dalam pinjaman di protokol DeFi dan menyerukan penilaian ulang perlindungan bagi perusahaan kripto. Hal ini relevan bagi investor yang menggunakan layanan DeFi.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/chainflip-refund-detachable-slip.webp",
-   "a": "kemarin",
+   "url": "https://cryptoslate.com/usdt-leads-borrowing-on-four-of-six-defi-protocols-examined-by-europes-banking-watchdog",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-lending-snapshot-film.webp",
+   "a": "4 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-25T06:50:47"
-  },
-  {
-   "id": 10406,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Sky usulkan pemungutan suara darurat transfer $25 juta di tengah tekanan likuiditas",
-   "x": "Sky mempercepat pemungutan suara untuk transfer dana darurat guna mengatasi masalah likuiditas. Keputusan ini diambil di luar jadwal normal untuk merespons kondisi pasar yang mendesak.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B3KH98GJMD1SZMNW2EZ40Z/coinlocked.jpg",
-   "a": "18 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-26T05:29:26"
+   "published_at": "2026-11-27T04:20:14"
   },
   {
    "id": 10198,
@@ -242,6 +186,20 @@
    "published_at": "2026-11-24T13:43:46"
   },
   {
+   "id": 10314,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pengembalian dana pasca-peretasan Chainflip membuat penyedia likuiditas hadapi masalah finansial kedua",
+   "x": "Penyedia likuiditas di platform Chainflip menghadapi tantangan finansial baru setelah proses pengembalian dana pasca-peretasan. Sebagian aset mereka mungkin masih tertahan di akun Chainflip.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/chainflip-refund-detachable-slip.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-25T06:50:47"
+  },
+  {
    "id": 10302,
    "k": "defi",
    "cat": "DeFi",
@@ -250,7 +208,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-laptop-sensor-switch.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T05:32:55"
