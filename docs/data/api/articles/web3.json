@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -12,7 +12,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/shiba-inu-shibarium-peningkatan-privasi",
    "img": "https://assets.beincrypto.com/img/Dq8HxoBAbRFqclC3mjbdVttMqr4=/smart/f3e715951b574d798f98aebc671b2637",
-   "a": "17 jam lalu",
+   "a": "kemarin",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-25T22:30:54"
@@ -26,10 +26,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-1642600681-170667a-e1795658386161.jpg",
-   "a": "13 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-26T02:22:43"
+  },
+  {
+   "id": 10466,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Peluncuran Black Friday Walmart tunjukkan AI bisa belanja tanpa kendalikan dompet Anda",
+   "x": "Walmart memungkinkan pelanggan berbelanja menggunakan kartu yang tersimpan dan menetapkan batas pengeluaran melalui akun mereka. Ini mengindikasikan potensi penggunaan agen AI untuk transaksi keuangan pribadi.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/walmarts-black-friday-rollout-reveals-how-ai-agents-could-spend-money-without-controlling-your-wallet",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/walmart-meta-shielded-checkout.webp",
+   "a": "5 jam lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-26T19:00:28"
   },
   {
    "id": 10399,
@@ -40,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png",
-   "a": "3 jam lalu",
+   "a": "12 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-26T12:13:59"
@@ -54,24 +68,10 @@
    "w": "Decrypt",
    "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
    "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T17:43:03"
-  },
-  {
-   "id": 10274,
-   "k": "web3",
-   "cat": "Web3",
-   "t": "Ansem klaim wallet diretas setelah jual 87 juta token ANSEM",
-   "x": "Penjualan besar token ANSEM berasal dari dompet Solana yang teridentifikasi publik, namun klaim peretasan oleh Ansem menimbulkan pertanyaan. Data on-chain tidak sepenuhnya mendukung narasi tersebut.",
-   "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pump-wallet-trade-trail.webp",
-   "a": "kemarin",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T21:30:15"
   },
   {
    "id": 10280,
@@ -96,10 +96,24 @@
    "w": "The Block",
    "url": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
    "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-dv455013-scaled.jpg",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-24T16:51:21"
+  },
+  {
+   "id": 10274,
+   "k": "web3",
+   "cat": "Web3",
+   "t": "Ansem klaim wallet diretas setelah jual 87 juta token ANSEM",
+   "x": "Penjualan besar token ANSEM berasal dari dompet Solana yang teridentifikasi publik, namun klaim peretasan oleh Ansem menimbulkan pertanyaan. Data on-chain tidak sepenuhnya mendukung narasi tersebut.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/pump-wallet-trade-trail.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-24T21:30:15"
   },
   {
    "id": 10298,
@@ -166,7 +180,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/ethereum-whale-2014-ico-jual-eth",
    "img": "https://assets.beincrypto.com/img/-FojxO6exVTZJYwEhMNfsFBNeao=/smart/bdae568109f2481b8ffa7ecef827503a",
-   "a": "6 jam lalu",
+   "a": "15 jam lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-26T08:38:26"
@@ -180,7 +194,7 @@
    "w": "BeInCrypto Indonesia",
    "url": "https://id.beincrypto.com/trezor-wallet-terkuras-iphone-17-keamanan",
    "img": "https://assets.beincrypto.com/img/-CAaxiJWA_QtVTutDN0lv5nbJlI=/smart/6eeb35ae22b34049964ee8c47561b2a4",
-   "a": "2 hari lalu",
+   "a": "3 hari lalu",
    "r": "2 menit",
    "translated": false,
    "published_at": "2026-11-23T19:49:30"
