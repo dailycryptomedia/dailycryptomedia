@@ -1,21 +1,21 @@
 {
- "total": 14,
+ "total": 11,
  "limit": 60,
  "offset": 0,
  "articles": [
   {
-   "id": 10240,
+   "id": 10355,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ethereum Foundation: AI Ancaman Lebih Mendesak dari Komputasi Kuantum",
-   "x": "Ethereum Foundation meningkatkan tim keamanan protokolnya karena kemajuan AI dinilai mengancam keamanan triliunan dolar aset kripto. Perusahaan memprioritaskan perombakan kriptografi.",
+   "t": "Peretasan 1Password tak sentuh brankas, tapi email bisa terancam",
+   "x": "Peretas membobol akun GitHub karyawan untuk mengakses data pelanggan 1Password. Namun, perusahaan memastikan isi brankas dan kunci enkripsi tidak terekspos.",
    "w": "Decrypt",
-   "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
+   "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+   "img": "https://cdn.decrypt.co/wp-content/uploads/2023/07/scammers-impersonators-gID_7.jpeg",
    "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-24T20:36:02"
+   "published_at": "2026-11-25T21:16:02"
   },
   {
    "id": 10283,
@@ -68,38 +68,10 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png",
-   "a": "22 jam lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-26T20:05:18"
-  },
-  {
-   "id": 10226,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Dana HINC Neuberger Berman bawa kredit imbal hasil tinggi ke Aave",
-   "x": "Dana tokenisasi Neuberger Berman kini tersedia di platform pinjaman institusional Aave, memungkinkan investor akses ke kredit imbal hasil tinggi. Langkah ini memperluas integrasi aset dunia nyata ke dalam DeFi.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/pablo-merchan-montes-7-pON5wur9c-unsplash-scaled.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T14:00:00"
-  },
-  {
-   "id": 10355,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Peretasan 1Password tak sentuh brankas, tapi email bisa terancam",
-   "x": "Peretas membobol akun GitHub karyawan untuk mengakses data pelanggan 1Password. Namun, perusahaan memastikan isi brankas dan kunci enkripsi tidak terekspos.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2023/07/scammers-impersonators-gID_7.jpeg",
    "a": "kemarin",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-25T21:16:02"
+   "published_at": "2026-11-26T20:05:18"
   },
   {
    "id": 10414,
@@ -124,7 +96,7 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/usdt-leads-borrowing-on-four-of-six-defi-protocols-examined-by-europes-banking-watchdog",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-lending-snapshot-film.webp",
-   "a": "14 jam lalu",
+   "a": "21 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-27T04:20:14"
@@ -144,46 +116,18 @@
    "published_at": "2026-11-26T05:29:26"
   },
   {
-   "id": 10228,
+   "id": 10561,
    "k": "defi",
    "cat": "DeFi",
-   "t": "Ethereum Foundation perkuat tim keamanan, anggap AI lebih berisiko dari kuantum",
-   "x": "Ethereum Foundation menambah tim keamanan protokolnya karena kemajuan kecerdasan buatan (AI) menimbulkan kekhawatiran baru. Perkembangan AI dianggap lebih mendesak bagi keamanan kriptografi dan perangkat lunak dibandingkan ancaman komputasi kuantum.",
-   "w": "The Block",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
-   "img": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-1-scaled.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T11:53:31"
-  },
-  {
-   "id": 10314,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pengembalian dana pasca-peretasan Chainflip membuat penyedia likuiditas hadapi masalah finansial kedua",
-   "x": "Penyedia likuiditas di platform Chainflip menghadapi tantangan finansial baru setelah proses pengembalian dana pasca-peretasan. Sebagian aset mereka mungkin masih tertahan di akun Chainflip.",
+   "t": "Pemegang XRP hadapi pilihan: imbal hasil lebih atau tarik token",
+   "x": "Pemegang token XRP kini dihadapkan pada dua pilihan: tetap mendapatkan imbal hasil lebih tinggi melalui platform Spectra di Flare, atau menarik kembali token XRP asli mereka melalui proses penebusan terpisah.",
    "w": "CryptoSlate",
-   "url": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem",
-   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/chainflip-refund-detachable-slip.webp",
-   "a": "2 hari lalu",
+   "url": "https://cryptoslate.com/xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-back",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-redemption-pool-valve.webp",
+   "a": "5 jam lalu",
    "r": "2 menit",
    "translated": true,
-   "published_at": "2026-11-25T06:50:47"
-  },
-  {
-   "id": 10198,
-   "k": "defi",
-   "cat": "DeFi",
-   "t": "Pemberi pinjaman Sky usulkan buyback $50 juta untuk tarik dana stUSDS",
-   "x": "Protokol Sky mengusulkan pembelian kembali tokennya senilai hingga $50 juta untuk memfasilitasi penarikan dana stUSDS. Langkah ini diharapkan dapat membebaskan dana bagi deposan yang ingin menarik aset mereka.",
-   "w": "Cointelegraph",
-   "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis",
-   "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86T456D4TB4XDA273PK6Z1E/hi-dao-governance-models-crypto.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T13:43:46"
+   "published_at": "2026-11-27T20:30:25"
   },
   {
    "id": 10302,
@@ -198,6 +142,20 @@
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T05:32:55"
+  },
+  {
+   "id": 10314,
+   "k": "defi",
+   "cat": "DeFi",
+   "t": "Pengembalian dana pasca-peretasan Chainflip membuat penyedia likuiditas hadapi masalah finansial kedua",
+   "x": "Penyedia likuiditas di platform Chainflip menghadapi tantangan finansial baru setelah proses pengembalian dana pasca-peretasan. Sebagian aset mereka mungkin masih tertahan di akun Chainflip.",
+   "w": "CryptoSlate",
+   "url": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem",
+   "img": "https://cryptoslate.com/wp-content/uploads/2026/11/chainflip-refund-detachable-slip.webp",
+   "a": "2 hari lalu",
+   "r": "2 menit",
+   "translated": true,
+   "published_at": "2026-11-25T06:50:47"
   }
  ]
 }

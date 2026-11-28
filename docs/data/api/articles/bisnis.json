@@ -1,5 +1,5 @@
 {
- "total": 7,
+ "total": 5,
  "limit": 60,
  "offset": 0,
  "articles": [
@@ -46,20 +46,6 @@
    "published_at": "2026-11-25T14:35:20"
   },
   {
-   "id": 10243,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Korea Selatan cabut larangan ICO setelah hampir satu dekade",
-   "x": "Pemerintah Korea Selatan berencana mencabut larangan Initial Coin Offering (ICO) yang berlaku sejak 2017. Langkah ini memungkinkan proyek aset digital domestik untuk kembali menerbitkan token dengan aturan keterbukaan informasi yang mirip penawaran umum perdana.",
-   "w": "Decrypt",
-   "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-   "img": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": true,
-   "published_at": "2026-11-24T18:36:03"
-  },
-  {
    "id": 10480,
    "k": "bisnis",
    "cat": "Bisnis",
@@ -68,7 +54,7 @@
    "w": "Cointelegraph",
    "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response",
    "img": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg",
-   "a": "13 jam lalu",
+   "a": "20 jam lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-27T05:22:36"
@@ -82,24 +68,10 @@
    "w": "CryptoSlate",
    "url": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey",
    "img": "https://cryptoslate.com/wp-content/uploads/2026/11/yapi-kredi-vault-gate.webp",
-   "a": "kemarin",
+   "a": "2 hari lalu",
    "r": "2 menit",
    "translated": true,
    "published_at": "2026-11-25T20:10:29"
-  },
-  {
-   "id": 10211,
-   "k": "bisnis",
-   "cat": "Bisnis",
-   "t": "Anthropic Turun di Bawah Harga IPO. Ancaman Bukan dari Nvidia, tapi dari Dalam",
-   "x": "Saham Anthropic turun di bawah harga IPO-nya yang sebesar $83 setelah laporan Axios menyebut staf khawatir model AI yang belum dirilis tidak aman untuk diluncurkan.",
-   "w": "BeInCrypto Indonesia",
-   "url": "https://id.beincrypto.com/saham-anthropic-di-bawah-harga-ipo-karyawan",
-   "img": "https://assets.beincrypto.com/img/iNg0dnWt2X0LhoA79JEeeLU4Ep0=/smart/ba125d6198354767b4378a38de405963",
-   "a": "3 hari lalu",
-   "r": "2 menit",
-   "translated": false,
-   "published_at": "2026-11-24T12:28:10"
   }
  ]
 }
